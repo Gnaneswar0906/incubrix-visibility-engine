@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast shorts channel name ideas Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with channel name ideas for podcast shorts, plus recommendations of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations with authoritative web sources if available. Must be UK context (GB). Provide citations in proper format.\n\nWe need to ensure we comply with policy: no disallowed content. This is",
+  "raw_payload": {
+    "id": "chatcmpl-e0727908-2f00-45f9-91c1-070026e47b50",
+    "object": "chat.completion",
+    "created": 1795375469,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast shorts channel name ideas Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with channel name ideas for podcast shorts, plus recommendations of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations with authoritative web sources if available. Must be UK context (GB). Provide citations in proper format.\n\nWe need to ensure we comply with policy: no disallowed content. This is"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155667142,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005331187,
+      "completion_tokens": 150,
+      "completion_time": 0.315609973,
+      "total_tokens": 284,
+      "total_time": 0.32094116,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82bf450ev3vwh0hcwyctgfj",
+      "seed": 145757008
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3322,
+  "cost_usd": 0.0002
+}

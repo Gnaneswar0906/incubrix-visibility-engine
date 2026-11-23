@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"how to create faceless youtube channel using ai for free\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India. So we might mention Indian context or relevant local options. Provide step-by-step workflow, free AI tools, mention paid but free tier. Provide references with URLs.\n\nWe need to comply with policy. Provide content that is helpful. No disallowed content. We can provide suggestions. Use citations. Provide references to sources like tech blogs, YouTube channels, etc.\n\nWe should not provide copyrighted content. We can mention",
+  "raw_payload": {
+    "id": "chatcmpl-adac9393-863a-4ecb-a4b0-3602408bd9dd",
+    "object": "chat.completion",
+    "created": 1795375398,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"how to create faceless youtube channel using ai for free\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India. So we might mention Indian context or relevant local options. Provide step-by-step workflow, free AI tools, mention paid but free tier. Provide references with URLs.\n\nWe need to comply with policy. Provide content that is helpful. No disallowed content. We can provide suggestions. Use citations. Provide references to sources like tech blogs, YouTube channels, etc.\n\nWe should not provide copyrighted content. We can mention"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.315839729,
+      "prompt_tokens": 140,
+      "prompt_time": 0.007010978,
+      "completion_tokens": 150,
+      "completion_time": 0.16171255,
+      "total_tokens": 290,
+      "total_time": 0.168723528,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4315eb300",
+    "x_groq": {
+      "id": "req_01m82bcys4ek3axk59msw11wtn",
+      "seed": 116042610
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3050,
+  "cost_usd": 0.0002
+}

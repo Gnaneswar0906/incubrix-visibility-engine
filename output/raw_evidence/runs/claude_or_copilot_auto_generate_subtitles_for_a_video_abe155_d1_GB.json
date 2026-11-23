@@ -1,0 +1,43 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'auto generate subtitles for a video' in GB, popular recommendations include Vidyo.ai, CapCut, Descript. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 445
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto generate subtitles for a video' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 412
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_generate_subtitles_for_a_video_abe155_d1_GB.json"
+}

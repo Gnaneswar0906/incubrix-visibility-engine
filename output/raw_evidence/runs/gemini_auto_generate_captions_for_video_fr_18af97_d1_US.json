@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto generate captions for video free online' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 498
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your workflow with free online auto-generated video captions, you have access to some of the most powerful AI-driven tools in the industry. Depending on whether you are editing short-form content (TikTok, Reels, Shorts) or long-form videos (YouTub",
+      "cost_usd": 0.0002,
+      "latency_ms": 2889,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_18af97_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_fr_18af97_d1_US.json"
+}

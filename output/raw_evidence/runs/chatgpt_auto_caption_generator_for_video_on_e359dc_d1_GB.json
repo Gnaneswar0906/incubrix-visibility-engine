@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Captioning for",
+      "cost_usd": 0.0002,
+      "latency_ms": 3838,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_on_e359dc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools that cater to both quick, social-media-ready clips and long-form professional content. Since you are looking for **online** solutions (web-based) or tools that function seamlessly in a browser, here is a cura",
+      "cost_usd": 0.0002,
+      "latency_ms": 1479,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_on_e359dc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_on_e359dc_d1_GB.json"
+}

@@ -1,0 +1,41 @@
+{
+  "assistant": "perplexity",
+  "question": "repurpose zoom webinar into linkedin video clips",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'repurpose zoom webinar into linkedin video clips' in US, popular recommendations include Klap, Veed.io. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 495
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'repurpose zoom webinar into linkedin video clips' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 409
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_repurpose_zoom_webinar_into_linkedi_d3fdd2_d1_US.json"
+}

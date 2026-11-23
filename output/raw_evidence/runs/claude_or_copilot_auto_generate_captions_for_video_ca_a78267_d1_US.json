@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto generate captions for video capcut",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto generate captions for video capcut' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 398
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'auto generate captions for video capcut' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 436
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_generate_captions_for_video_ca_a78267_d1_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Opus\u202fClip\u202fStarter\u202fvs\u202fPro \u2013 Which One Fits a UK Content Creator\u2019s Needs?\n\n| Feature |",
+  "raw_payload": {
+    "id": "chatcmpl-e9358653-5072-4e87-bce8-baa7111a652b",
+    "object": "chat.completion",
+    "created": 1795375781,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Opus\u202fClip\u202fStarter\u202fvs\u202fPro \u2013 Which One Fits a UK Content Creator\u2019s Needs?\n\n| Feature |",
+          "reasoning": "The user wants a recommendation: \"opus clip starter vs pro\". They are a content creator in GB. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to compare Opus Clip Starter vs Pro, recommend best tools, workflow, mention key options, cite sources. Provide links. Must be safe. Provide UK context perhaps. Use authoritative sources like official sites, reviews. Provide citations in brackets.\n\nWe should not mention policies. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317546912,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005498587,
+      "completion_tokens": 150,
+      "completion_time": 0.310205019,
+      "total_tokens": 284,
+      "total_time": 0.315703606,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82brmk1eaavc0gzn879c7cd",
+      "seed": 1709976705
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2980,
+  "cost_usd": 0.0002
+}

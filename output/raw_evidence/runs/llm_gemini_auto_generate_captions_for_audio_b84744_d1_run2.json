@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For content creators in the US looking to auto-generate captions for audio and video, the current ecosystem offers powerful AI-driven tools that save hours of manual transcription. \n\nHere is a comprehensive breakdown of the best software tools, key industry options, and an efficient workflow method to streamline your content creation process.\n\n---\n\n### Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the content creation pipeline\u2014ranging from quick social media clipping to deep, text-based audio/video editing.\n\n#### 1. Descript (Best for Podcasters & Long-Form Creators)\n*   **Overview:** Descript is an industry standard for editing audio and video *through* text. If you delete a sentence in the transcript, it deletes it from the audio.\n*   **Key Features:** Highly accurate AI transcription (powered by Deepgram/proprietary tech), \"Studio Sound\" (removes background noise), filler-word removal, and dynamic caption",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US looking to auto-generate captions for audio and video, the current ecosystem offers powerful AI-driven tools that save hours of manual transcription. \n\nHere is a comprehensive breakdown of the best software tools, key industry options, and an efficient workflow method to streamline your content creation process.\n\n---\n\n### Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the content creation pipeline\u2014ranging from quick social media clipping to deep, text-based audio/video editing.\n\n#### 1. Descript (Best for Podcasters & Long-Form Creators)\n*   **Overview:** Descript is an industry standard for editing audio and video *through* text. If you delete a sentence in the transcript, it deletes it from the audio.\n*   **Key Features:** Highly accurate AI transcription (powered by Deepgram/proprietary tech), \"Studio Sound\" (removes background noise), filler-word removal, and dynamic caption",
+              "thoughtSignature": "Eo4BCosBAWkUfRPM8844+bsA+Oog2rXMbcm6AuEJGaYvUCiNMtD4cvWHae/6P8v9Q5+L4ZEA5N8F9hGzqi4cPQPZoPy5rdH7g9ivXTVhsxySWyyHWZdZXz85rGK+Q2uHzXDPIdNwzSK28ecp8VLjkFqyiIEESR46rNbszjw6MjKMftjddMvswDCzjOCweC5itQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "fT4Da4PADujmz7sPrOi0gQY"
+  },
+  "latency_ms": 3236,
+  "cost_usd": 0.0002
+}

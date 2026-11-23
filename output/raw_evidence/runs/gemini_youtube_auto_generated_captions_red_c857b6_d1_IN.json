@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a content creator in India (IN), navigating YouTube\u2019s auto-generated captions and enhancing them for better engagement, accessibility, and discoverability is a crucial part of your video production workflow. \n\nBased on creator discussions on communities like Reddit (r/NewT",
+      "cost_usd": 0.0002,
+      "latency_ms": 2787,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_auto_generated_captions_red_c857b6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'youtube auto generated captions reddit' in IN, popular recommendations include Submagic, Vidyo.ai. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 480
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_auto_generated_captions_red_c857b6_d1_IN.json"
+}

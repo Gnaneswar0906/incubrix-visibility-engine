@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and digital standards) but also for audience retention, given that a high percentage of viewers watch social media videos on mute. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your platform (TikTok, YouTube Shorts, Instagram Reels, or long-form YouTube/podcast content), different tools excel in specific areas.\n\n#### **CapCut**\n*   **Best For:** Short-form vertical video (TikTok, Reels, Shorts) and dynamic, trendy captions.\n*   **Why use it:** CapCut (owned by ByteDance) has arguably the most advanced auto-captioning engine for stylistic, word-by-word highlighted text animations. It offers templates for popular creator styles",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and digital standards) but also for audience retention, given that a high percentage of viewers watch social media videos on mute. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your platform (TikTok, YouTube Shorts, Instagram Reels, or long-form YouTube/podcast content), different tools excel in specific areas.\n\n#### **CapCut**\n*   **Best For:** Short-form vertical video (TikTok, Reels, Shorts) and dynamic, trendy captions.\n*   **Why use it:** CapCut (owned by ByteDance) has arguably the most advanced auto-captioning engine for stylistic, word-by-word highlighted text animations. It offers templates for popular creator styles",
+              "thoughtSignature": "Eo4BCosBAWkUfRPxESq5Vlr9piwZBWk5l/UV/NtwVkA1t6/wtIDQ3AdTYkQUBAuhWi//RA55aZEGpfnZIELU6XyKaAbDsZ0DfyvHaAiiUAXswKIplcPZYVrb5TPdN5s5+vKg8cvp2t6SI0/iKkY2/bhNlj+zxJgQsOwkN/ZeU5plCDaO1tMM8NnnZPDOTBBR2Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "FEIDa8yNOIm81_oP-c_aqQo"
+  },
+  "latency_ms": 2426,
+  "cost_usd": 0.0002
+}

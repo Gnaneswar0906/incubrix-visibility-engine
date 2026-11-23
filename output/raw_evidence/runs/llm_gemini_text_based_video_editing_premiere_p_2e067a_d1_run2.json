@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to leverage text-based video editing alongside Adobe",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to leverage text-based video editing alongside Adobe"
+            },
+            {
+              "text": " Premiere Pro, the landscape has evolved rapidly. Text-based editing\u2014which allows you to edit video by manipulating a transcript\u2014has transformed from a novelty into an essential workflow for YouTubers, podcasters, and filmmakers looking to speed up rough cuts.\n\nHere is a breakdown of the best tools, key industry options (including your specified list), and recommended workflows.\n\n---\n\n### 1. Key Industry Options & Where They Fit\n\n#### **Adobe Premiere Pro (Native Text-Based Editing)**\n*   **What it is:** Adobe\u2019s built-in AI-powered transcription and text-based editing suite (powered by Adobe Sensei).\n*   **Best for:** Creators who want to stay entirely within the Adobe ecosystem for professional color grading, audio mixing (Enhance Speech), and finishing.\n*   **Key Feature:** You can generate a transcript, delete text to delete the corresponding video/audio on the timeline, and search for specific keywords or filler words (like \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRP/PJ+C9jzdUnrQw7vsu5eQ3YdiqUnhuV8gKPv+UNMoEFDlICy8gvyJ/1lO3+c6UzH9Zt/RqQsqH21f0ZSIzyQOQM/kw7K3zlhT4mepNZRbe2w8ujO0COCs1j+y1DrVThMlwpIqkicSUne1S0YiPNHsqhZGvIKou4zY6uyyF7mF4NAJut7aCQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 217,
+      "totalTokenCount": 282,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "RT4Da4HVKdedz7sP_NmI2Qs"
+  },
+  "latency_ms": 3434,
+  "cost_usd": 0.0002
+}

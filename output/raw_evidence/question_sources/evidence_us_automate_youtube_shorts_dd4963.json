@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=automate+youtube+shorts",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "automate youtube shorts",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:29:35.823029+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "automate youtube shorts",
+    "automate youtube shorts ai",
+    "automate youtube shorts upload",
+    "automate youtube shorts reddit",
+    "automate youtube shorts creation",
+    "automate youtube shorts free",
+    "automate youtube shorts github",
+    "automate youtube shorts posting",
+    "automated youtube shorts generator",
+    "automatic youtube shorts maker"
+  ],
+  "raw_response": "[\"automate youtube shorts\",[\"automate youtube shorts\",\"automate youtube shorts ai\",\"automate youtube shorts upload\",\"automate youtube shorts reddit\",\"automate youtube shorts creation\",\"automate youtube shorts free\",\"automate youtube shorts github\",\"automate youtube shorts posting\",\"automated youtube shorts generator\",\"automatic youtube shorts maker\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

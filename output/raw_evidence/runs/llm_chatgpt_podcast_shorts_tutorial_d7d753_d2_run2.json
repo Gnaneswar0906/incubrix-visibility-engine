@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a unique position to leverage the \"Podcast Shorts\" trend effectively. The algorithm on Instagram Reels, YouTube Shorts, and LinkedIn heavily favors vertical, fast-paced, value-driven clips.\n\nHere is a comprehensive guide to creating high-quality podcast shorts, including the best software tools, workflow methods, and industry standards.\n\n### \ud83d\udee0\ufe0f Best Software Tools for Podcast Shorts\n\nThe key to efficiency is **automated clipping** followed by **manual polish**. Here are the top industry-standard tools, categorized by their primary strength:\n\n#### 1. AI-Powered Auto-Clipping (Best for Volume & Speed)\nThese tools analyze your full episode transcript, identify \"v",
+  "raw_payload": {
+    "id": "chatcmpl-3e856c30-3604-40ed-8116-f4c78bbb653e",
+    "object": "chat.completion",
+    "created": 1795376886,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a unique position to leverage the \"Podcast Shorts\" trend effectively. The algorithm on Instagram Reels, YouTube Shorts, and LinkedIn heavily favors vertical, fast-paced, value-driven clips.\n\nHere is a comprehensive guide to creating high-quality podcast shorts, including the best software tools, workflow methods, and industry standards.\n\n### \ud83d\udee0\ufe0f Best Software Tools for Podcast Shorts\n\nThe key to efficiency is **automated clipping** followed by **manual polish**. Here are the top industry-standard tools, categorized by their primary strength:\n\n#### 1. AI-Powered Auto-Clipping (Best for Volume & Speed)\nThese tools analyze your full episode transcript, identify \"v"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046955708,
+      "prompt_tokens": 75,
+      "prompt_time": 0.004896292,
+      "completion_tokens": 150,
+      "completion_time": 0.285107877,
+      "total_tokens": 225,
+      "total_time": 0.290004169
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ctcsee7ybmtgfnvr5wemp",
+      "seed": 1390515212
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1059,
+  "cost_usd": 0.0002
+}

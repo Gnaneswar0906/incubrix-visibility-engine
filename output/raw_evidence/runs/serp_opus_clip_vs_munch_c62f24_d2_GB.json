@@ -1,0 +1,95 @@
+{
+  "query": "opus clip vs munch",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=47aROC-dVB4",
+  "competitors_named": "Descript, Opus Clip, Munch",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus clip vs munch",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Opus Clip vs Munch Comparison - Which is Better?",
+        "link": "https://www.youtube.com/watch?v=47aROC-dVB4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In the Opus Clip versus Munch comparison, one of these tools stands out. These AI video editing tools can save a ton of time when it comes\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Munch Alternative | OpusClip - AI-powered Video Repurposing",
+        "link": "https://www.opus.pro/alternatives/munch",
+        "displayedLink": "https://www.opus.pro \u203a alternatives \u203a munch",
+        "snippet": "OpusClip produces high-quality shorts with word-level accuracy, auto jump-cuts, re-arrangement, hook insertion, value bombs, and filler removal.",
+        "position": 2
+      },
+      {
+        "title": "Munch vs Opus Clip Comparison - Which is Better Choice?",
+        "link": "https://www.youtube.com/watch?v=v5oyQqYYQww",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "A side-by-side comparison of Munch and Opus Clip, focusing on key features, ease of use, and pricing. Find out which video editing tool\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "12 Best Opus Clip Alternatives for 2026 (Tested & Ranked)",
+        "link": "https://www.choppity.com/blog/best-opus-clip-alternatives/",
+        "displayedLink": "https://www.choppity.com \u203a blog \u203a best-opus-clip-alternatives",
+        "snippet": "Opus Clip wins on hands-off virality scoring and the lowest paid entry price ($15/mo vs Choppity's $20/mo). Choppity wins on the full workflow: ...",
+        "date": "10 Jun 2026",
+        "position": 4
+      },
+      {
+        "title": "Opus Clip vs Munch vs Pictory \u2013 A Complete Guide for Marketing ...",
+        "link": "https://genesysgrowth.com/blog/opus-clip-vs-munch-vs-pictory",
+        "displayedLink": "https://genesysgrowth.com \u203a blog \u203a opus-clip-vs-munch-vs-pictory",
+        "snippet": "AI video editing success comes from matching each tool to your workflow\u2014Opus Clip for viral clips, Pictory for brand control, and Munch for ...",
+        "date": "3 Feb 2026",
+        "position": 5
+      },
+      {
+        "title": "Opus Clip vs Munch vs Vizard: Full Test 2026 - InfluencerAI",
+        "link": "https://influenceraiagents.com/blog/opus-clip-vs-munch-vs-vizard-test-comparison",
+        "displayedLink": "https://influenceraiagents.com \u203a blog \u203a opus-clip-vs-munch-vs-vizar...",
+        "snippet": "TL;DR winner: Opus Clip for most people. Munch if you cross-post to multiple platforms. Vizard if you're testing the concept before spending ...",
+        "date": "17 Apr 2026",
+        "position": 6
+      },
+      {
+        "title": "Munch vs OpusClip. Or skip the debate. - Clipflow",
+        "link": "https://clipflow.to/compare/munch-vs-opusclip",
+        "displayedLink": "https://clipflow.to \u203a compare \u203a munch-vs-opusclip",
+        "snippet": "Munch leads on pulls trending keywords + audience insights; OpusClip is stronger for fastest clip-extraction engine on the market. If you need both \u2014 plus per- ...",
+        "position": 7
+      },
+      {
+        "title": "Opus Clip vs. Munch: Honest Comparison",
+        "link": "https://www.youtube.com/watch?v=9iM3-sshVx0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This 2025 comparison for US creators digs into Opus Clip vs. Munch to help you choose the right AI short-form editor.",
+        "position": 8
+      },
+      {
+        "title": "5 Opus Clip Alternatives for Business Video in 2026",
+        "link": "https://www.munchstudio.com/alternatives/opus-clip-alternatives",
+        "displayedLink": "https://www.munchstudio.com \u203a alternatives \u203a opus-clip-alternatives",
+        "snippet": "Compare five Opus Clip alternatives, including Quso, Vizard, Klap, Descript, and Munch Studio, with features and prices checked on each ...",
+        "date": "10 Nov 2026",
+        "position": 9
+      },
+      {
+        "title": "Montaj vs Opus Clip",
+        "link": "https://montaj.ag/vs/opus-clip",
+        "displayedLink": "https://montaj.ag \u203a vs \u203a opus-clip",
+        "snippet": "Compare Montaj and Opus Clip. In Montaj, your own AI (Claude or ChatGPT) picks the clips and edits them. No credits by the minute and no watermark.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

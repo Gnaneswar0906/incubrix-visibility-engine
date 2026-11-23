@@ -1,0 +1,104 @@
+{
+  "query": "youtube auto translate video titles",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/thread/333884267/autotranslated-titles-on-youtube?hl=en",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "youtube auto translate video titles",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Autotranslated titles on YouTube",
+        "link": "https://support.google.com/youtube/thread/333884267/autotranslated-titles-on-youtube?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a ... \u203a autotranslated-titles-on-yo...",
+        "snippet": "Go to YouTube Settings: https://www.youtube.com/account. Scroll down to Language and set it to English. ; Click on the three-dot menu (top-right ...",
+        "date": "26 Mar 2025",
+        "position": 1
+      },
+      {
+        "title": "YouTube's automatic title and description translations are driving ...",
+        "link": "https://www.reddit.com/r/youtube/comments/1hmhi5j/youtubes_automatic_title_and_description/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a youtubes_automatic_title_an...",
+        "snippet": "if you only know one language, you also dont need a translated video title because the video itself is not in a language you understand, so ...",
+        "sitelinks": [
+          {
+            "title": "how can I disable this auto translate titles to let it in it's original languager/youtube\u00b730+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/youtube/comments/1gzjs3c/how_can_i_disable_this_auto_translate_titles_to/"
+          },
+          {
+            "title": "How do you turn off title translations? : r/youtube - Redditr/youtube\u00b710+ comments\u00b78y",
+            "link": "https://www.reddit.com/r/youtube/comments/9lvtbo/how_do_you_turn_off_title_translations/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "How To Stop YouTube From Automatically Translating Video Titles",
+        "link": "https://www.youtube.com/watch?v=cF5SlYjGipg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "YouTube tutorial covers why YouTube auto translates titles, how to disable YouTube showing titles in the wrong language",
+        "position": 3
+      },
+      {
+        "title": "YouTube Please STOP Auto Translating Video Titles!!",
+        "link": "https://www.youtube.com/watch?v=Pk63QMSyg7k",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Youtube has had an auto dubbing and title translation feature for quite a while now but recently it's been rolling out to more channels and\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "How to Automatically Translate Titles and Descriptions on ...",
+        "link": "https://www.youtube.com/watch?v=guXos5XTAoM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This video shows you how to automatically translate titles and descriptions on YouTube to reach global audiences. I explain how to access\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "7 Effective Ways to Stop YouTube from Translating Video Titles",
+        "link": "https://youtubedownload.minitool.com/news/stop-youtube-from-translating-video-titles.html",
+        "displayedLink": "https://youtubedownload.minitool.com \u203a news \u203a stop-youtube-from-translati...",
+        "snippet": "YouTube automatically translates video titles based on a user's language preference. In addition to the video title, the video description and ...",
+        "date": "13 Apr 2026",
+        "position": 6
+      },
+      {
+        "title": "How do I turn automatic translation of video titles off? - YouTube Community",
+        "link": "https://support.google.com/youtube/thread/320720513/how-do-i-turn-automatic-translation-of-video-titles-off?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a ... \u203a how-do-i-turn-automatic-tra...",
+        "snippet": "Under the General tab, scroll down to Language. Select Preferred language as your desired language. Disable the option for \"Allow automatic ...",
+        "date": "25 Jan 2025",
+        "position": 7
+      },
+      {
+        "title": "YouTube Translator & YouTube Video Dubbing - Chrome Web Store",
+        "link": "https://chromewebstore.google.com/detail/youtube-translator-youtub/ndbhldoclidahhoogmgklimmomnnepjg",
+        "displayedLink": "https://chromewebstore.google.com \u203a detail \u203a youtube-translator-youtub \u203a ndbhldoclidahhoogmgklimmomn...",
+        "snippet": "Automatically translate Youtube videos in real time and play them in your language. Note: Currently, only YouTube videos with subtitles are supported for ...",
+        "position": 8
+      },
+      {
+        "title": "How to Auto-Translate YouTube Titles & Descriptions",
+        "link": "https://www.youtube.com/watch?v=F1Yh0IuZcAM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to use Power Automate to automatically translate YouTube titles and descriptions to potentially reach a wider international audience.",
+        "position": 9
+      },
+      {
+        "title": "Why Is YouTube Translating Video Titles",
+        "link": "https://www.facebook.com/fb-answers/why-is-youtube-translating-video-titles/",
+        "displayedLink": "https://www.facebook.com \u203a fb-answers \u203a why-is-youtube-translating-...",
+        "snippet": "YouTube now auto-translates video titles, descriptions, and even audio to match your device or account language so more people can discover and watch...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

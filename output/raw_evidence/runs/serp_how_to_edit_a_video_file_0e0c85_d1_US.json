@@ -1,0 +1,136 @@
+{
+  "query": "how to edit a video file",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.adobe.com/express/feature/video/editor",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to edit a video file",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free Online Video Editor | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/editor",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a editor",
+        "snippet": "The Adobe Express free video editor helps you easily create your own professional and custom videos in minutes, no design skills needed.",
+        "position": 1
+      },
+      {
+        "title": "Free Online Video Editor & Maker | Canva (Drag-and-drop)",
+        "link": "https://www.canva.com/video-editor/",
+        "displayedLink": "https://www.canva.com \u203a video-editor",
+        "snippet": "Create engaging professional videos from your browser using Canva's drag-and-drop editor with transitions, animations, designer fonts, audio library, ...",
+        "position": 2
+      },
+      {
+        "title": "Online Video Editor",
+        "link": "https://clideo.com/video-editor",
+        "displayedLink": "https://clideo.com \u203a video-editor",
+        "snippet": "Edit each file one by one: crop, adjust saturation and other settings, change speed and volume. Then add any text you need, set its font, color, size, etc.",
+        "position": 3
+      },
+      {
+        "title": "Free Online Video Editor - Drag & Drop, Easy to Use",
+        "link": "https://www.veed.io/tools/video-editor",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a video-editor",
+        "snippet": "Step 01 Upload your video Drag and drop your video file or paste a link. Edit and enhance Trim, crop, and arrange clips on the timeline.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 4
+      },
+      {
+        "title": "How to edit videos on your iPhone, iPad, or Mac",
+        "link": "https://support.apple.com/en-us/104968",
+        "displayedLink": "https://support.apple.com \u203a en-us \u203a 104968",
+        "snippet": "Open the Photos app and tap the video that you want to edit. \u00b7 Tap the Edit button . \u00b7 Move the sliders on both sides of the video timeline to ...",
+        "date": "May 1, 2026",
+        "position": 5
+      },
+      {
+        "title": "The Ultimate Guide to Faster Video Editing (Beginners)",
+        "link": "https://www.youtube.com/watch?v=Z0QXKDUcnbM&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn the proven video editing process we use to edit videos faster, without sacrificing quality. Learn Online Video 10 Video Editing Tips\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "Create films with a video editor",
+        "link": "https://support.microsoft.com/en-us/clipchamp/windows-photos-app/create-films-with-a-video-editor",
+        "displayedLink": "https://support.microsoft.com \u203a en-us \u203a ... \u203a create-films-with-a-video-e...",
+        "snippet": "Learn how to use Clipchamp to create, edit, and share your own custom videos. With Clipchamp's user-friendly interface, templates, and intelligent shortcuts, ...",
+        "position": 7
+      },
+      {
+        "title": "How To Edit Videos (Video Editing For Beginners - Complete Guide!)",
+        "link": "https://www.youtube.com/watch?v=6GnmzvqqzJw&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to edit videos for YouTube & other projects in this complete guide to video editing for beginners. Plus we'll share our top video\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Online Video Editor - Simple & Free Video Editing Tool",
+        "link": "https://online-video-cutter.com/video-editor",
+        "displayedLink": "https://online-video-cutter.com \u203a video-editor",
+        "snippet": "How to Edit a Video Online? \u00b7 Upload a video. To upload a file to the online editing service, click \u201cOpen file\u201d or drag and drop the video from your device.",
+        "rating": 4.3,
+        "ratingCount": 5822,
+        "position": 9
+      },
+      {
+        "title": "Free online video editor | Microsoft Clipchamp",
+        "link": "https://clipchamp.com/en/video-editor/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a video-editor",
+        "snippet": "Upload a video or select stock media, then cut and trim videos precisely to make a seamless edit. Use AI to remove silences and long pauses or explore AI ...",
+        "rating": 4.4,
+        "ratingCount": 1682,
+        "position": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "How to edit a video file on iphone"
+      },
+      {
+        "query": "How to edit a video file online"
+      },
+      {
+        "query": "How to edit a video file for free"
+      },
+      {
+        "query": "How to edit a video file online free"
+      },
+      {
+        "query": "How to edit a video file on pc"
+      },
+      {
+        "query": "Video editing online free"
+      },
+      {
+        "query": "Video editor online"
+      },
+      {
+        "query": "How to edit videos on mobile"
+      },
+      {
+        "query": "Video editing app"
+      },
+      {
+        "query": "Edit video editor"
+      },
+      {
+        "query": "Best free online video editor"
+      },
+      {
+        "query": "Automatic video editor online free"
+      }
+    ],
+    "credits": 1
+  }
+}

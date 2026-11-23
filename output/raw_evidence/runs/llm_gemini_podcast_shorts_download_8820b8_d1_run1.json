@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts download",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in Great Britain, I have tailored this guide to the best software tools, efficient workflows, and industry standards for downloading and repurposing podcast shorts. \n\nWhen creators look for \"podcast shorts download,\" they typically mean one of two things:\n1. **Extracting/Clipping:** Using AI tools to automatically find the best moments from a long-form podcast and download them as vertical shorts (Reels, TikToks, Shorts).\n2. **Downloading Existing Shorts:** Saving already-published short-form content for archiving, competitor research, or repurposing (though this must be done with copyright in mind).\n\nBelow is a breakdown of the best AI clipping tools, downloading utilities, and a streamlined UK-friendly workflow.\n\n---\n\n### 1. Best AI Clipping & Download Tools (Industry Options)\n\nTo turn a 1-hour podcast into punchy, downloadable shorts with auto-captions, these are",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in Great Britain, I have tailored this guide to the best software tools, efficient workflows, and industry standards for downloading and repurposing podcast shorts. \n\nWhen creators look for \"podcast shorts download,\" they typically mean one of two things:\n1. **Extracting/Clipping:** Using AI tools to automatically find the best moments from a long-form podcast and download them as vertical shorts (Reels, TikToks, Shorts).\n2. **Downloading Existing Shorts:** Saving already-published short-form content for archiving, competitor research, or repurposing (though this must be done with copyright in mind).\n\nBelow is a breakdown of the best AI clipping tools, downloading utilities, and a streamlined UK-friendly workflow.\n\n---\n\n### 1. Best AI Clipping & Download Tools (Industry Options)\n\nTo turn a 1-hour podcast into punchy, downloadable shorts with auto-captions, these are",
+              "thoughtSignature": "Eo4BCosBAWkUfRNwJBn5gjmZr00+8j5oC7btV9HKYHL1VOEmcRPtgsvMPdFJIIHlZPtBcGVB4Xaz3fuJwpnBgh1ztC2ZzA3ekMkpZTbL9YXszPFkmQQoEvIX7pdOQlRNsuwRUS4vJx9O+pvLMHQenhMwgiquaOpscKZgp1pOv7ScSLwtM9PUF4VK3ks0sdvzLg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "f0EDa-7YN_2mjuMPyrHz2A4"
+  },
+  "latency_ms": 2450,
+  "cost_usd": 0.0002
+}

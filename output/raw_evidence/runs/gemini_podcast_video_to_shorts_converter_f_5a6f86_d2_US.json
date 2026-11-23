@@ -1,0 +1,43 @@
+{
+  "assistant": "gemini",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best **free (or freemium) AI podcast-to-shorts converters**, a streamlined workflow, and an overview of the industry standards you mentioned\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**",
+      "cost_usd": 0.0002,
+      "latency_ms": 1906,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_video_to_shorts_converter_f_5a6f86_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast video to shorts converter free' in US, popular recommendations include Submagic, Vidyo.ai. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 480
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_video_to_shorts_converter_f_5a6f86_d2_US.json"
+}

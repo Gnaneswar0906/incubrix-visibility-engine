@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools for auto generating captions for video free online. Include workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer, list free tools, workflow steps, mention those specific tools, maybe compare features, pricing, pros/cons. Provide citations with links.\n\nWe must ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide citations in a format, maybe footnotes or inline.\n\nLet's gather known tools: YouTube automatic captions, Kapwing, Veed.io, Clipchamp, Otter.ai (free tier), Amara, Subtitle Edit (desktop),",
+  "raw_payload": {
+    "id": "chatcmpl-12a0b35e-08b0-4821-957b-2ee5937f99b6",
+    "object": "chat.completion",
+    "created": 1795376596,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools for auto generating captions for video free online. Include workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer, list free tools, workflow steps, mention those specific tools, maybe compare features, pricing, pros/cons. Provide citations with links.\n\nWe must ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide citations in a format, maybe footnotes or inline.\n\nLet's gather known tools: YouTube automatic captions, Kapwing, Veed.io, Clipchamp, Otter.ai (free tier), Amara, Subtitle Edit (desktop),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048175738,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005501312,
+      "completion_tokens": 150,
+      "completion_time": 0.310875031,
+      "total_tokens": 286,
+      "total_time": 0.316376343,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b9a23305b9",
+    "x_groq": {
+      "id": "req_01m82chh20eybrfbedwhnb31ec",
+      "seed": 2146536501
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2532,
+  "cost_usd": 0.0002
+}

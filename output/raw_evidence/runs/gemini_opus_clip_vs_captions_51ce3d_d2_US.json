@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to scale your short-form video production (TikTok, Reels, Shorts), choosing the right AI tool is crucial. When comparing **Opus Clip vs. Captions**, you are looking at two industry giants that serve slightly different primary purposes: automated video repurposi",
+      "cost_usd": 0.0002,
+      "latency_ms": 8557,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_51ce3d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to turn long-form videos (like YouTube podcasts, webinars, or Vlogs) into viral short-form content for TikTok, YouTube Shorts, and Instagram Reels, you are looking at two very different workflow philosophies: **AI-Driven Repurposing** versus **Manual/AI-Assiste",
+      "cost_usd": 0.0002,
+      "latency_ms": 2245,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_51ce3d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_captions_51ce3d_d2_US.json"
+}

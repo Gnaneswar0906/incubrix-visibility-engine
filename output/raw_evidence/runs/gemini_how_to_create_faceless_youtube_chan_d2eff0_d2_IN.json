@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to create faceless youtube channel using ai' in IN, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 379
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'how to create faceless youtube channel using ai' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_create_faceless_youtube_chan_d2eff0_d2_IN.json"
+}

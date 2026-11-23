@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019re likely looking to optimise your workflow for efficiency, especially given the high volume of long-form content (podcasts, interviews, webinars) that needs to be repurposed into short-form for TikTok, Reels, and Shorts.\n\n**OpusClip** has become a dominant player in the AI-driven repurposing space. Below is a detailed comparison of **Opus Clip Starter vs. Pro**, along with recommended workflow integrations and key industry alternatives.\n\n---\n\n## \ud83d\udd0d Opus Clip: Starter vs. Pro\n\nOpusClip is an AI-powered video clipping tool that automatically identifies viral-worthy moments from long videos, adds captions, reframes for vertical, and",
+  "raw_payload": {
+    "id": "chatcmpl-8395ccd0-3912-4f83-ae21-f036442300b1",
+    "object": "chat.completion",
+    "created": 1795377576,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019re likely looking to optimise your workflow for efficiency, especially given the high volume of long-form content (podcasts, interviews, webinars) that needs to be repurposed into short-form for TikTok, Reels, and Shorts.\n\n**OpusClip** has become a dominant player in the AI-driven repurposing space. Below is a detailed comparison of **Opus Clip Starter vs. Pro**, along with recommended workflow integrations and key industry alternatives.\n\n---\n\n## \ud83d\udd0d Opus Clip: Starter vs. Pro\n\nOpusClip is an AI-powered video clipping tool that automatically identifies viral-worthy moments from long videos, adds captions, reframes for vertical, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.42545954,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005865379,
+      "completion_tokens": 150,
+      "completion_time": 0.284133116,
+      "total_tokens": 228,
+      "total_time": 0.289998495
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82dfdt6ekk9bg508jvka9rc",
+      "seed": 747918408
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3940,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto upload youtube shorts' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 338
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto upload youtube shorts' in GB, popular recommendations include Submagic, Vidyo.ai. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 345
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_upload_youtube_shorts_a8d419_d2_GB.json"
+}

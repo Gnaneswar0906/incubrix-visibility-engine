@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the U.S. looking to scale your short-form video strategy, automating the posting of YouTube Shorts is one of the best ways to maintain consistency across platforms like TikTok and Instagram Reels. \n\nHere is a comprehensive guide on the best software tools, recommended workflo",
+      "cost_usd": 0.0002,
+      "latency_ms": 5116,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_post_youtube_shorts_e15c80_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'how to auto post youtube shorts' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 346
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_post_youtube_shorts_e15c80_d1_US.json"
+}

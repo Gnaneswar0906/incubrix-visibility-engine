@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast content into short-form vertical video (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective growth strategies for content creators in the UK and globally. However, finding **truly free** tools that handle AI clipping, captioning, and repurposing well can be challenging, as most robust AI tools operate on a \"freemium\" model.\n\nBelow is a curated guide to the best software tools, workflow methods, and key industry options available to you in GB, focusing on tools that offer usable free tiers or open-source alternatives.\n\n### 1. Top AI Tools for Podcast-to-Shorts (Free/Freemium Tiers)\n\n#### **A. Opus Clip",
+  "raw_payload": {
+    "id": "chatcmpl-dbe478e8-67d7-4266-b691-afa7664022fd",
+    "object": "chat.completion",
+    "created": 1795377240,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast content into short-form vertical video (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective growth strategies for content creators in the UK and globally. However, finding **truly free** tools that handle AI clipping, captioning, and repurposing well can be challenging, as most robust AI tools operate on a \"freemium\" model.\n\nBelow is a curated guide to the best software tools, workflow methods, and key industry options available to you in GB, focusing on tools that offer usable free tiers or open-source alternatives.\n\n### 1. Top AI Tools for Podcast-to-Shorts (Free/Freemium Tiers)\n\n#### **A. Opus Clip"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047753678,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005313211,
+      "completion_tokens": 150,
+      "completion_time": 0.294711831,
+      "total_tokens": 228,
+      "total_time": 0.300025042
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82d55snexta970cshyxzmn4",
+      "seed": 1277910082
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1179,
+  "cost_usd": 0.0002
+}

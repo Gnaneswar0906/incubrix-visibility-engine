@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai video",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources if available. Must be US-based content creator. Provide a thorough answer with tools for faceless YouTube channel AI video creation: script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf AI), video creation (Pictory, Synthesia, InVideo, Opus Clip, CapCut), editing (Descript, DaVinci Resolve), thumbnail creation (Canva, Adobe Express), automation (Zapier). Provide workflow steps: idea -> script -> storyboard -> AI voice -> video assets -> assemble -> edit",
+  "raw_payload": {
+    "id": "chatcmpl-4e28334a-514f-488c-b636-5db3a8c94804",
+    "object": "chat.completion",
+    "created": 1795376820,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources if available. Must be US-based content creator. Provide a thorough answer with tools for faceless YouTube channel AI video creation: script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf AI), video creation (Pictory, Synthesia, InVideo, Opus Clip, CapCut), editing (Descript, DaVinci Resolve), thumbnail creation (Canva, Adobe Express), automation (Zapier). Provide workflow steps: idea -> script -> storyboard -> AI voice -> video assets -> assemble -> edit"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157958242,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005709668,
+      "completion_tokens": 150,
+      "completion_time": 0.309279892,
+      "total_tokens": 285,
+      "total_time": 0.31498956,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82crc0ge0gbtk2ze55n3v6b",
+      "seed": 1366982531
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2938,
+  "cost_usd": 0.0002
+}

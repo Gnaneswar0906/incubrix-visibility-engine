@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83d\udcf9 AI\u2011Powered Text\u2011to\u2011Video Editing for Indian Content Creators  \n\nBelow is a **practical toolkit** that blends the most popular AI video\u2011editing platforms with a step\u2011by\u2011step",
+  "raw_payload": {
+    "id": "chatcmpl-24276285-4ef1-420c-814d-a5f80bc75b9e",
+    "object": "chat.completion",
+    "created": 1795376958,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83d\udcf9 AI\u2011Powered Text\u2011to\u2011Video Editing for Indian Content Creators  \n\nBelow is a **practical toolkit** that blends the most popular AI video\u2011editing platforms with a step\u2011by\u2011step",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for text video editing AI tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. No disallowed content. Provide citations with URLs. Use markdown. Provide workflow steps. Also mention pricing, features, pros/cons. Provide Indian context maybe. Provide sources. Let's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.160256755,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005429904,
+      "completion_tokens": 150,
+      "completion_time": 0.315279209,
+      "total_tokens": 283,
+      "total_time": 0.320709113,
+      "completion_tokens_details": {
+        "reasoning_tokens": 99
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cwk0ze91b0redwmb7d03z",
+      "seed": 823107873
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3300,
+  "cost_usd": 0.0002
+}

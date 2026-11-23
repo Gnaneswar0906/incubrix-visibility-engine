@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "##",
+      "cost_usd": 0.0002,
+      "latency_ms": 3939,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_hi_f21553_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Captioning for **Hinglish** (Hindi\u202f+\u202fEnglish) Video  \nBelow is a practical,",
+      "cost_usd": 0.0002,
+      "latency_ms": 3572,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_hi_f21553_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_hi_f21553_d1_US.json"
+}

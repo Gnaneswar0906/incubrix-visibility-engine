@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'how to auto post youtube shorts' in US, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 375
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to auto post youtube shorts' in US, popular recommendations include Munch. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 440
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_auto_post_youtube_shorts_e15c80_d1_US.json"
+}

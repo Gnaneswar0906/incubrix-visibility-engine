@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ideas with ai free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel in 2024\u20132025 is entirely feasible, especially when leveraging AI tools to streamline content creation. However, it\u2019s important to clarify a few key points first:\n\n### \u26a0\ufe0f Important Clarifications\n- **No major AI tool is truly \u201cfree forever\u201d for commercial use.** Most offer **free trials**, **limited free tiers**, or **free components** (e.g., free voiceover credits, basic editing). For scalable, monetizable channels, expect to invest in at least one paid subscription.\n- **IncuBrix** is **not a recognized standard AI video tool** in the YouTube creator ecosystem. It may be a niche, new, or mis",
+  "raw_payload": {
+    "id": "chatcmpl-81c98e8b-90d6-470b-befe-ec8abd123008",
+    "object": "chat.completion",
+    "created": 1795377619,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel in 2024\u20132025 is entirely feasible, especially when leveraging AI tools to streamline content creation. However, it\u2019s important to clarify a few key points first:\n\n### \u26a0\ufe0f Important Clarifications\n- **No major AI tool is truly \u201cfree forever\u201d for commercial use.** Most offer **free trials**, **limited free tiers**, or **free components** (e.g., free voiceover credits, basic editing). For scalable, monetizable channels, expect to invest in at least one paid subscription.\n- **IncuBrix** is **not a recognized standard AI video tool** in the YouTube creator ecosystem. It may be a niche, new, or mis"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05442959,
+      "prompt_tokens": 80,
+      "prompt_time": 0.0052339,
+      "completion_tokens": 150,
+      "completion_time": 0.296577892,
+      "total_tokens": 230,
+      "total_time": 0.301811792
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dgr5xe8waygdxhtzz19wa",
+      "seed": 10390910
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2062,
+  "cost_usd": 0.0002
+}

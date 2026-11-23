@@ -1,0 +1,16 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=text+based+video+editor+v",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "text based video editor v",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:53:33.705524+00:00",
+  "extracted_count": 3,
+  "suggestions": [
+    "text based video editing vimeo",
+    "what video editor is the best",
+    "which video editor is best for beginners"
+  ],
+  "raw_response": "[\"text based video editor v\",[\"text based video editing vimeo\",\"what video editor is the best\",\"which video editor is best for beginners\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390]]}]"
+}

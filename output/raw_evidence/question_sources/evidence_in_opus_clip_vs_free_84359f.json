@@ -1,0 +1,17 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=opus+clip+vs+free",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "opus clip vs free",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:50:54.462764+00:00",
+  "extracted_count": 4,
+  "suggestions": [
+    "opus clip free or paid",
+    "opus vs wav",
+    "opus game review",
+    "opus vs opera"
+  ],
+  "raw_response": "[\"opus clip vs free\",[\"opus clip free or paid\",\"opus vs wav\",\"opus game review\",\"opus vs opera\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

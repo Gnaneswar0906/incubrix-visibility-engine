@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! Starting a podcast is an exciting journey, and it\u2019s great to see creators in **India** diving into this space. The Indian podcasting landscape is booming, with platforms like Spotify, Apple Podcasts, and local players like Spreaker and JioSaavn gaining traction.\n\nHere\u2019s a comprehensive beginner\u2019s guide, tailored with the best tools, workflow, and industry insights.\n\n---\n\n### \ud83c\udf99\ufe0f Phase 1: Essential Software & Tools for Beginners\n\nYou don\u2019t need a studio to start. Here\u2019s a curated list of tools, including the ones you mentioned:\n\n#### 1. **Recording & Editing (The Core Stack)**\n- **Descript** (\u2b50 *Highly Recommended for Beginners*",
+  "raw_payload": {
+    "id": "chatcmpl-2f0539f7-6f32-4605-8813-3aed65d58d94",
+    "object": "chat.completion",
+    "created": 1795376878,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Starting a podcast is an exciting journey, and it\u2019s great to see creators in **India** diving into this space. The Indian podcasting landscape is booming, with platforms like Spotify, Apple Podcasts, and local players like Spreaker and JioSaavn gaining traction.\n\nHere\u2019s a comprehensive beginner\u2019s guide, tailored with the best tools, workflow, and industry insights.\n\n---\n\n### \ud83c\udf99\ufe0f Phase 1: Essential Software & Tools for Beginners\n\nYou don\u2019t need a studio to start. Here\u2019s a curated list of tools, including the ones you mentioned:\n\n#### 1. **Recording & Editing (The Core Stack)**\n- **Descript** (\u2b50 *Highly Recommended for Beginners*"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05320541,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005452509,
+      "completion_tokens": 150,
+      "completion_time": 0.311784648,
+      "total_tokens": 227,
+      "total_time": 0.317237157
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82ct4gsefetsjzgg84e0ksx",
+      "seed": 663570058
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1308,
+  "cost_usd": 0.0002
+}

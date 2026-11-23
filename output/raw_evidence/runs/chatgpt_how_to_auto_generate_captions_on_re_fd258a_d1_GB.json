@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto generating captions on reels (likely Instagram Reels). They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to answer as an AI assistant for a c",
+      "cost_usd": 0.0002,
+      "latency_ms": 2758,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_on_re_fd258a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for Instagram Reels (and TikTok/YouTube Shorts)  \n*",
+      "cost_usd": 0.0002,
+      "latency_ms": 3191,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_on_re_fd258a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_on_re_fd258a_d1_GB.json"
+}

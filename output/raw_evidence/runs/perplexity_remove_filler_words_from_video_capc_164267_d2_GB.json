@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "remove filler words from video capcut",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'remove filler words from video capcut' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 387
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'remove filler words from video capcut' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 456
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_remove_filler_words_from_video_capc_164267_d2_GB.json"
+}

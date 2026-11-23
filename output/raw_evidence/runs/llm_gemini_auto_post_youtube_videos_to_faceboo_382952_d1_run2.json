@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, utilizing the right combination of automation software, clipping tools, and optimized workflows is essential. Simply sharing a YouTube link on Facebook often results in low algorithmic reach because native video is heavily favored by Meta. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to maximize your multi-platform presence.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo achieve the best results, you need tools that handle both the **repurposing** (optimizing YouTube long-form content for Facebook's preferred short-form/vertical format) and the **automation** (posting).\n\n#### 1. Repurposing & Clipping Tools (Crucial for Facebook Reach)\n*   **Opus Clip:** An AI-powered video repurposing tool that turns long YouTube videos into multiple viral short clips (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, utilizing the right combination of automation software, clipping tools, and optimized workflows is essential. Simply sharing a YouTube link on Facebook often results in low algorithmic reach because native video is heavily favored by Meta. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to maximize your multi-platform presence.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo achieve the best results, you need tools that handle both the **repurposing** (optimizing YouTube long-form content for Facebook's preferred short-form/vertical format) and the **automation** (posting).\n\n#### 1. Repurposing & Clipping Tools (Crucial for Facebook Reach)\n*   **Opus Clip:** An AI-powered video repurposing tool that turns long YouTube videos into multiple viral short clips (",
+              "thoughtSignature": "Eo4BCosBAWkUfRN1g8eFtFOdxx2ces/7l5Ph8kZPWtIueNKGrp0i0dj30yUrnn3hkxROONzxJ6xH235zDmfiZe04ilYzDxsMH9y7cQJJ0QhFvtQdYsobuIyEK58eLLbPtcSGgUsmALsjPjyWKm9p+As7bLSChwRi79GM1o/2hxfscU+tVQLsGtZVXKMpMqSMHg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Rz8Da6fNIYne694PgtmzoAw"
+  },
+  "latency_ms": 2849,
+  "cost_usd": 0.0002
+}

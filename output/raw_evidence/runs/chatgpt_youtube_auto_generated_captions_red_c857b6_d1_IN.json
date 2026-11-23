@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN) about youtube auto generated captions reddit. They likely want info on auto-generated captions, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authorita",
+      "cost_usd": 0.0002,
+      "latency_ms": 4135,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_generated_captions_red_c857b6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India, you are likely dealing with high-volume content production, which makes the efficiency of YouTube\u2019s auto-generated captions (now officially called **Auto-Dubbing** and **Auto-Subtitles**) a critical part of your workflow.\n\nReddit threads (particularly in r",
+      "cost_usd": 0.0002,
+      "latency_ms": 937,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_generated_captions_red_c857b6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_auto_generated_captions_red_c857b6_d1_IN.json"
+}

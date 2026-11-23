@@ -1,0 +1,34 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to put autoplay on youtube' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 389
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to put autoplay on youtube' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 344
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_put_autoplay_on_youtube_fce41d_d1_IN.json"
+}

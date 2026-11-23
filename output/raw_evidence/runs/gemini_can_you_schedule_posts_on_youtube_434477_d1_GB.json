@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'can you schedule posts on youtube' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 487
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "**Yes, you can schedule posts (videos, Shorts, and Community posts) directly on YouTube.** \n\nYouTube has a built-in scheduling feature accessible via YouTube Studio on both desktop and the mobile app. This allows creators to select a specific date, time, and time zone for their content to go live au",
+      "cost_usd": 0.0002,
+      "latency_ms": 3819,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_can_you_schedule_posts_on_youtube_434477_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_can_you_schedule_posts_on_youtube_434477_d1_GB.json"
+}

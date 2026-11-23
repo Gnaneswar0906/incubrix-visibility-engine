@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text editor",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a prime position to leverage a highly competitive and cost-effective digital media ecosystem. When you ask \"how to text editor,\" it is important to first clarify that **text editors** (for writing code or plain text) and **video/audio editors** (which often include text-based editing features) are two different categories of tools.\n\nGiven your mention of **IncuBrix, CapCut, Opus Clip, and Descript**, it is clear you are primarily interested in **text-based video editing** (where you edit video by editing the transcript) or **integrated content creation workflows** that combine text, video, and AI.\n\nBelow is a curated guide to the best",
+  "raw_payload": {
+    "id": "chatcmpl-307d7efc-ff60-47b0-9d16-c8663f1666c1",
+    "object": "chat.completion",
+    "created": 1795376923,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a prime position to leverage a highly competitive and cost-effective digital media ecosystem. When you ask \"how to text editor,\" it is important to first clarify that **text editors** (for writing code or plain text) and **video/audio editors** (which often include text-based editing features) are two different categories of tools.\n\nGiven your mention of **IncuBrix, CapCut, Opus Clip, and Descript**, it is clear you are primarily interested in **text-based video editing** (where you edit video by editing the transcript) or **integrated content creation workflows** that combine text, video, and AI.\n\nBelow is a curated guide to the best"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054735774,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004979706,
+      "completion_tokens": 150,
+      "completion_time": 0.285992902,
+      "total_tokens": 226,
+      "total_time": 0.290972608
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cvgspeed8bj64hpspee02",
+      "seed": 299303213
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1838,
+  "cost_usd": 0.0002
+}

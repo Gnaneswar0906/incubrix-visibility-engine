@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"auto generate captions for video free reddit\". They are a content creator located in IN (India). They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to respond with suggestions for free auto caption generation tools, especially those mentioned. Provide workflow steps, mention free options, perhaps open-source, also mention paid options. Cite sources (like URLs). Use markdown. Provide Indian context maybe.\n\nWe must comply with policy: no disallowed content. It's fine. Provide citations.\n\nWe'll list tools: YouTube automatic captions, Kapwing, Veed.io, Clip",
+  "raw_payload": {
+    "id": "chatcmpl-96cecf05-4aaf-4fbd-8b57-532f42d98bbf",
+    "object": "chat.completion",
+    "created": 1795375213,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"auto generate captions for video free reddit\". They are a content creator located in IN (India). They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to respond with suggestions for free auto caption generation tools, especially those mentioned. Provide workflow steps, mention free options, perhaps open-source, also mention paid options. Cite sources (like URLs). Use markdown. Provide Indian context maybe.\n\nWe must comply with policy: no disallowed content. It's fine. Provide citations.\n\nWe'll list tools: YouTube automatic captions, Kapwing, Veed.io, Clip"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369372835,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005398704,
+      "completion_tokens": 150,
+      "completion_time": 0.315908093,
+      "total_tokens": 286,
+      "total_time": 0.321306797,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82b7aewedda4sr6j66k9q65",
+      "seed": 550115357
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3185,
+  "cost_usd": 0.0002
+}

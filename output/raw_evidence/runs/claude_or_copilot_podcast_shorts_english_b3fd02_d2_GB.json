@@ -1,0 +1,43 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast shorts english",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast shorts english' in GB, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 361
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast shorts english' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 358
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_shorts_english_b3fd02_d2_GB.json"
+}

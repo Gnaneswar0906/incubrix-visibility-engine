@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcasts for long drives",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcasts for long drives Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as a content creator in GB, recommending podcasts for long drives, plus software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources. Provide recommendations, maybe top podcasts for long drives (e.g., The Adventure Zone, Serial, My Favorite Murder, etc.) Also software tools for creating",
+  "raw_payload": {
+    "id": "chatcmpl-059b2ba5-2fb7-44e3-a855-cd6e87a653e0",
+    "object": "chat.completion",
+    "created": 1795375496,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcasts for long drives Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as a content creator in GB, recommending podcasts for long drives, plus software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources. Provide recommendations, maybe top podcasts for long drives (e.g., The Adventure Zone, Serial, My Favorite Murder, etc.) Also software tools for creating"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368193356,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005707383,
+      "completion_tokens": 150,
+      "completion_time": 0.316245471,
+      "total_tokens": 283,
+      "total_time": 0.321952854,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bfy92e01v2bdazxewegmd",
+      "seed": 1140055209
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3121,
+  "cost_usd": 0.0002
+}

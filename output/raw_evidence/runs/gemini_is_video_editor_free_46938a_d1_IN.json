@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "is video editor free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in India, the short answer to **\"Is a video editor free?\"** is **yes and no**. \n\nWhile there are many genuinely free video editors available, the industry standard for professional work usually operates on a freemium model (free basic features with paid upgrades) or a subscripti",
+      "cost_usd": 0.0002,
+      "latency_ms": 2220,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_is_video_editor_free_46938a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in India (IN) looking to answer the question **\"Is video editor free?\"**, the short answer is: **Yes, absolutely.** The digital content landscape offers powerful free video editing tools that range from completely free open-source software to freemium models with robust free tie",
+      "cost_usd": 0.0002,
+      "latency_ms": 2121,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_is_video_editor_free_46938a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_is_video_editor_free_46938a_d1_IN.json"
+}

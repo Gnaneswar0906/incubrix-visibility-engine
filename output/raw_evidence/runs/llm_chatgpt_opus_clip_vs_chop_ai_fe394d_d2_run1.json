@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation for the best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. They want a comparison: \"opus clip vs chop ai\". Likely they want to compare Opus Clip and Chop AI? They want best software tools, workflow methods, mention key industry options. Provide citations. Need to browse? We can't browse but we can use known info. Provide citations from sources like tech articles. Use known data up to 2024. Provide comparative analysis, best workflow, recommendation. Provide citations with URLs. Use credible sources. Provide a table. Also mention other options. Provide suggestions for Indian content creators. Provide workflow steps:",
+  "raw_payload": {
+    "id": "chatcmpl-1d4a512e-37f4-45e9-a6e7-1a4fc89a329c",
+    "object": "chat.completion",
+    "created": 1795377149,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation for the best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. They want a comparison: \"opus clip vs chop ai\". Likely they want to compare Opus Clip and Chop AI? They want best software tools, workflow methods, mention key industry options. Provide citations. Need to browse? We can't browse but we can use known info. Provide citations from sources like tech articles. Use known data up to 2024. Provide comparative analysis, best workflow, recommendation. Provide citations with URLs. Use credible sources. Provide a table. Also mention other options. Provide suggestions for Indian content creators. Provide workflow steps:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367847681,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006613136,
+      "completion_tokens": 150,
+      "completion_time": 0.155472282,
+      "total_tokens": 284,
+      "total_time": 0.162085418,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_487ff4efc6",
+    "x_groq": {
+      "id": "req_01m82d2d18e0zve9r7xrpmr600",
+      "seed": 1259164278
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4086,
+  "cost_usd": 0.0002
+}

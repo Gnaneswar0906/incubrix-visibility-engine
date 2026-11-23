@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video online free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator located in GB, asking: \"remove filler words from video online free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So we need to give a list of tools, workflow methods, mention the key options, and cite sources. Need to ensure the content is helpful. Also note that they want \"online free\" removal of filler words. So we can mention tools that are free or have free tiers. Provide step-by-step workflow. Provide citations. Provide mention of industry options. Also mention any limitations.\n\nWe need to provide citations. We'll need to find authoritative",
+  "raw_payload": {
+    "id": "chatcmpl-0625f09c-9a8d-4969-8b5b-26dea4de162e",
+    "object": "chat.completion",
+    "created": 1795377339,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator located in GB, asking: \"remove filler words from video online free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So we need to give a list of tools, workflow methods, mention the key options, and cite sources. Need to ensure the content is helpful. Also note that they want \"online free\" removal of filler words. So we can mention tools that are free or have free tiers. Provide step-by-step workflow. Provide citations. Provide mention of industry options. Also mention any limitations.\n\nWe need to provide citations. We'll need to find authoritative"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367676707,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006758999,
+      "completion_tokens": 150,
+      "completion_time": 0.169069174,
+      "total_tokens": 286,
+      "total_time": 0.175828173,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d23c14756c",
+    "x_groq": {
+      "id": "req_01m82d86eaencapf1r3fmssk6s",
+      "seed": 2006097036
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5267,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in India, you are likely looking for efficient ways to handle subtitles, whether for short-form content (Reels/Shorts) or long-form YouTube videos. \"Auto-generating subtitles\" is no longer just a nice-to-have; it\u2019s essential for accessibility, SEO, and viewer retention.\n\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 1407,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_reddit_dcefab_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India (IN). They ask: \"auto generate subtitles reddit\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provi",
+      "cost_usd": 0.0002,
+      "latency_ms": 2617,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_reddit_dcefab_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_subtitles_reddit_dcefab_d1_IN.json"
+}

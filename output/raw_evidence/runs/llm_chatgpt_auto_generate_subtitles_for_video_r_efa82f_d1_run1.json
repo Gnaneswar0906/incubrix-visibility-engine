@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for video reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for auto-generating subtitles for video Reddit (likely they want to post videos on Reddit). Recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations (maybe using footnotes). Should be helpful, list tools, workflow steps, tips for Reddit, mention language support, pricing, integration, accuracy, editing. Provide Indian context, maybe mention local resources. Use markdown. Provide citations with links. Ensure not to fabricate sources. I can reference known sources like TechCrunch, PCMag,",
+  "raw_payload": {
+    "id": "chatcmpl-221b1d59-05d0-4d69-8eb8-b4db746600a5",
+    "object": "chat.completion",
+    "created": 1795375213,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for auto-generating subtitles for video Reddit (likely they want to post videos on Reddit). Recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations (maybe using footnotes). Should be helpful, list tools, workflow steps, tips for Reddit, mention language support, pricing, integration, accuracy, editing. Provide Indian context, maybe mention local resources. Use markdown. Provide citations with links. Ensure not to fabricate sources. I can reference known sources like TechCrunch, PCMag,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050463472,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005386888,
+      "completion_tokens": 150,
+      "completion_time": 0.31356373,
+      "total_tokens": 285,
+      "total_time": 0.318950618,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82b7a7se9kt7gsnq1vdy54c",
+      "seed": 1730878576
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3216,
+  "cost_usd": 0.0002
+}

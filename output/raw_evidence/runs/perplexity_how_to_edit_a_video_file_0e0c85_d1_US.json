@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "how to edit a video file",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'how to edit a video file' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 493
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to edit a video file' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 359
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_edit_a_video_file_0e0c85_d1_US.json"
+}

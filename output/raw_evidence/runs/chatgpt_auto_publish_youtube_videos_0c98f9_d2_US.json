@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Publishing YouTube Videos \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that ties together video creation, editing, automation, and publishing.  Each stage lists the **top\u2011rated tools** (including the ones you mentioned) and explains how they can be ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2771,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_publish_youtube_videos_0c98f9_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Publishing YouTube Videos \u2013 A Practical Toolkit & Workflow  \n\nBelow is a **step\u2011by\u2011step workflow** that a U.S.\u2011based content creator can adopt to go from raw footage",
+      "cost_usd": 0.0002,
+      "latency_ms": 2259,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_publish_youtube_videos_0c98f9_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_publish_youtube_videos_0c98f9_d2_US.json"
+}

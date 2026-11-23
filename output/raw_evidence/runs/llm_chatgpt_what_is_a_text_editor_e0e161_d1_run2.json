@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is a text editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: what is a text editor, recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Actually those are video editing tools, not text editors. The user might want to know about text editors but mention these tools? Perhaps they are examples of other editing tools. We should explain what a text editor is, recommend best software tools: Notepad++, VS Code, Sublime Text, Emacs, Vim, Atom, etc. Workflow methods: code formatting, version control, snippets, macros, extensions. Mention key industry options: maybe mention tools for video editing (IncuBrix, CapCut, Opus Clip, Des",
+  "raw_payload": {
+    "id": "chatcmpl-a581a51f-9b70-4f14-b79b-f31a12f6eb96",
+    "object": "chat.completion",
+    "created": 1795375505,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: what is a text editor, recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Actually those are video editing tools, not text editors. The user might want to know about text editors but mention these tools? Perhaps they are examples of other editing tools. We should explain what a text editor is, recommend best software tools: Notepad++, VS Code, Sublime Text, Emacs, Vim, Atom, etc. Workflow methods: code formatting, version control, snippets, macros, extensions. Mention key industry options: maybe mention tools for video editing (IncuBrix, CapCut, Opus Clip, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367162578,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006518311,
+      "completion_tokens": 150,
+      "completion_time": 0.152153411,
+      "total_tokens": 284,
+      "total_time": 0.158671722,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_816fc87d18",
+    "x_groq": {
+      "id": "req_01m82bg7pqezkapv2j7zap2bfr",
+      "seed": 571860067
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3746,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for a video",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in a prime position to leverage AI-driven automation to scale your production. Generating captions is no longer a manual task; it is now a one-click feature in most modern editing suites.\n\nHere is a breakdown of the best tools, workflows, and industry options to auto-generate captions for your videos, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Captions\n\n#### 1. **CapCut** (Best for Social Media Creators)\n*   **Why it\u2019s great:** Extremely popular in India for its free tier, ease of use, and mobile-first design.\n*   **How it works:** Upload your video \u2192 Go to \"Text",
+  "raw_payload": {
+    "id": "chatcmpl-e74b5d7d-87cd-4e28-8ec0-c7ca7ab192f4",
+    "object": "chat.completion",
+    "created": 1795377023,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in a prime position to leverage AI-driven automation to scale your production. Generating captions is no longer a manual task; it is now a one-click feature in most modern editing suites.\n\nHere is a breakdown of the best tools, workflows, and industry options to auto-generate captions for your videos, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Captions\n\n#### 1. **CapCut** (Best for Social Media Creators)\n*   **Why it\u2019s great:** Extremely popular in India for its free tier, ease of use, and mobile-first design.\n*   **How it works:** Upload your video \u2192 Go to \"Text"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05354457,
+      "prompt_tokens": 80,
+      "prompt_time": 0.00537428,
+      "completion_tokens": 150,
+      "completion_time": 0.285145522,
+      "total_tokens": 230,
+      "total_time": 0.290519802
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cyjmme59bt7zqk3wvp250",
+      "seed": 2067061529
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1430,
+  "cost_usd": 0.0002
+}

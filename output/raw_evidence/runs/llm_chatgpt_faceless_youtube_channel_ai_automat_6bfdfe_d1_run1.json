@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India, wants \"faceless youtube channel ai automation free\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide answer. This is allowed content. Provide recommendations, free tools, workflow. Provide citations with URLs. Must be factual. Provide citations in brackets.\n\nWe must ensure not to violate policy. It's fine.\n\nWe should include free AI tools for faceless YouTube channel automation: script generation (ChatGPT, Jasper, Copy.ai free tiers), voice generation (ElevenLabs free tier, Murf AI free, TTS), video",
+  "raw_payload": {
+    "id": "chatcmpl-3918a6dc-f967-477d-8042-e431628dd941",
+    "object": "chat.completion",
+    "created": 1795375376,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India, wants \"faceless youtube channel ai automation free\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide answer. This is allowed content. Provide recommendations, free tools, workflow. Provide citations with URLs. Must be factual. Provide citations in brackets.\n\nWe must ensure not to violate policy. It's fine.\n\nWe should include free AI tools for faceless YouTube channel automation: script generation (ChatGPT, Jasper, Copy.ai free tiers), voice generation (ElevenLabs free tier, Murf AI free, TTS), video"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157834531,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005382908,
+      "completion_tokens": 150,
+      "completion_time": 0.310790324,
+      "total_tokens": 286,
+      "total_time": 0.316173232,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82bc9gped0vy6ek9s76290d",
+      "seed": 176532063
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2873,
+  "cost_usd": 0.0002
+}

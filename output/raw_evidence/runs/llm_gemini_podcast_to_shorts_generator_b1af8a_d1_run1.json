@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that transforming long-form podcast episodes into short-form vertical videos (TikTok, YouTube Shorts, Instagram Reels) is one of the most effective organic growth strategies available today. \n\nHere is a comprehensive breakdown of the best AI-powered repurposing tools, industry alternatives, and a proven workflow method to maximize your output with minimal effort.\n\n---\n\n### Part 1: Top Software Tools & Key Industry Options\n\nThe market for AI video repurposing is booming. Depending on whether you prioritize automated AI clipping or deep manual editing control, here are the leading options:\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n* **What it does:** Opus Clip uses generative AI to analyze a long-form video, extract the most engaging \"viral\" hooks, and automatically reframe them into 9:16 shorts complete with captions, emojis, and virality",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that transforming long-form podcast episodes into short-form vertical videos (TikTok, YouTube Shorts, Instagram Reels) is one of the most effective organic growth strategies available today. \n\nHere is a comprehensive breakdown of the best AI-powered repurposing tools, industry alternatives, and a proven workflow method to maximize your output with minimal effort.\n\n---\n\n### Part 1: Top Software Tools & Key Industry Options\n\nThe market for AI video repurposing is booming. Depending on whether you prioritize automated AI clipping or deep manual editing control, here are the leading options:\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n* **What it does:** Opus Clip uses generative AI to analyze a long-form video, extract the most engaging \"viral\" hooks, and automatically reframe them into 9:16 shorts complete with captions, emojis, and virality",
+              "thoughtSignature": "Eo4BCosBAWkUfRNP+KL3KSx5zttwkOpCPa4elqskbl8VBXX+b5rdcPaoc/7mgkvrpIIl6An/YQgzMugVNqfIHFrPdxd7HLMu+FST0lJzGso4o+UzC1gDRHPWreMve2GeVbY/RAPxcJt/5DM5gABrGUKTfrWlwQqJAImJT+94Kgw7gGgSb29+noWW32MzQ5E21g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pT0Da-eeErz1694P3e2L2A8"
+  },
+  "latency_ms": 6848,
+  "cost_usd": 0.0002
+}

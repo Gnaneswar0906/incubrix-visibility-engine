@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Editing Video\u202f\u2192\u202fTranscript\u202f\u2192\u202fFinal Cut  \n**A practical, cost\u2011effective workflow for U.S. content creators**\n\nBelow is a step\u2011by\u2011step workflow that lets you turn a raw recording into a polished video **by leveraging the transcript as the editing backbone**. ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2449,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_a9119e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "## Editing Video Using a Transcript \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that turns a plain text transcript into a polished video, plus a **tool\u2011by\u2011tool comparison** of the most popular solutions (including IncuBrix, CapCut, Opus\u202fClip,",
+      "cost_usd": 0.0002,
+      "latency_ms": 2242,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_a9119e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_a9119e_d2_US.json"
+}

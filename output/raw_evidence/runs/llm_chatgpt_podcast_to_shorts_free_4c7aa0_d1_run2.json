@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Turning a Podcast Episode into Free \u201cShorts\u201d (TikTok, YouTube Shorts, Instagram",
+  "raw_payload": {
+    "id": "chatcmpl-00016366-72a9-4f94-b6b0-e02a30ecb5b2",
+    "object": "chat.completion",
+    "created": 1795374476,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Turning a Podcast Episode into Free \u201cShorts\u201d (TikTok, YouTube Shorts, Instagram",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Query: \"podcast to shorts free\". They want recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. Must comply with policies. Provide free options, mention free tiers. Provide workflow: extract audio, find highlights, create video, add captions, export to TikTok/YouTube Shorts. Cite sources (like official sites, articles). Use proper formatting. No disallowed content. Provide suggestions."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316129227,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005258863,
+      "completion_tokens": 150,
+      "completion_time": 0.314072472,
+      "total_tokens": 283,
+      "total_time": 0.319331335,
+      "completion_tokens_details": {
+        "reasoning_tokens": 122
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82agt8ke03ahcrkxt4vfh99",
+      "seed": 414950764
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2827,
+  "cost_usd": 0.0002
+}

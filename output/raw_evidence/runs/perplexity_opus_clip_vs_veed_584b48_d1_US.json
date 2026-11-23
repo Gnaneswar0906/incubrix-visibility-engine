@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "opus clip vs veed",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'opus clip vs veed' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 348
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'opus clip vs veed' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 341
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_opus_clip_vs_veed_584b48_d1_US.json"
+}

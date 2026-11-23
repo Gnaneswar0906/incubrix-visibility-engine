@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai free without watermark",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting podcasts to shorts (short videos) using AI free without watermark. Need to recommend best software tools, workflow, mention key industry options, cite authoritative web sources if available. Must be appropriate for US content creator. Provide list, comparison, steps. Include citations. Ensure no disallowed content. Provide links. Use markdown. Provide citations with footnotes. Provide maybe a table. Provide workflow: transcript extraction, highlight selection, AI summarization, video generation, editing, export. Mention free options without watermark: e.g., Opus Clip free tier? CapCut free",
+  "raw_payload": {
+    "id": "chatcmpl-5c9be453-7779-434c-af68-c379114edabf",
+    "object": "chat.completion",
+    "created": 1795376479,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting podcasts to shorts (short videos) using AI free without watermark. Need to recommend best software tools, workflow, mention key industry options, cite authoritative web sources if available. Must be appropriate for US content creator. Provide list, comparison, steps. Include citations. Ensure no disallowed content. Provide links. Use markdown. Provide citations with footnotes. Provide maybe a table. Provide workflow: transcript extraction, highlight selection, AI summarization, video generation, editing, export. Mention free options without watermark: e.g., Opus Clip free tier? CapCut free"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316845391,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006227498,
+      "completion_tokens": 150,
+      "completion_time": 0.313401015,
+      "total_tokens": 286,
+      "total_time": 0.319628513,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82cdysde36vr0qry3cgkz85",
+      "seed": 1189134603
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2325,
+  "cost_usd": 0.0002
+}

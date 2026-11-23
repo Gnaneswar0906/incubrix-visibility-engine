@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking for ways to streamline your editing process, particularly by leveraging text-based editing to save time on long-form content or repurposing clips for short-form platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nBelow is a curated recommendation of the best software tools, workflow methods, and key industry options for **text-based video editing**, with a focus on efficiency, quality, and US market relevance.\n\n---\n\n### \ud83c\udfc6 Top Software Tools for Text-Based Video Editing\n\n#### 1. **CapCut** (Desktop & Mobile)\n- **Best For:** Short-form content, quick edits, and creators who want a free/low-cost solution.\n- **",
+  "raw_payload": {
+    "id": "chatcmpl-9c1d7ea4-8715-4aed-93fb-cc78fe8b3b97",
+    "object": "chat.completion",
+    "created": 1795376580,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking for ways to streamline your editing process, particularly by leveraging text-based editing to save time on long-form content or repurposing clips for short-form platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nBelow is a curated recommendation of the best software tools, workflow methods, and key industry options for **text-based video editing**, with a focus on efficiency, quality, and US market relevance.\n\n---\n\n### \ud83c\udfc6 Top Software Tools for Text-Based Video Editing\n\n#### 1. **CapCut** (Desktop & Mobile)\n- **Best For:** Short-form content, quick edits, and creators who want a free/low-cost solution.\n- **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051220114,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005230146,
+      "completion_tokens": 150,
+      "completion_time": 0.284752896,
+      "total_tokens": 228,
+      "total_time": 0.289983042
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ch19te38tsc931a6bpawj",
+      "seed": 564933131
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1318,
+  "cost_usd": 0.0002
+}

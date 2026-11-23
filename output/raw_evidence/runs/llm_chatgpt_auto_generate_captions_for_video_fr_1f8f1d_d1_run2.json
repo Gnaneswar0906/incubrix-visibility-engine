@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of free and freemium tools that can significantly streamline your workflow. Below is a curated guide to the best software, workflow methods, and key industry options for auto-generating captions using AI.\n\n### \ud83c\udfc6 Top Recommended Tools (Free or Freemium Tiers)\n\n#### 1. **CapCut** (Best All-Rounder for Social Media)\n*   **Why it\u2019s great:** CapCut\u2019s desktop and mobile apps offer powerful auto-captioning features that are highly accurate for English (UK) speech.\n*   **Free Features:** The basic auto-captioning is free. You can easily edit, style, and animate captions.",
+  "raw_payload": {
+    "id": "chatcmpl-0bfe5b81-1b61-4606-b495-a737ddc09970",
+    "object": "chat.completion",
+    "created": 1795375610,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of free and freemium tools that can significantly streamline your workflow. Below is a curated guide to the best software, workflow methods, and key industry options for auto-generating captions using AI.\n\n### \ud83c\udfc6 Top Recommended Tools (Free or Freemium Tiers)\n\n#### 1. **CapCut** (Best All-Rounder for Social Media)\n*   **Why it\u2019s great:** CapCut\u2019s desktop and mobile apps offer powerful auto-captioning features that are highly accurate for English (UK) speech.\n*   **Free Features:** The basic auto-captioning is free. You can easily edit, style, and animate captions."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048687665,
+      "prompt_tokens": 79,
+      "prompt_time": 0.006002684,
+      "completion_tokens": 150,
+      "completion_time": 0.284730524,
+      "total_tokens": 229,
+      "total_time": 0.290733208
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bke2ye2wtdp67a8jss5gj",
+      "seed": 1116045976
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2146,
+  "cost_usd": 0.0002
+}

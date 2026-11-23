@@ -1,0 +1,41 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "opus clip vs submagic",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'opus clip vs submagic' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 360
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'opus clip vs submagic' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 418
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_opus_clip_vs_submagic_be3306_d1_US.json"
+}

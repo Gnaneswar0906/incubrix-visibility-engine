@@ -1,0 +1,71 @@
+{
+  "assistant": "perplexity",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in US\n   - Query: \"youtube podcast to shorts converter free\"\n   - Request: Recommend best software/tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript)\n   - Requirement: Cite authoritative web sources if available\n\n2.  **Identify Core Needs:**\n   - Free YouTube podcast to Shorts converter\n   - Software/tools recommendation\n   - Workflow methods\n   - Specific mention of named tools (IncuBrix, CapCut, Opus Clip, Descript)\n   - Authoritative sources/citations\n\n3.",
+  "raw_payload": {
+    "id": "gen-1795374515-E5LN5yXg9JE4bOkHHEDz",
+    "object": "chat.completion",
+    "created": 1795374515,
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "provider": "Nvidia",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "length",
+        "native_finish_reason": "length",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "refusal": null,
+          "reasoning": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in US\n   - Query: \"youtube podcast to shorts converter free\"\n   - Request: Recommend best software/tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript)\n   - Requirement: Cite authoritative web sources if available\n\n2.  **Identify Core Needs:**\n   - Free YouTube podcast to Shorts converter\n   - Software/tools recommendation\n   - Workflow methods\n   - Specific mention of named tools (IncuBrix, CapCut, Opus Clip, Descript)\n   - Authoritative sources/citations\n\n3.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in US\n   - Query: \"youtube podcast to shorts converter free\"\n   - Request: Recommend best software/tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript)\n   - Requirement: Cite authoritative web sources if available\n\n2.  **Identify Core Needs:**\n   - Free YouTube podcast to Shorts converter\n   - Software/tools recommendation\n   - Workflow methods\n   - Specific mention of named tools (IncuBrix, CapCut, Opus Clip, Descript)\n   - Authoritative sources/citations\n\n3.",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 80,
+      "completion_tokens": 150,
+      "total_tokens": 230,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 150,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "latency_ms": 1296,
+  "cost_usd": 0.0002
+}

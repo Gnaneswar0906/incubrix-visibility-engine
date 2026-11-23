@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost accessibility, improve SEO on platforms like YouTube and Google, and serve as the foundation for repurposing content into blogs, social media posts, and newsletters. \n\nHere is a comprehensive guide detailing the best software tools, key industry options (including your specified list), and a streamlined workflow method.\n\n---\n\n### 1. Best Software Tools & Key Industry Options\n\nDepending on whether you want an all-in-one editing suite, AI-driven repurposing, or specialized transcription, several industry-leading tools stand out:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript is widely considered the industry leader for creators who want to edit video *by editing text*. It automatically transcribes audio with high accuracy (around 95%+). If you delete a sentence in the transcript, it deletes it from the video. It also offers",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost accessibility, improve SEO on platforms like YouTube and Google, and serve as the foundation for repurposing content into blogs, social media posts, and newsletters. \n\nHere is a comprehensive guide detailing the best software tools, key industry options (including your specified list), and a streamlined workflow method.\n\n---\n\n### 1. Best Software Tools & Key Industry Options\n\nDepending on whether you want an all-in-one editing suite, AI-driven repurposing, or specialized transcription, several industry-leading tools stand out:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript is widely considered the industry leader for creators who want to edit video *by editing text*. It automatically transcribes audio with high accuracy (around 95%+). If you delete a sentence in the transcript, it deletes it from the video. It also offers",
+              "thoughtSignature": "Eo4BCosBAWkUfRM8WIFr1XLcFZ7Mo+kvJrq8U6Hp172zu1OVNbI07oN6Y8nfwfGY061v1FvJkgL5h2pnOZpmkgYIuJWIKTHl/F/LJq94D8sMotCE6BHcI5HsqPHXqHFVaswuvUeXO971K56wD1ZeXUSvAKF8IvMwWG0Xy862PKyvmmQG4RCLaDE7RrGFn3o4pw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "m0UDa8T-AoOM694P3_zf-A4"
+  },
+  "latency_ms": 2289,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,98 @@
+{
+  "query": "ai text based video editor",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.descript.com/video-editing",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "ai text based video editor",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AI Video Editing Software | Edit Video by Typing",
+        "link": "https://www.descript.com/video-editing",
+        "displayedLink": "https://www.descript.com \u203a video-editing",
+        "snippet": "AI video editing software that lets you edit by editing text. Add captions, clean audio, cut filler words, and publish pro videos in minutes.",
+        "rating": 4.6,
+        "ratingCount": 936,
+        "position": 1
+      },
+      {
+        "title": "Text-Based Video Editing",
+        "link": "https://www.visla.us/text-based-video-editing",
+        "displayedLink": "https://www.visla.us \u203a text-based-video-editing",
+        "snippet": "Visla's text based video editing makes video creation as easy as editing a doc. Use AI to cut filler, trim silence, and polish content instantly.",
+        "position": 2
+      },
+      {
+        "title": "Add Text To Video Online For Free",
+        "link": "https://www.canva.com/features/add-text-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-text-to-video",
+        "snippet": "Make your videos engaging, descriptive, or informative! Easily add text to your video online using Canva's free online video editing tool.",
+        "position": 3
+      },
+      {
+        "title": "Text to video AI software",
+        "link": "https://pictory.ai/text-to-video",
+        "displayedLink": "https://pictory.ai \u203a text-to-video",
+        "snippet": "Pictory's text to video AI turns a script, article or notes into a finished video with visuals, AI voiceover and captions. Edit it online like a document.",
+        "rating": 4.6,
+        "ratingCount": 81,
+        "position": 4
+      },
+      {
+        "title": "Vmaker AI - Create & Edit Videos in Minutes with AI",
+        "link": "https://www.vmaker.com/",
+        "displayedLink": "https://www.vmaker.com",
+        "snippet": "Vmaker AI understands context, makes edits, adds captions, reframes speakers, and transforms your footage into videos ready to share.",
+        "position": 5
+      },
+      {
+        "title": "The 6 Best AI Text-Based Editing Tools to Speed Up Video ...",
+        "link": "https://www.soundstripe.com/blogs/the-6-best-ai-text-based-editing-tools-for-video-editing",
+        "displayedLink": "https://www.soundstripe.com \u203a blogs \u203a the-6-best-ai-text-based-ed...",
+        "snippet": "1. Adobe Premiere Text-Based Editing, #2. DaVinci Resolve Speech-to-Text, #3. Vimeo Trimmer Tool, #4. Descript, #5. Lumberjack System.",
+        "date": "31 Oct 2024",
+        "position": 6
+      },
+      {
+        "title": "VEED \u2013 AI Video Creation Platform | Idea to Video Workflow",
+        "link": "https://www.veed.io/",
+        "displayedLink": "https://www.veed.io",
+        "snippet": "Generate and edit in one workflow. Create talking heads, edit with AI, dub videos, and add subtitles \u2014 all in VEED. Built for marketers and solopreneurs.",
+        "position": 7
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video By Editing Text",
+        "link": "https://www.kapwing.com/ai/text-based-video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a ai \u203a text-based-video-editor",
+        "snippet": "With Kapwing's text-based video editor, remove any parts of your video by deleting text from the transcript in seconds.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 8
+      },
+      {
+        "title": "Text Based Video Editing For Beginners 2026",
+        "link": "https://www.youtube.com/watch?v=1VN8ema1G30",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "... AI tools in 2026, make sure to subscribe! 0:00 Intro 0:56 Text based editing tutorial 4:30 Co-creator 7:55 Outro #podcastai #aitools.",
+        "position": 9
+      },
+      {
+        "title": "AI Video Editor, No Editing Skills Needed",
+        "link": "https://www.opus.pro/ai-video-editor",
+        "displayedLink": "https://www.opus.pro \u203a ai-video-editor",
+        "snippet": "Edit 10X faster with text-based editing and shortcuts \u00b7 Customize videos with your brand assets \u00b7 Use AI to enhance visual and audio in 1 click.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

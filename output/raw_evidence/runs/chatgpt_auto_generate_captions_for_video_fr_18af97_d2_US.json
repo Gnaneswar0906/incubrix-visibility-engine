@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Generate Captions for Video\u202f\u2014\u202fFree Online Tools, Workflow, and Industry\u2011Standard Options",
+      "cost_usd": 0.0002,
+      "latency_ms": 2348,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_18af97_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants recommendation of best software tools for auto generating captions for video free online. Include workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer, list free tools",
+      "cost_usd": 0.0002,
+      "latency_ms": 2532,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_18af97_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_fr_18af97_d2_US.json"
+}

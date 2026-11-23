@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to scale their channel through automation, mastering the \"auto-post\" and repurposing workflow is one of the most effective ways to grow a YouTube Shorts channel. \n\nBelow is a comprehensive guide covering the best software tools, a recommended workflow method, and insights into key industry options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the short-form video pipeline (AI editing, resizing, captioning, and scheduling). Here is how the top options fit in:\n\n*   **Opus Clip (AI Repurposing & Curation):** \n    *   *What it does:* An AI-powered video repurposing tool that takes long-form videos (like podcasts, tutorials, or vlogs) and automatically chops them into multiple high-potential viral Shorts. It",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to scale their channel through automation, mastering the \"auto-post\" and repurposing workflow is one of the most effective ways to grow a YouTube Shorts channel. \n\nBelow is a comprehensive guide covering the best software tools, a recommended workflow method, and insights into key industry options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the short-form video pipeline (AI editing, resizing, captioning, and scheduling). Here is how the top options fit in:\n\n*   **Opus Clip (AI Repurposing & Curation):** \n    *   *What it does:* An AI-powered video repurposing tool that takes long-form videos (like podcasts, tutorials, or vlogs) and automatically chops them into multiple high-potential viral Shorts. It",
+              "thoughtSignature": "Eo4BCosBAWkUfRPvsk2zq3keVLpDu38NZ4lE900sl/oSDga16DbI4Ya5O6CC0C6UKyUX3T341M3i+hp1460z691cm7Tx4Vu9LUIO4zAK8F00KfVKu2w2Ie3iQwhqgrfN8A0g4ZKbtL3BMsMx9Zntpz1N8TaYfey2/UfuMgSE+M9TWlPbdi25Bp+/2H83PhEI4A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "LD8Da4eQON3E4t4Ptq_pwQU"
+  },
+  "latency_ms": 4230,
+  "cost_usd": 0.0002
+}

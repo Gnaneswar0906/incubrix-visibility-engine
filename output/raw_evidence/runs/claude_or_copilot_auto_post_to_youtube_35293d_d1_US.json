@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 386
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 406
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_post_to_youtube_35293d_d1_US.json"
+}

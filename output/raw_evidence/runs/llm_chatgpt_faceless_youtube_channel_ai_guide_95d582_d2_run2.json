@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai guide",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide guide for faceless YouTube channel using AI. Recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies: can provide citations, no disallowed content. Provide detailed guide.\n\nWe need to include citations: maybe using footnotes with URLs. Provide tools: script generation (ChatGPT, Jasper, Writesonic), voice generation (ElevenLabs, Murf AI, Resemble AI), video creation (Pictory, Synthesia, Runway, Opus Clip), editing (CapCut, Descript),",
+  "raw_payload": {
+    "id": "chatcmpl-48c595d2-74d1-40ac-8491-329439f83813",
+    "object": "chat.completion",
+    "created": 1795376828,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide guide for faceless YouTube channel using AI. Recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies: can provide citations, no disallowed content. Provide detailed guide.\n\nWe need to include citations: maybe using footnotes with URLs. Provide tools: script generation (ChatGPT, Jasper, Writesonic), voice generation (ElevenLabs, Murf AI, Resemble AI), video creation (Pictory, Synthesia, Runway, Opus Clip), editing (CapCut, Descript),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156232228,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005299171,
+      "completion_tokens": 150,
+      "completion_time": 0.310650438,
+      "total_tokens": 285,
+      "total_time": 0.315949609,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82crk6qe3map7ffgc8s3fsj",
+      "seed": 1348262792
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2649,
+  "cost_usd": 0.0002
+}

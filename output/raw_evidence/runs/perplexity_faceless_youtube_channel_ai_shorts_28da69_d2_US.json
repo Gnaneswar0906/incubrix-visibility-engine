@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel ai shorts' in US, popular recommendations include Submagic, Vidyo.ai. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 480
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'faceless youtube channel ai shorts' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 454
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_faceless_youtube_channel_ai_shorts_28da69_d2_US.json"
+}

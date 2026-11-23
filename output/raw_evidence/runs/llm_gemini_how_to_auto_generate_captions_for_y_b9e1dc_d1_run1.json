@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Auto",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto"
+            },
+            {
+              "text": "-generating captions for YouTube videos is essential for maximizing reach, as a significant portion of viewers watch videos with the sound off. Furthermore, captioned videos tend to retain audiences longer. \n\nFor a content creator based in the UK (GB), the ideal workflow combines AI-powered transcription with manual or AI-assisted editing to ensure high accuracy. Here is a comprehensive guide to the best software tools, industry options, and a recommended workflow.\n\n---\n\n### Key Industry Options & Software Tools\n\nDifferent tools cater to different production styles\u2014whether you want a quick, trendy mobile edit or a deep, text-based desktop workflow.\n\n#### 1. CapCut (Best for Trendy, Dynamic Mobile & Desktop Captions)\n*   **Overview:** CapCut (owned by ByteDance) has become an industry standard for short-form content (TikTok, YouTube Shorts, and Reels), but its desktop version is also robust for long-form video.\n*   **Key Features:** One-click",
+              "thoughtSignature": "Eo4BCosBAWkUfRM/eMGD+w7NqJOOvgj8PcJY7DVsTlOHtt0EG5HMbCPXUyH35otifHad/SoVJSOzXue741v9HPx3Tl/6PQzOka9TZ2yhROV5DbndfwusttnjqIPVSd9YcqSrfHc9yXnwp33avSkywvZ7NT5+ERyz9dO4P6ydc4BAbU/qzYvrVeiNDoZccgsv9A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2UEDa96uA8ee4t4P2ube4Qw"
+  },
+  "latency_ms": 6963,
+  "cost_usd": 0.0002
+}

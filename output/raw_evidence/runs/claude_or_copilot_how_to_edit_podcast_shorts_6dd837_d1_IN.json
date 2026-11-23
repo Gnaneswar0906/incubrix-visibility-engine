@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'how to edit podcast shorts' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 468
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'how to edit podcast shorts' in IN, popular recommendations include Descript, Opus Clip. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 429
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_edit_podcast_shorts_6dd837_d1_IN.json"
+}

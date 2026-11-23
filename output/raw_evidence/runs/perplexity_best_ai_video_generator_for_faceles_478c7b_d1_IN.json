@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'best ai video generator for faceless youtube channel reddit' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 393
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'best ai video generator for faceless youtube channel reddit' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 339
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_best_ai_video_generator_for_faceles_478c7b_d1_IN.json"
+}

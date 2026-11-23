@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'automatically post youtube shorts' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 356
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'automatically post youtube shorts' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 393
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_automatically_post_youtube_shorts_077771_d2_GB.json"
+}

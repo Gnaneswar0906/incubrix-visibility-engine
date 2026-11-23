@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto caption generator for video telugu' in IN, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 394
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto caption generator for video telugu' in IN, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 335
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_te_be42ec_d1_IN.json"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'faceless youtube channel in hindi' in IN, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 382
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'faceless youtube channel in hindi' in IN, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 427
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_faceless_youtube_channel_in_hindi_7f8c6d_d1_IN.json"
+}

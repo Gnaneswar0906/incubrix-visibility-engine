@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=repurpose+video+for+instagram",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "repurpose video for instagram",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 500,
+  "timestamp": "2026-11-22T12:27:35.324013+00:00",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=repurpose+video+for+instagram (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x215a4edd5b0>, 'Connection to suggestqueries.google.com timed out. (connect timeout=10)'))\"}"
+}

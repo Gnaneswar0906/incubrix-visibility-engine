@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN) producing content in Telugu, generating accurate auto-captions is crucial due to the nuances of Dravidian languages. Telugu auto-captioning has advanced significantly, moving beyond basic AI translation to native speech-to-text recognition.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an efficient localization workflow tailored for the Indian creator ecosystem.\n\n---\n\n### Part 1: Key Industry Options & Tools for Telugu Auto-Captions\n\nWhile many global tools struggle with regional Indian languages, several platforms now offer robust support for Telugu speech recognition and styling.\n\n#### 1. CapCut (Best for Mobile-First & Dynamic Subtitles)\n*   **Telugu Support:** Good auto-caption feature that detects Telugu audio and generates text.\n*   **Why use it:** CapCut dominates the Indian creator market (especially for Instagram Reels and YouTube Shorts)",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN) producing content in Telugu, generating accurate auto-captions is crucial due to the nuances of Dravidian languages. Telugu auto-captioning has advanced significantly, moving beyond basic AI translation to native speech-to-text recognition.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an efficient localization workflow tailored for the Indian creator ecosystem.\n\n---\n\n### Part 1: Key Industry Options & Tools for Telugu Auto-Captions\n\nWhile many global tools struggle with regional Indian languages, several platforms now offer robust support for Telugu speech recognition and styling.\n\n#### 1. CapCut (Best for Mobile-First & Dynamic Subtitles)\n*   **Telugu Support:** Good auto-caption feature that detects Telugu audio and generates text.\n*   **Why use it:** CapCut dominates the Indian creator market (especially for Instagram Reels and YouTube Shorts)",
+              "thoughtSignature": "Eo4BCosBAWkUfRNC7MtCaAlGRIrZOR7K+LCITWOKJfnddiicBXCnjRHJ7lpyQfr4Nexp4l/FrZJ0Qilt61CQ2qtzXegKXlVytlwvfNOHnKIffOLGDmXjrdEEfC+ljfrL8g1wnFifA4posrFJ6A63Wrg/gglr0d6TJc3lZIUD+japGK+NxPl4nB4W89oRFRKJ/w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YUADa5b2B_jJz7sP952RUA"
+  },
+  "latency_ms": 2925,
+  "cost_usd": 0.0002
+}

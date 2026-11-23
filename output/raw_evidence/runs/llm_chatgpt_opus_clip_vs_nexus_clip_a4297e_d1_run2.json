@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"opus clip vs nexus clip\" and recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must comply with policies. Provide comparison of Opus Clip vs Nexus Clip. Need authoritative sources. Use web search knowledge up to 2024. Provide citations with links. Ensure not to hallucinate. I can reference articles from TechRadar, PCMag, etc. Provide workflow suggestions for content creators in US. Provide citations using footnotes style. Also mention that Nexus Clip is a newer AI video clipping tool? I need to verify. I recall \"Nexus Clip\" might be a feature of \"",
+  "raw_payload": {
+    "id": "chatcmpl-9ff4e81c-90d4-460f-8dc0-23d1fd0a7edd",
+    "object": "chat.completion",
+    "created": 1795374970,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"opus clip vs nexus clip\" and recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must comply with policies. Provide comparison of Opus Clip vs Nexus Clip. Need authoritative sources. Use web search knowledge up to 2024. Provide citations with links. Ensure not to hallucinate. I can reference articles from TechRadar, PCMag, etc. Provide workflow suggestions for content creators in US. Provide citations using footnotes style. Also mention that Nexus Clip is a newer AI video clipping tool? I need to verify. I recall \"Nexus Clip\" might be a feature of \""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369458883,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005628236,
+      "completion_tokens": 150,
+      "completion_time": 0.311813648,
+      "total_tokens": 284,
+      "total_time": 0.317441884,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82azx4ke1n81ahbn7g1t05x",
+      "seed": 1559656615
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2836,
+  "cost_usd": 0.0002
+}

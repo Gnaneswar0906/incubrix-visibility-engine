@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=how+to+add+captions+in+reels+auto",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "how to add captions in reels auto",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:57:51.162479Z",
+  "extracted_count": 2,
+  "suggestions": [
+    "how to add auto captions in instagram reels",
+    "how to add auto captions in reels"
+  ],
+  "raw_response": "window.google.ac.h([\"how to add captions in reels auto\",[[\"how to add auto captions in instagram reels\",0,[22,30]],[\"how to add auto captions in reels\",0,[22,30]]],{\"k\":1}])"
+}

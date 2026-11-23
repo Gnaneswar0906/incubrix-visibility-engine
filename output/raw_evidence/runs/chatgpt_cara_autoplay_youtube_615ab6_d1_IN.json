@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "cara autoplay youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Cara Membuat Video **Autoplay** di YouTube (untuk Konten Kreator)\n\n> **Catatan:** \u201cAutoplay\u201d di YouTube biasanya merujuk pada dua hal:  \n> 1. **Fitur otomatis memutar video berikutnya**",
+      "cost_usd": 0.0002,
+      "latency_ms": 2465,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_cara_autoplay_youtube_615ab6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, you likely face the challenge of high competition and the need for maximum viewer retention to satisfy YouTube\u2019s algorithm. \"Autoplay\" on YouTube generally refers to two things from a creator\u2019s perspective:\n\n1.  **Auto-Play for Viewers:** Ensuring your video sta",
+      "cost_usd": 0.0002,
+      "latency_ms": 1335,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_cara_autoplay_youtube_615ab6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_cara_autoplay_youtube_615ab6_d1_IN.json"
+}

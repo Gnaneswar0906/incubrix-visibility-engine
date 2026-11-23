@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Adobe\u202fPremiere\u202fPro  \n*Tailored for a U.S.\u2011based content creator who wants fast, accurate subtitles and a smooth workflow.*\n\n---\n\n### 1. Why Use Auto\u2011Captioning?\n\n| Benefit | How it",
+  "raw_payload": {
+    "id": "chatcmpl-d062593b-af8a-4230-8938-07d87bda8416",
+    "object": "chat.completion",
+    "created": 1795374678,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Adobe\u202fPremiere\u202fPro  \n*Tailored for a U.S.\u2011based content creator who wants fast, accurate subtitles and a smooth workflow.*\n\n---\n\n### 1. Why Use Auto\u2011Captioning?\n\n| Benefit | How it",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto-generating captions for video in Premiere Pro. Include best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policies: no disallowed content. Provide citations. Use markdown. Provide steps. Provide links. Should be thorough."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317743417,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00537585,
+      "completion_tokens": 150,
+      "completion_time": 0.310483531,
+      "total_tokens": 286,
+      "total_time": 0.315859381,
+      "completion_tokens_details": {
+        "reasoning_tokens": 88
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82aq09cecxsf29wrm2ehv30",
+      "seed": 1841880526
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3348,
+  "cost_usd": 0.0002
+}

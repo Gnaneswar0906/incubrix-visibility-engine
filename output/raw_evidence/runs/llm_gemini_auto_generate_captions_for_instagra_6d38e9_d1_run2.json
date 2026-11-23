@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best software tools, key industry options, and an optimized workflow for auto-generating Instagram captions and video subtitles.\n\nIn the fast-paced world of U.S. social media, accessibility and engagement are paramount. Studies show that a significant percentage of users watch videos with the sound off, making accurate, stylized auto-captions a necessity for maximizing watch time and audience retention on Instagram Reels and Stories.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you need on-screen dynamic subtitles or AI-generated textual captions (copywriting) for your posts, several leading tools dominate the market.\n\n#### 1. CapCut (Best for Mobile & Dynamic Video Subtitles)\n*   **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is the gold standard for quick, highly engaging",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best software tools, key industry options, and an optimized workflow for auto-generating Instagram captions and video subtitles.\n\nIn the fast-paced world of U.S. social media, accessibility and engagement are paramount. Studies show that a significant percentage of users watch videos with the sound off, making accurate, stylized auto-captions a necessity for maximizing watch time and audience retention on Instagram Reels and Stories.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you need on-screen dynamic subtitles or AI-generated textual captions (copywriting) for your posts, several leading tools dominate the market.\n\n#### 1. CapCut (Best for Mobile & Dynamic Video Subtitles)\n*   **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is the gold standard for quick, highly engaging",
+              "thoughtSignature": "Eo4BCosBAWkUfRMK7Z6XpyRh6L8HyBXhhxVuKji4m82D6jDK0g0RyxKJx3tviWuRhwbmZV0CcooZLiRRPlEkMnVEoBOsNo1Itn3Q8oTZoWnOZZVySiNU8Sj3y5cf1c4lRXOoP59ZTBr1zGOYhHcTkG1iQ3jfV6DPiGZBGGZm4WJIB5mwBMu754P6KEEXDMBhJg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "fj4Da-34OeD83LUPo7qc-QM"
+  },
+  "latency_ms": 5082,
+  "cost_usd": 0.0002
+}

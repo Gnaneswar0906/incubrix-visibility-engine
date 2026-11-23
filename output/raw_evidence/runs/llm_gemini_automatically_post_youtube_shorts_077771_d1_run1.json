@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to streamline your channel growth, automating the creation and posting of YouTube Shorts is one of the most effective ways to build consistency. Automation generally involves three phases: **AI Repurposing/Editing**, **Captioning/Polishing**, and **Automated Scheduling/Posting**.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options to achieve fully automated YouTube Shorts workflows.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\n#### **A. AI Repurposing & Clipping (Long-to-Short)**\nIf you are turning long-form videos (podcasts, tutorials, streams) into Shorts, these tools use AI to detect viral hooks, crop the video to 9:16 vertical format, and add captions.\n*   **Opus Clip:** One of the industry leaders for automated clipping. It scores clips based on perceived virality,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to streamline your channel growth, automating the creation and posting of YouTube Shorts is one of the most effective ways to build consistency. Automation generally involves three phases: **AI Repurposing/Editing**, **Captioning/Polishing**, and **Automated Scheduling/Posting**.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options to achieve fully automated YouTube Shorts workflows.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\n#### **A. AI Repurposing & Clipping (Long-to-Short)**\nIf you are turning long-form videos (podcasts, tutorials, streams) into Shorts, these tools use AI to detect viral hooks, crop the video to 9:16 vertical format, and add captions.\n*   **Opus Clip:** One of the industry leaders for automated clipping. It scores clips based on perceived virality,",
+              "thoughtSignature": "Eo4BCosBAWkUfROPl85SRFHPF471BTPIg0A4W6dPDsTQg5FHz7gr8nLusSx8dyTbp5SBNVDoFKZbPZh0ObEtSbzGRFmlW9Cqhq4CVSFNjcb2KrJQImpJ9RjsT4ZwHngpMvdWL1MIoVfpP/n0s/TmCo00U58crlP5uVPpv2loxxqNJpOOCuyM5UZgXwMPi8dAkw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "PEIDa6fLN_S6juMPnJezmQw"
+  },
+  "latency_ms": 11068,
+  "cost_usd": 0.0002
+}

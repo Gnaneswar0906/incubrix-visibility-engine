@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. Provide recommendations for faceless YouTube channel creation using AI tools that are free. Recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe. Provide citations with links. Should be thorough.\n\nWe need to list AI tools for script generation, voiceover, video editing, thumbnail generation, etc. Mention free tiers. Provide workflow steps: ideation, scripting, voice, visuals, editing, publishing. Provide tips. Provide citations.\n\nWe'll include sources: maybe from TechRadar, PCMag, etc. Use proper citation format. Provide bullet points. Ensure it's",
+  "raw_payload": {
+    "id": "chatcmpl-72f580e8-be2a-4510-b9fe-270bab2360c3",
+    "object": "chat.completion",
+    "created": 1795375012,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. Provide recommendations for faceless YouTube channel creation using AI tools that are free. Recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe. Provide citations with links. Should be thorough.\n\nWe need to list AI tools for script generation, voiceover, video editing, thumbnail generation, etc. Mention free tiers. Provide workflow steps: ideation, scripting, voice, visuals, editing, publishing. Provide tips. Provide citations.\n\nWe'll include sources: maybe from TechRadar, PCMag, etc. Use proper citation format. Provide bullet points. Ensure it's"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158922338,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005114791,
+      "completion_tokens": 150,
+      "completion_time": 0.316805522,
+      "total_tokens": 285,
+      "total_time": 0.321920313,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b165qefsamzyg5c8qzja9",
+      "seed": 1931094997
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3766,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "text based video editing",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'text based video editing' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 321
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'text based video editing' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 354
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_text_based_video_editing_0fda7a_d2_US.json"
+}

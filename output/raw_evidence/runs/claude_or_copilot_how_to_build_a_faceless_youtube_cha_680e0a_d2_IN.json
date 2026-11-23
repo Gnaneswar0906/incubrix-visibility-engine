@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to build a faceless youtube channel using ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to build a faceless youtube channel using ai' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 437
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to build a faceless youtube channel using ai' in IN, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 334
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_build_a_faceless_youtube_cha_680e0a_d2_IN.json"
+}

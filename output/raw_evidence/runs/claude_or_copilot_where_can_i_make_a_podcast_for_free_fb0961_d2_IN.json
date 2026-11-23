@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "where can i make a podcast for free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'where can i make a podcast for free' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 353
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'where can i make a podcast for free' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 413
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_where_can_i_make_a_podcast_for_free_fb0961_d2_IN.json"
+}

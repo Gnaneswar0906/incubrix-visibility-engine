@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can break down the best AI",
+      "cost_usd": 0.0002,
+      "latency_ms": 6734,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_ai_40689b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form videos (TikToks, Reels, YouTube Shorts) using AI. \n\nLeveraging AI for clipping not only saves hours of manual editing but also analyzes transcripts to ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1920,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_ai_40689b_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_shorts_ai_40689b_d2_US.json"
+}

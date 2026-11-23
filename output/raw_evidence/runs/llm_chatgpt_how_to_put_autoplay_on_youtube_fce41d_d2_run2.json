@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"how to put autoplay on youtube\". They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer how to enable autoplay on YouTube. Autoplay is a YouTube feature that plays next video automatically. For embedding videos on a website, you can add autoplay parameter to the embed URL (autoplay=1). Also there are options for YouTube Shorts? Also for YouTube channel, you can set playlist autoplay. Also there is a setting for \"Autoplay on the watch page\" that can be",
+  "raw_payload": {
+    "id": "chatcmpl-d3b8b5be-5447-4fc1-b4d5-41944e83d92e",
+    "object": "chat.completion",
+    "created": 1795377080,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"how to put autoplay on youtube\". They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer how to enable autoplay on YouTube. Autoplay is a YouTube feature that plays next video automatically. For embedding videos on a website, you can add autoplay parameter to the embed URL (autoplay=1). Also there are options for YouTube Shorts? Also for YouTube channel, you can set playlist autoplay. Also there is a setting for \"Autoplay on the watch page\" that can be"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158823237,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005362342,
+      "completion_tokens": 150,
+      "completion_time": 0.309547861,
+      "total_tokens": 285,
+      "total_time": 0.314910203,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82d0a32extasn5bccypd5xs",
+      "seed": 1409911432
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2873,
+  "cost_usd": 0.0002
+}

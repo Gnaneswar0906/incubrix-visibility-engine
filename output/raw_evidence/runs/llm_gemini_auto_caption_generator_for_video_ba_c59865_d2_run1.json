@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For"
+            },
+            {
+              "text": " a content creator in the US targeting a Bengali-speaking audience (or producing bilingual/multilingual content), finding an AI auto-caption generator that accurately handles the Bengali script (\u09ac\u09be\u0982\u09b2\u09be \u09b2\u09bf\u09aa\u09bf) is crucial. While many western tools excel in English, Bengali support varies significantly due to complex conjunct characters and regional dialects.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and an evaluation of key industry options, including your requested platforms.\n\n---\n\n### 1. Key Industry Options & Bengali Capability\n\n#### **CapCut (Best Overall for Mobile & Free Desktop Editing)**\n*   **Bengali Support:** Excellent. CapCut\u2019s auto-caption feature supports Bengali and generally does a solid job recognizing phonetic nuances and standard Bengali speech.\n*   **Pros:** Free, highly customizable text animations, easy to correct mistranslated words manually, available on mobile (iOS/Android) and desktop.\n*   **Cons:** Desktop app has become slightly more monetized",
+              "thoughtSignature": "Eo4BCosBAWkUfRNoVWAPuBjVVrCTpaSCujwzZtEeMYfiY9ChbAlQUyGRW+prfGtM+1OR1ps/ik71UZJVjjveApce0JL0aFTXTl9umAihYq4/yh2iEOjJnHzrYA0M2ZNJ+5r+cs8oAmM86v0HTAuBxYSOq4CgQyG+hDmqsj2nAEXcCgLMOPRL0De0q3ZN3od76A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "AEYDa66jLo6w0r4P5Pid4Qs"
+  },
+  "latency_ms": 8389,
+  "cost_usd": 0.0002
+}

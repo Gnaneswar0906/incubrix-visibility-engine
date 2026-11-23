@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs invideo",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your video repurposing and editing workflow, choosing between **Opus Clip** and **InVideo** depends heavily on your primary goal: **automated short-form clipping** versus **script-to-video creation and full-scale editing**. \n\nBoth are industry-standard tools, but they serve different parts of the content creation pipeline. Below is a detailed comparison, workflow recommendations, and a look at other key industry options like **CapCut**, **Descript**, and **IncuBrix**.\n\n---\n\n### Opus Clip vs. InVideo: Head-to-Head\n\n#### 1. Opus Clip (Best for AI-Powered Repurposing)\n* **Core Function:** Opus Clip is a generative AI video repurposing tool that takes long-form videos (like podcasts, webinars, or YouTube videos) and automatically chops them into multiple viral short-form clips (Reels, TikToks, Shorts).",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your video repurposing and editing workflow, choosing between **Opus Clip** and **InVideo** depends heavily on your primary goal: **automated short-form clipping** versus **script-to-video creation and full-scale editing**. \n\nBoth are industry-standard tools, but they serve different parts of the content creation pipeline. Below is a detailed comparison, workflow recommendations, and a look at other key industry options like **CapCut**, **Descript**, and **IncuBrix**.\n\n---\n\n### Opus Clip vs. InVideo: Head-to-Head\n\n#### 1. Opus Clip (Best for AI-Powered Repurposing)\n* **Core Function:** Opus Clip is a generative AI video repurposing tool that takes long-form videos (like podcasts, webinars, or YouTube videos) and automatically chops them into multiple viral short-form clips (Reels, TikToks, Shorts).",
+              "thoughtSignature": "Eo4BCosBAWkUfRMktz/H2G9FbaGNT8EmThrIm7ueNfafkzFNAF+ny7dtcY0LRFV0GAlL7mORjl1Kz/4Uuf6+5PxNoukmxkFmfr+oKKir+OqzTnQVQYneetq4Euc0zkbDvlA07DQgpruo2Iqn5viM8GQoW5hQunxyH+ndif1EpOFeXmKlIcZ5JKqFyUisOQvdEA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ij8Da-zMEND3z7sPk8TayQE"
+  },
+  "latency_ms": 6602,
+  "cost_usd": 0.0002
+}

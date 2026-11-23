@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India. Provide guide on creating faceless YouTube channel using AI. Recommend software tools, workflow, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, com",
+      "cost_usd": 0.0002,
+      "latency_ms": 2967,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a guide on creating a faceless YouTube channel using AI, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe must comply with policy: It's allowed. Provid",
+      "cost_usd": 0.0002,
+      "latency_ms": 2548,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d2_IN.json"
+}

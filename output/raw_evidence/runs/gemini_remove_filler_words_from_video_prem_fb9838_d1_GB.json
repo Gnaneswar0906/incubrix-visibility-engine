@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'remove filler words from video premiere pro' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 381
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As a content creator in the UK, removing filler words (like \"um,\" \"uh,\" \"you know,\" and awkward pauses) is one of the most effective ways to tighten your pacing and boost viewer retention. While Adobe Premiere Pro has native tools, the fastest workflows often involve specialized AI-driven tools that",
+      "cost_usd": 0.0002,
+      "latency_ms": 6473,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_remove_filler_words_from_video_prem_fb9838_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_remove_filler_words_from_video_prem_fb9838_d1_GB.json"
+}

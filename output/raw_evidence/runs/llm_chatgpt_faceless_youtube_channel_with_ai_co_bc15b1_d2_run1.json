@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Building a **Faceless YouTube Channel**\u202f\u2014\u202fA Complete AI\u2011Powered Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to launch an \u201cAI Course\u201d series without ever showing",
+  "raw_payload": {
+    "id": "chatcmpl-1af8f87b-6963-4bb0-89d4-3122ecc5c196",
+    "object": "chat.completion",
+    "created": 1795376812,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Building a **Faceless YouTube Channel**\u202f\u2014\u202fA Complete AI\u2011Powered Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to launch an \u201cAI Course\u201d series without ever showing",
+          "reasoning": "The user wants recommendation for a faceless YouTube channel with AI course. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be thorough, give steps, tools for script writing, voice generation, video creation, editing, automation, SEO, thumbnail creation, analytics. Provide citations with links. Must comply with policy. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318422759,
+      "prompt_tokens": 136,
+      "prompt_time": 0.0066659,
+      "completion_tokens": 150,
+      "completion_time": 0.319058511,
+      "total_tokens": 286,
+      "total_time": 0.325724411,
+      "completion_tokens_details": {
+        "reasoning_tokens": 97
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82cr3zkekgbpxcygdt4qfz7",
+      "seed": 1080023563
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2674,
+  "cost_usd": 0.0002
+}

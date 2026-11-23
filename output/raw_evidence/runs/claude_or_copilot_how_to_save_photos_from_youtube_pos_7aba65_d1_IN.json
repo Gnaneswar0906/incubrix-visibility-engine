@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to save photos from youtube posts",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to save photos from youtube posts' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 386
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to save photos from youtube posts' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 371
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_save_photos_from_youtube_pos_7aba65_d1_IN.json"
+}

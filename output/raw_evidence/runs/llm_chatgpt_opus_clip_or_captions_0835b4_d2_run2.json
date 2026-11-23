@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in GB, asking about \"opus clip or captions\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative sources if available. Need to produce a helpful answer. Should mention features, pricing, pros/cons, best use cases. Also workflow suggestions: import, edit, add captions, export. Provide citations like from TechRadar, CNET, G2, etc. Should keep answer concise but thorough. Use markdown. Let's gather info: Opus Clip is a tool for editing short videos. CapCut is a free video editor. IncuBrix? Not sure.",
+  "raw_payload": {
+    "id": "chatcmpl-54c54c3d-48ef-4808-8f5d-12ef5a658462",
+    "object": "chat.completion",
+    "created": 1795377517,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in GB, asking about \"opus clip or captions\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative sources if available. Need to produce a helpful answer. Should mention features, pricing, pros/cons, best use cases. Also workflow suggestions: import, edit, add captions, export. Provide citations like from TechRadar, CNET, G2, etc. Should keep answer concise but thorough. Use markdown. Let's gather info: Opus Clip is a tool for editing short videos. CapCut is a free video editor. IncuBrix? Not sure."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.282946001,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006470426,
+      "completion_tokens": 150,
+      "completion_time": 0.163202226,
+      "total_tokens": 283,
+      "total_time": 0.169672652,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ef00694abe",
+    "x_groq": {
+      "id": "req_01m82ddmnhegdt5cpmj85v117m",
+      "seed": 1534824559
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4874,
+  "cost_usd": 0.0002
+}

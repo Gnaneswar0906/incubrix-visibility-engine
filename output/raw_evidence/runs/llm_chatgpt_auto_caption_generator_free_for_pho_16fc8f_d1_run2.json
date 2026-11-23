@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Caption Generators\u202f\u2014\u202fFree Tools for Adding Text to Photos**  \n*(Tailored for a content creator based in Great Britain)*  \n\n| Tool | Free tier / key limits | Main strengths for photos | How to use it in a typical workflow | Link / Source |\n|------",
+  "raw_payload": {
+    "id": "chatcmpl-cf351a21-d6b9-4fa4-a513-1d1e291104d1",
+    "object": "chat.completion",
+    "created": 1795375625,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Caption Generators\u202f\u2014\u202fFree Tools for Adding Text to Photos**  \n*(Tailored for a content creator based in Great Britain)*  \n\n| Tool | Free tier / key limits | Main strengths for photos | How to use it in a typical workflow | Link / Source |\n|------",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide auto caption generator free for photo. Provide authoritative web sources citations. Must comply with policy. Provide info, no disallowed content. Provide citations with links. Use markdown. Provide suggestions for free tools. Also mention workflow. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369019695,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005293844,
+      "completion_tokens": 150,
+      "completion_time": 0.311629503,
+      "total_tokens": 285,
+      "total_time": 0.316923347,
+      "completion_tokens_details": {
+        "reasoning_tokens": 82
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82bkwyye729b5ar0kh4fdg0",
+      "seed": 757876155
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4428,
+  "cost_usd": 0.0002
+}

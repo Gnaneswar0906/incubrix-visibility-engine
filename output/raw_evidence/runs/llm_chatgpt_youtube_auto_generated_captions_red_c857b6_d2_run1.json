@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube auto generated captions reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (including those listed). Also cite authoritative web sources. Provide context for a content creator in India (IN). Possibly talk about using YouTube's auto captions, editing them, using third-party tools, workflow steps, best practices, and mention Reddit communities where people discuss this. Provide citations with links.\n\nWe must comply with",
+  "raw_payload": {
+    "id": "chatcmpl-0ef74cbb-2836-4bc1-8a1a-436e0e35cc0f",
+    "object": "chat.completion",
+    "created": 1795377010,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube auto generated captions reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (including those listed). Also cite authoritative web sources. Provide context for a content creator in India (IN). Possibly talk about using YouTube's auto captions, editing them, using third-party tools, workflow steps, best practices, and mention Reddit communities where people discuss this. Provide citations with links.\n\nWe must comply with"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369072768,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005645291,
+      "completion_tokens": 150,
+      "completion_time": 0.312028551,
+      "total_tokens": 284,
+      "total_time": 0.317673842,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cy5gsed5s424bvc4fw6a3",
+      "seed": 1865612243
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3118,
+  "cost_usd": 0.0002
+}

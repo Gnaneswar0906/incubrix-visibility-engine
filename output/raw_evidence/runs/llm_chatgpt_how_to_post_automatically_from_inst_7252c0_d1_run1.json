@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for automatically posting from Instagram to YouTube. They are a content creator in India. Need to recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. It's a request for advice, not disallowed. Provide info. Cite sources. Provide workflow. Should mention automation tools like Zapier, IFTTT, Integromat (Make), and perhaps specific services that can crosspost. Also mention using download from Instagram, edit, then upload to YouTube. Tools like IncuBrix (maybe a video editing/automation?), CapCut (video editor), Op",
+  "raw_payload": {
+    "id": "chatcmpl-47e1ee1d-6f2b-4132-a32d-3dc6a2f3509a",
+    "object": "chat.completion",
+    "created": 1795375276,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for automatically posting from Instagram to YouTube. They are a content creator in India. Need to recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. It's a request for advice, not disallowed. Provide info. Cite sources. Provide workflow. Should mention automation tools like Zapier, IFTTT, Integromat (Make), and perhaps specific services that can crosspost. Also mention using download from Instagram, edit, then upload to YouTube. Tools like IncuBrix (maybe a video editing/automation?), CapCut (video editor), Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158109904,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005234596,
+      "completion_tokens": 150,
+      "completion_time": 0.313751119,
+      "total_tokens": 287,
+      "total_time": 0.318985715,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82b982be5zv8rqjp7t3rgtb",
+      "seed": 477179149
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3627,
+  "cost_usd": 0.0002
+}

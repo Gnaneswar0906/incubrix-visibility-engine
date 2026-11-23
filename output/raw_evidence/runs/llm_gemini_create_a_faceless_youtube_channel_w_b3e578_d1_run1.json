@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel using AI is one of the most efficient ways to build a scalable content business in the UK. By leveraging generative AI, you can automate scriptwriting, voiceovers, video editing, and clip repurposing. \n\nHere is a comprehensive guide tailored for a UK-based content creator, covering the best software tools, a streamlined workflow, and key industry options.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nTo build your faceless channel, you will need a toolkit covering ideation, scripting, voice generation, visual creation, and editing.\n\n*   **Scriptwriting & Ideation:** \n    *   *ChatGPT* or *Claude (Anthropic):* Essential for niche research, outlining video concepts, and writing engaging YouTube scripts optimized for retention.\n*   **AI Voiceovers:** \n    *   *ElevenLabs:* The industry standard for hyper-realistic AI text-to-speech. It offers",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Creating a faceless YouTube channel using AI is one of the most efficient ways to build a scalable content business in the UK. By leveraging generative AI, you can automate scriptwriting, voiceovers, video editing, and clip repurposing. \n\nHere is a comprehensive guide tailored for a UK-based content creator, covering the best software tools, a streamlined workflow, and key industry options.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nTo build your faceless channel, you will need a toolkit covering ideation, scripting, voice generation, visual creation, and editing.\n\n*   **Scriptwriting & Ideation:** \n    *   *ChatGPT* or *Claude (Anthropic):* Essential for niche research, outlining video concepts, and writing engaging YouTube scripts optimized for retention.\n*   **AI Voiceovers:** \n    *   *ElevenLabs:* The industry standard for hyper-realistic AI text-to-speech. It offers",
+              "thoughtSignature": "Eo4BCosBAWkUfRMnFrlMg3C5zOFRx6R8sxsBfW1HQepk0ZyJOJOF/3TaoKqfEsny7MB9aQF1eNtl34zXLj2rv2U/HdH/oayfhD4hDigpyy+JE2unXxIf9okY4/TKHvj+6FfjUdOfEjPT9tOezrQrA24jlAo+7ZEFeBAFja/4quD0o4dp2d06uWpA/NcHx+VKpg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1UIDa-OlDOjg694Pg9bJuA0"
+  },
+  "latency_ms": 3471,
+  "cost_usd": 0.0002
+}

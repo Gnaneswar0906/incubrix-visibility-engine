@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for a video",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto generating captions for a video. They are a content creator located in IN (India). Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy. This is normal content, no disallowed. Provide citations. Should we fabricate citations? Must be realistic. Could cite official sites, blogs. Provide links. Provide workflow steps. Also mention free vs paid options, integration, languages, accuracy.\n\nWe must not claim real-time browsing. But can reference known sources. Provide citations in format (e.g., [1]) with URLs. Should we include",
+  "raw_payload": {
+    "id": "chatcmpl-ca69a5f5-ee38-45b4-8bf8-8c7d319fb7be",
+    "object": "chat.completion",
+    "created": 1795377022,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto generating captions for a video. They are a content creator located in IN (India). Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy. This is normal content, no disallowed. Provide citations. Should we fabricate citations? Must be realistic. Could cite official sites, blogs. Provide links. Provide workflow steps. Also mention free vs paid options, integration, languages, accuracy.\n\nWe must not claim real-time browsing. But can reference known sources. Provide citations in format (e.g., [1]) with URLs. Should we include"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053861416,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005249334,
+      "completion_tokens": 150,
+      "completion_time": 0.314339912,
+      "total_tokens": 287,
+      "total_time": 0.319589246,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_245acb052a",
+    "x_groq": {
+      "id": "req_01m82cyh6se1hsaj31y8tehgb3",
+      "seed": 339747913
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3818,
+  "cost_usd": 0.0002
+}

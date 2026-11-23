@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking for an efficient online auto-caption generator, your",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking for an efficient online auto-caption generator, your"
+            },
+            {
+              "text": " choice of tool depends heavily on your workflow\u2014whether you are creating short-form vertical content (TikTok, Reels, Shorts) or long-form videos (YouTube, podcasts). \n\nHere is a comprehensive guide to the best software tools, industry options, and a recommended workflow tailored for the GB creator market.\n\n---\n\n### 1. Key Industry Options & Recommendations\n\n#### **CapCut (Best for Short-Form & Trend-Driven Editing)**\n*   **Overview:** Owned by ByteDance, CapCut is arguably the most popular tool globally for auto-captions, especially for TikTok, Instagram Reels, and YouTube Shorts.\n*   **Key Features:** Highly dynamic, animated \"Alex Hormozi-style\" captions, auto-syncing, emojis, and styling templates. It offers both a desktop app and a robust web version.\n*   **GB Relevance:** Widely used across the UK creator ecosystem due to its free tier and trend-matching templates.\n\n####",
+              "thoughtSignature": "Eo4BCosBAWkUfROV5EGAuY/mQoRlXHT+1l/juPdBhkF3skUfP3gVHoA2ZE2xdCKmTiYv6ofKGgnlZ0YQrZNaEmNVL3A7AvHd57j/lxP7FVNtXYzvFLsWIhTkcICGNDyVWw/YyXCHfgZ0L8WyfmRtFYH4RgPa0GFccwh+hf1Rh3YFprEDgwTGE3VOfF2ruC5zag=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 221,
+      "totalTokenCount": 285,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "F0IDa8eUJuSnz7sP1-PZAQ"
+  },
+  "latency_ms": 4078,
+  "cost_usd": 0.0002
+}

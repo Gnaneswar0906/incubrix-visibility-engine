@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video file",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you have access to some of the most powerful and diverse video editing ecosystems in the world. The \"best\" tool depends heavily on your specific niche (e.g., long-form YouTube, short-form social media, or corporate presentations) and your workflow preferences.\n\nHere\u2019s a breakdown of the top software tools, recommended workflows, and key industry options, including the specific tools you mentioned.\n\n### 1. Top Software Tools by Use Case\n\n#### \ud83c\udfac For Professional Long-Form & High-End Production\n*   **Adobe Premiere Pro**: The industry standard for linear editing. Best for YouTubers, filmmakers, and agencies. Integrates seamlessly with After Effects and Photoshop.\n",
+  "raw_payload": {
+    "id": "chatcmpl-b1ac015f-9402-4a32-b37d-c08497329792",
+    "object": "chat.completion",
+    "created": 1795374610,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you have access to some of the most powerful and diverse video editing ecosystems in the world. The \"best\" tool depends heavily on your specific niche (e.g., long-form YouTube, short-form social media, or corporate presentations) and your workflow preferences.\n\nHere\u2019s a breakdown of the top software tools, recommended workflows, and key industry options, including the specific tools you mentioned.\n\n### 1. Top Software Tools by Use Case\n\n#### \ud83c\udfac For Professional Long-Form & High-End Production\n*   **Adobe Premiere Pro**: The industry standard for linear editing. Best for YouTubers, filmmakers, and agencies. Integrates seamlessly with After Effects and Photoshop.\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046998698,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006364421,
+      "completion_tokens": 150,
+      "completion_time": 0.305690526,
+      "total_tokens": 228,
+      "total_time": 0.312054947
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82amxvgex8a9hg8e1kvkvm7",
+      "seed": 1208182771
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3674,
+  "cost_usd": 0.0002
+}

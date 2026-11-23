@@ -1,0 +1,102 @@
+{
+  "query": "opus game review",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://higherplaingames.com/pc/opus-echoes-of-starsong-review/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus game review",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OPUS: Echoes of Starsong \u2013 Review",
+        "link": "https://higherplaingames.com/pc/opus-echoes-of-starsong-review/",
+        "displayedLink": "https://higherplaingames.com \u203a pc \u203a opus-echoes-of-starsong-review",
+        "snippet": "A fine story told in a fascinating way with a world that begs to be explored. One of the best examples of visual novels not feeling like a visual novel at all.",
+        "position": 1
+      },
+      {
+        "title": "OPUS: Prism Peak Reviews",
+        "link": "https://www.metacritic.com/game/opus-prism-peak/",
+        "displayedLink": "https://www.metacritic.com \u203a game \u203a opus-prism-peak",
+        "snippet": "Metascore 86 (Generally favorable) based on 32 critic reviews. It is a masterpiece. I highly recommend this game. thoughtful, emotionally driven adventure",
+        "position": 2
+      },
+      {
+        "title": "OPUS: Prism Peak Review \u2013 Story, Gameplay, And Is It Worth Playing?",
+        "link": "https://noisypixel.net/opus-prism-peak-review-story-gameplay-worth-playing/",
+        "displayedLink": "https://noisypixel.net \u203a opus-prism-peak-review-stor...",
+        "snippet": "Prism Peak review covering story, gameplay, length, and themes. A reflective adventure from Sigono that blends photography and memory.",
+        "date": "15 Apr 2026",
+        "position": 3
+      },
+      {
+        "title": "OPUS: Prism Peak Review - Finding Meaning in the Moments We Overlook",
+        "link": "https://www.youtube.com/watch?v=0hCCdYIe_RA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "One Of My Favourite Stories In Gaming Has Returned \u2013 Opus: Prism Peak Review. The Kiseki Nut \u00b7 10K views ; More Obscure Overwhelmingly Positive\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "Save 30% on OPUS: Prism Peak on Steam",
+        "link": "https://store.steampowered.com/app/1947910/OPUS_Prism_Peak/",
+        "displayedLink": "https://store.steampowered.com \u203a app \u203a 1947910 \u203a OPUS_Prism_Peak",
+        "snippet": "Very high 1% lows, no stutters whatsoever. Very smooth and enjoyable gameplay experience. It doesn't matter if it's a story game or an action game, that's how ...",
+        "rating": 4.5,
+        "ratingCount": 1130,
+        "position": 5
+      },
+      {
+        "title": "OPUS: Prism Peak - Review Thread : r/Games",
+        "link": "https://www.reddit.com/r/Games/comments/1smczfw/opus_prism_peak_review_thread/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a opus_prism_peak_review_thread",
+        "snippet": "OPUS: Prism Peak is a well-written and engaging narrative adventure. I finished the game caring about Eugene and the entire world around him in ...",
+        "sitelinks": [
+          {
+            "title": "OPUS series by Sigono : r/patientgamers - Redditr/patientgamers\u00b75 comments\u00b72y",
+            "link": "https://www.reddit.com/r/patientgamers/comments/1aipuby/opus_series_by_sigono/"
+          },
+          {
+            "title": "The magnificent storytelling of OPUS: Echo of Starsong : r/patientgamersr/patientgamers\u00b720+ comments\u00b74y",
+            "link": "https://www.reddit.com/r/patientgamers/comments/x5ndf0/the_magnificent_storytelling_of_opus_echo_of/"
+          }
+        ],
+        "position": 6
+      },
+      {
+        "title": "Opus: Prism Peak review thread (indie game outta nowhere time)",
+        "link": "https://www.resetera.com/threads/opus-prism-peak-review-thread-indie-game-outta-nowhere-time.1492627/",
+        "displayedLink": "https://www.resetera.com \u203a threads \u203a opus-prism-peak-review-thre...",
+        "position": 7
+      },
+      {
+        "title": "OPUS series by Sigono",
+        "link": "https://www.reddit.com/r/patientgamers/comments/1aipuby/opus_series_by_sigono/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a opus_series_by_sigono",
+        "position": 8
+      },
+      {
+        "title": "Opus: Prism Peak - Mini-Review / Impressions",
+        "link": "https://www.reddit.com/r/Switch/comments/1sv1n8j/opus_prism_peak_minireview_impressions/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a opus_prism_peak_minireview_...",
+        "position": 9
+      },
+      {
+        "title": "OPUS: Prism Peak Review",
+        "link": "https://www.gamegrin.com/reviews/opus-prism-peak-review/",
+        "displayedLink": "https://www.gamegrin.com \u203a reviews \u203a opus-prism-peak-review",
+        "snippet": "Overall, I don't think that OPUS: Prism Peak is a game that anyone should miss out on. If you enjoy narrative adventure games without high ...",
+        "date": "15 Apr 2026",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

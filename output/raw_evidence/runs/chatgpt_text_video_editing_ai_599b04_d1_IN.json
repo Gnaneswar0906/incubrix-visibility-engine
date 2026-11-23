@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India, asking for recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations for text video editing AI. Should include",
+      "cost_usd": 0.0002,
+      "latency_ms": 3269,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editing_ai_599b04_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a prime position to leverage AI-driven video editing tools. The global market for AI video editing is growing rapidly, driven by the need for efficiency and localized content creation.\n\nHere are the best software tools, workflow methods, and key",
+      "cost_usd": 0.0002,
+      "latency_ms": 882,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editing_ai_599b04_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_video_editing_ai_599b04_d1_IN.json"
+}

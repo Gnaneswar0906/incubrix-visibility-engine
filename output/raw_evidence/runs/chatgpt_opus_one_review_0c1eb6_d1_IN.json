@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus one review",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"opus one review\". The user is a content creator located in IN (India). They want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to giv",
+      "cost_usd": 0.0002,
+      "latency_ms": 2511,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_one_review_0c1eb6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in India, you are likely looking for tools that not only enhance production quality but also help you scale your output efficiently, especially for platforms like YouTube, Instagram Reels, and LinkedIn.\n\nSince your query specifically mentions **Opus One** (which is often ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1008,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_one_review_0c1eb6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_one_review_0c1eb6_d1_IN.json"
+}

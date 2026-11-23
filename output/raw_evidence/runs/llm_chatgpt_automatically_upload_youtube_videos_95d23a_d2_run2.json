@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically upload youtube videos",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK (GB), you are in a strong position to leverage a mix of global automation tools and AI-driven workflows. \"Automatically uploading\" can mean two things: **1) Automated scheduling/publishing** (hands-off after creation) or **2) Automated content repurposing** (creating and uploading short-form clips from long-form video without manual editing).\n\nBelow is a curated guide to the best software tools, workflow methods, and industry options for 2024\u20132025, tailored for efficiency and scale.\n\n---\n\n### \ud83c\udfaf Key Industry Options & Best Software Tools\n\n#### 1. **For Automated Scheduling & Multi-Platform Publishing**\nThese",
+  "raw_payload": {
+    "id": "chatcmpl-8010e82c-c4b7-4e8c-968b-185209ee29b9",
+    "object": "chat.completion",
+    "created": 1795377494,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK (GB), you are in a strong position to leverage a mix of global automation tools and AI-driven workflows. \"Automatically uploading\" can mean two things: **1) Automated scheduling/publishing** (hands-off after creation) or **2) Automated content repurposing** (creating and uploading short-form clips from long-form video without manual editing).\n\nBelow is a curated guide to the best software tools, workflow methods, and industry options for 2024\u20132025, tailored for efficiency and scale.\n\n---\n\n### \ud83c\udfaf Key Industry Options & Best Software Tools\n\n#### 1. **For Automated Scheduling & Multi-Platform Publishing**\nThese"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054451936,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004971604,
+      "completion_tokens": 150,
+      "completion_time": 0.300228557,
+      "total_tokens": 226,
+      "total_time": 0.305200161
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dcy51eptt086f5ma634b9",
+      "seed": 1114817230
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1024,
+  "cost_usd": 0.0002
+}

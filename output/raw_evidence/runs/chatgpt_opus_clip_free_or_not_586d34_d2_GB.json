@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"opus clip free or not\". So user wants to know if Opus Clip is free or not. Also recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Also note user is located in GB (Great Britain). We",
+      "cost_usd": 0.0002,
+      "latency_ms": 3946,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_free_or_not_586d34_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you\u2019re likely looking to maximise efficiency without breaking the bank. Regarding your specific question about **Opus Clip**, here is the breakdown of its pricing model, followed by recommendations for the best software tools and workflows for 2024/2025.\n\n### I",
+      "cost_usd": 0.0002,
+      "latency_ms": 1085,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_free_or_not_586d34_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_free_or_not_586d34_d2_GB.json"
+}

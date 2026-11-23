@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to auto generate captions for tiktok",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to auto generate captions for tiktok' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 473
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to auto generate captions for tiktok' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 479
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_auto_generate_captions_for_t_898423_d1_GB.json"
+}

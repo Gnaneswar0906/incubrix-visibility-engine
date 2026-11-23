@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Opus Clip, Munch, Klap. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 430
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Klap, Veed.io. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 495
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_best_auto_caption_generator_reddit_fefb04_d1_IN.json"
+}

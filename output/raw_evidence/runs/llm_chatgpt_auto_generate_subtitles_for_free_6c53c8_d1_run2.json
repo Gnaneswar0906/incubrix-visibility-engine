@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: providing recommendations is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide links and citations. Provide free options for auto-generating subtitles. Also mention workflow steps. Provide UK-specific considerations maybe. Provide citations from reputable sites (e.g., TechRadar, PCMag, etc.) Provide mention that some tools have free tiers. Provide steps: upload video, auto-transcribe, edit, export SRT, embed.\n\nWe should not mention policy.",
+  "raw_payload": {
+    "id": "chatcmpl-ea2cbca5-ee9c-42fb-95ac-4c87d0c7dc98",
+    "object": "chat.completion",
+    "created": 1795375600,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: providing recommendations is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide links and citations. Provide free options for auto-generating subtitles. Also mention workflow steps. Provide UK-specific considerations maybe. Provide citations from reputable sites (e.g., TechRadar, PCMag, etc.) Provide mention that some tools have free tiers. Provide steps: upload video, auto-transcribe, edit, export SRT, embed.\n\nWe should not mention policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054182874,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005287775,
+      "completion_tokens": 150,
+      "completion_time": 0.313123351,
+      "total_tokens": 284,
+      "total_time": 0.318411126,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4be3b0989",
+    "x_groq": {
+      "id": "req_01m82bk4j8ek3t8nxw8hawyhqy",
+      "seed": 1343504137
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2381,
+  "cost_usd": 0.0002
+}

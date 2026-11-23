@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Title: Enhancing Your Content Creation Process: Auto Posting from YouTube to TikTok\n\nAs an AI assistant, I can guide you through the best software tools, workflow methods, and industry options available for auto posting your YouTube videos to TikTok. I will provide you with a diverse range of options, including popular platforms like IncuBrix, CapCut, Opus Clip, and Descript, along with reliable web sources to further explore each solution.\n\n1. IncuBrix:\nIncuBrix is a video marketing platform that helps creators streamline their content distribution across various social media platforms, including TikTok. It allows you to create a content schedule, publish videos automatically, and",
+  "raw_payload": {
+    "id": "chatcmpl-717c9ee5-8565-4e24-b443-7e0222b2ae50",
+    "object": "chat.completion",
+    "created": 1795377486,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Title: Enhancing Your Content Creation Process: Auto Posting from YouTube to TikTok\n\nAs an AI assistant, I can guide you through the best software tools, workflow methods, and industry options available for auto posting your YouTube videos to TikTok. I will provide you with a diverse range of options, including popular platforms like IncuBrix, CapCut, Opus Clip, and Descript, along with reliable web sources to further explore each solution.\n\n1. IncuBrix:\nIncuBrix is a video marketing platform that helps creators streamline their content distribution across various social media platforms, including TikTok. It allows you to create a content schedule, publish videos automatically, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05033305,
+      "prompt_tokens": 81,
+      "prompt_time": 0.00327389,
+      "completion_tokens": 150,
+      "completion_time": 0.106995397,
+      "total_tokens": 231,
+      "total_time": 0.110269287
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82dcppjen5bxcqah67xnmn2",
+      "seed": 667779944
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5087,
+  "cost_usd": 0.0002
+}

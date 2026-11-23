@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs perplexity",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation comparing Opus Clip vs Perplexity (likely Perplexity AI?), and also recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to be helpful. Provide overview of Opus Clip (video summarization), Perplexity (AI search assistant), maybe also Perplexity AI as content generation. Provide workflow for content creators: ideation, script, video editing, repurposing. Include tools: IncuBrix (maybe a platform for video? need check). Provide citations from authoritative sources (web). Use markdown. Provide links. Should be safe.",
+  "raw_payload": {
+    "id": "chatcmpl-083e8ac2-b571-4d95-912f-7d88ab13c36f",
+    "object": "chat.completion",
+    "created": 1795376740,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation comparing Opus Clip vs Perplexity (likely Perplexity AI?), and also recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to be helpful. Provide overview of Opus Clip (video summarization), Perplexity (AI search assistant), maybe also Perplexity AI as content generation. Provide workflow for content creators: ideation, script, video editing, repurposing. Include tools: IncuBrix (maybe a platform for video? need check). Provide citations from authoritative sources (web). Use markdown. Provide links. Should be safe."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156089172,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005467028,
+      "completion_tokens": 150,
+      "completion_time": 0.307744201,
+      "total_tokens": 284,
+      "total_time": 0.313211229,
+      "completion_tokens_details": {
+        "reasoning_tokens": 142
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82cnxq1eqk8w4p3kb5f1xtf",
+      "seed": 1642652067
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2196,
+  "cost_usd": 0.0002
+}

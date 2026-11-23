@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs vidyo.ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "cited_urls": [],
+  "response_text": "# Opus Clip vs. Vidyo.ai: The Ultimate Comparison for Content Creators in 2024\n\nAs a content creator in the US, you know that the battle for attention is won in the first 3 seconds. Both **Opus Clip** and **Vidyo.ai** are leading AI-powered tools designed to repurpose long-form video (podcasts, webinars, interviews) into short-form vertical clips for TikTok, Instagram Reels, and YouTube Shorts.\n\nWhile they serve the same core purpose, their approaches, strengths, and ideal use cases differ significantly. Below is a detailed comparison to help you choose the best tool for your workflow.\n\n---\n\n## \ud83c\udfc6 Quick Verdict: Which is Better?",
+  "raw_payload": {
+    "id": "chatcmpl-733cb36a-730a-4cd6-ae66-b4e84420723d",
+    "object": "chat.completion",
+    "created": 1795376778,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "# Opus Clip vs. Vidyo.ai: The Ultimate Comparison for Content Creators in 2024\n\nAs a content creator in the US, you know that the battle for attention is won in the first 3 seconds. Both **Opus Clip** and **Vidyo.ai** are leading AI-powered tools designed to repurpose long-form video (podcasts, webinars, interviews) into short-form vertical clips for TikTok, Instagram Reels, and YouTube Shorts.\n\nWhile they serve the same core purpose, their approaches, strengths, and ideal use cases differ significantly. Below is a detailed comparison to help you choose the best tool for your workflow.\n\n---\n\n## \ud83c\udfc6 Quick Verdict: Which is Better?"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052939478,
+      "prompt_tokens": 79,
+      "prompt_time": 0.006219932,
+      "completion_tokens": 150,
+      "completion_time": 0.299786736,
+      "total_tokens": 229,
+      "total_time": 0.306006668
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82cq368ewxr9e8btd2zg74w",
+      "seed": 1749958721
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1163,
+  "cost_usd": 0.0002
+}

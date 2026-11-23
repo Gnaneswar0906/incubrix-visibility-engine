@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: opus clip vs Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs others, recommend best software tools, workflow methods, mention key industry options, and cite sources. Provide citations with links. Use markdown. Provide a thorough answer. Also note US context.\n\nWe should ensure we comply with policy: no disallowed content. It's fine.\n\nWe need to cite authoritative web sources: we can reference official websites, reviews from reputable sites (TechCrunch",
+  "raw_payload": {
+    "id": "chatcmpl-ef93bf0f-43c1-4e1c-9666-ed8263f2a947",
+    "object": "chat.completion",
+    "created": 1795376723,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: opus clip vs Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs others, recommend best software tools, workflow methods, mention key industry options, and cite sources. Provide citations with links. Use markdown. Provide a thorough answer. Also note US context.\n\nWe should ensure we comply with policy: no disallowed content. It's fine.\n\nWe need to cite authoritative web sources: we can reference official websites, reviews from reputable sites (TechCrunch"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158052499,
+      "prompt_tokens": 132,
+      "prompt_time": 0.00568018,
+      "completion_tokens": 150,
+      "completion_time": 0.312609056,
+      "total_tokens": 282,
+      "total_time": 0.318289236,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cncvcebga1t1t3dt77knd",
+      "seed": 1757303685
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2076,
+  "cost_usd": 0.0002
+}

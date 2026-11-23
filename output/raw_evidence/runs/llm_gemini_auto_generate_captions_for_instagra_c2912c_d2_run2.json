@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to scale your Instagram Reels production, leveraging AI-powered auto-captioning tools is one of the most effective ways to boost watch time and engagement (especially since a high percentage of users watch social video on mute). \n\nHere is",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to scale your Instagram Reels production, leveraging AI-powered auto-captioning tools is one of the most effective ways to boost watch time and engagement (especially since a high percentage of users watch social video on mute). \n\nHere is"
+            },
+            {
+              "text": " a comprehensive guide to the best software tools, industry options, and an optimized workflow to streamline your content creation.\n\n---\n\n### Part 1: Industry-Leading Software Tools\n\nWhen choosing a tool for Instagram Reels captions, you want a mix of high transcription accuracy, stylish/dynamic text animations, and ease of use. Here are the top tools currently dominating the market:\n\n1. **CapCut (Best for Mobile & Dynamic Styles)**\n   * **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is the gold standard for trendy, high-retention short-form video captions. \n   * **Key Features:** \"Auto Captions\" feature with dozens of pre-set animated templates (popularized by creators like Alex Hormozi), auto-reframe, and background removal.\n   * **Best For:** Creators who edit on mobile or want that specific, fast-paced, word-by-word highlighted caption style.\n\n2.",
+              "thoughtSignature": "Eo4BCosBAWkUfRMKsych3m6RdXgF9QJzYlYwGr2itRlPiK9S70dKuXnGTL0JPZrSdrmDa2gLMocop+DQEmwdamYQT/RbVYv8OTlhRGFG2d0zyqjn4ARPqjlnUbw6Pu44fS5a+cyBjyHChpZyF6gYygxcollLHK+CGMcQQ/K37iiUb8RdQ/uvK69AxgmBsaqoEA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 258,
+      "totalTokenCount": 322,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4UUDa5nNE5CE694PuMqhmQI"
+  },
+  "latency_ms": 3206,
+  "cost_usd": 0.0002
+}

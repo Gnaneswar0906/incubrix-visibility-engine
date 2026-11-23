@@ -1,0 +1,96 @@
+{
+  "query": "different video editors",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://diyvideoeditor.com/best-video-editors-compared/",
+  "competitors_named": "CapCut",
+  "raw_response": {
+    "searchParameters": {
+      "q": "different video editors",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Best Video Editing Software 2027 Reviewed and Compared",
+        "link": "https://diyvideoeditor.com/best-video-editors-compared/",
+        "displayedLink": "https://diyvideoeditor.com \u203a best-video-editors-compared",
+        "snippet": "Wondershare Filmora excels in simplicity, Movavi Video Editor stands out. Adobe Premiere Elements and CapCut Desktop cater to home users with features",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 1
+      },
+      {
+        "title": "The Best Video Editing Software We've Tested for 2026",
+        "link": "https://www.pcmag.com/picks/the-best-video-editing-software",
+        "displayedLink": "https://www.pcmag.com \u203a picks \u203a the-best-video-editing-soft...",
+        "snippet": "We test and rate the top video editing software for every type of user, from casual family event videographers to social media posters to ...",
+        "date": "12 Oct 2026",
+        "position": 2
+      },
+      {
+        "title": "List of video editing software",
+        "link": "https://en.wikipedia.org/wiki/List_of_video_editing_software",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a List_of_video_editing_software",
+        "snippet": "Clipchamp (Web app) \u00b7 DaVinci Resolve (macOS, Windows, Linux, iPadOS) \u00b7 Freemake Video Converter (Windows) \u00b7 iMovie (iOS, macOS) \u00b7 ivsEdits (Windows) \u00b7 Lightworks ( ...",
+        "position": 3
+      },
+      {
+        "title": "Free Online Video Editor & Maker | Canva (Drag-and-drop)",
+        "link": "https://www.canva.com/video-editor/",
+        "displayedLink": "https://www.canva.com \u203a video-editor",
+        "snippet": "Create engaging professional videos from your browser using Canva's drag-and-drop editor with transitions, animations, designer fonts, audio library, ...",
+        "position": 4
+      },
+      {
+        "title": "The Best Video Editing Software in 2026 (Including Free Options)",
+        "link": "https://zapier.com/blog/best-video-editing-software/",
+        "displayedLink": "https://zapier.com \u203a blog \u203a best-video-editing-software",
+        "snippet": "Adobe Premiere for the best professional video editor overall. DaVinci Resolve for the best free video editor on Windows and Mac.",
+        "date": "5 Oct 2026",
+        "position": 5
+      },
+      {
+        "title": "Free Online Video Editor | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/editor",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a editor",
+        "snippet": "The Adobe Express free video editor helps you easily create your own professional and custom videos in minutes, no design skills needed.",
+        "position": 6
+      },
+      {
+        "title": "BEST Video Editing Software For Beginners",
+        "link": "https://www.youtube.com/watch?v=cAY8UEAGaI4&vl=en-GB",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video I walk through 3 of the best video editing programs for beginners, explaining what each one is good at and who it's best for.",
+        "position": 7
+      },
+      {
+        "title": "Types of Video Editing Software",
+        "link": "https://help.edume.com/creating-content/types-of-video-editing-software",
+        "displayedLink": "https://help.edume.com \u203a creating-content \u203a types-of-video-editing-soft...",
+        "snippet": "iMovie is the best option for beginners. If you prefer an advanced software both Final Cut Pro and Adobe Premiere Pro are suitable for you! These two software ...",
+        "position": 8
+      },
+      {
+        "title": "Best Video Editing Software in 2026 (I Tested Them All)",
+        "link": "https://www.youtube.com/watch?v=lkz8huDV-iU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Trying to figure out which video editing software is the best for you? Check out this breakdown! \u2b50\ufe0f Our free YouTube growth class reveals\u00a0...",
+        "position": 9
+      },
+      {
+        "title": "Best free video editing software of 2026: Fully tested and free to use on PC and ...",
+        "link": "https://www.techradar.com/best/free-video-editing-software",
+        "displayedLink": "https://www.techradar.com \u203a best \u203a free-video-editing-software",
+        "snippet": "The free app DaVinci Resolve is very good, especially on colour correction, while HitFilm is especially powerful and good for both beginners and ...",
+        "date": "6 Oct 2026",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

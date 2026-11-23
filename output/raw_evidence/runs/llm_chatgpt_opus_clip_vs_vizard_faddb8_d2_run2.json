@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs vizard",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, choosing between **Opus Clip** and **Vizard** often comes down to whether you prioritize **AI-driven virality metrics** (Opus) or **manual control and editing flexibility** (Vizard). Both are powerful tools for repurposing long-form video into short-form clips (TikTok, Reels, Shorts), but they serve slightly different workflows.\n\nHere\u2019s a detailed comparison, recommendation, and workflow integration guide.\n\n---\n\n### \ud83e\udd47 Quick Comparison: Opus Clip vs. Vizard\n\n| Feature | **Opus Clip** | **Vizard** |\n| :--- | :--- | :--- |\n| **Core Strength** | AI analysis for \"",
+  "raw_payload": {
+    "id": "chatcmpl-af191380-04c9-49de-a5c2-b3a3713e5b91",
+    "object": "chat.completion",
+    "created": 1795376760,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a content creator in the US, choosing between **Opus Clip** and **Vizard** often comes down to whether you prioritize **AI-driven virality metrics** (Opus) or **manual control and editing flexibility** (Vizard). Both are powerful tools for repurposing long-form video into short-form clips (TikTok, Reels, Shorts), but they serve slightly different workflows.\n\nHere\u2019s a detailed comparison, recommendation, and workflow integration guide.\n\n---\n\n### \ud83e\udd47 Quick Comparison: Opus Clip vs. Vizard\n\n| Feature | **Opus Clip** | **Vizard** |\n| :--- | :--- | :--- |\n| **Core Strength** | AI analysis for \""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049459492,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006166547,
+      "completion_tokens": 150,
+      "completion_time": 0.313821745,
+      "total_tokens": 228,
+      "total_time": 0.319988292
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cph0be5j9q4vcgbgxp8vb",
+      "seed": 154976742
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 971,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,99 @@
+{
+  "query": "text video editor app",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/add-text-to-video",
+  "competitors_named": "CapCut, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text video editor app",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Text to Video Online - Free Video Text Editor",
+        "link": "https://www.veed.io/tools/add-text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a add-text-to-video",
+        "snippet": "Adding text over videos is quick and intuitive with VEED. Add engaging headlines, emphasize key points, and generate subtitles \u2014 all from your browser.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Online Video Editor",
+        "link": "https://clideo.com/video-editor",
+        "displayedLink": "https://clideo.com \u203a video-editor",
+        "snippet": "Your all-in-one online video editor \u00b7 Add text to your video \u00b7 Make picture-in-picture and split-screen videos \u00b7 Works on All Devices \u00b7 Aspect Ratio Presets.",
+        "position": 2
+      },
+      {
+        "title": "Add Text To Video Online For Free",
+        "link": "https://www.canva.com/features/add-text-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-text-to-video",
+        "snippet": "Use Canva's free Add Text To Video Tool to easily edit videos with moving text, subtitles, and captions. Edit the text and you're done!",
+        "position": 3
+      },
+      {
+        "title": "Text to video AI software",
+        "link": "https://pictory.ai/text-to-video",
+        "displayedLink": "https://pictory.ai \u203a text-to-video",
+        "snippet": "Pictory's text to video AI turns a script, article or notes into a finished video with visuals, AI voiceover and captions. Edit it online like a document.",
+        "rating": 4.6,
+        "ratingCount": 81,
+        "position": 4
+      },
+      {
+        "title": "Best Video Editing Apps that are Actually Worth Using!",
+        "link": "https://www.youtube.com/watch?v=jbeHIyBHBpc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Top Video Editors for Android 2026. Video Compressor & Trimmer. CapCut: The Best Completely Free Video Editor You",
+        "position": 5
+      },
+      {
+        "title": "Text on Video Video Editor APK for Android - Download",
+        "link": "https://text-on-video-video-editor.en.softonic.com/android",
+        "displayedLink": "https://text-on-video-video-editor.en.softonic.com \u203a android",
+        "snippet": "Text On Video Video Editor is available for Android 9.0 and above. The current version of the software is 2.5.3.",
+        "date": "12 May 2026",
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video By Editing Text",
+        "link": "https://www.kapwing.com/ai/text-based-video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a ai \u203a text-based-video-editor",
+        "snippet": "Rated 4.9 with over 5,000 Google reviews, Kapwing is the best online video editor that allows you to edit video with text. Automatically generate video ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 7
+      },
+      {
+        "title": "Typito | Create stunning text videos online",
+        "link": "https://typito.com/",
+        "displayedLink": "https://typito.com",
+        "snippet": "Easy Video Editor to Add Text \u00b7 Design videos that are on-brand \u00b7 Customize any of the 500+ motion graphic templates \u00b7 Create videos across 20+ formats instantly.",
+        "position": 8
+      },
+      {
+        "title": "Add Text to Video Online for Free",
+        "link": "https://picsart.com/add-text-to-video/",
+        "displayedLink": "https://picsart.com \u203a add-text-to-video",
+        "snippet": "Add text to video online with the Picsart video text editor. Pick a text style, set fonts, colors, and timing, or generate AI video with the words built in.",
+        "position": 9
+      },
+      {
+        "title": "Video Text Editor APK for Android - Download",
+        "link": "https://video-text-editor.en.softonic.com/android",
+        "displayedLink": "https://video-text-editor.en.softonic.com \u203a android",
+        "snippet": "Video Text Editor is a free Android application that lets you easily add text to your videos. With its intuitive interface, you can add animated ...",
+        "date": "31 Oct 2025",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

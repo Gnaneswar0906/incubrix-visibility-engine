@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant for content creator in India. Provide list of most popular faceless YouTube channels (like channels that don't show faces, e.g., MrBeast? Actually he shows face. Faceless channels: \"The Infographics Show\", \"Kurzgesagt\", \"TechGenius\", \"Chillhop Music\", \"Cocomelon\"? Not sure. Provide popular ones: \"Chillhop Music\", \"Ambient\", \"Top 10\", \"WatchMojo\"? Many show faces. We'll list notable faceless channels: \"The Infographics Show\", \"Kurzgesagt \u2013 In a Nutshell\", \"Cleverbot\"? Actually \"Cocomelon\" uses animation. Provide categories: animation, narration",
+  "raw_payload": {
+    "id": "chatcmpl-4bd9a912-02ba-4545-b070-331c2198ea0f",
+    "object": "chat.completion",
+    "created": 1795377187,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant for content creator in India. Provide list of most popular faceless YouTube channels (like channels that don't show faces, e.g., MrBeast? Actually he shows face. Faceless channels: \"The Infographics Show\", \"Kurzgesagt\", \"TechGenius\", \"Chillhop Music\", \"Cocomelon\"? Not sure. Provide popular ones: \"Chillhop Music\", \"Ambient\", \"Top 10\", \"WatchMojo\"? Many show faces. We'll list notable faceless channels: \"The Infographics Show\", \"Kurzgesagt \u2013 In a Nutshell\", \"Cleverbot\"? Actually \"Cocomelon\" uses animation. Provide categories: animation, narration"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050875241,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005052129,
+      "completion_tokens": 150,
+      "completion_time": 0.312214104,
+      "total_tokens": 285,
+      "total_time": 0.317266233,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82d3jnger19rwsjbv3j1pte",
+      "seed": 2017774239
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2652,
+  "cost_usd": 0.0002
+}

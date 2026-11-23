@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'ai remove filler words from video' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 350
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'ai remove filler words from video' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 444
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_ai_remove_filler_words_from_video_6b768a_d2_GB.json"
+}

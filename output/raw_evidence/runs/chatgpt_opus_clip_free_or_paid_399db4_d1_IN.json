@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or paid",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a strategic position to leverage cost-effective yet powerful tools. Regarding your specific question about **Opus Clip**, here is the detailed breakdown of its pricing model, followed by recommendations for the best software and workflows tailor",
+      "cost_usd": 0.0002,
+      "latency_ms": 1029,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_free_or_paid_399db4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"opus clip free or paid\" and recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in India (IN). Provide informat",
+      "cost_usd": 0.0002,
+      "latency_ms": 3025,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_free_or_paid_399db4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_free_or_paid_399db4_d1_IN.json"
+}

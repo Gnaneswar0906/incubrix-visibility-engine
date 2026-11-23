@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Captioning for Telugu Video \u2013 Tools, Workflow & Tips  \n\nBelow is a practical, step\u2011by\u2011step workflow you",
+  "raw_payload": {
+    "id": "chatcmpl-b06b4366-d6cb-4ca3-b540-b729ee5d7dca",
+    "object": "chat.completion",
+    "created": 1795375195,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Captioning for Telugu Video \u2013 Tools, Workflow & Tips  \n\nBelow is a practical, step\u2011by\u2011step workflow you",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for auto caption generator for video Telugu. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Provide tips for Telugu language specifics. Provide cost info. Provide open-source options maybe. Provide best practices. Provide citations. Let's craft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36958282,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005871809,
+      "completion_tokens": 150,
+      "completion_time": 0.313502004,
+      "total_tokens": 286,
+      "total_time": 0.319373813,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82b6ry6ebar5hb49s65ymzt",
+      "seed": 990909381
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4241,
+  "cost_usd": 0.0002
+}

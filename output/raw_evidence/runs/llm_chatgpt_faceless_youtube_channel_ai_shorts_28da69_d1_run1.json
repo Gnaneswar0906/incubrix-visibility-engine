@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Faceless YouTube Shorts \u2013 A Complete Toolkit & Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to produce AI\u2011driven",
+  "raw_payload": {
+    "id": "chatcmpl-631bbd73-7038-40c5-b8ba-237a6135c6cf",
+    "object": "chat.completion",
+    "created": 1795375034,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Faceless YouTube Shorts \u2013 A Complete Toolkit & Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to produce AI\u2011driven",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for a faceless YouTube channel AI shorts. Need to cite authoritative web sources if available. Provide a thorough answer: overview, software categories (video creation, AI voice, text-to-speech, image generation, editing, automation), workflow steps, tips for faceless channel, monetization, SEO. Cite sources with URLs. Must be safe. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318148401,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006065638,
+      "completion_tokens": 150,
+      "completion_time": 0.309354616,
+      "total_tokens": 285,
+      "total_time": 0.315420254,
+      "completion_tokens_details": {
+        "reasoning_tokens": 109
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82b1v9ged2v3831rwzpd5re",
+      "seed": 331709135
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2866,
+  "cost_usd": 0.0002
+}

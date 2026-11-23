@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Starting a **Faceless YouTube Channel** with AI (ChatGPT\u202f+\u202fDeepSeek)\n\nBelow",
+  "raw_payload": {
+    "id": "chatcmpl-199e7833-31fc-4707-84fc-41e2d84098e7",
+    "object": "chat.completion",
+    "created": 1795375854,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Starting a **Faceless YouTube Channel** with AI (ChatGPT\u202f+\u202fDeepSeek)\n\nBelow",
+          "reasoning": "The user wants recommendations for starting a faceless YouTube channel using AI (ChatGPT, DeepSeek). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be tailored to a content creator in GB (UK). Provide steps, tools for script generation, voiceover, video editing, thumbnail, SEO, automation, etc. Provide citations with links. Must be safe. Provide info. Use markdown. Provide citations. Ensure referencing credible sources. Let's craft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317445068,
+      "prompt_tokens": 141,
+      "prompt_time": 0.007115169,
+      "completion_tokens": 150,
+      "completion_time": 0.310355636,
+      "total_tokens": 291,
+      "total_time": 0.317470805,
+      "completion_tokens_details": {
+        "reasoning_tokens": 118
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82btwefe5etxc5k21d891d7",
+      "seed": 447606798
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3466,
+  "cost_usd": 0.0002
+}

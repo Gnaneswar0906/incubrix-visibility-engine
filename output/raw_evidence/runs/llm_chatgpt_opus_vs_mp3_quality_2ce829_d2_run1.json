@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs mp3 quality",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Opus vs. MP3 \u2013 What\u2019s the real difference for a UK\u2011based content creator?**  \n*(All links are",
+  "raw_payload": {
+    "id": "chatcmpl-a3b03554-847f-456e-898c-f4a308a31969",
+    "object": "chat.completion",
+    "created": 1795377549,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Opus vs. MP3 \u2013 What\u2019s the real difference for a UK\u2011based content creator?**  \n*(All links are",
+          "reasoning": "We need to answer the query: \"opus vs mp3 quality\". Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Audience: content creator in GB. So mention UK context. Provide authoritative web sources. Provide explanation of audio codecs. Provide recommended software. Provide workflow suggestions. Provide citations: e.g., Wikipedia, Xiph.org, Wikipedia, maybe MDN, maybe research papers. Provide links. Provide citations format maybe in parentheses. Provide final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.24348673,
+      "prompt_tokens": 134,
+      "prompt_time": 0.011442009,
+      "completion_tokens": 150,
+      "completion_time": 0.162625382,
+      "total_tokens": 284,
+      "total_time": 0.174067391,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_92d51d08e5",
+    "x_groq": {
+      "id": "req_01m82dekxyehcb582cgxmgkfmw",
+      "seed": 1381707241
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6161,
+  "cost_usd": 0.0002
+}

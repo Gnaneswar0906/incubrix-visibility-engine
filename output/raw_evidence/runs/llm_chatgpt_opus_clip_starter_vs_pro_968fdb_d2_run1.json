@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you are likely looking for efficiency in repurposing long-form video content into short-form clips for platforms like TikTok, Reels, and Shorts. **Opus Clip** is currently one of the market leaders in AI-driven video repurposing, and understanding the difference between its **Starter** and **Pro** tiers is crucial for scaling your workflow.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended tools and workflows.\n\n### **Opus Clip: Starter vs. Pro**\n\n| Feature | **Starter Plan** | **Pro Plan** |\n| :--- | :--- | :--- |\n| **Price** | ~$15/month (or",
+  "raw_payload": {
+    "id": "chatcmpl-258b7499-21c1-4cb8-9276-b5d687ad362e",
+    "object": "chat.completion",
+    "created": 1795377572,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you are likely looking for efficiency in repurposing long-form video content into short-form clips for platforms like TikTok, Reels, and Shorts. **Opus Clip** is currently one of the market leaders in AI-driven video repurposing, and understanding the difference between its **Starter** and **Pro** tiers is crucial for scaling your workflow.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended tools and workflows.\n\n### **Opus Clip: Starter vs. Pro**\n\n| Feature | **Starter Plan** | **Pro Plan** |\n| :--- | :--- | :--- |\n| **Price** | ~$15/month (or"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048346621,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005354529,
+      "completion_tokens": 150,
+      "completion_time": 0.292392222,
+      "total_tokens": 228,
+      "total_time": 0.297746751
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dfaaheqmsh7ejpk92yrq9",
+      "seed": 1734513260
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2412,
+  "cost_usd": 0.0002
+}

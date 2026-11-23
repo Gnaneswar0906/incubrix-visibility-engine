@@ -1,0 +1,51 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai guide",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US build a **faceless YouTube channel**, the modern creator economy offers an unprecedented level of automation. Thanks to generative AI, you can now produce high-retention videos with minimal manual editing. \n\nBelow is a comprehensive guide detailing the best software tools, a proven production workflow, and an analysis of key industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. The Best Software Tools",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US build a **faceless YouTube channel**, the modern creator economy offers an unprecedented level of automation. Thanks to generative AI, you can now produce high-retention videos with minimal manual editing. \n\nBelow is a comprehensive guide detailing the best software tools, a proven production workflow, and an analysis of key industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. The Best Software Tools"
+            },
+            {
+              "text": " for Faceless Channels\n\nTo run an efficient faceless channel, your software stack needs to cover five pillars: Scriptwriting, Voiceover, Visuals/Editing, Short-Form Repurposing, and All-in-One Automation.\n\n*   **All-in-One Automation / Channel Management:**\n    *   **IncuBrix:** Emerging as a notable platform for automated and semi-automated channel scaling, IncuBrix is designed to streamline the heavy lifting of niche research, script generation, and content planning, making it ideal for creators looking to systematize production.\n*   **Scriptwriting & Ideation:**\n    *   **ChatGPT (Plus) / Claude 3.5 Sonnet:** Essential for generating hooks, outlines, and full scripts tailored to YouTube SEO and high audience retention.\n*   **Voiceover (Text-to-Speech):**\n    *   **ElevenLabs:** Widely regarded as the industry gold standard for hyper-realistic",
+              "thoughtSignature": "Eo4BCosBAWkUfRMraC8Zh5aV/bni4sd7ySOLEB4AocSGHILtA5l8wBjL/jmL+VqXl/YACkHWsmoUXcAavNvaQUzBp6XCMLV7eJIfUSMvMzmn5tpePz7vKRvWKITLr7e3zrTOX6phNtEdb4Mg0WEE3UmxRK4se/yt80aC/4Ziug8SMidG5FCI56BO6xA/M8kw3w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 303,
+      "totalTokenCount": 367,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xj8Da_bTDePo4t4Pp4vAsAs"
+  },
+  "latency_ms": 3329,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, specifically working with **Telugu** audio, you are navigating a growing but still challenging niche in the AI video editing space. Most general-purpose AI tools (like English-centric ones) often struggle with Dravidian languages due to lower training data availability.\n\nHowever, the landscape has improved significantly in 2024\u20132025. Below is a curated list of the **best software tools, workflow methods, and industry options** for generating accurate Telugu auto-captions, along with authoritative sources.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Telugu Auto-Captions\n\n#### 1. **CapCut (Pro/Desktop/Mobile)** \u2013 *Best Overall for Indian",
+  "raw_payload": {
+    "id": "chatcmpl-424bc341-ee3b-4bd8-9bdf-4289de00367c",
+    "object": "chat.completion",
+    "created": 1795376977,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, specifically working with **Telugu** audio, you are navigating a growing but still challenging niche in the AI video editing space. Most general-purpose AI tools (like English-centric ones) often struggle with Dravidian languages due to lower training data availability.\n\nHowever, the landscape has improved significantly in 2024\u20132025. Below is a curated list of the **best software tools, workflow methods, and industry options** for generating accurate Telugu auto-captions, along with authoritative sources.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Telugu Auto-Captions\n\n#### 1. **CapCut (Pro/Desktop/Mobile)** \u2013 *Best Overall for Indian"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052987016,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005403914,
+      "completion_tokens": 150,
+      "completion_time": 0.301439023,
+      "total_tokens": 229,
+      "total_time": 0.306842937
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cx4ryeb98fyadrhaffx0q",
+      "seed": 1070579491
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1134,
+  "cost_usd": 0.0002
+}

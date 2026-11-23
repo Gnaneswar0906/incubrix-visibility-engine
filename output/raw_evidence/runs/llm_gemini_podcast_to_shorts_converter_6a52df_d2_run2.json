@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can tell you that repurposing long-form podcast audio and video into short-form content (YouTube Shorts, TikTok, Instagram Reels) is one of the most effective growth strategies today. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to streamline your clipping process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven repurposing tools has exploded. Depending on whether you want fully automated AI clipping or manual, highly polished editing, here are the top industry standards:\n\n*   **Opus Clip (Industry Leader for AI Curation):** A generative AI video tool that repurposes long videos into shorts in one click. It analyzes your podcast, identifies the most engaging hooks, extracts them, and automatically adds captions, b-roll, and emojis. According to reviews on platforms like *Product Hunt* and creator case",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can tell you that repurposing long-form podcast audio and video into short-form content (YouTube Shorts, TikTok, Instagram Reels) is one of the most effective growth strategies today. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to streamline your clipping process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven repurposing tools has exploded. Depending on whether you want fully automated AI clipping or manual, highly polished editing, here are the top industry standards:\n\n*   **Opus Clip (Industry Leader for AI Curation):** A generative AI video tool that repurposes long videos into shorts in one click. It analyzes your podcast, identifies the most engaging hooks, extracts them, and automatically adds captions, b-roll, and emojis. According to reviews on platforms like *Product Hunt* and creator case",
+              "thoughtSignature": "Eo4BCosBAWkUfRMpCxpGOPq/RYHmNT/H3PhT/B0xIfzeST7/ImKbcy2k78VAMbv241I8tUKEFwtoTbS4EXJp80MVihxcu5vxdOrcstPE1JhgotV8GbhSSBA+KZuLgG46zfsPSXsSbV1JnxkuIbwzoWa0QNCMl0pLONueoYogevsgJrY31jipJEcNjgQGrYPNDw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bUUDa_byLe6W0r4P4sDMoQc"
+  },
+  "latency_ms": 1763,
+  "cost_usd": 0.0002
+}

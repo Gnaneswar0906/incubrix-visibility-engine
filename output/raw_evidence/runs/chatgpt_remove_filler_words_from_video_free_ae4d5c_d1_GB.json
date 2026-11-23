@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for removing filler words from video for free. Provide authoritative web sources if available. Must be suitable for a content creator in GB (UK). Provide",
+      "cost_usd": 0.0002,
+      "latency_ms": 2863,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_free_ae4d5c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Removing Filler Words from Video \u2013 Free\u2011Tool Guide (UK\u2011focused)**  \n\nBelow is a practical \u201ctool\u2011and\u2011workflow\u201d cheat\u2011sheet for content creators in Great Britain who want to strip out \u201cuh\u201d, \u201cum\u201d, \u201clike",
+      "cost_usd": 0.0002,
+      "latency_ms": 3075,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_free_ae4d5c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_free_ae4d5c_d1_GB.json"
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to cross-platform your content efficiently, repurposing YouTube videos to Facebook is one of the best ways to maximize your reach and ad revenue potential (via Facebook Reels and In-Stream Ads). \n\nBecause YouTube videos (typically 16:9 horizontal) and Facebook ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2809,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_to_facebook_20ac39_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that cross-posting your YouTube videos to Facebook is one of the most effective ways to maximize reach, build a multi-platform audience, and monetize content in multiple ecosystems. \n\nHowever, simply dropping a YouTube link on Fa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2542,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_to_facebook_20ac39_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_youtube_to_facebook_20ac39_d2_US.json"
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India looking to edit podcast shorts (reels, TikToks, and YouTube Shorts), you have access to a booming ecosystem of AI-driven tools and traditional editors. Editing podcast shorts efficiently requires balancing **automation** (to find the best clips and format them) with **creative control** (to match your personal brand). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options, tailored for creators.\n\n---\n\n### 1. Industry-Standard Tools & Software Options\n\nWhen it comes to editing podcast shorts, tools generally fall into two categories: **AI-repurposing tools** (which do the heavy lifting automatically) and **manual editors** (which offer precise control).\n\n#### **A. AI-Repurposing Tools (Best for Speed)**\n*   **Opus Clip:** One of the industry leaders for automated clipping. You drop in a long-form YouTube link, and its AI",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India looking to edit podcast shorts (reels, TikToks, and YouTube Shorts), you have access to a booming ecosystem of AI-driven tools and traditional editors. Editing podcast shorts efficiently requires balancing **automation** (to find the best clips and format them) with **creative control** (to match your personal brand). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options, tailored for creators.\n\n---\n\n### 1. Industry-Standard Tools & Software Options\n\nWhen it comes to editing podcast shorts, tools generally fall into two categories: **AI-repurposing tools** (which do the heavy lifting automatically) and **manual editors** (which offer precise control).\n\n#### **A. AI-Repurposing Tools (Best for Speed)**\n*   **Opus Clip:** One of the industry leaders for automated clipping. You drop in a long-form YouTube link, and its AI",
+              "thoughtSignature": "Eo4BCosBAWkUfRO7md/hlxnGJcc1arwRhIaCSFA9mtKVV3NZ40a4PHTzf4KeDVMX5UhA9RWpH8Ku19j+LCN6HGPehJlBXZx04blkxqfWa6+a5ljOxD1hOAk+XASs+vmwL/CZkqC47TgCFkzD+oMvoeCKX9iDLZTnZq3TiicmpKCnfzf+ALs2fz3n4y6+rfEKYw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "9T8Da63iBPri4t4P1Krb8AE"
+  },
+  "latency_ms": 2688,
+  "cost_usd": 0.0002
+}

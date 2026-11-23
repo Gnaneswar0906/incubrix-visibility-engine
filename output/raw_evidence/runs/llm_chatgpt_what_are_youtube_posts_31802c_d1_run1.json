@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what are youtube posts",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: what are youtube posts Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to explain what YouTube posts are (a feature on YouTube for community posts, like text, images, polls, etc.) Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be safe, no disallowed content. Provide UK context maybe.\n\nWe should cite authoritative sources like YouTube",
+  "raw_payload": {
+    "id": "chatcmpl-6ac80d4b-2f2e-49cb-8478-118f996804d0",
+    "object": "chat.completion",
+    "created": 1795375657,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: what are youtube posts Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to explain what YouTube posts are (a feature on YouTube for community posts, like text, images, polls, etc.) Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be safe, no disallowed content. Provide UK context maybe.\n\nWe should cite authoritative sources like YouTube"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369799311,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005277338,
+      "completion_tokens": 150,
+      "completion_time": 0.310804153,
+      "total_tokens": 283,
+      "total_time": 0.316081491,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82bmw6bepztgndb0rqvvmzj",
+      "seed": 322695551
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6961,
+  "cost_usd": 0.0002
+}

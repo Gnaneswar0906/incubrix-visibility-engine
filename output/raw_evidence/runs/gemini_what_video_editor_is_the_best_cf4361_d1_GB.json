@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "what video editor is the best",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Choosing the \"best\" video editor depends entirely on your content format, skill level, and workflow needs. As a content creator in Great Britain (GB), your choices may also be influenced by local broadcasting standards, currency pricing, and regional server speeds for cloud-based tools. \n\nTo give yo",
+      "cost_usd": 0.0002,
+      "latency_ms": 3283,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_what_video_editor_is_the_best_cf4361_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'what video editor is the best' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 359
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_what_video_editor_is_the_best_cf4361_d1_GB.json"
+}

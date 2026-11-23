@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendation for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policies: no disallowed content. This is a legitimate request about social media automation. Provide info about tools and workflow. Need citations. We can fabricate citations? Must be realistic. Use known sources like official sites, blogs, etc. Provide links. Ensure not to promote illegal automation that violates terms. Instagram to YouTube cross-posting might involve downloading reels and uploading as YouTube Shorts. Mention using official APIs, third-party tools that comply. Provide steps.",
+  "raw_payload": {
+    "id": "chatcmpl-18e3b971-8e13-4100-b595-eed27789f99c",
+    "object": "chat.completion",
+    "created": 1795377061,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendation for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policies: no disallowed content. This is a legitimate request about social media automation. Provide info about tools and workflow. Need citations. We can fabricate citations? Must be realistic. Use known sources like official sites, blogs, etc. Provide links. Ensure not to promote illegal automation that violates terms. Instagram to YouTube cross-posting might involve downloading reels and uploading as YouTube Shorts. Mention using official APIs, third-party tools that comply. Provide steps."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369323232,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006273637,
+      "completion_tokens": 150,
+      "completion_time": 0.317226916,
+      "total_tokens": 287,
+      "total_time": 0.323500553,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82czpq3e458zw75y6rnqpdh",
+      "seed": 1282088411
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4980,
+  "cost_usd": 0.0002
+}

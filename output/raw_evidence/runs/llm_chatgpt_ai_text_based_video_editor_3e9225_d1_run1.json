@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai text based video editor",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in a prime position to leverage the rapidly evolving AI text-based video editing landscape. The shift from timeline-based editing to **text-based editing** (where you edit video by editing the transcript) has democratized high-quality production, allowing you to cut clips, remove filler words, and add subtitles with the speed of a word processor.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options tailored for your needs.\n\n### \ud83c\udfc6 Top Recommended AI Text-Based Video Editors\n\n#### 1. **Descript** \u2013 *The Gold Standard for Text-Based Editing*\nDescript is widely considered the pioneer and most robust tool for true text-based video editing",
+  "raw_payload": {
+    "id": "chatcmpl-bd2752c6-bbd6-4b03-a630-dbf8a1d3f2a6",
+    "object": "chat.completion",
+    "created": 1795375168,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in a prime position to leverage the rapidly evolving AI text-based video editing landscape. The shift from timeline-based editing to **text-based editing** (where you edit video by editing the transcript) has democratized high-quality production, allowing you to cut clips, remove filler words, and add subtitles with the speed of a word processor.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options tailored for your needs.\n\n### \ud83c\udfc6 Top Recommended AI Text-Based Video Editors\n\n#### 1. **Descript** \u2013 *The Gold Standard for Text-Based Editing*\nDescript is widely considered the pioneer and most robust tool for true text-based video editing"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048945004,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005036446,
+      "completion_tokens": 150,
+      "completion_time": 0.284700362,
+      "total_tokens": 227,
+      "total_time": 0.289736808
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b5yn9ezd80qvjynk6234n",
+      "seed": 1911360154
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1612,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto generate captions for video premiere pro' in US, popular recommendations include Munch. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 395
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'auto generate captions for video premiere pro' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 343
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_generate_captions_for_video_pr_3b5894_d1_US.json"
+}

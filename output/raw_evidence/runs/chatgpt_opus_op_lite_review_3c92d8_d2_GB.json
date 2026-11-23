@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus op lite review",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"opus op lite review\" for a content creator in GB. They want recommendation of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources if available.\n\nWe need to review Opu",
+      "cost_usd": 0.0002,
+      "latency_ms": 5966,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_op_lite_review_3c92d8_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! Based on your query and your location in the UK, it seems you are looking for a review and recommendation of **Opus Clip** (often referred to in search terms as \"Opus Lite\" or just \"Opus,\" but the primary product is **Opus Clip**) and its place in the current video editing workflow.\n\nNote: Th",
+      "cost_usd": 0.0002,
+      "latency_ms": 1951,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_op_lite_review_3c92d8_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_op_lite_review_3c92d8_d2_GB.json"
+}

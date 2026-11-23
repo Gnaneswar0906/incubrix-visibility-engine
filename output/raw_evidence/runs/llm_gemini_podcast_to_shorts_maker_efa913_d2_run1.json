@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the search for a reliable \"podcast-to-shorts\" maker is all about maximizing reach on platforms like TikTok, YouTube Shorts, and Instagram Reels while minimizing editing time. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014backed by insights from top creator economy resources (such as *Creator Science*, *TechCrunch*, and industry standard practices).\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven repurposing tools has exploded. Here is how the top contenders stack up:\n\n*   **Opus Clip (Industry Standard for AI Curation):**\n    *   **Best For:** Fully automated clip generation. \n    *   **Features:** You drop in a YouTube link or upload a long-form podcast.",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the search for a reliable \"podcast-to-shorts\" maker is all about maximizing reach on platforms like TikTok, YouTube Shorts, and Instagram Reels while minimizing editing time. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014backed by insights from top creator economy resources (such as *Creator Science*, *TechCrunch*, and industry standard practices).\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven repurposing tools has exploded. Here is how the top contenders stack up:\n\n*   **Opus Clip (Industry Standard for AI Curation):**\n    *   **Best For:** Fully automated clip generation. \n    *   **Features:** You drop in a YouTube link or upload a long-form podcast.",
+              "thoughtSignature": "Eo4BCosBAWkUfRPymRj6Po4Wgx/e0CTaZ20ngNyN2/W9yoCbDFc7lXwL6y1uYBWbzuoMZ2UsNkXalirP7ON5x7z8QH4feyPJIWWjNcG8TjYWl61RpTVUiAkRgyjUGUjPVw/p09KAKCbDkCADICR2FqBafILKvKzIywDePlTmF1P6J5JKrc8GiAPpnxtWrKqgaA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "cUUDa8HrHtTEg8UPsuvV-Qs"
+  },
+  "latency_ms": 2182,
+  "cost_usd": 0.0002
+}

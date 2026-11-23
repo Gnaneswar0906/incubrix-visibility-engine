@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: content creator located in GB. Wants auto captions for free. Ask to recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a thorough answer: list software options, describe features, mention if free or freemium, workflow methods, key industry options. Provide citations: e.g. websites, reviews. Use up-to-date info. Also mention that Descript is paid but has free trial. CapCut is free. Opus Clip is free. Incubrix? Not sure. Maybe it's \"InVideo\" or \"IncuBrix\"? Let's research. Incu",
+  "raw_payload": {
+    "id": "chatcmpl-fbdd02d9-af6a-49a4-90a1-e11744cbc478",
+    "object": "chat.completion",
+    "created": 1795377415,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: content creator located in GB. Wants auto captions for free. Ask to recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a thorough answer: list software options, describe features, mention if free or freemium, workflow methods, key industry options. Provide citations: e.g. websites, reviews. Use up-to-date info. Also mention that Descript is paid but has free trial. CapCut is free. Opus Clip is free. Incubrix? Not sure. Maybe it's \"InVideo\" or \"IncuBrix\"? Let's research. Incu"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.347745836,
+      "prompt_tokens": 134,
+      "prompt_time": 0.007238253,
+      "completion_tokens": 150,
+      "completion_time": 0.160922114,
+      "total_tokens": 284,
+      "total_time": 0.168160367,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_565badff47",
+    "x_groq": {
+      "id": "req_01m82daghhexzbqd99rypjetyp",
+      "seed": 919036575
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4877,
+  "cost_usd": 0.0002
+}

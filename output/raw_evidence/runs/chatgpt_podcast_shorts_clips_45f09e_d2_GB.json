@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts clips",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. Must be a content creator located in GB (UK). Provide recommendations relevant to UK, maybe mention co",
+      "cost_usd": 0.0002,
+      "latency_ms": 3531,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_clips_45f09e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. No disallowed conten",
+      "cost_usd": 0.0002,
+      "latency_ms": 3033,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_clips_45f09e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_clips_45f09e_d2_GB.json"
+}

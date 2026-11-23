@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India (IN) looking to dive into the world of podcast shorts, vertical video (Reels, YouTube Shorts, and TikTok) is currently the absolute best way to grow your main podcast audience. \n\nTo help you master this, here is a comprehensive tutorial-style guide covering the best tools, an optimized workflow, and insights into key industry options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Phase 1: Key Industry Tools & Software Options\n\nDifferent tools serve different parts of the podcast-to-shorts pipeline. Here is how the major players stack up:\n\n1. **Opus Clip (AI Repurposing - Best for Automation)**\n   * **What it does:** Uses generative AI to analyze long-form video, extract the most engaging \"hook-worthy\" moments, and automatically crop them into 9:16 vertical clips complete with dynamic captions and viral",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India (IN) looking to dive into the world of podcast shorts, vertical video (Reels, YouTube Shorts, and TikTok) is currently the absolute best way to grow your main podcast audience. \n\nTo help you master this, here is a comprehensive tutorial-style guide covering the best tools, an optimized workflow, and insights into key industry options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Phase 1: Key Industry Tools & Software Options\n\nDifferent tools serve different parts of the podcast-to-shorts pipeline. Here is how the major players stack up:\n\n1. **Opus Clip (AI Repurposing - Best for Automation)**\n   * **What it does:** Uses generative AI to analyze long-form video, extract the most engaging \"hook-worthy\" moments, and automatically crop them into 9:16 vertical clips complete with dynamic captions and viral",
+              "thoughtSignature": "Eo4BCosBAWkUfRPPskvL44yUa6SEoiku92w6DXSWq9PcDyDJsezMEj43FzTVoOnPe3rqmrYL6RnRM/TU7m/azuQwaIaf6vaa8K738apm96PnZaGis4/S/+QW8fcjep4Frrnj74ddfQ48c5Hd7eWjzNHiHWS6zMjSKoRDN8VWSZwOuMY8lEzTTa1+sa1KgxCuXw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "CEADa9OmBe20juMPgKWKsQE"
+  },
+  "latency_ms": 2772,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning",
+  "raw_payload": {
+    "id": "chatcmpl-05f6404e-3d3e-4d6f-b948-2690b7b0d3a9",
+    "object": "chat.completion",
+    "created": 1795376494,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with URLs. Provide workflow steps. Possibly include free/paid options, AI-based clipping, transcription, editing, exporting to YouTube Shorts, Instagram Reels, TikTok. Provide best practices. Use markdown. Provide citations. Use reliable sources: official websites, TechCrunch, The Verge, etc. Provide links. Ensure no copyrighted content beyond fair use. Should be fine."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047511529,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005053391,
+      "completion_tokens": 150,
+      "completion_time": 0.313340867,
+      "total_tokens": 283,
+      "total_time": 0.318394258,
+      "completion_tokens_details": {
+        "reasoning_tokens": 140
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b9a23305b9",
+    "x_groq": {
+      "id": "req_01m82cedg6ep88nrejefy0q8vp",
+      "seed": 1837772822
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1656,
+  "cost_usd": 0.0002
+}

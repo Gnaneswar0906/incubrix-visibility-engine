@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast format example",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast format example' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 417
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'podcast format example' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 338
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_format_example_c3a69b_d1_GB.json"
+}

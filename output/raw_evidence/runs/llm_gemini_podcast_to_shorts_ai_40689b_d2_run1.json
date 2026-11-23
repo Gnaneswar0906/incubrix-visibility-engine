@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can break down the best AI",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can break down the best AI"
+            },
+            {
+              "text": " tools, industry standards, and a step-by-step workflow for turning long-form podcasts into viral Shorts, Reels, and TikToks. \n\nRepurposing long-form content is currently one of the highest-ROI strategies for creators, and AI has largely automated the most tedious parts (clipping, captioning, and resizing).\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI video repurposing tools has exploded. Here is how the top options stack up, including the ones you mentioned:\n\n*   **Opus Clip (The Current Industry Standard for Automated Curation):**\n    *   **Best For:** Fully automated \"one-click\" clipping. \n    *   **How it works:** You paste a YouTube link (or upload a file), and its AI analyzes the transcript, finds the most engaging \"hooks,\" crops the speaker to 9:16, adds dynamic captions, and even scores the clip based on",
+              "thoughtSignature": "Eo4BCosBAWkUfRNYqU+gXp7rwghyZgMZ8iiyy7q2Ze3bcl8hDNositRA1uE169q9Qdmj7yW9sXid53DNCeZ5lrQOTse3Zi6/o9zh75ZlZL8puoch3JtH329/15NHeudViKs3fI8R2vHfnbQa75rTpoZizVSbznXpWRbAgKFFBikt08a3ULh0x+en88ynF6uXeg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 221,
+      "totalTokenCount": 283,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XkUDa9moHN-ng8UPuZbNkAE"
+  },
+  "latency_ms": 6734,
+  "cost_usd": 0.0002
+}

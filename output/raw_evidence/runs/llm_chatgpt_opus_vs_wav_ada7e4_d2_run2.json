@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs wav",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you're likely looking for the most efficient way to handle audio files for your videos, podcasts, or social media clips. Let\u2019s break down the difference between **Opus** and **WAV** and recommend the best tools and workflows for your needs.\n\n### \ud83c\udfa7 Opus vs. WAV: What\u2019s the Difference?\n\n| Feature | **WAV (Waveform Audio File Format)** | **Opus (Audio Coding Format)** |\n|--------|--------------------------------------|-------------------------------|\n| **Type** | Uncompressed (Lossless) | Compressed (Lossy, but highly efficient) |\n| **File Size** | Large (e.g., ~10 MB",
+  "raw_payload": {
+    "id": "chatcmpl-f2b4406e-b253-4bd1-b6c0-69be940481ab",
+    "object": "chat.completion",
+    "created": 1795377141,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you're likely looking for the most efficient way to handle audio files for your videos, podcasts, or social media clips. Let\u2019s break down the difference between **Opus** and **WAV** and recommend the best tools and workflows for your needs.\n\n### \ud83c\udfa7 Opus vs. WAV: What\u2019s the Difference?\n\n| Feature | **WAV (Waveform Audio File Format)** | **Opus (Audio Coding Format)** |\n|--------|--------------------------------------|-------------------------------|\n| **Type** | Uncompressed (Lossless) | Compressed (Lossy, but highly efficient) |\n| **File Size** | Large (e.g., ~10 MB"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054620825,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004995774,
+      "completion_tokens": 150,
+      "completion_time": 0.319253661,
+      "total_tokens": 226,
+      "total_time": 0.324249435
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d25bseeqtyrwzf06ed1gv",
+      "seed": 706777565
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1401,
+  "cost_usd": 0.0002
+}

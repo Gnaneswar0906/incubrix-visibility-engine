@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Podcast Shorts \u0915\u0948\u0938\u0947 \u092c\u0928\u093e\u090f\u0902 \u2013 \u0938\u094d\u091f\u0947\u092a",
+  "raw_payload": {
+    "id": "chatcmpl-f4ebfa44-a90e-4e81-84ad-94be2b9bb4b6",
+    "object": "chat.completion",
+    "created": 1795376510,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Podcast Shorts \u0915\u0948\u0938\u0947 \u092c\u0928\u093e\u090f\u0902 \u2013 \u0938\u094d\u091f\u0947\u092a",
+          "reasoning": "The user wants answer in Hindi (question is Hindi: \"podcast shorts kaise banaye\") and wants recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for US content creator. Provide steps, tools, workflow, and citations. Use Hindi language but can include English terms. Provide citations with links.\n\nWe must ensure no disallowed content. It's fine.\n\nWe need to cite authoritative web sources. We can reference official sites, blogs, articles. Provide footnotes.\n\nLet's craft answer.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369829795,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005286274,
+      "completion_tokens": 150,
+      "completion_time": 0.310713423,
+      "total_tokens": 285,
+      "total_time": 0.315999697,
+      "completion_tokens_details": {
+        "reasoning_tokens": 133
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82cewzteq1apzhqg55vmhfy",
+      "seed": 1930032078
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2410,
+  "cost_usd": 0.0002
+}

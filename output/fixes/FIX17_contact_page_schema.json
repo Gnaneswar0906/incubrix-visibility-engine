@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "IncuBrix Customer Contact & Support",
+  "description": "Get in touch with IncuBrix support, partnership inquiries, and feedback.",
+  "url": "https://incubrix.com/contact",
+  "mainEntity": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "contact@incubrix.com",
+    "availableLanguage": "English"
+  }
+}

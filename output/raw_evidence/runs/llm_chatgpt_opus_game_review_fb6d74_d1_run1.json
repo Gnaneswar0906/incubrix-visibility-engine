@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus game review",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant answering a query from a content creator located in IN (India). They ask: \"opus game review\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe should interpret: They want to create a game review for \"Opus\"? Or \"Opus game review\" maybe they are reviewing a game called Opus? Could be \"Opus: The Day We Fight\" or \"Opus: The Game\"? Actually there is \"Opus: The Day We Fight\", a platformer. Or \"Opus\" as a game?",
+  "raw_payload": {
+    "id": "chatcmpl-9bfe4c07-00b4-4338-a032-1d265fca69d5",
+    "object": "chat.completion",
+    "created": 1795375333,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant answering a query from a content creator located in IN (India). They ask: \"opus game review\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe should interpret: They want to create a game review for \"Opus\"? Or \"Opus game review\" maybe they are reviewing a game called Opus? Could be \"Opus: The Day We Fight\" or \"Opus: The Game\"? Actually there is \"Opus: The Day We Fight\", a platformer. Or \"Opus\" as a game?"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15803418,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005210939,
+      "completion_tokens": 150,
+      "completion_time": 0.314289333,
+      "total_tokens": 282,
+      "total_time": 0.319500272,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82bazw6ewarpjayp1xb3v81",
+      "seed": 1852814872
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2783,
+  "cost_usd": 0.0002
+}

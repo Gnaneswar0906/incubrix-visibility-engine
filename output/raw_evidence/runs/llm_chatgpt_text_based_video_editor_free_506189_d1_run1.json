@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Free\u202fText\u2011Based Video Editing Tools (202",
+  "raw_payload": {
+    "id": "chatcmpl-c82e69df-7c00-470a-9bb0-03315dbe15a2",
+    "object": "chat.completion",
+    "created": 1795374634,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Free\u202fText\u2011Based Video Editing Tools (202",
+          "reasoning": "The user wants recommendations for text-based video editor free, for a content creator in US. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, free tools, workflow methods, mention those options. Provide citations with URLs. Must be safe. Provide info. Use markdown. Provide citations as footnotes. Ensure no disallowed content. Provide helpful answer.\n\nWe need to browse? Not possible, but can cite known sources like TechRadar, PCMag, etc. Provide citations.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318121428,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005941451,
+      "completion_tokens": 150,
+      "completion_time": 0.31361887,
+      "total_tokens": 284,
+      "total_time": 0.319560321,
+      "completion_tokens_details": {
+        "reasoning_tokens": 131
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82anmj4e1evkre8dmzh10pw",
+      "seed": 2026510906
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2033,
+  "cost_usd": 0.0002
+}

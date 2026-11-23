@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcasts for long drives",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to produce, repurpose, and distribute podcasts tailored for \"long drives\"\u2014a niche where listeners crave immersive, long-form, uninterrupted storytelling or high-value educational content\u2014having the right workflow and software stack is essential. \n\nLong-drive listeners typically consume content differently than short-form scrollers; they value audio fidelity, seamless pacing, and episodic depth. To capture this audience and maximize your output across platforms, here is a breakdown of the best software tools, workflow methods, and industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an efficient podcast production and repurposing engine, you need tools that handle everything from multi-track recording to AI-powered clipping.\n\n*   **Descript (The All-in-One Editor):** Descript is an industry standard for podcasters because it allows you to edit audio and video simply by editing text. It features",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to produce, repurpose, and distribute podcasts tailored for \"long drives\"\u2014a niche where listeners crave immersive, long-form, uninterrupted storytelling or high-value educational content\u2014having the right workflow and software stack is essential. \n\nLong-drive listeners typically consume content differently than short-form scrollers; they value audio fidelity, seamless pacing, and episodic depth. To capture this audience and maximize your output across platforms, here is a breakdown of the best software tools, workflow methods, and industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an efficient podcast production and repurposing engine, you need tools that handle everything from multi-track recording to AI-powered clipping.\n\n*   **Descript (The All-in-One Editor):** Descript is an industry standard for podcasters because it allows you to edit audio and video simply by editing text. It features",
+              "thoughtSignature": "Eo4BCosBAWkUfRPwm/02xDTd9k5kDdjtnmOsCpJDt70bnh9CgtBTCUgumH70rT1AUaTTkXCag1wGjzgvYsWp/1qJqpg1QgMsPSrBhE9wbuV9KU3J+RJVGmInhZPcK/Vj0iVEwj+812SFK8k1wxvfUt5mHbSaplFaqa1OhUUcZmyA8LaaJwvxAKAPErOfODNIPA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kkEDa5rDI6iL694Px_2NCA"
+  },
+  "latency_ms": 2274,
+  "cost_usd": 0.0002
+}

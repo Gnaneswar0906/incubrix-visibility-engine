@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Below is a **zero\u2011budget workflow** you can start today to launch a **faceless \u201cAI\u2011generated\u201d YouTube channel**.  \nEverything listed either has a",
+  "raw_payload": {
+    "id": "chatcmpl-e606a4ba-4c20-435b-a184-30172da7219f",
+    "object": "chat.completion",
+    "created": 1795376810,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Below is a **zero\u2011budget workflow** you can start today to launch a **faceless \u201cAI\u2011generated\u201d YouTube channel**.  \nEverything listed either has a",
+          "reasoning": "The user wants recommendations for a faceless AI YouTube channel with zero investment. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Provide steps, free tools, ways to generate content, script, voice, video editing, thumbnail, SEO, scheduling. Provide citations with links. Ensure not to violate policy. Should be fine. Provide citations maybe using markdown footnotes.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158502502,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005790038,
+      "completion_tokens": 150,
+      "completion_time": 0.314441414,
+      "total_tokens": 287,
+      "total_time": 0.320231452,
+      "completion_tokens_details": {
+        "reasoning_tokens": 107
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cr1n2ekys49d0f2tq9136",
+      "seed": 891220962
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2730,
+  "cost_usd": 0.0002
+}

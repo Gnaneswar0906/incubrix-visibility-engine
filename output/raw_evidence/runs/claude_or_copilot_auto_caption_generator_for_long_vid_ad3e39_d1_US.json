@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto caption generator for long video free' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 437
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto caption generator for long video free' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 342
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_caption_generator_for_long_vid_ad3e39_d1_US.json"
+}

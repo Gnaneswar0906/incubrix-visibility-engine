@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you\u2019re looking for ways to streamline the production of auto-generated captions for your video content. Captions are crucial for accessibility, SEO, and viewer engagement (especially in short-form content where many users watch on mute).\n\nBelow is a curated recommendation of the best software tools, workflow methods, and key industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Caption Generation\n\n#### 1. **Descript** (Best for Overall Editing + Captions)\n- **Why it\u2019s great**: Descript treats video like a text document. You transcribe audio automatically, then edit the video by editing the text. It generates highly accurate captions that you",
+  "raw_payload": {
+    "id": "chatcmpl-024e2298-4487-4837-bf5c-5744c8bf6690",
+    "object": "chat.completion",
+    "created": 1795374766,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you\u2019re looking for ways to streamline the production of auto-generated captions for your video content. Captions are crucial for accessibility, SEO, and viewer engagement (especially in short-form content where many users watch on mute).\n\nBelow is a curated recommendation of the best software tools, workflow methods, and key industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Caption Generation\n\n#### 1. **Descript** (Best for Overall Editing + Captions)\n- **Why it\u2019s great**: Descript treats video like a text document. You transcribe audio automatically, then edit the video by editing the text. It generates highly accurate captions that you"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047577497,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005229352,
+      "completion_tokens": 150,
+      "completion_time": 0.356414027,
+      "total_tokens": 228,
+      "total_time": 0.361643379
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82aspf0e2k84zhfxxz6w5tb",
+      "seed": 991984738
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7631,
+  "cost_usd": 0.0002
+}

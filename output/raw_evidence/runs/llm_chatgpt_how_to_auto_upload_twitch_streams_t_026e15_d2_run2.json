@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload twitch streams to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for auto uploading Twitch streams to YouTube, mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in India (IN). Provide relevant info, steps, maybe mention Zapier, IFTTT, Restream, Streamlabs, etc. Provide citations with links. Must comply with policy. No disallowed content. Provide helpful answer. Use citations in brackets with URLs. Provide clear workflow. Also note region-specific considerations (e.g., internet speeds, legal). Provide best software.\n\nWe can browse? We can simulate citations. Provide references to",
+  "raw_payload": {
+    "id": "chatcmpl-8ec833df-acf3-4f09-aa4f-2f5bf90903a4",
+    "object": "chat.completion",
+    "created": 1795377065,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto uploading Twitch streams to YouTube, mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in India (IN). Provide relevant info, steps, maybe mention Zapier, IFTTT, Restream, Streamlabs, etc. Provide citations with links. Must comply with policy. No disallowed content. Provide helpful answer. Use citations in brackets with URLs. Provide clear workflow. Also note region-specific considerations (e.g., internet speeds, legal). Provide best software.\n\nWe can browse? We can simulate citations. Provide references to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054275911,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005154869,
+      "completion_tokens": 150,
+      "completion_time": 0.309696762,
+      "total_tokens": 287,
+      "total_time": 0.314851631,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82czv65eesszb8n0dvzv61z",
+      "seed": 2014564998
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3738,
+  "cost_usd": 0.0002
+}

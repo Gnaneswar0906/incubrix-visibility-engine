@@ -1,0 +1,94 @@
+{
+  "query": "podcast shorts clips",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/playlist?list=PLNlNx9Di_AxtJxspZXri75ujIyKbIaCc2",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts clips",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Podcast Clips",
+        "link": "https://www.youtube.com/playlist?list=PLNlNx9Di_AxtJxspZXri75ujIyKbIaCc2",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Podcast Clips \u00b7 Awareness vs Action | Sahil Bloom X Rich Roll \u00b7 How do we feel as good as possible for as long as possible? \u00b7 David Goggins On The Joy In Suffering.",
+        "position": 1
+      },
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "OpusClip uses AI to pick the key moments from your podcast episodes and cut them into short clips, so you do not need advanced editing skills.",
+        "date": "11 Nov 2026",
+        "position": 2
+      },
+      {
+        "title": "AI Podcast Clip Generator",
+        "link": "https://vizard.ai/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://vizard.ai \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "Vizard Podcast Clip Generator seamlessly transforms your podcast content to suit diverse social media platforms, whether it's Instagram Reels or YouTube shorts.",
+        "position": 3
+      },
+      {
+        "title": "How I Make VIRAL Podcast Clips (2.5 Million Views!) | Full Workflow",
+        "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "I cover the mobile publishing hacks you need, including how to add a podcast clip to an Instagram story to drive link clicks. Mastering viral\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "Create podcast clips effortlessly with Flowjin, the AI generator that transforms your episodes into engaging social media content.",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 5
+      },
+      {
+        "title": "AI Podcast Clips Maker",
+        "link": "https://podsqueeze.com/podcast-clip-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on TikTok, Reels & YouTube shorts with Podsqueeze AI-Powered clip maker.",
+        "position": 6
+      },
+      {
+        "title": "The Ultimate Guide to Podcast Clips That Go Viral in 2025",
+        "link": "https://www.podshoponline.co.uk/the-ultimate-guide-to-podcast-clips-that-go-viral",
+        "displayedLink": "https://www.podshoponline.co.uk \u203a the-ultimate-guide-to-podca...",
+        "snippet": "Unlock your podcast's potential with viral short clips! Discover our guide on selecting and editing content to expand your audience and reach new listeners.",
+        "position": 7
+      },
+      {
+        "title": "AI Podcast Clip Maker: Create Clips Quickly",
+        "link": "https://www.heygen.com/en-gb/tool/ai-podcast-clip",
+        "displayedLink": "https://www.heygen.com \u203a en-gb \u203a tool \u203a ai-podcast-clip",
+        "snippet": "Transform lengthy episodes into captioned social media clips with HeyGen's AI podcast clip creator. Identify key moments, edit captions, resize and share.",
+        "position": 8
+      },
+      {
+        "title": "AI Podcast Clip Maker for Short Videos",
+        "link": "https://www.heyeddie.ai/tools/podcast-clips",
+        "displayedLink": "https://www.heyeddie.ai \u203a tools \u203a podcast-clips",
+        "snippet": "Find shareable moments in a podcast with Eddie AI. Choose clip count, target length and aspect ratio, then review, refine and export your short videos.",
+        "position": 9
+      },
+      {
+        "title": "Podcast Clip Maker \u2014 AI Tool for Podcast Clips",
+        "link": "https://www.ssemble.com/tools/podcast-clip-maker",
+        "displayedLink": "https://www.ssemble.com \u203a tools \u203a podcast-clip-maker",
+        "snippet": "AI podcast clip maker that automatically creates viral clips from podcast episodes. Auto-captions, audiograms, and scheduling. From $7.50/mo.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

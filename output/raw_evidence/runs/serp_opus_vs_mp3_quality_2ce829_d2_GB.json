@@ -1,0 +1,106 @@
+{
+  "query": "opus vs mp3 quality",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/audiophile/comments/1c428ee/mp3_or_opus_which_has_better_sound_quality/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus vs mp3 quality",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "MP3 or OPUS, Which has better sound quality : r/audiophile",
+        "link": "https://www.reddit.com/r/audiophile/comments/1c428ee/mp3_or_opus_which_has_better_sound_quality/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a mp3_or_opus_which_has_bette...",
+        "snippet": "If you download your MP3 between 150-200kbs, and then download an OPUS files that has a bit rate of 320kbs then it will be considerably better.",
+        "sitelinks": [
+          {
+            "title": "Mp3 vs opus : r/audiophiler/audiophile\u00b76 comments\u00b73y",
+            "link": "https://www.reddit.com/r/audiophile/comments/1000cm3/mp3_vs_opus/"
+          },
+          {
+            "title": "What Opus bitrate is equal to MP3 320 kbps? : r/musichoarderr/musichoarder\u00b740+ comments\u00b73y",
+            "link": "https://www.reddit.com/r/musichoarder/comments/134j2on/what_opus_bitrate_is_equal_to_mp3_320_kbps/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "Opus vs MP3 (Size & Quality Comparison)",
+        "link": "https://sound.stackexchange.com/questions/26167/opus-vs-mp3-size-quality-comparison",
+        "displayedLink": "https://sound.stackexchange.com \u203a questions \u203a 26167 \u203a opus-vs-mp3-size-quality-co...",
+        "snippet": "How does Opus differ from MP3 when comparing both in relation to the file size and quality. For example if I were to convert a 320kbps or 128kbps file ...",
+        "date": "2 Nov 2012",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://sound.stackexchange.com/a/34806"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Mp3 vs opus",
+        "link": "https://www.reddit.com/r/audiophile/comments/1000cm3/mp3_vs_opus/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a mp3_vs_opus",
+        "position": 3
+      },
+      {
+        "title": "Opus files",
+        "link": "https://www.audiosciencereview.com/forum/index.php?threads/opus-files.60206/",
+        "displayedLink": "https://www.audiosciencereview.com \u203a forum \u203a index.php",
+        "position": 4
+      },
+      {
+        "title": "Which audio file MP3, M4A, or OPUS consumes more storage space if the file has the same ...",
+        "link": "https://www.quora.com/Which-audio-file-MP3-M4A-or-OPUS-consumes-more-storage-space-if-the-file-has-the-same-bitrate-Which-audio-file-should-I-use-to-download-YouTube-playlists-into-my-Android-phone-to-save-memory",
+        "displayedLink": "https://www.quora.com \u203a Which-audio-file-MP3-M4A-or...",
+        "position": 5
+      },
+      {
+        "title": "Opus vs Mp3 comparison",
+        "link": "https://www.youtube.com/watch?v=IaW9Uqz8EII",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "OPUS is crazy. Even on 16 kbps it's still 'acceptable', unlike mp3 which at that point would just ruin your ear.",
+        "position": 6
+      },
+      {
+        "title": "OPUS is still better than AAC and MP3.",
+        "link": "https://news.ycombinator.com/item?id=37729791",
+        "displayedLink": "https://news.ycombinator.com \u203a item",
+        "snippet": "MP3 needs twice as many bits to get the same quality, so Opus is twice as efficient. CharlesW on Oct 2, 2023 ...",
+        "position": 7
+      },
+      {
+        "title": "Opus (audio format)",
+        "link": "https://en.wikipedia.org/wiki/Opus_(audio_format)",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Opus_(audio_format)",
+        "snippet": "In listening tests around 96 kbit/s, Opus shows slightly superior quality compared to AAC and significantly better quality compared to Vorbis and MP3. ... MP3 to ...",
+        "position": 8
+      },
+      {
+        "title": "Comparison \u2013 Opus Codec",
+        "link": "https://opus-codec.org/comparison/",
+        "displayedLink": "https://opus-codec.org \u203a comparison",
+        "snippet": "These are the results of a second set of ABC/HR tests on 48 kHz stereo music comparing Opus with Vorbis and LC-AAC at 96 kb/s and MP3 at 136 kb/s. For the full ...",
+        "position": 9
+      },
+      {
+        "title": "Best audio format: MP3, AAC, WAV, FLAC, or Opus?",
+        "link": "https://transloadit.com/blog/2024/03/understanding-different-audio-formats/",
+        "displayedLink": "https://transloadit.com \u203a blog \u203a ... \u203a understanding-different-aud...",
+        "snippet": "Opus delivers strong quality at low bitrates and latency. Lossless download or archive: FLAC preserves the signal with smaller files than ...",
+        "date": "25 Mar 2024",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

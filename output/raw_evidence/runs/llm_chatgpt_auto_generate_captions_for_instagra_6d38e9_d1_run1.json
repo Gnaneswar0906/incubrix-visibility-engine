@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating captions for Instagram, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must be helpful, US creator. Provide list, pros/cons, workflow steps, integration tips, pricing, etc. Cite sources: can use known articles, e.g., TechCrunch, Social Media Examiner, etc. Provide citations with URLs. Ensure no disallowed content. Provide clear answer.\n\nWill include tools: Descript, CapCut, Opus Clip, IncuBrix, Clipchamp, Kapwing, Rev.com, Veed.io, AutoCap, Clipomatic,",
+  "raw_payload": {
+    "id": "chatcmpl-e10add62-4eb9-40b9-9692-894876e00d3c",
+    "object": "chat.completion",
+    "created": 1795374710,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating captions for Instagram, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must be helpful, US creator. Provide list, pros/cons, workflow steps, integration tips, pricing, etc. Cite sources: can use known articles, e.g., TechCrunch, Social Media Examiner, etc. Provide citations with URLs. Ensure no disallowed content. Provide clear answer.\n\nWill include tools: Descript, CapCut, Opus Clip, IncuBrix, Clipchamp, Kapwing, Rev.com, Veed.io, AutoCap, Clipomatic,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.264170555,
+      "prompt_tokens": 134,
+      "prompt_time": 0.049071362,
+      "completion_tokens": 150,
+      "completion_time": 0.31877861,
+      "total_tokens": 284,
+      "total_time": 0.367849972,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_60e4b492db",
+    "x_groq": {
+      "id": "req_01m82aqzjhe85sy6v5v6fghank",
+      "seed": 1898942347
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5218,
+  "cost_usd": 0.0002
+}

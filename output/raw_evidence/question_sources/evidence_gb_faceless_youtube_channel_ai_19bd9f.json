@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=faceless+youtube+channel+ai",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "faceless youtube channel ai",
+  "cluster": "Cluster 6: Creator growth, script-to-video, and AI avatars",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:56:22.147446+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "faceless youtube channel ai",
+    "faceless youtube channel ai automation",
+    "faceless youtube channel ai tools",
+    "faceless youtube channel ai prompt",
+    "faceless youtube channel ai reddit",
+    "faceless youtube channel ai free",
+    "faceless youtube channel using ai",
+    "youtube faceless ai channel with zero investment",
+    "faceless youtube channel with ai course",
+    "faceless youtube channel without ai"
+  ],
+  "raw_response": "[\"faceless youtube channel ai\",[\"faceless youtube channel ai\",\"faceless youtube channel ai automation\",\"faceless youtube channel ai tools\",\"faceless youtube channel ai prompt\",\"faceless youtube channel ai reddit\",\"faceless youtube channel ai free\",\"faceless youtube channel using ai\",\"youtube faceless ai channel with zero investment\",\"faceless youtube channel with ai course\",\"faceless youtube channel without ai\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[512],[512],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

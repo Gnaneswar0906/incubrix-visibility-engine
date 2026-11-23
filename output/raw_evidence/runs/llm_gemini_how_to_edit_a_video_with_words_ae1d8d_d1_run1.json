@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, editing videos via text (commonly known as **text-based video editing**) is one of the biggest workflow game-changers in recent years. Instead of meticulously cutting visual timelines, you edit a transcript\u2014deleting a paragraph of text automatically deletes that corresponding section of the video. \n\nHere is a comprehensive guide on how to edit a video with words, covering the best software tools, standard workflows, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools cater to different creator needs, ranging from automated AI repurposing to deep",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, editing videos via text (commonly known as **text-based video editing**) is one of the biggest workflow game-changers in recent years. Instead of meticulously cutting visual timelines, you edit a transcript\u2014deleting a paragraph of text automatically deletes that corresponding section of the video. \n\nHere is a comprehensive guide on how to edit a video with words, covering the best software tools, standard workflows, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools cater to different creator needs, ranging from automated AI repurposing to deep"
+            },
+            {
+              "text": ", multi-track audio/video editing.\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript popularized the concept of editing video like a Google Doc. It offers full multi-track timeline editing, AI-driven \"Studio Sound\" (which removes background noise and makes mic audio sound professional), and automatic filler-word removal (\"um,\" \"ah\"). According to industry reviews on sites like *PCMag* and *TechRadar*, Descript is considered the most comprehensive tool for creators focusing on talking-head videos, podcasts, and tutorials.\n*   **CapCut (Best for Fast, Captions-Driven Editing):** Widely used by TikTok, YouTube Shorts, and Instagram Reels creators, CapCut excels at auto-generating stylized, word-by-word animated captions. While its text-based editing suite is slightly less robust than Descript's deep editing suite, its integration with mobile and desktop makes it the go-to for short",
+              "thoughtSignature": "Eo4BCosBAWkUfRNrdwf8X3aOMnlH9oK0+GBEexJG8OWEc6q0RGxNQkS5lTzNdLTuS/kyqwccIMZzAXQEnuqvH8sbk9PWYCOI9C9BW/SRlIXe6QBYZBHeKhXjzNXfAsLjwFRZeZ7NlVDUqw7V/ak5YOR4nxQp635gA0WwEfjWG6MafGm8WUGc4/+wCi/0/Q0Zug=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 323,
+      "totalTokenCount": 388,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4D0Da8r-G5P4694PiZjz0Q8"
+  },
+  "latency_ms": 5059,
+  "cost_usd": 0.0002
+}

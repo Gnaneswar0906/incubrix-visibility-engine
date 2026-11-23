@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube automation channel using AI is one of the most popular business models for content creators today. By leveraging artificial intelligence for scriptwriting, voiceovers, video generation, and editing, creators in Great Britain can scale production efficiently without ever sh",
+      "cost_usd": 0.0002,
+      "latency_ms": 2780,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_automation_faceless_youtube_8eea31_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube automation channel using AI is entirely achievable with free or freemium tools. As a content creator in the UK, your primary goals are minimizing overhead, maximizing efficiency, and maintaining compliance with YouTube\u2019s Partner Program (YPP) guidelines regarding AI-gener",
+      "cost_usd": 0.0002,
+      "latency_ms": 2787,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_automation_faceless_youtube_8eea31_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_automation_faceless_youtube_8eea31_d1_GB.json"
+}

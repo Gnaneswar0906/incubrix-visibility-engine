@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to a content creator in GB (UK). They ask: \"podcast to short video ai free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, m",
+      "cost_usd": 0.0002,
+      "latency_ms": 3433,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_short_video_ai_free_db4d81_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form vertical video (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective growth strategies for content creators in the UK and globally. However, finding **truly free** tools that handle AI clipping, captioning, and repurposing",
+      "cost_usd": 0.0002,
+      "latency_ms": 1179,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_short_video_ai_free_db4d81_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_short_video_ai_free_db4d81_d2_GB.json"
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip starter vs pro' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 352
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'opus clip starter vs pro' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 413
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_opus_clip_starter_vs_pro_968fdb_d1_GB.json"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'opus clip vs capcut vs descript' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 378
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip vs capcut vs descript' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 424
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_opus_clip_vs_capcut_vs_descript_a9f132_d1_GB.json"
+}

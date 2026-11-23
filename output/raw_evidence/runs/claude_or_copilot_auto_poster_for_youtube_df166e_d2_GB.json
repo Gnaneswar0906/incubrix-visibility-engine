@@ -1,0 +1,34 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto poster for youtube' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 494
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto poster for youtube' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 341
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_poster_for_youtube_df166e_d2_GB.json"
+}

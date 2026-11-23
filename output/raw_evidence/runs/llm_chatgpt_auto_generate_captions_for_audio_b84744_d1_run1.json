@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for",
+  "raw_payload": {
+    "id": "chatcmpl-7307dd1f-69b8-4a21-99c8-633f5393e384",
+    "object": "chat.completion",
+    "created": 1795374704,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for",
+          "reasoning": "The user wants recommendations for auto-generating captions for audio, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available.\n\nWe need to provide a response with recommendations, workflow steps, mention those tools, and cite sources (with URLs). Must be helpful, concise but thorough. Also note user is US content creator. Should be safe. Provide citations in a format. Use markdown.\n\nWe should browse? We can't browse but can provide known info. Provide citations like [1] with URLs.\n\nWe must not violate policy. It's fine.\n\nProceed to final."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368896653,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005539194,
+      "completion_tokens": 150,
+      "completion_time": 0.31121011,
+      "total_tokens": 284,
+      "total_time": 0.316749304,
+      "completion_tokens_details": {
+        "reasoning_tokens": 135
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82aqs3xe71bzm4k1sbmm1xy",
+      "seed": 752635503
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3565,
+  "cost_usd": 0.0002
+}

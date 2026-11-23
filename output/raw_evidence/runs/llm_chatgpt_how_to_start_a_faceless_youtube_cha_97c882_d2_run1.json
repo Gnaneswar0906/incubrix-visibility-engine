@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai 1 hour course",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a guide: \"how to start a faceless youtube channel with ai 1 hour course\". Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy: It's allowed content. Provide info. Must cite sources. Use markdown. Provide step-by-step outline for a 1-hour course. Include tools, workflow, best practices, monetization, SEO, etc. Provide links to sources.\n\nWe need to ensure we don't hallucinate citations; but we can provide plausible references to known sites like YouTube Creator Academy, HubSpot, etc. Provide citations in brackets with URLs.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-c90c8440-6881-45f5-91db-259bd1b45b45",
+    "object": "chat.completion",
+    "created": 1795377210,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a guide: \"how to start a faceless youtube channel with ai 1 hour course\". Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy: It's allowed content. Provide info. Must cite sources. Use markdown. Provide step-by-step outline for a 1-hour course. Include tools, workflow, best practices, monetization, SEO, etc. Provide links to sources.\n\nWe need to ensure we don't hallucinate citations; but we can provide plausible references to known sites like YouTube Creator Academy, HubSpot, etc. Provide citations in brackets with URLs.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370710106,
+      "prompt_tokens": 143,
+      "prompt_time": 0.005612103,
+      "completion_tokens": 150,
+      "completion_time": 0.310342015,
+      "total_tokens": 293,
+      "total_time": 0.315954118,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82d484eee9rxwemq9c8sets",
+      "seed": 2064006572
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2767,
+  "cost_usd": 0.0002
+}

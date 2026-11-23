@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating subtitles is one of the most effective ways for UK content creators to boost engagement, accessibility, and watch time\u2014especially since a significant portion of social media video is consumed on mute. \n\nAs a creator based in Great Britain, your workflow will generally depend on your platform (TikTok/Reels vs. YouTube/Long-form) and whether you want automated speed or deep editorial control.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of the industry options you mentioned, tailored for UK-based creators.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on your production style, several standout tools dominate the market for auto-captions:\n\n*   **CapCut (Best for Mobile & Fast Social Media Editing):**\n    *   *Best for:* TikTok, Instagram Reels, and YouTube Shorts.\n    *   *Features:* Offers exceptionally fast, highly stylized auto-captions",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating subtitles is one of the most effective ways for UK content creators to boost engagement, accessibility, and watch time\u2014especially since a significant portion of social media video is consumed on mute. \n\nAs a creator based in Great Britain, your workflow will generally depend on your platform (TikTok/Reels vs. YouTube/Long-form) and whether you want automated speed or deep editorial control.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of the industry options you mentioned, tailored for UK-based creators.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on your production style, several standout tools dominate the market for auto-captions:\n\n*   **CapCut (Best for Mobile & Fast Social Media Editing):**\n    *   *Best for:* TikTok, Instagram Reels, and YouTube Shorts.\n    *   *Features:* Offers exceptionally fast, highly stylized auto-captions",
+              "thoughtSignature": "Eo4BCosBAWkUfRN7bQMJQU3wLVi22rPqGOsObulA/7ns0eoI+oxNN0OWFhk2Iog6fbTn4wbGduCYXNf3Z1x8ZwHAQ3WbpobzsnbZ5FmNB5QRaZvu8rmvtrY90CfTuAs7akdOcWt0d/Vfw7gC/kb+weAMkDulDGQRdCaOXt4HhPZxqwhL202ybpaD/b/LopmlMQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "5EEDa5H2AZaK4-EPvbLQ8AI"
+  },
+  "latency_ms": 2488,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are well-positioned to leverage several robust tools for automating the workflow of posting Twitch VODs to YouTube. While fully \"unattended\" automation is rare due to platform terms of service (ToS) and the need for quality control, you can significan",
+      "cost_usd": 0.0002,
+      "latency_ms": 1259,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_twitch_vods_to_youtube_07f730_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer: \"auto post twitch vods to youtube\" for content creator in GB. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a concise answer, mention too",
+      "cost_usd": 0.0002,
+      "latency_ms": 3415,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_twitch_vods_to_youtube_07f730_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_twitch_vods_to_youtube_07f730_d2_GB.json"
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast shorts usa' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 396
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'podcast shorts usa' in IN, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 335
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_shorts_usa_24f5dd_d1_IN.json"
+}

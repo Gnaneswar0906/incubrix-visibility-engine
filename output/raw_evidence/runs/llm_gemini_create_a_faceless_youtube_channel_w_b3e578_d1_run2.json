@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel using AI is one of the most efficient ways to scale a content creation business in the UK. By leveraging AI for scriptwriting, voice synthesis, video editing, and repurposing, a single creator can produce professional-grade content in a fraction of the traditional time. \n\nHere is a comprehensive guide tailored to a UK-based creator, covering the best software tools, a step-by-step workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Recommended Software Tools\n\nTo build an automated or semi-automated pipeline, you will need tools dedicated to specific stages of production:\n\n#### **All-in-One & Automation Platforms**\n*   **IncuBrix:** A prominent name in the automated channel space. IncuBrix and similar agency platforms offer end-to-end solutions designed to streamline the faceless channel workflow, helping creators manage ideation, scripting, and production scaling in one",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel using AI is one of the most efficient ways to scale a content creation business in the UK. By leveraging AI for scriptwriting, voice synthesis, video editing, and repurposing, a single creator can produce professional-grade content in a fraction of the traditional time. \n\nHere is a comprehensive guide tailored to a UK-based creator, covering the best software tools, a step-by-step workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Recommended Software Tools\n\nTo build an automated or semi-automated pipeline, you will need tools dedicated to specific stages of production:\n\n#### **All-in-One & Automation Platforms**\n*   **IncuBrix:** A prominent name in the automated channel space. IncuBrix and similar agency platforms offer end-to-end solutions designed to streamline the faceless channel workflow, helping creators manage ideation, scripting, and production scaling in one",
+              "thoughtSignature": "Eo4BCosBAWkUfRO353VnH89zyzuTwMJF+3jm08UPNLT+pD7dNAtc88hGCAlUymCHAcsV4pO+rMmGdOsCLnMa9qnNhkeKbAo2dHivnl+3Shbz0hYYhjouDvqbF6C4ZL2Pw/j/FuH1+AOjYstBSWdW3b5io8YAjclEvtR1MnAXQaaiSdSh5aAJq87NTl602/13vw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2EIDa-a-Dt-ng8UPuZbNkAE"
+  },
+  "latency_ms": 2750,
+  "cost_usd": 0.0002
+}

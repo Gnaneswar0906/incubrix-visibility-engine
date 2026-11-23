@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "When comparing Opus Clip and Premiere Pro for video editing, both tools have their strengths and suit different needs. However, Premiere Pro, a product of Adobe, is a widely used and industry-standard video editing software among content creators and professionals. Here's a brief comparison between Opus Clip and Premiere Pro, along with some additional software options:\n\n1. Adobe Premiere Pro:\nAdobe Premiere Pro is a professional-grade video editing software that is widely used among content creators, YouTubers, and agencies alike. It offers a wide range of features, including:\n   - Advanced editing capabilities for non-linear video editing.\n   - Support for 8K video and",
+  "raw_payload": {
+    "id": "chatcmpl-46f6d0f5-8ecf-44e5-917e-785635849be0",
+    "object": "chat.completion",
+    "created": 1795377564,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "When comparing Opus Clip and Premiere Pro for video editing, both tools have their strengths and suit different needs. However, Premiere Pro, a product of Adobe, is a widely used and industry-standard video editing software among content creators and professionals. Here's a brief comparison between Opus Clip and Premiere Pro, along with some additional software options:\n\n1. Adobe Premiere Pro:\nAdobe Premiere Pro is a professional-grade video editing software that is widely used among content creators, YouTubers, and agencies alike. It offers a wide range of features, including:\n   - Advanced editing capabilities for non-linear video editing.\n   - Support for 8K video and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.045431129,
+      "prompt_tokens": 80,
+      "prompt_time": 0.00327516,
+      "completion_tokens": 150,
+      "completion_time": 0.108658242,
+      "total_tokens": 230,
+      "total_time": 0.111933402
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82df2jce3macpvz5hnhbths",
+      "seed": 299823155
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6938,
+  "cost_usd": 0.0002
+}

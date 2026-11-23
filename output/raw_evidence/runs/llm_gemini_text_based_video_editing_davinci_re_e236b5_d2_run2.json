@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a U.S.-based content creator looking to integrate **text-based video editing** with **DaVinci Resolve**, you are sitting at the intersection of traditional, high-end post-production and AI-driven automation. \n\nWhile DaVinci Resolve features industry-leading native transcription tools, its",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a U.S.-based content creator looking to integrate **text-based video editing** with **DaVinci Resolve**, you are sitting at the intersection of traditional, high-end post-production and AI-driven automation. \n\nWhile DaVinci Resolve features industry-leading native transcription tools, its"
+            },
+            {
+              "text": " text-based editing workflow differs slightly from automated AI repurposing tools. Below is a breakdown of the best software tools, workflow methods, and key industry options to streamline your editing process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nWhen looking at text-based video editing and AI clipping, several tools dominate the U.S. creator market:\n\n*   **DaVinci Resolve Studio (Native Transcription & Cut Page):** \n    *   *What it does:* Blackmagic Design\u2019s native AI speech-to-text engine transcribes audio, allowing you to delete words, sentences, or entire paragraphs directly from the text panel to edit the timeline.\n    *   *Best for:* Narrative flow, rough-cut assembly, and finishing within a professional ecosystem.\n*   **Descript:** \n    *   *What it does:* The pioneer of \"edit video like a doc\" software. It generates a full transcript, removes filler words",
+              "thoughtSignature": "Eo4BCosBAWkUfRM7TGUtLcWdLhrzKPee/811XWcNnbhu/sesjaSc7UgFwYbDKkOqk77m1Sr/YpN1+53roG84BQ4acLMOpW6zJ8wu7TUf1DRrN3Q8f3zKpEEEv8pl5zGU+4DHnH7Y5SRjupnb6ADe+rXFbOMgyAnMj7zBCWlUVag1csRH3dWWM4folY8EPIriwQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 263,
+      "totalTokenCount": 328,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "wEUDa7bYEIWR3LUP79XOoQ8"
+  },
+  "latency_ms": 3234,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, regional dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHere is a comprehensive guide to the best software tools, industry options (including your specified tools), and an optimized workflow to get professional results for Bangla video captions.\n\n---\n\n### Part 1: Industry Options & Evaluation for Bangla\n\nWhile many western-centric tools struggle with Bengali phonetics, some platforms have improved significantly through advanced multilingual AI models (like OpenAI's Whisper).\n\n#### 1. CapCut (Best for Mobile & Quick Social Content)\n* **How it handles Bangla:** CapCut supports auto-captions in dozens of languages. While its direct \"Auto Captions\" feature for Bengali can sometimes produce spelling errors (especially with formal vs. colloquial Bangla), its",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, regional dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHere is a comprehensive guide to the best software tools, industry options (including your specified tools), and an optimized workflow to get professional results for Bangla video captions.\n\n---\n\n### Part 1: Industry Options & Evaluation for Bangla\n\nWhile many western-centric tools struggle with Bengali phonetics, some platforms have improved significantly through advanced multilingual AI models (like OpenAI's Whisper).\n\n#### 1. CapCut (Best for Mobile & Quick Social Content)\n* **How it handles Bangla:** CapCut supports auto-captions in dozens of languages. While its direct \"Auto Captions\" feature for Bengali can sometimes produce spelling errors (especially with formal vs. colloquial Bangla), its",
+              "thoughtSignature": "Eo4BCosBAWkUfRPl4ti9IbemYpZq6im+J3RScaF6TbAQd4Bl3+Gd+Jdy7d/YMr/XNjcSairnmLhdJ6JsSGxdtjtoQsrEXmqLWCEAl8JdoBxvHAWXF47wooJ/jlZcl9qESIgfrrH1vY3Vo9AcCSKRTBcZWniztwXARp75JMb/Kih9T9dATaGw9ya1WjkXs3D3jw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nD4Da6-sBunA0r4PuJm28As"
+  },
+  "latency_ms": 9766,
+  "cost_usd": 0.0002
+}

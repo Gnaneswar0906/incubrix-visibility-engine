@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Uploading YouTube Shorts \u2013 A Practical Toolkit for GB Creators**  \n*(All tools listed are publicly available as of November\u202f2024",
+      "cost_usd": 0.0002,
+      "latency_ms": 8946,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_a8d419_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant, user is a content creator in GB, wants info about auto upload YouTube Shorts, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: ",
+      "cost_usd": 0.0002,
+      "latency_ms": 7106,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_a8d419_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_youtube_shorts_a8d419_d1_GB.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"auto upload youtube shorts free\". The user is a content creator in GB. They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe should give a concise but comprehensive answer. Provide a list of tools that can automate uploading of YouTube Shorts, including free options. Mention workflow methods like scheduling, using YouTube API, etc. Provide references. Also mention the key industry options. Provide citations. Use authoritative sources like YouTube help docs, tech blogs, etc.\n\nWe need to include citations in parentheses with URLs. Provide a structured answer:",
+  "raw_payload": {
+    "id": "chatcmpl-23de7632-300d-4e30-83ac-00e4d9dcd5d0",
+    "object": "chat.completion",
+    "created": 1795377470,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"auto upload youtube shorts free\". The user is a content creator in GB. They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe should give a concise but comprehensive answer. Provide a list of tools that can automate uploading of YouTube Shorts, including free options. Mention workflow methods like scheduling, using YouTube API, etc. Provide references. Also mention the key industry options. Provide citations. Use authoritative sources like YouTube help docs, tech blogs, etc.\n\nWe need to include citations in parentheses with URLs. Provide a structured answer:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367682174,
+      "prompt_tokens": 134,
+      "prompt_time": 0.007487083,
+      "completion_tokens": 150,
+      "completion_time": 0.15392495,
+      "total_tokens": 284,
+      "total_time": 0.161412033,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb6a356524",
+    "x_groq": {
+      "id": "req_01m82dc61sek5see0rdrpbv454",
+      "seed": 73739542
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5399,
+  "cost_usd": 0.0002
+}

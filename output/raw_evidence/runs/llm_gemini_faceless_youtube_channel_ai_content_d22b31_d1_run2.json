@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai content",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India looking to scale a faceless YouTube channel using AI, you are in a prime position. The Indian creator economy is booming, and AI tools allow you to bypass the need for expensive cameras, studio setups, and even on-camera presence while maintaining high production values. \n\nHere is a comprehensive guide to the best software tools, an optimized workflow, and key industry options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo run a successful faceless channel, your software stack needs to cover scriptwriting, voice generation, visual creation/stock footage, and editing.\n\n#### **Scriptwriting & Ideation**\n*   **ChatGPT / Claude:** Essential for outlining, writing scripts, and generating SEO-optimized titles and descriptions. \n*   **Perplexity AI:** Great for real-time fact-checking and niche research (especially useful if you are running channels in finance, tech,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India looking to scale a faceless YouTube channel using AI, you are in a prime position. The Indian creator economy is booming, and AI tools allow you to bypass the need for expensive cameras, studio setups, and even on-camera presence while maintaining high production values. \n\nHere is a comprehensive guide to the best software tools, an optimized workflow, and key industry options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo run a successful faceless channel, your software stack needs to cover scriptwriting, voice generation, visual creation/stock footage, and editing.\n\n#### **Scriptwriting & Ideation**\n*   **ChatGPT / Claude:** Essential for outlining, writing scripts, and generating SEO-optimized titles and descriptions. \n*   **Perplexity AI:** Great for real-time fact-checking and niche research (especially useful if you are running channels in finance, tech,",
+              "thoughtSignature": "Eo4BCosBAWkUfROZVKL8cMFeLVPhH3/ptItZF/MQwtAAqz+BcOJ0X3Exe2SEcZfDb2k0H6l3l/W+Hy6UkZssiL9tpM+VeMK3p5NnsqFu0Q5kZIpOX82dT1xvWLcAeFNbbFYDrRiJHsbBwleQMODmtk5CRU9X1gPsURCscyWYY39k4lgrcDj4oox51hcFSw8KRw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "HEEDa5fhAr3Lz7sP097bmQk"
+  },
+  "latency_ms": 6381,
+  "cost_usd": 0.0002
+}

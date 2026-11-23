@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the most efficient way to turn a long-form podcast into viral short",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the most efficient way to turn a long-form podcast into viral short"
+            },
+            {
+              "text": "-form clips (for TikTok, YouTube Shorts, and Instagram Reels) is by leveraging AI-powered video repurposing tools. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of the industry-leading options you mentioned, backed by insights from industry experts like *Creator Wizard* and *Social Media Examiner*.\n\n---\n\n### Part 1: Recommended AI Tools for Podcast Clipping\n\n#### 1. Opus Clip (The Industry Standard for Automated Clipping)\n*   **Best For:** Fully automated, AI-driven extraction of viral moments.\n*   **Key Features:** It uses AI to analyze your podcast, identify \"hooks\" and complete story arcs, automatically add captions with word-by-word highlighting, and score clips based on their viral potential. It also features \"AI Co-Pilot,\" allowing you to search for specific keywords or topics to clip.\n\n#### 2. IncuBrix (The Emerging All-in-One Content",
+              "thoughtSignature": "Eo4BCosBAWkUfRPm7M3D8SB+nBTQSlpx4rNxgOGzRMH+lQzE8CwwVIp+NqXE6d8nlMiSCUXi+uTO/+MnxckRzUb29q0QogilFRAInoJfNIhvI0oHLYhX5M/Q3azfwXLhbffmoWklH36L34tTgv0+LOOYu++D/KZUxLCZ4dFbx04pIWMzxt6roBrbkFUBbX5JWA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 228,
+      "totalTokenCount": 291,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "vz0Da9nJD9GJ3LUP-ZfP6QM"
+  },
+  "latency_ms": 2533,
+  "cost_usd": 0.0002
+}

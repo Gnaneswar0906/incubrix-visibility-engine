@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"can i add text in openshot video editor\". Provide recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in GB. So we can tailor to UK context, maybe mention UK resources. Provide step-by-step for adding text in OpenShot, and also alternatives. Cite sources: need to include citations with URLs. Provide authoritative sources like OpenShot documentation, maybe Wikipedia, official sites for CapCut, Opus Clip, Descript, IncuBrix (I need to verify if IncuBrix is a video tool;",
+  "raw_payload": {
+    "id": "chatcmpl-e4dcd8c2-5e63-471e-aa06-87701f4856ec",
+    "object": "chat.completion",
+    "created": 1795375519,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"can i add text in openshot video editor\". Provide recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in GB. So we can tailor to UK context, maybe mention UK resources. Provide step-by-step for adding text in OpenShot, and also alternatives. Cite sources: need to include citations with URLs. Provide authoritative sources like OpenShot documentation, maybe Wikipedia, official sites for CapCut, Opus Clip, Descript, IncuBrix (I need to verify if IncuBrix is a video tool;"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283600281,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005155487,
+      "completion_tokens": 150,
+      "completion_time": 0.314124867,
+      "total_tokens": 288,
+      "total_time": 0.319280354,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_854fa9be4c",
+    "x_groq": {
+      "id": "req_01m82bgn80e1ntaagjhxqng6hd",
+      "seed": 2054565050
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3089,
+  "cost_usd": 0.0002
+}

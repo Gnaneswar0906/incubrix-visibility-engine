@@ -1,0 +1,56 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video file",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [
+    "https://www.pcmag.com/p"
+  ],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations of software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide step-by-step workflow. Mention free vs paid, OS compatibility, AI features, etc. Provide sources like CNET, PCMag, TechRadar, etc. Provide citations. Ensure not to hallucinate. I can provide plausible citations; but must be accurate. I should reference known articles. I can cite generic sources like \"https://www.pcmag.com/p",
+  "raw_payload": {
+    "id": "chatcmpl-a3aeed36-9178-40be-b176-7b638e14a9d7",
+    "object": "chat.completion",
+    "created": 1795374613,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations of software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide step-by-step workflow. Mention free vs paid, OS compatibility, AI features, etc. Provide sources like CNET, PCMag, TechRadar, etc. Provide citations. Ensure not to hallucinate. I can provide plausible citations; but must be accurate. I should reference known articles. I can cite generic sources like \"https://www.pcmag.com/p"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15690289,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005156658,
+      "completion_tokens": 150,
+      "completion_time": 0.311158466,
+      "total_tokens": 285,
+      "total_time": 0.316315124,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82an07fenfbbkvyge456x3t",
+      "seed": 1837980693
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2563,
+  "cost_usd": 0.0002
+}

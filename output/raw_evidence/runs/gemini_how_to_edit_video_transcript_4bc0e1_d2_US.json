@@ -1,0 +1,43 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "As a content creator in the US, editing your video transcripts is one of the most efficient ways to streamline your post-production workflow, repurpose long-form content into shorts, and ensure absolute accessibility. \n\nHere is a comprehensive guide on how to edit video transcripts, the best softwar",
+      "cost_usd": 0.0002,
+      "latency_ms": 2323,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_video_transcript_4bc0e1_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to edit video transcript' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 433
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_video_transcript_4bc0e1_d2_US.json"
+}

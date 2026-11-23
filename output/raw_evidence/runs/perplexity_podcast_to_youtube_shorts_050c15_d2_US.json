@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast to youtube shorts' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 496
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast to youtube shorts' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 351
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_to_youtube_shorts_050c15_d2_US.json"
+}

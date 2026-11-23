@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to build a **faceless YouTube channel using",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to build a **faceless YouTube channel using"
+            },
+            {
+              "text": " AI**, Reddit is widely considered the ultimate testing ground. Communities like r/NewTubers, r/YouTube_startups, and r/AutomatedYouTube are filled with real-world case studies, monetization debates, and tool reviews. \n\nBased on current consensus across these creator communities, here is a comprehensive guide to the best software tools, a proven production workflow, and an analysis of key industry options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Tool Breakdown\n\n#### **A. IncuBrix**\n*   **What it is:** An emerging, all-in-one AI platform designed specifically to streamline the creation of automated/faceless channels (scripting, voice, visuals, and management).\n*   **Reddit Consensus:** Creators on r/NewTubers note that all-in-one platforms like IncuBrix appeal to beginners who want to bypass the steep learning",
+              "thoughtSignature": "Eo4BCosBAWkUfRPMdq0WUc5mAEaq+oIWo9YILFWAqBVixvqh67sFOtgMdLfvJa8pl3DTDFZA2Fj28n/dGj41V2qxxBd7HUFDsX4j1qzGknyYtXOd2RUdWFaqhuTyAZo4yNFwJayCrN7LQ4MSrE1BfQ/ExOo95RHsHyarLNcBDwHeDzm+4B7Ep3243v1D4Il8+w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 217,
+      "totalTokenCount": 281,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kD8Da4yeIZfm694PgozR0A8"
+  },
+  "latency_ms": 7665,
+  "cost_usd": 0.0002
+}

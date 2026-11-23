@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant, providing recommendations for text-based video editing tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be US-based content creator. Provide software tools, wor",
+      "cost_usd": 0.0002,
+      "latency_ms": 3282,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_0fda7a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Text\u2011Based Video Editing \u2013 What It Is & Why It Matters  \n\n**Text\u2011based video editing** lets you create, cut, and repurpose video content by typing (or pasting) a script, transcript, or set",
+      "cost_usd": 0.0002,
+      "latency_ms": 3032,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_0fda7a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_0fda7a_d2_US.json"
+}

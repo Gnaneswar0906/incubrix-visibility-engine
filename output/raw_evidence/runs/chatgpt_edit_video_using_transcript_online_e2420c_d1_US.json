@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Editing Video\u202f\u2192\u202fTranscript\u202fOnline: 2024\u2011Ready Toolkit  \n*(Compiled for a U.S.\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3309,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online_e2420c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Take Summary  \n\n| Goal | Best\u2011in\u2011class tool (free\u2011tier) | Paid tier you\u2019ll likely need | Why it shines for \u201cedit video\u202fusing\u202ftranscript\u201d |\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 6317,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online_e2420c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_online_e2420c_d1_US.json"
+}

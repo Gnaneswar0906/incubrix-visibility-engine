@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 479
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 351
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_post_to_youtube_35293d_d2_US.json"
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'opus clip vs captions ai' in US, popular recommendations include Vidyo.ai, CapCut, Descript. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 445
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'opus clip vs captions ai' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 389
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_opus_clip_vs_captions_ai_e0cc9a_d1_US.json"
+}

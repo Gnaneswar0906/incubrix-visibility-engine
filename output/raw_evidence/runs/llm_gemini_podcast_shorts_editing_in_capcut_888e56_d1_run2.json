@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to optimize your podcast shorts editing workflow using **CapCut** and other industry-leading tools, here is a comprehensive guide to the best software, efficient workflows, and top industry alternatives.\n\n---\n\n### 1. The Core Tool: CapCut (Desktop & Mobile)\nCapCut has become an industry favorite for short-form video creators due to its AI-driven features and speed. \n*   **Best Features for Podcasts:** \n    *   **Auto-Captions:** Generates highly accurate animated captions (essential for silent viewing on TikTok, Instagram Reels, and YouTube Shorts).\n    *   **Auto-Reframe / Active Speaker Tracking:** Automatically crops horizontal podcast video (16:9) into vertical 9:16 while keeping the active speaker in the center of the frame.\n    *   **Speech-to-Text Editing:** Allows you to cut the video simply by editing the transcript",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to optimize your podcast shorts editing workflow using **CapCut** and other industry-leading tools, here is a comprehensive guide to the best software, efficient workflows, and top industry alternatives.\n\n---\n\n### 1. The Core Tool: CapCut (Desktop & Mobile)\nCapCut has become an industry favorite for short-form video creators due to its AI-driven features and speed. \n*   **Best Features for Podcasts:** \n    *   **Auto-Captions:** Generates highly accurate animated captions (essential for silent viewing on TikTok, Instagram Reels, and YouTube Shorts).\n    *   **Auto-Reframe / Active Speaker Tracking:** Automatically crops horizontal podcast video (16:9) into vertical 9:16 while keeping the active speaker in the center of the frame.\n    *   **Speech-to-Text Editing:** Allows you to cut the video simply by editing the transcript",
+              "thoughtSignature": "Eo4BCosBAWkUfRNRUbAqn0clvl/Txu6ohxZQ7AX5+zBXVGtAXuqFlwxzCX5NpwzJ2PchTf6Ux/mF8ZT2ou20ji1rYaL0Dsx0N9SBYBEoYV49O5awzLU92CZ6Xm6q55iU0WvTUkW1jjk6DhtdIY5dzpddMd9h8+xHNSfjjte23IZLYtOdQbZ+9ofGJb5i86myGg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2D0Da5L1F4rD4-EP__fnoAc"
+  },
+  "latency_ms": 2354,
+  "cost_usd": 0.0002
+}

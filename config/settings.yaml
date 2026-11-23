@@ -1,0 +1,61 @@
+# ==============================================================================
+# IncuBrix AEO, SEO & GEO Visibility Engine Configuration
+# ==============================================================================
+
+project:
+  name: "IncuBrix AEO, SEO & GEO Visibility Engine"
+  brand_name: "IncuBrix"
+  brand_domain: "incubrix.com"
+  brand_variations:
+    - "IncuBrix"
+    - "incubrix"
+    - "incubrix.com"
+    - "IncuBrix AI"
+  primary_competitors:
+    - "CapCut"
+    - "Descript"
+    - "Opus Clip"
+    - "Munch"
+    - "Klap"
+    - "Veed.io"
+    - "InVideo"
+    - "Submagic"
+    - "Vidyo.ai"
+
+collector:
+  llm_runs_per_question: 2
+  rate_limit_retries: 3
+  backoff_factor: 1.5
+  request_timeout_sec: 15
+  markets:
+    - "US"
+    - "GB"
+    - "CA"
+    - "AU"
+    - "IN"
+    - "SG"
+    - "Other"
+  default_market: "US"
+  offline_mode: true
+
+storage:
+  database_path: "output/visibility_state.db"
+
+paths:
+  seed_questions: "data/questions_seed.csv"
+  programmatic_matrix: "data/programmatic_matrix.csv"
+  output_visibility_csv: "output/visibility.csv"
+  output_weekly_report: "output/reports/weekly_visibility_report.md"
+  output_evidence_serp: "output/raw_evidence/serp"
+  output_evidence_llm: "output/raw_evidence/llm"
+  output_fixes_dir: "output/fixes"
+  output_pages_dir: "output/pages"
+  output_briefs_dir: "output/pages/briefs"
+  output_programmatic_dir: "output/programmatic_pages"
+  workbook_template: "IncuBrix_2027_Growth_Engineer_Option_3_AEO_SEO_GEO_Submission_Workbook.xlsx"
+
+thresholds:
+  min_questions_required: 100
+  exceptional_questions: 300
+  ai_assistants_count: 4
+  visibility_drop_alert_percentage: 15.0

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India (IN) looking to generate auto-captions for Sinhala videos, you have access to some of the most powerful AI-driven video editing tools available today. Creating content in regional and less-represented languages like Sinhala has become much easier thanks to advancements in Automatic Speech Recognition (ASR). \n\nHere is a comprehensive guide tailored to your needs, covering the best software tools, recommended workflows, and a look at the industry options you mentioned.\n\n---\n\n### 1. Key Industry Options & Sinhala Language Support\n\nWhen working with Sinhala captions, your primary bottleneck is **ASR (Speech-to-Text) accuracy**, as many global tools struggle with South Asian languages compared to English. \n\n*   **CapCut (Recommended for Mobile & Desktop):** \n    *   *Sinhala Support:* CapCut\u2019s auto-captions feature has expanded rapidly. While it may occasionally require manual",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator based in India (IN) looking to generate auto-captions for Sinhala videos, you have access to some of the most powerful AI-driven video editing tools available today. Creating content in regional and less-represented languages like Sinhala has become much easier thanks to advancements in Automatic Speech Recognition (ASR). \n\nHere is a comprehensive guide tailored to your needs, covering the best software tools, recommended workflows, and a look at the industry options you mentioned.\n\n---\n\n### 1. Key Industry Options & Sinhala Language Support\n\nWhen working with Sinhala captions, your primary bottleneck is **ASR (Speech-to-Text) accuracy**, as many global tools struggle with South Asian languages compared to English. \n\n*   **CapCut (Recommended for Mobile & Desktop):** \n    *   *Sinhala Support:* CapCut\u2019s auto-captions feature has expanded rapidly. While it may occasionally require manual",
+              "thoughtSignature": "Eo4BCosBAWkUfRM8F1uxL6+RLwNBqyoZ2RsJ9n1LtEYEg2uQg6S+Gkja6ate33OXxFbU4fa+9oEEOoJfrkyhHuXziKvn54GyUaQRLco63yH1gdlF3AJJJjzoBDVIaeeyq7fRZjp5YmQa1SNzHUbrmzGMQtWsX/4jmVlm/OOUC+Hg8fY6TxTzj0i2zai7IpxXcw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Z0ADa_T5FerLv_gPzfn1mA8"
+  },
+  "latency_ms": 2412,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,16 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=descript+free+alternative+reddit",
+  "source_type": "Community Search Suggest",
+  "market": "IN",
+  "seed": "descript free alternative reddit",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:04:12.764320Z",
+  "extracted_count": 3,
+  "suggestions": [
+    "descript free alternative reddit",
+    "descript free alternative",
+    "alternative to descript"
+  ],
+  "raw_response": "[\"descript free alternative reddit\",[\"descript free alternative reddit\",\"descript free alternative\",\"alternative to descript\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390]]}]"
+}

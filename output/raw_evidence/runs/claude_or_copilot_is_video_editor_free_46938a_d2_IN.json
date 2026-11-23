@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "is video editor free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'is video editor free' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 417
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'is video editor free' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 411
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_is_video_editor_free_46938a_d2_IN.json"
+}

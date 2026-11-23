@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus op lite review",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are likely looking for tools that streamline your workflow, enhance production quality, and boost discoverability on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nBased on your query, it appears you are asking for a review and comparison of **Opus Clip** (often referred to as \"Opus\" or \"Opus Lite\" in casual conversation, though \"Opus Lite\" is not an official product name\u2014Opus Clip has a free tier and paid plans) alongside other key industry tools. Below is a detailed review and recommendation of the best software tools, workflow methods, and industry options for 2024\u20132025.\n\n---\n\n### ",
+  "raw_payload": {
+    "id": "chatcmpl-cd0c088f-be55-4765-9127-e2b4e58ea287",
+    "object": "chat.completion",
+    "created": 1795375758,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are likely looking for tools that streamline your workflow, enhance production quality, and boost discoverability on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nBased on your query, it appears you are asking for a review and comparison of **Opus Clip** (often referred to as \"Opus\" or \"Opus Lite\" in casual conversation, though \"Opus Lite\" is not an official product name\u2014Opus Clip has a free tier and paid plans) alongside other key industry tools. Below is a detailed review and recommendation of the best software tools, workflow methods, and industry options for 2024\u20132025.\n\n---\n\n### "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05398545,
+      "prompt_tokens": 77,
+      "prompt_time": 0.00543371,
+      "completion_tokens": 150,
+      "completion_time": 0.289075194,
+      "total_tokens": 227,
+      "total_time": 0.294508904
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bqye2e2ssq4rcv5wf1kkb",
+      "seed": 1584480123
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1139,
+  "cost_usd": 0.0002
+}

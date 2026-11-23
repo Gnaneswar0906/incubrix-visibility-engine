@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=best+video+clipping+software+for+podcasts+reddit",
+  "source_type": "Community Search Suggest",
+  "market": "US",
+  "seed": "best video clipping software for podcasts reddit",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:54:02.462561Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Read timed out. (read timeout=8)\"}"
+}

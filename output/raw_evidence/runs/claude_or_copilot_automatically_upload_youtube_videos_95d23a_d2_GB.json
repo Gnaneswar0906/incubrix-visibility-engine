@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "automatically upload youtube videos",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'automatically upload youtube videos' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 387
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'automatically upload youtube videos' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 474
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_automatically_upload_youtube_videos_95d23a_d2_GB.json"
+}

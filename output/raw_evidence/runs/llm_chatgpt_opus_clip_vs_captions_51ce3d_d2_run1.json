@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick TL;",
+  "raw_payload": {
+    "id": "chatcmpl-07972490-7a6a-4dcf-820a-340f57bc3161",
+    "object": "chat.completion",
+    "created": 1795376758,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick TL;",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for software tools, workflow methods, and mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations with authoritative web sources. Must be mindful of policy: we can provide citations with URLs, not copyrighted text. Provide a thorough answer. Also mention differences between Opus Clip and captions? The query is \"opus clip vs captions\". Likely they want comparison of using Opus Clip (AI video shortener) vs captions (adding captions). Provide recommendation. Also mention workflow. Provide citations. Use markdown. Provide links. Ensure no copyrighted text beyond short excerpt. Provide best practices."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.366647731,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005070907,
+      "completion_tokens": 150,
+      "completion_time": 0.314117871,
+      "total_tokens": 283,
+      "total_time": 0.319188778,
+      "completion_tokens_details": {
+        "reasoning_tokens": 138
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82cpet0ecz9wgr9thvs5sph",
+      "seed": 1254070553
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2638,
+  "cost_usd": 0.0002
+}

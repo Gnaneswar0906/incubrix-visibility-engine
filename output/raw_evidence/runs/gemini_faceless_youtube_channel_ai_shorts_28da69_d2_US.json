@@ -1,0 +1,35 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'faceless youtube channel ai shorts' in US, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 470
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'faceless youtube channel ai shorts' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 401
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_shorts_28da69_d2_US.json"
+}

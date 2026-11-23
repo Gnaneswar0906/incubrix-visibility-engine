@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Welcome to the world of faceless YouTube automation! Operating a faceless channel in Hindi is one of the most lucrative and scalable niches today, covering topics from finance and history to motivation and true crime. \n\nGiven your location in **India (IN)**, your workflow needs to balance cost-effectiveness, regional language nuances (Hindi text-to-speech and localization), and speed. \n\nHere is a comprehensive guide tailored to your query, featuring the best software tools, a streamlined workflow, and an analysis of the industry-leading options you mentioned.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nTo build a high-retention faceless channel, you need tools for scripting, voiceover, editing, and repurposing. Here is how the top tools stack up:\n\n*   **CapCut (Best for Editing & Auto-Captions):** \n    *   *Why use it:* CapCut is the industry favorite for short-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Welcome to the world of faceless YouTube automation! Operating a faceless channel in Hindi is one of the most lucrative and scalable niches today, covering topics from finance and history to motivation and true crime. \n\nGiven your location in **India (IN)**, your workflow needs to balance cost-effectiveness, regional language nuances (Hindi text-to-speech and localization), and speed. \n\nHere is a comprehensive guide tailored to your query, featuring the best software tools, a streamlined workflow, and an analysis of the industry-leading options you mentioned.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nTo build a high-retention faceless channel, you need tools for scripting, voiceover, editing, and repurposing. Here is how the top tools stack up:\n\n*   **CapCut (Best for Editing & Auto-Captions):** \n    *   *Why use it:* CapCut is the industry favorite for short-",
+              "thoughtSignature": "Eo4BCosBAWkUfRPapdP8d77FctVwop1EXekIMTpEwbcK6ILbaONKMFjIBcAvZIlkOUMlfyY0Mf412QqwuaDN1MLHsSgBcGiwoyHPtvXR6GzwB6J7ZmiAJqkQmyps2w9yNmS4YaOSO/ukg2Fodj8lTjlnAMgRW+CizDduFdfDIgtMGt+x+FFnrtgtdJsnQNSsmQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "GkEDa5rIMoLnjuMP04zrmAc"
+  },
+  "latency_ms": 2281,
+  "cost_usd": 0.0002
+}

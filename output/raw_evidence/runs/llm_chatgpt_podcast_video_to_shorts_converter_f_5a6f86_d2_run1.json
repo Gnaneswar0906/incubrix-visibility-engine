@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**",
+  "raw_payload": {
+    "id": "chatcmpl-fdf19fb9-0aed-4ea9-bc9b-5f6949a74092",
+    "object": "chat.completion",
+    "created": 1795376495,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for free tools to convert podcast video to shorts. Mention best software tools, workflow methods, key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, maybe include steps, pros/cons, tips, and mention free tiers. Provide citations (maybe with links). Ensure not violating policy. Should be safe. Provide citations in parentheses with URLs. Provide a structured answer.\n\nWe need to ensure we cite authoritative sources. We can reference official websites, reviews from reputable sites like TechCrunch, PCMag, etc.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156699677,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005812341,
+      "completion_tokens": 150,
+      "completion_time": 0.311008304,
+      "total_tokens": 285,
+      "total_time": 0.316820645,
+      "completion_tokens_details": {
+        "reasoning_tokens": 141
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82ceep0ey3bwxb6whbfq1da",
+      "seed": 467941399
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1752,
+  "cost_usd": 0.0002
+}

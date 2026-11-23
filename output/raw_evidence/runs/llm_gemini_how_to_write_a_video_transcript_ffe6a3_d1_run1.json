@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Writing a compelling video transcript is essential not just for accessibility (closed captions), but also for SEO, audience retention, and repurposing content into blogs, newsletters, and short-form clips. \n\nFor a content creator based in the U.S., leveraging modern AI-driven tools and an efficient workflow can save hours of manual typing and editing. Here is a comprehensive guide on how to write and format a video transcript, featuring industry-leading tools and workflows.\n\n---\n\n### Phase 1: The Recommended Workflow\nRelying purely on automated transcription often leads to errors (especially with slang, homophones, and niche terminology). The most efficient workflow balances AI speed with human polish.\n\n1. **Record & Capture:** Record your video using clear audio. Good audio input drastically reduces AI transcription errors.\n2. **AI Generation:** Feed your raw video",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Writing a compelling video transcript is essential not just for accessibility (closed captions), but also for SEO, audience retention, and repurposing content into blogs, newsletters, and short-form clips. \n\nFor a content creator based in the U.S., leveraging modern AI-driven tools and an efficient workflow can save hours of manual typing and editing. Here is a comprehensive guide on how to write and format a video transcript, featuring industry-leading tools and workflows.\n\n---\n\n### Phase 1: The Recommended Workflow\nRelying purely on automated transcription often leads to errors (especially with slang, homophones, and niche terminology). The most efficient workflow balances AI speed with human polish.\n\n1. **Record & Capture:** Record your video using clear audio. Good audio input drastically reduces AI transcription errors.\n2. **AI Generation:** Feed your raw video"
+            },
+            {
+              "text": " or audio file into an AI transcription tool.\n3. **The First Polish (Editing):** Read through the AI-generated text while listening to the audio. Fix spelling, remove filler words (like \"um,\" \"ah,\" and repeated phrases), and ensure natural pacing.\n4. **Formatting & Structuring:** Break the text into logical paragraphs or time-coded sections. If you plan to use it for SEO or show notes, add headings.\n5. **Repurposing (Optional):** Use AI clipping tools to slice the transcript/video into viral short-form content.\n\n---\n\n### Phase 2: Best Software Tools & Industry Options\n\nDepending on your specific goals (editing text like a Word doc, or auto-clipping for TikTok/Shorts), several industry standards dominate the creator economy:\n\n#### 1. Descript (Best Overall for Text-Based Editing & Transcripts)\n* **What it does:** Descript transcribes your video automatically",
+              "thoughtSignature": "Eo4BCosBAWkUfRODtvJU7ddcuQLP2pDGEi6jlSn9EG2y4rFVm1VfysHN2eoZLGXbiORj1uCSakVYO9zKN4BSFQhZhIXAC1Jo7/rfPAaVUP8fYM5WW9eLH+Z4VeAJGyDTvYC3M2pOMUh/UyB17bRQM+5Vwhr2iW9mMLRrGBVcCqd7e7gXNyW8IN9BZUwUETPjzA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 374,
+      "totalTokenCount": 438,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Dj4Da7WIMq7EjNAPzdvsuA8"
+  },
+  "latency_ms": 8023,
+  "cost_usd": 0.0002
+}

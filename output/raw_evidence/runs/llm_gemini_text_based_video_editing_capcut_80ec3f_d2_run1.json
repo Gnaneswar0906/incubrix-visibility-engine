@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down how text-based video editing works\u2014specifically focusing on **CapCut** and its ecosystem\u2014along with other top industry alternatives, recommended workflows, and authoritative context.\n\n---\n\n### Understanding Text-Based Video Editing\nText-based video editing (sometimes called transcript-based editing) allows creators to edit videos the same way they edit a Word document. By deleting, copying, or rearranging sentences in an auto-generated transcript, the corresponding video and audio tracks are automatically cut and rearranged to match. This eliminates the need to fiddle with timeline playheads for rough cuts, saving massive amounts of time for talking heads, podcasts, tutorials, and short-form content.\n\n---\n\n### Key Industry Options\n\n1. **CapCut (Desktop & Mobile)**\n   * **What it is:** A massively popular, freemium video editor owned by ByteDance. \n   * **Text-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down how text-based video editing works\u2014specifically focusing on **CapCut** and its ecosystem\u2014along with other top industry alternatives, recommended workflows, and authoritative context.\n\n---\n\n### Understanding Text-Based Video Editing\nText-based video editing (sometimes called transcript-based editing) allows creators to edit videos the same way they edit a Word document. By deleting, copying, or rearranging sentences in an auto-generated transcript, the corresponding video and audio tracks are automatically cut and rearranged to match. This eliminates the need to fiddle with timeline playheads for rough cuts, saving massive amounts of time for talking heads, podcasts, tutorials, and short-form content.\n\n---\n\n### Key Industry Options\n\n1. **CapCut (Desktop & Mobile)**\n   * **What it is:** A massively popular, freemium video editor owned by ByteDance. \n   * **Text-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMEyaBvIg86RiC3fsy++RRU3uWknBVLx10r/i/Vj7PVXYFMtf5TZUl3dlVWJzpZT8KCWi9wbERcvBmWkIfYa6BU3o8o77aZ/KT2wc6AhTbmFDAKLzbKXRC24GLCQHI7kS2UpbWCUoKcivIZezYv9lFXu5LYdK1IvAFz3ocejcEspp2wckKGVQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xUUDa_yzEJ2PjuMPq8zA-A0"
+  },
+  "latency_ms": 2722,
+  "cost_usd": 0.0002
+}

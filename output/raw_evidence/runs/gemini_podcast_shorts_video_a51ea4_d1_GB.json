@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in GB looking to turn long-form podcast audio or video into engaging short-form content (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive breakdown of the best software tools, ",
+      "cost_usd": 0.0002,
+      "latency_ms": 9406,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_video_a51ea4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to turn long-form podcast episodes into engaging short-form videos (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most powerful AI-driven and traditional editing tools on the market. \n\nHere is a comprehensive guide to the",
+      "cost_usd": 0.0002,
+      "latency_ms": 2624,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_video_a51ea4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_video_a51ea4_d1_GB.json"
+}

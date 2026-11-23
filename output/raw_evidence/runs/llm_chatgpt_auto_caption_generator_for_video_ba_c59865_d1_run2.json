@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US looking to generate **Bangla (Bengali) auto-captions** for your videos, you are entering a rapidly maturing but still challenging niche. While English captioning is standard, Bangla requires specific attention to **script rendering**, **diacritics (matras)**, and **speech recognition accuracy**.\n\nHere are the best software tools, workflow methods, and industry options tailored for Bangla video captioning:\n\n### \ud83c\udfc6 Top Recommended Tools for Bangla Captions\n\n#### 1. **CapCut** (Best Free/Beginner-Friendly Option)\n   - **Why it\u2019s great for Bangla**: CapCut has significantly improved its multilingual support. It",
+  "raw_payload": {
+    "id": "chatcmpl-f34db6ca-5ff2-47ef-b1be-4993c195bd47",
+    "object": "chat.completion",
+    "created": 1795374737,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US looking to generate **Bangla (Bengali) auto-captions** for your videos, you are entering a rapidly maturing but still challenging niche. While English captioning is standard, Bangla requires specific attention to **script rendering**, **diacritics (matras)**, and **speech recognition accuracy**.\n\nHere are the best software tools, workflow methods, and industry options tailored for Bangla video captioning:\n\n### \ud83c\udfc6 Top Recommended Tools for Bangla Captions\n\n#### 1. **CapCut** (Best Free/Beginner-Friendly Option)\n   - **Why it\u2019s great for Bangla**: CapCut has significantly improved its multilingual support. It"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053207223,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005478517,
+      "completion_tokens": 150,
+      "completion_time": 0.294225765,
+      "total_tokens": 229,
+      "total_time": 0.299704282
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82arsg6etavyy9e0g5fg4ze",
+      "seed": 226532443
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2074,
+  "cost_usd": 0.0002
+}

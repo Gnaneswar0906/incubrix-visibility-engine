@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs agent opus",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are likely looking to maximize efficiency by turning long-form content into viral short-form clips. The terms **\"Opus Clip\"** and **\"Agent Opus\"** can be confusing because they refer to two distinct concepts in the AI video editing space, often conflated du",
+      "cost_usd": 0.0002,
+      "latency_ms": 1469,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_agent_opus_423b17_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick TL;DR**\n\n| Feature | **Opus\u202fClip** | **Agent\u202fOpus** (AI\u2011agent for content creation) | Best for |\n|---------|---------------|-----------------------------------------------|----------|\n| Core",
+      "cost_usd": 0.0002,
+      "latency_ms": 3575,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_agent_opus_423b17_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_agent_opus_423b17_d1_US.json"
+}

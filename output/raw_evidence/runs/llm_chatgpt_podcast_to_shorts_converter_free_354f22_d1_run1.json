@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f Turning a Full\u2011Length Podcast into Snackable Shorts \u2013 Free\u2011First Toolkit  \n\nBelow is a **step\u2011by\u2011step workflow** you can copy\u2011paste into your own SOP, plus a **quick\u2011look cheat sheet** of the best free (",
+  "raw_payload": {
+    "id": "chatcmpl-94fbfe31-07e8-4532-b84f-51cb8341f959",
+    "object": "chat.completion",
+    "created": 1795374523,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f Turning a Full\u2011Length Podcast into Snackable Shorts \u2013 Free\u2011First Toolkit  \n\nBelow is a **step\u2011by\u2011step workflow** you can copy\u2011paste into your own SOP, plus a **quick\u2011look cheat sheet** of the best free (",
+          "reasoning": "The user wants recommendations for free podcast-to-shorts converter tools, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, US content creator. Provide list, pros/cons, workflow steps. Provide citations. Need to ensure not violating policy. It's allowed. Provide citations with links. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.374279031,
+      "prompt_tokens": 134,
+      "prompt_time": 0.008234808,
+      "completion_tokens": 150,
+      "completion_time": 0.312683548,
+      "total_tokens": 284,
+      "total_time": 0.320918356,
+      "completion_tokens_details": {
+        "reasoning_tokens": 87
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82aj8b9e6grr1c952mtw1fq",
+      "seed": 203237500
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2107,
+  "cost_usd": 0.0002
+}

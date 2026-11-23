@@ -1,0 +1,109 @@
+{
+  "query": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=dG6yfgic4qs&vl=en",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "automatically post youtube videos to discord server",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto Post YouTube Videos to Discord | Step-by-Step Tutorial",
+        "link": "https://www.youtube.com/watch?v=dG6yfgic4qs&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "learn how to automatically post your latest youtube videos to discord with this easy step-by-step tutorial. perfect for creators, streamers,\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "YouTube to Discord Bot: Auto-Post Without Coding",
+        "link": "https://rss.app/bots/youtube-discord-bot",
+        "displayedLink": "https://rss.app \u203a bots \u203a youtube-discord-bot",
+        "snippet": "Auto-post YouTube videos to Discord instantly. No coding or API setup required. The easiest way to automate Discord with RSS.app. Try it for free!",
+        "rating": 4.8,
+        "ratingCount": 53,
+        "position": 2
+      },
+      {
+        "title": "Post new YouTube videos to Discord channel",
+        "link": "https://ifttt.com/applets/VxiYR6Wr-post-new-youtube-videos-to-discord-channel",
+        "displayedLink": "https://ifttt.com \u203a applets \u203a VxiYR6Wr-post-new-youtube-v...",
+        "snippet": "Automatically share your newly uploaded YouTube videos to a Discord channel when they go public. This applet posts a message from the IFTTT Bot containing your ...",
+        "position": 3
+      },
+      {
+        "title": "Is there a Discord bot to which you could upload videos and then have it ...",
+        "link": "https://www.reddit.com/r/Discord_Bots/comments/1abcgmu/is_there_a_discord_bot_to_which_you_could_upload/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_a_discord_bot_to_w...",
+        "snippet": "Is there a Discord bot to which you could upload videos and then have it automatically post them in a channel at certain times? Is this possible ...",
+        "sitelinks": [
+          {
+            "title": "Discord webhook bot that will post new YouTube uploads to a ... - Redditr/Discord_Bots\u00b76 comments\u00b71y",
+            "link": "https://www.reddit.com/r/Discord_Bots/comments/1hzwiey/discord_webhook_bot_that_will_post_new_youtube/"
+          },
+          {
+            "title": "[Discussion] How to automatically announce youtube video uploads to ...r/discordapp\u00b74 comments\u00b76y",
+            "link": "https://www.reddit.com/r/discordapp/comments/fjq0gc/discussion_how_to_automatically_announce_youtube/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "How to automatically send YouTube notifications to Discord",
+        "link": "https://www.reddit.com/r/BuildDiscordBots/comments/1tp10yz/how_to_automatically_send_youtube_notifications/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_to_automatically_send_y...",
+        "sitelinks": [
+          {
+            "title": "Using Discord Bot To Display Youtube VideoStack Overflow\u00a0\u00b7\u00a01 answer\u00a0\u00b7\u00a05y",
+            "link": "https://stackoverflow.com/questions/67620570/using-discord-bot-to-display-youtube-video"
+          }
+        ],
+        "position": 5
+      },
+      {
+        "title": "Using Discord Bot To Display Youtube Video",
+        "link": "https://stackoverflow.com/questions/67620570/using-discord-bot-to-display-youtube-video",
+        "displayedLink": "https://stackoverflow.com \u203a questions \u203a 67620570 \u203a using-discord-bot-to-displa...",
+        "position": 6
+      },
+      {
+        "title": "How to Automatically Share New YouTube Videos on Discord?",
+        "link": "https://www.flozic.ai/blog/share-youtube-videos-in-discord",
+        "displayedLink": "https://www.flozic.ai \u203a blog \u203a share-youtube-videos-in-dis...",
+        "snippet": "To auto-share YouTube videos on Discord, build an AI-powered workflow on Flozic: YouTube \u201cNew Video\u201d is the trigger, and Discord \u201cPost Message\u201d ...",
+        "date": "27 Oct 2026",
+        "position": 7
+      },
+      {
+        "title": "How To Add YouTube Upload Notifications In Discord Server",
+        "link": "https://www.youtube.com/watch?v=jSVeSvlGr5c",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to add youtube upload notifications in discord server in this video. Auto Notification YouTube Discord | Upload / Live Ping",
+        "position": 8
+      },
+      {
+        "title": "Send YouTube Videos to Discord - Bots",
+        "link": "https://readybot.io/bots/youtube-bot",
+        "displayedLink": "https://readybot.io \u203a bots \u203a youtube-bot",
+        "snippet": "Connect YouTube to Discord with Readybot. Automatically send new videos from any YouTube channel to your Discord server \u2014 free, no API key needed.",
+        "position": 9
+      },
+      {
+        "title": "How to share YouTube videos on Discord",
+        "link": "https://zapier.com/blog/share-youtube-videos-in-discord/",
+        "displayedLink": "https://zapier.com \u203a blog \u203a share-youtube-videos-in-dis...",
+        "snippet": "To make it even easier to share YouTube videos right when you post them, you can use the Zapier workflow below to connect YouTube to Discord ...",
+        "date": "13 Aug 2024",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

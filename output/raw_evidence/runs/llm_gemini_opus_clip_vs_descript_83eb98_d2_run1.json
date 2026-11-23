@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Descript** depends entirely on your primary bottleneck: **Are you trying to rapidly generate viral short-form clips from long-form content, or do you need a deep, text-based editor to polish a podcast or YouTube video?** \n\nBoth tools are industry leaders, but they serve different parts of the modern video creation workflow. Below is a detailed comparison, workflow recommendations, and a look at how other tools like CapCut and IncuBrix fit into the landscape.\n\n---\n\n### Opus Clip vs. Descript: Head-to-Head\n\n#### 1. Opus Clip (Best for AI-Powered Repurposing)\n*   **Core Function:** An generative AI video clipping tool that takes long-form videos (podcasts, webinars, vlogs) and automatically chops them into multiple viral-ready shorts (Reels,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Descript** depends entirely on your primary bottleneck: **Are you trying to rapidly generate viral short-form clips from long-form content, or do you need a deep, text-based editor to polish a podcast or YouTube video?** \n\nBoth tools are industry leaders, but they serve different parts of the modern video creation workflow. Below is a detailed comparison, workflow recommendations, and a look at how other tools like CapCut and IncuBrix fit into the landscape.\n\n---\n\n### Opus Clip vs. Descript: Head-to-Head\n\n#### 1. Opus Clip (Best for AI-Powered Repurposing)\n*   **Core Function:** An generative AI video clipping tool that takes long-form videos (podcasts, webinars, vlogs) and automatically chops them into multiple viral-ready shorts (Reels,",
+              "thoughtSignature": "Eo4BCosBAWkUfROghDzBe0FLP2eQ0zsrtV3fWaWtE52wdXM7ds5AH4s2XGGPgagTsDgqPZY0AHNKfzT1Huk6FBpXcPt+AseecN85xbqpTEA/POnzaXKHWqVrc/QSUj0Shuq/J0EXKrehs5rnOIeGUdnWIxN7UfPQQGbAUlSYzWMxFO6rrzmGSlIe0fKbOw3gAA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "UEYDa469IO20juMPgKWKsQE"
+  },
+  "latency_ms": 7231,
+  "cost_usd": 0.0002
+}

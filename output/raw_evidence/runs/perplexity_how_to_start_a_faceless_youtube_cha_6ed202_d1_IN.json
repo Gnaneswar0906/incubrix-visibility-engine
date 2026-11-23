@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "how to start a faceless youtube channel with ai and make money",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to start a faceless youtube channel with ai and make money' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 443
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'how to start a faceless youtube channel with ai and make money' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 336
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_start_a_faceless_youtube_cha_6ed202_d1_IN.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to save photos from youtube posts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to save photos from YouTube posts. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. So we need to explain how to capture still images from YouTube videos, maybe from posts (like YouTube Shorts?). Provide tools like VLC, OBS, screenshot tools, maybe use online services. Also mention IncuBrix, CapCut, Opus Clip, Descript which are editing tools that can capture frames. Provide workflow: download video, pause at frame, use screenshot, or use the built-in capture. For YouTube posts (shorts), maybe use the",
+  "raw_payload": {
+    "id": "chatcmpl-407bbb85-0c75-4b15-9c0a-7888b702fd7b",
+    "object": "chat.completion",
+    "created": 1795377098,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to save photos from YouTube posts. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. So we need to explain how to capture still images from YouTube videos, maybe from posts (like YouTube Shorts?). Provide tools like VLC, OBS, screenshot tools, maybe use online services. Also mention IncuBrix, CapCut, Opus Clip, Descript which are editing tools that can capture frames. Provide workflow: download video, pause at frame, use screenshot, or use the built-in capture. For YouTube posts (shorts), maybe use the"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368047428,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006805511,
+      "completion_tokens": 150,
+      "completion_time": 0.161334835,
+      "total_tokens": 286,
+      "total_time": 0.168140346,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d23c14756c",
+    "x_groq": {
+      "id": "req_01m82d0vk5egzb7rh72ncx0dj1",
+      "seed": 2060180047
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4108,
+  "cost_usd": 0.0002
+}

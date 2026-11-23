@@ -1,0 +1,92 @@
+{
+  "query": "podcast shorts english",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/@LukesEnglishPodcast",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts english",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Luke's English Podcast",
+        "link": "https://www.youtube.com/@LukesEnglishPodcast",
+        "displayedLink": "https://www.youtube.com \u203a @LukesEnglishPodcast",
+        "snippet": "LEARN ENGLISH WITH A SHORT STORY. Stories are a great way to learn English. Listen to Luke telling different stories - true, fictional, ...",
+        "position": 1
+      },
+      {
+        "title": "Short English Podcasts",
+        "link": "https://open.spotify.com/show/3sDat5wBSwCcJ09sCu3F55",
+        "displayedLink": "https://open.spotify.com \u203a show \u203a 3sDat5wBSwCcJ09sCu3F55",
+        "snippet": "In this podcast I will be discussing general topics of common interest to most people who want to practice their listening skills from basic to intermediate ...",
+        "position": 2
+      },
+      {
+        "title": "BBC Learning English - Podcasts",
+        "link": "https://www.bbc.co.uk/learningenglish/podcasts",
+        "displayedLink": "https://www.bbc.co.uk \u203a learningenglish \u203a podcasts",
+        "snippet": "ENGLISH IN A MINUTE short episodes to teach you vocabulary. DOWNLOAD the podcast (all levels). Also available via: RSS | Apple | Spotify ...",
+        "position": 3
+      },
+      {
+        "title": "Learn English and listen to English with podcasts in English",
+        "link": "https://www.podcastsinenglish.com/",
+        "displayedLink": "https://www.podcastsinenglish.com",
+        "snippet": "What's more, the episodes are quite short \u2013normally under 5 minutes \u2013 perfect for those pressed for time. They also address entertaining topics, which include ...",
+        "position": 4
+      },
+      {
+        "title": "Short English Podcasts",
+        "link": "https://podcasts.apple.com/us/podcast/short-english-podcasts/id1513045714",
+        "displayedLink": "https://podcasts.apple.com \u203a us \u203a ... \u203a id1513045714",
+        "snippet": "In this podcast I will be discussing general topics of common interest to most people who want to practice their listening skills from basic to intermediate ...",
+        "position": 5
+      },
+      {
+        "title": "Just 5 Minutes a Day Changed My English Forever | English Podcast for ...",
+        "link": "https://www.youtube.com/watch?v=sZdoVkm8LCs",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Welcome to today's learning English podcast. Do you feel like you have no time to learn English? What if just 5 minutes a day was enough to\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "Podcasts | LearnEnglish",
+        "link": "https://learnenglish.britishcouncil.org/general-english/audio-series/podcasts",
+        "displayedLink": "https://learnenglish.britishcouncil.org \u203a general-english \u203a audio-series \u203a podcasts",
+        "snippet": "Do you enjoy listening to podcasts? Listen to our series of podcasts for pre-intermediate (CEFR level A2) or intermediate (CEFR level B1) learners.",
+        "position": 7
+      },
+      {
+        "title": "55 Best Short English Podcasts to Listen to in 2026",
+        "link": "https://podcast.feedspot.com/short_english_podcasts/",
+        "displayedLink": "https://podcast.feedspot.com \u203a short_english_podcasts",
+        "snippet": "Short English Podcasts \u00b7 1. 6 Minute English \u00b7 2. Learning English Vocabulary \u00b7 3. Daily Easy English Expression Podcast \u00b7 4. Learning English Grammar \u00b7 5.",
+        "position": 8
+      },
+      {
+        "title": "Best Short English Podcasts Under 10 Minutes (2026)",
+        "link": "https://www.flexilingo.com/en/blog/best-short-english-podcasts-under-10-minutes",
+        "displayedLink": "https://www.flexilingo.com \u203a en \u203a blog \u203a best-short-english-podcasts...",
+        "snippet": "Nineteen English podcasts whose episodes really do end before ten minutes, verified against their own feeds in September 2026 \u2014 news, ...",
+        "date": "25 Sept 2026",
+        "position": 9
+      },
+      {
+        "title": "How To Change Your Life | English Podcast For Easy English In Daily Life",
+        "link": "https://www.youtube.com/watch?v=F_8jp70daZs&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Change your life and improve your English at the same time. In this English podcast for easy English in daily life, Anna and Jake talk about\u00a0...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

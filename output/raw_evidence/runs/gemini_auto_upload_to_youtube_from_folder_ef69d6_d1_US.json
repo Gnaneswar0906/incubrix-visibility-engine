@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'auto upload to youtube from folder' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 409
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to automate the process of uploading videos from a local computer folder directly to YouTube, the optimal approach combines **local folder monitoring** with **cloud-based AI editing and scheduling tools**. \n\nManually exporting a video from an editor, opening Yo",
+      "cost_usd": 0.0002,
+      "latency_ms": 6202,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_to_youtube_from_folder_ef69d6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_to_youtube_from_folder_ef69d6_d1_US.json"
+}

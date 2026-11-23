@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video edit template",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Overview",
+      "cost_usd": 0.0002,
+      "latency_ms": 3075,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_edit_template_88d6d1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: text video edit template Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if availabl",
+      "cost_usd": 0.0002,
+      "latency_ms": 3242,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_edit_template_88d6d1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_video_edit_template_88d6d1_d1_GB.json"
+}

@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "where can i start a podcast for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for free podcast hosting platforms, software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide info about free options, steps, workflow, tips. Must be helpful, concise but thorough. Provide citations. Should we include URLs? Yes. Use markdown. Ensure mention of Indian context. Provide links to sources like Anchor (now Spotify for Podcasters), Podbean free tier, Spotify, Google Podcasts, etc. Also mention recording software: Audacity, OBS, Zencastr, Riverside.fm (free tier), etc. Editing: Descript,",
+  "raw_payload": {
+    "id": "chatcmpl-739df206-06d5-402b-8b7e-0b51a9c03927",
+    "object": "chat.completion",
+    "created": 1795376889,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for free podcast hosting platforms, software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide info about free options, steps, workflow, tips. Must be helpful, concise but thorough. Provide citations. Should we include URLs? Yes. Use markdown. Ensure mention of Indian context. Provide links to sources like Anchor (now Spotify for Podcasters), Podbean free tier, Spotify, Google Podcasts, etc. Also mention recording software: Audacity, OBS, Zencastr, Riverside.fm (free tier), etc. Editing: Descript,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.373467317,
+      "prompt_tokens": 137,
+      "prompt_time": 0.010050541,
+      "completion_tokens": 150,
+      "completion_time": 0.31413105,
+      "total_tokens": 287,
+      "total_time": 0.324181591,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82ctf5de4campzfbq6vrc3h",
+      "seed": 354719614
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3406,
+  "cost_usd": 0.0002
+}

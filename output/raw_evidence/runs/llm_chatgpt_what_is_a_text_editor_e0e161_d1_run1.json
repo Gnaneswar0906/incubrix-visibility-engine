@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is a text editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you likely encounter the term \"text editor\" in two distinct contexts: **visual code editors** (for building websites/apps) and **plain text editors** (for writing manuscripts, scripts, or coding).\n\nGiven your request to include tools like **CapCut**, **Opus Clip**, and **Descript**, it seems you are primarily interested in **creative content workflows** where text editing is part of a broader video/audio production pipeline. However, I\u2019ll also clarify the technical definition to ensure you have the full picture.\n\n### 1. What is a Text Editor?\nA **text editor** is a software application used to create, modify, and save plain text files. Unlike word",
+  "raw_payload": {
+    "id": "chatcmpl-0a8cce81-6e60-4c19-b4b9-c0e99253a60a",
+    "object": "chat.completion",
+    "created": 1795375501,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you likely encounter the term \"text editor\" in two distinct contexts: **visual code editors** (for building websites/apps) and **plain text editors** (for writing manuscripts, scripts, or coding).\n\nGiven your request to include tools like **CapCut**, **Opus Clip**, and **Descript**, it seems you are primarily interested in **creative content workflows** where text editing is part of a broader video/audio production pipeline. However, I\u2019ll also clarify the technical definition to ensure you have the full picture.\n\n### 1. What is a Text Editor?\nA **text editor** is a software application used to create, modify, and save plain text files. Unlike word"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054233717,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005449713,
+      "completion_tokens": 150,
+      "completion_time": 0.290985805,
+      "total_tokens": 227,
+      "total_time": 0.296435518
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bg475ehxsxx57g0at2eb1",
+      "seed": 1526974484
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1189,
+  "cost_usd": 0.0002
+}

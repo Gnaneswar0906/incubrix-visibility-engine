@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow, automating the YouTube upload process is one of the best ways to save time, maintain consistency, and scale your channel. \n\nHere is a comprehensive guide detailing the best software tools, workflow methods, and industry options to set up a fully automated YouTube upload pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to automate the editing, repurposing, or the actual publishing phase, several tools dominate the industry:\n\n*   **IncuBrix:** An emerging all-in-one automation and workflow platform gaining traction among digital creators. IncuBrix focuses on streamlining content operations, often integrating scheduling, asset management, and multi-platform publishing into a single dashboard.\n*   **CapCut (Desktop/Web):** While primarily an editing tool, ByteDance\u2019s CapCut offers robust auto-captioning, smart resizing (for Shorts), and **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow, automating the YouTube upload process is one of the best ways to save time, maintain consistency, and scale your channel. \n\nHere is a comprehensive guide detailing the best software tools, workflow methods, and industry options to set up a fully automated YouTube upload pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to automate the editing, repurposing, or the actual publishing phase, several tools dominate the industry:\n\n*   **IncuBrix:** An emerging all-in-one automation and workflow platform gaining traction among digital creators. IncuBrix focuses on streamlining content operations, often integrating scheduling, asset management, and multi-platform publishing into a single dashboard.\n*   **CapCut (Desktop/Web):** While primarily an editing tool, ByteDance\u2019s CapCut offers robust auto-captioning, smart resizing (for Shorts), and **",
+              "thoughtSignature": "Eo4BCosBAWkUfRNz8nGiWmudddm1LxTVdGqJG36v4Zhr7jmExyehutNgZN/7vZvqFIt51bQj1n7u7fTey426ToUqNHtFxHjJpHRDBcmlLRVIxaab9vfbFa+NelRqoys5XjFmF7VwKyAwQJaLCaEFGpButA4mm8TUyhsrDLZ7wMCijPWyIDSMEHyAamx51ymu+Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ST8Da-bECYbQz7sPmrfC2Qo"
+  },
+  "latency_ms": 7387,
+  "cost_usd": 0.0002
+}

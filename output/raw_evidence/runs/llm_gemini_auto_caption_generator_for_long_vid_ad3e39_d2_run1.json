@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. working with long-form videos (like YouTube long-form, podcasts, or webinars), generating auto-captions efficiently\u2014and ideally for free or on a budget\u2014requires a tool that balances speed, editing ease, and export flexibility. \n\nBelow is a breakdown of the best software tools, key industry options (including those you mentioned), and a recommended workflow for handling long-form video captions.\n\n---\n\n### Key Industry Options for Long-Form Auto-Captions\n\n#### 1. CapCut (Desktop & Mobile) \u2013 *Best Overall Free Option*\n*   **The Scoop:** While famous for short-form clips, CapCut Desktop is an absolute powerhouse for long videos. It offers robust, highly accurate auto-captions with zero watermarks on standard exports.\n*   **Why it\u2019s great for long videos:** The desktop version allows you to easily timeline-edit massive files, apply",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. working with long-form videos (like YouTube long-form, podcasts, or webinars), generating auto-captions efficiently\u2014and ideally for free or on a budget\u2014requires a tool that balances speed, editing ease, and export flexibility. \n\nBelow is a breakdown of the best software tools, key industry options (including those you mentioned), and a recommended workflow for handling long-form video captions.\n\n---\n\n### Key Industry Options for Long-Form Auto-Captions\n\n#### 1. CapCut (Desktop & Mobile) \u2013 *Best Overall Free Option*\n*   **The Scoop:** While famous for short-form clips, CapCut Desktop is an absolute powerhouse for long videos. It offers robust, highly accurate auto-captions with zero watermarks on standard exports.\n*   **Why it\u2019s great for long videos:** The desktop version allows you to easily timeline-edit massive files, apply",
+              "thoughtSignature": "Eo4BCosBAWkUfROMHsDmbq7k5oKeBienJVSLz1N95tUpYELg6eIbyhIklguE7EmdaGffvSQtEFOE39r9xGO0o0qed+xt93oO5BYNscuK2ESt2DAoAsAFHo0rhQC8/uW8YS/2XwEQqKlg4twgZSzr3Wleo6NUJnHK7PbdTf8CM1mJMkzZ8PfDBw7WKNn4w71OMw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "_EUDa8jiJoqdz7sPwsqxkAY"
+  },
+  "latency_ms": 8486,
+  "cost_usd": 0.0002
+}

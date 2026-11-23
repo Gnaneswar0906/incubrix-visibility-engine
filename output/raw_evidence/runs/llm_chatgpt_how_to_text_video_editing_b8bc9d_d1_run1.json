@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"how to text video editing\". Likely they want to know how to add text to video editing, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide recommendations, workflow, mention sources. Must be safe, no disallowed content. Provide citations with links. Provide Indian context? They are located in IN (India). Provide suggestions for local resources maybe.\n\nWe need to cite authoritative web sources. Provide links to official sites or articles. Use markdown.\n\nLet's craft answer: intro, steps: planning, script, choosing software, adding text, styling, timing, export. Tools: CapCut (free mobile/desktop), Des",
+  "raw_payload": {
+    "id": "chatcmpl-7fcb9c2a-a685-4dc8-8963-dae2ac228724",
+    "object": "chat.completion",
+    "created": 1795375142,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"how to text video editing\". Likely they want to know how to add text to video editing, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide recommendations, workflow, mention sources. Must be safe, no disallowed content. Provide citations with links. Provide Indian context? They are located in IN (India). Provide suggestions for local resources maybe.\n\nWe need to cite authoritative web sources. Provide links to official sites or articles. Use markdown.\n\nLet's craft answer: intro, steps: planning, script, choosing software, adding text, styling, timing, export. Tools: CapCut (free mobile/desktop), Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317438654,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006462713,
+      "completion_tokens": 150,
+      "completion_time": 0.310737324,
+      "total_tokens": 284,
+      "total_time": 0.317200037,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82b54hme6zt53dettgzpp2c",
+      "seed": 899035768
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3221,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "best free auto caption generator reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick answer:**  \nIf you\u2019re looking for a **free, reliable auto\u2011caption generator** that\u2019s been praised on Reddit and works well for creators in India, the top picks are:\n\n| Rank | Tool (Free tier",
+  "raw_payload": {
+    "id": "chatcmpl-e03c5364-d5ec-452a-b638-4f6d49c61fd0",
+    "object": "chat.completion",
+    "created": 1795375237,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick answer:**  \nIf you\u2019re looking for a **free, reliable auto\u2011caption generator** that\u2019s been praised on Reddit and works well for creators in India, the top picks are:\n\n| Rank | Tool (Free tier",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Query: \"best free auto caption generator reddit\". Provide recommendations of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. Provide links, maybe mention Reddit threads. Provide free options. Provide workflow. Cite sources. Ensure not to violate any policy. Provide info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15665474,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00565465,
+      "completion_tokens": 150,
+      "completion_time": 0.316979819,
+      "total_tokens": 285,
+      "total_time": 0.322634469,
+      "completion_tokens_details": {
+        "reasoning_tokens": 96
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b826aekqv41hqffpnc8q9",
+      "seed": 1040326343
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3177,
+  "cost_usd": 0.0002
+}

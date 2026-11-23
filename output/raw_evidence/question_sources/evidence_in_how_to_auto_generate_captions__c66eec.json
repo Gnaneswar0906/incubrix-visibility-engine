@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=how+to+auto+generate+captions+for",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "how to auto generate captions for",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:50:05.087566+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "how to auto generate captions for a video",
+    "how to auto generate captions for free",
+    "how to auto generate captions for youtube",
+    "how to auto generate captions on reels",
+    "how to auto generate captions for youtube video",
+    "how to auto generate captions for tiktok",
+    "how to auto generate subtitles for a video",
+    "how to auto generate subtitles for a video youtube",
+    "how to auto generate subtitles for a video free",
+    "how to auto generate subtitles for a video tiktok"
+  ],
+  "raw_response": "[\"how to auto generate captions for\",[\"how to auto generate captions for a video\",\"how to auto generate captions for free\",\"how to auto generate captions for youtube\",\"how to auto generate captions on reels\",\"how to auto generate captions for youtube video\",\"how to auto generate captions for tiktok\",\"how to auto generate subtitles for a video\",\"how to auto generate subtitles for a video youtube\",\"how to auto generate subtitles for a video free\",\"how to auto generate subtitles for a video tiktok\"],[],{\"google:suggestsubtypes\":[[512],[512],[22,30],[22,30,10],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

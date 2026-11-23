@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get a faceless face on roblox",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to get a faceless face on Roblox. This is somewhat ambiguous. It likely means creating a character with a faceless or blank face? Or maybe they want to create a Roblox avatar that has no face (like a blank face). They want software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources.\n\nWe need to give a comprehensive answer. We need to mention the best software tools: Roblox Studio, Blender, Adobe Photoshop, GIMP, etc. Workflow: modeling a face mesh with no face, or using a custom face texture. Use Roblox Studio to import custom avatar assets. Use",
+  "raw_payload": {
+    "id": "chatcmpl-dc7c88e5-1eae-4a57-9eac-d4cd104a5710",
+    "object": "chat.completion",
+    "created": 1795377636,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to get a faceless face on Roblox. This is somewhat ambiguous. It likely means creating a character with a faceless or blank face? Or maybe they want to create a Roblox avatar that has no face (like a blank face). They want software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources.\n\nWe need to give a comprehensive answer. We need to mention the best software tools: Roblox Studio, Blender, Adobe Photoshop, GIMP, etc. Workflow: modeling a face mesh with no face, or using a custom face texture. Use Roblox Studio to import custom avatar assets. Use"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316683434,
+      "prompt_tokens": 139,
+      "prompt_time": 0.006761093,
+      "completion_tokens": 150,
+      "completion_time": 0.151749936,
+      "total_tokens": 289,
+      "total_time": 0.158511029,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e189667b30",
+    "x_groq": {
+      "id": "req_01m82dh893ess9y63qyje26wg2",
+      "seed": 639348328
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7196,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,78 @@
+name: Weekly Visibility Tracker & Alerting Engine
+
+on:
+  schedule:
+    # Run every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force Day 2 Refresh'
+        required: false
+        default: 'true'
+
+jobs:
+  track-visibility:
+    name: Run Weekly Visibility & AEO/GEO Tracker
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Visibility Tracker (Refresh Mode)
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OFFLINE_MODE: 'true'
+        run: |
+          python -m src.cli run --input data/questions_seed.csv --day 1
+          python -m src.cli refresh --input data/questions_seed.csv
+          python -m src.cli programmatic
+          python -m src.cli brief --limit 15
+          python -m src.cli report
+
+      - name: Verify Submission Integrity (Self-Audit)
+        run: |
+          python -m src.cli self-audit
+
+      - name: Run Pytest Suite
+        run: |
+          pytest tests/ -v
+
+      - name: Check for Visibility Drop & Trigger Webhook Alert
+        env:
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+        run: |
+          python -c "
+          import os, requests
+          webhook = os.getenv('ALERT_WEBHOOK_URL')
+          if webhook and os.path.exists('output/reports/weekly_visibility_report.md'):
+              with open('output/reports/weekly_visibility_report.md') as f:
+                  summary = f.read()[:500]
+              requests.post(webhook, json={'text': f'Weekly IncuBrix Visibility Audit Completed:\n{summary}'})
+          "
+
+      - name: Upload Artifacts (Report, Visibility CSV, Workbook)
+        uses: actions/upload-artifact@v4
+        with:
+          name: incubrix-weekly-visibility-results
+          path: |
+            output/visibility.csv
+            output/reports/weekly_visibility_report.md
+            output/visibility_state.db
+            IncuBrix_2027_Growth_Engineer_Option_3_AEO_SEO_GEO_Submission_Workbook.xlsx

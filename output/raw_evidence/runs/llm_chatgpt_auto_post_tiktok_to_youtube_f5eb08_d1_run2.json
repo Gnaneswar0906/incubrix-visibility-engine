@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating your cross-platform distribution is key to scaling your reach without burning out. The goal here is to take your TikTok content (which is vertical, 9:16) and adapt it for YouTube, which primarily uses horizontal (16:9) formats for long-form but also supports Shorts (9:16).\n\nHere are the best software tools, workflows, and industry options to automate or semi-automate posting TikTok content to YouTube, with a focus on efficiency and quality.\n\n### \ud83d\udd11 Key Industry Options & Best Tools\n\n#### 1. **Opus Clip** (Best for AI Repurposing & Scheduling)\n*   **Why it\u2019s top-tier",
+  "raw_payload": {
+    "id": "chatcmpl-180aa789-d316-4df1-a2e0-a45c6835e24c",
+    "object": "chat.completion",
+    "created": 1795374864,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating your cross-platform distribution is key to scaling your reach without burning out. The goal here is to take your TikTok content (which is vertical, 9:16) and adapt it for YouTube, which primarily uses horizontal (16:9) formats for long-form but also supports Shorts (9:16).\n\nHere are the best software tools, workflows, and industry options to automate or semi-automate posting TikTok content to YouTube, with a focus on efficiency and quality.\n\n### \ud83d\udd11 Key Industry Options & Best Tools\n\n#### 1. **Opus Clip** (Best for AI Repurposing & Scheduling)\n*   **Why it\u2019s top-tier"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050029635,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005093274,
+      "completion_tokens": 150,
+      "completion_time": 0.285056493,
+      "total_tokens": 228,
+      "total_time": 0.290149767
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82awnvkevqbsmy16hq5r2dd",
+      "seed": 1551835777
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1822,
+  "cost_usd": 0.0002
+}

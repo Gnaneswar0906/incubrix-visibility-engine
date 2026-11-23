@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the U.S. looking to scale a **faceless YouTube channel using AI**, you are entering one of the most lucrative and automated niches in digital media. Success relies on an efficient pipeline: **Ideation & Scripting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals/B-Roll $\\rightarr",
+      "cost_usd": 0.0002,
+      "latency_ms": 6386,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_prompt_909dbf_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'faceless youtube channel ai prompt' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 391
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_prompt_909dbf_d1_US.json"
+}

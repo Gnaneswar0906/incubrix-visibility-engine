@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to provide answer: recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Should be helpful to content creator in GB. Should mention auto upload youtube shorts. Provide workflow steps, tools. Use authoritative sources. Provide citations. Need to browse? We have no browsing. Use known knowledge. Provide references to websites. Use citations like (Smith, 2023) or link. Provide references to e.g. YouTube Help Center, TechRadar, PCMag. Provide best software: CapCut, Descript, Opus Clip, InVideo, Lumen5, InVideo, Adobe Premiere Rush, Final Cut Pro,",
+  "raw_payload": {
+    "id": "chatcmpl-2a4b1982-277f-44b3-a496-d03a5fbd79a1",
+    "object": "chat.completion",
+    "created": 1795377460,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to provide answer: recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Should be helpful to content creator in GB. Should mention auto upload youtube shorts. Provide workflow steps, tools. Use authoritative sources. Provide citations. Need to browse? We have no browsing. Use known knowledge. Provide references to websites. Use citations like (Smith, 2023) or link. Provide references to e.g. YouTube Help Center, TechRadar, PCMag. Provide best software: CapCut, Descript, Opus Clip, InVideo, Lumen5, InVideo, Adobe Premiere Rush, Final Cut Pro,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283077181,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006474036,
+      "completion_tokens": 150,
+      "completion_time": 0.155523529,
+      "total_tokens": 283,
+      "total_time": 0.161997565,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ef00694abe",
+    "x_groq": {
+      "id": "req_01m82dbwjfej8r0ht8xrzmvwz5",
+      "seed": 262680802
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4928,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to scale a **faceless YouTube channel using AI**, you are entering one of the most lucrative and automated niches in digital media. Success relies on an efficient pipeline: **Ideation & Scripting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals/B-Roll $\\rightarrow$ Video Editing $\\rightarrow$ Repurposing.**\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a streamlined workflow method tailored for U.S. creators.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo build an efficient AI tech stack, you need tools dedicated to specific stages of production. \n\n#### 1. All-in-One & Niche AI Automation: **IncuBrix**\n*   **What it does:** IncuBrix is emerging as a powerful platform designed specifically for creators aiming to streamline or fully automate the creation",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to scale a **faceless YouTube channel using AI**, you are entering one of the most lucrative and automated niches in digital media. Success relies on an efficient pipeline: **Ideation & Scripting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals/B-Roll $\\rightarrow$ Video Editing $\\rightarrow$ Repurposing.**\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a streamlined workflow method tailored for U.S. creators.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo build an efficient AI tech stack, you need tools dedicated to specific stages of production. \n\n#### 1. All-in-One & Niche AI Automation: **IncuBrix**\n*   **What it does:** IncuBrix is emerging as a powerful platform designed specifically for creators aiming to streamline or fully automate the creation",
+              "thoughtSignature": "Eo4BCosBAWkUfRP9A7QG2CaWqNmRDkAS4VsEnYYlh0YEvr4KAKHIwjNPERXTKb6aRfkTCSVTV6actFYqO2WXjPIAwCoSqXelZ3eR+Ip0nxuPWY1W7KhH9nX4eW/vp7co+cTWL20/JmCkPF5Fi06wqOAojkTPiavKJ1Q19SOY1btnUssnOBpFfFupIT8v66mrYg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "lT8Da8P-BZqEjuMPxbL9gAI"
+  },
+  "latency_ms": 6386,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to make podcast shorts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They ask: \"how to make podcast shorts\" and want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. It's fine. Provide suggestions, workflow steps, mention tools, and cite sources with URLs. Provide Indian context maybe. Ensure we are helpful. Use markdown. Provide citations in footnotes style.\n\nWe need to ensure we don't hallucinate sources; we can reference known sources like official websites, blog posts, etc. Provide approximate citations",
+  "raw_payload": {
+    "id": "chatcmpl-ffbed1b2-cc92-4f01-a311-5c68245d88b1",
+    "object": "chat.completion",
+    "created": 1795376873,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They ask: \"how to make podcast shorts\" and want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. It's fine. Provide suggestions, workflow steps, mention tools, and cite sources with URLs. Provide Indian context maybe. Ensure we are helpful. Use markdown. Provide citations in footnotes style.\n\nWe need to ensure we don't hallucinate sources; we can reference known sources like official websites, blog posts, etc. Provide approximate citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157944031,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005374709,
+      "completion_tokens": 150,
+      "completion_time": 0.308333829,
+      "total_tokens": 284,
+      "total_time": 0.313708538,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82cszbre02vnmt24ywcf5jc",
+      "seed": 695794768
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3873,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), especially one working with **Malayalam video content**, generating accurate auto-captions can sometimes be challenging due to regional linguistic nuances, slang, and script rendering (Malayalam script can occasionally break on standard Western editing tools if not Unicode-compliant). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and an evaluation of the industry options you mentioned, tailored for your needs.\n\n---\n\n### 1. Industry Options Evaluated for Malayalam\n\n#### **CapCut (Best Overall for Mobile & Trendy Styles)**\n*   **Malayalam Support:** CapCut\u2019s auto-captions feature supports Malayalam through its speech-recognition engine, though heavy regional slang may require manual corrections. \n*   **Pros:** Highly popular among creators for its dynamic, TikTok/Reels-style \"karaoke\" captions (word-by-word highlighting), rich template library, and free/",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), especially one working with **Malayalam video content**, generating accurate auto-captions can sometimes be challenging due to regional linguistic nuances, slang, and script rendering (Malayalam script can occasionally break on standard Western editing tools if not Unicode-compliant). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and an evaluation of the industry options you mentioned, tailored for your needs.\n\n---\n\n### 1. Industry Options Evaluated for Malayalam\n\n#### **CapCut (Best Overall for Mobile & Trendy Styles)**\n*   **Malayalam Support:** CapCut\u2019s auto-captions feature supports Malayalam through its speech-recognition engine, though heavy regional slang may require manual corrections. \n*   **Pros:** Highly popular among creators for its dynamic, TikTok/Reels-style \"karaoke\" captions (word-by-word highlighting), rich template library, and free/",
+              "thoughtSignature": "Eo4BCosBAWkUfROJR30nUcOy/7F7aWR8vy0cskzUHq0V/vzqD9AqMmyCyVI4Covb4h0jslGselGo4ndiy9GqQ+vTI3jIyVRIX4gU17Gsq9p1zD3MnSWz2nbQboAUuDTeLknLPuM4ZEFhXaBZ80fcuFZeT3dJqKziYnGld4C9H9SavKfh9P77gwtEC+fdBttN+w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ZEADa9KrKZvKv_gP6trzoQc"
+  },
+  "latency_ms": 2619,
+  "cost_usd": 0.0002
+}

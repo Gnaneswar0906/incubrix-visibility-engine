@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for software tools, workflow methods, and mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's f",
+      "cost_usd": 0.0002,
+      "latency_ms": 8284,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_converter_6a52df_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form vertical videos (Shorts, Reels, TikToks) is one of the most effective strategies for audience growth in 2024. The market has matured significantly, moving from simple manual editing to AI-driven automation.\n\nHere\u2019s a breakdown of the best software",
+      "cost_usd": 0.0002,
+      "latency_ms": 1127,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_converter_6a52df_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_converter_6a52df_d1_US.json"
+}

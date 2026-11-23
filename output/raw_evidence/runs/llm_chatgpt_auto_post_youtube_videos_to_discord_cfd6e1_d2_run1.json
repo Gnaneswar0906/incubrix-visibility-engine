@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to discord",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for software tools, workflow methods for auto-posting YouTube videos to Discord. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. No disallowed content. Provide citations with URLs. Use markdown. Provide step-by-step workflow, possible bots, webhooks, IFTTT, Zapier, Discord webhooks, YouTube API, etc. Also mention tools for video editing (CapCut, Opus Clip, Descript) and perhaps IncuBrix (maybe a platform). Provide best practices, cost, integration. Provide references. Should",
+  "raw_payload": {
+    "id": "chatcmpl-4c123456-68f1-4e8e-8b04-3c5caf588ef5",
+    "object": "chat.completion",
+    "created": 1795377094,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for software tools, workflow methods for auto-posting YouTube videos to Discord. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. No disallowed content. Provide citations with URLs. Use markdown. Provide step-by-step workflow, possible bots, webhooks, IFTTT, Zapier, Discord webhooks, YouTube API, etc. Also mention tools for video editing (CapCut, Opus Clip, Descript) and perhaps IncuBrix (maybe a platform). Provide best practices, cost, integration. Provide references. Should"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157739868,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005267061,
+      "completion_tokens": 150,
+      "completion_time": 0.310707031,
+      "total_tokens": 285,
+      "total_time": 0.315974092,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82d0qaqefers5876s1f8vnz",
+      "seed": 252068707
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2666,
+  "cost_usd": 0.0002
+}

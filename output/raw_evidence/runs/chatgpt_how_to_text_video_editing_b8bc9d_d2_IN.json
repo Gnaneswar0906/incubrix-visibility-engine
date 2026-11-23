@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text video editing",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query from a content creator located in India (IN). Query: \"how to text video editing\". Likely they want to add text to videos, i.e., text overlay editing. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite au",
+      "cost_usd": 0.0002,
+      "latency_ms": 3313,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_video_editing_b8bc9d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in India, you are in a prime position to leverage both global industry standards and cost-effective, powerful tools tailored for high-volume or specific niche content. \"Text video editing\" can refer to two main workflows: **text-based editing** (editing video by editing t",
+      "cost_usd": 0.0002,
+      "latency_ms": 1220,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_video_editing_b8bc9d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_text_video_editing_b8bc9d_d2_IN.json"
+}

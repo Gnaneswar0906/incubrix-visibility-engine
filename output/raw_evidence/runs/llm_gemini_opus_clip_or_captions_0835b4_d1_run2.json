@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated AI-driven repurposing** versus **manual, highly creative precision editing**. \n\nBoth tools have distinct advantages, and understanding how they fit into a modern GB creator workflow will help you decide which is best for your channel.\n\n---\n\n### 1. Opus Clip vs. CapCut: The Core Comparison\n\n#### **Opus Clip (Best for Automated Long-to-Short Repurposing)**\n*   **What it does:** Opus Clip is a generative AI video tool designed specifically to take long-form videos (like YouTube podcasts, tutorials, or streams) and automatically chop them into multiple viral-worthy short clips (Reels, TikToks, Shorts).\n*   **Key Strengths:** \n    *   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated AI-driven repurposing** versus **manual, highly creative precision editing**. \n\nBoth tools have distinct advantages, and understanding how they fit into a modern GB creator workflow will help you decide which is best for your channel.\n\n---\n\n### 1. Opus Clip vs. CapCut: The Core Comparison\n\n#### **Opus Clip (Best for Automated Long-to-Short Repurposing)**\n*   **What it does:** Opus Clip is a generative AI video tool designed specifically to take long-form videos (like YouTube podcasts, tutorials, or streams) and automatically chop them into multiple viral-worthy short clips (Reels, TikToks, Shorts).\n*   **Key Strengths:** \n    *   **",
+              "thoughtSignature": "Eo4BCosBAWkUfRMKEJbEIQcuA1QE70YJaSTkU3ONjEXT1Z+mpFxo40ovmnh+N2/noh093NUkBTsepuZd6w+VCrPNfitA84s83rNWlZrvNa3VO0/Exeuv/iezF6msTaRFzDnz5JMD+5kN/JG9eOxqxw8s8oaHHHxqFHUybe/+EtgNJjdq+lPNrww0I5WDJyQUNg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jEIDa9-TFJ3k4t4P05eCiQg"
+  },
+  "latency_ms": 2094,
+  "cost_usd": 0.0002
+}

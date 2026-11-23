@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a sustainable, automated pipeline for YouTube Shorts is one of the most effective ways to scale content in 2024. However, it\u2019s important to clarify a key distinction: **YouTube does not allow direct, fully \"set-and-forget\" API automation for posting Shorts from third-party tools** in the same way it does for long-form videos. Most \"auto-posting\" workflows rely on a hybrid approach: **automated clipping/editing + scheduled posting via YouTube Studio or third-party schedulers**.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for scaling YouTube Shorts.\n\n---\n\n### \ud83d\udd27 Top Software Tools for Auto-Clipping & Editing\n\nThese tools use AI to identify viral",
+  "raw_payload": {
+    "id": "chatcmpl-06f00034-ff6d-46da-875b-edd89b11b77e",
+    "object": "chat.completion",
+    "created": 1795376692,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a sustainable, automated pipeline for YouTube Shorts is one of the most effective ways to scale content in 2024. However, it\u2019s important to clarify a key distinction: **YouTube does not allow direct, fully \"set-and-forget\" API automation for posting Shorts from third-party tools** in the same way it does for long-form videos. Most \"auto-posting\" workflows rely on a hybrid approach: **automated clipping/editing + scheduled posting via YouTube Studio or third-party schedulers**.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for scaling YouTube Shorts.\n\n---\n\n### \ud83d\udd27 Top Software Tools for Auto-Clipping & Editing\n\nThese tools use AI to identify viral"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.074695128,
+      "prompt_tokens": 76,
+      "prompt_time": 0.009967311,
+      "completion_tokens": 150,
+      "completion_time": 0.312329202,
+      "total_tokens": 226,
+      "total_time": 0.322296513
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82cmf23en0b0esdmtp8gah5",
+      "seed": 205112732
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1178,
+  "cost_usd": 0.0002
+}

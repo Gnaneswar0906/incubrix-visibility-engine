@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "is opus better than m4a",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Short answer:**  \nOpus is generally considered the",
+      "cost_usd": 0.0002,
+      "latency_ms": 2310,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_is_opus_better_than_m4a_ea162f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: is opus better than m4a Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if ava",
+      "cost_usd": 0.0002,
+      "latency_ms": 2460,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_is_opus_better_than_m4a_ea162f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_is_opus_better_than_m4a_ea162f_d1_GB.json"
+}

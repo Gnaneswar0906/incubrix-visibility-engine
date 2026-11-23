@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "To set up an automated YouTube video upload workflow using **n8n**, you are looking at one of the most powerful ways to scale a content creation business. By combining AI-driven creation tools with n8n\u2019s workflow automation, you can go from raw footage or an idea to a fully published YouTube video w",
+      "cost_usd": 0.0002,
+      "latency_ms": 2558,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_video_to_youtube_n8n_8d8243_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US looking to automate your YouTube video uploads using **n8n**, you are tapping into one of the most efficient ways to scale a channel\u2014especially",
+      "cost_usd": 0.0002,
+      "latency_ms": 3003,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_video_to_youtube_n8n_8d8243_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_video_to_youtube_n8n_8d8243_d2_US.json"
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=how+to+auto+post+to+youtube",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "how to auto post to youtube",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:54:27.333246+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "how to auto upload to youtube",
+    "how to auto post youtube shorts",
+    "how to automatically post youtube videos on facebook page",
+    "how to automatically post youtube videos on discord",
+    "how to auto post on youtube",
+    "how to auto upload vods to youtube",
+    "how to auto upload vods to youtube from twitch",
+    "how to post automatically from instagram to youtube",
+    "how to auto upload twitch streams to youtube",
+    "how to automatically upload twitch vods to youtube"
+  ],
+  "raw_response": "[\"how to auto post to youtube\",[\"how to auto upload to youtube\",\"how to auto post youtube shorts\",\"how to automatically post youtube videos on facebook page\",\"how to automatically post youtube videos on discord\",\"how to auto post on youtube\",\"how to auto upload vods to youtube\",\"how to auto upload vods to youtube from twitch\",\"how to post automatically from instagram to youtube\",\"how to auto upload twitch streams to youtube\",\"how to automatically upload twitch vods to youtube\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30,10],[22,30],[22,30],[22,30],[22,30]]}]"
+}

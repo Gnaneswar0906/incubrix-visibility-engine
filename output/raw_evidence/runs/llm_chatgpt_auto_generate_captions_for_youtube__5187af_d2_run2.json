@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating captions is one of the highest-leverage ways to boost your YouTube SEO, accessibility, and viewer retention. Most viewers watch with the sound off, and YouTube\u2019s algorithm prioritizes videos with accurate, timely captions.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options for auto-generating captions in 2024\u20132025, tailored for a US-based creator.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Podcasters & Talking-Head Videos)\n*   **Why it\u2019s top-tier:** Descript edits video by editing text. It transcribes",
+  "raw_payload": {
+    "id": "chatcmpl-74509fa7-169a-4d3a-9645-eefa2e94c47c",
+    "object": "chat.completion",
+    "created": 1795376607,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating captions is one of the highest-leverage ways to boost your YouTube SEO, accessibility, and viewer retention. Most viewers watch with the sound off, and YouTube\u2019s algorithm prioritizes videos with accurate, timely captions.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options for auto-generating captions in 2024\u20132025, tailored for a US-based creator.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Podcasters & Talking-Head Videos)\n*   **Why it\u2019s top-tier:** Descript edits video by editing text. It transcribes"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047605049,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005312681,
+      "completion_tokens": 150,
+      "completion_time": 0.285569219,
+      "total_tokens": 228,
+      "total_time": 0.2908819
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82chvn2e42tbc2gtj18r2ad",
+      "seed": 1451712660
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1240,
+  "cost_usd": 0.0002
+}

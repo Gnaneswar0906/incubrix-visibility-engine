@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=creator+workflow+automation",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "creator workflow automation",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:37:29.872283+00:00",
+  "extracted_count": 5,
+  "suggestions": [
+    "maker workflow automation",
+    "zoho creator workflow automation",
+    "workflow automation companies",
+    "how does workflow automation work",
+    "benefits of workflow automation"
+  ],
+  "raw_response": "[\"creator workflow automation\",[\"maker workflow automation\",\"zoho creator workflow automation\",\"workflow automation companies\",\"how does workflow automation work\",\"benefits of workflow automation\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

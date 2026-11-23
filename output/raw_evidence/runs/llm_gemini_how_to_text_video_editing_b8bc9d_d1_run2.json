@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to text video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to dive into text-based video editing\u2014a method where you edit a video by simply deleting, rearranging, or modifying a transcript\u2014you are in luck. This workflow has revolutionized content creation for YouTube, Instagram Reels, and podcasts by drastically cutting down editing time.\n\nHere is a comprehensive guide tailored to your query, covering the best tools, an efficient workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nText-based editing relies heavily on AI transcription. Depending on your specific needs (short-form vs. long-form, automated vs. manual control), here are the top tools available globally and in India:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered the concept of editing video like a word document. When you delete a word in the transcript, it cuts the corresponding video clip. It also features \"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to dive into text-based video editing\u2014a method where you edit a video by simply deleting, rearranging, or modifying a transcript\u2014you are in luck. This workflow has revolutionized content creation for YouTube, Instagram Reels, and podcasts by drastically cutting down editing time.\n\nHere is a comprehensive guide tailored to your query, covering the best tools, an efficient workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nText-based editing relies heavily on AI transcription. Depending on your specific needs (short-form vs. long-form, automated vs. manual control), here are the top tools available globally and in India:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered the concept of editing video like a word document. When you delete a word in the transcript, it cuts the corresponding video clip. It also features \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRMerFqY6/5G43vsKAlWwDqylc07w8xSbLxFbFpdVbOrki/UdWdvFBDaF4r+GazAN+bsdF0vwiJ0VOpWdAtjNtnMLUdbspsizjZDyCL2XCuAvs1veu62koj7QEP3Xoc9ES73m4M2076qPuEi09mAYqfEayE4byWOh98aS7toO6hlKEeAxsiKAA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "LEADa_-tMtGJ3LUP-ZfP6QM"
+  },
+  "latency_ms": 2131,
+  "cost_usd": 0.0002
+}

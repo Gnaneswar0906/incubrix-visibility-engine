@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto generate captions for video free reddit' in IN, popular recommendations include Klap, Veed.io. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 360
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto generate captions for video free reddit' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 396
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_captions_for_video_fr_363731_d2_IN.json"
+}

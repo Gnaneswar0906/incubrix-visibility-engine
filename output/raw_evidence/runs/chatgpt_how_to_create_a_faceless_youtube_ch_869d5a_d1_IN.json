@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create a faceless youtube channel using ai tools",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant for content creator in India. Provide recommendation for creating faceless YouTube channel using AI tools. Mention software tools, workflow, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply wit",
+      "cost_usd": 0.0002,
+      "latency_ms": 3892,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_a_faceless_youtube_ch_869d5a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: how to create a faceless YouTube channel using AI tools. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful for a content creator in India. Prov",
+      "cost_usd": 0.0002,
+      "latency_ms": 4915,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_a_faceless_youtube_ch_869d5a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_create_a_faceless_youtube_ch_869d5a_d1_IN.json"
+}

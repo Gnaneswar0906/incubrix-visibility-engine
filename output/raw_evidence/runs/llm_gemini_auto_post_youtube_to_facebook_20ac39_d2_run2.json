@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that cross-posting your YouTube videos to Facebook is one of the most effective ways to maximize reach, build a multi-platform audience, and monetize content in multiple ecosystems. \n\nHowever, simply dropping a YouTube link on Facebook yields poor algorithmic reach. Modern best practices require **native uploads** (downloading the video and uploading it directly to Facebook) optimized for vertical viewing (Reels) or high-engagement horizontal video, paired with automated distribution.\n\nHere is a breakdown of the best software tools, workflow methods, and an analysis of key industry options, including the tools you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether your goal is video editing, repurposing long-form content into shorts, or direct scheduling and auto-posting, different tools serve different parts of the workflow.\n\n*   **IncuBrix:** Emerging as a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that cross-posting your YouTube videos to Facebook is one of the most effective ways to maximize reach, build a multi-platform audience, and monetize content in multiple ecosystems. \n\nHowever, simply dropping a YouTube link on Facebook yields poor algorithmic reach. Modern best practices require **native uploads** (downloading the video and uploading it directly to Facebook) optimized for vertical viewing (Reels) or high-engagement horizontal video, paired with automated distribution.\n\nHere is a breakdown of the best software tools, workflow methods, and an analysis of key industry options, including the tools you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether your goal is video editing, repurposing long-form content into shorts, or direct scheduling and auto-posting, different tools serve different parts of the workflow.\n\n*   **IncuBrix:** Emerging as a",
+              "thoughtSignature": "Eo4BCosBAWkUfROhKJDg/geoEcLuyCwP2PVdRpULTbw5cGBNQdBq9UYqvJqQK9dsRSVz+mqAesmi0sa4LfpC167QSliPbJfGVuxLB61/o1Ma9B8p0Zlr8KVRPh06gTAn6XCGtmJFU52gN4fZ7HoWILXIkrezPIcxgw011L+E/TrDlaw+m/ODyTHaMaqFHb6P8Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "FUYDa4_xNtbg1_oP1fqE8Ao"
+  },
+  "latency_ms": 2542,
+  "cost_usd": 0.0002
+}

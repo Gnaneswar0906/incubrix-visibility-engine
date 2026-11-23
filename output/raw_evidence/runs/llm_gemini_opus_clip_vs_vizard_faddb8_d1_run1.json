@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vizard",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a US-based content creator navigate the crowded landscape of AI-powered video repurposing tools, choosing between **Opus Clip** and **Vizard**\u2014along with other industry alternatives\u2014comes down to your specific workflow, editing style, and goals (e.g., maximizing TikTok/Reels/Shorts growth vs. producing polished long-form podcasts). \n\nHere is a comprehensive breakdown comparing Opus Clip and Vizard, alongside other top industry options, recommended workflows, and authoritative insights.\n\n---\n\n### Part 1: Head-to-Head: Opus Clip vs. Vizard.ai\n\nBoth tools are designed to take a long-form video (like a YouTube video, webinar, or podcast) and automatically slice it into multiple viral short-form clips using AI. However, they cater to slightly different creators.\n\n#### **Opus Clip**\n*   **Best For:** Speed, automated curation, and \"hands-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a US-based content creator navigate the crowded landscape of AI-powered video repurposing tools, choosing between **Opus Clip** and **Vizard**\u2014along with other industry alternatives\u2014comes down to your specific workflow, editing style, and goals (e.g., maximizing TikTok/Reels/Shorts growth vs. producing polished long-form podcasts). \n\nHere is a comprehensive breakdown comparing Opus Clip and Vizard, alongside other top industry options, recommended workflows, and authoritative insights.\n\n---\n\n### Part 1: Head-to-Head: Opus Clip vs. Vizard.ai\n\nBoth tools are designed to take a long-form video (like a YouTube video, webinar, or podcast) and automatically slice it into multiple viral short-form clips using AI. However, they cater to slightly different creators.\n\n#### **Opus Clip**\n*   **Best For:** Speed, automated curation, and \"hands-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMS7+zq1nbITJPF64mM9ewFSfQqjSpPHTET3r4+2rJqgGHkPt9SShLzQ9Rgm0gyIE4lHByMJrk9+1Qaj50SGTmoqFyfQIm1n65fPZUlEfOPnMIJvZQwZq3OsPTGxvIdsCmVzB7mAF7JKIR2pQAK07YakjoxiqAEL9mdixUH1p8r7CzTFgDO9g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "fT8Da4vUO-rLv_gPzfn1mA8"
+  },
+  "latency_ms": 2435,
+  "cost_usd": 0.0002
+}

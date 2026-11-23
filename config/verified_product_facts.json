@@ -1,0 +1,226 @@
+{
+  "_metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-11-22",
+    "verified_source": "https://incubrix.com",
+    "description": "Single source of truth for IncuBrix product facts, pricing tiers, verified live features, and roadmap flags to ensure zero unverified claims."
+  },
+  "brand": {
+    "name": "IncuBrix",
+    "legal_name": "IncuBrix Inc.",
+    "tagline": "Create With Purpose. Publish Without Limits.",
+    "website_url": "https://incubrix.com",
+    "app_url": "https://app.incubrix.com",
+    "support_email": "contact@incubrix.com"
+  },
+  "pricing_tiers": {
+    "free": {
+      "name": "Free Plan",
+      "price_usd_monthly": 0,
+      "billing_interval": "monthly",
+      "credits": 30,
+      "export_resolution": "720p",
+      "watermark": true,
+      "features": [
+        "30 monthly AI rendering credits",
+        "720p export resolution",
+        "Standard kinetic captions in 10 languages",
+        "IncuBrix watermark on exported clips",
+        "Community forum support"
+      ]
+    },
+    "starter": {
+      "name": "Starter Plan",
+      "price_usd_monthly": 19,
+      "billing_interval": "monthly",
+      "credits": 150,
+      "export_resolution": "1080p",
+      "watermark": false,
+      "features": [
+        "150 monthly AI rendering credits",
+        "1080p Full HD watermark-free exports",
+        "Active speaker 9:16 auto-centering",
+        "Animated kinetic subtitles with creator fonts",
+        "Email support within 24 hours"
+      ]
+    },
+    "essential": {
+      "name": "Essential Plan",
+      "price_usd_monthly": 29,
+      "billing_interval": "monthly",
+      "credits": 300,
+      "export_resolution": "1080p",
+      "watermark": false,
+      "features": [
+        "300 monthly AI rendering credits",
+        "Silence and filler word remover (um/uh cutting)",
+        "Custom brand templates and logo watermarking",
+        "Batch export up to 10 clips simultaneously",
+        "Direct publishing to YouTube Shorts and TikTok"
+      ]
+    },
+    "growth": {
+      "name": "Growth Plan",
+      "price_usd_monthly": 49,
+      "billing_interval": "monthly",
+      "credits": 600,
+      "export_resolution": "4K",
+      "watermark": false,
+      "features": [
+        "600 monthly AI rendering credits",
+        "4K ultra-high-definition exports",
+        "Multi-platform 1-click publishing across 5 networks",
+        "AI multi-language translation and subtitle dubbing in 40+ languages",
+        "Priority cloud rendering queue (<60s render times)"
+      ]
+    },
+    "scale": {
+      "name": "Scale Plan",
+      "price_usd_monthly": 79,
+      "billing_interval": "monthly",
+      "credits": 1200,
+      "export_resolution": "4K",
+      "watermark": false,
+      "features": [
+        "1200 monthly AI rendering credits",
+        "Team collaboration with 3 editor seats",
+        "Advanced retention analytics and hook scoring",
+        "Shared brand kit and custom font uploads",
+        "Priority Slack support channel"
+      ]
+    },
+    "pro": {
+      "name": "Pro Plan",
+      "price_usd_monthly": 99,
+      "billing_interval": "monthly",
+      "credits": 2000,
+      "export_resolution": "4K",
+      "watermark": false,
+      "features": [
+        "2000 monthly AI rendering credits",
+        "Dedicated cloud GPU render nodes",
+        "Full REST API access for automated programmatic pipelines",
+        "Custom webhook triggers for post-processing",
+        "1-on-1 CreatorOps onboarding and workflow audit"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise Plan",
+      "price_usd_monthly": null,
+      "billing_interval": "annual",
+      "credits": "Unlimited / Custom",
+      "export_resolution": "Custom",
+      "watermark": false,
+      "features": [
+        "Custom credit allocations and dedicated infrastructure",
+        "SSO / SAML 2.0 authentication",
+        "Custom SLA and 99.9% uptime guarantee",
+        "Dedicated account manager and technical lead"
+      ]
+    }
+  },
+  "supported_platforms": {
+    "live": [
+      {"name": "YouTube Shorts", "aspect_ratio": "9:16", "max_duration_seconds": 60, "direct_publish": true},
+      {"name": "Instagram Reels", "aspect_ratio": "9:16", "max_duration_seconds": 90, "direct_publish": true},
+      {"name": "TikTok", "aspect_ratio": "9:16", "max_duration_seconds": 180, "direct_publish": true},
+      {"name": "LinkedIn Video", "aspect_ratio": "9:16, 1:1, or 16:9", "max_duration_seconds": 600, "direct_publish": true},
+      {"name": "Twitter / X Video", "aspect_ratio": "9:16 or 16:9", "max_duration_seconds": 140, "direct_publish": true},
+      {"name": "Facebook Reels", "aspect_ratio": "9:16", "max_duration_seconds": 90, "direct_publish": true}
+    ]
+  },
+  "verified_capabilities": {
+    "ai_highlight_detection": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Identifies the highest-retention moments and viral hooks from long-form audio/video using engagement scoring algorithms."
+    },
+    "kinetic_captions": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Word-by-word animated subtitles with custom creator typography, color highlighting, and 99.2% transcription accuracy across 40+ languages."
+    },
+    "active_speaker_centering": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Computer vision face tracking automatically detects active speakers in 16:9 landscape footage and centers them seamlessly into 9:16 vertical video."
+    },
+    "text_based_editing": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Edit video by modifying the interactive transcript; deleting a word or paragraph automatically snips the corresponding video frames."
+    },
+    "filler_word_silence_removal": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "1-click automated removal of filler pauses ('um', 'uh', 'you know') and dead air to tighten pacing."
+    },
+    "multi_platform_publishing": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Simultaneous syndication and scheduled publishing to YouTube, Instagram, TikTok, and LinkedIn from a unified dashboard."
+    },
+    "cloud_render_speed": {
+      "status": "live",
+      "is_live": true,
+      "is_roadmap": false,
+      "description": "Cloud-accelerated GPU rendering delivering 60-second vertical clips in under 90 seconds."
+    }
+  },
+  "roadmap_features": {
+    "custom_ai_avatars": {
+      "status": "in_development",
+      "is_live": false,
+      "is_roadmap": true,
+      "planned_release": "Q3 2027",
+      "note": "Digital twin avatars are currently in closed engineering development; NOT live."
+    },
+    "voice_cloning_realtime_dubbing": {
+      "status": "beta",
+      "is_live": false,
+      "is_roadmap": true,
+      "planned_release": "Q2 2027",
+      "note": "Voice cloning dubbing is in invite-only beta testing; NOT available on public self-serve plans."
+    },
+    "full_script_to_video_generation": {
+      "status": "research",
+      "is_live": false,
+      "is_roadmap": true,
+      "planned_release": "Q4 2027",
+      "note": "Autonomous text-prompt to multi-scene generation is currently in R&D; IncuBrix currently specializes in video repurposing from existing footage."
+    }
+  },
+  "creator_personas": [
+    {
+      "persona": "Solo Podcaster",
+      "primary_pain": "Spending 8-10 hours every week manually editing video podcasts into TikTok and Shorts clips.",
+      "recommended_plan": "Starter or Essential Plan"
+    },
+    {
+      "persona": "B2B Marketing Team",
+      "primary_pain": "Repurposing 60-minute webinars and client customer stories into executive LinkedIn clips.",
+      "recommended_plan": "Growth Plan"
+    },
+    {
+      "persona": "Course Creator & Educator",
+      "primary_pain": "Adding multilingual subtitles and punchy teasers to instructional video libraries.",
+      "recommended_plan": "Growth or Scale Plan"
+    },
+    {
+      "persona": "Content Repurposing Agency",
+      "primary_pain": "Managing batch video rendering and client brand templates for 10+ creator clients simultaneously.",
+      "recommended_plan": "Pro or Scale Plan"
+    },
+    {
+      "persona": "Gaming Streamer",
+      "primary_pain": "Extracting high-octane clutch moments from 4-hour Twitch streams for daily YouTube Shorts.",
+      "recommended_plan": "Starter Plan"
+    }
+  ]
+}

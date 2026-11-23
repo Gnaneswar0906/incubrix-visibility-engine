@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video file",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, you have access to some of the most powerful and diverse video editing ecosystems in the world. The \"best\" tool depends heavily on your specific niche (e.g., long-form YouTube, short-form social media, or corporate presentations) and your workflow preferences.\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 3674,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_a_video_file_0e0c85_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations of software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2563,
+      "cited_urls": [
+        "https://www.pcmag.com/p"
+      ],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_a_video_file_0e0c85_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_edit_a_video_file_0e0c85_d1_US.json"
+}

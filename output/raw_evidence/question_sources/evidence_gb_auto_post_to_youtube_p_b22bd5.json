@@ -1,0 +1,17 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+post+to+youtube+p",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto post to youtube p",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:14.239940+00:00",
+  "extracted_count": 4,
+  "suggestions": [
+    "auto post youtube videos to facebook page",
+    "how do i make a youtube post",
+    "how do i create a post on youtube",
+    "what are youtube posts"
+  ],
+  "raw_response": "[\"auto post to youtube p\",[\"auto post youtube videos to facebook page\",\"how do i make a youtube post\",\"how do i create a post on youtube\",\"what are youtube posts\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

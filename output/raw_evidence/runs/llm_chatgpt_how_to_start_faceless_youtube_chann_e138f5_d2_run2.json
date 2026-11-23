@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start faceless youtube channel with ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a faceless YouTube channel using AI is an increasingly viable strategy for creators in India, offering scalability and lower production barriers. Below is a structured guide covering the best software tools, workflow methods, and key industry options to help you launch effectively.\n\n### 1. Recommended AI Software Tools\n\nThe following tools are widely recognized in the creator economy for their effectiveness in faceless video production:\n\n- **Script Generation:**\n  - **Jasper AI** or **Copy.ai**: For generating engaging, SEO-optimized scripts based on your niche.\n  - **ChatGPT (Advanced Data Analysis/Claude)**: For structuring long-form content, outlining hooks, and creating diverse script variations.\n  - *Note for Indian Context",
+  "raw_payload": {
+    "id": "chatcmpl-fa304c9e-66d1-430b-a2ed-ad150b640c4a",
+    "object": "chat.completion",
+    "created": 1795377195,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Starting a faceless YouTube channel using AI is an increasingly viable strategy for creators in India, offering scalability and lower production barriers. Below is a structured guide covering the best software tools, workflow methods, and key industry options to help you launch effectively.\n\n### 1. Recommended AI Software Tools\n\nThe following tools are widely recognized in the creator economy for their effectiveness in faceless video production:\n\n- **Script Generation:**\n  - **Jasper AI** or **Copy.ai**: For generating engaging, SEO-optimized scripts based on your niche.\n  - **ChatGPT (Advanced Data Analysis/Claude)**: For structuring long-form content, outlining hooks, and creating diverse script variations.\n  - *Note for Indian Context"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047476091,
+      "prompt_tokens": 81,
+      "prompt_time": 0.005417459,
+      "completion_tokens": 150,
+      "completion_time": 0.285505282,
+      "total_tokens": 231,
+      "total_time": 0.290922741
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d3t83ed4vas0a5khn9rrt",
+      "seed": 246535146
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1386,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs submagic",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Submagic"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation about \"opus clip vs submagic\". They are a content creator in US. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to compare Opus Clip vs Submagic. Provide overview, strengths, weaknesses, use cases. Also suggest workflow, other tools. Provide citations with URLs. Must be factual, no disallowed content. Provide citations in a proper format. Ensure not to hallucinate sources; but we can reference known sites like TechCrunch, PCMag, etc. Since I can't browse, but can use known info up to 2024. Provide references",
+  "raw_payload": {
+    "id": "chatcmpl-d5445571-ce08-4912-b1be-eb67db49ce24",
+    "object": "chat.completion",
+    "created": 1795374950,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation about \"opus clip vs submagic\". They are a content creator in US. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to compare Opus Clip vs Submagic. Provide overview, strengths, weaknesses, use cases. Also suggest workflow, other tools. Provide citations with URLs. Must be factual, no disallowed content. Provide citations in a proper format. Ensure not to hallucinate sources; but we can reference known sites like TechCrunch, PCMag, etc. Since I can't browse, but can use known info up to 2024. Provide references"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154901254,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006488024,
+      "completion_tokens": 150,
+      "completion_time": 0.30895274,
+      "total_tokens": 284,
+      "total_time": 0.315440764,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82az9vye85s0a8fcy9sa8z5",
+      "seed": 1358524572
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3721,
+  "cost_usd": 0.0002
+}

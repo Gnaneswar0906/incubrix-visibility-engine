@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "can ai faceless youtube channel be monetized",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: can AI faceless YouTube channel be monetized. Provide recommendations on best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3329,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_ai_faceless_youtube_channel_be__88e0e3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants an answer: \"can AI faceless youtube channel be monetized\". Also recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator in GB (UK). So we should co",
+      "cost_usd": 0.0002,
+      "latency_ms": 2487,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_ai_faceless_youtube_channel_be__88e0e3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_can_ai_faceless_youtube_channel_be__88e0e3_d1_GB.json"
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "where can i start a podcast for free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'where can i start a podcast for free' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 473
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'where can i start a podcast for free' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_where_can_i_start_a_podcast_for_fre_4537ba_d2_IN.json"
+}

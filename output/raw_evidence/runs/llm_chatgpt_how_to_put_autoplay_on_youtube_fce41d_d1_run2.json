@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to put autoplay on youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer: how to put autoplay on YouTube. Autoplay could refer to making a video autoplay when embedded on a website, or enabling autoplay for next videos on YouTube. Also maybe for Shorts? Provide instructions. Also recommend tools like IncuBrix, CapCut, Opus Clip, Descript for editing and creating content that can be set to autoplay.\n\nWe need",
+  "raw_payload": {
+    "id": "chatcmpl-c08bbe73-2379-4934-8768-2119714ac929",
+    "object": "chat.completion",
+    "created": 1795375291,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to put autoplay on youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer: how to put autoplay on YouTube. Autoplay could refer to making a video autoplay when embedded on a website, or enabling autoplay for next videos on YouTube. Also maybe for Shorts? Provide instructions. Also recommend tools like IncuBrix, CapCut, Opus Clip, Descript for editing and creating content that can be set to autoplay.\n\nWe need"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36913581,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005119109,
+      "completion_tokens": 150,
+      "completion_time": 0.313290257,
+      "total_tokens": 285,
+      "total_time": 0.318409366,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82b9pspe1jas6ezx8xy14mj",
+      "seed": 661832498
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2354,
+  "cost_usd": 0.0002
+}

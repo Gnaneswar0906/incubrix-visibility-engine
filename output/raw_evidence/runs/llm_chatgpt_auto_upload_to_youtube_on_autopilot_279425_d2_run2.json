@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Uploading to YouTube on \u201cAutopilot\u201d  \nBelow is a practical, end\u2011to\u2011end workflow that lets you take a finished video (or a",
+  "raw_payload": {
+    "id": "chatcmpl-b6d8110d-acfc-44d1-95fa-2b5142bae15c",
+    "object": "chat.completion",
+    "created": 1795376679,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Uploading to YouTube on \u201cAutopilot\u201d  \nBelow is a practical, end\u2011to\u2011end workflow that lets you take a finished video (or a",
+          "reasoning": "We need to answer as an AI assistant for a US content creator, recommending best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with links. Provide workflow steps. Mention automation using YouTube API, Zapier, IFTTT, etc. Provide best practices. Provide a disclaimer about YouTube policies. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157148918,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00575038,
+      "completion_tokens": 150,
+      "completion_time": 0.312713789,
+      "total_tokens": 286,
+      "total_time": 0.318464169,
+      "completion_tokens_details": {
+        "reasoning_tokens": 107
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82cm1nme6nryqcq8schb891",
+      "seed": 2043391199
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2673,
+  "cost_usd": 0.0002
+}

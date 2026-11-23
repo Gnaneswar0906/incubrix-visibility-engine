@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate subtitles for audio",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto generate subtitles for audio' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 362
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate subtitles for audio' in GB, popular recommendations include CapCut. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 455
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_subtitles_for_audio_22d49e_d2_GB.json"
+}

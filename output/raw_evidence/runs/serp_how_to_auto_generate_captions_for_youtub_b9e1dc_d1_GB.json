@@ -1,0 +1,131 @@
+{
+  "query": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6373554?hl=en-GB",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to auto generate captions for youtube video",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Use automatic captioning - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6373554?hl=en-GB",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6373554",
+        "snippet": "Sign in to YouTube Studio. \u00b7 From the left menu, select Subtitles. \u00b7 Click the video that you want to add captions or subtitles to. \u00b7 Under 'Subtitles', click More ...",
+        "position": 1
+      },
+      {
+        "title": "[QUESTION] How do you make YouTube generate automated ...",
+        "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a question_how_do_you_make_yo...",
+        "snippet": "Is there a way to just prompt youtube to make the automated captions? For some reason or another they sometimes don't appear and/or I accidentally bork ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3rquw5/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h49neoo/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/19s9s01noyc5f/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3z22xi/"
+          },
+          {
+            "title": "Free way to auto-generate subtitles for my YouTube video when ... - Redditr/youtube\u00b72 comments\u00b75y",
+            "link": "https://www.reddit.com/r/youtube/comments/ma6ss8/free_way_to_autogenerate_subtitles_for_my_youtube/"
+          },
+          {
+            "title": "How to automatically add captions to a specific video? : r/NewTubersr/NewTubers\u00b710+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1939mz2/how_to_automatically_add_captions_to_a_specific/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "YouTube Automatic Subtitles: How to Add Quick Closed Captions!",
+        "link": "https://www.youtube.com/watch?v=tWbNrm7Jo5c",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "By the end of this video you'll know how to quickly add YouTube automatic subtitles to videos. YouTube automatic captions are NOT to be skipped!",
+        "position": 3
+      },
+      {
+        "title": "A complete guide for adding captions to YouTube videos",
+        "link": "https://blog.pope.tech/2024/05/24/a-complete-guide-for-adding-captions-to-youtube-videos/",
+        "displayedLink": "https://blog.pope.tech \u203a 2024 \u203a ... \u203a a-complete-guide-for-adding...",
+        "snippet": "Select Auto-sync. Paste the transcript text into the text field. Review the captions for accuracy if needed. When ready, select Done.",
+        "date": "29 Oct 2025",
+        "position": 4
+      },
+      {
+        "title": "Edit Automatic Captions in YouTube and Download and Repurpose them!",
+        "link": "https://www.youtube.com/watch?v=LUa-fqKQOHg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Once the automatic captions are available, you can go into YouTube Studio, click on the video details, go to the \"Subtitles\" section and click\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "How to Create and Edit Accurate YouTube Captions",
+        "link": "https://www.cla.purdue.edu/resources/digital-media/knowledge-base/guidelines/how-to-create-and-edit-accurate-youtube-captions.html",
+        "displayedLink": "https://www.cla.purdue.edu \u203a resources \u203a ... \u203a how-to-create-and-edit-accu...",
+        "snippet": "Sign in to your YouTube account. \u00b7 Navigate to YouTube Studio. \u00b7 From the left-hand menu, select Subtitles (sometimes labeled Captions). \u00b7 Find the video you wish ...",
+        "position": 6
+      },
+      {
+        "title": "Add Subtitles to Video Online for Free",
+        "link": "https://www.canva.com/features/add-subtitles-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-subtitles-to-video",
+        "snippet": "Select Text on the editor side panel, then under Dynamic text, choose Captions. Select a style, then click Generate captions to create subtitles from your ...",
+        "position": 7
+      },
+      {
+        "title": "How (and why) to add captions to your YouTube videos",
+        "link": "https://blog.youtube/news-and-events/caption-my-youtube-videos/",
+        "displayedLink": "https://blog.youtube \u203a news-and-events \u203a caption-my-youtube-videos",
+        "snippet": "Click \u201cadd subtitles\u201d and you'll see a list of options including upload file, auto sync and type manually. You can also utilize YouTube's auto ...",
+        "date": "6 Nov 2023",
+        "position": 8
+      },
+      {
+        "title": "Which program do you use to automatically add text/subtitles to your videos?",
+        "link": "https://www.reddit.com/r/YouTube_startups/comments/1o7jmfu/which_program_do_you_use_to_automatically_add/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a which_program_do_you_use_to...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/YouTube_startups/comments/1o7jmfu/which_program_do_you_use_to_automatically_add/njo8ckm/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/YouTube_startups/comments/1o7jmfu/which_program_do_you_use_to_automatically_add/njpevut/"
+          },
+          {
+            "title": "How to force YouTube to generate subtitles or caption automatically?Web Applications Stack Exchange\u00a0\u00b7\u00a09y",
+            "link": "https://webapps.stackexchange.com/questions/106586/how-to-force-youtube-to-generate-subtitles-or-caption-automatically"
+          }
+        ],
+        "position": 9
+      },
+      {
+        "title": "How to force YouTube to generate subtitles or caption automatically?",
+        "link": "https://webapps.stackexchange.com/questions/106586/how-to-force-youtube-to-generate-subtitles-or-caption-automatically",
+        "displayedLink": "https://webapps.stackexchange.com \u203a questions \u203a 106586 \u203a how-to-force-youtube-to-gen...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

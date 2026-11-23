@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "create a faceless youtube channel with ai using invideo",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai using invideo' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 357
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai using invideo' in GB, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 355
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_create_a_faceless_youtube_channel_w_1430f2_d2_GB.json"
+}

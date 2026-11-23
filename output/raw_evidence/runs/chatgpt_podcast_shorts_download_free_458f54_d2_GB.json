@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Free, Download\u2011Ready Shorts**  \n*(Tailored for a GB\u2011based content creator)*  \n\n---\n\n## 1. What \u201cPodcast Shorts\u201d Are & Why",
+      "cost_usd": 0.0002,
+      "latency_ms": 3965,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_download_free_458f54_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating \"shorts\" (vertical, 15\u201360 second clips) from long-form podcasts is one of the most effective ways for GB-based creators to grow their audience on TikTok, Instagram Reels, and YouTube Shorts. Given the UK\u2019s strong podcasting scene and the need for efficient, high-quality repurposing, here\u2019s ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1966,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_download_free_458f54_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_download_free_458f54_d2_GB.json"
+}

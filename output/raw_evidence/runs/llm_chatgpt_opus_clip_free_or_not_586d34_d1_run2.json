@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, it is great to see you looking for efficient ways to repurpose your long-form content. The short answer to your query is: **Opus Clip is not entirely free.** While it offers a free trial and a limited free tier, its core AI features and higher output limits require a paid subscription.\n\nHere\u2019s a detailed breakdown of Opus Clip\u2019s pricing, along with recommendations for the best alternative tools and workflow methods tailored for a GB-based creator.\n\n### 1. Opus Clip: Free or Paid?\n**Opus Clip** is a popular AI-powered tool that automatically clips long videos into short, viral-ready formats for TikTok, Reels, and Shorts.\n\n- **",
+  "raw_payload": {
+    "id": "chatcmpl-c4659b39-b988-478c-a904-4194d30df288",
+    "object": "chat.completion",
+    "created": 1795375737,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, it is great to see you looking for efficient ways to repurpose your long-form content. The short answer to your query is: **Opus Clip is not entirely free.** While it offers a free trial and a limited free tier, its core AI features and higher output limits require a paid subscription.\n\nHere\u2019s a detailed breakdown of Opus Clip\u2019s pricing, along with recommendations for the best alternative tools and workflow methods tailored for a GB-based creator.\n\n### 1. Opus Clip: Free or Paid?\n**Opus Clip** is a popular AI-powered tool that automatically clips long videos into short, viral-ready formats for TikTok, Reels, and Shorts.\n\n- **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054685912,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005081018,
+      "completion_tokens": 150,
+      "completion_time": 0.285588446,
+      "total_tokens": 228,
+      "total_time": 0.290669464
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bq9w3etgabg4v8mwtdqe6",
+      "seed": 322014690
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1288,
+  "cost_usd": 0.0002
+}

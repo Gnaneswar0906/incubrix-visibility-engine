@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: auto generate subtitles for a TikTok video. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide a detailed answer. Should be tailored for content creator in GB. Use sources. We need to find sources: maybe articles on TikTok subtitles, software reviews. Use credible sources: TechRadar, PCMag, Business Insider, etc. Also mention workflow: recording, uploading, generating subtitles, editing, exporting, adding to TikTok. Provide step-by-step. Also mention that TikTok has built-in auto captions. Provide options: IncuBrix (a TikTok editor), Cap",
+  "raw_payload": {
+    "id": "chatcmpl-b9facbfe-8839-43f6-8fd7-03cc4472a76e",
+    "object": "chat.completion",
+    "created": 1795377393,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: auto generate subtitles for a TikTok video. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide a detailed answer. Should be tailored for content creator in GB. Use sources. We need to find sources: maybe articles on TikTok subtitles, software reviews. Use credible sources: TechRadar, PCMag, Business Insider, etc. Also mention workflow: recording, uploading, generating subtitles, editing, exporting, adding to TikTok. Provide step-by-step. Also mention that TikTok has built-in auto captions. Provide options: IncuBrix (a TikTok editor), Cap"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.279598181,
+      "prompt_tokens": 139,
+      "prompt_time": 0.010366888,
+      "completion_tokens": 150,
+      "completion_time": 0.159523605,
+      "total_tokens": 289,
+      "total_time": 0.169890493,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_84bb35977d",
+    "x_groq": {
+      "id": "req_01m82d9v1fe1ste940etjkytmr",
+      "seed": 493429630
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4717,
+  "cost_usd": 0.0002
+}

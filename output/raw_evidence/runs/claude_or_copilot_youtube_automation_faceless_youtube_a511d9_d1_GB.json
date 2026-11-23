@@ -1,0 +1,40 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "youtube automation faceless youtube channel using ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'youtube automation faceless youtube channel using ai' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 439
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'youtube automation faceless youtube channel using ai' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 495
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_youtube_automation_faceless_youtube_a511d9_d1_GB.json"
+}

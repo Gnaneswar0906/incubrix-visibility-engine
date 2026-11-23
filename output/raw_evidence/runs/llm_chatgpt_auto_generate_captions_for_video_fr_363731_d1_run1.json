@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"auto generate captions for video free reddit\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. This is a normal request for software recommendations. No disallowed content. Provide info, mention tools, workflow, free options, Reddit discussion maybe. Provide citations. Must be safe. No copyrighted text beyond short excerpt. Provide citations with URLs. Use markdown.\n\nWe should note that IncuBrix is maybe not a known caption tool; but we can mention it if exists. Provide workflow:",
+  "raw_payload": {
+    "id": "chatcmpl-37cfb3a5-dbce-4a85-af5a-706eeaa72d02",
+    "object": "chat.completion",
+    "created": 1795375210,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"auto generate captions for video free reddit\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. This is a normal request for software recommendations. No disallowed content. Provide info, mention tools, workflow, free options, Reddit discussion maybe. Provide citations. Must be safe. No copyrighted text beyond short excerpt. Provide citations with URLs. Use markdown.\n\nWe should note that IncuBrix is maybe not a known caption tool; but we can mention it if exists. Provide workflow:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.163609696,
+      "prompt_tokens": 136,
+      "prompt_time": 0.044985553,
+      "completion_tokens": 150,
+      "completion_time": 0.310829023,
+      "total_tokens": 286,
+      "total_time": 0.355814576,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82b77g1e85vfq72z65kdvkb",
+      "seed": 1503709345
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2784,
+  "cost_usd": 0.0002
+}

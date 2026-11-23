@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you\u2019re likely looking for efficient ways to streamline your post-production process. Removing filler words (like \"um,\" \"uh,\" \"like,\" and \"you know\") is one of the most common pain points in video editing.\n\nHere\u2019s a breakdown of the best software tools, workflow",
+      "cost_usd": 0.0002,
+      "latency_ms": 1650,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_remove_filler_words_from_video_6b768a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "## Quick\u2011Take Summary\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit (GB creators) |\n|------|----------------------|-----------------------------------|\n| **Fully\u2011automated filler\u2011word removal** | **Descript",
+      "cost_usd": 0.0002,
+      "latency_ms": 3266,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_remove_filler_words_from_video_6b768a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_ai_remove_filler_words_from_video_6b768a_d1_GB.json"
+}

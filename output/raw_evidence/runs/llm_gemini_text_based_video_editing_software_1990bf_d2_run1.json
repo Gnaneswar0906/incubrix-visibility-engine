@@ -1,0 +1,51 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (often called transcript-based editing) has revolutionized digital media production. Instead of scrubbing through timelines and cutting clips manually, these tools allow you filler-word removal, audio cleanup, and rough cuts simply by editing a Word-document-style transcript.\n\nBelow is an overview of the top industry tools, standard workflows, and how specific options like IncuBrix, CapCut, Opus Clip, and Descript fit into the ecosystem.\n\n---\n\n### 1. Key Industry Options & Recommendations\n\n#### **Descript**",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (often called transcript-based editing) has revolutionized digital media production. Instead of scrubbing through timelines and cutting clips manually, these tools allow you filler-word removal, audio cleanup, and rough cuts simply by editing a Word-document-style transcript.\n\nBelow is an overview of the top industry tools, standard workflows, and how specific options like IncuBrix, CapCut, Opus Clip, and Descript fit into the ecosystem.\n\n---\n\n### 1. Key Industry Options & Recommendations\n\n#### **Descript**"
+            },
+            {
+              "text": "\n*   **Best For:** Long-form podcasters, YouTubers, and documentary-style editors who need deep transcript editing and AI voice cloning.\n*   **Overview:** Widely considered the gold standard for text-based video editing. Descript treats video editing like a Google Doc. Deleting a paragraph in the text deletes the corresponding video and audio. It also features **Studio Sound** (which turns cheap mic audio into studio quality) and **Overdub** (AI text-to-speech voice generation).\n*   **Authority Source:** Publications like *PC Magazine* frequently rate Descript as a top pick for its innovative workflow, praising its transition from an audio transcription tool into a robust nonlinear video editor (NLE).\n\n#### **CapCut (Desktop/Web)**\n*   **Best For:** Fast-paced social media content (TikTok, Instagram Reels, YouTube Shorts) and creators on a budget.\n*   **Overview:** While historically known as a traditional",
+              "thoughtSignature": "Eo4BCosBAWkUfRPt6oEsFXQSKd4svPLkyCgFb5OsvfAd8euiqO9nsvA8rdHIA7C0nteXdxrGEt4REeF/Rn0YADa2e2N4zTTl5R6aVD6OpTHtPa6Hv71R/X277JKccMpYuFzHZcj3tgessUvbPxyCfvVSmjwsO+kyyPt7zy6BuGr9Sb3CdR8Oo1vZcL4eD6Wbeg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 331,
+      "totalTokenCount": 394,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "wEUDa_GEGtD3z7sPk8TayQE"
+  },
+  "latency_ms": 3575,
+  "cost_usd": 0.0002
+}

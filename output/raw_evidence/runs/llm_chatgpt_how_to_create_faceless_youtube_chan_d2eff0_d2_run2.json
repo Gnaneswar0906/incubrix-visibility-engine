@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a guide on creating a faceless YouTube channel using AI, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe must comply with policy: It's allowed. Provide info, citations. Should not fabricate sources. We can reference known sites like YouTube Creator Academy, blogs, etc. We can use placeholder citations with URLs. Provide a structured guide.\n\nWe need to be mindful about location IN (India) but no special restrictions. Provide suggestions for tools that are accessible in India.\n\nLet's craft answer with sections: Concept, Content Types, AI tools (script generation, voiceover, video",
+  "raw_payload": {
+    "id": "chatcmpl-692cf756-a45b-456d-be93-08ba3b1c365b",
+    "object": "chat.completion",
+    "created": 1795377201,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a guide on creating a faceless YouTube channel using AI, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe must comply with policy: It's allowed. Provide info, citations. Should not fabricate sources. We can reference known sites like YouTube Creator Academy, blogs, etc. We can use placeholder citations with URLs. Provide a structured guide.\n\nWe need to be mindful about location IN (India) but no special restrictions. Provide suggestions for tools that are accessible in India.\n\nLet's craft answer with sections: Concept, Content Types, AI tools (script generation, voiceover, video"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369199961,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005381258,
+      "completion_tokens": 150,
+      "completion_time": 0.312597426,
+      "total_tokens": 288,
+      "total_time": 0.317978684,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82d4045e06ap3se1taavy92",
+      "seed": 1349241013
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2548,
+  "cost_usd": 0.0002
+}

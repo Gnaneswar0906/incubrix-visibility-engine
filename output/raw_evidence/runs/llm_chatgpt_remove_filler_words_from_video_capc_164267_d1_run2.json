@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video capcut",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a creator in the UK, you are likely looking for the most efficient way to streamline your editing workflow, particularly for short-form content (TikTok, Reels, Shorts) or long-form podcasts.\n\nCapCut does have features to help with this, but it is often limited compared to dedicated AI transcription tools. Below is a breakdown of the best software options, workflows, and how to specifically handle filler words in **CapCut** and other industry-standard tools.\n\n---\n\n### 1. Best Software Tools for Removing Filler Words\n\n#### **A. CapCut (Desktop & Mobile)**\n*   **Best for:** Quick edits, TikTok/Reels creators, users already in the CapCut ecosystem.\n*",
+  "raw_payload": {
+    "id": "chatcmpl-4b6a796e-5311-4b7c-8e69-1b501e52f3f6",
+    "object": "chat.completion",
+    "created": 1795375547,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a creator in the UK, you are likely looking for the most efficient way to streamline your editing workflow, particularly for short-form content (TikTok, Reels, Shorts) or long-form podcasts.\n\nCapCut does have features to help with this, but it is often limited compared to dedicated AI transcription tools. Below is a breakdown of the best software options, workflows, and how to specifically handle filler words in **CapCut** and other industry-standard tools.\n\n---\n\n### 1. Best Software Tools for Removing Filler Words\n\n#### **A. CapCut (Desktop & Mobile)**\n*   **Best for:** Quick edits, TikTok/Reels creators, users already in the CapCut ecosystem.\n*"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052677707,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005302133,
+      "completion_tokens": 150,
+      "completion_time": 0.285508078,
+      "total_tokens": 229,
+      "total_time": 0.290810211
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bhgkre7jtmgv49140z5ty",
+      "seed": 907021784
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1354,
+  "cost_usd": 0.0002
+}

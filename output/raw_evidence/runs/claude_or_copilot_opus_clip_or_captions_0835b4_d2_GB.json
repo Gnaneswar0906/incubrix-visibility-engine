@@ -1,0 +1,43 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'opus clip or captions' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 394
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip or captions' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 451
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_opus_clip_or_captions_0835b4_d2_GB.json"
+}

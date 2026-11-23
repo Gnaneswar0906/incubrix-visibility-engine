@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "remove words from a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an"
+            },
+            {
+              "text": " AI assistant helping a content creator in Great Britain, removing words from a video\u2014whether it is cutting out \"ums\" and \"ahs,\" editing out conversational pauses, or deleting specific spoken phrases\u2014has become vastly easier thanks to **Text-Based Video Editing**. \n\nInstead of traditional timeline chopping, modern AI tools allow you to edit a video simply by highlighting and deleting text in a transcript, automatically trimming the corresponding video and audio.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an efficient workflow method tailored for creators.\n\n---\n\n### 1. Key Industry Software Options\n\n#### **Descript** (The Gold Standard for Text-Based Editing)\n* **Overview:** Descript pioneered AI-powered text-based video editing. When you import a video, it transcribes the audio. Deleting a word, sentence, or paragraph from the text automatically deletes it from the video timeline.\n* **Standout Feature:**",
+              "thoughtSignature": "Eo4BCosBAWkUfRMh9YNr0t8u0CMegPJ/5zSSOC05nADr68vmSVXiQxGxVYf9LwlUjnlQD3HXEocmjifH1Fzc0wmwd2Kdmbj4IH8VwyutKHFeZlBb7Ij3PL3RN74qylfqhSS6GLJtb/4XZaP/WctW1B65XbguYZcr7aTnN0vixnhn8Kocf7BcDTU4b3aqAu+txw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0EEDa8KYFqO_juMPsYzOwAc"
+  },
+  "latency_ms": 10827,
+  "cost_usd": 0.0002
+}

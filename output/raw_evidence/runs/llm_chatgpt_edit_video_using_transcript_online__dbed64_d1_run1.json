@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "If you are experiencing issues where \"editing video using transcript\" features are not working online, the problem is rarely a bug in the AI itself. It is almost always one of three things: **audio clarity**, **browser compatibility**, or **file format/size limitations**.\n\nHere is a breakdown of the best software tools, optimized workflow methods to bypass these errors, and key industry options, specifically tailored for a US-based content creator.\n\n### 1. Top Software Tools for Transcript-Based Video Editing\n\n#### **A. Descript (The Industry Standard)**\n*   **Why it\u2019s best:** Descript pioneered text-based video editing. When it works, it\u2019s the most seamless.\n*   **Common \"Not Working\" Issues:**",
+  "raw_payload": {
+    "id": "chatcmpl-174be1db-8f20-416f-bbef-6d8695f94784",
+    "object": "chat.completion",
+    "created": 1795374620,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "If you are experiencing issues where \"editing video using transcript\" features are not working online, the problem is rarely a bug in the AI itself. It is almost always one of three things: **audio clarity**, **browser compatibility**, or **file format/size limitations**.\n\nHere is a breakdown of the best software tools, optimized workflow methods to bypass these errors, and key industry options, specifically tailored for a US-based content creator.\n\n### 1. Top Software Tools for Transcript-Based Video Editing\n\n#### **A. Descript (The Industry Standard)**\n*   **Why it\u2019s best:** Descript pioneered text-based video editing. When it works, it\u2019s the most seamless.\n*   **Common \"Not Working\" Issues:**"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046719316,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005189364,
+      "completion_tokens": 150,
+      "completion_time": 0.290810665,
+      "total_tokens": 229,
+      "total_time": 0.296000029
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82an7z5e33aq4ee5kwmnwn6",
+      "seed": 92753323
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4430,
+  "cost_usd": 0.0002
+}

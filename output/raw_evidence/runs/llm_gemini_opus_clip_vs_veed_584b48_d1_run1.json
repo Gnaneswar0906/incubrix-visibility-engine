@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs veed",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U"
+            },
+            {
+              "text": ".S.-based content creator, the choice between **Opus Clip** and **VEED.io** depends entirely on your primary goal: **automated AI repurposing** versus **all-in-one manual and AI video editing**. \n\nBoth are industry giants, but they serve different parts of the modern creator workflow. Here is a comprehensive breakdown of Opus Clip vs. VEED, how they compare to other top industry tools, and a recommended workflow for U.S. creators.\n\n---\n\n### Part 1: Opus Clip vs. VEED.io (Head-to-Head)\n\n#### **Opus Clip**\n* **Primary Use Case:** Turning long-form videos (podcasts, webinars, YouTube videos) into viral short-form clips (TikToks, Reels, YouTube Shorts) automatically.\n* **How it Works:** You drop in a YouTube link or upload a file. Its AI (Opus Clip Pro) analyzes the video, identifies the \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRMBZOf7dImHEH0TUgibojxD377lH4QuYavWRJxkQbci7EdZPuT5Av3dgSg4HUDd9CdUPiIqauerQE05P5nDC5z+1tkxuMfHDz73pMrpyQ70C67ttG/9WkpfoNhnkZVdnEeR54u8/41R4j0QG5fG55CLQkLHgw8G4IY5ILSK6P1jEYD5jDr9oQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 207,
+      "totalTokenCount": 270,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hz8Da7KeKc-x0r4P8ouf4As"
+  },
+  "latency_ms": 3228,
+  "cost_usd": 0.0002
+}

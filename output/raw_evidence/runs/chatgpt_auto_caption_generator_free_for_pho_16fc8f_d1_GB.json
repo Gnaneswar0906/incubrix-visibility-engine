@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you\u2019re likely looking for tools that not only generate captions for photos (such as alt text, descriptive overlays, or social media captions) but also integrate smoothly with video workflows if you\u2019re expanding into motion content.\n\nHere\u2019s a curated list ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2145,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_free_for_pho_16fc8f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Caption Generators\u202f\u2014\u202fFree Tools for Adding Text to Photos**  \n*(Tailored for a content creator based in Great Britain)*  \n\n| Tool | Free tier / key limits | Main strengths for photos | How to use it in a typical workflow | Link / Source |\n|------",
+      "cost_usd": 0.0002,
+      "latency_ms": 4428,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_free_for_pho_16fc8f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_free_for_pho_16fc8f_d1_GB.json"
+}

@@ -1,0 +1,14 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=AI+video+repurposing+tools",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "AI video repurposing tools",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:06:06.201790Z",
+  "extracted_count": 1,
+  "suggestions": [
+    "ai video repurposing tools"
+  ],
+  "raw_response": "[\"AI video repurposing tools\",[\"ai video repurposing tools\"],[],{\"google:suggestsubtypes\":[[22,30]]}]"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "create a monetizable ai faceless youtube channel",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 444
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 400
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_create_a_monetizable_ai_faceless_yo_0cf397_d2_GB.json"
+}

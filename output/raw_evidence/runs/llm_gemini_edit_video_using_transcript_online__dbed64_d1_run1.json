@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US dealing with the",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US dealing with the"
+            },
+            {
+              "text": " frustration of an online text-based video editor not working, you need reliable alternatives and a solid troubleshooting workflow to get your content out the door. \n\nText-based video editing (editing video by deleting, moving, or adding text in a transcript) has revolutionized post-production, but web-based tools are often prone to browser crashes, unstable internet connections, and heavy rendering bottlenecks.\n\nHere is a breakdown of the best software tools, industry options, and a foolproof workflow to rescue your project.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\nWhen looking for tools that allow you to edit video via a transcript, the industry is split between desktop applications (which are much more stable) and web-based AI tools (which are great for automation).\n\n1. **Descript (The Gold Standard for Transcript Editing)**\n   * **What it is:** The pioneer of \"word-for-word\" video editing. You delete a sentence in the transcript, and",
+              "thoughtSignature": "Eo4BCosBAWkUfRNCbylSXD+1bpvxhBK1T4NOJDLyasgdxd0cvULjnWOccXNOS4upRWh++V8p58c1T8MxiJlvDclwCf+XoFzIeWgOT4NxtRYzDvsARWtx+hulXiUNv2v/4Cf0Zx0ONv16UATei/kBDoc7yJpe3IhwFVmGGVfaaJ/RnY2IpGJJGxzQGxQIjJ9y7w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 210,
+      "totalTokenCount": 275,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Ij4Da6nvBqy83LUP-JP-mAs"
+  },
+  "latency_ms": 4196,
+  "cost_usd": 0.0002
+}

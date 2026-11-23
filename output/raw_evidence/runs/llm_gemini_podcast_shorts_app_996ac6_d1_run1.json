@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to break down long-form audio/video into engaging podcast shorts (Reels, TikToks, and YouTube Shorts), you have access to some of the most powerful AI-driven repurposing tools on the market. \n\nTo help you build an efficient, modern workflow, here is a breakdown of the best software tools, industry options, and a recommended workflow tailored for the British creator economy.\n\n---\n\n### Key Industry Options & Software Tools\n\n#### 1. Opus Clip (The AI Leader for Automated Curation)\n* **What it is:** A generative AI video tool that repurposes long videos into high-potential shorts with a single click. \n* **Key Features:** Opus Clip uses AI to analyze your podcast, identify the most \"viral\" hooks, arrange them into coherent standalone clips, and automatically add captions, emojis, and active speaker tracking.\n* **Best for:** Creators who want to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to break down long-form audio/video into engaging podcast shorts (Reels, TikToks, and YouTube Shorts), you have access to some of the most powerful AI-driven repurposing tools on the market. \n\nTo help you build an efficient, modern workflow, here is a breakdown of the best software tools, industry options, and a recommended workflow tailored for the British creator economy.\n\n---\n\n### Key Industry Options & Software Tools\n\n#### 1. Opus Clip (The AI Leader for Automated Curation)\n* **What it is:** A generative AI video tool that repurposes long videos into high-potential shorts with a single click. \n* **Key Features:** Opus Clip uses AI to analyze your podcast, identify the most \"viral\" hooks, arrange them into coherent standalone clips, and automatically add captions, emojis, and active speaker tracking.\n* **Best for:** Creators who want to",
+              "thoughtSignature": "Eo4BCosBAWkUfROXfAQrnCv6p0+jhFlKNRxkiW2bbi5goLyo8sbsbAwuQbJ+fPwWJfTQczLr5vo0ZdKCJS3eHyKBNtToOjAyQylbcj1b4tp7q9PS2iCc6ouS51CLpfCtx10tt7YHwnnBCnsfRf49/AFR/d5I5tWRejJcZ9B3QrWhYa6+cUvF8vqqIoWM9pp24A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VUEDa_WeBpWqz7sP0JntqAk"
+  },
+  "latency_ms": 9498,
+  "cost_usd": 0.0002
+}

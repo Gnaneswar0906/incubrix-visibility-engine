@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube videos to Facebook page. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2338,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_faceboo_382952_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: auto post YouTube videos to Facebook page. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. We need to be helpful, provide steps, tools, pros/cons, mention ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2528,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_faceboo_382952_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_videos_to_faceboo_382952_d2_US.json"
+}

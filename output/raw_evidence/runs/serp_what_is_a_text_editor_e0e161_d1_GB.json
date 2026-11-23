@@ -1,0 +1,114 @@
+{
+  "query": "what is a text editor",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://texteditor.co/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what is a text editor",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text Editor - Free online text, code, and markdown editor",
+        "link": "https://texteditor.co/",
+        "displayedLink": "https://texteditor.co",
+        "snippet": "Text Editor is a free app for creating, opening, and editing text, Markdown (MD), and code files on your computer and in Google Drive.",
+        "position": 1
+      },
+      {
+        "title": "Text editor",
+        "link": "https://en.wikipedia.org/wiki/Text_editor",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Text_editor",
+        "snippet": "A text editor is interactive software that allows a user to edit plain text. Well known text editors include Vim, Emacs and Notepad. Typical features edit Cut, ...",
+        "position": 2
+      },
+      {
+        "title": "What is a text editor used for? : r/learnpython",
+        "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a what_is_a_text_editor_used_for",
+        "snippet": "So I downloaded Atom for my Data Quality class, and I guess Atom is a \"shell scripting program\". I tried running different commands by defining variables ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/ehfxery/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/ehg4ld2/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/ehg590b/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/ehg80no/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/learnpython/comments/avl28v/what_is_a_text_editor_used_for/ehga50k/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Tech basics: An introduction to text editors - Online York",
+        "link": "https://online.york.ac.uk/resources/tech-basics-an-introduction-to-text-editors/",
+        "displayedLink": "https://online.york.ac.uk \u203a resources \u203a tech-basics-an-introduction...",
+        "snippet": "A text editor refers to any form of computer program that enables users to create, change, edit, open and view plain text files.",
+        "position": 4
+      },
+      {
+        "title": "Writing a Text Editor - Computerphile",
+        "link": "https://www.youtube.com/watch?v=g2hiVp6oPZc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Writing a text editor can't be that hard can it? Surely just a case of shifting around a bunch of ASCII characters?",
+        "position": 5
+      },
+      {
+        "title": "Exploring Popular Text Editors and Programming Software",
+        "link": "https://www.lenovo.com/gb/en/glossary/editor/?srsltid=AYCX9vI6-wy2xK2sgfbbjYiW4GX5IkTkIPvbSNMEefosIAzHmMjMIwK2",
+        "displayedLink": "https://www.lenovo.com \u203a gb \u203a ... \u203a editor",
+        "snippet": "An editor is a software tool or program that allows you to create, modify, and manage text-based documents. It provides a user-friendly interface for writing ...",
+        "position": 6
+      },
+      {
+        "title": "What are Text Editor Uses?",
+        "link": "https://www.ultraedit.com/products/ultraedit/what-are-text-editor-uses/",
+        "displayedLink": "https://www.ultraedit.com \u203a products \u203a ultraedit \u203a what-are-text-editor-uses",
+        "snippet": "A text editor is a useful application for dealing with plain text files and code. A number of professionals use it daily to read, write, and manipulate various ...",
+        "position": 7
+      },
+      {
+        "title": "What I Learned From Building a Text Editor From Scratch | by Brendan",
+        "link": "https://medium.com/@brendandagys_91079/what-i-learned-from-building-a-text-editor-from-scratch-deea53fffc79",
+        "displayedLink": "https://medium.com \u203a @brendandagys_91079 \u203a what-i-learned-from-buildin...",
+        "snippet": "A text editor is a program that is used to create, view, and edit text files. Some examples include NotePad (Windows), TextEdit (Mac), Vim, ...",
+        "position": 8
+      },
+      {
+        "title": "Introduction to Text Editors and the Command Line",
+        "link": "https://www.codementor.io/@kmcgillivray/introduction-to-text-editors-and-the-command-line-j0upqatas",
+        "displayedLink": "https://www.codementor.io \u203a @kmcgillivray \u203a introduction-to-text-editor...",
+        "snippet": "A text editor is a tool for editing text. I know that sounds ridiculous, but that's what it is. Code is text, and a text editor is a tool that's ...",
+        "date": "28 Apr 2018",
+        "position": 9
+      },
+      {
+        "title": "Text Editor - an overview | ScienceDirect Topics",
+        "link": "https://www.sciencedirect.com/topics/engineering/text-editor",
+        "displayedLink": "https://www.sciencedirect.com \u203a topics \u203a engineering \u203a text-editor",
+        "snippet": "A text editor is defined as a program that allows users to create or edit program and text files without embedding word formatting characters.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

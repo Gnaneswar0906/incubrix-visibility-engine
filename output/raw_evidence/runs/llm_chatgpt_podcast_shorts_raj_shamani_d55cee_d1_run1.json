@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India asking for recommendations for podcast shorts (short clips) for \"raj shamani\" presumably a podcast host. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must comply with policies. It's a legitimate request for software recommendations. Provide info, include citations (like URLs). Must not provide disallowed content. Should be fine.\n\nWe need to recommend tools for creating short clips from podcasts: video editing, transcription, AI summarization, etc. Provide workflow: ingest audio, transcribe, select highlights, edit video, add captions, branding, export for platforms",
+  "raw_payload": {
+    "id": "chatcmpl-5c69b72e-5748-4a5d-93c8-b3392f383c54",
+    "object": "chat.completion",
+    "created": 1795375084,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India asking for recommendations for podcast shorts (short clips) for \"raj shamani\" presumably a podcast host. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must comply with policies. It's a legitimate request for software recommendations. Provide info, include citations (like URLs). Must not provide disallowed content. Should be fine.\n\nWe need to recommend tools for creating short clips from podcasts: video editing, transcription, AI summarization, etc. Provide workflow: ingest audio, transcribe, select highlights, edit video, add captions, branding, export for platforms"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369981156,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005607313,
+      "completion_tokens": 150,
+      "completion_time": 0.310959866,
+      "total_tokens": 284,
+      "total_time": 0.316567179,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82b3cn8eehadh2vwry3bhd8",
+      "seed": 1646533847
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3097,
+  "cost_usd": 0.0002
+}

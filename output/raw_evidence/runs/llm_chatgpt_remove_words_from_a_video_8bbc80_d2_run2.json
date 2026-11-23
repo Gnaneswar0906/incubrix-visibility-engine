@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove words from a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you have access to some of the most advanced AI-driven editing tools available globally. \"Removing words from a video\" usually refers to one of two workflows:\n\n1.  **Text-Based Editing:** Deleting spoken words by deleting text from a transcript (automatically removing the corresponding audio and video).\n2.  **Visual/Object Removal:** Removing on-screen text (captions, watermarks, or objects) from the video frame.\n\nBelow are the best software tools, workflow methods, and industry options tailored for your needs.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Text-Based Video Editing\n\nThese tools allow you to edit video by editing the transcript. Delete a sentence in the text",
+  "raw_payload": {
+    "id": "chatcmpl-340179d8-4107-4350-b1cc-8800b9a3b5a7",
+    "object": "chat.completion",
+    "created": 1795377358,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you have access to some of the most advanced AI-driven editing tools available globally. \"Removing words from a video\" usually refers to one of two workflows:\n\n1.  **Text-Based Editing:** Deleting spoken words by deleting text from a transcript (automatically removing the corresponding audio and video).\n2.  **Visual/Object Removal:** Removing on-screen text (captions, watermarks, or objects) from the video frame.\n\nBelow are the best software tools, workflow methods, and industry options tailored for your needs.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Text-Based Video Editing\n\nThese tools allow you to edit video by editing the transcript. Delete a sentence in the text"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051859368,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005027722,
+      "completion_tokens": 150,
+      "completion_time": 0.285556543,
+      "total_tokens": 227,
+      "total_time": 0.290584265
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d8sggeyktvsn00hvkydta",
+      "seed": 1859905099
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 948,
+  "cost_usd": 0.0002
+}

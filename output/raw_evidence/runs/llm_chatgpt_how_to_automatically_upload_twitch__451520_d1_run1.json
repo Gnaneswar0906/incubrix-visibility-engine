@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically upload twitch vods to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Repurpose.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide steps for automatically uploading Twitch VODs to YouTube. Must be mindful of location: India (IN). Possibly mention region-specific considerations like internet speed, data caps, YouTube policies, Twitch API, etc.\n\nWe can include tools: Streamlink, TwitchDownloader, OBS, FFmpeg, youtube-upload (Google APIs), Zapier, IFTTT, Restream.io, Repurpose.io, etc. Also mention automation platforms: Integromat (Make), Zapier, Automate.io. Provide workflow:",
+  "raw_payload": {
+    "id": "chatcmpl-1268fdc8-31a3-40dd-87e2-7d939d83d046",
+    "object": "chat.completion",
+    "created": 1795375283,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide steps for automatically uploading Twitch VODs to YouTube. Must be mindful of location: India (IN). Possibly mention region-specific considerations like internet speed, data caps, YouTube policies, Twitch API, etc.\n\nWe can include tools: Streamlink, TwitchDownloader, OBS, FFmpeg, youtube-upload (Google APIs), Zapier, IFTTT, Restream.io, Repurpose.io, etc. Also mention automation platforms: Integromat (Make), Zapier, Automate.io. Provide workflow:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317709565,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005196854,
+      "completion_tokens": 150,
+      "completion_time": 0.31210617,
+      "total_tokens": 288,
+      "total_time": 0.317303024,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82b9f08et9aw9c0wjtcqyyp",
+      "seed": 1226648527
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2370,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US, choosing between **Opus Clip** and **CapCut** often comes down to a simple distinction: **Automation vs. Control**.\n\nHere\u2019s a breakdown to help you decide, along with recommended workflows and industry context.\n\n### 1. Core Differences: Opus Clip vs. CapCut\n\n| Feature",
+      "cost_usd": 0.0002,
+      "latency_ms": 2133,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_7527e9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a US content creator. Provide recommendation comparing Opus Clip vs CapCut, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow poli",
+      "cost_usd": 0.0002,
+      "latency_ms": 3566,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_7527e9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_capcut_7527e9_d1_US.json"
+}

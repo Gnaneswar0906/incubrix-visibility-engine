@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ideas with ai reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India, you are in a prime position to leverage AI for faceless YouTube channels. The barrier to entry has never been lower, and with the right stack, you can produce high-quality, scalable content without ever showing your face.\n\nHere is a curated workflow and to",
+      "cost_usd": 0.0002,
+      "latency_ms": 854,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ideas_with_9483ff_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel ideas with ai reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authorita",
+      "cost_usd": 0.0002,
+      "latency_ms": 2705,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ideas_with_9483ff_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ideas_with_9483ff_d1_IN.json"
+}

@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast shorts maker ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast shorts maker ai' in GB, popular recommendations include Munch. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 377
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'podcast shorts maker ai' in GB, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 425
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_shorts_maker_ai_3d41ed_d1_GB.json"
+}

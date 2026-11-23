@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, automating your YouTube Shorts workflow is an excellent way to scale your output without burning out. Since YouTube has strict policies against low-effort automated content, the \"best\" approach isn't just one tool, but a **hybrid workflow** that uses AI for edi",
+      "cost_usd": 0.0002,
+      "latency_ms": 1768,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_github_010680_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for auto uploading YouTube Shorts via GitHub. Provide a detailed answer, citing authoritative web sources if possible. Also note the user is a content cr",
+      "cost_usd": 0.0002,
+      "latency_ms": 4301,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_github_010680_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_youtube_shorts_github_010680_d1_GB.json"
+}

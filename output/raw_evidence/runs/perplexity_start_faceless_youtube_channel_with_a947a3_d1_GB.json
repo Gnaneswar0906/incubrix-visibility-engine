@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'start faceless youtube channel with ai chatgpt deepseek' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 335
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'start faceless youtube channel with ai chatgpt deepseek' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 325
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_start_faceless_youtube_channel_with_a947a3_d1_GB.json"
+}

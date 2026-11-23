@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus one review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " an AI assistant catering to a content creator in India (IN), reviewing **Opus Clip** (often associated with \"Opus One\" in the AI video repurposing space) requires looking at it through the lens of modern short-form video creation\u2014specifically for platforms like YouTube Shorts, Instagram Reels, and Moj. \n\nHere is a comprehensive breakdown of the tool, how it fits into a creator's workflow, alternative industry options, and how to maximize it for the Indian market.\n\n---\n\n### **1. Opus Clip Overview & Review**\n**Opus Clip** is a generative AI-powered video repurposing tool that takes long-form videos (like podcasts, vlogs, or tutorials) and automatically chops them into multiple, highly engaging short-form clips. \n\n*   **Key Features:**\n    *   **AI Curation:** It scores clips based on virality potential using AI analysis.\n    *   **Active Speaker Tracking:** Automatically keeps the person",
+              "thoughtSignature": "Eo4BCosBAWkUfRM1rLRlREVyKrCaRp8hKvMWQLpa9HriHRU4dt1T7lB3NgTU7R/q1yLDUskR8Ej4JMANDEwQrjvph1SsZN2oPHq+DPViPj+Vyz8cuZHgFnP3CYHWl7ulEmbEOF09VPMT0lnbcwLxGa/rylim1ZGLwcy9HHfIY6bHErgV2cHlcXNwSBdVD3HrBw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "50ADa_SxD52PjuMPw8zA-A0"
+  },
+  "latency_ms": 6982,
+  "cost_usd": 0.0002
+}

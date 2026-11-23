@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the United States looking for the best auto-caption generator for a video website, your choice of tool depends heavily on your workflow: whether you want to edit video directly from a transcript, quickly cut long-form videos into viral shorts, or simply generate stylized captions for social media integration. \n\nBelow is a breakdown of the best software tools, key industry options (including those you mentioned), and an efficient workflow method to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the United States looking for the best auto-caption generator for a video website, your choice of tool depends heavily on your workflow: whether you want to edit video directly from a transcript, quickly cut long-form videos into viral shorts, or simply generate stylized captions for social media integration. \n\nBelow is a breakdown of the best software tools, key industry options (including those you mentioned), and an efficient workflow method to"
+            },
+            {
+              "text": " streamline your video production.\n\n---\n\n### 1. Key Industry Software & Tools\n\n#### **Descript** (Best for Deep Editing & Long-Form Content)\n* **What it does:** Descript transcribes your video and allows you to edit the video simply by editing the text document. It features AI-generated voice cloning, filler word removal, and studio-sound audio enhancement.\n* **Best for:** Podcasters, YouTubers, online course creators, and website video editors who need precise control over both the transcript and the video timeline.\n* **Authoritative Reference:** *PCMag* consistently rates Descript as an Editors' Choice for video editing and transcription, praising its text-based editing interface.\n\n#### **CapCut** (Best for Fast, Trendy, and Free Social Captions)\n* **What it does:** Owned by ByteDance, CapCut offers robust auto-captioning with massive template libraries, dynamic text animations (e.g., \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRMZiUFU9Sx4ZSskBIcgo2sNefPnOyClRsj/VCDyXcAa60pc0sjypuEY16VxwVr0xnMZ3NKnrbeoA7L4mkVj2tFpcYbzgcsjHlv5MLHyQLki9pIQ99FdQ+neuNuZIH9joFDJ0eFTf98Val7jyzSCLmLCSargVDE/ZhyqrVymcJWJnI9eKvFAiA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 290,
+      "totalTokenCount": 354,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "sj4Da-WZIYOM694P3_zf-A4"
+  },
+  "latency_ms": 3601,
+  "cost_usd": 0.0002
+}

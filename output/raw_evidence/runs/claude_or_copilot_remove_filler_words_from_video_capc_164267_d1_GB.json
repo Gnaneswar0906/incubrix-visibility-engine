@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "remove filler words from video capcut",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'remove filler words from video capcut' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 446
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'remove filler words from video capcut' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 333
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_remove_filler_words_from_video_capc_164267_d1_GB.json"
+}

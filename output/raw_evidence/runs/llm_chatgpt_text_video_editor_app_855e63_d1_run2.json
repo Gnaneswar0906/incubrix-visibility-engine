@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor app",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for text video editor app. They are a content creator located in India (IN). Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention tools, possibly pricing, features, suitability. Provide citations with links.\n\nWe must comply with policy. It's allowed. Provide info. No disallowed content.\n\nWe need to be concise but thorough.\n\nWe should include Indian context: maybe mention availability, language support, pricing in INR, etc.\n\nWe need citations: use reputable sources like TechCrunch, The Verge, CNET, etc.\n\nLet's craft answer",
+  "raw_payload": {
+    "id": "chatcmpl-c10e86a3-114e-4b52-a024-1ab90aada66d",
+    "object": "chat.completion",
+    "created": 1795375167,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for text video editor app. They are a content creator located in India (IN). Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention tools, possibly pricing, features, suitability. Provide citations with links.\n\nWe must comply with policy. It's allowed. Provide info. No disallowed content.\n\nWe need to be concise but thorough.\n\nWe should include Indian context: maybe mention availability, language support, pricing in INR, etc.\n\nWe need citations: use reputable sources like TechCrunch, The Verge, CNET, etc.\n\nLet's craft answer"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317740626,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005299071,
+      "completion_tokens": 150,
+      "completion_time": 0.310181718,
+      "total_tokens": 283,
+      "total_time": 0.315480789,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82b5xhxedhbqaj6v4wh28y1",
+      "seed": 454215477
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3790,
+  "cost_usd": 0.0002
+}

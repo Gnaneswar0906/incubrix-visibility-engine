@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, automating your VOD (Video on Demand) uploads to YouTube can significantly save time and ensure consistency. While YouTube does not have a native \"auto-upload from file\" button for local files without human interaction, you can build a robust **semi-automated or fully automated pipeline** using the right tools and APIs.\n\nHere\u2019s a recommended workflow, key software options, and industry-leading solutions:\n\n### \ud83c\udfaf Core Concept: The Automation Pipeline\nTrue automation usually involves:\n1. **Capture/Recording**: Twitch, OBS, or mobile recording.\n2. **Processing**: Auto-trimming, highlighting, or editing.\n3. **Upload**: Sending the final video to YouTube via",
+  "raw_payload": {
+    "id": "chatcmpl-13816515-9017-4507-9ca0-790c846694d9",
+    "object": "chat.completion",
+    "created": 1795377052,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, automating your VOD (Video on Demand) uploads to YouTube can significantly save time and ensure consistency. While YouTube does not have a native \"auto-upload from file\" button for local files without human interaction, you can build a robust **semi-automated or fully automated pipeline** using the right tools and APIs.\n\nHere\u2019s a recommended workflow, key software options, and industry-leading solutions:\n\n### \ud83c\udfaf Core Concept: The Automation Pipeline\nTrue automation usually involves:\n1. **Capture/Recording**: Twitch, OBS, or mobile recording.\n2. **Processing**: Auto-trimming, highlighting, or editing.\n3. **Upload**: Sending the final video to YouTube via"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046284136,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005370024,
+      "completion_tokens": 150,
+      "completion_time": 0.284939441,
+      "total_tokens": 230,
+      "total_time": 0.290309465
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cze9kembvremh9e9gry64",
+      "seed": 4558863
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1332,
+  "cost_usd": 0.0002
+}

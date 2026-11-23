@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant, content creator in US. Provide recommendations for auto generating captions for video, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with poli",
+      "cost_usd": 0.0002,
+      "latency_ms": 3563,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_2b43e8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in the sweet spot for AI video tooling. The market has matured significantly, and \"auto-generating captions\" is no longer just a nice-to-have feature\u2014it\u2019s a standard workflow for boosting engagement (especially for sound-off viewers on social media) and",
+      "cost_usd": 0.0002,
+      "latency_ms": 1550,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_2b43e8_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_2b43e8_d1_US.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India, asking for recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations for text video editing AI. Should include tools, workflow steps, best practices. Also mention Indian context maybe. Provide citations with URLs. Must comply with policy. No disallowed content. Provide helpful answer.\n\nWe need to cite sources. We can include references like articles from TechCrunch, The Verge, etc. Provide links.\n\nLet's craft answer: overview of AI text-to-video editing, list of tools: Descript Overdub, CapCut AI features, Opus Clip for",
+  "raw_payload": {
+    "id": "chatcmpl-8343d674-967e-458b-8b59-c42cd20a5ed2",
+    "object": "chat.completion",
+    "created": 1795375175,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India, asking for recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations for text video editing AI. Should include tools, workflow steps, best practices. Also mention Indian context maybe. Provide citations with URLs. Must comply with policy. No disallowed content. Provide helpful answer.\n\nWe need to cite sources. We can include references like articles from TechCrunch, The Verge, etc. Provide links.\n\nLet's craft answer: overview of AI text-to-video editing, list of tools: Descript Overdub, CapCut AI features, Opus Clip for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369564136,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005623323,
+      "completion_tokens": 150,
+      "completion_time": 0.310553827,
+      "total_tokens": 283,
+      "total_time": 0.31617715,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82b658yew9tvaac9e5jpaya",
+      "seed": 493189661
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3269,
+  "cost_usd": 0.0002
+}

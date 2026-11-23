@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts clips",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant, presumably providing recommendations for podcast short clips creation. Must mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in GB (Great Britain). Should tailor to UK context maybe mention GDPR compliance, pricing in GBP, etc. Provide citations with links. Must not violate policy. Provide useful info.\n\nWe should include citations: could use generic references like \"TechRadar\", \"The Guardian\", \"BBC\", \"Zapier blog\". Provide footnote style citations.\n\nMake sure to comply with policy: no disallowed content. It's fine.\n\nProvide structured answer:",
+  "raw_payload": {
+    "id": "chatcmpl-255be566-4020-4bc1-9f3e-073b4d796310",
+    "object": "chat.completion",
+    "created": 1795375478,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant, presumably providing recommendations for podcast short clips creation. Must mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in GB (Great Britain). Should tailor to UK context maybe mention GDPR compliance, pricing in GBP, etc. Provide citations with links. Must not violate policy. Provide useful info.\n\nWe should include citations: could use generic references like \"TechRadar\", \"The Guardian\", \"BBC\", \"Zapier blog\". Provide footnote style citations.\n\nMake sure to comply with policy: no disallowed content. It's fine.\n\nProvide structured answer:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.376146493,
+      "prompt_tokens": 132,
+      "prompt_time": 0.010860933,
+      "completion_tokens": 150,
+      "completion_time": 0.310195494,
+      "total_tokens": 282,
+      "total_time": 0.321056427,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82bfd11e8hskq6gm88zze8m",
+      "seed": 391086982
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3082,
+  "cost_usd": 0.0002
+}

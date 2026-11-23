@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ideas with ai reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel ideas with ai reddit' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel ideas with ai reddit' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 390
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ideas_with_9483ff_d2_IN.json"
+}

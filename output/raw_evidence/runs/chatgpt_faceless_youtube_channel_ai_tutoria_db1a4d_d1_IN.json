@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tutorial",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user is a content creator in India (IN) asking for recommendations for faceless YouTube channel AI tutorial. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to com",
+      "cost_usd": 0.0002,
+      "latency_ms": 3504,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tutoria_db1a4d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a high-performing faceless YouTube channel using AI is a highly viable strategy for creators in India, given the growing demand for tech tutorials, finance explainers, and listicle content. Below is a curated guide on the best software tools, workflow methods, and industry options tailored ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1627,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tutoria_db1a4d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_tutoria_db1a4d_d1_IN.json"
+}

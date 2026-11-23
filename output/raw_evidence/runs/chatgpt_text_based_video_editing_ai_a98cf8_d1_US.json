@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in the sweet spot for text-based video editing. This technology has matured significantly, allowing you to edit video by editing the transcript\u2014essentially cutting out filler words, silences, and fluff as if you were editing a Word doc.\n\nHere is a break",
+      "cost_usd": 0.0002,
+      "latency_ms": 1286,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_ai_a98cf8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io",
+        "InVideo"
+      ],
+      "snippet": "The user wants recommendations for text-based video editing AI tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for a content creator in US. Provide best software tool",
+      "cost_usd": 0.0002,
+      "latency_ms": 2998,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_ai_a98cf8_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_ai_a98cf8_d1_US.json"
+}

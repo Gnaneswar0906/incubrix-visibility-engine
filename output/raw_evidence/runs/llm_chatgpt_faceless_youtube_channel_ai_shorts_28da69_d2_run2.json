@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube Shorts channel using AI in 2024\u20132025 is highly viable, but success depends less on \"one magic tool\" and more on a **streamlined, repeatable workflow**. Below is a curated guide to the best software tools, proven workflow methods, and key industry options, tailored for a US-based content creator.\n\n---\n\n### \ud83d\udd27 Top AI & Editing Tools for Faceless Shorts\n\n#### 1. **Opus Clip** (Best for Repurposing Long-Form \u2192 Shorts)\n- **Why it\u2019s top-tier**: Uses AI to identify the most viral-worthy clips from longer videos (podcasts, webinars, vlogs).\n- **Key Features**:\n",
+  "raw_payload": {
+    "id": "chatcmpl-e23d8c98-b550-42bc-88f8-56f0d4b00742",
+    "object": "chat.completion",
+    "created": 1795376823,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube Shorts channel using AI in 2024\u20132025 is highly viable, but success depends less on \"one magic tool\" and more on a **streamlined, repeatable workflow**. Below is a curated guide to the best software tools, proven workflow methods, and key industry options, tailored for a US-based content creator.\n\n---\n\n### \ud83d\udd27 Top AI & Editing Tools for Faceless Shorts\n\n#### 1. **Opus Clip** (Best for Repurposing Long-Form \u2192 Shorts)\n- **Why it\u2019s top-tier**: Uses AI to identify the most viral-worthy clips from longer videos (podcasts, webinars, vlogs).\n- **Key Features**:\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053675576,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005145144,
+      "completion_tokens": 150,
+      "completion_time": 0.285722414,
+      "total_tokens": 228,
+      "total_time": 0.290867558
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82crer7exm9y99sy0h7ffbq",
+      "seed": 469921029
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1080,
+  "cost_usd": 0.0002
+}

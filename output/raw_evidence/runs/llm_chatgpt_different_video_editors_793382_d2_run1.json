@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "different video editors",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to a query: \"different video editors. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nThe user is a content creator in GB. They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative sources. We need to provide a thorough answer. Provide categories: Desktop editors, mobile editors, online editors, AI-assisted editors. Provide workflow methods: pre-production, shooting, editing, color grading, audio, export, distribution. Provide key industry options.",
+  "raw_payload": {
+    "id": "chatcmpl-b71a2510-c297-41f0-943a-91340ab5528d",
+    "object": "chat.completion",
+    "created": 1795377296,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to a query: \"different video editors. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nThe user is a content creator in GB. They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative sources. We need to provide a thorough answer. Provide categories: Desktop editors, mobile editors, online editors, AI-assisted editors. Provide workflow methods: pre-production, shooting, editing, color grading, audio, export, distribution. Provide key industry options."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367030593,
+      "prompt_tokens": 132,
+      "prompt_time": 0.007343896,
+      "completion_tokens": 150,
+      "completion_time": 0.154763974,
+      "total_tokens": 282,
+      "total_time": 0.16210787,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e11c8bbf69",
+    "x_groq": {
+      "id": "req_01m82d6wnse5z9bkvyk71enzqs",
+      "seed": 928930165
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4786,
+  "cost_usd": 0.0002
+}

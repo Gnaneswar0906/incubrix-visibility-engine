@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs ssemble",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They ask to cite authoritative web sources if available. Provide answer for content creator in GB. Should be helpful. Provide comparisons of Opus Clip vs \"ssemble\" - maybe they meant \"Ssemble\"? Possibly \"Ssemble\" is a tool? Search memory: Ssemble maybe a video editing tool? Could be \"Ssemble\" (spelled with double s) maybe a new AI video editor. Provide comparison. Provide workflow steps for short-form video creation. Cite sources (web). Provide links. Ensure not to violate policy. It's fine. Provide citations. Use",
+  "raw_payload": {
+    "id": "chatcmpl-f08ec9ce-992f-4108-af14-bdf80f67ba86",
+    "object": "chat.completion",
+    "created": 1795375786,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They ask to cite authoritative web sources if available. Provide answer for content creator in GB. Should be helpful. Provide comparisons of Opus Clip vs \"ssemble\" - maybe they meant \"Ssemble\"? Possibly \"Ssemble\" is a tool? Search memory: Ssemble maybe a video editing tool? Could be \"Ssemble\" (spelled with double s) maybe a new AI video editor. Provide comparison. Provide workflow steps for short-form video creation. Cite sources (web). Provide links. Ensure not to violate policy. It's fine. Provide citations. Use"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317826719,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00526682,
+      "completion_tokens": 150,
+      "completion_time": 0.311035051,
+      "total_tokens": 284,
+      "total_time": 0.316301871,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82brsytecqsdp2hrbgvjekg",
+      "seed": 1244961336
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2391,
+  "cost_usd": 0.0002
+}

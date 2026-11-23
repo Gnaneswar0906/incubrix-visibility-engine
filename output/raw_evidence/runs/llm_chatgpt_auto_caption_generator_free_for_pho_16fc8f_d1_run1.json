@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019re likely looking for tools that not only generate captions for photos (such as alt text, descriptive overlays, or social media captions) but also integrate smoothly with video workflows if you\u2019re expanding into motion content.\n\nHere\u2019s a curated list of the **best free (or freemium) auto-caption and photo-text tools**, along with workflow methods and key industry options, tailored for your needs.\n\n---\n\n### \ud83c\udfc6 Top Free & Freemium Tools for Photo Auto-Captions\n\n#### 1. **CapCut** (Best All-in-One for Social Media)\n- **Why it\u2019s great**: CapCut (by ByteDance) is widely used by UK creators",
+  "raw_payload": {
+    "id": "chatcmpl-47ad9513-cda2-424f-b5e3-2002461a9e87",
+    "object": "chat.completion",
+    "created": 1795375621,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019re likely looking for tools that not only generate captions for photos (such as alt text, descriptive overlays, or social media captions) but also integrate smoothly with video workflows if you\u2019re expanding into motion content.\n\nHere\u2019s a curated list of the **best free (or freemium) auto-caption and photo-text tools**, along with workflow methods and key industry options, tailored for your needs.\n\n---\n\n### \ud83c\udfc6 Top Free & Freemium Tools for Photo Auto-Captions\n\n#### 1. **CapCut** (Best All-in-One for Social Media)\n- **Why it\u2019s great**: CapCut (by ByteDance) is widely used by UK creators"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047409349,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005386021,
+      "completion_tokens": 150,
+      "completion_time": 0.293389619,
+      "total_tokens": 228,
+      "total_time": 0.29877564
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bkryme1dr2mkzh17pv3dc",
+      "seed": 388364330
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2145,
+  "cost_usd": 0.0002
+}

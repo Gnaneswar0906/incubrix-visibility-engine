@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post on youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in India (IN), automating your YouTube posting workflow is one of the best ways to scale your channel, maintain consistency, and save time. \n\nHere is a comprehensive guide on how to auto-post on YouTube, featuring the best software tools, recommended work",
+      "cost_usd": 0.0002,
+      "latency_ms": 2174,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_post_on_youtube_f226b5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello creator! As a content creator based in India, automating your YouTube posting workflow is a game-changer. It saves you hours of manual uploading, allows you to target peak Indian viewing hours (typically between 6:00 PM and 9:00 PM IST), and streamlines your production pipeline. \n\nHere is a co",
+      "cost_usd": 0.0002,
+      "latency_ms": 6043,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_post_on_youtube_f226b5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_post_on_youtube_f226b5_d1_IN.json"
+}

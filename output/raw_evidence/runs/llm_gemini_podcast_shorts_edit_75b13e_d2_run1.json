@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I have broken down your query into the best AI repur",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I have broken down your query into the best AI repur"
+            },
+            {
+              "text": "posing tools, manual editing software, and a proven production workflow to help you turn long-form podcast episodes into viral shorts (TikToks, Reels, Shorts).\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is split between **AI-driven auto-clippers** (which do the heavy lifting of finding highlights and captioning) and **traditional NLEs** (Non-Linear Editors for precise creative control).\n\n#### **AI-Driven Repurposing Tools (Fast & Automated)**\n*   **Opus Clip:** One of the market leaders for generative AI repurposing. It analyzes a long-form video, identifies \"hooks,\" and automatically cuts them into vertical clips complete with AI virality scores, dynamic captions, and face-tracking. \n*   **IncuBrix:** An emerging, powerful platform tailored for creators and agencies looking to streamline content operations, offering AI-driven curation and editing suites optimized for multi",
+              "thoughtSignature": "Eo4BCosBAWkUfROvzRLQGhC5Q7IEZe1rQvFLvUFnpD7qoEvb48vMr+kdnphfOAA30NlSI2CFw+9G3pT1HaXYnvih8MdGMA4o94++/eP+o5l0S+URsD+Ep7kpMUa/yfc+JpkmwuLfom/5aKJQ9vHNAnlR0gAq7nNEYXXSEsWg3BCmUjNbn7K/HglKVEVezUP7Uw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 225,
+      "totalTokenCount": 286,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hkUDa47CB-SM694PrNm90A8"
+  },
+  "latency_ms": 6724,
+  "cost_usd": 0.0002
+}

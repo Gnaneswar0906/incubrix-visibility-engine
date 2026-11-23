@@ -1,0 +1,84 @@
+{
+  "query": "how do i create a post on youtube",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/7124474?hl=en-GB&co=GENIE.Platform%3DDesktop",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how do i create a post on youtube",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Create a post - Computer - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/7124474?hl=en-GB&co=GENIE.Platform%3DDesktop",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 7124474",
+        "snippet": "To create a post: Sign in to YouTube. At the top of the page, select Create and then Create post. In the box at the top: Type a message to create a text post",
+        "position": 1
+      },
+      {
+        "title": "How to Create Posts on YouTube  TUTORIAL: Adding Updates ...",
+        "link": "https://www.youtube.com/watch?v=WuTYG-25XZI",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Step 1: Log into YouTube. Step 2: Access the Create Post Feature [0:37] Click on the 'Create' button. Select 'Create Post' from the dropdown\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "YouTube Posts",
+        "link": "https://www.youtube.com/watch?v=wF_lsScEArw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video we'll walk through eligibility requirements, how to create and manage posts, and some best practices. How to Create a Post &\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "Video Content Creation Guide & Formats | YouTube for Creators",
+        "link": "https://www.youtube.com/creators/create/overview/",
+        "displayedLink": "https://www.youtube.com \u203a creators \u203a create \u203a overview",
+        "snippet": "Sign in to YouTube Studio. In the top-right corner, click CREATE and then Upload videos. Select the file you'd like to upload. You can upload up to 15 videos ...",
+        "position": 4
+      },
+      {
+        "title": "How to Create Posts on YouTube (Full Guide)",
+        "link": "https://www.youtube.com/watch?v=ONpsRhHcdyw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to create posts on YouTube. Utilizing text, images, GIFs, polls, quizzes, and video posts from the YouTube Posts tab",
+        "position": 5
+      },
+      {
+        "title": "Learn about posts - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/9409631?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 9409631",
+        "snippet": "Sign in to YouTube Studio. From the left menu, select Content. Click the Posts tab.",
+        "position": 6
+      },
+      {
+        "title": "YouTube",
+        "link": "https://www.youtube.com/post/UgkxiCSRfD6g7SPlWGPDa3vbP7aIsytXRkvy",
+        "displayedLink": "https://www.youtube.com \u203a post \u203a UgkxiCSRfD6g7SPlWGPDa3vbP7a...",
+        "snippet": "Share your videos with friends, family, and the world.",
+        "position": 7
+      },
+      {
+        "title": "How to Post Your First YouTube Video [Step-by-Step]",
+        "link": "https://www.youtube.com/watch?v=w25FNPlnXXQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Are you read to become a YouTuber? Find out how to post your first YouTube video with this simple Step-by-Step guide from Jenn Jager. Visit\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "How to Start & Manage Your YouTube Channel | YouTube for Creators",
+        "link": "https://www.youtube.com/creators/get-started/",
+        "displayedLink": "https://www.youtube.com \u203a creators \u203a get-started",
+        "snippet": "1 Sign in to YouTube using a Google account. \u00b7 2 Click your profile picture and then Settings. \u00b7 3 Click Create a new channel. \u00b7 4 Choose a profile picture, name, ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

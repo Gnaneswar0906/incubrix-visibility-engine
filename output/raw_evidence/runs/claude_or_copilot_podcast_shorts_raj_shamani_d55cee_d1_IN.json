@@ -1,0 +1,38 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast shorts raj shamani' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 494
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast shorts raj shamani' in IN, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 439
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_shorts_raj_shamani_d55cee_d1_IN.json"
+}

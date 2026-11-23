@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Munch",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 328
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 368
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_edit_video_using_transcript_online__dbed64_d2_US.json"
+}

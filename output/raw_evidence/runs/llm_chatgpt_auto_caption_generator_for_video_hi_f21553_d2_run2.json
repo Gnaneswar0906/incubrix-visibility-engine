@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Captioning for Hinglish Video \u2013 Tools, Workflow & Industry Picks**  \n\nBelow is a curated list of the most reliable software that can automatically generate captions",
+  "raw_payload": {
+    "id": "chatcmpl-d4409591-f072-4792-970b-7169769e4e93",
+    "object": "chat.completion",
+    "created": 1795376632,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Captioning for Hinglish Video \u2013 Tools, Workflow & Industry Picks**  \n\nBelow is a curated list of the most reliable software that can automatically generate captions",
+          "reasoning": "The user wants recommendations for auto caption generator for video in Hinglish (mix of Hindi and English). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be helpful, mention tools that support Hindi and English transcription, automatic captioning, editing. Provide workflow steps. Cite sources: maybe from product pages, reviews, blogs. Provide links. Ensure not to violate policy. It's fine. Provide citations with URLs."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368285045,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005813304,
+      "completion_tokens": 150,
+      "completion_time": 0.311241359,
+      "total_tokens": 286,
+      "total_time": 0.317054663,
+      "completion_tokens_details": {
+        "reasoning_tokens": 109
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82cjm71ek68qf1d5899sn7d",
+      "seed": 1975851207
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2589,
+  "cost_usd": 0.0002
+}

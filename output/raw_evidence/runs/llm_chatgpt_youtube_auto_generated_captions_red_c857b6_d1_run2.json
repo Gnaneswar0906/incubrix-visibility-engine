@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely dealing with high-volume content production, which makes the efficiency of YouTube\u2019s auto-generated captions (now officially called **Auto-Dubbing** and **Auto-Subtitles**) a critical part of your workflow.\n\nReddit threads (particularly in r/NewTubers, r/youtubers, and r/VideoEditing) frequently discuss the limitations of YouTube\u2019s native auto-captions: they are fast but often have punctuation errors, misheard words (especially with regional Indian accents or mixed-language content), and limited styling options.\n\nHere is a curated guide to the best software tools, workflow methods, and industry options for enhancing, correcting, or replacing YouTube\u2019s auto-generated captions,",
+  "raw_payload": {
+    "id": "chatcmpl-74241df0-8151-42d2-a4aa-8908b4cbbdd9",
+    "object": "chat.completion",
+    "created": 1795375222,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely dealing with high-volume content production, which makes the efficiency of YouTube\u2019s auto-generated captions (now officially called **Auto-Dubbing** and **Auto-Subtitles**) a critical part of your workflow.\n\nReddit threads (particularly in r/NewTubers, r/youtubers, and r/VideoEditing) frequently discuss the limitations of YouTube\u2019s native auto-captions: they are fast but often have punctuation errors, misheard words (especially with regional Indian accents or mixed-language content), and limited styling options.\n\nHere is a curated guide to the best software tools, workflow methods, and industry options for enhancing, correcting, or replacing YouTube\u2019s auto-generated captions,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052924228,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005029281,
+      "completion_tokens": 150,
+      "completion_time": 0.293185629,
+      "total_tokens": 227,
+      "total_time": 0.29821491
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b7kn3e52v9s70v2bcmd3j",
+      "seed": 395258923
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 937,
+  "cost_usd": 0.0002
+}

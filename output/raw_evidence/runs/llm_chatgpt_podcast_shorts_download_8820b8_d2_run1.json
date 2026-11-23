@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Also need to be mindful of policy: provide citations with URLs. Should not include disallowed content. Provide a structured answer: overview, recommended software (including free/paid), workflow steps (recording, editing, exporting, publishing), tips for podcast shorts (vertical format, social media specs), mention platforms for distribution. Provide citations.\n\nWe need to cite authoritative web sources. Could reference official sites: IncuBrix website, CapCut official site, Op",
+  "raw_payload": {
+    "id": "chatcmpl-ebd1a306-f7d1-4c96-b10b-4c6ae73e02ed",
+    "object": "chat.completion",
+    "created": 1795377267,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Also need to be mindful of policy: provide citations with URLs. Should not include disallowed content. Provide a structured answer: overview, recommended software (including free/paid), workflow steps (recording, editing, exporting, publishing), tips for podcast shorts (vertical format, social media specs), mention platforms for distribution. Provide citations.\n\nWe need to cite authoritative web sources. Could reference official sites: IncuBrix website, CapCut official site, Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158023494,
+      "prompt_tokens": 132,
+      "prompt_time": 0.004966675,
+      "completion_tokens": 150,
+      "completion_time": 0.314109676,
+      "total_tokens": 282,
+      "total_time": 0.319076351,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82d60nve5asttwhbyhxxpqw",
+      "seed": 971161910
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3038,
+  "cost_usd": 0.0002
+}

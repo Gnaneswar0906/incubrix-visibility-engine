@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide podcast shorts channel name ideas, recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Should be helpful, UK context. Provide name ideas, maybe with UK flair. Provide software tools: video editing, audio editing, AI tools. Provide workflow: planning, scripting, recording, editing, publishing, promotion. Cite sources (e.g., websites, articles). Use proper citation format. Probably use footnotes or inline citations. Ensure not to provide disallowed content. It's fine.\n\nWill produce answer",
+  "raw_payload": {
+    "id": "chatcmpl-1cc1be6a-2b81-4709-b9f9-66cd72b19b3c",
+    "object": "chat.completion",
+    "created": 1795377256,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide podcast shorts channel name ideas, recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Should be helpful, UK context. Provide name ideas, maybe with UK flair. Provide software tools: video editing, audio editing, AI tools. Provide workflow: planning, scripting, recording, editing, publishing, promotion. Cite sources (e.g., websites, articles). Use proper citation format. Probably use footnotes or inline citations. Ensure not to provide disallowed content. It's fine.\n\nWill produce answer"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.277905152,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005287907,
+      "completion_tokens": 150,
+      "completion_time": 0.318620197,
+      "total_tokens": 284,
+      "total_time": 0.323908104,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_df9620fe21",
+    "x_groq": {
+      "id": "req_01m82d5nrgefpbsdyz11kwv41y",
+      "seed": 1467457967
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2414,
+  "cost_usd": 0.0002
+}

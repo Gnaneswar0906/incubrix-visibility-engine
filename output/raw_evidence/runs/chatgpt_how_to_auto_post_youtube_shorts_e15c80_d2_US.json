@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, automating your YouTube Shorts workflow is one of the most effective ways to scale your channel without burning out. \"Auto-posting\" in this context usually involves two stages: **automated generation/editing** (turning long-form content into shorts) and **autom",
+      "cost_usd": 0.0002,
+      "latency_ms": 1040,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_post_youtube_shorts_e15c80_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer user query: how to auto post youtube shorts. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. It's allowed. Provide citations with links. Prov",
+      "cost_usd": 0.0002,
+      "latency_ms": 2727,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_post_youtube_shorts_e15c80_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_post_youtube_shorts_e15c80_d2_US.json"
+}

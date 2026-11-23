@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**AI\u2011Powered Text\u2011to\u2011Video Editing for Indian Creators**  \n*(Updated\u202f2024\u20112025)*  \n\nBelow is a practical toolkit and workflow you can adopt today, with a focus on AI\u2011driven \u201ctext\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-d814c955-7946-4339-b048-ff3859577557",
+    "object": "chat.completion",
+    "created": 1795376946,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**AI\u2011Powered Text\u2011to\u2011Video Editing for Indian Creators**  \n*(Updated\u202f2024\u20112025)*  \n\nBelow is a practical toolkit and workflow you can adopt today, with a focus on AI\u2011driven \u201ctext\u2011",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for text video editor AI, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Provide suggestions, workflow. Use bullet points. Provide Indian context maybe. Ensure no disallowed content. It's fine."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369176109,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00536657,
+      "completion_tokens": 150,
+      "completion_time": 0.31351682,
+      "total_tokens": 283,
+      "total_time": 0.31888339,
+      "completion_tokens_details": {
+        "reasoning_tokens": 93
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82cw6nee8kt42bwyh1qe8pw",
+      "seed": 1655188226
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3852,
+  "cost_usd": 0.0002
+}

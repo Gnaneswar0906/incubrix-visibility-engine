@@ -1,0 +1,45 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Descript** depends entirely on your primary bottleneck: **Are you trying to rapidly generate viral short-form clips from long-form content, or do you need a deep, text-based editor to polish a podcast or ",
+      "cost_usd": 0.0002,
+      "latency_ms": 7231,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_descript_83eb98_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip vs descript' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 379
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_descript_83eb98_d2_US.json"
+}

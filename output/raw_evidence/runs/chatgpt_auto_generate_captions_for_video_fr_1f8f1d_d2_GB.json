@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free ai",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: auto generate captions for video free AI. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a helpful answer. Provide a list of softwa",
+      "cost_usd": 0.0002,
+      "latency_ms": 4834,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_1f8f1d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you have access to a robust ecosystem of AI tools that can significantly reduce post-production time. Here\u2019s a breakdown of the best software, workflow methods, and key industry options for auto-generating free or freemium AI captions, tailored to your needs.\n\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 1207,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_1f8f1d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_fr_1f8f1d_d2_GB.json"
+}

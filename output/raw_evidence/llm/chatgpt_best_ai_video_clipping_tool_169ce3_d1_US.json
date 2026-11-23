@@ -1,0 +1,39 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai video clipping tool",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'best ai video clipping tool' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 470
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'best ai video clipping tool' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 355
+    }
+  ],
+  "evidence_path": "output/raw_evidence/llm\\chatgpt_best_ai_video_clipping_tool_169ce3_d1_US.json"
+}

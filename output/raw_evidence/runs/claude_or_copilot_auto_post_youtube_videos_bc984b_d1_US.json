@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto post youtube videos' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 479
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post youtube videos' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 377
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_post_youtube_videos_bc984b_d1_US.json"
+}

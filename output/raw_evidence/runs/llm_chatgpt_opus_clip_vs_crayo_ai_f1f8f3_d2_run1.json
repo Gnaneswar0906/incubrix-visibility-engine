@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation on \"opus clip vs crayo ai\". They are a content creator in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a comparison between Opus Clip and Crayo AI (maybe a typo: \"Crayo AI\"? Possibly \"Crai AI\"? There's a tool \"Crayo AI\"? Could be \"Crai AI\"? There's a \"Crai\" platform for content repurposing. There's also \"Crayon AI\"? Let's search memory: \"Crai AI\" is a video editing AI tool. There's \"Crai\" which is",
+  "raw_payload": {
+    "id": "chatcmpl-6ce29395-2c74-42e3-9ab0-30a9f6dbf3fc",
+    "object": "chat.completion",
+    "created": 1795377102,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation on \"opus clip vs crayo ai\". They are a content creator in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a comparison between Opus Clip and Crayo AI (maybe a typo: \"Crayo AI\"? Possibly \"Crai AI\"? There's a tool \"Crayo AI\"? Could be \"Crai AI\"? There's a \"Crai\" platform for content repurposing. There's also \"Crayon AI\"? Let's search memory: \"Crai AI\" is a video editing AI tool. There's \"Crai\" which is"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158491666,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005120414,
+      "completion_tokens": 150,
+      "completion_time": 0.308961444,
+      "total_tokens": 285,
+      "total_time": 0.314081858,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82d0z65egbvz3y9jmnhcmca",
+      "seed": 1757525190
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2753,
+  "cost_usd": 0.0002
+}

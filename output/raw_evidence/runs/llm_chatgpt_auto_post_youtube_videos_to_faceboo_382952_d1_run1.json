@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating the process of repurposing YouTube videos for your Facebook Page is a smart move to maximize reach without doubling your workload. However, it\u2019s important to note that **Facebook\u2019s algorithm generally favors native uploads** over cross-posted content. While you can automate the *posting*, you should ideally ensure the video format is optimized for Facebook (e.g., vertical or square for Reels, 16:9 for standard feed posts).\n\nHere are the best software tools, workflow methods, and key industry options to help you auto-post or semi-automate YouTube to Facebook:\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Buffer** (Best for True Automation)",
+  "raw_payload": {
+    "id": "chatcmpl-bdbc528c-803a-4b3c-8a7c-dc71beeda9e8",
+    "object": "chat.completion",
+    "created": 1795374907,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating the process of repurposing YouTube videos for your Facebook Page is a smart move to maximize reach without doubling your workload. However, it\u2019s important to note that **Facebook\u2019s algorithm generally favors native uploads** over cross-posted content. While you can automate the *posting*, you should ideally ensure the video format is optimized for Facebook (e.g., vertical or square for Reels, 16:9 for standard feed posts).\n\nHere are the best software tools, workflow methods, and key industry options to help you auto-post or semi-automate YouTube to Facebook:\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Buffer** (Best for True Automation)"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049871681,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005376709,
+      "completion_tokens": 150,
+      "completion_time": 0.316285819,
+      "total_tokens": 229,
+      "total_time": 0.321662528
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82ay06fevasv1m8exrcv664",
+      "seed": 237276195
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2432,
+  "cost_usd": 0.0002
+}

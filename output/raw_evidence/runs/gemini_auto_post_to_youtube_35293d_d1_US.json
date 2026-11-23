@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a content creator based in the U.S. looking to streamline their workflow and auto-post to YouTube, a combination of AI editing, clipping, and scheduling",
+      "cost_usd": 0.0002,
+      "latency_ms": 7557,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_to_youtube_35293d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your workflow and **auto-post to YouTube**, the most efficient approach combines AI-powered editing and repurposing tools with dedicated scheduling platforms. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and k",
+      "cost_usd": 0.0002,
+      "latency_ms": 6756,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_to_youtube_35293d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_to_youtube_35293d_d1_US.json"
+}

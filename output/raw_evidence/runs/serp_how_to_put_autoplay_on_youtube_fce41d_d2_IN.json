@@ -1,0 +1,55 @@
+{
+  "query": "how to put autoplay on youtube",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6327615?hl=en",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to put autoplay on youtube",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Autoplay videos - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6327615?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6327615",
+        "snippet": "Tap your profile picture. \u00b7 At the top right of the screen, tap Settings . \u00b7 Tap Autoplay. \u00b7 Switch autoplay on or off.",
+        "position": 1
+      },
+      {
+        "title": "How to Turn ON Autoplay on YouTube - iPhone, Android, & Samsung",
+        "link": "https://www.youtube.com/shorts/ycn0Xx06byY",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a ycn0Xx06byY",
+        "position": 2
+      },
+      {
+        "title": "How to Turn On Autoplay on YouTube App [Guide]",
+        "link": "https://www.youtube.com/watch?v=UqauNAufWPg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This guide shows you how to turn on autoplay in the YouTube app, enabling seamless video playback without needing to manually select the next\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "How to Turn ON Auto Play on YouTube App - iPhone & Android",
+        "link": "https://www.youtube.com/watch?v=u-IFyhxTg3Q",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this tutorial, I show you how to enable or turn on autoplay within the YouTube mobile app on iPhone, Android, & Samsung phones.",
+        "position": 4
+      },
+      {
+        "title": "How to Autoplay Videos on YouTube",
+        "link": "https://www.youtube.com/watch?v=Wkr2n5Fs_NA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "The Autoplay feature on YouTube makes it easier to decide what to watch next. After you watch a YouTube video, we'll automatically play another\u00a0...",
+        "position": 5
+      }
+    ],
+    "credits": 1
+  }
+}

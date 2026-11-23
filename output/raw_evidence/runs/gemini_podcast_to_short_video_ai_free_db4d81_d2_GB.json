@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'podcast to short video ai free' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 420
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'podcast to short video ai free' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 425
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_short_video_ai_free_db4d81_d2_GB.json"
+}

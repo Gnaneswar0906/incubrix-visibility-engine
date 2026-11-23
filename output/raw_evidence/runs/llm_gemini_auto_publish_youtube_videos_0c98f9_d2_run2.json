@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., automating your YouTube publishing workflow can save you dozens of hours a week\u2014from clipping long-form videos to scheduling and distribution. \n\nBased on current industry standards and the specific tools you mentioned,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., automating your YouTube publishing workflow can save you dozens of hours a week\u2014from clipping long-form videos to scheduling and distribution. \n\nBased on current industry standards and the specific tools you mentioned,"
+            },
+            {
+              "text": " here is a breakdown of the best software tools, a recommended end-to-end workflow, and insights into key options.\n\n---\n\n### 1. Best Software Tools & Key Industry Options\n\n#### **AI Clipping & Repurposing**\n*   **Opus Clip:** An industry leader in generative AI video clipping. It takes long-form videos and automatically resizes them, adds captions, and extracts viral-worthy shorts based on hooks and engagement potential. \n*   **CapCut (Desktop/Web):** Widely used by creators for its robust auto-captioning, AI background removal, and auto-reframe features. CapCut also offers scheduling features through its web ecosystem, making it a hybrid editing-and-publishing tool.\n*   **Descript:** The gold standard for text-based video editing. If you prefer editing your YouTube videos by simply deleting text in a transcript (like a Word document), Descript is unmatched. It also features \"Studio",
+              "thoughtSignature": "Eo4BCosBAWkUfRNjfBRh+s2MlSE7+6bAQSFIG0dg7hmti/pvgt3KKdwV28luyIgV1RUbomHF2eukXH6XJlct5UniVTwakORAtwCe5zC0sMM3BGtNeuLPYHshI3rBfdHbvf+A4ZYZUqwUHvfmUvfY1yvpzM0qLcweJ66XLzBKgmzNwUDUZO6wEP+eWHGgrhPncQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 249,
+      "totalTokenCount": 311,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "P0YDa5u0I7HPz7sP3JTPsAs"
+  },
+  "latency_ms": 3188,
+  "cost_usd": 0.0002
+}

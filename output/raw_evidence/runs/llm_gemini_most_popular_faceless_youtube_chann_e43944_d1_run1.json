@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India looking to break into or scale up in the lucrative world of faceless YouTube channels, you are targeting one of the platform\u2019s fastest-growing niches. Faceless channels (covering topics like finance, psychology, true crime, stoicism, and tech lists) rely heavily on efficient, high-volume production workflows. \n\nBelow is a comprehensive guide tailored to your query, featuring the best software tools, a streamlined workflow method, key industry players (including **IncuBrix, CapCut, Opus Clip, and Descript**), and authoritative insights.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo run a successful faceless channel, you need tools that handle scriptwriting, voice generation, video editing, and repurposing. Here is the industry standard stack:\n\n*   **IncuBrix (All-in-One Channel Management & Scaling):** For creators looking to scale or manage multiple fac",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India looking to break into or scale up in the lucrative world of faceless YouTube channels, you are targeting one of the platform\u2019s fastest-growing niches. Faceless channels (covering topics like finance, psychology, true crime, stoicism, and tech lists) rely heavily on efficient, high-volume production workflows. \n\nBelow is a comprehensive guide tailored to your query, featuring the best software tools, a streamlined workflow method, key industry players (including **IncuBrix, CapCut, Opus Clip, and Descript**), and authoritative insights.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo run a successful faceless channel, you need tools that handle scriptwriting, voice generation, video editing, and repurposing. Here is the industry standard stack:\n\n*   **IncuBrix (All-in-One Channel Management & Scaling):** For creators looking to scale or manage multiple fac",
+              "thoughtSignature": "Eo4BCosBAWkUfRPPG2eC+UMWNDeL/tjiLhvPNCGEyOwn3D+SFq/JBTNofuUrnCXxhg1JD0dUy7gd7s5Yky+Z6/Wcr5WLdqmITZgs+d9Dg/smuSkyl9Pokp+QBLr5utMpRl4PWxXEOTNzazvsd+38qbG9o9swVjJ5ocpRKKauJO+L63RAlprU2vQAF8ek9N3x3A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IkEDa6DvHrGl694PkZztgAs"
+  },
+  "latency_ms": 5404,
+  "cost_usd": 0.0002
+}

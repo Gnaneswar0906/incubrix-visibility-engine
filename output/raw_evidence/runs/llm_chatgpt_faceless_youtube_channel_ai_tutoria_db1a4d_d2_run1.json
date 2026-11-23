@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel ai tutorial Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations for faceless YouTube channel AI tutorial: tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be safe. Provide Indian context maybe. Provide authoritative sources like official sites, blogs, reviews. Use citations with URLs.\n\nWe must not violate policy. It's fine.\n\nLet's produce a structured answer",
+  "raw_payload": {
+    "id": "chatcmpl-0684a18e-e798-42b4-a023-27f2368f055a",
+    "object": "chat.completion",
+    "created": 1795377219,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel ai tutorial Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations for faceless YouTube channel AI tutorial: tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be safe. Provide Indian context maybe. Provide authoritative sources like official sites, blogs, reviews. Use citations with URLs.\n\nWe must not violate policy. It's fine.\n\nLet's produce a structured answer"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317833778,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005939551,
+      "completion_tokens": 150,
+      "completion_time": 0.309678797,
+      "total_tokens": 285,
+      "total_time": 0.315618348,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82d4gyte0cr10m72mg3ffvw",
+      "seed": 1785646132
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2608,
+  "cost_usd": 0.0002
+}

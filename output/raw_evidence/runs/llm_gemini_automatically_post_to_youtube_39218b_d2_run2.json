@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the goal of automating your YouTube posting workflow is to minimize manual friction\u2014from cutting clips and generating captions to scheduling and publishing. \n\nBelow is a breakdown of the best software tools, industry-standard options (including the ones you mentioned), and a recommended end-to-end workflow to automate your YouTube publishing pipeline.\n\n---\n\n### 1. Key Industry Software Tools\n\nTo build an automated YouTube pipeline, tools are typically divided into three categories: **AI Repurposing/Editing**, **Transcription/Refinement**, and **Scheduling/Automation**.\n\n#### A. Repurposing & Clipping (Shorts/Reels)\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It analyzes long-form videos, extracts the most engaging hooks, reframes them to vertical 9:16, adds captions, and scores them for virality. Perfect for creators looking",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the goal of automating your YouTube posting workflow is to minimize manual friction\u2014from cutting clips and generating captions to scheduling and publishing. \n\nBelow is a breakdown of the best software tools, industry-standard options (including the ones you mentioned), and a recommended end-to-end workflow to automate your YouTube publishing pipeline.\n\n---\n\n### 1. Key Industry Software Tools\n\nTo build an automated YouTube pipeline, tools are typically divided into three categories: **AI Repurposing/Editing**, **Transcription/Refinement**, and **Scheduling/Automation**.\n\n#### A. Repurposing & Clipping (Shorts/Reels)\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It analyzes long-form videos, extracts the most engaging hooks, reframes them to vertical 9:16, adds captions, and scores them for virality. Perfect for creators looking",
+              "thoughtSignature": "Eo4BCosBAWkUfRMYPdPmF2+2fQnT/vYek2KEK6hATz1/c9clhA7j+Nzmo3iM0/dgE0sgOHkLbYo0Gps1VijOFtPxNv6DLzl5HqmHPdiSs8JN3IX6Fs9dWeJ4LCnpW271niHxadk9xZxKuZgP4VcN0xb3uryv5Eca167pX9wiEjPauwzliPLNMaZhXEQfMtebBQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "FUYDa_7kK5XOz7sPj-bYmQ8"
+  },
+  "latency_ms": 2157,
+  "cost_usd": 0.0002
+}

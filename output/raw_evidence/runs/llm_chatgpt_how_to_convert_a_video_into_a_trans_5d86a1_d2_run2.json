@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Converting a Video into a Transcript \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus a curated list of the **best software tools** (including the ones you mentioned) and a few extra industry",
+  "raw_payload": {
+    "id": "chatcmpl-6d3fc0db-4869-4089-984d-31b7f801209b",
+    "object": "chat.completion",
+    "created": 1795376538,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Converting a Video into a Transcript \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus a curated list of the **best software tools** (including the ones you mentioned) and a few extra industry",
+          "reasoning": "We need to answer with recommendations for converting video to transcript, software tools, workflow, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide US context. Provide steps. Possibly include pricing, pros/cons, accuracy, integration. Provide citations with links. Must comply with policy: no copyrighted text, but can quote short. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051843474,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005403386,
+      "completion_tokens": 150,
+      "completion_time": 0.314331262,
+      "total_tokens": 287,
+      "total_time": 0.319734648,
+      "completion_tokens_details": {
+        "reasoning_tokens": 89
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_05e76be18c",
+    "x_groq": {
+      "id": "req_01m82cfr22ew9a29ktcec4bn2c",
+      "seed": 1519379649
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2638,
+  "cost_usd": 0.0002
+}

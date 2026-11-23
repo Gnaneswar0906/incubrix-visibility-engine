@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Mention pros/cons. Provide suggestions for integration with other tools. Provide best practices. Provide citations. Use up-to-date info (knowledge cutoff 2024-06). Provide maybe links to official sites or reputable reviews. Provide note about free vs paid. Provide summary table. Provide citation format. Ensure not to hallucinate URLs incorrectly. Use",
+  "raw_payload": {
+    "id": "chatcmpl-7f8ca130-1ccb-4148-8c39-4a6295ab5b51",
+    "object": "chat.completion",
+    "created": 1795374634,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Mention pros/cons. Provide suggestions for integration with other tools. Provide best practices. Provide citations. Use up-to-date info (knowledge cutoff 2024-06). Provide maybe links to official sites or reputable reviews. Provide note about free vs paid. Provide summary table. Provide citation format. Ensure not to hallucinate URLs incorrectly. Use"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318360999,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00604841,
+      "completion_tokens": 150,
+      "completion_time": 0.317695322,
+      "total_tokens": 283,
+      "total_time": 0.323743732,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82anmjcez3akbmae626386r",
+      "seed": 2028327014
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2043,
+  "cost_usd": 0.0002
+}

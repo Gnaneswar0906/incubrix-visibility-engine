@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello!",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello!"
+            },
+            {
+              "text": " As a content creator based in India looking for free, Reddit-recommended methods to auto-generate video captions, you have some fantastic options. \n\nReddit communities like r/NewTubers, r/VideoEditing, and r/ContentCreators frequently discuss tools that balance automation, accuracy, and cost (specifically free tiers). Based on these community consensus recommendations, here is a comprehensive guide to the best software tools, key industry options, and a streamlined workflow.\n\n---\n\n### 1. Key Industry Options & Reddit Favorites\n\n#### **CapCut (Desktop & Mobile)** \u2013 *Best Overall Free Option*\n*   **Why Reddit Recommends It:** CapCut\u2019s auto-caption feature is widely regarded on Reddit as the most generous \"truly free\" option. It generates highly accurate, dynamic, and stylized captions (the classic TikTok/Reels word-by-word highlight style) with minimal watermarks.\n*   **Pros:** Highly customizable fonts and animations; auto",
+              "thoughtSignature": "Eo4BCosBAWkUfRNSMr7IDVnGZKsNawO/FtLe/y6evgeKUguVFG6dVlGHSVjWPx10jfJVMlRrGck9z5fsleqovXrS+RuZsP+uMjZQRzMg65gAcpAB7TcYJnjDaiEpaEkZDZqsKnklxZZD866WOo03dUgVxZyaFoArATrbML0kdYjmsdUyIHFqz0Pvbv87dopZ5Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "cUADa9nPB4OM694P3_zf-A4"
+  },
+  "latency_ms": 7744,
+  "cost_usd": 0.0002
+}

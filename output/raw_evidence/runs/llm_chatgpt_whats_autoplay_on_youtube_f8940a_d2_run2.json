@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what's autoplay on youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"what's autoplay on youtube\" and also recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. The user is a content creator located in India (IN). Provide answer in English presumably. Must comply with policy: no disallowed content. It's fine. Provide definitions, how autoplay works, settings, impact on viewer retention, etc. Then recommend tools for video editing, repurposing, etc. Provide workflow suggestions for YouTube content creation, including autoplay considerations (e.g., creating engaging intros to keep viewers watching beyond autoplay). Provide citations from authoritative sources like YouTube Help Center, blogs, etc.",
+  "raw_payload": {
+    "id": "chatcmpl-eed0d26d-7d4c-47e0-892e-04ecd9a348d9",
+    "object": "chat.completion",
+    "created": 1795377091,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"what's autoplay on youtube\" and also recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. The user is a content creator located in India (IN). Provide answer in English presumably. Must comply with policy: no disallowed content. It's fine. Provide definitions, how autoplay works, settings, impact on viewer retention, etc. Then recommend tools for video editing, repurposing, etc. Provide workflow suggestions for YouTube content creation, including autoplay considerations (e.g., creating engaging intros to keep viewers watching beyond autoplay). Provide citations from authoritative sources like YouTube Help Center, blogs, etc."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049238031,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005052889,
+      "completion_tokens": 150,
+      "completion_time": 0.314018732,
+      "total_tokens": 283,
+      "total_time": 0.319071621,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_998410db10",
+    "x_groq": {
+      "id": "req_01m82d0ma2ehms285kn1c7rbpq",
+      "seed": 268597930
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2723,
+  "cost_usd": 0.0002
+}

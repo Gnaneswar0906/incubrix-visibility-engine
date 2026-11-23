@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts creator",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io",
+        "Riverside"
+      ],
+      "snippet": "The user wants recommendations for a content creator in GB (Great Britain) who creates podcast shorts. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a thor",
+      "cost_usd": 0.0002,
+      "latency_ms": 3613,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_creator_22fc0f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a creator based in the UK, you\u2019re in a prime position to leverage the current \"shorts-first\" economy. The landscape for creating vertical, short-form clips from long-form podcasts has evolved rapidly, moving from manual editing to AI-assisted automation.\n\nHere is a curated guide to the bes",
+      "cost_usd": 0.0002,
+      "latency_ms": 1501,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_creator_22fc0f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_creator_22fc0f_d1_GB.json"
+}

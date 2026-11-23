@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Yes, you can easily add text in OpenShot Video Editor.** \n\nAs a content creator in Great Britain, you will find OpenShot to be a free, open-source, and beginner-friendly option for basic titling. However, depending on your workflow and content goals, you might also want to explore more advanced industry tools.\n\nHere is a complete guide on how to add text in OpenShot, alongside a breakdown of the best software tools and workflow methods currently dominating the creator economy.\n\n---\n\n### How to Add Text in OpenShot Video Editor\n\nOpenShot offers two primary ways to add text: **Standard Titles** and **Animated Titles** (which require Blender to be installed).\n\n1. **Standard Titles:**\n   * Go to the top menu and select **Title** > **Title** (or press `Ctrl + T`).\n   * Choose from a variety of built-in templates (plain text, lower thirds, callouts).",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "**Yes, you can easily add text in OpenShot Video Editor.** \n\nAs a content creator in Great Britain, you will find OpenShot to be a free, open-source, and beginner-friendly option for basic titling. However, depending on your workflow and content goals, you might also want to explore more advanced industry tools.\n\nHere is a complete guide on how to add text in OpenShot, alongside a breakdown of the best software tools and workflow methods currently dominating the creator economy.\n\n---\n\n### How to Add Text in OpenShot Video Editor\n\nOpenShot offers two primary ways to add text: **Standard Titles** and **Animated Titles** (which require Blender to be installed).\n\n1. **Standard Titles:**\n   * Go to the top menu and select **Title** > **Title** (or press `Ctrl + T`).\n   * Choose from a variety of built-in templates (plain text, lower thirds, callouts).",
+              "thoughtSignature": "Eo4BCosBAWkUfRPmvwg4Ly1SLPR1+XK21ev07NE8Ac2Xyk3Vwr9UD0PbHCuBk+pO4LjKH97VXwzVGoLgXdfQOTiO6AVushO15iN0IWsu6TyIWsDpD4KoW01lywQSbcsM/w3zD31gJllpmVLLYAlUAEypSfFwgp36GmAAKdzTYIZShhuAG/ChlUN5xdCnyw7Ovw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pkEDa-7QJYzUqfkP9MjbqA4"
+  },
+  "latency_ms": 2301,
+  "cost_usd": 0.0002
+}

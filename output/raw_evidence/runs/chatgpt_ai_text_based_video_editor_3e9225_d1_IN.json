@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai text based video editor",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in India, you are in a prime position to leverage the rapidly evolving AI text-based video editing landscape. The shift from timeline-based editing to **text-based editing** (where you edit video by editing the transcript) has democratized high-quality production, allowin",
+      "cost_usd": 0.0002,
+      "latency_ms": 1612,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_text_based_video_editor_3e9225_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## AI\u2011Powered **Text\u2011Based Video Editing** \u2013 A Practical Guide for Indian Creators  \n\nBelow is a concise \u201ctool\u2011plus\u2011workflow\u201d",
+      "cost_usd": 0.0002,
+      "latency_ms": 2460,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_text_based_video_editor_3e9225_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_ai_text_based_video_editor_3e9225_d1_IN.json"
+}

@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to text editor",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As an AI assistant helping a content creator located in **India (IN)**, the phrase \"how to text editor\" generally points toward two different needs in the content creation workflow: \n1. **Text-based video editing** (editing video by manipulating a transcript\u2014popularized by tools like Descript).\n2. *",
+      "cost_usd": 0.0002,
+      "latency_ms": 2018,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_text_editor_f29aa4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As a content creator in India, choosing the right \"text editor\" depends heavily on what you mean by the term. In the creator economy, a text editor usually falls into two categories: **Code/Script Editors** (for writing video scripts, managing website code, or programming automated tools) and **Text",
+      "cost_usd": 0.0002,
+      "latency_ms": 7006,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_text_editor_f29aa4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_text_editor_f29aa4_d1_IN.json"
+}

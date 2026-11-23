@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'podcast to short video ai free' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 473
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast to short video ai free' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 342
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_to_short_video_ai_free_db4d81_d2_GB.json"
+}

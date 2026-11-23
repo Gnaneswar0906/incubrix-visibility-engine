@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video sinhala' in IN, popular recommendations include Munch. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 440
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto caption generator for video sinhala' in IN, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 425
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_si_078f4f_d1_IN.json"
+}

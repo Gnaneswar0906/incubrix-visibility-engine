@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, automating the process of repurposing YouTube videos for your Facebook Page is a smart move to maximize reach without doubling your workload. However, it\u2019s important to note that **Facebook\u2019s algorithm generally favors native uploads** over cross-posted content",
+      "cost_usd": 0.0002,
+      "latency_ms": 2432,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_faceboo_382952_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer query: \"auto post youtube videos to facebook page\". Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no copyrighted text beyond brief excerpt,",
+      "cost_usd": 0.0002,
+      "latency_ms": 3857,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_faceboo_382952_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_videos_to_faceboo_382952_d1_US.json"
+}

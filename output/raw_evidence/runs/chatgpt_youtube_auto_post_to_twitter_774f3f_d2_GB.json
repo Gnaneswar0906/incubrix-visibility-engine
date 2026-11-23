@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto post to twitter",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Certainly, I'll provide you with information on the best software tools and workflow methods for automatically posting YouTube videos to Twitter. Let's start with some popular options:\n\n1. IncubrX (formerly AmoyShare): It's a cloud-based tool that allows you to upload your YouTube videos and automat",
+      "cost_usd": 0.0002,
+      "latency_ms": 5382,
+      "cited_urls": [
+        "https://www.incubr.com/"
+      ],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_post_to_twitter_774f3f_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to recommend best software tools, workflow methods for auto posting YouTube videos to Twitter, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Should be helpful to content creator in GB. Provide workflow, tools, steps",
+      "cost_usd": 0.0002,
+      "latency_ms": 3882,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_post_to_twitter_774f3f_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_auto_post_to_twitter_774f3f_d2_GB.json"
+}

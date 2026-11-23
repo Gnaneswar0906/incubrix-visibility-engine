@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! Given your location in the UK (GB), you are in a prime market for podcast content, but the tooling landscape is largely global. Below is a curated guide to the best software tools, workflows, and industry options for creating **Podcast Shorts** (vertical clips for TikTok, Reels, and Shorts).\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 1020,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_app_996ac6_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to a query from a content creator in GB (UK). They want recommendations for \"podcast shorts app\". They ask to recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe",
+      "cost_usd": 0.0002,
+      "latency_ms": 3333,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_app_996ac6_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_app_996ac6_d2_GB.json"
+}

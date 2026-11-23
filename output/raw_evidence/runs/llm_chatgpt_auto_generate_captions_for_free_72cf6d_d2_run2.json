@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Below is a quick\u2011start guide for **free, automatic caption",
+  "raw_payload": {
+    "id": "chatcmpl-128cf6cc-a7a0-4700-aefd-ccebfcb85b1a",
+    "object": "chat.completion",
+    "created": 1795376613,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Below is a quick\u2011start guide for **free, automatic caption",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto generating captions for free. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Provide citations with URLs. Ensure we comply with policy. Provide list, pros/cons, workflow steps, free tiers, limitations, integration. Provide links to official sites, maybe reviews. Provide best practices.\n\nWe must not claim we have browsing ability, but can cite known sources. Use footnotes style. Provide clear answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368268029,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00601622,
+      "completion_tokens": 150,
+      "completion_time": 0.311097622,
+      "total_tokens": 284,
+      "total_time": 0.317113842,
+      "completion_tokens_details": {
+        "reasoning_tokens": 129
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82cj1w0etkt3ntvth1a6maq",
+      "seed": 1702062549
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3395,
+  "cost_usd": 0.0002
+}

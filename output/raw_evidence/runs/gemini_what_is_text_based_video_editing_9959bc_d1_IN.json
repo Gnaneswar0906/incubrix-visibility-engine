@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-driven workflow that transcribes spoken audio in a video into written text. Instead of manipulating complex visual timelines, cutting waveforms, and dragging razor tools, editors sim",
+      "cost_usd": 0.0002,
+      "latency_ms": 6757,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_what_is_text_based_video_editing_9959bc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-powered post-production method that allows creators to edit video and audio by manipulating the accompanying text transcript. Instead of cutting, trimming, and splicing waveforms and",
+      "cost_usd": 0.0002,
+      "latency_ms": 2222,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_what_is_text_based_video_editing_9959bc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_what_is_text_based_video_editing_9959bc_d1_IN.json"
+}

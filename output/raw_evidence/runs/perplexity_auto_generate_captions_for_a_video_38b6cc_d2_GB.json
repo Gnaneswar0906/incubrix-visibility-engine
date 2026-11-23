@@ -1,0 +1,43 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto generate captions for a video' in GB, popular recommendations include Opus Clip, Munch, Klap. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 385
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'auto generate captions for a video' in GB, popular recommendations include Vidyo.ai, CapCut, Descript. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 355
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_captions_for_a_video_38b6cc_d2_GB.json"
+}

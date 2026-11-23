@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "text based video editing",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'text based video editing' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 428
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'text based video editing' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 406
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_text_based_video_editing_0fda7a_d2_US.json"
+}

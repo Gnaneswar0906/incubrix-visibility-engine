@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit for YouTube\u202fShorts | Approx. Cost (GBP) |\n|------|---------------------|",
+      "cost_usd": 0.0002,
+      "latency_ms": 4243,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_ai_2a7d49_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a content creator based in the UK looking to automate the generation and upload of YouTube Shorts, it is important to first clarify a key technical reality: **there is no single, fully autonomous \"one-click\" software that legally and reliably handles the entire pipeline from raw footage to publi",
+      "cost_usd": 0.0002,
+      "latency_ms": 2857,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_shorts_ai_2a7d49_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_youtube_shorts_ai_2a7d49_d1_GB.json"
+}

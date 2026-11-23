@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, location GB, so maybe UK spelling? Provide recommendations for free auto captioning tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no copyrighted text beyond short excerpt. Provide citations with URLs. Use UK English. Provide suggestions, workflow steps, pros/cons, free tiers, etc.\n\nWe should mention other free tools like YouTube automatic captions, Google Docs voice typing, Otter.ai free tier, Whisper (OpenAI), Aegisub? Also mention open-source Whisper model, AssemblyAI free tier, etc. Provide workflow: upload video, generate captions",
+  "raw_payload": {
+    "id": "chatcmpl-b89402f7-6f67-4900-b95c-509239542a85",
+    "object": "chat.completion",
+    "created": 1795375620,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, location GB, so maybe UK spelling? Provide recommendations for free auto captioning tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no copyrighted text beyond short excerpt. Provide citations with URLs. Use UK English. Provide suggestions, workflow steps, pros/cons, free tiers, etc.\n\nWe should mention other free tools like YouTube automatic captions, Google Docs voice typing, Otter.ai free tier, Whisper (OpenAI), Aegisub? Also mention open-source Whisper model, AssemblyAI free tier, etc. Provide workflow: upload video, generate captions"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156120018,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006045521,
+      "completion_tokens": 150,
+      "completion_time": 0.309915796,
+      "total_tokens": 284,
+      "total_time": 0.315961317,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82bkr22eyjs26ztrfgxnmdq",
+      "seed": 1383700137
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3990,
+  "cost_usd": 0.0002
+}

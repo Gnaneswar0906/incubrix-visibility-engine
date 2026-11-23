@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto post tiktok to youtube' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 489
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US looking to cross-pollinate your short-form video strategy, repurposing TikToks to YouTube Shorts (and long-form) is one of the highest-ROI activities you can do. Because TikTok and YouTube Shorts share a near-identical 9:16 vertical video format, automating this pipeli",
+      "cost_usd": 0.0002,
+      "latency_ms": 5970,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_tiktok_to_youtube_f5eb08_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_tiktok_to_youtube_f5eb08_d1_US.json"
+}

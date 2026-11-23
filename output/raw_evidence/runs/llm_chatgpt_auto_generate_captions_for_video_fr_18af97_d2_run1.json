@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Generate Captions for Video\u202f\u2014\u202fFree Online Tools, Workflow, and Industry\u2011Standard Options",
+  "raw_payload": {
+    "id": "chatcmpl-8ab2b35f-8046-4b2c-99c5-7e57d1d20f5d",
+    "object": "chat.completion",
+    "created": 1795376593,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Generate Captions for Video\u202f\u2014\u202fFree Online Tools, Workflow, and Industry\u2011Standard Options",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto-generating captions for video free online. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: can provide links, citations. Provide up-to-date info (as of 2024). Provide free options, mention limitations. Also workflow steps. Provide table maybe. Ensure not to violate any policy. Provide citations in brackets with URLs. Should be concise but thorough."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15524387,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005414609,
+      "completion_tokens": 150,
+      "completion_time": 0.307494608,
+      "total_tokens": 286,
+      "total_time": 0.312909217,
+      "completion_tokens_details": {
+        "reasoning_tokens": 120
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82chefje5zrmm38mf2t23jv",
+      "seed": 835761679
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2348,
+  "cost_usd": 0.0002
+}

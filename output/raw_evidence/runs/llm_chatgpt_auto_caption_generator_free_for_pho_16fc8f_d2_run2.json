@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Given your location in the UK (GB), here are the best free options for auto-captioning photos, along with recommended workflows and industry tools.\n\n### Key Clarification: Photos vs. Video\nIt\u2019s important to note that **auto-captioning technology (OCR/AI speech-to-text) is primarily designed for audio/video**. For still photos, \"auto-captioning\" usually means one of two things:\n1.  **Text Recognition (OCR):** Extracting existing text *from* the photo (e.g., a sign, document, or meme) and turning it into editable text.\n2.  **AI Image Description:** Generating a descriptive caption *about* the photo\u2019s content (alt-text style).\n\nMost \"auto-caption",
+  "raw_payload": {
+    "id": "chatcmpl-f55dbe72-5261-46c4-a4ae-e48d298acd82",
+    "object": "chat.completion",
+    "created": 1795377421,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Given your location in the UK (GB), here are the best free options for auto-captioning photos, along with recommended workflows and industry tools.\n\n### Key Clarification: Photos vs. Video\nIt\u2019s important to note that **auto-captioning technology (OCR/AI speech-to-text) is primarily designed for audio/video**. For still photos, \"auto-captioning\" usually means one of two things:\n1.  **Text Recognition (OCR):** Extracting existing text *from* the photo (e.g., a sign, document, or meme) and turning it into editable text.\n2.  **AI Image Description:** Generating a descriptive caption *about* the photo\u2019s content (alt-text style).\n\nMost \"auto-caption"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053454399,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005106291,
+      "completion_tokens": 150,
+      "completion_time": 0.291880735,
+      "total_tokens": 228,
+      "total_time": 0.296987026
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82daq43e0s93a9d4dqh8yd7",
+      "seed": 1637247571
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1129,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Caption Generator for a Video\u2011Sharing Site  \n**Audience:**\u202fU.S. content creators who need fast, accurate subtitles for YouTube, TikTok, Instagram Reels, or a custom video portal.  \n\n---\n\n### 1.",
+  "raw_payload": {
+    "id": "chatcmpl-6986d34a-d4fa-4995-ae13-2e2e9ad86191",
+    "object": "chat.completion",
+    "created": 1795376638,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Caption Generator for a Video\u2011Sharing Site  \n**Audience:**\u202fU.S. content creators who need fast, accurate subtitles for YouTube, TikTok, Instagram Reels, or a custom video portal.  \n\n---\n\n### 1.",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide recommendations, workflow steps, pros/cons, pricing, integration, best practices. Provide citations with links. Use markdown. Provide summary."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370016196,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00509574,
+      "completion_tokens": 150,
+      "completion_time": 0.311991508,
+      "total_tokens": 285,
+      "total_time": 0.317087248,
+      "completion_tokens_details": {
+        "reasoning_tokens": 92
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82cjt4ye6ztr4x6bbb3ybe6",
+      "seed": 167302243
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2060,
+  "cost_usd": 0.0002
+}

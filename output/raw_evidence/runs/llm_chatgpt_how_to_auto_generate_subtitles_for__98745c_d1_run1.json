@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator based in the UK, you have access to several robust tools for automating subtitle generation on TikTok. Since TikTok is a sound-on platform, accurate and engaging captions are crucial for retention and accessibility (which also aligns with UK accessibility standards).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for auto-generating subtitles, tailored for a GB-based creator.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best Overall for TikTok Creators)\nCapCut is widely considered the gold standard for TikTok editing due to its seamless integration with the platform.\n- **Why it\u2019s great**: Free, user-friendly, and includes trendy caption templates that can be exported",
+  "raw_payload": {
+    "id": "chatcmpl-a77a9692-b3c6-429c-9451-af054a7be916",
+    "object": "chat.completion",
+    "created": 1795375593,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a content creator based in the UK, you have access to several robust tools for automating subtitle generation on TikTok. Since TikTok is a sound-on platform, accurate and engaging captions are crucial for retention and accessibility (which also aligns with UK accessibility standards).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for auto-generating subtitles, tailored for a GB-based creator.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best Overall for TikTok Creators)\nCapCut is widely considered the gold standard for TikTok editing due to its seamless integration with the platform.\n- **Why it\u2019s great**: Free, user-friendly, and includes trendy caption templates that can be exported"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.055699968,
+      "prompt_tokens": 82,
+      "prompt_time": 0.006108691,
+      "completion_tokens": 150,
+      "completion_time": 0.290405019,
+      "total_tokens": 232,
+      "total_time": 0.29651371
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bjy4yers99rdsw73kf7a1",
+      "seed": 1686035429
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1810,
+  "cost_usd": 0.0002
+}

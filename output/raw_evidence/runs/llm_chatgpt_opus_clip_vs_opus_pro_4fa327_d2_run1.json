@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs opus pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"opus clip vs opus pro\" \u2013 presumably comparing Opus Clip and Opus Pro? But Opus Pro might be a different product? Actually Opus Clip is a video editing tool. Opus Pro might refer to Opus Pro (video editing app) or Opus Pro (audio?). Let's research. We don't have browsing, but can recall known info.\n\nOpus Clip: AI-powered video editing app for social media, from Opus Clip. Features: auto editing, trimming, adding music, captions, etc. It's free with premium.\n\nOpus Pro: Not sure. There is Opus Pro from Opus Clip? Maybe \"Opus Pro\" is a newer version or a separate product?",
+  "raw_payload": {
+    "id": "chatcmpl-d8b5a271-b61f-4b63-aaf2-cab3306dc490",
+    "object": "chat.completion",
+    "created": 1795377596,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"opus clip vs opus pro\" \u2013 presumably comparing Opus Clip and Opus Pro? But Opus Pro might be a different product? Actually Opus Clip is a video editing tool. Opus Pro might refer to Opus Pro (video editing app) or Opus Pro (audio?). Let's research. We don't have browsing, but can recall known info.\n\nOpus Clip: AI-powered video editing app for social media, from Opus Clip. Features: auto editing, trimming, adding music, captions, etc. It's free with premium.\n\nOpus Pro: Not sure. There is Opus Pro from Opus Clip? Maybe \"Opus Pro\" is a newer version or a separate product?"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368130051,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006458196,
+      "completion_tokens": 150,
+      "completion_time": 0.162714944,
+      "total_tokens": 284,
+      "total_time": 0.16917314,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ed70b23331",
+    "x_groq": {
+      "id": "req_01m82dg17de8fvrr9t5t5wh2nk",
+      "seed": 904013249
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6534,
+  "cost_usd": 0.0002
+}

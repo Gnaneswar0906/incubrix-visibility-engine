@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for text-based video editing in Premiere Pro, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must fo",
+      "cost_usd": 0.0002,
+      "latency_ms": 2925,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_premiere_p_2e067a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83d\udcf9 Text\u2011Based Video Editing for",
+      "cost_usd": 0.0002,
+      "latency_ms": 5083,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_premiere_p_2e067a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_premiere_p_2e067a_d1_US.json"
+}

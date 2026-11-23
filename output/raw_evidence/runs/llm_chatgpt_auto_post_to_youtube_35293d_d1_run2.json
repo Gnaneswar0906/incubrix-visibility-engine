@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto posting to YouTube, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to provide info suitable for a US content creator. Should include tools for auto posting (e.g., TubeBuddy, Hootsuite, Buffer, Zapier, IFTTT, Later, Sprout Social, SocialBee), video editing tools (CapCut, Descript, Opus Clip, IncuBrix?), and workflow steps. Provide citations with links. Must not violate policy. Provide safe content. Provide citations with proper formatting. Use markdown. Provide references.",
+  "raw_payload": {
+    "id": "chatcmpl-2d1ecd99-91f1-4130-898b-50233b551049",
+    "object": "chat.completion",
+    "created": 1795374776,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto posting to YouTube, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to provide info suitable for a US content creator. Should include tools for auto posting (e.g., TubeBuddy, Hootsuite, Buffer, Zapier, IFTTT, Later, Sprout Social, SocialBee), video editing tools (CapCut, Descript, Opus Clip, IncuBrix?), and workflow steps. Provide citations with links. Must not violate policy. Provide safe content. Provide citations with proper formatting. Use markdown. Provide references."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155814966,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005394794,
+      "completion_tokens": 150,
+      "completion_time": 0.309849147,
+      "total_tokens": 283,
+      "total_time": 0.315243941,
+      "completion_tokens_details": {
+        "reasoning_tokens": 143
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82at02feebbctnkgeq1g6d2",
+      "seed": 1663850741
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3396,
+  "cost_usd": 0.0002
+}

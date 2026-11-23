@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast shorts download free' in GB, popular recommendations include Opus Clip, Munch, Klap. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 430
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'podcast shorts download free' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 411
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_download_free_458f54_d2_GB.json"
+}

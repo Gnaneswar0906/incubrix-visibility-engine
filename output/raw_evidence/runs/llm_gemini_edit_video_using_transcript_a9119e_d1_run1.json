@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can tell you that **text-based video editing** (editing video by manipulating a transcript like a Word document) has completely revolutionized post-production. It allows creators to cut out filler words, rearrange sentences, and delete unwanted sections just by highlighting and deleting text.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to streamline your editing process.\n\n---\n\n### 1. Key Industry Software Options\n\nDepending on your specific workflow (long-form vs. short-form, automated vs. manual control), here are the top tools currently leading the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Best for:* Podcasters, talking-head YouTube videos, and creators who want deep control over their audio and video via a transcript.\n    *   *Key Features:* \"Studio Sound\" (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can tell you that **text-based video editing** (editing video by manipulating a transcript like a Word document) has completely revolutionized post-production. It allows creators to cut out filler words, rearrange sentences, and delete unwanted sections just by highlighting and deleting text.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to streamline your editing process.\n\n---\n\n### 1. Key Industry Software Options\n\nDepending on your specific workflow (long-form vs. short-form, automated vs. manual control), here are the top tools currently leading the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Best for:* Podcasters, talking-head YouTube videos, and creators who want deep control over their audio and video via a transcript.\n    *   *Key Features:* \"Studio Sound\" (",
+              "thoughtSignature": "Eo4BCosBAWkUfRNjpsXABlfJcVtD5/YFilp58r2ucDyEmLnD2FjBqlk0asmptSbKpRiWSkcJ2X/Lpu1yVcewQa2sQc1j2gBB5KsX0xYNj15Oprr52P5bnCPHvRgR04oZmhWszg0hKXwiM08Q5w0ZefYx5EdvzQttBhmPfi3Duf3IhS7YwrhQAzU7FHP4rA3XGw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1D0Da6vdAZLbg8UP57uT0Ag"
+  },
+  "latency_ms": 2343,
+  "cost_usd": 0.0002
+}

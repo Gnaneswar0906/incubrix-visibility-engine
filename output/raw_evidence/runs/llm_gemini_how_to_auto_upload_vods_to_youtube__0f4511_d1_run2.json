@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, streaming on",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India, streaming on"
+            },
+            {
+              "text": " Twitch and repurposing your VODs (Video on Demand) for YouTube is one of the smartest ways to grow your brand across platforms (often called cross-platform streaming or \"multistreaming-to-archiving\"). \n\nHere is a comprehensive guide on the best software tools, workflow methods, and industry options to automate uploading your Twitch VODs to YouTube, tailored with tools relevant to your query.\n\n---\n\n### 1. The Best Workflow Methods\n\nThere are two primary ways to approach this:\n*   **Method A: Direct Automation (Full VODs).** Automatically sending your full Twitch VOD directly to YouTube as soon as a stream ends. Best for archival channels.\n*   **Method B: Repurposed Highlights (Shorts/TikToks/Reels).** Pulling clips from your VODs and turning them into vertical shorts for YouTube Shorts. This is currently the highest-growth strategy for Indian creators due to the massive reach of YouTube",
+              "thoughtSignature": "Eo4BCosBAWkUfRM/dAauKwKI3KfZzyqNaqmpcVnw1hxsaVzAl/F6Iu3Jka754TxTxRWLqVy78TeBelIlGGZOnWOA6Klfrs8mv/98sHWo/mMOw4NCDoGM7ZFN4Iv2no+QVMoLPDtkdKSrhuXCzuotzHjSZKS7MXr+Xf+J/KHqnkLMxLjsUNeyrAF2iQrcdM53KQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 211,
+      "totalTokenCount": 279,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "r0ADa9S9HpGL694PkJ7lgQw"
+  },
+  "latency_ms": 2520,
+  "cost_usd": 0.0002
+}

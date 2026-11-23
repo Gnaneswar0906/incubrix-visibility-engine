@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## What\u202fis\u202f**text\u2011based video editing**",
+  "raw_payload": {
+    "id": "chatcmpl-14811fb5-3631-46b7-8e48-ab1fee29b94d",
+    "object": "chat.completion",
+    "created": 1795375142,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## What\u202fis\u202f**text\u2011based video editing**",
+          "reasoning": "We need to answer query: \"what is text based video editing\". Provide explanation, recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator in India (IN). Provide recommendations relevant to that region perhaps. Need to cite sources with URLs. Ensure we comply with policy: no disallowed content. It's fine. Provide citations. Use markdown. Provide step-by-step workflow. Mention open-source alternatives. Provide tips for Indian creators (language support, pricing, etc). Provide citations. Use proper formatting."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156617435,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005471084,
+      "completion_tokens": 150,
+      "completion_time": 0.314999353,
+      "total_tokens": 285,
+      "total_time": 0.320470437,
+      "completion_tokens_details": {
+        "reasoning_tokens": 130
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b55aveacr77rt8hw0ka9y",
+      "seed": 322070506
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2772,
+  "cost_usd": 0.0002
+}

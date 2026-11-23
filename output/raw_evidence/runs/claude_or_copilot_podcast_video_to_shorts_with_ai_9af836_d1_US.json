@@ -1,0 +1,46 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast video to shorts with ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer the query: \"podcast video to shorts with ai\". The user is a content creator in US. They want recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nInterpr",
+      "cost_usd": 0.0002,
+      "latency_ms": 1367,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_claude_or_copilot_podcast_video_to_shorts_with_ai_9af836_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast video to shorts with ai' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 322
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_video_to_shorts_with_ai_9af836_d1_US.json"
+}

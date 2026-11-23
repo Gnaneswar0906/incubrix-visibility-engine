@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for audio",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in the UK (GB), automating your subtitle workflow is one of the best ways to boost accessibility, viewer retention, and algorithmic reach across platforms like TikTok, Instagram Reels, YouTube Shorts, and long-form YouTube. \n\nHere is a comprehensive guide to the bes",
+      "cost_usd": 0.0002,
+      "latency_ms": 3026,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_for_audio_22d49e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in the UK (GB) looking to auto-generate subtitles for audio and video, the market offers a range of tools tailored for different workflows\u2014from quick, trendy social media clips to deep, text-based video editing. \n\nHere is a breakdown of the best software tools, industry o",
+      "cost_usd": 0.0002,
+      "latency_ms": 3433,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_for_audio_22d49e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_subtitles_for_audio_22d49e_d1_GB.json"
+}

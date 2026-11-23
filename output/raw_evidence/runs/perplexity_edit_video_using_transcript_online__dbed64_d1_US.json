@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 383
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 487
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_edit_video_using_transcript_online__dbed64_d1_US.json"
+}

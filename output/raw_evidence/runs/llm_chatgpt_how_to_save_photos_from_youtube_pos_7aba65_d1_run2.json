@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to save photos from youtube posts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations on how to save photos from YouTube posts, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India. We should be mindful of policies: providing instructions on downloading content from YouTube may be copyrighted. However, the user asks \"how to save photos from youtube posts\". This is about extracting thumbnails or frames from videos, which may be permissible for personal use or fair use. We need to ensure we comply with policy: we can provide instructions for extracting thumbnails via legitimate means (e.g., YouTube API,",
+  "raw_payload": {
+    "id": "chatcmpl-f1fbf17a-8fca-44c1-afaf-7e6edf08cdcb",
+    "object": "chat.completion",
+    "created": 1795375310,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations on how to save photos from YouTube posts, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India. We should be mindful of policies: providing instructions on downloading content from YouTube may be copyrighted. However, the user asks \"how to save photos from youtube posts\". This is about extracting thumbnails or frames from videos, which may be permissible for personal use or fair use. We need to ensure we comply with policy: we can provide instructions for extracting thumbnails via legitimate means (e.g., YouTube API,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368446552,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007489497,
+      "completion_tokens": 150,
+      "completion_time": 0.312195301,
+      "total_tokens": 286,
+      "total_time": 0.319684798,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82ba8see958d3qw6k310w2w",
+      "seed": 1773784308
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2770,
+  "cost_usd": 0.0002
+}

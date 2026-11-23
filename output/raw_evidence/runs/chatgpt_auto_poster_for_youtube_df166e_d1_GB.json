@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for auto poster for YouTube. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Should be helpful",
+      "cost_usd": 0.0002,
+      "latency_ms": 2385,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_poster_for_youtube_df166e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Posting for YouTube \u2013 A Practical Toolkit for a UK Creator  \n\nBelow is a **",
+      "cost_usd": 0.0002,
+      "latency_ms": 2697,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_poster_for_youtube_df166e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_poster_for_youtube_df166e_d1_GB.json"
+}

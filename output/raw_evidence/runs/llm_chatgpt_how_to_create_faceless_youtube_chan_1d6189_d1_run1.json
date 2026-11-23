@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for creating a faceless YouTube channel using AI for free. Include best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is allowed. Provide citations with URLs. Use markdown. Provide step-by-step workflow, free tiers, alternatives. Provide tips for content creation, voice generation, script writing, video editing, thumbnail creation, SEO. Provide Indian context maybe mention local resources.\n\nWe must not claim to have browsing ability; we can cite known sources. Provide citations in footnote style",
+  "raw_payload": {
+    "id": "chatcmpl-bb7873c8-fa7b-494f-ba58-82898d503e4c",
+    "object": "chat.completion",
+    "created": 1795375395,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for creating a faceless YouTube channel using AI for free. Include best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is allowed. Provide citations with URLs. Use markdown. Provide step-by-step workflow, free tiers, alternatives. Provide tips for content creation, voice generation, script writing, video editing, thumbnail creation, SEO. Provide Indian context maybe mention local resources.\n\nWe must not claim to have browsing ability; we can cite known sources. Provide citations in footnote style"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052957899,
+      "prompt_tokens": 140,
+      "prompt_time": 0.006032821,
+      "completion_tokens": 150,
+      "completion_time": 0.31821133,
+      "total_tokens": 290,
+      "total_time": 0.324244151,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4be3b0989",
+    "x_groq": {
+      "id": "req_01m82bcvx3evetjx076qq4gw9n",
+      "seed": 1992999694
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2321,
+  "cost_usd": 0.0002
+}

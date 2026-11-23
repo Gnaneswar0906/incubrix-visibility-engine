@@ -1,0 +1,93 @@
+{
+  "query": "auto upload youtube shorts free",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.opus.pro/tools/youtube-shorts-maker",
+  "competitors_named": "Descript, Opus Clip",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto upload youtube shorts free",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "YouTube Shorts Maker - Create Shorts Free with AI",
+        "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a youtube-shorts-maker",
+        "snippet": "Turn any video into YouTube Shorts instantly using our free AI tool. Try it now and get shorts in minutes, no credit card required.",
+        "position": 1
+      },
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description ...",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 2
+      },
+      {
+        "title": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos into Viral Clips",
+        "link": "https://www.choppity.com/tools/free-ai-clip-maker/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-ai-clip-maker",
+        "snippet": "Choppity is a long video to short video AI tool: paste a link or upload a file, and it turns long-form content into short clips automatically. It works for ...",
+        "position": 3
+      },
+      {
+        "title": "Free AI YouTube Shorts Maker \u2013 10 Shorts in 1 Click",
+        "link": "https://vizard.ai/tools/youtube-video-editor/youtube-shorts-maker",
+        "displayedLink": "https://vizard.ai \u203a tools \u203a youtube-video-editor \u203a youtube-shorts-maker",
+        "snippet": "Turn long videos into viral YouTube Shorts with AI in one click. Auto clipping, captions & 9:16 resizing. Free, no credit card required.",
+        "position": 4
+      },
+      {
+        "title": "AI YouTube Shorts Maker",
+        "link": "https://www.canva.com/features/ai-shorts-maker/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a ai-shorts-maker",
+        "snippet": "Free AI Shorts Maker. Create engaging, high-quality short-form videos in just a few seconds with Canva's AI YouTube Shorts maker.",
+        "position": 5
+      },
+      {
+        "title": "Auto Upload Videos and Shorts to YouTube",
+        "link": "https://dlvrit.com/youtube-auto-upload/",
+        "displayedLink": "https://dlvrit.com \u203a youtube-auto-upload",
+        "snippet": "Auto post videos and shorts to your YouTube channel. Post videos on Instagram, Facebook, or Tiktok and automatically share them to YouTube.",
+        "position": 6
+      },
+      {
+        "title": "AutoShorts.ai | #1 Faceless Video Generator for TikTok & YouTube",
+        "link": "https://autoshorts.ai/",
+        "displayedLink": "https://autoshorts.ai",
+        "snippet": "Our powerful AI video creation platform allows you to fully automate a faceless channel. Get views and grow while you sleep. Try AutoShorts.ai for Free.",
+        "position": 7
+      },
+      {
+        "title": "How to Auto-Post YouTube Shorts via API (with Scheduling)",
+        "link": "https://www.upload-post.com/how-to/auto-post-youtube-shorts/",
+        "displayedLink": "https://www.upload-post.com \u203a how-to \u203a auto-post-youtube-shorts",
+        "snippet": "Is there a free tier? Yes. Upload-Post includes a free plan with 10 uploads per month, and all features (scheduling, queue, cross-posting, YouTube-specific ...",
+        "position": 8
+      },
+      {
+        "title": "Automatically Edit & Upload Clips to Tiktok / Youtube Shorts for Free",
+        "link": "https://www.reddit.com/r/Twitch/comments/r01h9n/automatically_edit_upload_clips_to_tiktok_youtube/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a automatically_edit_upload_c...",
+        "snippet": "TL;DR: Clipbot.tv grabs all your clips from Twitch, converts them to vertical videos, and uploads them to Tiktok/Youtube for you. It's free for ...",
+        "position": 9
+      },
+      {
+        "title": "Automatically upload youtube shorts for free?",
+        "link": "https://www.facebook.com/groups/868876935222403/posts/1281299810646778/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 1281299810646778",
+        "snippet": "The video introduces 'AutoShorts' as a free, local alternative to paid AI clipping services like Opus Clip. The speaker explains that the ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

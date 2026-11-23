@@ -1,0 +1,34 @@
+{
+  "assistant": "perplexity",
+  "question": "faceless youtube channel ai voice",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'faceless youtube channel ai voice' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 353
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'faceless youtube channel ai voice' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 461
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_faceless_youtube_channel_ai_voice_cc107c_d2_US.json"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as ChatGPT, providing recommendations for best AI apps for faceless YouTube channel. Must mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note the user is a content creator ",
+      "cost_usd": 0.0002,
+      "latency_ms": 4147,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3416,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d1_GB.json"
+}

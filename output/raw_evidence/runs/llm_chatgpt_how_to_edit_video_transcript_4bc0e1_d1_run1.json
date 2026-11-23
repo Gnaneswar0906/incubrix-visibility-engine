@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and polish. Editing video transcripts is a game-changer because it allows you to edit video by editing text, remove filler words instantly, and improve accessibility.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options to streamline your transcript editing process.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (The Industry Leader for Transcript-First Editing)\nDescript is widely considered the gold standard for transcript-based video editing. It treats your video like a text document.\n- **Key Features:**\n  - **Overdub:** Clone your voice to fix mistakes or record new lines without re",
+  "raw_payload": {
+    "id": "chatcmpl-5558c52c-415a-40be-a2e2-38c12f1f7ee0",
+    "object": "chat.completion",
+    "created": 1795374610,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and polish. Editing video transcripts is a game-changer because it allows you to edit video by editing text, remove filler words instantly, and improve accessibility.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options to streamline your transcript editing process.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (The Industry Leader for Transcript-First Editing)\nDescript is widely considered the gold standard for transcript-based video editing. It treats your video like a text document.\n- **Key Features:**\n  - **Overdub:** Clone your voice to fix mistakes or record new lines without re"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046758084,
+      "prompt_tokens": 77,
+      "prompt_time": 0.006810795,
+      "completion_tokens": 150,
+      "completion_time": 0.304369346,
+      "total_tokens": 227,
+      "total_time": 0.311180141
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82amxxgemnbr89ns23dm9se",
+      "seed": 2036333585
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3204,
+  "cost_usd": 0.0002
+}

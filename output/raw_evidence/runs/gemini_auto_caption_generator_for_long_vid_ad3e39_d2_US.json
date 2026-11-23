@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the U.S. working with long-form videos (like YouTube long-form, podcasts, or webinars), generating auto-captions efficiently\u2014and ideally for free or on a budget\u2014requires a tool that balances speed, editing ease, and export flexibility. \n\nBelow is a breakdown of the best softw",
+      "cost_usd": 0.0002,
+      "latency_ms": 8486,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_long_vid_ad3e39_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the U.S. working with long-form videos (such as YouTube videos, podcasts, or webinars), generating accurate, engaging",
+      "cost_usd": 0.0002,
+      "latency_ms": 2546,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_long_vid_ad3e39_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_long_vid_ad3e39_d2_US.json"
+}

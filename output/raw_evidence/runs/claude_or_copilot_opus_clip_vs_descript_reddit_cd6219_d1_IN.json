@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "opus clip vs descript reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'opus clip vs descript reddit' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 341
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip vs descript reddit' in IN, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 442
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_opus_clip_vs_descript_reddit_cd6219_d1_IN.json"
+}

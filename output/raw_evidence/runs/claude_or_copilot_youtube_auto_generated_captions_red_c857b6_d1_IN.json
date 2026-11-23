@@ -1,0 +1,38 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'youtube auto generated captions reddit' in IN, popular recommendations include Opus Clip, Munch, Klap. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 475
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'youtube auto generated captions reddit' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 377
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_youtube_auto_generated_captions_red_c857b6_d1_IN.json"
+}

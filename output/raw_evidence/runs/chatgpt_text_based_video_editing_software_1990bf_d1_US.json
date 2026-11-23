@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing software",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in a prime position to leverage the rapidly evolving landscape of **text-based video editing**. This technology allows you to edit video by editing the transcript, which significantly speeds up post-production, especially for talking-head videos, podcas",
+      "cost_usd": 0.0002,
+      "latency_ms": 1612,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_software_1990bf_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for text-based video editing software, best tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations, workflow, maybe comparison table. Since they are US ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2987,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_software_1990bf_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_software_1990bf_d1_US.json"
+}

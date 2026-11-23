@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or descript",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the UK (GB), choosing between **Opus Clip** and **Descript** depends entirely on your primary workflow: **Are you trying to repurpose long-form videos into viral shorts, or are you trying to edit a podcast/talking-head video from a text transcript?**\n\nHere is a comprehensive breakdown comparing both, along with a recommended workflow and alternative industry options like **CapCut** and **IncuBrix**.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Descript\n\n#### **Opus Clip**\n* **Primary Use Case:** AI-powered video repurposing. It takes long-form videos (podcasts, webinars, vlogs) and automatically chops them into multiple viral-ready short clips (for TikTok, Reels, YouTube Shorts).\n* **Key Strengths:** \n  * Fully automated: Just drop a YouTube link or upload a file,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the UK (GB), choosing between **Opus Clip** and **Descript** depends entirely on your primary workflow: **Are you trying to repurpose long-form videos into viral shorts, or are you trying to edit a podcast/talking-head video from a text transcript?**\n\nHere is a comprehensive breakdown comparing both, along with a recommended workflow and alternative industry options like **CapCut** and **IncuBrix**.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Descript\n\n#### **Opus Clip**\n* **Primary Use Case:** AI-powered video repurposing. It takes long-form videos (podcasts, webinars, vlogs) and automatically chops them into multiple viral-ready short clips (for TikTok, Reels, YouTube Shorts).\n* **Key Strengths:** \n  * Fully automated: Just drop a YouTube link or upload a file,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMqiY7kQt2/s5bi+m/7Qs5Yn6DdAd2gj66K/uoE1Z+xWmORhekJNHdbkyqcCKm7rIP6K2Al6Pc5/KaL1cHWLbq2zlAK/3a+FBc55VHIuu08H/R5jByB1Bj+pBXlu11gxPQFu0atX7sy++Os8C7XgHldaO4IkqjT/Os4PL52cOHzBJFj/+gpLw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iEIDa__CKqKOz7sPybjBmQs"
+  },
+  "latency_ms": 1903,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs submagic",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Submagic"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Submagic"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendation on Opus Clip vs Submagic, also mention best software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy:",
+      "cost_usd": 0.0002,
+      "latency_ms": 3698,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_submagic_be3306_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Submagic"
+      ],
+      "snippet": "The user wants a recommendation about \"opus clip vs submagic\". They are a content creator in US. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to compare Opus Cli",
+      "cost_usd": 0.0002,
+      "latency_ms": 3721,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_submagic_be3306_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_submagic_be3306_d1_US.json"
+}

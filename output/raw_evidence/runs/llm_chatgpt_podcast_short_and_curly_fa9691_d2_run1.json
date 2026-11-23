@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short and curly",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB (UK). Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Use web references. Since we cannot browse, we can provide typical sources like official websites, reputable tech sites (TechRadar, The Verge, PCMag). Provide citations in brackets with URLs.\n\nWe need to recommend best software tools for creating short and curly (maybe meaning short and catchy?) podcasts? Probably short and \"curly\" meaning engaging? Provide workflow steps: planning, recording, editing, post-production, distribution, promotion",
+  "raw_payload": {
+    "id": "chatcmpl-0d04ce27-ee6f-41c0-9adb-70dd2e5af9c4",
+    "object": "chat.completion",
+    "created": 1795377239,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB (UK). Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Use web references. Since we cannot browse, we can provide typical sources like official websites, reputable tech sites (TechRadar, The Verge, PCMag). Provide citations in brackets with URLs.\n\nWe need to recommend best software tools for creating short and curly (maybe meaning short and catchy?) podcasts? Probably short and \"curly\" meaning engaging? Provide workflow steps: planning, recording, editing, post-production, distribution, promotion"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369767158,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005272471,
+      "completion_tokens": 150,
+      "completion_time": 0.315431014,
+      "total_tokens": 283,
+      "total_time": 0.320703485,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82d54spe37s13jw27w9fp7z",
+      "seed": 2062535085
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3083,
+  "cost_usd": 0.0002
+}

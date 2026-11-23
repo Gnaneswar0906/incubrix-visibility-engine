@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short form",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating short-form video content from long-form podcasts is one of the most effective growth strategies for content creators in 2024 and beyond. The key is not just cutting clips, but **repurposing** audio into engaging, visually dynamic short videos optimized for TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for podcast short-form content, tailored for a GB-based creator.\n\n### \ud83c\udfaf Top Software Tools for Podcast Short-Form\n\n#### 1. AI-Powered Clip Generators (Best for Speed & Scale)\nThese tools use AI to identify \"viral moments\" in your podcast, add captions, and reframe the video.",
+  "raw_payload": {
+    "id": "chatcmpl-f6facd9a-6c2d-4f00-9c97-6a35743ef8ea",
+    "object": "chat.completion",
+    "created": 1795377248,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating short-form video content from long-form podcasts is one of the most effective growth strategies for content creators in 2024 and beyond. The key is not just cutting clips, but **repurposing** audio into engaging, visually dynamic short videos optimized for TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for podcast short-form content, tailored for a GB-based creator.\n\n### \ud83c\udfaf Top Software Tools for Podcast Short-Form\n\n#### 1. AI-Powered Clip Generators (Best for Speed & Scale)\nThese tools use AI to identify \"viral moments\" in your podcast, add captions, and reframe the video."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051395913,
+      "prompt_tokens": 75,
+      "prompt_time": 0.004908036,
+      "completion_tokens": 150,
+      "completion_time": 0.306099768,
+      "total_tokens": 225,
+      "total_time": 0.311007804
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d5dxqepb89a38d3jxbv5s",
+      "seed": 353640345
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2315,
+  "cost_usd": 0.0002
+}

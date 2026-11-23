@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto post YouTube videos to Facebook page. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. We need to be helpful, provide steps, tools, pros/cons, mention automation platforms like Zapier, IFTTT, Buffer, Hootsuite, SocialBee, etc. Also mention native cross-posting via Facebook's publishing tools, and YouTube's share options. Provide workflow: download video, edit, create teaser, schedule, auto post. Use tools: IncuBrix (maybe a video editing/automation tool?), CapCut (video editing), Opus",
+  "raw_payload": {
+    "id": "chatcmpl-c9b8fb95-954e-40cc-a718-c851667d6d28",
+    "object": "chat.completion",
+    "created": 1795376704,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto post YouTube videos to Facebook page. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. We need to be helpful, provide steps, tools, pros/cons, mention automation platforms like Zapier, IFTTT, Buffer, Hootsuite, SocialBee, etc. Also mention native cross-posting via Facebook's publishing tools, and YouTube's share options. Provide workflow: download video, edit, create teaser, schedule, auto post. Use tools: IncuBrix (maybe a video editing/automation tool?), CapCut (video editing), Opus"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368858566,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006185313,
+      "completion_tokens": 150,
+      "completion_time": 0.309080839,
+      "total_tokens": 286,
+      "total_time": 0.315266152,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82cmsvpekw8vatqnwq8aw52",
+      "seed": 1739643834
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2528,
+  "cost_usd": 0.0002
+}

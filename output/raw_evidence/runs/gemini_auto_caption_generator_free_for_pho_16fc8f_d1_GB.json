@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in Great Britain (GB), finding the right auto-caption generator for *photos* (or text-on-image/carousel content) requires tools that excel in graphic design, typography automation, and AI-driven layout. \n\nWhile tools like Opus Clip and Descript are indust",
+      "cost_usd": 0.0002,
+      "latency_ms": 2873,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_free_for_pho_16fc8f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator free for photo' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 332
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_free_for_pho_16fc8f_d1_GB.json"
+}

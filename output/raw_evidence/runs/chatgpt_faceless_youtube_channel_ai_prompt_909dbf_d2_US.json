@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Below is a **step\u2011by\u2011step workflow** that many successful faceless\u2011YouTube creators use today, together with the **best AI\u2011powered tools** for each stage.  \nI\u2019ve highlighted the most popular options (including the ones you mentioned) and added a few \u201cmust\u2011have\u201d alternatives that consistently rank hi",
+      "cost_usd": 0.0002,
+      "latency_ms": 3397,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Creating a successful faceless YouTube channel in 2024 and beyond relies heavily on leveraging AI to streamline production while maintaining high-quality engagement. Since you are based in the US, you have access to the full suite of leading commercial AI tools.\n\nBelow is a curated guide to the best",
+      "cost_usd": 0.0002,
+      "latency_ms": 1759,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d2_US.json"
+}

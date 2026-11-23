@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. Provide recommendations for auto caption generator for video Bangla. Mention software tools, workflow, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe should provide list of tools that support Bangla (Bengali) auto captioning, like YouTube automatic captions, Google Cloud Speech-to-Text, IBM Watson, Rev.com, Kapwing, VEED.io, Subtitle Edit, Amara, Otter.ai, Sonix, Temi, etc. Also mention CapCut's auto subtitle feature, Opus Clip's AI summarization and caption",
+  "raw_payload": {
+    "id": "chatcmpl-ea43921d-8449-4c49-a358-c223def9580e",
+    "object": "chat.completion",
+    "created": 1795376640,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. Provide recommendations for auto caption generator for video Bangla. Mention software tools, workflow, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe should provide list of tools that support Bangla (Bengali) auto captioning, like YouTube automatic captions, Google Cloud Speech-to-Text, IBM Watson, Rev.com, Kapwing, VEED.io, Subtitle Edit, Amara, Otter.ai, Sonix, Temi, etc. Also mention CapCut's auto subtitle feature, Opus Clip's AI summarization and caption"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318256169,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00625577,
+      "completion_tokens": 150,
+      "completion_time": 0.31623659,
+      "total_tokens": 286,
+      "total_time": 0.32249236,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82cjvjhe8gsk32g287852vs",
+      "seed": 1426459061
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1929,
+  "cost_usd": 0.0002
+}

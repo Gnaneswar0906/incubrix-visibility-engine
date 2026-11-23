@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants recommendations for auto caption generator for video Telugu. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe",
+      "cost_usd": 0.0002,
+      "latency_ms": 2992,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_te_be42ec_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Captioning for Telugu Video \u2013 Tools, Workflow & Tips  \n\nBelow is a practical, step\u2011by\u2011step workflow you",
+      "cost_usd": 0.0002,
+      "latency_ms": 4241,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_te_be42ec_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_te_be42ec_d1_IN.json"
+}

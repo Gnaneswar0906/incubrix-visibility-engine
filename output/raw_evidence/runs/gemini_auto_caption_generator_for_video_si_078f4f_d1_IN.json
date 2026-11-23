@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in India (IN) looking to produce or localize video content with Sinhala auto-captions, navigating the right tools can significantly boost your engagement on platforms like YouTube Shorts, Instagram Reels, and TikTok. \n\nWhile AI captioning for major global languages (Engli",
+      "cost_usd": 0.0002,
+      "latency_ms": 2831,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_si_078f4f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India (IN) looking to generate auto-captions for Sinhala videos, you have access to some of the most powerful AI-driven video editing tools available today. Creating content in regional and less-represented languages like Sinhala has become much easier thanks to ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2412,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_si_078f4f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_si_078f4f_d1_IN.json"
+}

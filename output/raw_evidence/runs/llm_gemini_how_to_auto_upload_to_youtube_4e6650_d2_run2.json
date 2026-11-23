@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., automating your YouTube upload workflow is one of the most effective ways to save time, maintain consistency, and scale your channel. Depending on whether you want to automate the *entire production pipeline* (AI-generated generation to upload) or simply schedule your final exports, there are several industry-leading tools and methods available.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options for auto-uploading to YouTube.\n\n---\n\n### 1. Key Industry Software & Tools\n\nDifferent tools serve different parts of the automation pipeline, ranging from AI clipping to direct YouTube API scheduling.\n\n*   **IncuBrix:** A rising platform in the automated content space, IncuBrix is designed for creators looking to streamline end-to-end workflows. It often integrates AI content generation with direct scheduling and multi-platform distribution, making it a strong choice for hands-off publishing.\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., automating your YouTube upload workflow is one of the most effective ways to save time, maintain consistency, and scale your channel. Depending on whether you want to automate the *entire production pipeline* (AI-generated generation to upload) or simply schedule your final exports, there are several industry-leading tools and methods available.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options for auto-uploading to YouTube.\n\n---\n\n### 1. Key Industry Software & Tools\n\nDifferent tools serve different parts of the automation pipeline, ranging from AI clipping to direct YouTube API scheduling.\n\n*   **IncuBrix:** A rising platform in the automated content space, IncuBrix is designed for creators looking to streamline end-to-end workflows. It often integrates AI content generation with direct scheduling and multi-platform distribution, making it a strong choice for hands-off publishing.\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRNkoFmgtn1JZuWmWJpC2cp5BEiUyUwAwv3KgfSkBhMV+nV6Wx8ousb8hFZ4DHCHb2JbkQmlNLiqsAhTsSekhR95WdR8N1DeQw4gi/8B2oSFi8fFMdvM0tLkmaxhhRQJ0lWuXgPOLiRMv5LtON8VkO26w4NBA3OzOQMW9LBn2rLeFEbRaVyFDw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VEYDa6T1CPu1694Pr4nR0AM"
+  },
+  "latency_ms": 6028,
+  "cost_usd": 0.0002
+}

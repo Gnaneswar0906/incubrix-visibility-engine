@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for automatically posting YouTube videos to a Discord server. They also want best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer as an AI assistant. Provide tools: Discord webhooks, IFTTT, Zapier, Make (Integromat), Pipedream, YouTube API, bots like MEE6, Dyno, Carl-bot, etc. Also mention video editing tools (IncuBrix, CapCut, Opus Clip, Descript) for preparing clips before posting. Provide workflow: monitor channel, fetch new video, optionally extract short",
+  "raw_payload": {
+    "id": "chatcmpl-595494c0-a364-4fe3-b2f8-6f5309329e7f",
+    "object": "chat.completion",
+    "created": 1795375726,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for automatically posting YouTube videos to a Discord server. They also want best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer as an AI assistant. Provide tools: Discord webhooks, IFTTT, Zapier, Make (Integromat), Pipedream, YouTube API, bots like MEE6, Dyno, Carl-bot, etc. Also mention video editing tools (IncuBrix, CapCut, Opus Clip, Descript) for preparing clips before posting. Provide workflow: monitor channel, fetch new video, optionally extract short"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317250243,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005863724,
+      "completion_tokens": 150,
+      "completion_time": 0.310622727,
+      "total_tokens": 286,
+      "total_time": 0.316486451,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82bpzj0e1hs5t9q68nvzp9s",
+      "seed": 1522293723
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2673,
+  "cost_usd": 0.0002
+}

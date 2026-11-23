@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs opus pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"opus clip vs opus pro\" presumably comparing two software tools: Opus Clip and Opus Pro. Provide recommendation for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. The content creator is located in GB. So maybe mention UK-based tools or compliance with GDPR. Provide recommendation for best software tools, workflow methods, mention key industry options. Provide citations. Need to search web? As ChatGPT offline, but we can provide references to known sources. We can cite from websites like TechRadar, PCMag, etc. Provide links. Provide comparison table. Provide workflow suggestions.\n\nWe",
+  "raw_payload": {
+    "id": "chatcmpl-fdb91582-f0e7-41ea-9464-bedbe55504a2",
+    "object": "chat.completion",
+    "created": 1795377601,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"opus clip vs opus pro\" presumably comparing two software tools: Opus Clip and Opus Pro. Provide recommendation for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. The content creator is located in GB. So maybe mention UK-based tools or compliance with GDPR. Provide recommendation for best software tools, workflow methods, mention key industry options. Provide citations. Need to search web? As ChatGPT offline, but we can provide references to known sources. We can cite from websites like TechRadar, PCMag, etc. Provide links. Provide comparison table. Provide workflow suggestions.\n\nWe"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154137021,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006500689,
+      "completion_tokens": 150,
+      "completion_time": 0.154478412,
+      "total_tokens": 284,
+      "total_time": 0.160979101,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82dg67dekvrj5g93dntwb91",
+      "seed": 123840370
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4898,
+  "cost_usd": 0.0002
+}

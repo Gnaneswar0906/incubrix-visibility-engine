@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=AI+video+repurposing+free",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "AI video repurposing free",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:06:02.899138Z",
+  "extracted_count": 2,
+  "suggestions": [
+    "ai powered video repurposing free",
+    "video repurposing ai free"
+  ],
+  "raw_response": "[\"AI video repurposing free\",[\"ai powered video repurposing free\",\"video repurposing ai free\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30]]}]"
+}

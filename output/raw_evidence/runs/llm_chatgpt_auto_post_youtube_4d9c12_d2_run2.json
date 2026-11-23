@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for auto posting to YouTube, software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. No disallowed content. Provide citations with URLs. Provide structured answer.\n\nWe should note that IncuBrix is not well known; maybe it's a tool. Provide overview.\n\nWe need to ensure we don't make up sources. We can reference known sources: YouTube API docs, Zapier, Hootsuite, Buffer, TubeBuddy, VidIQ, Later, SocialBee, etc. Provide workflow steps: content creation, editing, thumbnail generation, scheduling",
+  "raw_payload": {
+    "id": "chatcmpl-63900bca-00cc-4183-95d6-6543aecdc1de",
+    "object": "chat.completion",
+    "created": 1795376697,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto posting to YouTube, software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. No disallowed content. Provide citations with URLs. Provide structured answer.\n\nWe should note that IncuBrix is not well known; maybe it's a tool. Provide overview.\n\nWe need to ensure we don't make up sources. We can reference known sources: YouTube API docs, Zapier, Hootsuite, Buffer, TubeBuddy, VidIQ, Later, SocialBee, etc. Provide workflow steps: content creation, editing, thumbnail generation, scheduling"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.160051228,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005017202,
+      "completion_tokens": 150,
+      "completion_time": 0.314292856,
+      "total_tokens": 282,
+      "total_time": 0.319310058,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cmkgxe3a86a7p4hr0c0cq",
+      "seed": 1377188292
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2786,
+  "cost_usd": 0.0002
+}

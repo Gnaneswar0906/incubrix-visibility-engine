@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "opus game review",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'opus game review' in IN, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 358
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI content creator based in **India (IN)**, reviewing or discussing **\"Opus Clip\"** (often associated with \"Opus Clip\" or broader \"Opus\" AI video tools) requires a modern, AI-driven workflow. Because your audience consumes a mix of global content and localized regional formats (YouTube Shorts,",
+      "cost_usd": 0.0002,
+      "latency_ms": 2091,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_game_review_fb6d74_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_game_review_fb6d74_d1_IN.json"
+}

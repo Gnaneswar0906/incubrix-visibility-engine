@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Opus\u202fClip vs DaVinci\u202fResolve \u2013 Which Is Right for Your GB\u2011Based Content Studio?  \n\n| Feature | **Opus\u202fClip",
+  "raw_payload": {
+    "id": "chatcmpl-edd5e936-4556-428a-8b32-57e3be536c27",
+    "object": "chat.completion",
+    "created": 1795375745,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Opus\u202fClip vs DaVinci\u202fResolve \u2013 Which Is Right for Your GB\u2011Based Content Studio?  \n\n| Feature | **Opus\u202fClip",
+          "reasoning": "The user wants a recommendation for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide comparison between Opus Clip vs DaVinci Resolve. Also mention best workflow. Cite authoritative web sources if available. Must be appropriate for a content creator in GB. Provide citations with URLs. Should be thorough. Use markdown. Provide pros/cons, use cases, cost, etc. Provide workflow steps. Provide citations. Ensure no disallowed content. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154496931,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006434149,
+      "completion_tokens": 150,
+      "completion_time": 0.307863324,
+      "total_tokens": 285,
+      "total_time": 0.314297473,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82bqj25e2rt1mqx6ak1m0t6",
+      "seed": 1488079810
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3362,
+  "cost_usd": 0.0002
+}

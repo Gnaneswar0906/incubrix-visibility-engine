@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short and curly",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in the UK, you are in a prime position to leverage the current boom in short-form video content. \"Short and curly\" is a great mnemonic for the two dominant formats: **Shorts** (vertical video for YouTube/TikTok/Reels) and **Curly** (a colloquial term often used in e",
+      "cost_usd": 0.0002,
+      "latency_ms": 1298,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_short_and_curly_fa9691_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3207,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_short_and_curly_fa9691_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_short_and_curly_fa9691_d1_GB.json"
+}

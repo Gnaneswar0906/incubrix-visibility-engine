@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your video editing workflow, auto-generating captions for a YouTube Premiere, TikTok, or Instagram Reel is one of the highest-return tasks you can automate. \n\nBelow is a comprehensive guide covering the best software tools, workflow methods, and key industry options\u2014including the ones you mentioned\u2014tailored for Adobe Premiere Pro users.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to do everything natively inside Premiere Pro or leverage AI-driven external platforms for stylized, viral-ready captions, here are the top tools available:\n\n#### A. Adobe Premiere Pro (Native Speech-to-Text)\n*   **Best For:** Professional workflows, long-form content, and precise timeline editing.\n*   **How it works:** Premiere Pro uses a powerful on-device AI speech-to-text engine. It transcribes audio into a transcript panel, allows you to edit",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your video editing workflow, auto-generating captions for a YouTube Premiere, TikTok, or Instagram Reel is one of the highest-return tasks you can automate. \n\nBelow is a comprehensive guide covering the best software tools, workflow methods, and key industry options\u2014including the ones you mentioned\u2014tailored for Adobe Premiere Pro users.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to do everything natively inside Premiere Pro or leverage AI-driven external platforms for stylized, viral-ready captions, here are the top tools available:\n\n#### A. Adobe Premiere Pro (Native Speech-to-Text)\n*   **Best For:** Professional workflows, long-form content, and precise timeline editing.\n*   **How it works:** Premiere Pro uses a powerful on-device AI speech-to-text engine. It transcribes audio into a transcript panel, allows you to edit",
+              "thoughtSignature": "Eo4BCosBAWkUfROpkOoLYaItJWoMZI+451pr77aoRT1h5OS2bu9ydiGa5wFDwQSCq32Ijgr6LdsNJ17FFcXcQf4dHcYVwiSTHRF1K7EEqU6jBepBSw8BzVbfdEXbJt3Q1Cag7Fhqt9Q7xJrE5D5sZ6sxyvR/YY0Zq5yyjFdbQKXexWVl7DKNJdCCUAH1FbUnIw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XT4Da6rxOOrLv_gPzfn1mA8"
+  },
+  "latency_ms": 2473,
+  "cost_usd": 0.0002
+}

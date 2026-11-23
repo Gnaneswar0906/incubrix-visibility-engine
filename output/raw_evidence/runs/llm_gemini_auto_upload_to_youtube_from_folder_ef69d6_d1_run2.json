@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to automate the process of uploading videos from a local computer folder directly to YouTube, the optimal approach combines **local folder monitoring** with **cloud-based AI editing and scheduling tools**. \n\nManually exporting a video from an editor, opening YouTube Studio, writing metadata, and hitting publish is a major bottleneck. Setting up an auto-upload workflow saves hours of repetitive administrative work.\n\nHere is a breakdown of the best software tools, key industry options, and a recommended workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want a simple \"folder watcher\" or an all-in-one AI repurposing suite that auto-publishes, here are the leading options used by creators today:\n\n*   **IncuBrix:** A robust tool tailored for automated content pipelines. IncuBrix and similar workflow automation platforms allow creators to connect local watch folders or cloud storage (like Google",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to automate the process of uploading videos from a local computer folder directly to YouTube, the optimal approach combines **local folder monitoring** with **cloud-based AI editing and scheduling tools**. \n\nManually exporting a video from an editor, opening YouTube Studio, writing metadata, and hitting publish is a major bottleneck. Setting up an auto-upload workflow saves hours of repetitive administrative work.\n\nHere is a breakdown of the best software tools, key industry options, and a recommended workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want a simple \"folder watcher\" or an all-in-one AI repurposing suite that auto-publishes, here are the leading options used by creators today:\n\n*   **IncuBrix:** A robust tool tailored for automated content pipelines. IncuBrix and similar workflow automation platforms allow creators to connect local watch folders or cloud storage (like Google",
+              "thoughtSignature": "Eo4BCosBAWkUfROC60WVUZaeaM6BkdA6fZpQOZEFamrcvjuMFuKtVIb89YvcAgIYLdVjJh59NHO+WmA+Mp7U37mCxqXgzuzXuXwUrXw2luyiBEpqaDMRJEYiA9kxeUapFAIzA1MhF0xJ4G1ZIEz14VPD1HPN5K8WNDc98hPIEAaxHXF6NFpAr1Dup15wG4HANg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Gz8Da_qPA5vKv_gP6trzoQc"
+  },
+  "latency_ms": 6202,
+  "cost_usd": 0.0002
+}

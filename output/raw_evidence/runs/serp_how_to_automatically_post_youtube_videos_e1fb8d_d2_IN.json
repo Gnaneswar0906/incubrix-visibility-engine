@@ -1,0 +1,87 @@
+{
+  "query": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=W18dmfXfxVk",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to automatically post youtube videos on facebook page",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How to Automatically Share YouTube Videos on a Facebook Page",
+        "link": "https://www.youtube.com/watch?v=W18dmfXfxVk",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Pabbly Connect streamlines this process by automating the sharing of your YouTube videos directly to your Facebook Page, eliminating the need\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "How to Share YouTube Videos on Facebook Page Automatically",
+        "link": "https://www.youtube.com/watch?v=_JY3StRRz_o&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video tutorial, we'll guide you through the process of automatically sharing your YouTube videos on your Facebook Page using Pabbly\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "Post new YouTube videos to Facebook",
+        "link": "https://zapier.com/apps/facebook-pages/integrations/youtube/179/post-new-youtube-videos-to-facebook",
+        "displayedLink": "https://zapier.com \u203a apps \u203a ... \u203a post-new-youtube-videos-to-...",
+        "snippet": "This integration will automatically add YouTube videos to a specified profile page as soon as they are uploaded to YouTube publicly to Facebook.",
+        "position": 3
+      },
+      {
+        "title": "Automatically share your new videos to a Facebook Page",
+        "link": "https://ifttt.com/applets/BaTRwXtr-automatically-share-your-new-videos-to-a-facebook-page",
+        "displayedLink": "https://ifttt.com \u203a applets \u203a BaTRwXtr-automatically-shar...",
+        "snippet": "Automatically share your new videos to a Facebook Page. Create custom workflows effortlessly by selecting triggers, queries, and actions. With IFTTT, it's ...",
+        "position": 4
+      },
+      {
+        "title": "Auto-publish YouTube videos to Facebook & Instagram with AI ...",
+        "link": "https://n8n.io/workflows/4478-auto-publish-youtube-videos-to-facebook-and-instagram-with-ai-generated-captions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 4478-auto-publish-youtube-v...",
+        "snippet": "Automatically turn your YouTube videos into engaging Facebook and Instagram posts with AI-generated captions. This powerful workflow monitors your YouTube.",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 5
+      },
+      {
+        "title": "How to Auto-Share YouTube Videos on Facebook Page Using ...",
+        "link": "https://www.pabbly.com/how-to-auto-share-youtube-videos-on-facebook-page-using-pabbly-connect-2/",
+        "displayedLink": "https://www.pabbly.com \u203a how-to-auto-share-youtube-v...",
+        "snippet": "To begin the process of auto-sharing YouTube videos on your Facebook page, you first need to access Pabbly Connect. Open a new tab and go to the Pabbly website.",
+        "position": 6
+      },
+      {
+        "title": "2026 Guide: How To Share YouTube Videos On Facebook - stepper.io",
+        "link": "https://stepper.io/blog/how-to-share-youtube-videos-on-facebook/",
+        "displayedLink": "https://stepper.io \u203a blog \u203a how-to-share-youtube-videos...",
+        "snippet": "Open the YouTube app and find the video. Tap Share under the video. Choose Facebook from the share sheet. Add your post text, pick the ...",
+        "date": "26 Apr 2026",
+        "position": 7
+      },
+      {
+        "title": "Auto-Post YouTube Videos to Facebook Instantly (Pabbly Connect ...",
+        "link": "https://www.youtube.com/watch?v=q1CPi0zZZMc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, you'll learn how to auto-post your YouTube videos to Facebook instantly using Pabbly Connect.",
+        "position": 8
+      },
+      {
+        "title": "Automatically Post Your YouTube Videos To Facebook",
+        "link": "https://repurpose.io/youtube-facebook/",
+        "displayedLink": "https://repurpose.io \u203a youtube-facebook",
+        "snippet": "Step 1: Connect your YouTube and Facebook accounts (25 seconds) \u00b7 Step 2: Create a workflow to send your YouTube Videos to Facebook (20 seconds) \u00b7 Step 3: Publish ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

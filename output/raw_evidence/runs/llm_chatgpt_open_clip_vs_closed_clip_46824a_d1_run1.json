@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "open clip vs closed clip",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants an answer: \"open clip vs closed clip\" and recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. They are a content creator in GB (Great Britain). Need to explain open clip vs closed clip concept, likely referring to video editing: open clip meaning a clip that can be edited further, open to modifications, maybe open-source? Or \"open clip\" vs \"closed caption\"? Actually \"open clip vs closed clip\" might refer to \"open caption vs closed caption\"? But they wrote clip, not caption. Could be about \"open clip\" (like a clip that is not locked",
+  "raw_payload": {
+    "id": "chatcmpl-fb2baed0-831f-4bfb-b866-f33eeb3a4bc0",
+    "object": "chat.completion",
+    "created": 1795375743,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants an answer: \"open clip vs closed clip\" and recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. They are a content creator in GB (Great Britain). Need to explain open clip vs closed clip concept, likely referring to video editing: open clip meaning a clip that can be edited further, open to modifications, maybe open-source? Or \"open clip\" vs \"closed caption\"? Actually \"open clip vs closed clip\" might refer to \"open caption vs closed caption\"? But they wrote clip, not caption. Could be about \"open clip\" (like a clip that is not locked"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158583322,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005640317,
+      "completion_tokens": 150,
+      "completion_time": 0.309829593,
+      "total_tokens": 284,
+      "total_time": 0.31546991,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82bqgase5p91zrnqr58rzas",
+      "seed": 1089333578
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3915,
+  "cost_usd": 0.0002
+}

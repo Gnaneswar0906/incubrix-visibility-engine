@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=cheapest+opus+clip+alternative",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "cheapest opus clip alternative",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:54:46.998338Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=cheapest+opus+clip+alternative (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd54a65b50>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

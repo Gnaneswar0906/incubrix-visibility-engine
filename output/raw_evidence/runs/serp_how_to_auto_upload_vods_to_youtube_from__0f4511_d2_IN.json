@@ -1,0 +1,102 @@
+{
+  "query": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://help.twitch.tv/s/article/video-on-demand",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to auto upload vods to youtube from twitch",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "searchInformation": {
+      "showingResultsFor": "how to auto upload videos to youtube from twitch"
+    },
+    "organic": [
+      {
+        "title": "On-Demand Content on Twitch",
+        "link": "https://help.twitch.tv/s/article/video-on-demand",
+        "displayedLink": "https://help.twitch.tv \u203a s \u203a article \u203a video-on-demand",
+        "snippet": "Once your accounts are connected, you can use the Export option to upload your videos to YouTube directly from Twitch without having to download them locally.",
+        "position": 1
+      },
+      {
+        "title": "Can I upload directly to Youtube from Twitch?",
+        "link": "https://www.reddit.com/r/Twitch/comments/yltlbl/can_i_upload_directly_to_youtube_from_twitch/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a can_i_upload_directly_to_yo...",
+        "snippet": "Yup. Check the video and there will be an \"export\" function. Ideally make it a habit to export it after 24 hours if being affiliated/partner is ...",
+        "sitelinks": [
+          {
+            "title": "Is there any way to automate the VOD export to YT? : r/Twitch - Redditr/Twitch\u00b710+ comments\u00b74mo",
+            "link": "https://www.reddit.com/r/Twitch/comments/1v2d2ol/is_there_any_way_to_automate_the_vod_export_to_yt/"
+          },
+          {
+            "title": "Is there a way to auto-export my finished twitch stream video into my ...r/Twitch\u00b710+ comments\u00b78y",
+            "link": "https://www.reddit.com/r/Twitch/comments/8ctsud/is_there_a_way_to_autoexport_my_finished_twitch/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "jenslys/autovod: Automatically upload Twitch.tv / Kick.com streams ...",
+        "link": "https://github.com/jenslys/autovod",
+        "displayedLink": "https://github.com \u203a jenslys \u203a autovod",
+        "snippet": "This script automates downloading and uploading Twitch.TV, Kick.com or YouTube Live streams to a selected upload provider.",
+        "position": 3
+      },
+      {
+        "title": "Is there any way to automate the VOD export to YT?",
+        "link": "https://www.reddit.com/r/Twitch/comments/1v2d2ol/is_there_any_way_to_automate_the_vod_export_to_yt/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_any_way_to_automat...",
+        "position": 4
+      },
+      {
+        "title": "How to auto-export Twitch VODs to YouTube",
+        "link": "https://www.facebook.com/groups/2404621386681016/posts/2602288116914341/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 2602288116914341",
+        "position": 5
+      },
+      {
+        "title": "How to get video off twitch to upload to your YouTube channel?",
+        "link": "https://www.facebook.com/groups/twitchf4fpathtoaffiliate/posts/1080339624002859/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 1080339624002859",
+        "position": 6
+      },
+      {
+        "title": "How to Upload Twitch Streams to YouTube",
+        "link": "https://www.youtube.com/watch?v=dWicToy53SQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video I teach you how to upload your Twitch streams to your YouTube channel so you can have it as a video saved permanently.",
+        "position": 7
+      },
+      {
+        "title": "How to Upload Twitch Streams to YouTube",
+        "link": "https://www.youtube.com/watch?v=QH8-8bPxYX8",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This guide covers saving your past broadcasts, exporting or downloading VODs, and uploading them to YouTube with the best settings.",
+        "position": 8
+      },
+      {
+        "title": "How Uploading Your Twitch VODs to YouTube Can Make You a More ...",
+        "link": "https://flixier.com/blog/how-uploading-your-twitch-vods-to-youtube-can-make-you-a-more-successful-streamer",
+        "displayedLink": "https://flixier.com \u203a blog \u203a how-uploading-your-twitch-v...",
+        "snippet": "1. First, you need to click on your profile picture. From there, click on Creator Dashboard. and click on Video Producer.",
+        "date": "5 Nov 2026",
+        "position": 9
+      },
+      {
+        "title": "How to export Twitch VODs to Youtube",
+        "link": "https://www.youtube.com/watch?v=BlyjgQri6qw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "a quick tutorial on how to export your twitch VODs to Youtube without needing to download or record your stream :))",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

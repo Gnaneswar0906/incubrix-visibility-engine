@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs veed",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking for tools that maximize efficiency, minimize editing time, and optimize for algorithmic performance on platforms like TikTok, YouTube Shorts, and Instagram Reels.\n\n**Opus Clip** and **Veed** are both powerful, but they serve different primary purposes. Here\u2019s a detailed breakdown to help you choose, along with other industry-leading options and workflow recommendations.\n\n### 1. Head-to-Head: Opus Clip vs. Veed\n\n#### **Opus Clip: The AI-First Clipper**\n*   **Best For:** Turning long-form content (podcasts, webinars, YouTube videos) into multiple short-form clips with minimal manual editing.\n*  ",
+  "raw_payload": {
+    "id": "chatcmpl-cb8a1103-0060-4210-b222-d768af4bb593",
+    "object": "chat.completion",
+    "created": 1795374979,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking for tools that maximize efficiency, minimize editing time, and optimize for algorithmic performance on platforms like TikTok, YouTube Shorts, and Instagram Reels.\n\n**Opus Clip** and **Veed** are both powerful, but they serve different primary purposes. Here\u2019s a detailed breakdown to help you choose, along with other industry-leading options and workflow recommendations.\n\n### 1. Head-to-Head: Opus Clip vs. Veed\n\n#### **Opus Clip: The AI-First Clipper**\n*   **Best For:** Turning long-form content (podcasts, webinars, YouTube videos) into multiple short-form clips with minimal manual editing.\n*  "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054560826,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005087764,
+      "completion_tokens": 150,
+      "completion_time": 0.285614342,
+      "total_tokens": 228,
+      "total_time": 0.290702106
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b05vhecttzfacbtn00j7j",
+      "seed": 1708230631
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1263,
+  "cost_usd": 0.0002
+}

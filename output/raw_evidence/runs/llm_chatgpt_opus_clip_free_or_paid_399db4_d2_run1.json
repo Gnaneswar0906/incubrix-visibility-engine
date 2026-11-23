@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or paid",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick Answer \u2013\u202fIs **Opus\u202fClip** free or paid?  \n\n| Plan | Cost (as of\u202f2024) |",
+  "raw_payload": {
+    "id": "chatcmpl-992ea8a9-74a7-4d30-91e4-e9c2ca85f1b8",
+    "object": "chat.completion",
+    "created": 1795377135,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Answer \u2013\u202fIs **Opus\u202fClip** free or paid?  \n\n| Plan | Cost (as of\u202f2024) |",
+          "reasoning": "We need to answer the query: \"opus clip free or paid\". Provide recommendation of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Also note location is IN (India). Should be helpful. Need to mention pricing of Opus Clip (free tier vs paid), maybe subscription plans. Provide workflow suggestions for content creators. Provide citations. Must be safe, no disallowed content. Provide citations with links. Use markdown. Provide clear answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318337927,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006082412,
+      "completion_tokens": 150,
+      "completion_time": 0.316846489,
+      "total_tokens": 284,
+      "total_time": 0.322928901,
+      "completion_tokens_details": {
+        "reasoning_tokens": 113
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82d1zemex0b4jd72mq17gz9",
+      "seed": 1089541017
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3063,
+  "cost_usd": 0.0002
+}

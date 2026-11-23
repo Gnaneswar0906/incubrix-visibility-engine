@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to put autoplay on youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer how to put autoplay on YouTube. Autoplay is a feature that automatically plays next video after current ends, or autoplay embedded videos on a website. Could be about embedding YouTube videos with autoplay parameter. Provide steps. Also recommend software tools for editing video to embed autoplay? Perhaps they want to embed videos on their own site with autoplay.\n\nWe need to mention tools:",
+  "raw_payload": {
+    "id": "chatcmpl-561bbe18-ebf6-4db2-9c19-5ddfd43951fa",
+    "object": "chat.completion",
+    "created": 1795377078,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to put autoplay on youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer how to put autoplay on YouTube. Autoplay is a feature that automatically plays next video after current ends, or autoplay embedded videos on a website. Could be about embedding YouTube videos with autoplay parameter. Provide steps. Also recommend software tools for editing video to embed autoplay? Perhaps they want to embed videos on their own site with autoplay.\n\nWe need to mention tools:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368525699,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005287649,
+      "completion_tokens": 150,
+      "completion_time": 0.311089398,
+      "total_tokens": 285,
+      "total_time": 0.316377047,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82d0723e2h9v00rz3xv2t4m",
+      "seed": 898095110
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3282,
+  "cost_usd": 0.0002
+}

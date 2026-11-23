@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts usa Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for creating podcast shorts (short video clips) for USA audience, presumably. Provide best software tools, workflow methods, mention key industry options including those listed. Provide citations with links. Must be helpful, concise but thorough. Also note location IN (India) maybe but focusing on USA market. Provide suggestions for editing, AI tools, distribution platforms. Cite authoritative sources like blogs, reviews,",
+  "raw_payload": {
+    "id": "chatcmpl-940ac887-82f6-4fc4-83e9-f8c96170f1fa",
+    "object": "chat.completion",
+    "created": 1795375080,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts usa Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for creating podcast shorts (short video clips) for USA audience, presumably. Provide best software tools, workflow methods, mention key industry options including those listed. Provide citations with links. Must be helpful, concise but thorough. Also note location IN (India) maybe but focusing on USA market. Provide suggestions for editing, AI tools, distribution platforms. Cite authoritative sources like blogs, reviews,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36943871,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005167879,
+      "completion_tokens": 150,
+      "completion_time": 0.313945004,
+      "total_tokens": 282,
+      "total_time": 0.319112883,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82b3874efn9erjtvwrrmrm9",
+      "seed": 272185679
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2808,
+  "cost_usd": 0.0002
+}

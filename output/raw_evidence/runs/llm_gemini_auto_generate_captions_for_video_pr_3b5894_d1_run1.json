@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow for video premieres in Adobe Premiere Pro, leveraging AI for captioning is a game-changer. Manual transcription is a thing of the past; today\u2019s AI tools can generate, style, and burn-in captions in a fraction of the time. \n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Adobe Premiere Pro (Native Speech-to-Text)**\n* **Best For:** Ultimate control, timeline integration, and professional broadcasting standards.\n* **How it works:** Premiere Pro features a robust, built-in AI Speech-to-Text engine. It transcribes audio directly on your timeline, automatically generates captions based on your edits, and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow for video premieres in Adobe Premiere Pro, leveraging AI for captioning is a game-changer. Manual transcription is a thing of the past; today\u2019s AI tools can generate, style, and burn-in captions in a fraction of the time. \n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Adobe Premiere Pro (Native Speech-to-Text)**\n* **Best For:** Ultimate control, timeline integration, and professional broadcasting standards.\n* **How it works:** Premiere Pro features a robust, built-in AI Speech-to-Text engine. It transcribes audio directly on your timeline, automatically generates captions based on your edits, and",
+              "thoughtSignature": "Eo4BCosBAWkUfRN2O+cwb7lLGU0nRfkukUgg2t78ZbZheOVWaYHvcWGZ76W01WCgwpjFMbEO1qtyEZH2khnlTngS0eispQBY5IMEXnkn7W4QFnMg2y8tG3C4hHUTgrw1MRw+kYYwF1coYUXXAbz6XhpW6SaX2JTZO8lEAtxjeqFerjp+F47cBMvzUCMasCIQdg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Vz4Da9qQNLzYjNAPmLzxwA8"
+  },
+  "latency_ms": 5857,
+  "cost_usd": 0.0002
+}

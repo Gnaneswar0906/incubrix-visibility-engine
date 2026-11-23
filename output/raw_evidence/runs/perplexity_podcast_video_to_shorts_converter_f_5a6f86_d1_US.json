@@ -1,0 +1,44 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in US\n   - Query: \"podcast video to shorts converter free\"\n   - Request: Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript)\n  ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1219,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_perplexity_podcast_video_to_shorts_converter_f_5a6f86_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in the US\n   - Query: \"podcast video to shorts converter free\"\n   - Request: Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript",
+      "cost_usd": 0.0002,
+      "latency_ms": 1915,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_perplexity_podcast_video_to_shorts_converter_f_5a6f86_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_video_to_shorts_converter_f_5a6f86_d1_US.json"
+}

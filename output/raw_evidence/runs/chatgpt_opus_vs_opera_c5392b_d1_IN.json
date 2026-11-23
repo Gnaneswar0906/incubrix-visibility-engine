@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs opera",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are likely looking to optimize your video workflow for efficiency, reach, and monetization. The comparison between **Opus Clip** and **Opera** is a bit of a \"square peg in a round hole\" scenario because they serve fundamentally different purposes.\n\nLet",
+      "cost_usd": 0.0002,
+      "latency_ms": 992,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_vs_opera_c5392b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus vs opera. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo th",
+      "cost_usd": 0.0002,
+      "latency_ms": 2884,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_vs_opera_c5392b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_vs_opera_c5392b_d1_IN.json"
+}

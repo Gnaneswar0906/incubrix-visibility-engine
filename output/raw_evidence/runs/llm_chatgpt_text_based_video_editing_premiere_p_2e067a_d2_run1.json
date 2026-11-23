@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for text-based video editing with Premiere Pro, suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Use markdown. Ensure not to provide disallowed content. It's fine.\n\nWe should explain text-based video editing (script-to-video, AI-driven). Provide tools: Adobe Premiere Pro's Speech to Text, auto captions, integration with Adobe Sensei, etc. Also mention other tools: Descript (transcript editing), Opus Clip (AI short-form), CapCut (AI text",
+  "raw_payload": {
+    "id": "chatcmpl-af515fe2-32a7-4290-8b51-bef0d262391b",
+    "object": "chat.completion",
+    "created": 1795376577,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for text-based video editing with Premiere Pro, suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Use markdown. Ensure not to provide disallowed content. It's fine.\n\nWe should explain text-based video editing (script-to-video, AI-driven). Provide tools: Adobe Premiere Pro's Speech to Text, auto captions, integration with Adobe Sensei, etc. Also mention other tools: Descript (transcript editing), Opus Clip (AI short-form), CapCut (AI text"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318414721,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005039158,
+      "completion_tokens": 150,
+      "completion_time": 0.309012693,
+      "total_tokens": 285,
+      "total_time": 0.314051851,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82cgy4kechty9nbnymew15m",
+      "seed": 233937688
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3249,
+  "cost_usd": 0.0002
+}

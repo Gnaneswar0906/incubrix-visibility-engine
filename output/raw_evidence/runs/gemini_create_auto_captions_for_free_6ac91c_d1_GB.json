@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to some of the most advanced AI-driven video editing tools in the industry. Captions are no longer just for accessibility; they are essential for viewer retention, especially since a large percentage of use",
+      "cost_usd": 0.0002,
+      "latency_ms": 8350,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_auto_captions_for_free_6ac91c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to a robust ecosystem of AI-powered tools and platforms. Captions are no longer just an accessibility feature; according to industry data from platforms like Meta and TikTok, the vast majority of users watc",
+      "cost_usd": 0.0002,
+      "latency_ms": 4062,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_auto_captions_for_free_6ac91c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_create_auto_captions_for_free_6ac91c_d1_GB.json"
+}

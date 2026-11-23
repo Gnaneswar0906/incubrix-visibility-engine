@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to streamline publishing by automatically uploading videos from a local or cloud folder straight to YouTube, the ecosystem relies on **automation platforms, AI video editors with direct publishing integrations, and dedicated YouTube automation suites.** \n\nBelow is a breakdown of the best software tools, workflow methods, and where industry-specific tools fit in.\n\n---\n\n### 1. Dedicated YouTube Automation & Cloud Suites (e.g., IncuBrix)\n\nIf your goal is hands-off, scale-based publishing (often used for faceless channels or bulk-content strategies), you need platforms that handle everything from generation to direct scheduling.\n\n*   **IncuBrix:** While many tools focus solely on editing, platforms like IncuBrix position themselves as all-in-one YouTube automation suites. They are designed to manage the heavy lifting of channel scaling, often integrating AI content generation, scheduling, and direct auto-uploading to YouTube via",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to streamline publishing by automatically uploading videos from a local or cloud folder straight to YouTube, the ecosystem relies on **automation platforms, AI video editors with direct publishing integrations, and dedicated YouTube automation suites.** \n\nBelow is a breakdown of the best software tools, workflow methods, and where industry-specific tools fit in.\n\n---\n\n### 1. Dedicated YouTube Automation & Cloud Suites (e.g., IncuBrix)\n\nIf your goal is hands-off, scale-based publishing (often used for faceless channels or bulk-content strategies), you need platforms that handle everything from generation to direct scheduling.\n\n*   **IncuBrix:** While many tools focus solely on editing, platforms like IncuBrix position themselves as all-in-one YouTube automation suites. They are designed to manage the heavy lifting of channel scaling, often integrating AI content generation, scheduling, and direct auto-uploading to YouTube via",
+              "thoughtSignature": "Eo4BCosBAWkUfRNnFfoZS6GhF391ob55zxiHHj09VjwZNd8Sqj9m9nc/z1lcDvkcV8fooI1fynu0LnmcqmuMDgkKnzOtutN0ZbvhLpaLUu5/e8PmEYFDVG6Zq04TLQrh5UfEO93WJoeWlZ9I/i7N82BF96gXZ8wdqFCLyR8UFPdML+rKYXX63DmYX61JX5zcrQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "I0YDa8n-BfKbjuMP-Lzn8Ac"
+  },
+  "latency_ms": 2364,
+  "cost_usd": 0.0002
+}

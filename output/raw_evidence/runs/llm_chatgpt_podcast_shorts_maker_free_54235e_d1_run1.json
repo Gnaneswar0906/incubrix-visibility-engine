@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts maker free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for free tools for making podcast shorts. Include workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Use markdown. Should be helpful.\n\nWe need to ensure we don't violate any policy. It's fine. Provide citations. Use reputable sources like official websites, articles.\n\nLet's draft answer: overview of podcast shorts, why needed, steps: extract audio, transcribe, edit, add captions, visuals, export. Tools: Audacity (free audio editing), Descript (free tier), Opus Clip (free",
+  "raw_payload": {
+    "id": "chatcmpl-154aea56-370c-4aaf-9bf8-4eac60075126",
+    "object": "chat.completion",
+    "created": 1795375498,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for free tools for making podcast shorts. Include workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Use markdown. Should be helpful.\n\nWe need to ensure we don't violate any policy. It's fine. Provide citations. Use reputable sources like official websites, articles.\n\nLet's draft answer: overview of podcast shorts, why needed, steps: extract audio, transcribe, edit, add captions, visuals, export. Tools: Audacity (free audio editing), Descript (free tier), Opus Clip (free"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156358381,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005765269,
+      "completion_tokens": 150,
+      "completion_time": 0.316767252,
+      "total_tokens": 283,
+      "total_time": 0.322532521,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82bg0p1eeyt76jyvjged8sv",
+      "seed": 1388505847
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2987,
+  "cost_usd": 0.0002
+}

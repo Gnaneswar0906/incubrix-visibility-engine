@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for CapCut Videos  \n*(A practical workflow for U.S. creators \u2013",
+  "raw_payload": {
+    "id": "chatcmpl-5826958e-fb22-4650-b591-b8df77d58ac5",
+    "object": "chat.completion",
+    "created": 1795374698,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for CapCut Videos  \n*(A practical workflow for U.S. creators \u2013",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto generating captions for video capcut. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, detailed, possibly include steps. Should be safe. No disallowed content. Provide citations with links. Use markdown. Provide workflow. Provide pros/cons. Provide how to integrate with CapCut. Provide free/paid options. Provide best practices. Provide references. Let's draft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156709646,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005187543,
+      "completion_tokens": 150,
+      "completion_time": 0.319554579,
+      "total_tokens": 286,
+      "total_time": 0.324742122,
+      "completion_tokens_details": {
+        "reasoning_tokens": 121
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82aqksqe2gtv5ecbd87c1m6",
+      "seed": 1929744621
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4196,
+  "cost_usd": 0.0002
+}

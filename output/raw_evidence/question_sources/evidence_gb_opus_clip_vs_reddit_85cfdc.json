@@ -1,0 +1,19 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=opus+clip+vs+reddit",
+  "source_type": "Community Search Suggest",
+  "market": "GB",
+  "seed": "opus clip vs reddit",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:41.487494+00:00",
+  "extracted_count": 6,
+  "suggestions": [
+    "opus clip vs descript reddit",
+    "opus clip vs capcut reddit",
+    "chop ai vs opus clip reddit",
+    "opus one review",
+    "opus game review",
+    "opus 4 review"
+  ],
+  "raw_response": "[\"opus clip vs reddit\",[\"opus clip vs descript reddit\",\"opus clip vs capcut reddit\",\"chop ai vs opus clip reddit\",\"opus one review\",\"opus game review\",\"opus 4 review\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

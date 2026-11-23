@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to turn long-form videos (like YouTube podcasts, webinars, or Vlogs) into viral short-form content for TikTok, YouTube Shorts, and Instagram Reels, you are looking at two very different workflow philosophies: **AI-Driven Repurposing** versus **Manual/AI-Assisted Editing and Styling**.\n\nTo help you choose, let\u2019s break down the head-to-head comparison of **Opus Clip vs. CapCut (Captions)**, incorporate other industry leaders like **Descript** and **IncuBrix**, and outline the optimal workflows for US creators.\n\n---\n\n### Part 1: Opus Clip vs. CapCut (The Core Dilemma)\n\n#### **Opus Clip: The Hands-Off Repurposing Machine**\n*   **What it is:** An generative AI video clipping tool designed specifically to do the heavy lifting for you. You drop in a YouTube link, and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to turn long-form videos (like YouTube podcasts, webinars, or Vlogs) into viral short-form content for TikTok, YouTube Shorts, and Instagram Reels, you are looking at two very different workflow philosophies: **AI-Driven Repurposing** versus **Manual/AI-Assisted Editing and Styling**.\n\nTo help you choose, let\u2019s break down the head-to-head comparison of **Opus Clip vs. CapCut (Captions)**, incorporate other industry leaders like **Descript** and **IncuBrix**, and outline the optimal workflows for US creators.\n\n---\n\n### Part 1: Opus Clip vs. CapCut (The Core Dilemma)\n\n#### **Opus Clip: The Hands-Off Repurposing Machine**\n*   **What it is:** An generative AI video clipping tool designed specifically to do the heavy lifting for you. You drop in a YouTube link, and",
+              "thoughtSignature": "Eo4BCosBAWkUfRN3kVmRvLzaTgy1shaWOS0LUFbcsds5LnwFtHiasHtmO8DLq/loEedtep1UreVqJ9qjci3Rjb3NXHqLYqdAAiSI8/K1wrG1N4Tv5TGuKdv4xxW9ETlCaDC4RYMldxFxjT03TkidEwmhBPfLEn9h5Bb1JpAqgpDFQDvJjk1DPTFw59X5bwQyCQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "gkYDa97lBufF1_oPu7aywA8"
+  },
+  "latency_ms": 2245,
+  "cost_usd": 0.0002
+}

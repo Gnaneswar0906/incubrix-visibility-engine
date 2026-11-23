@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale your output, utilizing AI-driven caption generation is one of the fastest ways to boost viewer retention (especially since a significant percentage of social media users watch videos on mute). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including **IncuBrix, CapCut, Opus Clip, and Descript**), and an efficient workflow method to auto-generate captions for free.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the content creation workflow\u2014from editing short-form clips to full-podcast transcriptions.\n\n*   **CapCut (Best for Free, Stylized Short-Form Captions):** \n    *   *Overview:* Widely considered the gold standard for mobile and desktop short-form editing (TikTok, Reels, Shorts). Its \"Auto Captions\" feature is entirely free and instantly syncs text to audio",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale your output, utilizing AI-driven caption generation is one of the fastest ways to boost viewer retention (especially since a significant percentage of social media users watch videos on mute). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including **IncuBrix, CapCut, Opus Clip, and Descript**), and an efficient workflow method to auto-generate captions for free.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the content creation workflow\u2014from editing short-form clips to full-podcast transcriptions.\n\n*   **CapCut (Best for Free, Stylized Short-Form Captions):** \n    *   *Overview:* Widely considered the gold standard for mobile and desktop short-form editing (TikTok, Reels, Shorts). Its \"Auto Captions\" feature is entirely free and instantly syncs text to audio",
+              "thoughtSignature": "Eo4BCosBAWkUfRM7GrFyK4hskbPjPJxBuG0PVJB95Jblsvup7smjrQKN2JujtCGv4eOxO3eO8DXUumbJodTqIXd5FWjYkGo9VkUBYb8hxAvJaJg9UD3gAHDyNB0g9KOfvjcNSnA+mEL5pWmaczQOtGa+Mmhr97GvNuSXh31sbhYdIeVdE+yLyDGdb2mpbSNp/g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Wz4Da_6OCJGL694PkJ7lgQw"
+  },
+  "latency_ms": 2336,
+  "cost_usd": 0.0002
+}

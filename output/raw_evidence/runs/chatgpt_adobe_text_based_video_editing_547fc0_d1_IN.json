@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "adobe text based video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: adobe text based video editing. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources",
+      "cost_usd": 0.0002,
+      "latency_ms": 2579,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_adobe_text_based_video_editing_547fc0_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 The Best Tools & Workflow for Indian Creators  \n\nBelow is a compact guide that covers **(1)",
+      "cost_usd": 0.0002,
+      "latency_ms": 2764,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_adobe_text_based_video_editing_547fc0_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_adobe_text_based_video_editing_547fc0_d1_IN.json"
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'podcast shorts editing premiere pro' in IN, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 330
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'podcast shorts editing premiere pro' in IN, popular recommendations include CapCut. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_shorts_editing_premiere_pro_8675b6_d1_IN.json"
+}

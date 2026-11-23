@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post on youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), automating your YouTube posting workflow is one of the best ways to scale your channel, maintain consistency, and save time. \n\nHere is a comprehensive guide on how to auto-post on YouTube, featuring the best software tools, recommended workflows, and how to leverage industry-standard platforms like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. The Ultimate Auto-Posting Workflow\nTo achieve a fully automated YouTube pipeline (from raw idea/footage to published video), follow this 4-step workflow:\n\n1. **AI Ideation & Scripting:** Generate concepts and scripts using AI.\n2. **Editing & AI Refinement:** Use AI-assisted video editors to cut, caption, and format content (ideal for YouTube Shorts and long-form).\n3. **Repurposing (Long to Short):** Automatically slice long videos into viral",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), automating your YouTube posting workflow is one of the best ways to scale your channel, maintain consistency, and save time. \n\nHere is a comprehensive guide on how to auto-post on YouTube, featuring the best software tools, recommended workflows, and how to leverage industry-standard platforms like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. The Ultimate Auto-Posting Workflow\nTo achieve a fully automated YouTube pipeline (from raw idea/footage to published video), follow this 4-step workflow:\n\n1. **AI Ideation & Scripting:** Generate concepts and scripts using AI.\n2. **Editing & AI Refinement:** Use AI-assisted video editors to cut, caption, and format content (ideal for YouTube Shorts and long-form).\n3. **Repurposing (Long to Short):** Automatically slice long videos into viral",
+              "thoughtSignature": "Eo4BCosBAWkUfRMHKrBBgyX95XMTP0Z2Y9iymemGZDs/2lT5/2Ospr2uwQnnAa0eEc6uGLku5RBPUTGjdaDcRovBXcIV5MOVnj0l8YaQpceZ0OJPKd06bXYx8rR00+Eyqr1YZmRbUwdoTpWIMuc4duB4STGQHjcT48YT6gdiLkKzxDmqDU8VafPy8WLUwfak4Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "oUADa_HQNIzUqfkP9MjbqA4"
+  },
+  "latency_ms": 2174,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on discord",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you have access to a robust ecosystem of tools that can automate the workflow from YouTube to Discord. Since \"automatically posting\" can mean either **auto-sharing a link** when a new video goes live or **auto-generating and posting shorts/clips**, I will cover both scenarios with the most effective, reliable, and cost-efficient tools for creators in IN.\n\n### \ud83d\ude80 Top Recommended Workflow: Auto-Share Video Links to Discord\n\nThis is the most common need: *When I publish a YouTube video, a message with the title, thumbnail, and link should appear in my Discord channel.*\n\n#### \u2705 Best Tool: **Zapier** or **Make (formerly Integrom",
+  "raw_payload": {
+    "id": "chatcmpl-0950fd18-52cf-48e6-9d33-87946c6c4216",
+    "object": "chat.completion",
+    "created": 1795375258,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you have access to a robust ecosystem of tools that can automate the workflow from YouTube to Discord. Since \"automatically posting\" can mean either **auto-sharing a link** when a new video goes live or **auto-generating and posting shorts/clips**, I will cover both scenarios with the most effective, reliable, and cost-efficient tools for creators in IN.\n\n### \ud83d\ude80 Top Recommended Workflow: Auto-Share Video Links to Discord\n\nThis is the most common need: *When I publish a YouTube video, a message with the title, thumbnail, and link should appear in my Discord channel.*\n\n#### \u2705 Best Tool: **Zapier** or **Make (formerly Integrom"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052450698,
+      "prompt_tokens": 80,
+      "prompt_time": 0.006358242,
+      "completion_tokens": 150,
+      "completion_time": 0.305652566,
+      "total_tokens": 230,
+      "total_time": 0.312010808
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82b8pyhegd80fr6wjtntm64",
+      "seed": 932559627
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1834,
+  "cost_usd": 0.0002
+}

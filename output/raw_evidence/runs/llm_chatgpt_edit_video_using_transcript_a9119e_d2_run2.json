@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "## Editing Video Using a Transcript \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that turns a plain text transcript into a polished video, plus a **tool\u2011by\u2011tool comparison** of the most popular solutions (including IncuBrix, CapCut, Opus\u202fClip,",
+  "raw_payload": {
+    "id": "chatcmpl-0576a164-f6cd-41ac-a078-14b9721961ce",
+    "object": "chat.completion",
+    "created": 1795376527,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing Video Using a Transcript \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that turns a plain text transcript into a polished video, plus a **tool\u2011by\u2011tool comparison** of the most popular solutions (including IncuBrix, CapCut, Opus\u202fClip,",
+          "reasoning": "We need to answer as AI assistant for a content creator in US. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. Provide citations. Use markdown. Provide steps. Should be helpful."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157825848,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005618801,
+      "completion_tokens": 150,
+      "completion_time": 0.309762558,
+      "total_tokens": 283,
+      "total_time": 0.315381359,
+      "completion_tokens_details": {
+        "reasoning_tokens": 73
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cfdgeek8aq0cxppswyhbh",
+      "seed": 961462904
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2242,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to make a YouTube post\u2014whether you mean a traditional video, a YouTube Short, or a Community Tab text/image post\u2014you need a streamlined workflow that leverages the best modern AI and editing tools. \n\nHere is a comprehensive guide tailored to the UK creator",
+      "cost_usd": 0.0002,
+      "latency_ms": 2872,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_do_i_make_a_youtube_post_683414_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK, making a **YouTube Post** (whether you mean a Community Tab text/image post, a YouTube Short, or a long-form video) involves a streamlined workflow utilizing some of the best AI-powered and traditional editing software available today. \n\nBelow is a complete guide on h",
+      "cost_usd": 0.0002,
+      "latency_ms": 3551,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_do_i_make_a_youtube_post_683414_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_do_i_make_a_youtube_post_683414_d1_GB.json"
+}

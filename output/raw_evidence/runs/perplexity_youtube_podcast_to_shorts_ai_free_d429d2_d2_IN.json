@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "youtube podcast to shorts ai free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'youtube podcast to shorts ai free' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 456
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'youtube podcast to shorts ai free' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 471
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_youtube_podcast_to_shorts_ai_free_d429d2_d2_IN.json"
+}

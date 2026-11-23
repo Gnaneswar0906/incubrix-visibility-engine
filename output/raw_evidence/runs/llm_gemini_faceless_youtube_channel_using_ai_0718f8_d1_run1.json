@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel using ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel using AI has become one of the most efficient ways to build a digital media business, largely due to advancements in generative video, scriptwriting, and automated editing. \n\nAs a content creator based in the U.S., you have access to a robust ecosystem of tools that can automate nearly every step of the pipeline\u2014from ideation to publishing. Below is a comprehensive guide to the best software tools, a streamlined workflow, and key industry options to help you scale your channel.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build a high-performing faceless channel, your software stack should cover four main pillars: **Ideation/Scripting, Voiceover, Visuals/Editing, and Repurposing.**\n\n#### **A. All-in-One / Automation Suites**\n*   **IncuBrix:** Emerging platforms like IncuBrix cater specifically to creators looking to streamline the heavy lifting of",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel using AI has become one of the most efficient ways to build a digital media business, largely due to advancements in generative video, scriptwriting, and automated editing. \n\nAs a content creator based in the U.S., you have access to a robust ecosystem of tools that can automate nearly every step of the pipeline\u2014from ideation to publishing. Below is a comprehensive guide to the best software tools, a streamlined workflow, and key industry options to help you scale your channel.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build a high-performing faceless channel, your software stack should cover four main pillars: **Ideation/Scripting, Voiceover, Visuals/Editing, and Repurposing.**\n\n#### **A. All-in-One / Automation Suites**\n*   **IncuBrix:** Emerging platforms like IncuBrix cater specifically to creators looking to streamline the heavy lifting of",
+              "thoughtSignature": "Eo4BCosBAWkUfRO9IdbqGiXTLF0Q4AA71k+nur7q/Z00LE+M/1+eLMT2jGziT7AOIuMgbcTBxfq920xyLr8Wdii3OOHeU3zvQAF/phvfsZMFT8rvZTqqHR6XsDmC8h2JuhjLmfNtk4zcs6Uk8zYIHTNP6UvQZRbmHLSVMhXgo6Phoyb5K//HH0+YvrmAWr/hDA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qj8Da5SvAdSh3LUPmIyn2As"
+  },
+  "latency_ms": 3184,
+  "cost_usd": 0.0002
+}

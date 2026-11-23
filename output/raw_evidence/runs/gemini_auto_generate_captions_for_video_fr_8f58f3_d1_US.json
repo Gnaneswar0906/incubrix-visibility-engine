@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For a content creator based in the U.S. looking to **auto-generate video captions for free**, the current creator economy ecosystem offers several powerful tools with free tiers, alongside automated workflow methods to save hours of editing time. \n\nHere is a breakdown of the best software tools, ind",
+      "cost_usd": 0.0002,
+      "latency_ms": 6457,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_8f58f3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to scale your output, utilizing AI-driven caption generation is one of the fastest ways to boost viewer retention (especially since a significant percentage of social media users watch videos on mute). \n\nHere is a comprehensive breakdown of the best software to",
+      "cost_usd": 0.0002,
+      "latency_ms": 2336,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_8f58f3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_fr_8f58f3_d1_US.json"
+}

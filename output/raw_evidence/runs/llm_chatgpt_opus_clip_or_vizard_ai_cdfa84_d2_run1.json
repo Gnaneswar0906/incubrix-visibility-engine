@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or vizard ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They are a content creator located in India (IN). Need to recommend best software tools, workflow, mention key industry options, cite authoritative web sources if available.\n\nWe need to provide a helpful answer. Must not violate policy. It's allowed.\n\nWe can include links to official sites or reputable articles. Provide overview of each tool, their strengths, pricing, suitability for Indian creators, workflow steps (e.g., script, record, edit, AI enhancements, export, distribution). Also mention alternatives: Vizard AI? Actually query says \"opus clip or vizard ai\". So",
+  "raw_payload": {
+    "id": "chatcmpl-fb434556-1b1a-4c2b-b73b-6906aba53ca1",
+    "object": "chat.completion",
+    "created": 1795377158,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They are a content creator located in India (IN). Need to recommend best software tools, workflow, mention key industry options, cite authoritative web sources if available.\n\nWe need to provide a helpful answer. Must not violate policy. It's allowed.\n\nWe can include links to official sites or reputable articles. Provide overview of each tool, their strengths, pricing, suitability for Indian creators, workflow steps (e.g., script, record, edit, AI enhancements, export, distribution). Also mention alternatives: Vizard AI? Actually query says \"opus clip or vizard ai\". So"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367436825,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005286034,
+      "completion_tokens": 150,
+      "completion_time": 0.313669228,
+      "total_tokens": 285,
+      "total_time": 0.318955262,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82d2n9me2h912skny780tw2",
+      "seed": 1396386248
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2834,
+  "cost_usd": 0.0002
+}

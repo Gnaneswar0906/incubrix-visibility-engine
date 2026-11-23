@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus op lite review",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely looking for tools that streamline your workflow, enhance production quality, and boost discoverability on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nBased on your query, it appears you are asking for a review and compariso",
+      "cost_usd": 0.0002,
+      "latency_ms": 1139,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_op_lite_review_3c92d8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a review of \"opus op lite\" (maybe a software?) and recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide authoritative sources citations. Must be for a content creator in GB. Provide review of Op",
+      "cost_usd": 0.0002,
+      "latency_ms": 2673,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_op_lite_review_3c92d8_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_op_lite_review_3c92d8_d1_GB.json"
+}

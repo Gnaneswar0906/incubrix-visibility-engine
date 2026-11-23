@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can ai faceless youtube channel be monetized",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: can AI faceless YouTube channel be monetized. Provide recommendations on best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB (Great Britain). Need to address monetization policies, YouTube's rules on AI-generated content, copyright, etc. Provide workflow steps, tools, and citations. Must be helpful, thorough.\n\nWe must not violate policy. It's allowed. Provide citations: we can reference YouTube's policies, Google support pages, etc. Use web sources like support.google.com, youtube.com/creators, etc. Provide citations",
+  "raw_payload": {
+    "id": "chatcmpl-a29f03ac-3eb2-4123-a6ed-59356caf5e7a",
+    "object": "chat.completion",
+    "created": 1795375867,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: can AI faceless YouTube channel be monetized. Provide recommendations on best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB (Great Britain). Need to address monetization policies, YouTube's rules on AI-generated content, copyright, etc. Provide workflow steps, tools, and citations. Must be helpful, thorough.\n\nWe must not violate policy. It's allowed. Provide citations: we can reference YouTube's policies, Google support pages, etc. Use web sources like support.google.com, youtube.com/creators, etc. Provide citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368072659,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005363907,
+      "completion_tokens": 150,
+      "completion_time": 0.312124396,
+      "total_tokens": 288,
+      "total_time": 0.317488303,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bv960eenv3cbhwfvg4sfn",
+      "seed": 215544219
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3329,
+  "cost_usd": 0.0002
+}

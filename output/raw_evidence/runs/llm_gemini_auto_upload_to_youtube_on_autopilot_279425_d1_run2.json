@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to achieve a true \"autopilot\" workflow\u2014from raw idea or footage to a published YouTube video\u2014you need a combination of AI automation, editing, and scheduling tools. \n\nHere is a breakdown of the best software tools, key industry options (including your requested mentions), and a recommended end-to-end automated workflow.\n\n---\n\n### Part 1: Recommended Software Tools & Industry Options\n\nTo build an automated pipeline, tools are generally split into three categories: **Repurposing/Editing**, **AI Content Generation**, and **Scheduling/Publishing**.\n\n#### 1. Repurposing & Clipping (Turn Long-Form into Shorts)\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long videos into high-potential short-form clips (Shorts, Reels, TikToks) with a single click. It features AI curation, auto-framing, and dynamic",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to achieve a true \"autopilot\" workflow\u2014from raw idea or footage to a published YouTube video\u2014you need a combination of AI automation, editing, and scheduling tools. \n\nHere is a breakdown of the best software tools, key industry options (including your requested mentions), and a recommended end-to-end automated workflow.\n\n---\n\n### Part 1: Recommended Software Tools & Industry Options\n\nTo build an automated pipeline, tools are generally split into three categories: **Repurposing/Editing**, **AI Content Generation**, and **Scheduling/Publishing**.\n\n#### 1. Repurposing & Clipping (Turn Long-Form into Shorts)\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long videos into high-potential short-form clips (Shorts, Reels, TikToks) with a single click. It features AI curation, auto-framing, and dynamic",
+              "thoughtSignature": "Eo4BCosBAWkUfRMLOsBWMK87KyQtoL8WnOAKQzEqtZL3BTLkwLMIzBUuu2nhjTM+puHLmQApp8mY5kJSIHBq+bgqfO121oSShiikZZzR69moO73WtMYnTgSw0RRtMzRngNjcXOVnHqOXQ9VKmziQTBuTVQr8sE5ehz7eAxf5ketIarXZWYhnVv8RtI6CkXgMkA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "HD8Da9aSBpiC3LUP4_-I0Ag"
+  },
+  "latency_ms": 3161,
+  "cost_usd": 0.0002
+}

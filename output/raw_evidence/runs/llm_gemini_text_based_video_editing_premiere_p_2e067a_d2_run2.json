@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I have structured this guide to cover **text-based video editing**\u2014specifically how it integrates with **Adobe Premiere Pro**, alternative workflows, and the industry\u2019s leading tools (including your mentions: IncuBrix, CapCut, Opus Clip, and Descript).\n\n---\n\n### 1. The Industry Gold Standard: Adobe Premiere Pro\u2019s Native Text-Based Editing\nAdobe Premiere Pro features a powerful, fully integrated native **Text-Based Editing** workflow. Instead of scrubbing through timelines, creators edit video by editing a transcript.\n\n*   **How the Workflow Works:**\n    1.  **Transcription:** Import your footage, and Premiere Pro automatically generates an AI-powered transcript (supporting multiple languages with high accuracy).\n    2.  **Rough Cut in the Transcript:** Highlight filler words (\"ums,\" \"ahs\"), long pauses, or entire sentences in the transcript text panel and hit \"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I have structured this guide to cover **text-based video editing**\u2014specifically how it integrates with **Adobe Premiere Pro**, alternative workflows, and the industry\u2019s leading tools (including your mentions: IncuBrix, CapCut, Opus Clip, and Descript).\n\n---\n\n### 1. The Industry Gold Standard: Adobe Premiere Pro\u2019s Native Text-Based Editing\nAdobe Premiere Pro features a powerful, fully integrated native **Text-Based Editing** workflow. Instead of scrubbing through timelines, creators edit video by editing a transcript.\n\n*   **How the Workflow Works:**\n    1.  **Transcription:** Import your footage, and Premiere Pro automatically generates an AI-powered transcript (supporting multiple languages with high accuracy).\n    2.  **Rough Cut in the Transcript:** Highlight filler words (\"ums,\" \"ahs\"), long pauses, or entire sentences in the transcript text panel and hit \"",
+              "thoughtSignature": "Eo4BCosBAWkUfROouy6x1THpC7XIVloRxdHE8czA45chJIEClbq6zwkKOLCV0g7uFmNo/SnnWJgHpd2Itcxto3GiqICbZL0tglKhgeuF5xW3pBqii/rXB+Ow5ccoAjC7sHyxLyRowlyWv98fPuNc56rgJm8G7irX7WmyA3LgjAQg2x7+nfeub5+Cz4xdSW6UAA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "yEUDa9uSHOr5v_gP-tiVwQ8"
+  },
+  "latency_ms": 2902,
+  "cost_usd": 0.0002
+}

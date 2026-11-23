@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Removing Filler Words from Video \u2013 A Practical Guide for a UK Content Creator  \n\nBelow is a concise, step\u2011by\u2011step workflow together with the **",
+      "cost_usd": 0.0002,
+      "latency_ms": 3112,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_13eee2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations on removing filler words from video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide authoritative web sources citations if available. Need to tailor to content creator in GB (UK). Provide suggestions",
+      "cost_usd": 0.0002,
+      "latency_ms": 2975,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_13eee2_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_13eee2_d1_GB.json"
+}

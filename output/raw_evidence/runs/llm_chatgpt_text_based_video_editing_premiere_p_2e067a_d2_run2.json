@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick Take\u2011away**\n\n| Goal | Best\u2011fit tool(s) | How it fits into a Premiere",
+  "raw_payload": {
+    "id": "chatcmpl-4ef9af92-4e2b-47db-aa20-a9319833df22",
+    "object": "chat.completion",
+    "created": 1795376580,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick Take\u2011away**\n\n| Goal | Best\u2011fit tool(s) | How it fits into a Premiere",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for text-based video editing in Premiere Pro, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Should be helpful, thorough, with workflow steps, integration with Premiere Pro, maybe using scripts, auto-captioning, etc. Provide citations with links. Ensure not to violate policy. Provide citations as footnotes or inline. Use reliable sources like Adobe blog, TechCrunch, etc. Provide summary."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369840296,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006824343,
+      "completion_tokens": 150,
+      "completion_time": 0.316817485,
+      "total_tokens": 285,
+      "total_time": 0.323641828,
+      "completion_tokens_details": {
+        "reasoning_tokens": 120
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82ch149ez09r0cxxh67z0yf",
+      "seed": 783019404
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3120,
+  "cost_usd": 0.0002
+}

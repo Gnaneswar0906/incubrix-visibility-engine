@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "podcast format example",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to structure and produce a podcast, choosing the right format and tools is essential for saving time and growing your audience. \n\nBelow is a comprehensive guide covering a standard podcast format example, the best software tools for the UK market, and an efficient production workflow.\n\n---\n\n### 1. Podcast Format Example (The 30-Minute Interview/Solo Hybrid)\nFor most creators, a structured, digestible format works best for retention. Here is a proven 30-minute episode structure:\n\n*   **00:00 \u2013 00:45 | The Hook & Intro:** Start with the most compelling 5-second soundbite from the episode, followed by a brief, punchy intro music bed and a welcome by the host.\n*   **00:45 \u2013 03:00 | Context & Guest Intro:** Briefly explain what the episode is about and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to structure and produce a podcast, choosing the right format and tools is essential for saving time and growing your audience. \n\nBelow is a comprehensive guide covering a standard podcast format example, the best software tools for the UK market, and an efficient production workflow.\n\n---\n\n### 1. Podcast Format Example (The 30-Minute Interview/Solo Hybrid)\nFor most creators, a structured, digestible format works best for retention. Here is a proven 30-minute episode structure:\n\n*   **00:00 \u2013 00:45 | The Hook & Intro:** Start with the most compelling 5-second soundbite from the episode, followed by a brief, punchy intro music bed and a welcome by the host.\n*   **00:45 \u2013 03:00 | Context & Guest Intro:** Briefly explain what the episode is about and",
+              "thoughtSignature": "Eo4BCosBAWkUfRMCZJY2vdNWv9iOELuzYmqEoQsyfKFX6ZNC0tR4N1YRi6tJh75lCvN5+cTKK87PDOxXbvccEBaLyxo3QPyzDz6lxwGRVx4YyVuJ/75BzEVCMmV0bWsUrTfmxRzT33ZE2XZlr0eI44A8Lmnc94QKIx+BxYCGJp30mEuHY4/NbIz7Hxn3UrXoDg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bkEDa4zoKu3Vz7sP6KjQsAs"
+  },
+  "latency_ms": 2732,
+  "cost_usd": 0.0002
+}

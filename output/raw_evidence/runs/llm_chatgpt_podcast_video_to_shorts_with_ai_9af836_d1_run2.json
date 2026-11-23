@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts with ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Full\u2011Length Podcast Video into AI\u2011Powered Shorts  \n*(Quick\u2011hit, vertical clips 15\u201160\u202fseconds that drive traffic on TikTok, Instagram Reels, YouTube Shorts,",
+  "raw_payload": {
+    "id": "chatcmpl-3e75415c-dab6-4bc9-9967-9a7f35acdd72",
+    "object": "chat.completion",
+    "created": 1795374526,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Full\u2011Length Podcast Video into AI\u2011Powered Shorts  \n*(Quick\u2011hit, vertical clips 15\u201160\u202fseconds that drive traffic on TikTok, Instagram Reels, YouTube Shorts,",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for converting podcast video to shorts using AI. Need to cite authoritative web sources if available. Should be tailored for a content creator in US. Provide tools, workflow steps, pros/cons, pricing, integration, tips. Cite sources with links. Must follow policy: no disallowed content. It's fine. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369835202,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005295207,
+      "completion_tokens": 150,
+      "completion_time": 0.311752268,
+      "total_tokens": 285,
+      "total_time": 0.317047475,
+      "completion_tokens_details": {
+        "reasoning_tokens": 100
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82ajbgee3n8e61wv0eef6wa",
+      "seed": 244991579
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2399,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For",
+      "cost_usd": 0.0002,
+      "latency_ms": 8389,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_ba_c59865_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHere is a co",
+      "cost_usd": 0.0002,
+      "latency_ms": 3026,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_ba_c59865_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_ba_c59865_d2_US.json"
+}

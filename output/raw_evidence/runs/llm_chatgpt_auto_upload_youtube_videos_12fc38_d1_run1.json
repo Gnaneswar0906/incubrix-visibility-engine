@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube videos",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator based in the UK, automating your YouTube workflow is crucial for scaling without burning out. While fully \"hands-off\" uploading is rare due to YouTube's strict automation policies (which require human oversight for metadata, thumbnails, and titles), you can significantly streamline the **editing, repurposing, and scheduling** process.\n\nHere\u2019s a curated guide to the best tools, workflows, and industry options for near-automated YouTube video production.\n\n### 1. Key Industry Software & AI Tools\n\n#### **A. IncuBrix**\n*   **Best For:** Long-form content creators who want to automate transcription, editing, and repurposing.\n*   **Why it\u2019s notable:** IncuB",
+  "raw_payload": {
+    "id": "chatcmpl-1804075e-12e0-43be-8301-45836843a4d9",
+    "object": "chat.completion",
+    "created": 1795375718,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a content creator based in the UK, automating your YouTube workflow is crucial for scaling without burning out. While fully \"hands-off\" uploading is rare due to YouTube's strict automation policies (which require human oversight for metadata, thumbnails, and titles), you can significantly streamline the **editing, repurposing, and scheduling** process.\n\nHere\u2019s a curated guide to the best tools, workflows, and industry options for near-automated YouTube video production.\n\n### 1. Key Industry Software & AI Tools\n\n#### **A. IncuBrix**\n*   **Best For:** Long-form content creators who want to automate transcription, editing, and repurposing.\n*   **Why it\u2019s notable:** IncuB"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.078694615,
+      "prompt_tokens": 76,
+      "prompt_time": 0.006034165,
+      "completion_tokens": 150,
+      "completion_time": 0.284986371,
+      "total_tokens": 226,
+      "total_time": 0.291020536
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bpqwje5at4z6r2t6sggjq",
+      "seed": 2072869124
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1116,
+  "cost_usd": 0.0002
+}

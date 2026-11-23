@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"how to download youtube posts\". Provide recommended software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India (IN). Provide info about downloading YouTube posts (videos? posts could be community posts? likely videos). Provide legal considerations. Provide software recommendations, workflow. Cite sources.\n\nWe must comply with policy: no instructions for illegal activity. Downloading YouTube videos may violate YouTube's terms of service unless it's your own content or you have permission. We must include disclaimer and encourage using YouTube's own download features (YouTube Studio, You",
+  "raw_payload": {
+    "id": "chatcmpl-46c06a94-96cf-4606-86bd-d8281eba4fe0",
+    "object": "chat.completion",
+    "created": 1795377101,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"how to download youtube posts\". Provide recommended software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India (IN). Provide info about downloading YouTube posts (videos? posts could be community posts? likely videos). Provide legal considerations. Provide software recommendations, workflow. Cite sources.\n\nWe must comply with policy: no instructions for illegal activity. Downloading YouTube videos may violate YouTube's terms of service unless it's your own content or you have permission. We must include disclaimer and encourage using YouTube's own download features (YouTube Studio, You"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.32301047,
+      "prompt_tokens": 134,
+      "prompt_time": 0.025201099,
+      "completion_tokens": 150,
+      "completion_time": 0.314757321,
+      "total_tokens": 284,
+      "total_time": 0.33995842,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82d0y0cebeaw40mg6gjy9we",
+      "seed": 1036722322
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3441,
+  "cost_usd": 0.0002
+}

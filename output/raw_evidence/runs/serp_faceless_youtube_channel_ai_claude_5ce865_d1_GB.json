@@ -1,0 +1,94 @@
+{
+  "query": "faceless youtube channel ai claude",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=Q7eKU0eLYCU",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "faceless youtube channel ai claude",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Claude AI Can Start a FACELESS YouTube Channel (INSANE)",
+        "link": "https://www.youtube.com/watch?v=Q7eKU0eLYCU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Claude AI can now help you start a faceless YouTube channel from scratch and what it can do is honestly insane.",
+        "position": 1
+      },
+      {
+        "title": "How To Build a Faceless YouTube Channel with Claude (Full ...",
+        "link": "https://www.youtube.com/watch?v=zXE_PpJ5WUc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How To Build a Faceless YouTube Channel with Claude. Different styles of videos. FREE AI TOOLS (NO CLAUDE CODE) Created a $30,000/month\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "How To Start A Faceless YouTube Channel With AI - The Full Pipeline",
+        "link": "https://www.claudecodeclub.ai/free-resources/faceless-youtube-channel-with-ai",
+        "displayedLink": "https://www.claudecodeclub.ai \u203a free-resources \u203a faceless-youtube-channel-wi...",
+        "snippet": "A faceless channel is two assets repeated: a locked visual style and a proven script format. hand them to Claude Code as a set.",
+        "position": 3
+      },
+      {
+        "title": "Claude NEW AI Can Make a Faceless Youtube Video (WITHOUT ...",
+        "link": "https://www.youtube.com/watch?v=lMzBUUjoZ_I",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This video shows you how to connect Claude MCP with Digital Maker AI to unlock a powerful workflow that can transform the way you run your\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "Recreate a $39500/Month Faceless YouTube Channel With AI",
+        "link": "https://higgsfield.ai/blog/faceless-channel",
+        "displayedLink": "https://higgsfield.ai \u203a blog \u203a faceless-channel",
+        "snippet": "Open Claude, go to Settings \u2192 Connectors, and click \"Add Custom Connector\". Name it Higgsfield , paste the copied URL, and click Connect.",
+        "date": "16 Jun 2026",
+        "position": 5
+      },
+      {
+        "title": "How I Automated a Faceless YouTube Channel That Runs Without Me ...",
+        "link": "https://dev.to/wedgemethoddev/how-i-automated-a-faceless-youtube-channel-that-runs-without-me-code-architecture-1fn8",
+        "displayedLink": "https://dev.to \u203a wedgemethoddev \u203a how-i-automated-a-faceless-...",
+        "snippet": "I built an automated system that produces and schedules faceless YouTube content with minimal manual intervention.",
+        "date": "3 Apr 2026",
+        "position": 6
+      },
+      {
+        "title": "Clone Any Faceless YouTube Channel with Claude (Step-by-Step)",
+        "link": "https://x.com/humzaakhalid/article/2071162846566854980",
+        "displayedLink": "https://x.com \u203a humzaakhalid \u203a article \u203a 2071162846566854980",
+        "snippet": "Just AI-generated narration over stock visuals, pulling 200,000+ views per video. I spent 4 hours reverse-engineering one of them with Claude.",
+        "date": "28 Jun 2026",
+        "position": 7
+      },
+      {
+        "title": "Here are 15 Claude 4.5 prompts to build a faceless YouTube brand in ...",
+        "link": "https://www.reddit.com/r/AiForPinoys/comments/1qx8gdg/here_are_15_claude_45_prompts_to_build_a_faceless/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a here_are_15_claude_45_promp...",
+        "snippet": "I have been experimenting on faceless Youtube channel, and here are the 15 prompts that got me started and experimenting with Claude.",
+        "position": 8
+      },
+      {
+        "title": "I'm Building a Faceless YouTube Channel With Claude AI, and Here's ...",
+        "link": "https://medium.com/@VeeRum/im-building-a-faceless-youtube-channel-with-claude-ai-and-here-s-the-workflow-i-d-use-to-make-it-934ec98e1ba7",
+        "displayedLink": "https://medium.com \u203a @VeeRum \u203a im-building-a-faceless-yout...",
+        "snippet": "Start with a compelling hook that immediately introduces a surprising fact, conflict, or unanswered question. Avoid generic introductions and ...",
+        "position": 9
+      },
+      {
+        "title": "This Faceless YouTube Channel Made $65K With Claude AI ...",
+        "link": "https://www.youtube.com/watch?v=kBffHaLOjuM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to create a faceless YouTube channel using Claude AI, This step-by-step tutorial covers generating videos, adding AI voiceovers,\u00a0...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

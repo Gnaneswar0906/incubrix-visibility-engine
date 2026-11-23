@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, dealing with long-form video can be a bottleneck for production speed. Finding a tool that handles long videos (10+ minutes, or even hour-long podcasts/webinars) with accurate auto-captions **for free** is tricky because most AI tools limit free tiers by video length or add watermarks.\n\nHere\u2019s a breakdown of the best options, workflows, and industry tools, tailored for US creators who need high accuracy and cost efficiency.\n\n### \ud83c\udfc6 Top Recommendation: The \"Truly Free\" & Accurate Combo\nFor long videos, no single free tool is perfect. The best **workflow** is:\n1. **Transcribe** with a free, unlimited tool.",
+  "raw_payload": {
+    "id": "chatcmpl-c0fa7700-310e-4891-bed6-ac3d5f080f6b",
+    "object": "chat.completion",
+    "created": 1795376635,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, dealing with long-form video can be a bottleneck for production speed. Finding a tool that handles long videos (10+ minutes, or even hour-long podcasts/webinars) with accurate auto-captions **for free** is tricky because most AI tools limit free tiers by video length or add watermarks.\n\nHere\u2019s a breakdown of the best options, workflows, and industry tools, tailored for US creators who need high accuracy and cost efficiency.\n\n### \ud83c\udfc6 Top Recommendation: The \"Truly Free\" & Accurate Combo\nFor long videos, no single free tool is perfect. The best **workflow** is:\n1. **Transcribe** with a free, unlimited tool."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048002637,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005171843,
+      "completion_tokens": 150,
+      "completion_time": 0.293090313,
+      "total_tokens": 229,
+      "total_time": 0.298262156
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cjq8keg7vtttcha7fvqzs",
+      "seed": 705911253
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1090,
+  "cost_usd": 0.0002
+}

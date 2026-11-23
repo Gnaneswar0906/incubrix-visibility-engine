@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to **auto-generate video captions for free**, the current creator economy ecosystem offers several powerful tools with free tiers, alongside automated workflow methods to save hours of editing time. \n\nHere is a breakdown of the best software tools, industry options (including the ones you mentioned), and an efficient workflow to streamline your video production.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best Overall for Mobile & Desktop Free Captions)\n* **Overview:** CapCut (owned by ByteDance) is arguably the most popular tool for free auto-captions, especially for short-form content (TikTok, Reels, Shorts).\n* **Free Features:** Its \"Auto Captions\" feature analyzes audio with high accuracy and generates stylized, word-by-word animated captions instantly. \n* **US Creator Context:** Highly favored by U.S. creators due to its",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to **auto-generate video captions for free**, the current creator economy ecosystem offers several powerful tools with free tiers, alongside automated workflow methods to save hours of editing time. \n\nHere is a breakdown of the best software tools, industry options (including the ones you mentioned), and an efficient workflow to streamline your video production.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best Overall for Mobile & Desktop Free Captions)\n* **Overview:** CapCut (owned by ByteDance) is arguably the most popular tool for free auto-captions, especially for short-form content (TikTok, Reels, Shorts).\n* **Free Features:** Its \"Auto Captions\" feature analyzes audio with high accuracy and generates stylized, word-by-word animated captions instantly. \n* **US Creator Context:** Highly favored by U.S. creators due to its",
+              "thoughtSignature": "Eo4BCosBAWkUfRPw6EyckGyXD3LwcPE1po/c5b8FV3fCMifKeReuB1vlqLgNdoUCuIRuN3qgcTgYDna3WKSTbUEP74r5I4ym044kBnI2+pZnfP2LJ+9fv6YVyu7nVL4NfWkCQ61aIzhFIigwEiZ9a7xoHVWOlZI/SiW0DfBX0P7V58g2uUUW1Ht6CpffPEDsuQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VD4Da4S0N73J1_oP6aW9yQY"
+  },
+  "latency_ms": 6457,
+  "cost_usd": 0.0002
+}

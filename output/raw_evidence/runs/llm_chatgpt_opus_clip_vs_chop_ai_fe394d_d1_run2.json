@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant, I can provide you with information on various software tools and workflow methods for content creation, including Opus Clip and Chop AI. However, since the query mentions two specific tools, I will primarily focus on comparing Opus Clip and Chop AI and provide additional information on other relevant options.\n\n1. Opus Clip:\nOpus Clip is a video editing software developed by Vidvault Technology. It is known for its user-friendly interface and efficient features, making it suitable for content creators at various skill levels. Opus Clip offers the following benefits:\n\n   - Easy-to-use interface: Opus Clip's intuitive design makes it",
+  "raw_payload": {
+    "id": "chatcmpl-e450d1d9-948f-4128-9bb7-22a523f44110",
+    "object": "chat.completion",
+    "created": 1795375362,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As an AI assistant, I can provide you with information on various software tools and workflow methods for content creation, including Opus Clip and Chop AI. However, since the query mentions two specific tools, I will primarily focus on comparing Opus Clip and Chop AI and provide additional information on other relevant options.\n\n1. Opus Clip:\nOpus Clip is a video editing software developed by Vidvault Technology. It is known for its user-friendly interface and efficient features, making it suitable for content creators at various skill levels. Opus Clip offers the following benefits:\n\n   - Easy-to-use interface: Opus Clip's intuitive design makes it"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050585901,
+      "prompt_tokens": 80,
+      "prompt_time": 0.002806608,
+      "completion_tokens": 150,
+      "completion_time": 0.108582698,
+      "total_tokens": 230,
+      "total_time": 0.111389306
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82bbwc1ektv21ta3z8qtp9y",
+      "seed": 560697830
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5514,
+  "cost_usd": 0.0002
+}

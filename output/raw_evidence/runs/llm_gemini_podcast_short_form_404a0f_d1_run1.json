@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast short form",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant catering to a content creator in Great Britain, navigating the booming UK podcast landscape requires a sharp focus on efficiency, platform-native formatting, and UK-centric infrastructure. Short-form video (TikTok, YouTube Shorts, Instagram Reels) is currently the primary discovery engine for long-form podcasts. \n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to help you scale your podcast short-form content.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market is split between **AI-driven auto-clippers** (which do the heavy lifting of finding highlights) and **all-in-one editing suites** (which offer precision control, transcription, and publishing).\n\n#### A. Opus Clip (The AI Curation Leader)\n*   **What it does:** An AI-powered generative video tool that takes a long-form YouTube link or uploaded video, analyzes it, and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant catering to a content creator in Great Britain, navigating the booming UK podcast landscape requires a sharp focus on efficiency, platform-native formatting, and UK-centric infrastructure. Short-form video (TikTok, YouTube Shorts, Instagram Reels) is currently the primary discovery engine for long-form podcasts. \n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to help you scale your podcast short-form content.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market is split between **AI-driven auto-clippers** (which do the heavy lifting of finding highlights) and **all-in-one editing suites** (which offer precision control, transcription, and publishing).\n\n#### A. Opus Clip (The AI Curation Leader)\n*   **What it does:** An AI-powered generative video tool that takes a long-form YouTube link or uploaded video, analyzes it, and",
+              "thoughtSignature": "Eo4BCosBAWkUfRNabfaw35mZBETBNTBFm1sBucqE6QwzZMzE9xR1XJu2M4MFA+H8DxXyeOYd7giprA3Y8AhQh0l/do7IOhu4/hj6NmcQXsPpj0jNRQ+U0ISChSqrdPKPGl0Liuuqbm0+9GGkVX7WDmSa3z3QtCPiLqF34qzdOCjk5AJ1Z5eVB5O0c9Atc/6iSA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "a0EDa9zZArDOmNMPy7yAuQQ"
+  },
+  "latency_ms": 3040,
+  "cost_usd": 0.0002
+}

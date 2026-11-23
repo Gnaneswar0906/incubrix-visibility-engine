@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "where can i make a podcast for free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer query: where can I make a podcast for free. Recommend best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator in India. Provide free podcast creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 3574,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_where_can_i_make_a_podcast_for_free_fb0961_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for free podcast creation platforms, software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should comply with",
+      "cost_usd": 0.0002,
+      "latency_ms": 3252,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_where_can_i_make_a_podcast_for_free_fb0961_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_where_can_i_make_a_podcast_for_free_fb0961_d1_IN.json"
+}

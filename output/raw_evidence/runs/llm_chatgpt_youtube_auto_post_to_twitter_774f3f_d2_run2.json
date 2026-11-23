@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto post to twitter",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to recommend best software tools, workflow methods for auto posting YouTube videos to Twitter, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Should be helpful to content creator in GB. Provide workflow, tools, steps. Cite sources. Use up-to-date info. Use markdown. Provide links. Provide citations like [1]. Let's search memory: YouTube auto post to Twitter: Tools like Hootsuite, Buffer, Later, Zapier, IFTTT, SocialBee, Sprout Social, TweetDeck. Also use YouTube's built-in social sharing? Not auto. Tools like TubeBuddy? For auto posting, use Zapier integration",
+  "raw_payload": {
+    "id": "chatcmpl-cc7987e7-6fc7-476b-bd78-46bb142a8e4e",
+    "object": "chat.completion",
+    "created": 1795377490,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to recommend best software tools, workflow methods for auto posting YouTube videos to Twitter, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Should be helpful to content creator in GB. Provide workflow, tools, steps. Cite sources. Use up-to-date info. Use markdown. Provide links. Provide citations like [1]. Let's search memory: YouTube auto post to Twitter: Tools like Hootsuite, Buffer, Later, Zapier, IFTTT, SocialBee, Sprout Social, TweetDeck. Also use YouTube's built-in social sharing? Not auto. Tools like TubeBuddy? For auto posting, use Zapier integration"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.28461674,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006555217,
+      "completion_tokens": 150,
+      "completion_time": 0.160342917,
+      "total_tokens": 284,
+      "total_time": 0.166898134,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_565badff47",
+    "x_groq": {
+      "id": "req_01m82dctcjevrs4kghx5acgr5r",
+      "seed": 677388230
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3882,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=opus+clip+vs+s",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "opus clip vs s",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:56:19.662812+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "opus clip vs submagic",
+    "opus clip vs ssemble",
+    "opus clip vs streamladder",
+    "opus clip vs sermon shots",
+    "opus clip starter vs pro",
+    "opus clip or submagic",
+    "opus game review",
+    "opus vs wav",
+    "opus one review",
+    "opus op lite review"
+  ],
+  "raw_response": "[\"opus clip vs s\",[\"opus clip vs submagic\",\"opus clip vs ssemble\",\"opus clip vs streamladder\",\"opus clip vs sermon shots\",\"opus clip starter vs pro\",\"opus clip or submagic\",\"opus game review\",\"opus vs wav\",\"opus one review\",\"opus op lite review\"],[],{\"google:suggestsubtypes\":[[512],[512],[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

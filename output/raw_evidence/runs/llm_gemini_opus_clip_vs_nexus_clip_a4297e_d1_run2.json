@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to repurpose long-form videos (like YouTube podcasts, streams, or tutorials) into short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right AI clipping tool is crucial. \n\nWhen comparing **Opus Clip** and **Nexus Clip**, you are looking at two strong contenders in the automated video clipping space. Below is a detailed breakdown of these two tools, a comparison with other industry options, and a recommended workflow.\n\n---\n\n### Part 1: Opus Clip vs. Nexus Clip\n\n#### **Opus Clip**\n*   **Overview:** Opus Clip is currently one of the market leaders in AI-powered video repurposing. It uses advanced GPT-based AI to analyze the narrative arc of a long video, extract the most engaging hooks, and automatically format them into viral-ready shorts complete with captions and emojis.\n*   **Key Strengths:**\n    *   **Curation",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to repurpose long-form videos (like YouTube podcasts, streams, or tutorials) into short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right AI clipping tool is crucial. \n\nWhen comparing **Opus Clip** and **Nexus Clip**, you are looking at two strong contenders in the automated video clipping space. Below is a detailed breakdown of these two tools, a comparison with other industry options, and a recommended workflow.\n\n---\n\n### Part 1: Opus Clip vs. Nexus Clip\n\n#### **Opus Clip**\n*   **Overview:** Opus Clip is currently one of the market leaders in AI-powered video repurposing. It uses advanced GPT-based AI to analyze the narrative arc of a long video, extract the most engaging hooks, and automatically format them into viral-ready shorts complete with captions and emojis.\n*   **Key Strengths:**\n    *   **Curation",
+              "thoughtSignature": "Eo4BCosBAWkUfRPrnp/PrxETGZ/XdJp+T5wexHjT2xWhCL5OpiI81Ljh/Dxig1L3Mo8mjVMaRYSv/+R+7KRvkGi6kbAhe2UBW67iBRFCwr6J5TwLdooLUPYOgAKhEJEPYFsXTItAO487XprpyNJJH59LqfCX5Bh3EKpIh2wmQpsFJfHOgbTCXLWeLqiY79urkw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "gj8Da6P8Dbang8UPtoWLSQ"
+  },
+  "latency_ms": 2379,
+  "cost_usd": 0.0002
+}

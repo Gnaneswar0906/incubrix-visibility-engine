@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a US content creator. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Provide a step-by-step workflow for auto posting YouTube Shorts, including scheduling, uploading via YouTube Studio, using third-party tools that support Shorts, automation via APIs, etc. Also mention legal considerations (YouTube policies). Provide best practices.\n\nWe need to cite sources. We can reference official YouTube help pages, articles from Tubefilter, Social Media Examiner, etc. Provide links.\n\nWe should be thorough. Also mention tools",
+  "raw_payload": {
+    "id": "chatcmpl-88b63478-0f99-4ed5-b0ce-c0e7154a41a7",
+    "object": "chat.completion",
+    "created": 1795374913,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Provide a step-by-step workflow for auto posting YouTube Shorts, including scheduling, uploading via YouTube Studio, using third-party tools that support Shorts, automation via APIs, etc. Also mention legal considerations (YouTube policies). Provide best practices.\n\nWe need to cite sources. We can reference official YouTube help pages, articles from Tubefilter, Social Media Examiner, etc. Provide links.\n\nWe should be thorough. Also mention tools"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155196185,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005551095,
+      "completion_tokens": 150,
+      "completion_time": 0.310804489,
+      "total_tokens": 285,
+      "total_time": 0.316355584,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82ay5wremer5khzbr0pv065",
+      "seed": 897233591
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3902,
+  "cost_usd": 0.0002
+}

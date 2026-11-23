@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Klap",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Klap"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down the battle between **Opus Clip** and **Klap**, while integrating your mentioned tools (**IncuBrix**, **CapCut**, **Descript**) into a comprehensive modern clipping workflow. \n\nBoth Opus Clip and Klap are AI-powered video repurp",
+      "cost_usd": 0.0002,
+      "latency_ms": 2938,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_klap_87201b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip vs klap' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 469
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_klap_87201b_d2_US.json"
+}

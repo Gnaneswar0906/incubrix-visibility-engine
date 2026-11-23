@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove words from a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you likely need efficient ways to edit dialogue, remove filler words (like \"um,\" \"uh,\" \"you know\"), or cut out specific segments quickly.\n\nBelow are the best software tools, workflow methods, and industry options for removing words from video, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** \u2013 *Best for Text-Based Video Editing*\n- **Why it\u2019s great**: Descript lets you edit video by editing the transcript. You can highlight and delete words or sentences in the text, and the video updates automatically.\n- **Key Feature**: \u201cFiller Words\u201d button \u2013 one-click removal of \u201cum",
+  "raw_payload": {
+    "id": "chatcmpl-ea97d756-b18a-42cd-81b7-adab70527d63",
+    "object": "chat.completion",
+    "created": 1795375564,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you likely need efficient ways to edit dialogue, remove filler words (like \"um,\" \"uh,\" \"you know\"), or cut out specific segments quickly.\n\nBelow are the best software tools, workflow methods, and industry options for removing words from video, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** \u2013 *Best for Text-Based Video Editing*\n- **Why it\u2019s great**: Descript lets you edit video by editing the transcript. You can highlight and delete words or sentences in the text, and the video updates automatically.\n- **Key Feature**: \u201cFiller Words\u201d button \u2013 one-click removal of \u201cum"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048182344,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005174015,
+      "completion_tokens": 150,
+      "completion_time": 0.285678638,
+      "total_tokens": 227,
+      "total_time": 0.290852653
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bj1ahexhrdhva0v8e65d1",
+      "seed": 1737693627
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1317,
+  "cost_usd": 0.0002
+}

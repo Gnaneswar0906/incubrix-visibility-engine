@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel monetization",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, monetizing a \"Podcast Shorts\" channel (converting long-form audio/podcast content into vertical video clips) is a highly lucrative but competitive strategy. The key to success lies in **automating the repurposing workflow**, ensuring **high-quality visual edits*",
+      "cost_usd": 0.0002,
+      "latency_ms": 1758,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_monetization_df2f89_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Also note policy: no disa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2926,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_monetization_df2f89_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_channel_monetization_df2f89_d1_IN.json"
+}

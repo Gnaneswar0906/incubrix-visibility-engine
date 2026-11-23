@@ -1,0 +1,56 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for text-based video editing AI tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for a content creator in US. Provide best software tools, workflow methods, mention key industry options. Provide citations (maybe using footnotes with URLs). Must ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: overview of text-based video editing AI, top tools (including those mentioned and others like Pictory, Veed.io, Runway, Synthesia, InVideo, etc.), compare features, pricing, pros/cons. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-36717ff9-7393-49a2-813e-508e9e39b117",
+    "object": "chat.completion",
+    "created": 1795374668,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for text-based video editing AI tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for a content creator in US. Provide best software tools, workflow methods, mention key industry options. Provide citations (maybe using footnotes with URLs). Must ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: overview of text-based video editing AI, top tools (including those mentioned and others like Pictory, Veed.io, Runway, Synthesia, InVideo, etc.), compare features, pricing, pros/cons. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155329769,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00527698,
+      "completion_tokens": 150,
+      "completion_time": 0.309879155,
+      "total_tokens": 284,
+      "total_time": 0.315156135,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82apnrke1r8q9bdx0tvsnwb",
+      "seed": 297134654
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2998,
+  "cost_usd": 0.0002
+}

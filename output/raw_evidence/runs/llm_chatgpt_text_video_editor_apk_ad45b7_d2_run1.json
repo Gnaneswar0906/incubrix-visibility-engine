@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor apk",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you likely need tools that are not only powerful but also optimized for mobile performance, data efficiency, and local market trends. Since your query is specifically about **text-based video editing via APK (Android apps)**, I\u2019ve curated a list of the best options, focusing on those that allow you to edit video by editing the transcript (text), which is a game-changer for efficiency.\n\n### \ud83c\udfc6 Top Recommended Text-Based Video Editors (Android/APK)\n\n#### 1. **CapCut** (Most Popular & User-Friendly)\n- **Why it\u2019s great for IN creators**: CapCut is a staple in India due to its zero-learning curve, free features, and strong integration",
+  "raw_payload": {
+    "id": "chatcmpl-b38d7c93-33e2-4897-af9d-e02987bd2fc1",
+    "object": "chat.completion",
+    "created": 1795376951,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you likely need tools that are not only powerful but also optimized for mobile performance, data efficiency, and local market trends. Since your query is specifically about **text-based video editing via APK (Android apps)**, I\u2019ve curated a list of the best options, focusing on those that allow you to edit video by editing the transcript (text), which is a game-changer for efficiency.\n\n### \ud83c\udfc6 Top Recommended Text-Based Video Editors (Android/APK)\n\n#### 1. **CapCut** (Most Popular & User-Friendly)\n- **Why it\u2019s great for IN creators**: CapCut is a staple in India due to its zero-learning curve, free features, and strong integration"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.092821282,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005495518,
+      "completion_tokens": 150,
+      "completion_time": 0.285391738,
+      "total_tokens": 226,
+      "total_time": 0.290887256
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cwbrde7ht1d4cdwqb0j24",
+      "seed": 221301308
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1871,
+  "cost_usd": 0.0002
+}

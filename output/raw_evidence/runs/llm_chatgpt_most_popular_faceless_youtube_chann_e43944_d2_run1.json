@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are entering a market with massive untapped potential for faceless content. The \"faceless\" niche (often called \"anonymous\" or \"AI-generated\") is exploding because it removes the barrier of camera shyness and allows for scalable production.\n\nHere is a comprehensive guide to the **most popular faceless YouTube channel types** in 2024\u20132025, along with the **best software tools** and **workflow methods** to execute them efficiently.\n\n### \ud83c\udfc6 Top 5 Most Popular Faceless YouTube Niches (2024\u20132025)\n\n1.  **Top 10 / Listicle Channels**  \n    *",
+  "raw_payload": {
+    "id": "chatcmpl-516b61e5-f887-42a9-b724-d6b70a79eb12",
+    "object": "chat.completion",
+    "created": 1795377185,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are entering a market with massive untapped potential for faceless content. The \"faceless\" niche (often called \"anonymous\" or \"AI-generated\") is exploding because it removes the barrier of camera shyness and allows for scalable production.\n\nHere is a comprehensive guide to the **most popular faceless YouTube channel types** in 2024\u20132025, along with the **best software tools** and **workflow methods** to execute them efficiently.\n\n### \ud83c\udfc6 Top 5 Most Popular Faceless YouTube Niches (2024\u20132025)\n\n1.  **Top 10 / Listicle Channels**  \n    *"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046706214,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006098595,
+      "completion_tokens": 150,
+      "completion_time": 0.285524438,
+      "total_tokens": 228,
+      "total_time": 0.291623033
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d3g3peebv4js82k3mj52b",
+      "seed": 1113603078
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1356,
+  "cost_usd": 0.0002
+}

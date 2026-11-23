@@ -1,0 +1,178 @@
+{
+  "target": "https://incubrix.com",
+  "timestamp": "2026-11-22T13:46:01.274065+00:00",
+  "robots_status": 200,
+  "sitemap_status": 200,
+  "sitemap_urls_count": 12,
+  "llms_txt_status": 404,
+  "pages": {
+    "https://incubrix.com/": {
+      "status_code": 200,
+      "title": "IncuBrix | Create With Purpose. Publish Without Limits.",
+      "description": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform | then publishes and tracks it all from one screen.",
+      "canonical": "https://incubrix.com/",
+      "h1_count": 1,
+      "h1_texts": [
+        "Create With Purpose. Publish Without Limits."
+      ],
+      "h2_count": 4,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 6,
+      "html_length": 60956
+    },
+    "https://incubrix.com/about": {
+      "status_code": 200,
+      "title": "About Us | IncuBrix | Building the Future of CreatorOps",
+      "description": "IncuBrix unifies AI-assisted creation, intelligent repurposing, and multi-platform publishing into one seamless workflow.",
+      "canonical": "https://incubrix.com/about",
+      "h1_count": 1,
+      "h1_texts": [
+        "IncuBrixBuilding the Future of CreatorOps"
+      ],
+      "h2_count": 8,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 47031
+    },
+    "https://incubrix.com/how-it-works": {
+      "status_code": 200,
+      "title": "How IncuBrix Works | From Idea to Impact",
+      "description": "See how creators turn ideas into content, reach, and growth with IncuBrix: creation, publishing, and analytics.",
+      "canonical": "https://incubrix.com/how-it-works",
+      "h1_count": 1,
+      "h1_texts": [
+        "How IncuBrix Works"
+      ],
+      "h2_count": 5,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 6,
+      "html_length": 46815
+    },
+    "https://incubrix.com/pricing": {
+      "status_code": 200,
+      "title": "Pricing | IncuBrix Creator Studio Plans",
+      "description": "Simple, credit-based pricing for your creator business: Free, Starter, Essential, Growth, Scale, and Pro plans.",
+      "canonical": "https://incubrix.com/pricing",
+      "h1_count": 1,
+      "h1_texts": [
+        "Simple Pricing"
+      ],
+      "h2_count": 1,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 39106
+    },
+    "https://incubrix.com/contact": {
+      "status_code": 200,
+      "title": "Contact & Support | IncuBrix",
+      "description": "Found a bug, have an idea, or just want to say hi? The IncuBrix team is ready to listen.",
+      "canonical": "https://incubrix.com/contact",
+      "h1_count": 1,
+      "h1_texts": [
+        "How can we help you today?"
+      ],
+      "h2_count": 3,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 41400
+    },
+    "https://incubrix.com/waitlist": {
+      "status_code": 200,
+      "title": "IncuBrix | Every creator deserves a crew. Yours just arrived.",
+      "description": "IncuBrix is the customized content studio for podcasters, YouTubers and creators stuck in one format. Creator Studio is live. Start free today.",
+      "canonical": "https://incubrix.com/waitlist",
+      "h1_count": 1,
+      "h1_texts": [
+        "Every creator deserves a crew.\n    Yours just arrived."
+      ],
+      "h2_count": 5,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 0,
+      "html_length": 55005
+    },
+    "https://incubrix.com/faq": {
+      "status_code": 200,
+      "title": "FAQ | IncuBrix | Frequently Asked Questions",
+      "description": "Everything you need to know about IncuBrix | getting started, features, pricing, brand partnerships, data privacy, and support.",
+      "canonical": "https://incubrix.com/faq",
+      "h1_count": 1,
+      "h1_texts": [
+        "Frequently Asked Questions"
+      ],
+      "h2_count": 1,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 41192
+    },
+    "https://incubrix.com/team": {
+      "status_code": 200,
+      "title": "Our Team | IncuBrix",
+      "description": "Meet the IncuBrix leadership and advisory team building the future of creator operations and AI-powered content platforms.",
+      "canonical": "https://incubrix.com/team",
+      "h1_count": 1,
+      "h1_texts": [
+        "Meet the team building the future of creator operations"
+      ],
+      "h2_count": 2,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 37593
+    },
+    "https://incubrix.com/privacy": {
+      "status_code": 200,
+      "title": "Privacy Policy | IncuBrix",
+      "description": "How IncuBrix collects, uses, and protects your data. Last updated 24 March 2026.",
+      "canonical": "https://incubrix.com/privacy",
+      "h1_count": 1,
+      "h1_texts": [
+        "Privacy Policy"
+      ],
+      "h2_count": 21,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 54815
+    },
+    "https://incubrix.com/terms": {
+      "status_code": 200,
+      "title": "Terms of Service | IncuBrix",
+      "description": "The agreement between IncuBrix Pte. Ltd. and users of the platform. Last updated 24 March 2026.",
+      "canonical": "https://incubrix.com/terms",
+      "h1_count": 1,
+      "h1_texts": [
+        "Terms of Service"
+      ],
+      "h2_count": 30,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 52782
+    },
+    "https://incubrix.com/manifesto": {
+      "status_code": 200,
+      "title": "What we believe \u2014 IncuBrix",
+      "description": "A short letter from the people building IncuBrix. Five beliefs about creators, their hours, and their Sundays.",
+      "canonical": "https://incubrix.com/manifesto",
+      "h1_count": 1,
+      "h1_texts": [
+        ""
+      ],
+      "h2_count": 5,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 0,
+      "html_length": 36999
+    },
+    "https://incubrix.com/careers": {
+      "status_code": 200,
+      "title": "Careers | IncuBrix, Build the Creator Operating System",
+      "description": "Join the team building the Creator Operating System. Open engineering roles, a creator-obsessed culture, and a mission to end The Second Job.",
+      "canonical": "https://incubrix.com/careers",
+      "h1_count": 1,
+      "h1_texts": [
+        "Build the operating system\n    the creator economy\n    runs on."
+      ],
+      "h2_count": 5,
+      "json_ld_count": 0,
+      "insecure_http_links_count": 3,
+      "html_length": 51959
+    }
+  }
+}

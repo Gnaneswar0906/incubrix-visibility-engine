@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, automating your YouTube workflow is essential for scaling. However, it\u2019s important to clarify a key distinction first: **YouTube does not allow fully autonomous, unsupervised posting via third-party APIs for standard channels** due to spam and quality control p",
+      "cost_usd": 0.0002,
+      "latency_ms": 1182,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_to_youtube_35293d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto posting to YouTube, including best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide a thorough answer: overview of automation, tools like Tu",
+      "cost_usd": 0.0002,
+      "latency_ms": 2528,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_to_youtube_35293d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_to_youtube_35293d_d2_US.json"
+}

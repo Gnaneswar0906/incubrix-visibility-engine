@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is the best",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"what video editor is the best\". Provide recommendation of best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. So maybe mention UK-based or globally available. Provide a comprehensive answer. Cite sources. We need to provide citations. Let's find authoritative sources: e.g., TechRadar, PCMag, Wired, CNET, etc. Provide links. Provide recommendation: For professionals: Adobe Premiere Pro, Final Cut Pro (Mac), DaVinci Resolve. For creators: CapCut, Descript, Opus Clip, IncuBrix.",
+  "raw_payload": {
+    "id": "chatcmpl-23a6db53-93fe-4722-8ebe-3d0ab2112811",
+    "object": "chat.completion",
+    "created": 1795377313,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"what video editor is the best\". Provide recommendation of best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. So maybe mention UK-based or globally available. Provide a comprehensive answer. Cite sources. We need to provide citations. Let's find authoritative sources: e.g., TechRadar, PCMag, Wired, CNET, etc. Provide links. Provide recommendation: For professionals: Adobe Premiere Pro, Final Cut Pro (Mac), DaVinci Resolve. For creators: CapCut, Descript, Opus Clip, IncuBrix."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36909349,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006511838,
+      "completion_tokens": 150,
+      "completion_time": 0.158209542,
+      "total_tokens": 285,
+      "total_time": 0.16472138,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_1d46a73b8b",
+    "x_groq": {
+      "id": "req_01m82d7dj5e3ab14kh9eqxvj59",
+      "seed": 562841538
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4770,
+  "cost_usd": 0.0002
+}

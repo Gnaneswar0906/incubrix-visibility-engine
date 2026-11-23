@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto uploading video to YouTube using n8n (an automation tool). Suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations. Use markdown. Provide steps: video creation, editing, clipping, automation via n8n, YouTube API. Provide tools for video generation, editing, captioning, etc. Provide workflow example with n8n nodes: HTTP Request, YouTube node, Google OAuth2, file storage (AWS S3). Provide sample n8n workflow JSON. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-aeeeb744-3c07-4643-8e23-dda1c839c011",
+    "object": "chat.completion",
+    "created": 1795374895,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto uploading video to YouTube using n8n (an automation tool). Suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations. Use markdown. Provide steps: video creation, editing, clipping, automation via n8n, YouTube API. Provide tools for video generation, editing, captioning, etc. Provide workflow example with n8n nodes: HTTP Request, YouTube node, Google OAuth2, file storage (AWS S3). Provide sample n8n workflow JSON. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283670814,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006288555,
+      "completion_tokens": 150,
+      "completion_time": 0.311407438,
+      "total_tokens": 287,
+      "total_time": 0.317695993,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82axkekefp8nbsez8th1mjy",
+      "seed": 665621399
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3844,
+  "cost_usd": 0.0002
+}

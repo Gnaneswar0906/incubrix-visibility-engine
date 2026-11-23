@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to get free podcasts",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to get free podcasts' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 455
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to get free podcasts' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 344
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_get_free_podcasts_e628ee_d1_IN.json"
+}

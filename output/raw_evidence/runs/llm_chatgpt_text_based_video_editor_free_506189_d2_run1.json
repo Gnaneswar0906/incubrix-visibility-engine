@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Pick: Free **text\u2011centric** video editors for creators in the U.S.\n\n| Tool (Free tier) | Core strength for \u201ctext\u2011based",
+  "raw_payload": {
+    "id": "chatcmpl-d1f9df0d-2433-4a9b-900e-5e696d5d5a85",
+    "object": "chat.completion",
+    "created": 1795376559,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Pick: Free **text\u2011centric** video editors for creators in the U.S.\n\n| Tool (Free tier) | Core strength for \u201ctext\u2011based",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US, recommending best free text-based video editors, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide list of tools, descriptions, pros/cons, workflow suggestions. Cite sources. Use markdown. Provide URLs. Should be up-to-date as of 2026. Let's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368297886,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006738953,
+      "completion_tokens": 150,
+      "completion_time": 0.314219478,
+      "total_tokens": 284,
+      "total_time": 0.320958431,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cgd4te7grvawqn796g3ct",
+      "seed": 328673597
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3100,
+  "cost_usd": 0.0002
+}

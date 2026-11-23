@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your video production, auto-generating captions for Instagram Reels is one of the highest-return investments you can make. Captions improve accessibility, boost engagement (since many watch on mute), and enhance audience retention. \n\nHere is a com",
+      "cost_usd": 0.0002,
+      "latency_ms": 5720,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_instagra_c2912c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the U.S. looking to scale your Instagram Reels production, leveraging AI-powered auto-captioning tools is one of the most effective ways to boost watch time and engagement (especially since a high percentage of users watch social video on mute). \n\nHere is",
+      "cost_usd": 0.0002,
+      "latency_ms": 3206,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_instagra_c2912c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_instagra_c2912c_d2_US.json"
+}

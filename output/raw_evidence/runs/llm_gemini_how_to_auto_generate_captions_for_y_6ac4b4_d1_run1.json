@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to \"sound-off\" mobile viewers. As a content creator in India, your workflow needs to balance **speed, regional language accuracy (especially Hinglish/Hindi/English mix), and cost-effectiveness.**\n\nHere is a comprehensive guide to the best software tools, industry options, and a streamlined workflow to auto-generate captions for your YouTube channel.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\n#### **A. CapCut (Best Free Mobile & Desktop App for Dynamic Captions)**\n*   **Overview:** CapCut is heavily favored by short-form creators (Shorts, Reels) for its trendy, highly visual, auto-generated \"karaoke-style\" captions.\n*   **Pros:** Extremely user-friendly, free templates, supports multiple languages, and allows manual text editing easily.\n*   **Best",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to \"sound-off\" mobile viewers. As a content creator in India, your workflow needs to balance **speed, regional language accuracy (especially Hinglish/Hindi/English mix), and cost-effectiveness.**\n\nHere is a comprehensive guide to the best software tools, industry options, and a streamlined workflow to auto-generate captions for your YouTube channel.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\n#### **A. CapCut (Best Free Mobile & Desktop App for Dynamic Captions)**\n*   **Overview:** CapCut is heavily favored by short-form creators (Shorts, Reels) for its trendy, highly visual, auto-generated \"karaoke-style\" captions.\n*   **Pros:** Extremely user-friendly, free templates, supports multiple languages, and allows manual text editing easily.\n*   **Best",
+              "thoughtSignature": "Eo4BCosBAWkUfROjGqJ+KK2fbfrD1b4Gt5qGKS3f+JlX4eP6QPvGvaMoSGUnVZ7zwbusb1/UIS+DTGBu3BwrGCRPh8TAF9BTEegcD8NiB1XKae2kQDbMv1dvu+B8L8obqur6ZskeNynTiqUf01T3CVwWb2BYOAYuCzkbG7WL6yvK9gdE1kcaJC9BHR3CY2/shg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "lkADa6PaOL3BqfkPlYWBWQ"
+  },
+  "latency_ms": 8335,
+  "cost_usd": 0.0002
+}

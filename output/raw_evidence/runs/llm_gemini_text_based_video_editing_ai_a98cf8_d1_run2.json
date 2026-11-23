@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **Text-Based Video Editing (TBVE)**\u2014often referred to as transcript-based editing\u2014is one of the fastest-growing workflows in digital media. It allows creators to edit video files simply by highlighting, cutting, pasting, and deleting text in an accompanying transcript, eliminating much of the tedious timeline trimming traditionally done in software like Adobe Premiere Pro.\n\nHere is a comprehensive guide to the best tools, key industry options (including your requested mentions), and an optimized workflow method tailored for a U.S.-based creator.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nThe text-based video editing landscape generally falls into three categories: **All-in-one AI suites**, **Repurposing/Clip generators**, and **Traditional NLEs with AI integration**.\n\n#### **A. Descript (The Industry Pioneer for Podcasters & Talking Heads",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **Text-Based Video Editing (TBVE)**\u2014often referred to as transcript-based editing\u2014is one of the fastest-growing workflows in digital media. It allows creators to edit video files simply by highlighting, cutting, pasting, and deleting text in an accompanying transcript, eliminating much of the tedious timeline trimming traditionally done in software like Adobe Premiere Pro.\n\nHere is a comprehensive guide to the best tools, key industry options (including your requested mentions), and an optimized workflow method tailored for a U.S.-based creator.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nThe text-based video editing landscape generally falls into three categories: **All-in-one AI suites**, **Repurposing/Clip generators**, and **Traditional NLEs with AI integration**.\n\n#### **A. Descript (The Industry Pioneer for Podcasters & Talking Heads",
+              "thoughtSignature": "Eo4BCosBAWkUfRObuGhAgzl4Po8ZIir9L1x5JMO+TRjbCDKvtQffzXlLLMHD8EECFg0I4BilUzMdhsKcvR3umAEARrEqbFgl1E0563HFNTpnBWCypQHiBxrN3EmvzSLIiKfrCFkSI3KfQQTg8LNhXx/dK93JqkJasqmY/mM8rdfRGJiU35Sb5LCC6rd4/g6DWw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "UD4Da-fXDpbZjNAPnL300A8"
+  },
+  "latency_ms": 5911,
+  "cost_usd": 0.0002
+}

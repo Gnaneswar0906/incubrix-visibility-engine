@@ -1,0 +1,92 @@
+{
+  "query": "auto upload youtube shorts ai",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto upload youtube shorts ai",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description, ...",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 1
+      },
+      {
+        "title": "AutoShorts.ai | #1 Faceless Video Generator for TikTok & YouTube",
+        "link": "https://autoshorts.ai/",
+        "displayedLink": "https://autoshorts.ai",
+        "snippet": "Our powerful AI video creation platform allows you to fully automate a faceless channel. Get views and grow while you sleep. Try AutoShorts.ai for Free.",
+        "position": 2
+      },
+      {
+        "title": "YouTube Shorts Maker - Create Shorts Free with AI",
+        "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a youtube-shorts-maker",
+        "snippet": "Turn any video into YouTube Shorts instantly using our free AI tool. Try it now and get shorts in minutes, no credit card required.",
+        "position": 3
+      },
+      {
+        "title": "YouTube Shorts Maker Free - Create Viral Shorts with AI",
+        "link": "https://wayin.ai/tools/youtube-shorts-maker/",
+        "displayedLink": "https://wayin.ai \u203a tools \u203a youtube-shorts-maker",
+        "snippet": "Make YouTube Shorts from long videos with AI using a free YouTube Shorts maker that generates 30+ engaging clips for YouTube, TikTok, and Instagram Reels.",
+        "position": 4
+      },
+      {
+        "title": "I built a fully automated \ud83c\udfacYouTube Shorts channel using AI\u2014here's a demo!",
+        "link": "https://www.reddit.com/r/SideProject/comments/1loc74k/i_built_a_fully_automated_youtube_shorts_channel/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_built_a_fully_automated_y...",
+        "position": 5
+      },
+      {
+        "title": "I created a 100% automated youtube shorts channel using free AI tools and python",
+        "link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cl6yoq/i_created_a_100_automated_youtube_shorts_channel/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_created_a_100_automated_y...",
+        "position": 6
+      },
+      {
+        "title": "Youtube shorts automation (free to minimum cost) - Questions",
+        "link": "https://community.make.com/t/youtube-shorts-automation-free-to-minimum-cost/82527",
+        "displayedLink": "https://community.make.com \u203a t \u203a youtube-shorts-automation-f... \u203a 82527",
+        "position": 7
+      },
+      {
+        "title": "How to Make YouTube Shorts with AI (Full Guide)",
+        "link": "https://www.youtube.com/watch?v=XX3JzfYo1Rk",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I show you how to create YouTube Shorts with AI in less than 15 minutes using a repeatable workflow for finding viral ideas,\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Youtube Ai Short Creator and Auto Uploader",
+        "link": "https://apify.com/bhansalisoft/youtube-ai-short-creator-and-auto-uploader",
+        "displayedLink": "https://apify.com \u203a bhansalisoft \u203a youtube-ai-short-creator-an...",
+        "snippet": "The YouTube AI Shorts Creator & Auto Uploader helps creators, generate engaging short videos, create captions, AI voiceovers,",
+        "position": 9
+      },
+      {
+        "title": "YouTube Auto-Upload Tool",
+        "link": "https://vuela.ai/tools/video/youtube-upload-scheduler",
+        "displayedLink": "https://vuela.ai \u203a tools \u203a video \u203a youtube-upload-scheduler",
+        "snippet": "Create and publish in one place. Generate your video with AI, then upload directly to YouTube with optimized metadata \u2014 all without leaving Vuela.",
+        "rating": 4.8,
+        "ratingCount": 1678,
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

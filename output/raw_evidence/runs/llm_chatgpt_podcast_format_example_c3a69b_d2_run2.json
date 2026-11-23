@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast format example",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example, and recommend best software tools, workflow methods, mention key industry options (including those mentioned). Cite sources. Must follow policy: no disallowed content. It's fine. Provide UK context maybe. Use citations with links.\n\nWe need to ensure citations are formatted. Use footnotes or inline. Provide authoritative sources like Wikipedia, industry blogs, official sites. Provide workflow steps",
+  "raw_payload": {
+    "id": "chatcmpl-c9aed3a1-851f-49b7-9e67-34dbe9c3997f",
+    "object": "chat.completion",
+    "created": 1795377251,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example, and recommend best software tools, workflow methods, mention key industry options (including those mentioned). Cite sources. Must follow policy: no disallowed content. It's fine. Provide UK context maybe. Use citations with links.\n\nWe need to ensure citations are formatted. Use footnotes or inline. Provide authoritative sources like Wikipedia, industry blogs, official sites. Provide workflow steps"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368425089,
+      "prompt_tokens": 132,
+      "prompt_time": 0.00571392,
+      "completion_tokens": 150,
+      "completion_time": 0.311846663,
+      "total_tokens": 282,
+      "total_time": 0.317560583,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82d5gpmen1v5c3wmyek82n2",
+      "seed": 1553355827
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4752,
+  "cost_usd": 0.0002
+}

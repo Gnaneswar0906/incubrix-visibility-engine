@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel using ai tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to produce a helpful answer: best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Use proper formatting. Also note that the user is a content creator located in India. Provide suggestions relevant to India, maybe mention local tools or cost-effective options. Provide citations with URLs. The user wants a tutorial for faceless YouTube channel using AI. So we should outline steps: concept, script generation using AI, voiceover AI, video editing AI, thumbnail, SEO, analytics. Provide recommended tools: AI script generation (ChatGPT, Jasper), AI voiceover (Descript Overdub, ElevenLabs, Murf",
+  "raw_payload": {
+    "id": "chatcmpl-e022bc57-c913-438d-9d40-3f21a6094d94",
+    "object": "chat.completion",
+    "created": 1795377224,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to produce a helpful answer: best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Use proper formatting. Also note that the user is a content creator located in India. Provide suggestions relevant to India, maybe mention local tools or cost-effective options. Provide citations with URLs. The user wants a tutorial for faceless YouTube channel using AI. So we should outline steps: concept, script generation using AI, voiceover AI, video editing AI, thumbnail, SEO, analytics. Provide recommended tools: AI script generation (ChatGPT, Jasper), AI voiceover (Descript Overdub, ElevenLabs, Murf"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156821675,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006668105,
+      "completion_tokens": 150,
+      "completion_time": 0.153488937,
+      "total_tokens": 286,
+      "total_time": 0.160157042,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e23fc997ca",
+    "x_groq": {
+      "id": "req_01m82d4pp9ep2sbwnfa4r5rryj",
+      "seed": 104106752
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3891,
+  "cost_usd": 0.0002
+}

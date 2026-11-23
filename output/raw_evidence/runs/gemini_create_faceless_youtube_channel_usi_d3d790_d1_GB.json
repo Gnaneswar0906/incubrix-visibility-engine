@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "create faceless youtube channel using ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube channel using AI is one of the most efficient ways to build a digital brand or passive income stream today. By leveraging Large Language Models (LLMs), AI voice generators, and automated video editors, you can scale production without ever showing your face or recording yo",
+      "cost_usd": 0.0002,
+      "latency_ms": 2801,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_faceless_youtube_channel_usi_d3d790_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube channel using AI is one of the most scalable models in modern content creation. By leveraging generative AI for scripting, voiceovers, video generation, and editing, creators can automate up to 90% of the production pipeline. \n\nBelow is a comprehensive guide tailored for ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1856,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_faceless_youtube_channel_usi_d3d790_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_create_faceless_youtube_channel_usi_d3d790_d1_GB.json"
+}

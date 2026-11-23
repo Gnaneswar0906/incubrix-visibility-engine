@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "To automatically post YouTube videos to a Discord server, you need to bridge the gap between YouTube\u2019s API (which is read-heavy and restrictive for automated posting) and Discord\u2019s Webhook or Bot capabilities. Since YouTube does not natively support \"auto-posting\" to third-party platforms via a simple toggle, you must use a middleware automation tool or a custom bot.\n\nBelow are the best software tools, workflow methods, and key industry options tailored for a content creator in the UK/GB, with an emphasis on reliability, compliance, and ease of use.\n\n### \u26a0\ufe0f Important Legal & Platform Note\n- **YouTube Terms of Service**: YouTube allows integration via its API, but *automated* posting of *new* YouTube content",
+  "raw_payload": {
+    "id": "chatcmpl-a9a40bbc-3a8c-41a0-92c4-c8bfd019cde4",
+    "object": "chat.completion",
+    "created": 1795375727,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "To automatically post YouTube videos to a Discord server, you need to bridge the gap between YouTube\u2019s API (which is read-heavy and restrictive for automated posting) and Discord\u2019s Webhook or Bot capabilities. Since YouTube does not natively support \"auto-posting\" to third-party platforms via a simple toggle, you must use a middleware automation tool or a custom bot.\n\nBelow are the best software tools, workflow methods, and key industry options tailored for a content creator in the UK/GB, with an emphasis on reliability, compliance, and ease of use.\n\n### \u26a0\ufe0f Important Legal & Platform Note\n- **YouTube Terms of Service**: YouTube allows integration via its API, but *automated* posting of *new* YouTube content"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051350354,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005215186,
+      "completion_tokens": 150,
+      "completion_time": 0.285396557,
+      "total_tokens": 229,
+      "total_time": 0.290611743
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bq0paex8abtd8a9wktgh6",
+      "seed": 703267008
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 872,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,17 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=auto+post+to+youtube+shorts+and+tiktok",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "auto post to youtube shorts and tiktok",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:49:47.135184Z",
+  "extracted_count": 4,
+  "suggestions": [
+    "auto upload youtube shorts to tiktok",
+    "how to post to youtube shorts",
+    "how do you post shorts on youtube",
+    "is youtube shorts tiktok"
+  ],
+  "raw_response": "[\"auto post to youtube shorts and tiktok\",[\"auto upload youtube shorts to tiktok\",\"how to post to youtube shorts\",\"how do you post shorts on youtube\",\"is youtube shorts tiktok\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

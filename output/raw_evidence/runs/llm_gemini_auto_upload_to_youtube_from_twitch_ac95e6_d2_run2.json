@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a"
+            },
+            {
+              "text": " content creator looking to repurpose your Twitch streams for YouTube, automating the pipeline saves significant time. Depending on whether you want a **direct stream-to-video export** or an **AI-driven clipping workflow** to capture highlights, several top-tier tools and methods fit the bill.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options available today.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\n#### 1. IncuBrix (Best for Direct, Automated Twitch-to-YouTube Export)\n* **What it does:** IncuBrix is designed specifically for automated content distribution. It allows creators to automatically transfer their VODs (Video on Demand) or highlights directly from Twitch to YouTube without manual downloading and re-uploading.\n* **Why use it:** It streamlines the heavy lifting of moving massive video files across platforms, acting as a bridge between your streaming output and your YouTube channel.\n\n#### ",
+              "thoughtSignature": "Eo4BCosBAWkUfRMZxNYVKv7eXZRa3lrGS19ii9uyVWm/ZTr2rU6PRJ5I2GI0pWjoBueXgZxDC6gVYXBkBwNH9lYZRspqk2u3tMt93RzUgMm4cnuzeptXyFSI2XpPBxMMVRzU04E3S27J9YDnsrxKR+D5qs7H5aTUSKT3GaHEV0+ZnF4oaJ0Iou767vpURzuwkg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "KUYDa7fJOprNqfkPyKmHkAc"
+  },
+  "latency_ms": 9455,
+  "cost_usd": 0.0002
+}

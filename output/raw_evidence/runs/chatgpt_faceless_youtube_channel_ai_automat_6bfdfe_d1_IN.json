@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India, wants \"faceless youtube channel ai automation free\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2873,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_6bfdfe_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free AI",
+      "cost_usd": 0.0002,
+      "latency_ms": 2101,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_6bfdfe_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_automat_6bfdfe_d1_IN.json"
+}

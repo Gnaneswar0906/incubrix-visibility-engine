@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts editing tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India looking to scale your reach through podcast shorts (Reels, YouTube Shorts, and TikToks), choosing the right software and mastering the workflow is key to capturing the attention of a mobile-first audience. \n\nHere is a comprehensive guide tailored to your query, featuring the best tools, an efficient workflow, and industry standards, referencing insights from leading creator economy platforms like *Creator Handbook* and *No Film School*.\n\n---\n\n### 1. Industry-Standard Software Tools\n\nDepending on whether you want an automated AI workflow or complete manual creative control, the market offers several top-tier options:\n\n*   **Opus Clip (AI-Powered Repurposing):** \n    *   *What it does:* An industry favorite for turning long-form podcasts into viral shorts instantly. Its AI analyzes your video, identifies the most engaging hooks, adds captions, and reframes the speaker automatically.\n    *   *Best",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India looking to scale your reach through podcast shorts (Reels, YouTube Shorts, and TikToks), choosing the right software and mastering the workflow is key to capturing the attention of a mobile-first audience. \n\nHere is a comprehensive guide tailored to your query, featuring the best tools, an efficient workflow, and industry standards, referencing insights from leading creator economy platforms like *Creator Handbook* and *No Film School*.\n\n---\n\n### 1. Industry-Standard Software Tools\n\nDepending on whether you want an automated AI workflow or complete manual creative control, the market offers several top-tier options:\n\n*   **Opus Clip (AI-Powered Repurposing):** \n    *   *What it does:* An industry favorite for turning long-form podcasts into viral shorts instantly. Its AI analyzes your video, identifies the most engaging hooks, adds captions, and reframes the speaker automatically.\n    *   *Best",
+              "thoughtSignature": "Eo4BCosBAWkUfRMxFUJHpa53+zmXHRfwCH8j5yQRICRN1XO//GIii+dHbc6G/mFiPvo9Ap4tiVwed4UGkQhdKNOBdIdiLG2V30JeQIcRfZ0VBBgPF1XO8eL4Wf2TMhpoeecjA+bRxbKFKHqQ3yqEhVXvG+bJqPgDJYH9vdR8RH52fORFPJ2K2jsXpFmcy1OOvg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "5D8Da6ivEO6W0r4P4sDMoQc"
+  },
+  "latency_ms": 7357,
+  "cost_usd": 0.0002
+}

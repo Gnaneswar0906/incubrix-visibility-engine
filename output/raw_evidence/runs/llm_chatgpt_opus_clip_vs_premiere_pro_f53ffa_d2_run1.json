@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you are likely working in a competitive space where efficiency and quality are paramount. The comparison between **Opus Clip** and **Adobe Premiere Pro** is not so much about which is \"better,\" but rather which serves your specific workflow stage. They serve fundamentally different purposes: **Opus Clip is an AI-driven repurposing tool**, while **Premiere Pro is a professional non-linear video editor (NLE)**.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended workflows and key industry options.\n\n### 1. Core Difference: Purpose & Function\n\n| Feature | **Opus Clip** | **Adobe Premiere Pro** |\n| :--- | :--- | :---",
+  "raw_payload": {
+    "id": "chatcmpl-bf260d56-075d-4c9d-9da8-1a41535646e1",
+    "object": "chat.completion",
+    "created": 1795377557,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you are likely working in a competitive space where efficiency and quality are paramount. The comparison between **Opus Clip** and **Adobe Premiere Pro** is not so much about which is \"better,\" but rather which serves your specific workflow stage. They serve fundamentally different purposes: **Opus Clip is an AI-driven repurposing tool**, while **Premiere Pro is a professional non-linear video editor (NLE)**.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended workflows and key industry options.\n\n### 1. Core Difference: Purpose & Function\n\n| Feature | **Opus Clip** | **Adobe Premiere Pro** |\n| :--- | :--- | :---"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.122246157,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005832052,
+      "completion_tokens": 150,
+      "completion_time": 0.300551495,
+      "total_tokens": 228,
+      "total_time": 0.306383547
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82devgwee6b26w35b9bkm1k",
+      "seed": 418921732
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1695,
+  "cost_usd": 0.0002
+}

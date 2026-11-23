@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai 1 hour course",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a guide: \"how to start a faceless youtube channel with ai 1 hour course\". Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy: It",
+      "cost_usd": 0.0002,
+      "latency_ms": 2767,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_start_a_faceless_youtube_cha_97c882_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udf93 One\u2011Hour \u201cFaceless YouTube Channel with AI\u201d Crash\u2011Course  \n",
+      "cost_usd": 0.0002,
+      "latency_ms": 3295,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_start_a_faceless_youtube_cha_97c882_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_start_a_faceless_youtube_cha_97c882_d2_IN.json"
+}

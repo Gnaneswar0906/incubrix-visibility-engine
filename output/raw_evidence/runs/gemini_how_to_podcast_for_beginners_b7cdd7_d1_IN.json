@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a podcast in India (IN) is an exciting venture, especially given the country's booming regional audio and video podcasting market. Whether you are aiming for Spotify, YouTube, or Apple Podcasts, having the right workflow and software stack is crucial. \n\nAs a content creator in India, your s",
+      "cost_usd": 0.0002,
+      "latency_ms": 7080,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_podcast_for_beginners_b7cdd7_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'how to podcast for beginners' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 390
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_podcast_for_beginners_b7cdd7_d1_IN.json"
+}

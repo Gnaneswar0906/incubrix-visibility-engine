@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in **India (IN)**, you have access to a robust ecosystem of powerful, free video editing tools. The short answer is: **Yes, there are several excellent free video editors** that are professional-grade and suitable for YouTube, Instagram Reels, and other platforms.\n\nBelow are the **best free software tools**, **workflow methods**, and **key industry options** tailored for creators in India, with considerations for hardware, internet, and local support.\n\n---\n\n### \ud83c\udfc6 Top Free Video Editors for Indian Creators (2024\u20132025)\n\n#### 1. **DaVinci Resolve** (Best for Professional Editing)\n- **Why it\u2019s great**: Industry",
+  "raw_payload": {
+    "id": "chatcmpl-23b5c8a9-1f2b-4b08-804b-bf116980c85c",
+    "object": "chat.completion",
+    "created": 1795375158,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in **India (IN)**, you have access to a robust ecosystem of powerful, free video editing tools. The short answer is: **Yes, there are several excellent free video editors** that are professional-grade and suitable for YouTube, Instagram Reels, and other platforms.\n\nBelow are the **best free software tools**, **workflow methods**, and **key industry options** tailored for creators in India, with considerations for hardware, internet, and local support.\n\n---\n\n### \ud83c\udfc6 Top Free Video Editors for Indian Creators (2024\u20132025)\n\n#### 1. **DaVinci Resolve** (Best for Professional Editing)\n- **Why it\u2019s great**: Industry"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.088169915,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005130434,
+      "completion_tokens": 150,
+      "completion_time": 0.286621635,
+      "total_tokens": 226,
+      "total_time": 0.291752069
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82b5n9pe05847mv57y9nmhf",
+      "seed": 122893062
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 932,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a content creator based in the United States looking for the best auto-caption generator for a video website, your choice of tool depends heavily on your workflow: whether you want to edit video directly from a transcript, quickly cut long-form videos into viral shorts, or simply generate styliz",
+      "cost_usd": 0.0002,
+      "latency_ms": 3601,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_we_7b773a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto caption generator for video website' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 446
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_we_7b773a_d1_US.json"
+}

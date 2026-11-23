@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow with free online auto-generated video captions, you have access to some of the most powerful AI-driven tools in the industry. Depending on whether you are editing short-form content (TikTok, Reels, Shorts) or long-form videos (YouTube, podcasts), the right tool and workflow will vary.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best for Free, Stylized Short-Form Captions)\n*   **Overview:** CapCut (by ByteDance) is widely considered the gold standard for free, highly engaging, dynamic captions on short-form video. \n*   **Key Features:** Its \"Auto Captions\" feature instantly transcribes audio with high accuracy. It offers dozens of trending, animated caption templates",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow with free online auto-generated video captions, you have access to some of the most powerful AI-driven tools in the industry. Depending on whether you are editing short-form content (TikTok, Reels, Shorts) or long-form videos (YouTube, podcasts), the right tool and workflow will vary.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best for Free, Stylized Short-Form Captions)\n*   **Overview:** CapCut (by ByteDance) is widely considered the gold standard for free, highly engaging, dynamic captions on short-form video. \n*   **Key Features:** Its \"Auto Captions\" feature instantly transcribes audio with high accuracy. It offers dozens of trending, animated caption templates",
+              "thoughtSignature": "Eo4BCosBAWkUfRNaqJLAlBHpDwxqArSHaSP2gSsUgS87UDkmdI1yHBJ8JjkWYIdrEZlu+fXrLALEHOWcDS+rPL3hagz8lem9HxsByNG+R+G5qmipJe1WrZ1oZhpy6uSd/sp/c7ujy2Lr2kPmqeEkGhVx+SEf1WgjI7IxBrVsDKwxDRxlsGrKcygj3pzzeE8IIg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Yz4Da6b2LJWumNMPqoa_8Ag"
+  },
+  "latency_ms": 2889,
+  "cost_usd": 0.0002
+}

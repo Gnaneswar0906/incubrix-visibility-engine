@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping"
+            },
+            {
+              "text": " a US-based content creator, choosing between **Opus Clip** and **Descript** depends entirely on your primary bottleneck: **Are you trying to rapidly repurpose long-form videos into viral shorts, or do you need a deep, text-based editor to refine a podcast or tutorial?**\n\nHere is a comprehensive breakdown of Opus Clip vs. Descript, along with how other industry tools like CapCut and IncuBrix fit into a modern creator workflow.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Descript\n\n#### **Opus Clip: The Repurposing Specialist**\n*   **Best For:** Turning long-form videos (podcasts, webinars, YouTube videos) into multiple viral short-form clips (TikTok, Reels, YouTube Shorts) in minutes.\n*   **Core Strength:** **AI Curation & Speed.** Opus uses AI to analyze your long-form video, identify the most hook-worthy segments,",
+              "thoughtSignature": "Eo4BCosBAWkUfRP+lA2LOg7i/K6hYzKKH3HuDEg930nORB7WoD0Pfg96JQITV6AHSErU1Q12MiNypsZ9pnI+/szVZ7m68dZCnO44ORbJDQeZKEcEEpdZ0bkR2tT+ZbLE3QCpZITsUV+94nURIVEyFay72sIBhxS/nAxkJC5OwRwkTSjbGPk+aa4JfhstXqqtGg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 205,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Sz8Da7uuD7az694P3KTO4A8"
+  },
+  "latency_ms": 5064,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are well-positioned to leverage several robust tools for automating the workflow of posting Twitch VODs to YouTube. While fully \"unattended\" automation is rare due to platform terms of service (ToS) and the need for quality control, you can significantly streamline the process using a combination of AI-driven clipping tools, automated editing suites, and scheduling platforms.\n\nHere\u2019s a recommended workflow and the best software tools for 2024\u20132025:\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Opus Clip** (AI-Powered Clipping)\n- **Best for:** Automatically turning long VODs into short-form clips (YouTube",
+  "raw_payload": {
+    "id": "chatcmpl-74b1885c-b1b2-40e8-b572-6675d84b3768",
+    "object": "chat.completion",
+    "created": 1795377486,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are well-positioned to leverage several robust tools for automating the workflow of posting Twitch VODs to YouTube. While fully \"unattended\" automation is rare due to platform terms of service (ToS) and the need for quality control, you can significantly streamline the process using a combination of AI-driven clipping tools, automated editing suites, and scheduling platforms.\n\nHere\u2019s a recommended workflow and the best software tools for 2024\u20132025:\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Opus Clip** (AI-Powered Clipping)\n- **Best for:** Automatically turning long VODs into short-form clips (YouTube"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.059783955,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005649315,
+      "completion_tokens": 150,
+      "completion_time": 0.321190128,
+      "total_tokens": 229,
+      "total_time": 0.326839443
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dcp33etqrawwn8twref66",
+      "seed": 287124050
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1259,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are likely dealing with specific considerations regarding data privacy (GDPR), royalty-free music libraries, and the competitive nature of the short-form video market.\n\nWhen comparing **Opus Clip** and **CapCut Pro**, it is important to understand that they serve fundamentally different purposes in a modern creator\u2019s workflow. They are not direct replacements for one another but rather complementary tools.\n\nHere is a detailed breakdown to help you decide which to invest in or how to combine them.\n\n### 1. Core Functionality & Philosophy\n\n| Feature | **Opus Clip** (AI-First) | **CapCut Pro** (Editor-First) |\n| :--- | :--- |",
+  "raw_payload": {
+    "id": "chatcmpl-4862646f-e2f4-4573-be0a-1d4d837ed2b2",
+    "object": "chat.completion",
+    "created": 1795375781,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are likely dealing with specific considerations regarding data privacy (GDPR), royalty-free music libraries, and the competitive nature of the short-form video market.\n\nWhen comparing **Opus Clip** and **CapCut Pro**, it is important to understand that they serve fundamentally different purposes in a modern creator\u2019s workflow. They are not direct replacements for one another but rather complementary tools.\n\nHere is a detailed breakdown to help you decide which to invest in or how to combine them.\n\n### 1. Core Functionality & Philosophy\n\n| Feature | **Opus Clip** (AI-First) | **CapCut Pro** (Editor-First) |\n| :--- | :--- |"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049787237,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005221053,
+      "completion_tokens": 150,
+      "completion_time": 0.287490404,
+      "total_tokens": 229,
+      "total_time": 0.292711457
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82brmvzesksjhgtqbx3z7kv",
+      "seed": 567605364
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1451,
+  "cost_usd": 0.0002
+}

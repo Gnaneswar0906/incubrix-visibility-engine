@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto upload to youtube from folder' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 428
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer the query: auto upload to youtube from folder. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative sources if available. The user is a content creator in US. Provide suggestio",
+      "cost_usd": 0.0002,
+      "latency_ms": 29676,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_to_youtube_from_folder_ef69d6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_to_youtube_from_folder_ef69d6_d1_US.json"
+}

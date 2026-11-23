@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is Hindi speaking, asking: \"podcast shorts kaise banaye\" \u2013 how to make podcast shorts. They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond in Hindi (or mix) likely. Provide step-by-step workflow, software suggestions, mention each tool's strengths, and maybe provide links (cite sources). Must ensure not to violate policy. It's permissible. Provide citations using bracketed references. We can include URLs.\n\nWe should mention that these tools are for video editing, clipping, AI summarization. Provide workflow: record full podcast, transcribe, select",
+  "raw_payload": {
+    "id": "chatcmpl-afc4b3f0-f10a-4902-bfc0-4cd2f050caf6",
+    "object": "chat.completion",
+    "created": 1795374540,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is Hindi speaking, asking: \"podcast shorts kaise banaye\" \u2013 how to make podcast shorts. They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond in Hindi (or mix) likely. Provide step-by-step workflow, software suggestions, mention each tool's strengths, and maybe provide links (cite sources). Must ensure not to violate policy. It's permissible. Provide citations using bracketed references. We can include URLs.\n\nWe should mention that these tools are for video editing, clipping, AI summarization. Provide workflow: record full podcast, transcribe, select"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158052143,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005942106,
+      "completion_tokens": 150,
+      "completion_time": 0.309269645,
+      "total_tokens": 285,
+      "total_time": 0.315211751,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82ajsfhezb8xevdq7b60nr9",
+      "seed": 766642449
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3501,
+  "cost_usd": 0.0002
+}

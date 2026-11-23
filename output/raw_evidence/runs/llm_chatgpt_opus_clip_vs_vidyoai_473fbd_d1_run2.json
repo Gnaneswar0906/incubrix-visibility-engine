@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs vidyo.ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Vidyo.ai"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick TL;DR  \n\n| Feature | **Opus\u202fClip** | **Vidyo.ai** | **Best for\u2026** |\n|---------|---------------|--------------|---------------|\n| **Core strength",
+  "raw_payload": {
+    "id": "chatcmpl-7adca072-54af-4070-8587-c2d6c3457ce0",
+    "object": "chat.completion",
+    "created": 1795374987,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick TL;DR  \n\n| Feature | **Opus\u202fClip** | **Vidyo.ai** | **Best for\u2026** |\n|---------|---------------|--------------|---------------|\n| **Core strength",
+          "reasoning": "We need to answer query: \"opus clip vs vidyo.ai\". Provide recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be US content creator. Provide comparison, pros/cons, workflow suggestions, maybe pricing, features. Cite sources. Provide citations with URLs. Should be helpful. Use markdown. Provide citations. Ensure not to violate policy. Provide factual info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368594075,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005767204,
+      "completion_tokens": 150,
+      "completion_time": 0.312545326,
+      "total_tokens": 285,
+      "total_time": 0.31831253,
+      "completion_tokens_details": {
+        "reasoning_tokens": 101
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82b0dkker6tmzty9szrfkc5",
+      "seed": 918230001
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3013,
+  "cost_usd": 0.0002
+}

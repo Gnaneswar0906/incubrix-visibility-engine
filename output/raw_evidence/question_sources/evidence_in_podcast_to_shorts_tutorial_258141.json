@@ -1,0 +1,14 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=podcast+to+shorts+tutorial",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "podcast to shorts tutorial",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:47:25.468383+00:00",
+  "extracted_count": 1,
+  "suggestions": [
+    "podcast shorts tutorial"
+  ],
+  "raw_response": "window.google.ac.h([\"podcast to shorts tutorial\",[[\"podcast shorts tutorial\",0,[22,30]]],{\"k\":1}])"
+}

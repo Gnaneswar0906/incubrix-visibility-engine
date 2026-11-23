@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto generate captions for video free' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 441
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US looking to scale your output, leveraging AI for video captions is one of the highest-leverage moves you can make. Automated captions not only make your content accessible to the 85% of social media users who watch videos on mute, but dynamic, word-by-word highlighted c",
+      "cost_usd": 0.0002,
+      "latency_ms": 5314,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_8f58f3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_fr_8f58f3_d2_US.json"
+}

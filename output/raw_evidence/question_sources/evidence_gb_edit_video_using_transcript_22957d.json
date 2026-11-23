@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=edit+video+using+transcript",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "edit video using transcript",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:52:05.301184+00:00",
+  "extracted_count": 5,
+  "suggestions": [
+    "edit video using transcript",
+    "edit video by transcript",
+    "how to edit a video with words",
+    "how to convert a video into a transcript",
+    "how to write a video transcript"
+  ],
+  "raw_response": "[\"edit video using transcript\",[\"edit video using transcript\",\"edit video by transcript\",\"how to edit a video with words\",\"how to convert a video into a transcript\",\"how to write a video transcript\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

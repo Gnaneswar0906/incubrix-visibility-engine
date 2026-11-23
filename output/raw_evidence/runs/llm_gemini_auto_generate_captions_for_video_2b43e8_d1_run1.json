@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., leveraging AI to auto-generate video captions is one of the most effective ways to boost watch time, improve accessibility, and capture the 85% of social media users who watch videos on mute (according to industry data from platforms like Digiday and Facebook). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an optimized workflow method to streamline your editing process.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you are editing long-form YouTube tutorials, short-form TikToks/Reels, or need text-based video editing, the right tool varies.\n\n#### 1. CapCut (Best for Short-Form & Dynamic Captions)\n*   **Best For:** TikTok, Instagram Reels, and YouTube Shorts creators who want trendy, highly animated, word-by-word captions.\n*   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., leveraging AI to auto-generate video captions is one of the most effective ways to boost watch time, improve accessibility, and capture the 85% of social media users who watch videos on mute (according to industry data from platforms like Digiday and Facebook). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an optimized workflow method to streamline your editing process.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you are editing long-form YouTube tutorials, short-form TikToks/Reels, or need text-based video editing, the right tool varies.\n\n#### 1. CapCut (Best for Short-Form & Dynamic Captions)\n*   **Best For:** TikTok, Instagram Reels, and YouTube Shorts creators who want trendy, highly animated, word-by-word captions.\n*   **",
+              "thoughtSignature": "Eo4BCosBAWkUfRNFhG7RLM8amAB+P7CsQuBO+dc8k2iYyPdljm35RGQ+34AtQefiio2pJzbs6VcnafaAozXuzSOpJXG77QEzabZXVRpRCFk47GIsOn/TVeYJM/vcCbWUGNPkHYF87F2guU0QkrDNEoSYm8BeAmjDh2f8vFhxutV1D0NBnPVmfD4Ug3jEaJdPXw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Uj4Da67EMM2L694PmK3C8QU"
+  },
+  "latency_ms": 2651,
+  "cost_usd": 0.0002
+}

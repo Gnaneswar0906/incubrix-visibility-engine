@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant for content creator in GB. Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, include steps, considerations, maybe free vs paid, platform compatibility, etc. Provide citations (like footnotes with URLs). Must ensure compliance with policy: no disallowed content. It's fine. Provide citations. Use UK spelling maybe. Provide links. Provide workflow: recording, editing, clipping, exporting, uploading. Mention hosting platforms. Provide tips for SEO, metadata. Provide suggestions for automation. Provide mention of AI tools for transcriptions. Provide best practices. Provide citations",
+  "raw_payload": {
+    "id": "chatcmpl-6d5e2e55-daf7-4b5f-9048-d3519aea8921",
+    "object": "chat.completion",
+    "created": 1795375486,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant for content creator in GB. Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, include steps, considerations, maybe free vs paid, platform compatibility, etc. Provide citations (like footnotes with URLs). Must ensure compliance with policy: no disallowed content. It's fine. Provide citations. Use UK spelling maybe. Provide links. Provide workflow: recording, editing, clipping, exporting, uploading. Mention hosting platforms. Provide tips for SEO, metadata. Provide suggestions for automation. Provide mention of AI tools for transcriptions. Provide best practices. Provide citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051397411,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005591419,
+      "completion_tokens": 150,
+      "completion_time": 0.324697287,
+      "total_tokens": 282,
+      "total_time": 0.330288706,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82bfnj5eq68ahr8zb20jsr6",
+      "seed": 641775597
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3275,
+  "cost_usd": 0.0002
+}

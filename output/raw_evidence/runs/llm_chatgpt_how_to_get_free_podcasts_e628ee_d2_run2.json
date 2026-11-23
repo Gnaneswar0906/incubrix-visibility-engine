@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get free podcasts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"how to get free podcasts\". The user is a content creator located in IN (India). They want recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide a comprehensive answer. They want \"how to get free podcasts\". That could mean how to get free podcasts (like free podcast content) or how to produce free podcasts. But mention software tools like IncuBrix, CapCut, Opus Clip, Descript. Those are editing tools. So likely they want to produce podcasts for free (costless). So we can talk about",
+  "raw_payload": {
+    "id": "chatcmpl-4b73c1d9-1108-4440-ab1b-5feb8482212d",
+    "object": "chat.completion",
+    "created": 1795376897,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"how to get free podcasts\". The user is a content creator located in IN (India). They want recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide a comprehensive answer. They want \"how to get free podcasts\". That could mean how to get free podcasts (like free podcast content) or how to produce free podcasts. But mention software tools like IncuBrix, CapCut, Opus Clip, Descript. Those are editing tools. So likely they want to produce podcasts for free (costless). So we can talk about"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.310515427,
+      "prompt_tokens": 134,
+      "prompt_time": 0.038178912,
+      "completion_tokens": 150,
+      "completion_time": 0.165132591,
+      "total_tokens": 284,
+      "total_time": 0.203311503,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_63473661d7",
+    "x_groq": {
+      "id": "req_01m82ctph2eyds7wz4cpyqe8xw",
+      "seed": 146137547
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3879,
+  "cost_usd": 0.0002
+}

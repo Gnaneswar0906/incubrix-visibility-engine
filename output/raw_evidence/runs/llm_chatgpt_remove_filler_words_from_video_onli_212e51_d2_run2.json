@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video online free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! Removing filler words (\"um,\" \"uh,\" \"like,\" \"you know\") is one of the most effective ways to tighten your content, improve retention, and make your videos appear more professional.\n\nSince you are looking for **online**, **free**, and **best** tools, here is a curated breakdown of the top options, workflow methods, and key industry players.\n\n### \ud83c\udfc6 Top Recommended Free Online Tools\n\n#### 1. **CapCut (Web & Desktop)**\n*   **Why it\u2019s great:** CapCut is arguably the best *truly free* option for most creators. It has a built-in **\"Remove Filler Words\"** feature in its auto-captioning workflow.\n*   **Workflow:**",
+  "raw_payload": {
+    "id": "chatcmpl-5b3f44ce-84e8-4b26-8752-c7aec322819b",
+    "object": "chat.completion",
+    "created": 1795377340,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Removing filler words (\"um,\" \"uh,\" \"like,\" \"you know\") is one of the most effective ways to tighten your content, improve retention, and make your videos appear more professional.\n\nSince you are looking for **online**, **free**, and **best** tools, here is a curated breakdown of the top options, workflow methods, and key industry players.\n\n### \ud83c\udfc6 Top Recommended Free Online Tools\n\n#### 1. **CapCut (Web & Desktop)**\n*   **Why it\u2019s great:** CapCut is arguably the best *truly free* option for most creators. It has a built-in **\"Remove Filler Words\"** feature in its auto-captioning workflow.\n*   **Workflow:**"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047943926,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005165054,
+      "completion_tokens": 150,
+      "completion_time": 0.285477985,
+      "total_tokens": 229,
+      "total_time": 0.290643039
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82d8854eey9j4fbyn0vzrzs",
+      "seed": 1828933914
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1529,
+  "cost_usd": 0.0002
+}

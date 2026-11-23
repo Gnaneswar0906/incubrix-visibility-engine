@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building and scaling an AI faceless YouTube channel in 2026 requires a streamlined, highly automated tech stack. As AI video generation matures, the workflow has shifted from manual clipping and editing to end-to-end AI orchestration. \n\nHere is a comprehensive tutorial and software guide tailored for content creators in Great Britain looking to break into or scale up in the faceless YouTube space this year.\n\n---\n\n### 1. The Core Workflow Method (2026 Standard)\n\nA modern, high-efficiency workflow for a faceless channel follows a 5-step pipeline:\n\n1. **Ideation & Scripting:** Trend analysis and script generation.\n2. **Voiceover Generation:** Ultra-realistic text-to-speech (TTS) with human inflection.\n3. **Visual Generation:** AI-generated b-roll, stock footage, or dynamic kinetic typography.\n4. **Assembly & Editing:** Automated timeline syncing, captioning,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building and scaling an AI faceless YouTube channel in 2026 requires a streamlined, highly automated tech stack. As AI video generation matures, the workflow has shifted from manual clipping and editing to end-to-end AI orchestration. \n\nHere is a comprehensive tutorial and software guide tailored for content creators in Great Britain looking to break into or scale up in the faceless YouTube space this year.\n\n---\n\n### 1. The Core Workflow Method (2026 Standard)\n\nA modern, high-efficiency workflow for a faceless channel follows a 5-step pipeline:\n\n1. **Ideation & Scripting:** Trend analysis and script generation.\n2. **Voiceover Generation:** Ultra-realistic text-to-speech (TTS) with human inflection.\n3. **Visual Generation:** AI-generated b-roll, stock footage, or dynamic kinetic typography.\n4. **Assembly & Editing:** Automated timeline syncing, captioning,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMyzqXhFmSSrYg2Z0ezi4flE9LN6JSOAbVM5BY0oTJ8LXma0fmv7ZfrQNH+7M6ZP2BV2rHOvPoWAkwTFNfqgPImAVhblhLBvJTrM1s7RYUm476nXIU88HFppCMLykRtomBU3T68GnY/tikGB/4AwPOJ1HRDLcTKHvcW1K02Advid6P2ZakxAg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 69,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 69
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uUIDa4LLJpT0z7sPlPHjgQw"
+  },
+  "latency_ms": 2988,
+  "cost_usd": 0.0002
+}

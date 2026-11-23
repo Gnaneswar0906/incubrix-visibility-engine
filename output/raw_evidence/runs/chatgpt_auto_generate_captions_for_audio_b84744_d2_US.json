@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Generating Captions for Audio \u2013 A Practical Toolkit for U.S. Content Creators**  \n\nBelow is a curated list of the most reliable caption\u2011generation tools, a step\u2011by\u2011step workflow that works for most video\u2011or\u2011podcast pipelines, and quick comparisons of",
+      "cost_usd": 0.0002,
+      "latency_ms": 3394,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_audio_b84744_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and high accuracy when adding captions to your audio or video content. Here\u2019s a curated guide to the best software tools, workflow methods, and industry options for auto-generating captions, tailored for professional and sem",
+      "cost_usd": 0.0002,
+      "latency_ms": 1263,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_audio_b84744_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_audio_b84744_d2_US.json"
+}

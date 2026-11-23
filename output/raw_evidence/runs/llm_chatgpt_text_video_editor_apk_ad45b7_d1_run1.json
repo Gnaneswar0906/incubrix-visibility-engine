@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor apk",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for \"text video editor apk\". They are a content creator located in India. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. It's a request for software recommendations, not disallowed. Provide list, descriptions, workflow suggestions, mention APK (Android). Provide citations. Should include links to official sites or reputable reviews. Ensure no disallowed content. Provide Indian context maybe mention availability in India, offline/online. Provide workflow steps: script, text overlay, subtitles, AI voice, etc. Provide citations in brackets with URLs. Provide note about APK safety:",
+  "raw_payload": {
+    "id": "chatcmpl-20db73f1-ced3-4448-9599-00ffd88b8fd5",
+    "object": "chat.completion",
+    "created": 1795375172,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for \"text video editor apk\". They are a content creator located in India. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. It's a request for software recommendations, not disallowed. Provide list, descriptions, workflow suggestions, mention APK (Android). Provide citations. Should include links to official sites or reputable reviews. Ensure no disallowed content. Provide Indian context maybe mention availability in India, offline/online. Provide workflow steps: script, text overlay, subtitles, AI voice, etc. Provide citations in brackets with URLs. Provide note about APK safety:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054475878,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005269112,
+      "completion_tokens": 150,
+      "completion_time": 0.313126352,
+      "total_tokens": 283,
+      "total_time": 0.318395464,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82b62bcet7th03c27a2tt6t",
+      "seed": 1436843830
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2059,
+  "cost_usd": 0.0002
+}

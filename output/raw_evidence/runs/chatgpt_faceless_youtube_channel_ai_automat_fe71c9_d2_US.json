@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, possibly with links. Should be s",
+      "cost_usd": 0.0002,
+      "latency_ms": 3663,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in 2024 and beyond is less about \"hiding your face\" and more about **systematized content production**. The key to scaling is replacing manual labor with AI-driven workflows that handle scripting, voiceover, video assembly, and distribution.\n\nHere is a ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1549,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d2_US.json"
+}

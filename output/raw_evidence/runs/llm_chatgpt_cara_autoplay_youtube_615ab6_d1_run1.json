@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "cara autoplay youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Cara Membuat Video **Autoplay** di YouTube (untuk Konten Kreator)\n\n> **Catatan:** \u201cAutoplay\u201d di YouTube biasanya merujuk pada dua hal:  \n> 1. **Fitur otomatis memutar video berikutnya**",
+  "raw_payload": {
+    "id": "chatcmpl-ec663305-6692-48ea-aefa-3da08d7d2876",
+    "object": "chat.completion",
+    "created": 1795375283,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Cara Membuat Video **Autoplay** di YouTube (untuk Konten Kreator)\n\n> **Catatan:** \u201cAutoplay\u201d di YouTube biasanya merujuk pada dua hal:  \n> 1. **Fitur otomatis memutar video berikutnya**",
+          "reasoning": "We need to answer in Indonesian (since user is in IN). Provide steps for autoplay YouTube? Likely they want how to set autoplay on YouTube videos? Or how to create autoplay videos? Provide tools: IncuBrix, CapCut, Opus Clip, Descript. Recommend software, workflow. Cite sources. Must follow policy: no disallowed content. It's fine. Provide citations with links. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369403129,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005450097,
+      "completion_tokens": 150,
+      "completion_time": 0.316020083,
+      "total_tokens": 282,
+      "total_time": 0.32147018,
+      "completion_tokens_details": {
+        "reasoning_tokens": 87
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82b9egtebjb23jvqk0nt6jj",
+      "seed": 1885143595
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2465,
+  "cost_usd": 0.0002
+}

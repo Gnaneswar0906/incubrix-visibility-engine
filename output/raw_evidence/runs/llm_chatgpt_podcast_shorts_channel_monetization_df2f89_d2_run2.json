@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel monetization",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. The user is a content creator located in India (IN). Query: \"podcast shorts channel monetization\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should give an overview of monetization strategies for short-form podcast clips (e.g., YouTube Shorts, Instagram Reels, TikTok). Provide software tools for editing, clipping, AI transcription, etc. Workflow steps: content planning, recording, editing, repurposing, uploading, SEO, analytics, monetization (ads, sponsorships, affiliate, merch, memberships). Mention",
+  "raw_payload": {
+    "id": "chatcmpl-06cb1ff4-b0cc-4e2f-9140-67cf3e61ef87",
+    "object": "chat.completion",
+    "created": 1795376860,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator located in India (IN). Query: \"podcast shorts channel monetization\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should give an overview of monetization strategies for short-form podcast clips (e.g., YouTube Shorts, Instagram Reels, TikTok). Provide software tools for editing, clipping, AI transcription, etc. Workflow steps: content planning, recording, editing, repurposing, uploading, SEO, analytics, monetization (ads, sponsorships, affiliate, merch, memberships). Mention"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.278101193,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005734596,
+      "completion_tokens": 150,
+      "completion_time": 0.310412578,
+      "total_tokens": 284,
+      "total_time": 0.316147174,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82csjd4e3zrhm0zf4dwm81c",
+      "seed": 1391428605
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3406,
+  "cost_usd": 0.0002
+}

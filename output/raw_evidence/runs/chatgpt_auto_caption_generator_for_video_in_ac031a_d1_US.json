@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, finding the right auto-caption tool is crucial for maximizing engagement, especially since most viewers watch videos on mute initially. Since you specifically mentioned **InShot**, it\u2019s important to clarify that while InShot has basic text tools, it is **not** ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1845,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_in_ac031a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation for auto caption generator for video inshot. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide answer as AI assistant. Must follow policy: no dis",
+      "cost_usd": 0.0002,
+      "latency_ms": 3484,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_in_ac031a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_in_ac031a_d1_US.json"
+}

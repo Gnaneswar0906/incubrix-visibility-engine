@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to discord",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for software tools, workflow methods for auto-posting YouTube videos to Discord. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2666,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant, location IN (India). Provide recommendations for auto posting YouTube videos to Discord. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be h",
+      "cost_usd": 0.0002,
+      "latency_ms": 2653,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d2_IN.json"
+}

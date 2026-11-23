@@ -1,0 +1,38 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'podcast shorts channel name ideas' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 353
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast shorts channel name ideas' in GB, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 343
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_shorts_channel_name_ideas_719df6_d2_GB.json"
+}

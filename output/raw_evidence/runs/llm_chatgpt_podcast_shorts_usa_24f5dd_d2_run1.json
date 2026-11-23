@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts usa Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to recommend best software tools, workflow methods for creating podcast shorts in USA. Provide key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. The user is from IN (India). They want info about US tools? They want to produce podcast shorts. We need to provide suggestions. We should mention software tools: Descript, Cap",
+  "raw_payload": {
+    "id": "chatcmpl-21caf83a-d63f-4cb1-a655-02dccae4e18c",
+    "object": "chat.completion",
+    "created": 1795376859,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts usa Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to recommend best software tools, workflow methods for creating podcast shorts in USA. Provide key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. The user is from IN (India). They want info about US tools? They want to produce podcast shorts. We need to provide suggestions. We should mention software tools: Descript, Cap"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.315411339,
+      "prompt_tokens": 132,
+      "prompt_time": 0.00640094,
+      "completion_tokens": 150,
+      "completion_time": 0.158918539,
+      "total_tokens": 282,
+      "total_time": 0.165319479,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4315eb300",
+    "x_groq": {
+      "id": "req_01m82cshzpe56smmw80qw7cwqa",
+      "seed": 1526925038
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4426,
+  "cost_usd": 0.0002
+}

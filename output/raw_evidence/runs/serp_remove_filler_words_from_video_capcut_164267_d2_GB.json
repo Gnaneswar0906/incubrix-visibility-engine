@@ -1,0 +1,50 @@
+{
+  "query": "remove filler words from video capcut",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=9gp1utHzN2o",
+  "competitors_named": "CapCut",
+  "raw_response": {
+    "searchParameters": {
+      "q": "remove filler words from video capcut",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Remove Filler Words And Dead Silence Capcut - Tutorial (2025)",
+        "link": "https://www.youtube.com/watch?v=9gp1utHzN2o",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In today's tutorial I will show to remove filler words or dead silence in your audio mp3 track or audio tracks in free online video editor\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Remove Filler Words Automatically with AI Tool",
+        "link": "https://www.capcut.com/tools/filler-words",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a filler-words",
+        "snippet": "CapCut's AI removes filler words from video features, detects and deletes unnecessary speech in real time. With one click, the tool scans the audio track and ...",
+        "position": 2
+      },
+      {
+        "title": "Auto Remove Filler Words, Silences & Repeats from Video in CapCut",
+        "link": "https://www.youtube.com/watch?v=PKrcPIkzZXo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Effortlessly remove filler words, silences, and repeated phrases from your video using CapCut's transcription-based video editing.",
+        "position": 3
+      },
+      {
+        "title": "Filler Words\uff1aWhat Are They and How to Avoid Them",
+        "link": "https://www.capcut.com/resource/filler-words-meaning",
+        "displayedLink": "https://www.capcut.com \u203a resource \u203a filler-words-meaning",
+        "snippet": "Once your video is uploaded, you can now select the \u201cRemove filler words\u201d option from the menu above the timeline. A new window will appear ...",
+        "date": "15 May 2025",
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

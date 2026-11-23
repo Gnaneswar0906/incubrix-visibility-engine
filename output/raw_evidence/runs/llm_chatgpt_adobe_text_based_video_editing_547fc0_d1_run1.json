@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "adobe text based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: adobe text based video editing. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow, mention those tools, and cite sources. Should be helpful for a content creator in India (IN). Provide links to authoritative sources (e.g., official websites, reputable tech articles). Must follow policy: no disallowed content. This is fine.\n\nWe should mention Adobe's text-based video editing features like Adobe Premiere Pro's Speech to Text, Auto Reframe",
+  "raw_payload": {
+    "id": "chatcmpl-ec2f4d21-01b5-4ec4-8282-cd8cf19847d2",
+    "object": "chat.completion",
+    "created": 1795375179,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: adobe text based video editing. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow, mention those tools, and cite sources. Should be helpful for a content creator in India (IN). Provide links to authoritative sources (e.g., official websites, reputable tech articles). Must follow policy: no disallowed content. This is fine.\n\nWe should mention Adobe's text-based video editing features like Adobe Premiere Pro's Speech to Text, Auto Reframe"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.324973613,
+      "prompt_tokens": 134,
+      "prompt_time": 0.026501586,
+      "completion_tokens": 150,
+      "completion_time": 0.312584548,
+      "total_tokens": 284,
+      "total_time": 0.339086134,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82b68k3e0zsg0jv5h5z5gj4",
+      "seed": 2082518127
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2579,
+  "cost_usd": 0.0002
+}

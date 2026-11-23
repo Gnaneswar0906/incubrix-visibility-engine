@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Captions AI**, while also contextualizing them within the broader landscape of AI-powered video repurposing and editing tools like **IncuBrix**, **CapCut**, and **Descript**. \n\nWhen deciding between Opus Clip and Captions AI\u2014or exploring alternatives\u2014your choice should depend on your primary workflow: **long-form repurposing** versus **talking-head enhancement**.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Captions AI\n\n#### **Opus Clip**\n*   **Primary Use Case:** Turning long-form videos (podcasts, webinars, YouTube videos) into multiple viral short-form clips (Reels, TikToks, Shorts) automatically.\n*   **How it Works:** You paste a YouTube link or upload a video. Its AI (Curator Copilot",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Captions AI**, while also contextualizing them within the broader landscape of AI-powered video repurposing and editing tools like **IncuBrix**, **CapCut**, and **Descript**. \n\nWhen deciding between Opus Clip and Captions AI\u2014or exploring alternatives\u2014your choice should depend on your primary workflow: **long-form repurposing** versus **talking-head enhancement**.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Captions AI\n\n#### **Opus Clip**\n*   **Primary Use Case:** Turning long-form videos (podcasts, webinars, YouTube videos) into multiple viral short-form clips (Reels, TikToks, Shorts) automatically.\n*   **How it Works:** You paste a YouTube link or upload a video. Its AI (Curator Copilot",
+              "thoughtSignature": "Eo4BCosBAWkUfROI99lvJibivLhCbHpqavY5z6chTczW1vxhqqMPbEMoqf2mCCRjpb60ubJuXJyykiJz9ZrHXG7CAkLF1Il0+KY8Hf73q9oBK0YCexQxt6DN7RrzBYZC34P3hZlrjBkacu5mr9mtQmmLIHDtwVgPKZ4mgVtfRL14OHBKxQpf7HQl+zCzx8oMyA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "dD8Da4DsLvzG694PwObm4A8"
+  },
+  "latency_ms": 6433,
+  "cost_usd": 0.0002
+}

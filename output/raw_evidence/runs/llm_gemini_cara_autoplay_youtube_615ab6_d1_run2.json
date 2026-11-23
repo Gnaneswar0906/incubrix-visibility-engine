@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "cara autoplay youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Halo! Sebagai asisten AI untuk content creator di Indonesia (IN), saya",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Halo! Sebagai asisten AI untuk content creator di Indonesia (IN), saya"
+            },
+            {
+              "text": " akan menjelaskan cara membuat *autoplay* YouTube (agar video otomatis berputar saat tautan dibagikan atau disematkan) serta merekomendasikan *software* dan alur kerja (workflow) terbaik untuk memproduksi konten video otomatis menggunakan perangkat seperti **IncuBrix, CapCut, Opus Clip, dan Descript**.\n\n---\n\n### Bagian 1: Cara Membuat \"Autoplay\" pada YouTube\n\nSecara bawaan (*default*), YouTube tidak memutar video secara otomatis saat dikunjungi di aplikasi utamanya untuk menghemat data pengguna. Namun, Anda bisa membuat video **berputar otomatis (autoplay)** dalam dua skenario utama:\n\n1. **Saat Menyematkan Video (Embed ke Website/Blog):**\n   Tambahkan parameter `?autoplay=1` di akhir URL penyematan (iframe).\n   * *Contoh:* `<iframe src=\"https://www.youtube.com/embed/VIDEO_ID?autoplay=1\" ...></iframe>",
+              "thoughtSignature": "Eo4BCosBAWkUfRNZta8K7FK7PB6hs+BYhgPTSqsihy/MT4DZjG3xU767yxqvDFEDXuKQHtIaNHpem/A2+R/tJ7POQhV3IimrtlVZ1m/z3nXODSJ7miyD2Dvix125/RwE9IFEprK7byi0A3oh/LJhIwJg5i5HFhh5sano2rlDuLJUFTntKXGr3oYRs04rgNWIlA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 215,
+      "totalTokenCount": 276,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uUADa7ewEfTMqfkPzb-3qQ0"
+  },
+  "latency_ms": 2630,
+  "cost_usd": 0.0002
+}

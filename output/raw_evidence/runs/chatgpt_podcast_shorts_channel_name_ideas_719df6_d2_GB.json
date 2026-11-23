@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB. Provide podcast shorts channel name ideas, recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with pol",
+      "cost_usd": 0.0002,
+      "latency_ms": 2414,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_name_ideas_719df6_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in the UK, you are well-positioned to leverage the rapid growth of short-form video. \"Podcast Shorts\" (clips from long-form audio/video podcasts) are a highly effective way to drive traffic to your main channel and grow an audience on platforms like TikTok, Instagra",
+      "cost_usd": 0.0002,
+      "latency_ms": 1338,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_name_ideas_719df6_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_channel_name_ideas_719df6_d2_GB.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation for best AI video generator for faceless YouTube channel, referencing Reddit. Provide software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, comply with policy. No disallowed content. Provide citations with links. Use markdown. Provide Indian context? The user is located in IN, maybe mention local pricing, availability. Provide workflow steps: script generation, voiceover, stock footage, AI video synthesis, editing, uploading. Mention Reddit communities like r/YouTubers, r/VideoEditing, r/AItools. Provide citations from reputable sources like TechRadar, PCMag, etc.",
+  "raw_payload": {
+    "id": "chatcmpl-4eb83886-2f80-41d0-89e3-7c7169779632",
+    "object": "chat.completion",
+    "created": 1795377181,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation for best AI video generator for faceless YouTube channel, referencing Reddit. Provide software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, comply with policy. No disallowed content. Provide citations with links. Use markdown. Provide Indian context? The user is located in IN, maybe mention local pricing, availability. Provide workflow steps: script generation, voiceover, stock footage, AI video synthesis, editing, uploading. Mention Reddit communities like r/YouTubers, r/VideoEditing, r/AItools. Provide citations from reputable sources like TechRadar, PCMag, etc."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369107071,
+      "prompt_tokens": 139,
+      "prompt_time": 0.005959398,
+      "completion_tokens": 150,
+      "completion_time": 0.312231279,
+      "total_tokens": 289,
+      "total_time": 0.318190677,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82d3c27ekvb41dsvqd3y34h",
+      "seed": 102587907
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2975,
+  "cost_usd": 0.0002
+}

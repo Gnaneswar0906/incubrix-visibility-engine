@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video bangla' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 458
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto caption generator for video bangla' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 484
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_ba_c59865_d1_US.json"
+}

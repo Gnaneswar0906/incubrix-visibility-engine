@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing software",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (often referred to as transcript-based editing) has revolutionized digital content creation. It allows creators to edit video timelines simply by highlighting, deleting, or rearranging words in a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2327,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editing_software_1990bf_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'text based video editing software' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 415
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_based_video_editing_software_1990bf_d1_US.json"
+}

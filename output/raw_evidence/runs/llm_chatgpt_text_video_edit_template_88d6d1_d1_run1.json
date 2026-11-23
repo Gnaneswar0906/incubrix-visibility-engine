@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video edit template",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Overview",
+  "raw_payload": {
+    "id": "chatcmpl-d88e63d4-23b7-4e65-8559-693cbb2f1f21",
+    "object": "chat.completion",
+    "created": 1795375521,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Overview",
+          "reasoning": "We need to respond as an AI assistant to a content creator in GB (Great Britain). Provide recommendations for text video edit template: best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: providing info, can cite sources. Use markdown, bullet points, maybe tables. Provide workflow steps. Also note UK-specific considerations (e.g., licensing, GDPR). Provide citations with links. Ensure no disallowed content. Provide helpful answer.\n\nWe should include citations: maybe from official sites, reviews. Use footnotes or inline links.\n\nProceed to final."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368708601,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005951357,
+      "completion_tokens": 150,
+      "completion_time": 0.309464217,
+      "total_tokens": 283,
+      "total_time": 0.315415574,
+      "completion_tokens_details": {
+        "reasoning_tokens": 137
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82bgq6we1xrnr6wjtm97dcs",
+      "seed": 297206511
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3075,
+  "cost_usd": 0.0002
+}

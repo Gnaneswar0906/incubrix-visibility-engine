@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating high-impact podcast shorts is all about efficiency and turning long-form audio into visually engaging, bite-sized clips. Since you are based in India, I\u2019ve kept in mind tools that are accessible via global subscriptions and work well with Indian internet speeds and content trends.\n\nHere\u2019s a streamlined workflow and the best software tools to consider for editing podcast shorts in 2024\u20132025.\n\n### \ud83c\udfaf Recommended Workflow: From Long-Form to Short\n\n1. **Transcribe First**  \n   Text-based editing is faster than timeline-based editing for podcasts. Most modern AI tools now generate accurate transcripts within minutes.\n2. **Identify Hooks**  \n   Look for moments with strong emotion, clear value, or",
+  "raw_payload": {
+    "id": "chatcmpl-ad412b8e-a38a-4f6a-9ee7-30243f103d5a",
+    "object": "chat.completion",
+    "created": 1795376869,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-impact podcast shorts is all about efficiency and turning long-form audio into visually engaging, bite-sized clips. Since you are based in India, I\u2019ve kept in mind tools that are accessible via global subscriptions and work well with Indian internet speeds and content trends.\n\nHere\u2019s a streamlined workflow and the best software tools to consider for editing podcast shorts in 2024\u20132025.\n\n### \ud83c\udfaf Recommended Workflow: From Long-Form to Short\n\n1. **Transcribe First**  \n   Text-based editing is faster than timeline-based editing for podcasts. Most modern AI tools now generate accurate transcripts within minutes.\n2. **Identify Hooks**  \n   Look for moments with strong emotion, clear value, or"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046303025,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005078595,
+      "completion_tokens": 150,
+      "completion_time": 0.285231811,
+      "total_tokens": 227,
+      "total_time": 0.290310406
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82csw02e8dvpf43thn1ra1b",
+      "seed": 1670618153
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1084,
+  "cost_usd": 0.0002
+}

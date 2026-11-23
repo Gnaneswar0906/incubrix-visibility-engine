@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube podcast to shorts ai free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube podcast to shorts ai free Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations for free AI tools to convert YouTube podcasts into Shorts. Provide workflow, mention tools like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources (like official websites, blog posts, reviews). Also note the user is in India (IN). Possibly mention local considerations (like internet bandwidth, availability). Provide free options, maybe freemium",
+  "raw_payload": {
+    "id": "chatcmpl-a96b6647-bfdb-451f-ba83-5ff813b26689",
+    "object": "chat.completion",
+    "created": 1795375105,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube podcast to shorts ai free Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations for free AI tools to convert YouTube podcasts into Shorts. Provide workflow, mention tools like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources (like official websites, blog posts, reviews). Also note the user is in India (IN). Possibly mention local considerations (like internet bandwidth, availability). Provide free options, maybe freemium"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369471953,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006490503,
+      "completion_tokens": 150,
+      "completion_time": 0.313355349,
+      "total_tokens": 285,
+      "total_time": 0.319845852,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82b40vdeazrkbfpvysjxxvp",
+      "seed": 247232524
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3053,
+  "cost_usd": 0.0002
+}

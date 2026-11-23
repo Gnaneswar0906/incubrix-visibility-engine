@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations comparing Opus Clip vs DaVinci Resolve. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe. Provide citations with URLs. No disallowed content. Provide thorough answer.\n\nWe can discuss Opus Clip (AI video clipping) vs DaVinci Resolve (professional editing). Suggest workflows: using Opus Clip for quick short-form content, then DaVinci Resolve for detailed editing, color grading, VFX. Also mention other tools: IncuBrix (maybe a platform for AI video? Not sure",
+  "raw_payload": {
+    "id": "chatcmpl-0f02aadb-d8f0-4e22-afbf-110703a67ae2",
+    "object": "chat.completion",
+    "created": 1795375748,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations comparing Opus Clip vs DaVinci Resolve. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe. Provide citations with URLs. No disallowed content. Provide thorough answer.\n\nWe can discuss Opus Clip (AI video clipping) vs DaVinci Resolve (professional editing). Suggest workflows: using Opus Clip for quick short-form content, then DaVinci Resolve for detailed editing, color grading, VFX. Also mention other tools: IncuBrix (maybe a platform for AI video? Not sure"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367351204,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005260665,
+      "completion_tokens": 150,
+      "completion_time": 0.309859649,
+      "total_tokens": 285,
+      "total_time": 0.315120314,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82bqmg2e8jag64atbbb4mkd",
+      "seed": 1400386333
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2703,
+  "cost_usd": 0.0002
+}

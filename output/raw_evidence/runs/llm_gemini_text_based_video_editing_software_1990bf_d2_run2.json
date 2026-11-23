@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a"
+            },
+            {
+              "text": " content creator based in the US, leveraging **Text-Based Video Editing (TBVE)**\u2014often referred to as transcript-based editing\u2014can drastically slash your post-production time. Instead of scrubbing through a timeline, you simply edit a text document, and the video and audio cut themselves to match. \n\nHere is a breakdown of the best tools, key industry options (including your requested list), and an efficient workflow method tailored for creators.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\n#### 1. Descript (The Gold Standard)\n* **Best For:** Podcasters, talking-head YouTube videos, and creators who need deep audio and script manipulation.\n* **Why it\u2019s a leader:** Descript pioneered modern AI-driven transcript editing. It features \"Studio Sound\" (which turns amateur microphone recordings into studio-quality audio), \"Filler Word Removal\" (automatically stripping out *ums* and *ahs*), and \"Overdub,\"",
+              "thoughtSignature": "Eo4BCosBAWkUfRPP+nPQcMQbdJMxnudiqoBALjgxKYkmP4xWsu+FLIqcHrccH1MQk8Vysb7znBb8APDD+fZm/piitCrSdpgTyrTZa6SwICNhxt1SawRiUF5cya5xWYDST2jjUrkcgAJFS8ZT/3Ehaw1s9+LBuNjLKGzY+tSXwF/L9FRb4vml4xrUMjh9BpehdA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "w0UDa7XBOZyqjuMPmofTQQ"
+  },
+  "latency_ms": 3329,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the UK, here is the direct answer to your query regarding Opus Clip, along with a comprehensive breakdown of its pricing, the best alternative software tools, and an efficient clipping workflow.\n\n---\n\n### Is Opus Clip Free or Not?\n\n**Yes, Opus Clip off",
+      "cost_usd": 0.0002,
+      "latency_ms": 2586,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_free_or_not_586d34_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in Great Britain, here is a detailed breakdown of **Opus Clip\u2019s pricing model**, alongside a recommended workflow and top industry alternatives tailored for your video repurposing needs.\n\n---\n\n### 1. Is Opus Clip Free or Not?\n\n**The short answer:** Opus C",
+      "cost_usd": 0.0002,
+      "latency_ms": 2420,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_free_or_not_586d34_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_free_or_not_586d34_d1_GB.json"
+}

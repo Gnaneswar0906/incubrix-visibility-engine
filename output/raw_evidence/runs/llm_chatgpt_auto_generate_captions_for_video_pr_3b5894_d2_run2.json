@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Adobe\u202fPremiere\u202fPro  \n*(A quick\u2011start guide for U.S.\u2011based creators)*  \n\n| Goal | Recommended Tool / Service | How It Works with Premiere\u202fPro | Cost (as of\u202f2024) | Key Strengths |\n|------|----------------------------|--------------------------------|",
+  "raw_payload": {
+    "id": "chatcmpl-131b6824-c8e3-42aa-8555-ab840b47b5e0",
+    "object": "chat.completion",
+    "created": 1795376597,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Adobe\u202fPremiere\u202fPro  \n*(A quick\u2011start guide for U.S.\u2011based creators)*  \n\n| Goal | Recommended Tool / Service | How It Works with Premiere\u202fPro | Cost (as of\u202f2024) | Key Strengths |\n|------|----------------------------|--------------------------------|",
+          "reasoning": "We need to respond as ChatGPT, providing recommendations for auto-generating captions for video in Premiere Pro. Include software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with links. Provide structured answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155569635,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006213255,
+      "completion_tokens": 150,
+      "completion_time": 0.314342029,
+      "total_tokens": 286,
+      "total_time": 0.320555284,
+      "completion_tokens_details": {
+        "reasoning_tokens": 76
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82chhk5e0draemt4q9aywn5",
+      "seed": 803073176
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2258,
+  "cost_usd": 0.0002
+}

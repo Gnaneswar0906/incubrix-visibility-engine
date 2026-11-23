@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus 4 review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus 4 review. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as a content creator in India (IN). Provide a review of Opus 4 (likely a software). Then recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations.\n\nWe must obey policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown",
+  "raw_payload": {
+    "id": "chatcmpl-01b130dd-ed41-490f-95e3-3fbd99b81d2e",
+    "object": "chat.completion",
+    "created": 1795377133,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus 4 review. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as a content creator in India (IN). Provide a review of Opus 4 (likely a software). Then recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations.\n\nWe must obey policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.3174864,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005647629,
+      "completion_tokens": 150,
+      "completion_time": 0.312735462,
+      "total_tokens": 283,
+      "total_time": 0.318383091,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82d1xrrepgb2exj407mg441",
+      "seed": 1157191029
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2749,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "which video editor is best for beginners",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019re in a great position because the video editing landscape has become incredibly accessible. \"Best\" depends on your specific niche (e.g., long-form YouTube, short-form TikTok/Reels, or podcast clips), but here is a breakdown of the top tools and workflows for beginners, including the specific industry options you mentioned.\n\n### \ud83c\udfc6 Top Recommendations for Beginners\n\n#### 1. **CapCut** (Best Overall for Short-Form & Social Media)\n- **Why it\u2019s great for beginners:** Extremely intuitive, free (with a Pro version), and designed for social media formats (9:16, 1:1). It has auto-captions, trending",
+  "raw_payload": {
+    "id": "chatcmpl-0f12bbd1-7ccd-4b51-9517-e93308515660",
+    "object": "chat.completion",
+    "created": 1795375528,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019re in a great position because the video editing landscape has become incredibly accessible. \"Best\" depends on your specific niche (e.g., long-form YouTube, short-form TikTok/Reels, or podcast clips), but here is a breakdown of the top tools and workflows for beginners, including the specific industry options you mentioned.\n\n### \ud83c\udfc6 Top Recommendations for Beginners\n\n#### 1. **CapCut** (Best Overall for Short-Form & Social Media)\n- **Why it\u2019s great for beginners:** Extremely intuitive, free (with a Pro version), and designed for social media formats (9:16, 1:1). It has auto-captions, trending"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.066443285,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005728935,
+      "completion_tokens": 150,
+      "completion_time": 0.294697577,
+      "total_tokens": 229,
+      "total_time": 0.300426512
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bgybyer7tjh6m4gaxg928",
+      "seed": 619600527
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1429,
+  "cost_usd": 0.0002
+}

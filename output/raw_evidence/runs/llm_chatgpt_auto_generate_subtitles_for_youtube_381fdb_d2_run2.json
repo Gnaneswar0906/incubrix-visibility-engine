@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto generating subtitles for YouTube videos, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for a content creator in US. Provide recommendations, workflow, mention tools, and cite sources. We can include links to official pages, reviews, etc. Must be factual. No disallowed content. Provide citations. Use proper format.\n\nWe should ensure to not violate policy. Provide info. Use markdown maybe.\n\nWe should mention YouTube's own auto-caption, third-party tools like Rev, Otter.ai, Temi, Happy Scribe,",
+  "raw_payload": {
+    "id": "chatcmpl-5e012976-7242-46c3-8e7e-2e126ce5d563",
+    "object": "chat.completion",
+    "created": 1795376624,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto generating subtitles for YouTube videos, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to respond as an AI assistant for a content creator in US. Provide recommendations, workflow, mention tools, and cite sources. We can include links to official pages, reviews, etc. Must be factual. No disallowed content. Provide citations. Use proper format.\n\nWe should ensure to not violate policy. Provide info. Use markdown maybe.\n\nWe should mention YouTube's own auto-caption, third-party tools like Rev, Otter.ai, Temi, Happy Scribe,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368844489,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005319707,
+      "completion_tokens": 150,
+      "completion_time": 0.313003698,
+      "total_tokens": 285,
+      "total_time": 0.318323405,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cjcfze81ada5n8j6r4kh3",
+      "seed": 1089947393
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2709,
+  "cost_usd": 0.0002
+}

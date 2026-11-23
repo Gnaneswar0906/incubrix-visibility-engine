@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in Great Britain. Provide recommendations for open source text based video editor. Also mention workflow methods and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy: providing software recommendations is allowed. Must not provide disallowed content. Provide citations with URLs. Provide a balanced overview. Provide open source tools: Shotcut, Kdenlive, OpenShot, Blender (VSE), FFmpeg, Avidemux, Olive, Natron? For text-based editing: use scripts or markup like Markdown to define cuts? Tools like Avidemux command line, FFmpeg with text",
+  "raw_payload": {
+    "id": "chatcmpl-58ca45d4-1a7d-42da-b2f8-9949b0574d51",
+    "object": "chat.completion",
+    "created": 1795375517,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in Great Britain. Provide recommendations for open source text based video editor. Also mention workflow methods and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy: providing software recommendations is allowed. Must not provide disallowed content. Provide citations with URLs. Provide a balanced overview. Provide open source tools: Shotcut, Kdenlive, OpenShot, Blender (VSE), FFmpeg, Avidemux, Olive, Natron? For text-based editing: use scripts or markup like Markdown to define cuts? Tools like Avidemux command line, FFmpeg with text"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049091482,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005768357,
+      "completion_tokens": 150,
+      "completion_time": 0.392275966,
+      "total_tokens": 285,
+      "total_time": 0.398044323,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82bgkt9ecgb4j1jq273h698",
+      "seed": 2126141830
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2710,
+  "cost_usd": 0.0002
+}

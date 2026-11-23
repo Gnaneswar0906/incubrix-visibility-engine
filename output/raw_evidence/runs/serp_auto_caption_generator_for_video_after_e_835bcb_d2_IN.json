@@ -1,0 +1,95 @@
+{
+  "query": "auto caption generator for video after effects",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=jfZWpKIfs70",
+  "competitors_named": "CapCut, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto caption generator for video after effects",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Subtitles Automatically in After Effects",
+        "link": "https://www.youtube.com/watch?v=jfZWpKIfs70",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Have you ever wanted to add subtitles to your videos in After Effects? It's easy to do with this tutorial! You can create dynamic subtitles\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "AutoCaption",
+        "link": "https://aescripts.com/autocaption/?srsltid=AYCX9vKwOugJwL3H5pKt3udkcTEa9fJcJ7v8hmvCaFCjSPsJ4vducx8v",
+        "displayedLink": "https://aescripts.com \u203a autocaption",
+        "snippet": "Automatically generate captions with styles from any audio or video in Adobe After Effects. Choose from $8 monthly and $80 yearly subscription or $150 ...",
+        "position": 2
+      },
+      {
+        "title": "Create Auto Captions in After Effects  Fast & Easy | FREE Script",
+        "link": "https://www.youtube.com/watch?v=_Wp2tym_btM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Create auto subtitles in After Effects in just 1 click using a FREE script In this quick tutorial, you'll learn how to generate captions\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "Auto Captions",
+        "link": "https://aejuice.com/product/auto-captions/?srsltid=AYCX9vK9y6euLAmYJv0Aaac1D8_uBCT9R22Yy4KQhvS5plMWNNQeH77s",
+        "displayedLink": "https://aejuice.com \u203a product \u203a auto-captions",
+        "snippet": "Auto Captions is the ultimate AI tool designed to create dynamic, automatic subtitles for After Effects. Perfect for social media, it effortlessly extracts ...",
+        "position": 4
+      },
+      {
+        "title": "QuickCaption for After Effects",
+        "link": "https://www.pluginplay.app/product/quickcaption",
+        "displayedLink": "https://www.pluginplay.app \u203a product \u203a quickcaption",
+        "snippet": "QuickCaption is the fastest way to import, edit, and animate subtitles in After Effects. Whether you're working with .srt files or adding captions manually.",
+        "position": 5
+      },
+      {
+        "title": "Automatic Subtitles for Short Form Content : r/AfterEffects",
+        "link": "https://www.reddit.com/r/AfterEffects/comments/13x0zxa/automatic_subtitles_for_short_form_content/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a automatic_subtitles_for_sho...",
+        "snippet": "- Do your whole editing in AE, and if you need the subtitles, export the finished video without them and toss in CapCut to add the subtitles.",
+        "position": 6
+      },
+      {
+        "title": "After Effects Auto Captions & Subtitles Plugin",
+        "link": "https://caption-x.com/auto-captions-after-effects",
+        "displayedLink": "https://caption-x.com \u203a auto-captions-after-effects",
+        "snippet": "Auto captions and subtitles plugin for After Effects: animated, editable captions in 100+ languages, plus translation. Free to start, on Windows and Mac.",
+        "rating": 4.7,
+        "ratingCount": 384,
+        "position": 7
+      },
+      {
+        "title": "After Effects Quick Subtitles Free Download",
+        "link": "https://aeapps.gumroad.com/l/quicksubtitles",
+        "displayedLink": "https://aeapps.gumroad.com \u203a l \u203a quicksubtitles",
+        "snippet": "Add subtitles to your videos the easy way Quick Subtitles is a painless way to add subtitles directly in After Effects. You can try it right now. Click the.",
+        "position": 8
+      },
+      {
+        "title": "AI Caption Generator - Add Captions to Video",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online/video-caption-generator",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online \u203a video-caption-generator",
+        "snippet": "Add ai captions to your videos in seconds. Choose from over 125 languages. AI caption generator with dynamic subtitles and brand kit styling. Free to start.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 9
+      },
+      {
+        "title": "Create Auto Caption in After Effects | After Effect Tutorial | KuldeepMp4",
+        "link": "https://www.youtube.com/watch?v=-RILzHX-AKk",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Auto subtitle generator in After Effects | Create Auto Caption in After Effects. Nitzex Visual\u202213K views \u00b7 4:44. Go to channel Editing Empire\u00a0...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

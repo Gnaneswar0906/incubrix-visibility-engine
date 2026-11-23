@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube videos",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As a content creator based in the UK, automating your YouTube workflow is crucial for scaling without burning out. While fully \"hands-off\" uploading is rare due to YouTube's strict automation policies (which require human oversight for metadata, thumbnails, and titles), you can significantly streaml",
+      "cost_usd": 0.0002,
+      "latency_ms": 1116,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_videos_12fc38_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for best software tools, workflow methods for auto uploading YouTube videos. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with po",
+      "cost_usd": 0.0002,
+      "latency_ms": 2797,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_youtube_videos_12fc38_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_youtube_videos_12fc38_d1_GB.json"
+}

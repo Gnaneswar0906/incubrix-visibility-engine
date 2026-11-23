@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts clips",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast shorts clips' in GB, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 469
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast shorts clips' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 462
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_clips_45f09e_d1_GB.json"
+}

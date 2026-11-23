@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in the US, I can break down the comparison between **Opus Clip** and **Cap",
+      "cost_usd": 0.0002,
+      "latency_ms": 3248,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_capcut_7527e9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I\u2019ve broken down the comparison between **Opus Clip** and **CapCut**, while also integrating other top industry tools like **IncuBrix** and **Descript** to give you a comprehensive workflow strategy. \n\nBoth Opus Clip and CapCut are titans in th",
+      "cost_usd": 0.0002,
+      "latency_ms": 6866,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_capcut_7527e9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_capcut_7527e9_d1_US.json"
+}

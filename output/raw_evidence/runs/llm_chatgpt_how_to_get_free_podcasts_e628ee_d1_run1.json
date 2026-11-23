@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get free podcasts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as ChatGPT, providing recommendations for free podcasts? The user asks: \"how to get free podcasts. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to comply with policy: It's about providing information. It's not disallowed. Provide info on how to get free podcasts, recommend tools for creating podcasts? The user is a content creator located in IN (India). Provide relevant resources, mention tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods. Cite sources. Should be safe.\n\nWe must not mention policy.",
+  "raw_payload": {
+    "id": "chatcmpl-034607f7-9576-49b6-8b07-32169bdaf587",
+    "object": "chat.completion",
+    "created": 1795375118,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as ChatGPT, providing recommendations for free podcasts? The user asks: \"how to get free podcasts. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to comply with policy: It's about providing information. It's not disallowed. Provide info on how to get free podcasts, recommend tools for creating podcasts? The user is a content creator located in IN (India). Provide relevant resources, mention tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods. Cite sources. Should be safe.\n\nWe must not mention policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157977813,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005031826,
+      "completion_tokens": 150,
+      "completion_time": 0.310813092,
+      "total_tokens": 284,
+      "total_time": 0.315844918,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82b4e5me6jb8vf8b7g6yvfe",
+      "seed": 614509902
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3270,
+  "cost_usd": 0.0002
+}

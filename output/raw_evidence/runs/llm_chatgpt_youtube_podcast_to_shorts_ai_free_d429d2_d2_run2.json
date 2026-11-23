@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube podcast to shorts ai free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting YouTube podcasts to shorts using AI free tools. They are a content creator in India (IN). Need to recommend best software, workflow, mention those tools, cite authoritative web sources if available. Must comply with policy: providing software recommendations is allowed. Must not provide disallowed content. Provide citations. Use markdown. Provide links to official sites or reputable articles. Ensure free AI options. Provide workflow steps: download video, transcript, clip extraction, editing, adding captions, resizing, publishing. Mention tools like YouTube Studio, InVideo, Clipchamp, Kap",
+  "raw_payload": {
+    "id": "chatcmpl-281d3cdf-91ef-40e7-a5ba-dd275190ebdc",
+    "object": "chat.completion",
+    "created": 1795376890,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting YouTube podcasts to shorts using AI free tools. They are a content creator in India (IN). Need to recommend best software, workflow, mention those tools, cite authoritative web sources if available. Must comply with policy: providing software recommendations is allowed. Must not provide disallowed content. Provide citations. Use markdown. Provide links to official sites or reputable articles. Ensure free AI options. Provide workflow steps: download video, transcript, clip extraction, editing, adding captions, resizing, publishing. Mention tools like YouTube Studio, InVideo, Clipchamp, Kap"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157954748,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005646561,
+      "completion_tokens": 150,
+      "completion_time": 0.314282136,
+      "total_tokens": 285,
+      "total_time": 0.319928697,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82ctgb4ek78k5kyb8nvke8y",
+      "seed": 763500712
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2519,
+  "cost_usd": 0.0002
+}

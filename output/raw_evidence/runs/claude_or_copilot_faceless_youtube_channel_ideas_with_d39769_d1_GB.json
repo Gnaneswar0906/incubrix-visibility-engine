@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "faceless youtube channel ideas with ai free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'faceless youtube channel ideas with ai free' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 348
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel ideas with ai free' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 462
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_faceless_youtube_channel_ideas_with_d39769_d1_GB.json"
+}

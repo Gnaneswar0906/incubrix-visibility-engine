@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai free without watermark",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form vertical videos (Reels, TikTok, Shorts) is one of the most effective ways to leverage existing assets. However, the \"free without watermark\" constraint is the biggest bottleneck in this space, as most AI-powered clipping tools are freemium and imp",
+      "cost_usd": 0.0002,
+      "latency_ms": 802,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_free_without_w_9d3066_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting podcasts to shorts (short videos) using AI free without watermark. Need to recommend best software tools, workflow, mention key industry option",
+      "cost_usd": 0.0002,
+      "latency_ms": 2325,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_free_without_w_9d3066_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_ai_free_without_w_9d3066_d2_US.json"
+}

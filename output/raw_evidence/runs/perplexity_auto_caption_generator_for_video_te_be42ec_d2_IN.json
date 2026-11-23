@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto caption generator for video telugu' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 389
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto caption generator for video telugu' in IN, popular recommendations include Submagic, Vidyo.ai. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 345
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_te_be42ec_d2_IN.json"
+}

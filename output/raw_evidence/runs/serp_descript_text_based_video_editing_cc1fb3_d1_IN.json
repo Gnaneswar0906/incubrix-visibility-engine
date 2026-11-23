@@ -1,0 +1,95 @@
+{
+  "query": "descript text based video editing",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.descript.com/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "descript text based video editing",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Descript",
+        "link": "https://www.descript.com/",
+        "displayedLink": "https://www.descript.com",
+        "snippet": "Descript is an AI video and audio editor that lets you edit by editing text. You record or upload, Descript's AI transcribes it, then you cut, trim, and ...",
+        "sitelinks": [
+          {
+            "title": "Add Text to Video",
+            "link": "https://www.descript.com/tools/add-text-to-video"
+          },
+          {
+            "title": "AI Video Editor",
+            "link": "https://www.descript.com/tools/video-editor"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "Complete Descript Tutorial 2026: Zero to Expert",
+        "link": "https://www.youtube.com/watch?v=RgwJNOXGARI&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn Descript, the best AI video editor, in this step-by-step Descript tutorial! Master AI video editing, eye contact correction, AI voice\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "Edit Videos Just by Typing (Seriously) | Descript AI",
+        "link": "https://www.youtube.com/watch?v=hhCFh4W5VgE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Edit Videos in Minutes, Not Hours (Descript AI). Learn Online Video \u00b7 22K views ; ULTIMATE Descript Tutorial for Beginners in 2026 | How to Edit\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "Descript AI Tutorial | Text-Based Video Editing Made Effortless",
+        "link": "https://www.youtube.com/watch?v=fgBQ8TmEgEE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Imagine editing a video or podcast the same way you edit a text document\u2014no timelines, no complicated software, no steep learning curve.",
+        "position": 4
+      },
+      {
+        "title": "Descript",
+        "link": "https://www.youtube.com/c/descript",
+        "displayedLink": "https://www.youtube.com \u203a c \u203a descript",
+        "snippet": "Descript's AI co-editor has the judgment you want in a collaborator, the expertise you expect from a video pro, and all the tools it needs to make any video ...",
+        "position": 5
+      },
+      {
+        "title": "Descript AI Audio Video Editing Review: Is This Text-Based Editor ...",
+        "link": "https://doneforyou.com/descript-ai-audio-video-editing-review/",
+        "displayedLink": "https://doneforyou.com \u203a descript-ai-audio-video-edi...",
+        "snippet": "When you upload audio or video files, Descript automatically transcribes the content and creates an editable text document. Delete a word from the transcript, ...",
+        "position": 6
+      },
+      {
+        "title": "Descript Tutorial: Edit Video by Editing Text",
+        "link": "https://uiux.studio/blog/descript-tutorial",
+        "displayedLink": "https://uiux.studio \u203a blog \u203a descript-tutorial",
+        "snippet": "Descript is a video and audio editor that turns your recording into a transcript you can edit like a document. Import a video, let Descript transcribe it, ...",
+        "position": 7
+      },
+      {
+        "title": "Descript AI Video Editing Tutorial",
+        "link": "https://www.youtube.com/watch?v=Dk1TxDKzb68",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This comprehensive Descript tutorial will teach you how to use Descript in less than 15 minutes. And you'll learn EXACTLY how to leverage\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Descript Video Editing: How Does It Work",
+        "link": "https://www.tella.com/blog/descript-video-editing-how-does-it-work",
+        "displayedLink": "https://www.tella.com \u203a blog \u203a descript-video-editing-how-...",
+        "snippet": "Descript lets you easily switch between text-based editing and traditional timeline editing. This flexibility is particularly helpful for more ...",
+        "date": "14 May 2024",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

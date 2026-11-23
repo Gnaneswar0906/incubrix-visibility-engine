@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator based in the UK, you have access to several robust tools for automating subtitle generation on TikTok. Since TikTok is a sound-on platform, accurate and engaging captions are crucial for retention and accessibility (which also aligns with UK accessibility standards).\n\nHere\u2019s a b",
+      "cost_usd": 0.0002,
+      "latency_ms": 1810,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__98745c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto-generating subtitles for a TikTok video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to provide answer as an AI assistant for a content creator i",
+      "cost_usd": 0.0002,
+      "latency_ms": 2964,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__98745c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_subtitles_for__98745c_d1_GB.json"
+}

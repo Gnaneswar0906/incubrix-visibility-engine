@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator free reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to recommend best software tools for auto caption generation, free options, mention Reddit maybe where people discuss. Provide workflow methods. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations with links. Must be mindful of location IN (India) - maybe mention local considerations, offline options, language support.\n\nWe can include free tools: You",
+  "raw_payload": {
+    "id": "chatcmpl-4ca9f8f1-ff74-43ff-b990-0a699e243cdc",
+    "object": "chat.completion",
+    "created": 1795375230,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator free reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to recommend best software tools for auto caption generation, free options, mention Reddit maybe where people discuss. Provide workflow methods. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations with links. Must be mindful of location IN (India) - maybe mention local considerations, offline options, language support.\n\nWe can include free tools: You"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.376426374,
+      "prompt_tokens": 134,
+      "prompt_time": 0.045140335,
+      "completion_tokens": 150,
+      "completion_time": 0.310757174,
+      "total_tokens": 284,
+      "total_time": 0.355897509,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82b7tskemeav48vyb3sajky",
+      "seed": 1845454319
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3201,
+  "cost_usd": 0.0002
+}

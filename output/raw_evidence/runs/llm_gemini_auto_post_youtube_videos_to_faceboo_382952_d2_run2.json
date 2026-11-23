@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook page, choosing the right combination of automation software and content repurposing tools is essential. \n\nSimply dropping a YouTube link on Facebook often results in low algorithmic reach because Facebook prefers native video uploads. Therefore, the most effective strategy involves **repurposing long-form YouTube videos into short-form clips** (like Reels) and **automating the native upload** to your Facebook Page.\n\nHere is a breakdown of the best software tools, workflow methods, and industry-standard options to achieve this efficiently.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. AI Repurposing & Editing Tools (For Short-Form Optimization)\nBefore posting to Facebook, you should optimize your YouTube content into formats that perform well on social media (vertical 9:16 aspect ratio, captions, hooks).\n*   **Opus",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook page, choosing the right combination of automation software and content repurposing tools is essential. \n\nSimply dropping a YouTube link on Facebook often results in low algorithmic reach because Facebook prefers native video uploads. Therefore, the most effective strategy involves **repurposing long-form YouTube videos into short-form clips** (like Reels) and **automating the native upload** to your Facebook Page.\n\nHere is a breakdown of the best software tools, workflow methods, and industry-standard options to achieve this efficiently.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. AI Repurposing & Editing Tools (For Short-Form Optimization)\nBefore posting to Facebook, you should optimize your YouTube content into formats that perform well on social media (vertical 9:16 aspect ratio, captions, hooks).\n*   **Opus",
+              "thoughtSignature": "Eo4BCosBAWkUfRObYYVCLYbqWZnecuOULCDhEev+XZYHdJYtC+Qb9kLtL6A+M3EO7QoxYQpULtXkI7Y4wjK7SokwjLMN8b++pDr7cVr/u3OAEeWEjxYBm2DmwjmNW7SJCKqC3+ASKZzAYjTcog50aLyN/UPM0enmKilI7BFAeWurqFFrfB+Y7TMdbG0fYms6ow=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "R0YDa-jrCqHm4t4Ph_yVqAs"
+  },
+  "latency_ms": 2602,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, turning long-form podcast audio into vertical video shorts is one of the most effective ways to grow your audience on TikTok, Instagram Reels, and YouTube Shorts. Since you are looking for **free** options, it\u2019s important to manage expectations: while many tools have free tiers, they usually come with watermarks, export limits, or lower resolution.\n\nBelow is a curated list of the best tools, workflow methods, and industry options for converting podcasts to shorts, categorized by their strengths.\n\n### \ud83c\udfc6 Top Free & Freemium Tools\n\n#### 1. **Opus Clip** (Best for AI Automation)\n- **Why it\u2019s great:** Opus Clip is currently the industry leader",
+  "raw_payload": {
+    "id": "chatcmpl-cfbf7397-790c-4678-926f-7dc1948ce79f",
+    "object": "chat.completion",
+    "created": 1795376499,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, turning long-form podcast audio into vertical video shorts is one of the most effective ways to grow your audience on TikTok, Instagram Reels, and YouTube Shorts. Since you are looking for **free** options, it\u2019s important to manage expectations: while many tools have free tiers, they usually come with watermarks, export limits, or lower resolution.\n\nBelow is a curated list of the best tools, workflow methods, and industry options for converting podcasts to shorts, categorized by their strengths.\n\n### \ud83c\udfc6 Top Free & Freemium Tools\n\n#### 1. **Opus Clip** (Best for AI Automation)\n- **Why it\u2019s great:** Opus Clip is currently the industry leader"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053669122,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005452548,
+      "completion_tokens": 150,
+      "completion_time": 0.28545466,
+      "total_tokens": 227,
+      "total_time": 0.290907208
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cejrtes4tkp1nj68fntch",
+      "seed": 1025105779
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 786,
+  "cost_usd": 0.0002
+}

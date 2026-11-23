@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant. Provide recommendations for auto-generating captions for a video, including software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (Great Britain). Need to consider UK context, maybe mention compliance with accessibility laws (e.g., UK Equality Act, Ofcom). Provide best tools, workflow steps, integration with editing platforms, cost, accuracy, languages, etc. Provide citations (maybe using footnotes or inline links). Must not violate policy. Provide helpful info.\n\nWe'll produce a structured answer: overview, why captions matter, key considerations (accuracy, timecode sync",
+  "raw_payload": {
+    "id": "chatcmpl-4ca27816-2c7a-4ede-98ff-b67a6c9d2fbb",
+    "object": "chat.completion",
+    "created": 1795375633,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant. Provide recommendations for auto-generating captions for a video, including software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (Great Britain). Need to consider UK context, maybe mention compliance with accessibility laws (e.g., UK Equality Act, Ofcom). Provide best tools, workflow steps, integration with editing platforms, cost, accuracy, languages, etc. Provide citations (maybe using footnotes or inline links). Must not violate policy. Provide helpful info.\n\nWe'll produce a structured answer: overview, why captions matter, key considerations (accuracy, timecode sync"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156351087,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005278332,
+      "completion_tokens": 150,
+      "completion_time": 0.308680805,
+      "total_tokens": 285,
+      "total_time": 0.313959137,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82bm4wdevp9jc8j23c3wk13",
+      "seed": 499607861
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2414,
+  "cost_usd": 0.0002
+}

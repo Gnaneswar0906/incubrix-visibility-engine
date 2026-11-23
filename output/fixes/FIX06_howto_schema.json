@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Repurpose Long-Form Videos into Shorts with IncuBrix",
+  "description": "Step-by-step workflow to convert podcasts, webinars, and YouTube videos into viral short-form clips.",
+  "totalTime": "PT2M",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Upload Recording or Paste URL",
+      "text": "Paste your YouTube, podcast, or Zoom recording URL into the IncuBrix studio."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "AI Highlight Extraction & Auto-Reframing",
+      "text": "IncuBrix extracts the highest-retention clips and crops active speakers to 9:16 vertical."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Export & Publish Across Socials",
+      "text": "Customize animated captions and publish directly to TikTok, Reels, and Shorts."
+    }
+  ]
+}

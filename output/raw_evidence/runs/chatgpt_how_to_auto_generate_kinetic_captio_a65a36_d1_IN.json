@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate kinetic captions for reels",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'how to auto generate kinetic captions for reels' in IN, popular recommendations include Vidyo.ai, CapCut, Descript. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 346
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'how to auto generate kinetic captions for reels' in IN, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 330
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_kinetic_captio_a65a36_d1_IN.json"
+}

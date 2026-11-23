@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Start Summary**\n\n| Goal | Recommended Tool(s) | How It Works | Approx. Cost |\n|------|---------------------",
+  "raw_payload": {
+    "id": "chatcmpl-f8d79a7e-3146-4a7f-9a0e-51f0faf8ba33",
+    "object": "chat.completion",
+    "created": 1795376674,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Start Summary**\n\n| Goal | Recommended Tool(s) | How It Works | Approx. Cost |\n|------|---------------------",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations (maybe using markdown footnotes). Provide recommendations for auto upload from Twitch to YouTube. Provide workflow steps. Also mention tools like Streamlabs, OBS, Restream, etc. Provide sources from reputable sites (e.g., official docs, TechRadar, PCMag, etc.). Ensure no copyrighted text beyond short excerpt. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369845257,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00508462,
+      "completion_tokens": 150,
+      "completion_time": 0.315845087,
+      "total_tokens": 285,
+      "total_time": 0.320929707,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82ckwh0ewj9tr2jebbfw55y",
+      "seed": 41922835
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2621,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "udemy start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'udemy start faceless youtube channel with ai chatgpt deepseek' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 411
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a content creator based in Great Britain looking to launch a faceless YouTube channel using advanced AI tools like ChatGPT and DeepSeek, the landscape offers powerful automation workflows. Combining scripting AIs with automated voiceovers, B-roll generation, and AI video editors allows you to pr",
+      "cost_usd": 0.0002,
+      "latency_ms": 5209,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_udemy_start_faceless_youtube_channe_56bf1d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_udemy_start_faceless_youtube_channe_56bf1d_d1_GB.json"
+}

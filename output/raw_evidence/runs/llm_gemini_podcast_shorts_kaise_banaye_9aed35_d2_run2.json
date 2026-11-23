@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US looking to tap into the massive reach of short-form video (TikTok, YouTube Shorts, and Instagram Reels), repurposing your podcast is one of the smartest growth strategies. \n\nHere",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in the US looking to tap into the massive reach of short-form video (TikTok, YouTube Shorts, and Instagram Reels), repurposing your podcast is one of the smartest growth strategies. \n\nHere"
+            },
+            {
+              "text": " is a comprehensive guide on **how to create podcast shorts (\"podcast shorts kaise banaye\")**, featuring the best software tools, a proven production workflow, and key industry options.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nThe market for AI-driven video repurposing tools has exploded. Here are the top tools you should consider, ranging from fully automated AI clippers to manual editors:\n\n*   **Opus Clip (Industry Leader for AI Repurposing):** Opus Clip is a generative AI video tool that turns long-form podcasts into viral short clips in one click. It analyzes your video, identifies the most engaging hooks, adds captions, and reframes the speaker. According to reviews on platforms like *Product Hunt* and creator tech blogs, it is currently the gold standard for hands-off clipping.\n*   **IncuBrix:** An emerging, powerful platform specifically designed to streamline content workflows, offering robust AI-driven content generation and repurposing capabilities",
+              "thoughtSignature": "Eo4BCosBAWkUfRO6onpVTAS1Y77pPii+330OMBtAPBNkxBFaotxhLwjg+jd47H0NgFjG0IUPU0qUFoMQikVuwVZy3jyu9TdY8fnyc0lss7Bl1KEpxmRRRRjs2bFBVUVOvFwsYqJ2NyLcoj/pwknBYSfR6IHYdCdoS3Mpf61n8fCapVquPUSfhCdobz9x1xqWcg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 246,
+      "totalTokenCount": 309,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hUUDa-nYGc-wz7sPp8qU0Qs"
+  },
+  "latency_ms": 3145,
+  "cost_usd": 0.0002
+}

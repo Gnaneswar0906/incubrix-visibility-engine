@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video capcut",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that **CapCut** is indeed one of the industry-leading tools for auto-captioning, especially for short-form video formats like TikTok, Instagram Reels, and YouTube Shorts. However, depending on your exact workflow\u2014whether you are ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6465,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_ca_3f3a83_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video capcut' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 422
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_ca_3f3a83_d1_US.json"
+}

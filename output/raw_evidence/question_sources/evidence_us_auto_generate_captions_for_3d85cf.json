@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=auto+generate+captions+for",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "auto generate captions for",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:46:33.236125+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto generate captions for video",
+    "auto generate captions for video free",
+    "auto generate captions for video premiere pro",
+    "auto generate captions for video free online",
+    "auto generate captions for instagram reels",
+    "auto generate captions for youtube video",
+    "auto generate captions for free",
+    "auto generate captions for video capcut",
+    "auto generate captions for audio",
+    "auto generate captions for instagram"
+  ],
+  "raw_response": "[\"auto generate captions for\",[\"auto generate captions for video\",\"auto generate captions for video free\",\"auto generate captions for video premiere pro\",\"auto generate captions for video free online\",\"auto generate captions for instagram reels\",\"auto generate captions for youtube video\",\"auto generate captions for free\",\"auto generate captions for video capcut\",\"auto generate captions for audio\",\"auto generate captions for instagram\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated efficiency (AI repurposing)** versus **creative control (manual or hybrid editing)**. \n\nHere is a comprehensive breakdown comparing Opus Clip and CapCut, along with workflow recommendations tailored to the UK creator landscape, key industry options, and authoritative references.\n\n---\n\n### 1. Opus Clip vs. CapCut: Head-to-Head\n\n#### **Opus Clip (The AI Repurposing Specialist)**\n*   **Best For:** Long-form to short-form automation (podcasts, YouTube videos, webinars).\n*   **How it works:** You drop in a YouTube link or upload a long video. Its AI (Curator) analyzes the content, identifies the \"hooks\" and most engaging moments, and automatically",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated efficiency (AI repurposing)** versus **creative control (manual or hybrid editing)**. \n\nHere is a comprehensive breakdown comparing Opus Clip and CapCut, along with workflow recommendations tailored to the UK creator landscape, key industry options, and authoritative references.\n\n---\n\n### 1. Opus Clip vs. CapCut: Head-to-Head\n\n#### **Opus Clip (The AI Repurposing Specialist)**\n*   **Best For:** Long-form to short-form automation (podcasts, YouTube videos, webinars).\n*   **How it works:** You drop in a YouTube link or upload a long video. Its AI (Curator) analyzes the content, identifies the \"hooks\" and most engaging moments, and automatically",
+              "thoughtSignature": "Eo4BCosBAWkUfRNTH5VlSrAGsvbT8Y9fRHJHjG2jwziDF13zvkl9057FFG3FY2H6J7KE2b8d6HAACk4dusnUDEUJNl8WRYYUdD30QpcPwsblQ39bZXE1SNgotj9McYgV2YrAELEE8up2/kN9lVnJvjUwg+arGj6zRfyWw4+4xIEOdr7OowbOMjarzzd9EHjjTQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hUIDa5CmAuXCg8UPr_aJqAQ"
+  },
+  "latency_ms": 7625,
+  "cost_usd": 0.0002
+}

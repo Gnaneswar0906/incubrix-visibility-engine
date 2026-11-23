@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to provide a comprehensive answer: compare Opus Clip, CapCut, Descript, maybe mention IncuBrix. Provide recommendations for best software tools, workflow methods, key industry options. Cite authoritative web sources if available. Provide citations. Use UK context. Provide workflow suggestion",
+      "cost_usd": 0.0002,
+      "latency_ms": 4964,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_vs_descript_a9f132_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely looking for tools that can streamline your workflow, particularly for repurposing long-form content (like podcasts, YouTube videos, or webinars) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a",
+      "cost_usd": 0.0002,
+      "latency_ms": 1662,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_vs_descript_a9f132_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_capcut_vs_descript_a9f132_d2_GB.json"
+}

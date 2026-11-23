@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator located in India (IN),",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator located in India (IN),"
+            },
+            {
+              "text": " you have access to a robust ecosystem of digital tools that cater specifically to the fast-paced Indian creator economy\u2014whether you are making content for YouTube, Instagram Reels, or YouTube Shorts. \n\nHere is a comprehensive guide to the best free text-based video editors, recommended workflows, and a breakdown of the industry options you mentioned, tailored for your region.\n\n---\n\n### 1. Key Industry Options & What They Do Best\n\nWhen looking for a \"text video editor\" (software where you edit a video by editing its text transcript, or tools that generate automated text/captions for videos), several industry leaders stand out:\n\n*   **CapCut:** \n    *   *Best for:* Social media creators (Reels/Shorts), auto-captions, and quick mobile/desktop edits.\n    *   *Why use it:* Its auto-caption feature is arguably the most accurate for multiple languages (including Indian regional languages and English-with-Indian-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMKC5knjUltesibF2o9hpDBgoxydgnlA5Sunkn3ttJeRa4VGEnPyO3aE3v312vwNphCaIQ4r3WaoMQXSoaIASduKgjOiX9o3Ewbq9JHTkZfyWH+BrpQZUKjTncOzorXlrMvjhbVOI5EYDG4n+IXV93FLl/ZimoMhJprf4+mkOTGKsr1wQ5NoQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 212,
+      "totalTokenCount": 274,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "NUADa76UFMGB694P_sCGmAM"
+  },
+  "latency_ms": 2816,
+  "cost_usd": 0.0002
+}

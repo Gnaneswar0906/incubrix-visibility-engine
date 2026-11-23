@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short form",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## ",
+  "raw_payload": {
+    "id": "chatcmpl-909e9c31-555e-456a-a18c-d1e28366a736",
+    "object": "chat.completion",
+    "created": 1795375464,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## ",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB (Great Britain). Provide recommendations for short form podcast content: software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide workflow steps. Provide tools for recording, editing, transcribing, clipping, publishing, distribution, analytics. Also mention UK-specific platforms maybe. Provide citations. Use reputable sources: TechRadar, The Verge, Podcast Insights, etc. Provide citations with footnotes or inline. Should be safe."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157570422,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005593077,
+      "completion_tokens": 150,
+      "completion_time": 0.312839388,
+      "total_tokens": 282,
+      "total_time": 0.318432465,
+      "completion_tokens_details": {
+        "reasoning_tokens": 140
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82bez85e0d9t4k0wswt3qdx",
+      "seed": 987319098
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2710,
+  "cost_usd": 0.0002
+}

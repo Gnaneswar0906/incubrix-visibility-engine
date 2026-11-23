@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 494
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For a content creator based in India (IN) looking to streamline video editing and boost engagement with accurate captions, Reddit communities (like r/NewTubers, r/VideoEditing, and r/ContentCreators) consistently highlight a few standout tools. Indian creators often juggle multi-lingual audiences (H",
+      "cost_usd": 0.0002,
+      "latency_ms": 2990,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_best_auto_caption_generator_reddit_fefb04_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_best_auto_caption_generator_reddit_fefb04_d1_IN.json"
+}

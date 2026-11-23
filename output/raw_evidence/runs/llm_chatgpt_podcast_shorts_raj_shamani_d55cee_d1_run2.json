@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, creating high-quality \"Podcast Shorts\" (vertical clips for Instagram Reels, YouTube Shorts, and LinkedIn) from Raj Shamani\u2019s content is a smart move. Raj Shamani is a massive figure in the Indian business/startup space, and his talks are dense with value, making them perfect for short-form repurposing.\n\nHere\u2019s a tailored recommendation of the **best software tools, workflow methods, and industry options** to maximize your output while maintaining quality.\n\n### \ud83c\udfc6 Top Recommended Tools (2024\u20132025)\n\n#### 1. **Opus Clip** (Best for AI-Powered Automation)\n*   **Why it\u2019s great for",
+  "raw_payload": {
+    "id": "chatcmpl-85430423-fab6-4fea-aee6-f5f7ee8df12b",
+    "object": "chat.completion",
+    "created": 1795375086,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, creating high-quality \"Podcast Shorts\" (vertical clips for Instagram Reels, YouTube Shorts, and LinkedIn) from Raj Shamani\u2019s content is a smart move. Raj Shamani is a massive figure in the Indian business/startup space, and his talks are dense with value, making them perfect for short-form repurposing.\n\nHere\u2019s a tailored recommendation of the **best software tools, workflow methods, and industry options** to maximize your output while maintaining quality.\n\n### \ud83c\udfc6 Top Recommended Tools (2024\u20132025)\n\n#### 1. **Opus Clip** (Best for AI-Powered Automation)\n*   **Why it\u2019s great for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054096458,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005267812,
+      "completion_tokens": 150,
+      "completion_time": 0.289056108,
+      "total_tokens": 227,
+      "total_time": 0.29432392
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b3e43e6kbr3pp5wy8z0kv",
+      "seed": 838330202
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1149,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to mention auto upload YouTube Shorts GitHub. Provide best software tools, workflow methods. Provide authoritative web sources.\n\nWe need to produce content for content creator in GB. Provide recommendations. Cite sources. Use up-to-date info. Provide workflow steps: script, shoot, edit, auto upload via YouTube API. Tools: CapCut, Opus Clip, Descript, IncuBrix. Also mention other tools: InVideo, Lumen5, Clipchamp, etc. For auto upload: use YouTube Data API, possibly via GitHub",
+  "raw_payload": {
+    "id": "chatcmpl-bdfe0a4f-e753-4f64-8a39-817ac63f0cc7",
+    "object": "chat.completion",
+    "created": 1795377467,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to mention auto upload YouTube Shorts GitHub. Provide best software tools, workflow methods. Provide authoritative web sources.\n\nWe need to produce content for content creator in GB. Provide recommendations. Cite sources. Use up-to-date info. Provide workflow steps: script, shoot, edit, auto upload via YouTube API. Tools: CapCut, Opus Clip, Descript, IncuBrix. Also mention other tools: InVideo, Lumen5, Clipchamp, etc. For auto upload: use YouTube Data API, possibly via GitHub"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368041369,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00774941,
+      "completion_tokens": 150,
+      "completion_time": 0.158026779,
+      "total_tokens": 284,
+      "total_time": 0.165776189,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d23c14756c",
+    "x_groq": {
+      "id": "req_01m82dc39fev1v9rqr3z0twcww",
+      "seed": 1514550568
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6621,
+  "cost_usd": 0.0002
+}

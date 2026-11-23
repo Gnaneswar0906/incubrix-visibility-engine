@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning Long\u2011Form Podcasts into Snack",
+  "raw_payload": {
+    "id": "chatcmpl-c2858b22-95f9-477f-b7c4-8108c2e22851",
+    "object": "chat.completion",
+    "created": 1795376479,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning Long\u2011Form Podcasts into Snack",
+          "reasoning": "We need to respond as an AI assistant, giving recommendations on software tools, workflow methods, and key industry options for converting podcasts to shorts (short-form video). Must cite authoritative web sources if available. Provide best tools, workflow steps, mention IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Use markdown. Should be thorough. Also note US content creator. Provide recommendations, pros/cons, pricing, integrations. Provide workflow. Cite sources: need URLs and maybe dates. Use authoritative sources like TechCrunch, The Verge, official docs. Provide citations inline. Ensure not to violate policy. Should be fine.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317545348,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005267591,
+      "completion_tokens": 150,
+      "completion_time": 0.311108752,
+      "total_tokens": 282,
+      "total_time": 0.316376343,
+      "completion_tokens_details": {
+        "reasoning_tokens": 134
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82cdys5edyr17qg94ksk0k4",
+      "seed": 890652680
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2352,
+  "cost_usd": 0.0002
+}

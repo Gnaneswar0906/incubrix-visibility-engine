@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"auto upload youtube shorts ai\" and wants recommendations of best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a response that addresses the query: auto upload YouTube Shorts AI, recommending best software tools, workflow methods, mention key industry options, and cite authoritative web sources.\n\nWe must ensure to mention these tools. Provide workflow methods: e.g., content creation, editing, AI summarization, captioning, thumbnail generation, scheduling, auto upload, analytics. Provide key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also mention other",
+  "raw_payload": {
+    "id": "chatcmpl-b5117859-70ed-49c2-857a-d7c760b43103",
+    "object": "chat.completion",
+    "created": 1795377471,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"auto upload youtube shorts ai\" and wants recommendations of best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a response that addresses the query: auto upload YouTube Shorts AI, recommending best software tools, workflow methods, mention key industry options, and cite authoritative web sources.\n\nWe must ensure to mention these tools. Provide workflow methods: e.g., content creation, editing, AI summarization, captioning, thumbnail generation, scheduling, auto upload, analytics. Provide key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also mention other"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.315774882,
+      "prompt_tokens": 134,
+      "prompt_time": 0.007562517,
+      "completion_tokens": 150,
+      "completion_time": 0.180736925,
+      "total_tokens": 284,
+      "total_time": 0.188299442,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4315eb300",
+    "x_groq": {
+      "id": "req_01m82dc7c7e72t3qn8zbck8f1m",
+      "seed": 387726687
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4315,
+  "cost_usd": 0.0002
+}

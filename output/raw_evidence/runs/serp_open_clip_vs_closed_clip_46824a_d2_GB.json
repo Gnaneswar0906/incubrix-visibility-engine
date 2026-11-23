@@ -1,0 +1,97 @@
+{
+  "query": "open clip vs closed clip",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=cnlwyARR1Uo",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "open clip vs closed clip",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Open vs. Closed Clippers: Everything You Should Know",
+        "link": "https://www.youtube.com/watch?v=cnlwyARR1Uo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Discover the ultimate showdown between Open and Closed Clippers in this comprehensive video! Learn about the key differences, advantages, and\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Closed Clipper vs Open Clipper? : r/SelfBarber",
+        "link": "https://www.reddit.com/r/SelfBarber/comments/itpie8/closed_clipper_vs_open_clipper/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a closed_clipper_vs_open_clipper",
+        "snippet": "What's the difference? And which should I use for a normal cut with no fade? This will be my first time cutting my own hair. I hear closed clipper cuts ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/SelfBarber/comments/itpie8/closed_clipper_vs_open_clipper/g5h914p/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/SelfBarber/comments/itpie8/closed_clipper_vs_open_clipper/k3f2ou3/"
+          },
+          {
+            "title": "Somebody can explain to me lever closed and lever open? : r/Barberr/Barber\u00b730+ comments\u00b73y",
+            "link": "https://www.reddit.com/r/Barber/comments/13lebca/somebody_can_explain_to_me_lever_closed_and_lever/"
+          },
+          {
+            "title": "[Discussion] Is CLIP model still state of the art? : r/MachineLearning - Redditr/MachineLearning\u00b75 comments\u00b73y",
+            "link": "https://www.reddit.com/r/MachineLearning/comments/14zqooq/discussion_is_clip_model_still_state_of_the_art/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Conventional Clips vs Over-the-Scope Clips for Mucosal ...",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11308691/",
+        "displayedLink": "https://pmc.ncbi.nlm.nih.gov \u203a articles \u203a PMC11308691",
+        "snippet": "by R Jinushi \u00b7 2023 \u00b7 Cited by 12 \u2014 Over-the-scope clips (OTSCs) are used for treating gastrointestinal perforations, postoperative anastomotic leakages, and mucosal defect closure after ...",
+        "position": 3
+      },
+      {
+        "title": "CLIP: Connecting text and images",
+        "link": "https://openai.com/index/clip/",
+        "displayedLink": "https://openai.com \u203a index \u203a clip",
+        "snippet": "We're introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision.",
+        "date": "5 Jan 2021",
+        "position": 4
+      },
+      {
+        "title": "The difference between open and closed blade #shorts #haircut",
+        "link": "https://www.youtube.com/shorts/2Ay0_vVPXYI",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a 2Ay0_vVPXYI",
+        "position": 5
+      },
+      {
+        "title": "History of CLIP Model Training Data Advances",
+        "link": "https://voxel51.com/blog/a-history-of-clip-model-training-data-advances",
+        "displayedLink": "https://voxel51.com \u203a blog \u203a a-history-of-clip-model-tra...",
+        "snippet": "On the OpenCLIP leaderboard, for instance, the largest and most capable CLIP model from OpenAI ranks just 41st(!) in its average zero-shot ...",
+        "date": "13 Mar 2024",
+        "position": 6
+      },
+      {
+        "title": "Introduction to CLIP",
+        "link": "https://opencv.org/clip/",
+        "displayedLink": "https://opencv.org \u203a clip",
+        "snippet": "Learn about CLIP (Contrastive Language-Image Pre-training), a cutting-edge model by OpenAI that connects vision and language for enhanced AI ...",
+        "date": "16 Jul 2025",
+        "position": 7
+      },
+      {
+        "title": "Contrastive Language\u2013Image Pre-training",
+        "link": "https://en.wikipedia.org/wiki/Contrastive_Language%E2%80%93Image_Pre-training",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Contrastive_Language\u2013Image_...",
+        "snippet": "Contrastive Language\u2013Image Pre-training (CLIP) is a technique for training a pair of neural network models, one for image understanding and one for text ...",
+        "position": 8
+      }
+    ],
+    "credits": 1
+  }
+}

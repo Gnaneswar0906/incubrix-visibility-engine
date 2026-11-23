@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Subtitles for YouTube\u202fVideos  \n**(A practical workflow for U.S. creators)**  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the most reliable subtitle\u2011generation tools (including the ones you asked about),",
+  "raw_payload": {
+    "id": "chatcmpl-abfff232-a791-4e47-96b1-edddea5e3159",
+    "object": "chat.completion",
+    "created": 1795376622,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Subtitles for YouTube\u202fVideos  \n**(A practical workflow for U.S. creators)**  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the most reliable subtitle\u2011generation tools (including the ones you asked about),",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Provide workflow steps. Mention free/paid options. Provide best practices. Provide references. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156315284,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006066265,
+      "completion_tokens": 150,
+      "completion_time": 0.310169343,
+      "total_tokens": 285,
+      "total_time": 0.316235608,
+      "completion_tokens_details": {
+        "reasoning_tokens": 90
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cja1xe73rv22xwrc5r566",
+      "seed": 2090143988
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2509,
+  "cost_usd": 0.0002
+}

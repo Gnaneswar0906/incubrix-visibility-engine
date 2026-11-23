@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Yes, absolutely.** You can easily add text to videos in OpenShot Video Editor. OpenShot features a built-in title editor that allows you to create static text, lower thirds, and credits, as well as advanced 3D animated titles using Blender integration. \n\nAs a content creator in the UK (GB), you might also be exploring how OpenShot fits into a modern, efficient video creation workflow alongside specialized AI tools. Below is a breakdown of how to add text in OpenShot, recommended workflows, and a look at key industry alternatives depending on your specific content goals.\n\n---\n\n### How to Add Text in OpenShot Video Editor\n1. **Basic Titles:** Go to the top menu and select **Title > Title** (or use the shortcut `Ctrl + T`). OpenShot provides several standard vector-based templates.\n2. **Advanced/Animated Titles:** Select **Title > 3D Title**. This utilizes Blender (which must be installed",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "**Yes, absolutely.** You can easily add text to videos in OpenShot Video Editor. OpenShot features a built-in title editor that allows you to create static text, lower thirds, and credits, as well as advanced 3D animated titles using Blender integration. \n\nAs a content creator in the UK (GB), you might also be exploring how OpenShot fits into a modern, efficient video creation workflow alongside specialized AI tools. Below is a breakdown of how to add text in OpenShot, recommended workflows, and a look at key industry alternatives depending on your specific content goals.\n\n---\n\n### How to Add Text in OpenShot Video Editor\n1. **Basic Titles:** Go to the top menu and select **Title > Title** (or use the shortcut `Ctrl + T`). OpenShot provides several standard vector-based templates.\n2. **Advanced/Animated Titles:** Select **Title > 3D Title**. This utilizes Blender (which must be installed",
+              "thoughtSignature": "Eo4BCosBAWkUfRNZcNzD78EJ6j7/0cWpqcpM577NIa+QE0axTpsWQ7FszAOYpldHRf7J+6+uft3nHvKPI1e/PzAQtt1NoVzWwzNNKw6F5Znd6HE0wDN40EhRJs3PjhV7uPw2Ep1R4vIhfoGreQ8D3cMdRL1fzXFZ4Vtje+9lnuPLoyr/LBi5O+EeeNh9QO1rVg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pEEDa5OJDsvqz7sP6efU2AY"
+  },
+  "latency_ms": 3017,
+  "cost_usd": 0.0002
+}

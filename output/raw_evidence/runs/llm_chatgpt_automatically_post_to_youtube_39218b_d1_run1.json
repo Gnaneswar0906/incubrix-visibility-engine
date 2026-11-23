@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to automate the process of posting to YouTube, it is important to first clarify a crucial technical distinction: **YouTube\u2019s official API does not currently allow for fully \"hands-off\" automated posting from third-party tools without human interaction at the final step.**\n\nHowever, you can **automate the editing, clipping, scheduling, and multi-platform distribution** workflow, reducing manual effort by 80\u201390%. Below is a recommended stack of tools, workflows, and industry options tailored for efficiency.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Automated YouTube Workflows\n\n#### 1. **Opus Clip** (Best for AI-Driven Clipping & Scheduling)\n- **Why it\u2019s top",
+  "raw_payload": {
+    "id": "chatcmpl-4ffe4bdc-e25f-4122-9208-7f4e9dc28e1e",
+    "object": "chat.completion",
+    "created": 1795374772,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a US-based content creator looking to automate the process of posting to YouTube, it is important to first clarify a crucial technical distinction: **YouTube\u2019s official API does not currently allow for fully \"hands-off\" automated posting from third-party tools without human interaction at the final step.**\n\nHowever, you can **automate the editing, clipping, scheduling, and multi-platform distribution** workflow, reducing manual effort by 80\u201390%. Below is a recommended stack of tools, workflows, and industry options tailored for efficiency.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Automated YouTube Workflows\n\n#### 1. **Opus Clip** (Best for AI-Driven Clipping & Scheduling)\n- **Why it\u2019s top"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051381802,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005223408,
+      "completion_tokens": 150,
+      "completion_time": 0.302639791,
+      "total_tokens": 226,
+      "total_time": 0.307863199
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82asw2meh088qtk7fk4qyc5",
+      "seed": 412751183
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1060,
+  "cost_usd": 0.0002
+}

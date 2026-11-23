@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for",
+      "cost_usd": 0.0002,
+      "latency_ms": 3565,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_audio_b84744_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for Audio \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **",
+      "cost_usd": 0.0002,
+      "latency_ms": 3560,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_audio_b84744_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_audio_b84744_d1_US.json"
+}

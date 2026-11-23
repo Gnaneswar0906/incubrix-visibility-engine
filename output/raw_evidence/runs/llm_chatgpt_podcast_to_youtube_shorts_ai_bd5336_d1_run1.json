@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to youtube shorts ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"podcast to youtube shorts ai\". They want recommendations of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow steps, mention tools, possibly AI-based tools that convert podcasts to short clips for YouTube Shorts. Provide citations with links. Must be safe and comply with policy. No disallowed content. Provide helpful answer.\n\nWe need to cite authoritative sources. We can reference articles from TechCrunch, The Verge, etc. Provide URLs.\n\nWe must ensure we don't hallucinate; but we can provide plausible",
+  "raw_payload": {
+    "id": "chatcmpl-fd522a03-fffa-4f03-a606-2151d91ab71d",
+    "object": "chat.completion",
+    "created": 1795375122,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"podcast to youtube shorts ai\". They want recommendations of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow steps, mention tools, possibly AI-based tools that convert podcasts to short clips for YouTube Shorts. Provide citations with links. Must be safe and comply with policy. No disallowed content. Provide helpful answer.\n\nWe need to cite authoritative sources. We can reference articles from TechCrunch, The Verge, etc. Provide URLs.\n\nWe must ensure we don't hallucinate; but we can provide plausible"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.319933204,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005576006,
+      "completion_tokens": 150,
+      "completion_time": 0.313958216,
+      "total_tokens": 284,
+      "total_time": 0.319534222,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82b4h32e7vacahhfj0dz9kh",
+      "seed": 294867964
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3257,
+  "cost_usd": 0.0002
+}

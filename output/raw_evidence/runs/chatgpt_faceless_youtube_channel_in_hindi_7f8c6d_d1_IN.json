@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel in hindi. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web",
+      "cost_usd": 0.0002,
+      "latency_ms": 1918,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_in_hindi_7f8c6d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel in hindi. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web",
+      "cost_usd": 0.0002,
+      "latency_ms": 2587,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_in_hindi_7f8c6d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_in_hindi_7f8c6d_d1_IN.json"
+}

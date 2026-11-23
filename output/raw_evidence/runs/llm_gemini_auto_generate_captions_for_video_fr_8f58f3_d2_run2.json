@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale your output, leveraging AI for video captions is one of the highest-leverage moves you can make. Automated captions not only make your content accessible to the 85% of social media users who watch videos on mute, but dynamic, word-by-word highlighted captions are proven to drastically boost audience retention on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentions), and an optimized workflow method to auto-generate free (or freemium) captions for your videos.\n\n---\n\n### Part 1: Key Industry Options & Recommendations\n\nDepending on your specific content format (short-form vs. long-form, automated vs. manual editing), different tools serve different purposes. \n\n#### 1. CapCut (Best Overall for Free, Dynamic Short-Form Captions)\n* **What it is:** A",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale your output, leveraging AI for video captions is one of the highest-leverage moves you can make. Automated captions not only make your content accessible to the 85% of social media users who watch videos on mute, but dynamic, word-by-word highlighted captions are proven to drastically boost audience retention on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentions), and an optimized workflow method to auto-generate free (or freemium) captions for your videos.\n\n---\n\n### Part 1: Key Industry Options & Recommendations\n\nDepending on your specific content format (short-form vs. long-form, automated vs. manual editing), different tools serve different purposes. \n\n#### 1. CapCut (Best Overall for Free, Dynamic Short-Form Captions)\n* **What it is:** A",
+              "thoughtSignature": "Eo4BCosBAWkUfRP5IyKaYy0L/Vb32pbvckeuvs/dCGiMyqRjsVyEIQE7wk3gYNjcYB7GR8r+zgIq73PXkFQLWc/z9MGGrojjA8ssg03tU/7ZZYR/KqfngkknHOUqJ3QhA49iKo4chxir9CQYaJDPVsUgOU9ofLKqG6j7k9GJ9cWEr+h+KyKJBQ5OCT2mYecP8Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "10UDa-3TD-Se3LUP6YnViAU"
+  },
+  "latency_ms": 5314,
+  "cost_usd": 0.0002
+}

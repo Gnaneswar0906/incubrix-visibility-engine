@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor apk",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, for a content creator located in India (IN). They ask: \"text video editor apk\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide recommendations for Android APKs for text video editing? Probably they want Android apps (APK) that can edit video with text overlay. Provide list of apps: CapCut, InShot, KineMaster, VN (VlogNow), FilmoraGo, PowerDirector, VivaVideo, Opus Clip (maybe web), Descript (desktop), IncuBrix (",
+  "raw_payload": {
+    "id": "chatcmpl-3a21e7d6-da9d-4afa-bfda-ef6de13310ce",
+    "object": "chat.completion",
+    "created": 1795375175,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, for a content creator located in India (IN). They ask: \"text video editor apk\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide recommendations for Android APKs for text video editing? Probably they want Android apps (APK) that can edit video with text overlay. Provide list of apps: CapCut, InShot, KineMaster, VN (VlogNow), FilmoraGo, PowerDirector, VivaVideo, Opus Clip (maybe web), Descript (desktop), IncuBrix ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157849387,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005611653,
+      "completion_tokens": 150,
+      "completion_time": 0.311116667,
+      "total_tokens": 283,
+      "total_time": 0.31672832,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82b6582evd91y7zjvkwhspd",
+      "seed": 1085536941
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3061,
+  "cost_usd": 0.0002
+}

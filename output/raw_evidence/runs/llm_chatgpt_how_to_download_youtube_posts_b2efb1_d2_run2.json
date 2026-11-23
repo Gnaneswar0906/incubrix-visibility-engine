@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"how to download youtube posts\" (likely meaning downloading videos or posts). Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to cite authoritative web sources if available.\n\nWe must be careful: downloading YouTube videos may violate terms of service. We should mention that it's only allowed for content you own or with permission. Provide legal compliance. Provide tools for downloading YouTube content for personal use or content you own. Provide workflow methods: e.g., using youtube-dl, 4K Video Downloader, ClipGrab, etc. Also mention software like CapCut, Opus Clip, Descript for",
+  "raw_payload": {
+    "id": "chatcmpl-9d86c601-e5a3-4dfe-adbb-561775498aa6",
+    "object": "chat.completion",
+    "created": 1795377105,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"how to download youtube posts\" (likely meaning downloading videos or posts). Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to cite authoritative web sources if available.\n\nWe must be careful: downloading YouTube videos may violate terms of service. We should mention that it's only allowed for content you own or with permission. Provide legal compliance. Provide tools for downloading YouTube content for personal use or content you own. Provide workflow methods: e.g., using youtube-dl, 4K Video Downloader, ClipGrab, etc. Also mention software like CapCut, Opus Clip, Descript for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.364943497,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006569372,
+      "completion_tokens": 150,
+      "completion_time": 0.167108574,
+      "total_tokens": 284,
+      "total_time": 0.173677946,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8b41efc9a3",
+    "x_groq": {
+      "id": "req_01m82d124yesyrahz7mrvrvmtg",
+      "seed": 1354770949
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4115,
+  "cost_usd": 0.0002
+}

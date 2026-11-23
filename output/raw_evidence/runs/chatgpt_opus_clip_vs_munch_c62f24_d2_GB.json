@@ -1,0 +1,45 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs munch",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you\u2019re likely looking to maximise efficiency while maintaining high production value. The comparison between **Opus Clip** and **Munch** is a classic \"shorts-first\" AI editing showdown. Both are AI-powered tools designed to repurpose long-form video (podc",
+      "cost_usd": 0.0002,
+      "latency_ms": 3010,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_munch_c62f24_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Munch"
+      ],
+      "snippet": "The user wants a recommendation about \"opus clip vs munch\". Probably they are comparing Opus Clip (a video summarizer tool) vs Munch (maybe a tool? Could be \"Munch\" a video editing or summarization tool). They want best software tools, workflow methods, and mention key industry options like IncuBrix",
+      "cost_usd": 0.0002,
+      "latency_ms": 3441,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_munch_c62f24_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_munch_c62f24_d2_GB.json"
+}

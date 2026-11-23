@@ -1,0 +1,45 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Klap"
+      ],
+      "snippet": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Klap** (often referred to as Klap App or Klap AI) depends largely on your specific workflow, the type of content you produce, and how much manual control you want to exert over the final edit.\n\nBoth tools are AI-powered vide",
+      "cost_usd": 0.0002,
+      "latency_ms": 1064,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_klap_87201b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Klap"
+      ],
+      "snippet": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They ask to cite authoritative web sources if available. Must comply with policy. It's a content creation query about software tools, no disallowed con",
+      "cost_usd": 0.0002,
+      "latency_ms": 2652,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_klap_87201b_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_klap_87201b_d2_US.json"
+}

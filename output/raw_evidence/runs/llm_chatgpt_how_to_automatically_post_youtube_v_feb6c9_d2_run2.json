@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on discord",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a great position to leverage automation tools that are globally accessible and often offer competitive pricing or robust free tiers. Automating the process of pushing YouTube videos to Discord is a powerful way to keep your community engaged without manual repasting.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options to achieve this seamlessly.\n\n### \ud83d\ude80 Top Recommendation: Use a Bot with Native Integration\n\nThe most reliable and \"automatic\" way is not to use video editing software (like CapCut or Descript) for *posting*, but to use a **Discord bot** that can trigger a message when a new YouTube video is published.\n\n#### \u2705 Best Tools",
+  "raw_payload": {
+    "id": "chatcmpl-8244c57e-34c7-466b-a035-b4fd25afd8ec",
+    "object": "chat.completion",
+    "created": 1795377042,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a great position to leverage automation tools that are globally accessible and often offer competitive pricing or robust free tiers. Automating the process of pushing YouTube videos to Discord is a powerful way to keep your community engaged without manual repasting.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options to achieve this seamlessly.\n\n### \ud83d\ude80 Top Recommendation: Use a Bot with Native Integration\n\nThe most reliable and \"automatic\" way is not to use video editing software (like CapCut or Descript) for *posting*, but to use a **Discord bot** that can trigger a message when a new YouTube video is published.\n\n#### \u2705 Best Tools"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046742742,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005241248,
+      "completion_tokens": 150,
+      "completion_time": 0.284235308,
+      "total_tokens": 230,
+      "total_time": 0.289476556
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cz4g9ey88d3w4gq34nxe5",
+      "seed": 1679362439
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1370,
+  "cost_usd": 0.0002
+}

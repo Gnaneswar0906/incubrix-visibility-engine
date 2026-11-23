@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts download",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator based in Great Britain, I have tailored this guide to the best software tools, efficient workflows, and industry standards for downloading and repurposing podcast shorts. \n\nWhen creators look for \"podcast shorts download,\" they typically mean one of two t",
+      "cost_usd": 0.0002,
+      "latency_ms": 2450,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_download_8820b8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast shorts download' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 444
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_download_8820b8_d1_GB.json"
+}

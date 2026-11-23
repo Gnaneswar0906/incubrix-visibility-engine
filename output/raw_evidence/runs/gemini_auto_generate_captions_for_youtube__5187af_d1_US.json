@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US, leveraging automated captioning for your YouTube videos is essential not only for accessibility (ADA compliance) but also for audience retention, as a significant portion of viewers watch videos with the sound off. \n\nBased on current industry standards and the tools y",
+      "cost_usd": 0.0002,
+      "latency_ms": 3222,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_youtube__5187af_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate captions for youtube video' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 482
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_youtube__5187af_d1_US.json"
+}

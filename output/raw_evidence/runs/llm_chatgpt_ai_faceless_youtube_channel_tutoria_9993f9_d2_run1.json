@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a high-quality, faceless YouTube channel in 2026 is less about \"hiding\" and more about leveraging AI to achieve a level of production value and efficiency that was previously impossible for solo creators. The landscape has shifted from simple text-to-speech and stock footage to **hyper-personalized, multimodal AI generation** where the \"face\" is often a realistic digital avatar or the visuals are entirely procedural.\n\nHere is a comprehensive tutorial guide, tailored for a UK-based creator, focusing on the best tools, workflows, and industry standards projected for 2026.\n\n### 1. The 2026 Faceless Channel Paradigm\nIn 2026, \"faceless\" does not",
+  "raw_payload": {
+    "id": "chatcmpl-e44afe5f-0049-4739-8078-88ef742146bb",
+    "object": "chat.completion",
+    "created": 1795377604,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a high-quality, faceless YouTube channel in 2026 is less about \"hiding\" and more about leveraging AI to achieve a level of production value and efficiency that was previously impossible for solo creators. The landscape has shifted from simple text-to-speech and stock footage to **hyper-personalized, multimodal AI generation** where the \"face\" is often a realistic digital avatar or the visuals are entirely procedural.\n\nHere is a comprehensive tutorial guide, tailored for a UK-based creator, focusing on the best tools, workflows, and industry standards projected for 2026.\n\n### 1. The 2026 Faceless Channel Paradigm\nIn 2026, \"faceless\" does not"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.219922424,
+      "prompt_tokens": 83,
+      "prompt_time": 0.006175105,
+      "completion_tokens": 150,
+      "completion_time": 0.339183896,
+      "total_tokens": 233,
+      "total_time": 0.345359001
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82dg9rtez8awtssh7s19wwj",
+      "seed": 1138695278
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2709,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native algorithm heavily favors videos with clear, dynamic captions because they improve accessibility and wa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2163,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_subtitles_for__98745c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native auto-captions are great in a pinch, but third-party software offers superior styling, animations, and ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2932,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_subtitles_for__98745c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_subtitles_for__98745c_d1_GB.json"
+}

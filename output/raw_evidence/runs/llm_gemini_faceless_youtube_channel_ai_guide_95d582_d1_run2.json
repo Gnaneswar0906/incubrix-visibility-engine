@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai guide",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running"
+            },
+            {
+              "text": " a faceless YouTube channel has become one of the most scalable digital businesses, largely thanks to generative AI. For a US-based content creator, leveraging the right stack can reduce a production workflow that once took 10 hours down to less than 60 minutes. \n\nBelow is a comprehensive guide detailing the best software tools, a streamlined workflow, and key industry options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Software Stack\n\nTo build a streamlined faceless channel, your software stack generally falls into five categories: Ideation/Scripting, Voiceover, Visuals, Editing, and Repurposing.\n\n#### **All-in-One & Niche Platforms**\n*   **IncuBrix:** Emerging as a notable platform for automated and semi-automated content pipelines, tools like IncuBrix cater to creators looking to streamline the heavy lifting of channel management, niche research",
+              "thoughtSignature": "Eo4BCosBAWkUfRMTBrDRVhl3OxjUtpmKY17hj3Ex847/VoQ7eKmnEMYfsck4iD8VVTHaPPEMt4tVzUKKKqb3q0j3Z9nSIyrJqMrZpanLfHLoq08lTq23ySAgQLa+4V9LYQQZ5UzkZ87h1MExRSfs3mRfacgntRG1AuoCpsEOBcL9LIhZMjf9kLM/lPyog+qTaA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "yT8Da6O4POCD3LUP--qC6A4"
+  },
+  "latency_ms": 7566,
+  "cost_usd": 0.0002
+}

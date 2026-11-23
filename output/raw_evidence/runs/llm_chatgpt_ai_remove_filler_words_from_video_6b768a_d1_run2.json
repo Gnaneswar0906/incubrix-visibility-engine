@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit (GB creators) |\n|------|----------------------|-----------------------------------|\n| **Fully\u2011automated filler\u2011word removal** | **Descript",
+  "raw_payload": {
+    "id": "chatcmpl-08a3d5c6-a84e-4141-b7ee-c196290d3394",
+    "object": "chat.completion",
+    "created": 1795375560,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit (GB creators) |\n|------|----------------------|-----------------------------------|\n| **Fully\u2011automated filler\u2011word removal** | **Descript",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no copyrighted text beyond short excerpt. Provide citations with URLs. Provide UK context maybe. Provide workflow steps. Provide recommendations. Use markdown. Provide citations. Ensure not to mention policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155868091,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005078718,
+      "completion_tokens": 150,
+      "completion_time": 0.321267268,
+      "total_tokens": 285,
+      "total_time": 0.326345986,
+      "completion_tokens_details": {
+        "reasoning_tokens": 93
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82bhwvne7evsaxfhpsjfk9w",
+      "seed": 1364033547
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3266,
+  "cost_usd": 0.0002
+}

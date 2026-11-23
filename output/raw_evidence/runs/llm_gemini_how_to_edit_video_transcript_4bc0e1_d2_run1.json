@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, editing your video transcripts is one of the most efficient ways to streamline your post-production workflow, repurpose long-form content into shorts, and ensure absolute accessibility. \n\nHere is a comprehensive guide on how to edit video transcripts, the best software tools, and an optimal workflow method based on industry standards.\n\n---\n\n### 1. Recommended Software Tools & Industry Options\n\nDepending on whether you want an all-in-one AI suite, a quick social media editor, or a dedicated transcription powerhouse, several top-tier tools dominate the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript is widely considered the industry leader for editing video *through* its transcript. If you delete a sentence in the text, it cuts the video. It also features AI filler-word removal, overdubbing, and studio-sound enhancement. \n*   **CapCut (Best for",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, editing your video transcripts is one of the most efficient ways to streamline your post-production workflow, repurpose long-form content into shorts, and ensure absolute accessibility. \n\nHere is a comprehensive guide on how to edit video transcripts, the best software tools, and an optimal workflow method based on industry standards.\n\n---\n\n### 1. Recommended Software Tools & Industry Options\n\nDepending on whether you want an all-in-one AI suite, a quick social media editor, or a dedicated transcription powerhouse, several top-tier tools dominate the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript is widely considered the industry leader for editing video *through* its transcript. If you delete a sentence in the text, it cuts the video. It also features AI filler-word removal, overdubbing, and studio-sound enhancement. \n*   **CapCut (Best for",
+              "thoughtSignature": "Eo4BCosBAWkUfRMBm/Nb2qT/JqrEeKOA46A/d4Kg7N+VAkqu7MviWJGkePqCWaKcns6/guSiL7aF23R9lr6nSxRrZuJWKZsiCtAM/JTJ5Q1V3gYaprffm4qJ3pi5yH1onh/udu3bPp6rbaVQMm0K64QfDB+KRWC2zBf54MdbbtxgkCtOV5fFQCvd7mHM+Xxnyw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "oEUDa_vCJ5iH694Po6W62QE"
+  },
+  "latency_ms": 2323,
+  "cost_usd": 0.0002
+}

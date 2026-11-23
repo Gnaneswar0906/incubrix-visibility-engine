@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=opus+clip+vs+c",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "opus clip vs c",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:51:03.476986+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "opus clip vs capcut",
+    "opus clip vs crayo ai",
+    "opus clip vs captions ai",
+    "opus clip vs captions",
+    "opus clip vs chop ai",
+    "opus clip vs choppity",
+    "opus clip or capcut",
+    "opus clip or captions",
+    "opus clip vs nexus clip",
+    "opus game review"
+  ],
+  "raw_response": "[\"opus clip vs c\",[\"opus clip vs capcut\",\"opus clip vs crayo ai\",\"opus clip vs captions ai\",\"opus clip vs captions\",\"opus clip vs chop ai\",\"opus clip vs choppity\",\"opus clip or capcut\",\"opus clip or captions\",\"opus clip vs nexus clip\",\"opus game review\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390]]}]"
+}

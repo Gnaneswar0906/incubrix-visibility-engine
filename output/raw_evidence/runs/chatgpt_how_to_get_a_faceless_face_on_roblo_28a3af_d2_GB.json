@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get a faceless face on roblox",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you\u2019re in a great position to leverage \"faceless\" Roblox content, which has seen a significant surge in popularity on platforms like YouTube Shorts, TikTok, and Instagram Reels. The key to success here isn't just the gameplay, but the **editing workflow** that ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1632,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_get_a_faceless_face_on_roblo_28a3af_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: how to get a faceless face on Roblox. This is somewhat ambiguous. It likely means creating a character with a faceless or blank face? Or maybe they want to create a Roblox avatar that has no face (like a blank face). They want software tools, workflow methods, mention ke",
+      "cost_usd": 0.0002,
+      "latency_ms": 7196,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_get_a_faceless_face_on_roblo_28a3af_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_get_a_faceless_face_on_roblo_28a3af_d2_GB.json"
+}

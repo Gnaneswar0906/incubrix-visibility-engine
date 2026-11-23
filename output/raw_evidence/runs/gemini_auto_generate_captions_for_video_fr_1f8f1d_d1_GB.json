@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto generate captions for video free ai' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 443
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in the UK (GB), finding efficient, cost-effective ways to auto-generate video captions is essential for boosting engagement, especially since a vast majority of social media users watch videos on mute. \n\nHere is a comprehensive guide covering the be",
+      "cost_usd": 0.0002,
+      "latency_ms": 3301,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_1f8f1d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_fr_1f8f1d_d1_GB.json"
+}

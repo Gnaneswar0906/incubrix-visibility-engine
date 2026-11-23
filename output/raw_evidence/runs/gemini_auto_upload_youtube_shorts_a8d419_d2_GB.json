@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'auto upload youtube shorts' in GB, popular recommendations include Veed.io, InVideo, Submagic. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 370
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'auto upload youtube shorts' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 496
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_youtube_shorts_a8d419_d2_GB.json"
+}

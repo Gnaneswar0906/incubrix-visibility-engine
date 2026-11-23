@@ -1,0 +1,44 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast to shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Here's a thinking process:\n\n1.  **Analyze User Query:**\n   - User is a content creator in the US\n   - Topic: podcast to shorts (converting podcast episodes into short-form video content for platforms like TikTok, Instagram Reels, YouTube Shorts)\n   - Request: Recommend best software tools, workflow ",
+      "cost_usd": 0.0002,
+      "latency_ms": 5368,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_perplexity_podcast_to_shorts_a26493_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Here's a thinking process:\n\n1.  **Analyze User Input:**\n   - **Role:** AI assistant answering a query from a content creator in US\n   - **Query:** \"podcast to shorts\"\n   - **Request:** Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut",
+      "cost_usd": 0.0002,
+      "latency_ms": 2500,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_perplexity_podcast_to_shorts_a26493_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_to_shorts_a26493_d1_US.json"
+}

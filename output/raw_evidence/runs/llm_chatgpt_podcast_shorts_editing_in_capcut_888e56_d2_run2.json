@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Guide: Turning Full\u2011Length Podcast Episodes into Snackable Shorts with",
+  "raw_payload": {
+    "id": "chatcmpl-1f371507-3ca8-4417-a906-b8fafa4ba3e1",
+    "object": "chat.completion",
+    "created": 1795376527,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Guide: Turning Full\u2011Length Podcast Episodes into Snackable Shorts with",
+          "reasoning": "The user wants recommendations for podcast shorts editing in CapCut. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to respond as an AI assistant. Provide recommendations, workflow, mention tools, cite sources with URLs. Since we are not browsing live, we can cite known sources like articles from TechRadar, The Verge, etc. Provide citations in brackets with URLs.\n\nWe should ensure not to violate policy. It's fine.\n\nWe should format maybe bullet points, steps.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.287834784,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005472955,
+      "completion_tokens": 150,
+      "completion_time": 0.313792355,
+      "total_tokens": 285,
+      "total_time": 0.31926531,
+      "completion_tokens_details": {
+        "reasoning_tokens": 125
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_96d96a151c",
+    "x_groq": {
+      "id": "req_01m82cfd3seyzv63ejzyrzgbb6",
+      "seed": 620084655
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2325,
+  "cost_usd": 0.0002
+}

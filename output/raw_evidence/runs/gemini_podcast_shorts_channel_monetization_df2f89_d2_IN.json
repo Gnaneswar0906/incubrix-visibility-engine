@@ -1,0 +1,43 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts channel monetization",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast shorts channel monetization' in IN, popular recommendations include Opus Clip, Munch, Klap. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 385
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast shorts channel monetization' in IN, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 352
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_channel_monetization_df2f89_d2_IN.json"
+}

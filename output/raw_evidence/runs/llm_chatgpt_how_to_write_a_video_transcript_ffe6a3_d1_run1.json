@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you know that a transcript isn\u2019t just for accessibility\u2014it\u2019s a powerful SEO asset, a content repurposing engine, and a way to engage text-based audiences. Here\u2019s a streamlined, professional approach to writing (or generating) high-quality video transcripts, along with the best tools and workflows.\n\n### \ud83c\udfaf Why Transcripts Matter\n- **SEO**: Search engines can\u2019t \u201cwatch\u201d video, but they can read text.\n- **Accessibility**: Meets ADA and WCAG guidelines.\n- **Repurposing**: Turn one video into blog posts, social captions, newsletters, or short clips.\n- **Editing**: Text-based editing is 5\u201310x faster",
+  "raw_payload": {
+    "id": "chatcmpl-1e78f580-5cd3-4aed-a9dc-a3f045e469ed",
+    "object": "chat.completion",
+    "created": 1795374593,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you know that a transcript isn\u2019t just for accessibility\u2014it\u2019s a powerful SEO asset, a content repurposing engine, and a way to engage text-based audiences. Here\u2019s a streamlined, professional approach to writing (or generating) high-quality video transcripts, along with the best tools and workflows.\n\n### \ud83c\udfaf Why Transcripts Matter\n- **SEO**: Search engines can\u2019t \u201cwatch\u201d video, but they can read text.\n- **Accessibility**: Meets ADA and WCAG guidelines.\n- **Repurposing**: Turn one video into blog posts, social captions, newsletters, or short clips.\n- **Editing**: Text-based editing is 5\u201310x faster"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053330587,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005249552,
+      "completion_tokens": 150,
+      "completion_time": 0.299709771,
+      "total_tokens": 228,
+      "total_time": 0.304959323
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82amdade5gvhas523fgzjpf",
+      "seed": 219948428
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 27831,
+  "cost_usd": 0.0002
+}

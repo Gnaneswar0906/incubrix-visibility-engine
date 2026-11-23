@@ -1,0 +1,40 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast to shorts free' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 421
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast to shorts free' in US, popular recommendations include Opus Clip, Munch, Klap. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 394
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_to_shorts_free_4c7aa0_d2_US.json"
+}

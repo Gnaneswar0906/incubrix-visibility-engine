@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts background music",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policies. It's a normal request, no di",
+      "cost_usd": 0.0002,
+      "latency_ms": 3405,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_background_music_391e90_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, TikTok, and YouTube Shorts) requires a specific workflow: selecting the best audio segments, adding dynamic captions, and layering appropriate background music that doesn\u2019t overpower the speaker.\n\nHere are the best sof",
+      "cost_usd": 0.0002,
+      "latency_ms": 1374,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_background_music_391e90_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_background_music_391e90_d2_IN.json"
+}

@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you\u2019re likely looking to maximize your output while minimizing manual editing time. Both **Opus Clip** and **Nexus Clip** (likely referring to **NexClip** or similar AI clipping tools in the same category) are part of the rapidly growing \"AI Repurposing\" sector.\n\nHowever, it\u2019s important to clarify: **Nexus Clip** is not a widely recognized mainstream AI clipping tool with the same market footprint as Opus Clip. It may be a smaller/niche tool, a rebrand, or a confusion with **NexClip** (a newer entrant) or **CapCut\u2019s auto-clip features**. For this comparison, I\u2019ll focus on **Op",
+  "raw_payload": {
+    "id": "chatcmpl-cc0b9eb9-af1e-4695-a6d2-4ed52dbd183d",
+    "object": "chat.completion",
+    "created": 1795374967,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you\u2019re likely looking to maximize your output while minimizing manual editing time. Both **Opus Clip** and **Nexus Clip** (likely referring to **NexClip** or similar AI clipping tools in the same category) are part of the rapidly growing \"AI Repurposing\" sector.\n\nHowever, it\u2019s important to clarify: **Nexus Clip** is not a widely recognized mainstream AI clipping tool with the same market footprint as Opus Clip. It may be a smaller/niche tool, a rebrand, or a confusion with **NexClip** (a newer entrant) or **CapCut\u2019s auto-clip features**. For this comparison, I\u2019ll focus on **Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046253158,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005330241,
+      "completion_tokens": 150,
+      "completion_time": 0.285343846,
+      "total_tokens": 228,
+      "total_time": 0.290674087
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82azttme6etpa8g0c3xswef",
+      "seed": 559668471
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1349,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus op lite review",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve broken down your query regarding **\"Opus Clip\"** (often associated with tools like Opus Clip Lite or trial tiers) and how it fits into the broader landscape of AI-driven video repurposing. \n\nBelow is a comprehensive review of the tool, alternative industry options (including Opus Clip, CapCut, Descript, and IncuBrix), recommended workflows, and how to approach this from a UK-based creator perspective.\n\n---\n\n### 1. Review: Opus Clip & The \"Lite/Trial\" Landscape\n**Opus Clip** is a generative AI video tool that repurposes long-form videos (like podcasts, YouTube tutorials, or Vlogs) into multiple viral short-form clips (Reels, TikToks, Shorts) in minutes. \n\n*   **How it Works:** It uses an AI scoring system to detect \"hooks,\" transcribes the audio,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve broken down your query regarding **\"Opus Clip\"** (often associated with tools like Opus Clip Lite or trial tiers) and how it fits into the broader landscape of AI-driven video repurposing. \n\nBelow is a comprehensive review of the tool, alternative industry options (including Opus Clip, CapCut, Descript, and IncuBrix), recommended workflows, and how to approach this from a UK-based creator perspective.\n\n---\n\n### 1. Review: Opus Clip & The \"Lite/Trial\" Landscape\n**Opus Clip** is a generative AI video tool that repurposes long-form videos (like podcasts, YouTube tutorials, or Vlogs) into multiple viral short-form clips (Reels, TikToks, Shorts) in minutes. \n\n*   **How it Works:** It uses an AI scoring system to detect \"hooks,\" transcribes the audio,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMX0BXV49kVCvmuDJG9N3q/v/RRj3Q3TXuTp6ZHZLQo4o8V7xZrAHZNS4mGsJO7gyuartefvhIWIMndzn2XcN64lf8c/eSn0Rn6ky7r0I6ap2CQENx/gTpqnKVzbT84X+5Cuwso7SVQf0MA8vD2hkIcuho0Ie7bmDRoO4CQyMoGDqOObDCIgg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "mUIDa-KgKsv7jNAPleea8AI"
+  },
+  "latency_ms": 2152,
+  "cost_usd": 0.0002
+}

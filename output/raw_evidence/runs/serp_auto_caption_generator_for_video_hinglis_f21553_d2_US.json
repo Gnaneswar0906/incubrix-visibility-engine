@@ -1,0 +1,116 @@
+{
+  "query": "auto caption generator for video hinglish",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.kapwing.com/subtitles/video/hinglish",
+  "competitors_named": "CapCut",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto caption generator for video hinglish",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Generate Hinglish Video Subtitles \u2014 Online",
+        "link": "https://www.kapwing.com/subtitles/video/hinglish",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles \u203a video \u203a hinglish",
+        "snippet": "Generate highly accurate Hinglish subtitles for any video using our AI-powered Hinglish subtitles generator \u2014 online and free to start.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 1
+      },
+      {
+        "title": "Auto Subtitle & Caption Generator",
+        "link": "https://www.happyscribe.com/subtitle-generator",
+        "displayedLink": "https://www.happyscribe.com \u203a subtitle-generator",
+        "snippet": "Free AI subtitle generator and auto caption generator. Caption any video in 150+ languages, edit and style it, then export SRT, VTT or burned-in MP4.",
+        "rating": 4.6,
+        "ratingCount": 1426,
+        "position": 2
+      },
+      {
+        "title": "Generate Hinglish Auto Caption (Free & Unlimited) | Capcut",
+        "link": "https://www.youtube.com/watch?v=xaUzMnGfBRQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I'll show you how to create auto captions in Hinglish for FREE and without any limits with the help of Capcut",
+        "position": 3
+      },
+      {
+        "title": "Auto Subtitle Generator: Free AI Subtitles with 99% Accuracy",
+        "link": "https://vizard.ai/tools/auto-subtitle-generator-online",
+        "displayedLink": "https://vizard.ai \u203a tools \u203a auto-subtitle-generator-online",
+        "snippet": "Generate subtitles online with over 99% accuracy, style them with animated caption templates, translate to 180+ languages, and export SRT or video.",
+        "position": 4
+      },
+      {
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a auto-caption",
+        "snippet": "Enhance their accessibility and appeal by using our free auto caption generator to detect speech in your videos and adding captions. Upload your video.",
+        "position": 5
+      },
+      {
+        "title": "Generate Free Hinglish Captions  Tired of typing captions line by line? ...",
+        "link": "https://www.instagram.com/reel/DQg4C3LDEeI/?hl=en",
+        "displayedLink": "https://www.instagram.com \u203a reel \u203a DQg4C3LDEeI",
+        "position": 6
+      },
+      {
+        "title": "AutoCap \u2014 Hinglish & Indian Language Auto Caption Generator",
+        "link": "https://www.autocap.in/",
+        "displayedLink": "https://www.autocap.in",
+        "snippet": "Auto caption and subtitle generator for Reels, Shorts and YouTube, built for Hinglish. Hindi, Tamil, Telugu, Bengali and 8 more languages. Free to start.",
+        "position": 7
+      },
+      {
+        "title": "Auto subtitle generator online | Free in over 100 languages",
+        "link": "https://clipchamp.com/en/subtitle-generator/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a subtitle-generator",
+        "snippet": "1. Upload or record a video \u00b7 2. Choose your subtitle language \u00b7 3. Adjust font, colors, size and alignment \u00b7 4. Download your video and .SRT transcript file.",
+        "position": 8
+      },
+      {
+        "title": "Free Auto Subtitle Generator \u2013 99% Accurate AI Captions",
+        "link": "https://maestra.ai/tools/subtitle-generator",
+        "displayedLink": "https://maestra.ai \u203a tools \u203a subtitle-generator",
+        "snippet": "Auto generate subtitles online in 125+ languages and add them to videos in seconds, then style and export them in any subtitling format. Try it free.",
+        "rating": 4.8,
+        "ratingCount": 19,
+        "position": 9
+      },
+      {
+        "title": "Free Video Caption Generator | AI Animated Subtitles & Captions",
+        "link": "https://www.choppity.com/tools/free-video-caption-generator/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-video-caption-generator",
+        "snippet": "Upload your MP4 or MOV, pick a caption style and transitions, and our AI automatically adds animated subtitles to your video. Download the finished MP4 or post ...",
+        "position": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Free auto caption generator for video hinglish"
+      },
+      {
+        "query": "Hinglish caption generator free"
+      },
+      {
+        "query": "Hinglish caption generator free without watermark"
+      },
+      {
+        "query": "Best auto caption generator for video hinglish"
+      },
+      {
+        "query": "Free Hinglish caption generator for video"
+      },
+      {
+        "query": "Free automatic subtitle generator"
+      }
+    ],
+    "credits": 1
+  }
+}

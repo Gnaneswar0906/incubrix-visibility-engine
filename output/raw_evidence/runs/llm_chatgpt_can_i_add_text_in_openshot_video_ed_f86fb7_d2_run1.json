@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"can i add text in openshot video editor\". The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer as an AI assistant for a content creator in GB. Provide instructions on adding text in OpenShot, plus recommendations for other tools, workflow methods, mention those key options, and cite sources.\n\nWe should not claim to browse the internet but can reference known sources like OpenShot documentation, official websites, etc. Provide citations in a format. Ensure compliance with policy. No disallowed content. Provide helpful answer.\n\nWe'll include step",
+  "raw_payload": {
+    "id": "chatcmpl-61c9c4d0-099b-4ec3-924b-e18f451430e6",
+    "object": "chat.completion",
+    "created": 1795377303,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"can i add text in openshot video editor\". The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer as an AI assistant for a content creator in GB. Provide instructions on adding text in OpenShot, plus recommendations for other tools, workflow methods, mention those key options, and cite sources.\n\nWe should not claim to browse the internet but can reference known sources like OpenShot documentation, official websites, etc. Provide citations in a format. Ensure compliance with policy. No disallowed content. Provide helpful answer.\n\nWe'll include step"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369257085,
+      "prompt_tokens": 138,
+      "prompt_time": 0.007719004,
+      "completion_tokens": 150,
+      "completion_time": 0.314057043,
+      "total_tokens": 288,
+      "total_time": 0.321776047,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82d72xzechs45nk3hbm8cae",
+      "seed": 1777087881
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4040,
+  "cost_usd": 0.0002
+}

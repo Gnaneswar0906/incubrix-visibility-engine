@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you are in a prime position to leverage the current boom in short-form video (TikTok, Instagram Reels, YouTube Shorts). The key to success is efficiency: turning long-form podcasts into multiple viral-ready clips without spending hours on manual editing.\n\nHere ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1565,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_app_996ac6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants recommendations for a content creator in GB (Great Britain) about \"podcast shorts app\". They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recomm",
+      "cost_usd": 0.0002,
+      "latency_ms": 3495,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_app_996ac6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_app_996ac6_d1_GB.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for a video",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for a Video \u2013 A Practical Guide for Indian Creators  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the **best\u2011in\u2011class tools** (including the ones you mentioned), and quick",
+  "raw_payload": {
+    "id": "chatcmpl-fe229869-5286-44f7-8bb1-316976c70c12",
+    "object": "chat.completion",
+    "created": 1795375238,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for a Video \u2013 A Practical Guide for Indian Creators  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the **best\u2011in\u2011class tools** (including the ones you mentioned), and quick",
+          "reasoning": "We need to answer as an AI assistant, location IN (India). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: provide citations with URLs. Should be helpful. No disallowed content. Provide steps, pros/cons, pricing, integration, etc. Provide Indian context maybe. Provide links. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.285610866,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005763013,
+      "completion_tokens": 150,
+      "completion_time": 0.320471764,
+      "total_tokens": 287,
+      "total_time": 0.326234777,
+      "completion_tokens_details": {
+        "reasoning_tokens": 93
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_96d96a151c",
+    "x_groq": {
+      "id": "req_01m82b82xmezdb4svf6f3s9zf2",
+      "seed": 667929787
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3318,
+  "cost_usd": 0.0002
+}

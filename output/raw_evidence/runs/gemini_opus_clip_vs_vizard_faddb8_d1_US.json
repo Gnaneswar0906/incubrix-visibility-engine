@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vizard",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Opus Clip",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a US-based content creator navigate the crowded landscape of AI-powered video repurposing tools, choosing between **Opus Clip** and **Vizard**\u2014along with other industry alternatives\u2014comes down to your specific workflow, editing style, and goals (e.g., maximizing TikTok/Ree",
+      "cost_usd": 0.0002,
+      "latency_ms": 2435,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_vizard_faddb8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'opus clip vs vizard' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 379
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_vizard_faddb8_d1_US.json"
+}

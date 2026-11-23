@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to scale their reach by cross-posting short-form content from Instagram (Reels) to YouTube (Shorts), automating the workflow is one of the best ways to save time. \n\nHere is a comprehensive guide covering the best software tools, recommended workflow methods, and how key industry platforms like **IncuBrix, CapCut, Opus Clip, and Descript** fit into your strategy.\n\n---\n\n### 1. The Best Software Tools & Platforms\n\nDepending on whether you want **direct social-to-social automation** or **AI-powered repurposing**, different tools serve different needs:\n\n*   **IncuBrix:** Emerging as a strong contender for creators managing multi-platform distribution and localized content workflows. While heavy automation platforms like Zapier handle raw data, tools tailored for creators often streamline scheduling and analytics across regional and global platforms. \n*   **CapCut:** While primarily",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to scale their reach by cross-posting short-form content from Instagram (Reels) to YouTube (Shorts), automating the workflow is one of the best ways to save time. \n\nHere is a comprehensive guide covering the best software tools, recommended workflow methods, and how key industry platforms like **IncuBrix, CapCut, Opus Clip, and Descript** fit into your strategy.\n\n---\n\n### 1. The Best Software Tools & Platforms\n\nDepending on whether you want **direct social-to-social automation** or **AI-powered repurposing**, different tools serve different needs:\n\n*   **IncuBrix:** Emerging as a strong contender for creators managing multi-platform distribution and localized content workflows. While heavy automation platforms like Zapier handle raw data, tools tailored for creators often streamline scheduling and analytics across regional and global platforms. \n*   **CapCut:** While primarily",
+              "thoughtSignature": "Eo4BCosBAWkUfRNzIM0yEaQJyatTv/QudDNjj3ZToDREWXbOX0it9bl20Vt3E6vRy9WWjFAKZlGY24MH1Buwteo6MRZ5CB1yB9aRMq6gPArp4aTgTIngEsW3/thoh1iLHSRhAD8CEcFg/9RvuLq13XI+Y5VV8I+4m8o4PYpaFz4tUc6gVWh0KhP5zXgWu7MzaQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "sUADa567H9ik0r4Pibr_4A8"
+  },
+  "latency_ms": 2099,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,146 @@
+{
+  "query": "how to edit a video with words",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/features/add-text-to-video/",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to edit a video with words",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Text To Video Online For Free",
+        "link": "https://www.canva.com/features/add-text-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-text-to-video",
+        "snippet": "On the left sidebar, click Text. Then choose a font combination according to your preferences. Or, click on the editing canvas, then key in T.",
+        "position": 1
+      },
+      {
+        "title": "Add Text to Video Online - Free Video Text Editor",
+        "link": "https://www.veed.io/tools/add-text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a add-text-to-video",
+        "snippet": "Use VEED's text overlay tool online\u2014no software download needed. Just type or paste your text, then customize the font, color, size, and transparency. Adjust ...",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 2
+      },
+      {
+        "title": "How to add text to video (FREE)",
+        "link": "https://www.youtube.com/watch?v=ar0llrAXfkY",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this tutorial, you'll learn how to add text to any video for free, using Clipchamp's video editor. adding your text, customising your text,\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "Edit Videos by Editing TEXT! (Descript Tutorial for Video Editing)",
+        "link": "https://www.youtube.com/watch?v=ySv-KhsKF9M&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to edit your videos by editing text - just like a DOCUMENT! Complete overview & tutorial of Descript, a powerful video editor that\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "Add Text to Video Online for Free",
+        "link": "https://picsart.com/add-text-to-video/",
+        "displayedLink": "https://picsart.com \u203a add-text-to-video",
+        "snippet": "Open the video editor, add your clip, and select Text. Write a title or overlay, choose its font and color, and position it on the video. Use the timeline to ...",
+        "position": 5
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video like a Doc",
+        "link": "https://vimeo.com/features/video-editor/text-based-video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a text-based-video-editor",
+        "snippet": "Vimeo's text-based editor is a tool designed to use the video's AI-generated transcript as a way for you to select text and delete its corresponding video clip.",
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editor - Edit Video by Editing Text Free",
+        "link": "https://www.choppity.com/tools/text-based-video-editor-tool/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a text-based-video-editor-tool",
+        "snippet": "Upload a video and our AI transcribes every word with precise timestamps. The transcript becomes your editing interface: select and delete words to cut them ...",
+        "position": 7
+      },
+      {
+        "title": "AI Video Editing Software | Edit Video by Typing",
+        "link": "https://www.descript.com/video-editing",
+        "displayedLink": "https://www.descript.com \u203a video-editing",
+        "snippet": "Descript turns your video into a text transcript, so you can delete words, rearrange sentences, or copy-paste clips the same way you'd edit text in a doc.",
+        "rating": 4.6,
+        "ratingCount": 936,
+        "position": 8
+      },
+      {
+        "title": "How to Add Text to Video Like The Pros ACTUALLY Do",
+        "link": "https://www.youtube.com/watch?v=dPaeE1dazXI",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Check out this easy-peasy tutorial where we'll show you how to edit YouTube videos ... How to Add Text to Video Like The Pros ACTUALLY Do.",
+        "position": 9
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video By Editing Text",
+        "link": "https://www.kapwing.com/ai/text-based-video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a ai \u203a text-based-video-editor",
+        "snippet": "Easily edit video by editing text. With Kapwing's text-based video editor, remove any parts of your video by deleting text from the transcript in seconds.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "How do I edit a video and put words on it?"
+      },
+      {
+        "question": "Can I edit videos using text?"
+      },
+      {
+        "question": "How do I edit an already existing video?"
+      },
+      {
+        "question": "Can I add text to an iPhone video?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "How to edit a video with words free"
+      },
+      {
+        "query": "Write text on video online free"
+      },
+      {
+        "query": "How to edit existing text in a video online free"
+      },
+      {
+        "query": "Edit text in video online"
+      },
+      {
+        "query": "Edit text in video free"
+      },
+      {
+        "query": "How to edit a video with words online"
+      },
+      {
+        "query": "How to edit text in video in Canva"
+      },
+      {
+        "query": "Edit text in video AI free"
+      },
+      {
+        "query": "Add text to video app"
+      },
+      {
+        "query": "Add text to video automatically free"
+      },
+      {
+        "query": "How to add text in video"
+      }
+    ],
+    "credits": 1
+  }
+}

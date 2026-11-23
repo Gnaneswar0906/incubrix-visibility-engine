@@ -1,0 +1,93 @@
+{
+  "query": "auto upload youtube shorts github",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://github.com/topics/youtube-shorts-generator",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto upload youtube shorts github",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "youtube-shorts-generator",
+        "link": "https://github.com/topics/youtube-shorts-generator",
+        "displayedLink": "https://github.com \u203a topics \u203a youtube-shorts-generator",
+        "snippet": "Open-source AI video clipping generator \u2014 production-ready Next.js SaaS that auto-extracts viral shorts, Reels, and TikToks from long-form YouTube videos.",
+        "position": 1
+      },
+      {
+        "title": "youtube-uploader \u00b7 GitHub Topics",
+        "link": "https://github.com/topics/youtube-uploader",
+        "displayedLink": "https://github.com \u203a topics \u203a youtube-uploader",
+        "snippet": "Free open-source AI YouTube Shorts generator and faceless video maker in Python. YouTube auto-upload and scheduling. Python library to upload videos to YouTube",
+        "position": 2
+      },
+      {
+        "title": "marvinvr/auto-yt-shorts: Automatically generate Youtube ...",
+        "link": "https://github.com/marvinvr/auto-yt-shorts",
+        "displayedLink": "https://github.com \u203a marvinvr \u203a auto-yt-shorts",
+        "snippet": "Auto-yt-shorts is an open-source project designed to automate the process of generating engaging short videos for platforms like YouTube and TikTok.",
+        "position": 3
+      },
+      {
+        "title": "youtube-shorts \u00b7 GitHub Topics",
+        "link": "https://github.com/topics/youtube-shorts",
+        "displayedLink": "https://github.com \u203a topics \u203a youtube-shorts",
+        "snippet": "Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping \u2014 free, no watermarks, no ...",
+        "position": 4
+      },
+      {
+        "title": "saard00/ai-youtube-shorts-generator - GitHub Signals",
+        "link": "https://githubsignals.io/repo/saard00/ai-youtube-shorts-generator/",
+        "displayedLink": "https://githubsignals.io \u203a repo \u203a saard00 \u203a ai-youtube-shorts-generator",
+        "snippet": "Infinite content, zero manual editing. A fully automated 'faceless' video factory that turns trending topics into engaging YouTube Shorts using Gemini AI, Edge-",
+        "position": 5
+      },
+      {
+        "title": "Automated YouTube Shorts pipeline: news \u2192 script \u2192 AI visuals \u2192 ...",
+        "link": "https://github.com/rushindrasinha/youtube-shorts-pipeline",
+        "displayedLink": "https://github.com \u203a rushindrasinha \u203a youtube-shorts-pipeline",
+        "snippet": "uploads it to YouTube. Upload \u2014 Publishes to YouTube (private by default) with title, description, tags, SRT captions, and AI generated thumbnail.",
+        "position": 6
+      },
+      {
+        "title": "How I Built an AI-Powered YouTube Shorts Generator: From Long Videos ...",
+        "link": "https://www.vitaliihonchar.com/insights/youtube-shorts-creator",
+        "displayedLink": "https://www.vitaliihonchar.com \u203a insights \u203a youtube-shorts-creator",
+        "snippet": "Complete technical guide to building an automated YouTube Shorts creator using Python, OpenAI Whisper, GPT-4, and ffmpeg.",
+        "date": "23 Sept 2025",
+        "position": 7
+      },
+      {
+        "title": "Youtube Automatised Shorts Generator And Uploader. YASGU is ...",
+        "link": "https://github.com/hankerspace/YASGU",
+        "displayedLink": "https://github.com \u203a hankerspace \u203a YASGU",
+        "snippet": "YASGU is a tool to generate and upload Youtube Shorts videos automatically. it can generate videos fully automatically, from the script to the ...",
+        "date": "27 Jun 2025",
+        "position": 8
+      },
+      {
+        "title": "HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator ...",
+        "link": "https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader",
+        "displayedLink": "https://github.com \u203a HA6Bots \u203a Automatic-Youtube-Reddit-Te...",
+        "snippet": "A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will ...",
+        "position": 9
+      },
+      {
+        "title": "How to Auto-Post YouTube Shorts via API (with Scheduling)",
+        "link": "https://www.upload-post.com/how-to/auto-post-youtube-shorts/",
+        "displayedLink": "https://www.upload-post.com \u203a how-to \u203a auto-post-youtube-shorts",
+        "snippet": "With the Upload-Post social media API, you can upload and schedule YouTube Shorts with a single API call. No OAuth headaches, no quota juggling. Start Free API ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

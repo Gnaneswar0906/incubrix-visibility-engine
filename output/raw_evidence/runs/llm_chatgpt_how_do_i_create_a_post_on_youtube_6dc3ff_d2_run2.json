@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i create a post on youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to create a post on YouTube. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB. So maybe mention UK-based resources. Provide step-by-step process: planning, script, filming, editing, uploading, optimization, promotion. Tools: video editing (CapCut, Descript, Opus Clip, Adobe Premiere Pro, DaVinci Resolve), screen recording, audio editing, thumbnails, analytics. Mention workflow methods: pre-production, production, post-production, publishing. Provide citations: maybe from YouTube Creator Academy, TechRadar",
+  "raw_payload": {
+    "id": "chatcmpl-286b26e5-a468-4a7a-95cb-e96042db34e2",
+    "object": "chat.completion",
+    "created": 1795377445,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to create a post on YouTube. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB. So maybe mention UK-based resources. Provide step-by-step process: planning, script, filming, editing, uploading, optimization, promotion. Tools: video editing (CapCut, Descript, Opus Clip, Adobe Premiere Pro, DaVinci Resolve), screen recording, audio editing, thumbnails, analytics. Mention workflow methods: pre-production, production, post-production, publishing. Provide citations: maybe from YouTube Creator Academy, TechRadar"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367274854,
+      "prompt_tokens": 137,
+      "prompt_time": 0.009213185,
+      "completion_tokens": 150,
+      "completion_time": 0.151251999,
+      "total_tokens": 287,
+      "total_time": 0.160465184,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_816fc87d18",
+    "x_groq": {
+      "id": "req_01m82dbe1bebx8henr69mpyx55",
+      "seed": 297903213
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4153,
+  "cost_usd": 0.0002
+}

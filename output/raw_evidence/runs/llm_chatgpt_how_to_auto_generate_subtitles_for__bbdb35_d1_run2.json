@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: how to auto generate subtitles for a video youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations, workflow, mention tools, and cite sources. Must comply with policy: providing info about software is fine. Provide citations with URLs. Should not fabricate sources; but can reference known sources like official docs, reviews, etc. Provide UK context perhaps mention compliance with YouTube guidelines, copyright, accessibility laws (UK Equality Act). Provide steps: upload video",
+  "raw_payload": {
+    "id": "chatcmpl-cb52fa90-bb22-4a39-9862-f009ba54d7da",
+    "object": "chat.completion",
+    "created": 1795375590,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: how to auto generate subtitles for a video youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations, workflow, mention tools, and cite sources. Must comply with policy: providing info about software is fine. Provide citations with URLs. Should not fabricate sources; but can reference known sources like official docs, reviews, etc. Provide UK context perhaps mention compliance with YouTube guidelines, copyright, accessibility laws (UK Equality Act). Provide steps: upload video"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.167347771,
+      "prompt_tokens": 138,
+      "prompt_time": 0.007008969,
+      "completion_tokens": 150,
+      "completion_time": 0.310270978,
+      "total_tokens": 288,
+      "total_time": 0.317279947,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82bjtncek3a6g4rxggp5bbf",
+      "seed": 1218599350
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3303,
+  "cost_usd": 0.0002
+}

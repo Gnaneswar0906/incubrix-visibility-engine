@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto generate subtitles reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as an assistant, presumably in English. Provide recommendations for auto generating subtitles, especially referencing Reddit perhaps as a source of community discussion. Provide best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note the user is located in IN (India). Possibly mention Indian language support.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-c839b9f9-0edd-420e-82bf-9c61a2a7798f",
+    "object": "chat.completion",
+    "created": 1795377004,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto generate subtitles reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer as an assistant, presumably in English. Provide recommendations for auto generating subtitles, especially referencing Reddit perhaps as a source of community discussion. Provide best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note the user is located in IN (India). Possibly mention Indian language support.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157470622,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005986427,
+      "completion_tokens": 150,
+      "completion_time": 0.312286416,
+      "total_tokens": 283,
+      "total_time": 0.318272843,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cxzg4ehb9p2xwqngvcytr",
+      "seed": 1086289310
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3797,
+  "cost_usd": 0.0002
+}

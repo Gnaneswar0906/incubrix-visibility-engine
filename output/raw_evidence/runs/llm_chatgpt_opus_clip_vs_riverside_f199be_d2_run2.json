@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking to maximize your return on investment for video production, specifically regarding how to turn long-form content (like podcasts, webinars, or interviews) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe comparison between **Opus Clip** and **Riverside.fm** is a common one, but it\u2019s important to clarify a fundamental distinction: **they are not direct competitors**. They serve different purposes in your production pipeline.\n\nHere\u2019s a breakdown to help you decide which tool(s) to use, along with recommended workflows and other key industry options.\n\n### 1. Core Functionality: What Each Tool Does\n\n#### **Rivers",
+  "raw_payload": {
+    "id": "chatcmpl-7a6dcad1-c1f1-4074-ad5d-4a95da88d8a6",
+    "object": "chat.completion",
+    "created": 1795376735,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking to maximize your return on investment for video production, specifically regarding how to turn long-form content (like podcasts, webinars, or interviews) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe comparison between **Opus Clip** and **Riverside.fm** is a common one, but it\u2019s important to clarify a fundamental distinction: **they are not direct competitors**. They serve different purposes in your production pipeline.\n\nHere\u2019s a breakdown to help you decide which tool(s) to use, along with recommended workflows and other key industry options.\n\n### 1. Core Functionality: What Each Tool Does\n\n#### **Rivers"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04969424,
+      "prompt_tokens": 78,
+      "prompt_time": 0.00530244,
+      "completion_tokens": 150,
+      "completion_time": 0.284400463,
+      "total_tokens": 228,
+      "total_time": 0.289702903
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cnrwpe97sasmyqqwqet0p",
+      "seed": 674753
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2281,
+  "cost_usd": 0.0002
+}

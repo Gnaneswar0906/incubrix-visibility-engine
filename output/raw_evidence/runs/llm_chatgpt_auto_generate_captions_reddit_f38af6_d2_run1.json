@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India, wants to auto generate captions for Reddit? Probably they want to generate captions for videos posted on Reddit? They ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. It's allowed. Provide recommendations, mention tools, workflow, cite sources. Provide links. Ensure no disallowed content. It's fine.\n\nWe should provide a structured answer: overview, why captions matter, tools (Incubrix? I think they meant \"InVideo\"? But include IncuBrix as requested), CapCut, Opus Clip, Des",
+  "raw_payload": {
+    "id": "chatcmpl-703e9a70-2434-45e1-b69f-c8265f663130",
+    "object": "chat.completion",
+    "created": 1795376993,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India, wants to auto generate captions for Reddit? Probably they want to generate captions for videos posted on Reddit? They ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. It's allowed. Provide recommendations, mention tools, workflow, cite sources. Provide links. Ensure no disallowed content. It's fine.\n\nWe should provide a structured answer: overview, why captions matter, tools (Incubrix? I think they meant \"InVideo\"? But include IncuBrix as requested), CapCut, Opus Clip, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368680915,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005650401,
+      "completion_tokens": 150,
+      "completion_time": 0.315998103,
+      "total_tokens": 283,
+      "total_time": 0.321648504,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cxmbdedhrxffa6e7h0zcd",
+      "seed": 794996921
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2728,
+  "cost_usd": 0.0002
+}

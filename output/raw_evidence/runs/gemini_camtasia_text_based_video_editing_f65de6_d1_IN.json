@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in **India (IN)** looking to harness text-based video editing\u2014a game-changing workflow where you edit video simply by editing a text transcript\u2014navigating the right tools and methods is essential for maximizing both local monetization and international reach. \n\nHere is a ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6750,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_camtasia_text_based_video_editing_f65de6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India (IN), you are looking to tap into the cutting-edge world of text-based video editing\u2014a game-changing workflow where you edit your video by simply modifying a text transcript. \n\nWhile **Camtasia** is well-known for its robust screen recording and traditional",
+      "cost_usd": 0.0002,
+      "latency_ms": 2099,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_camtasia_text_based_video_editing_f65de6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_camtasia_text_based_video_editing_f65de6_d1_IN.json"
+}

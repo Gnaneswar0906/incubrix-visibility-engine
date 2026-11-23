@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a U.S.-based content creator",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a U.S.-based content creator"
+            },
+            {
+              "text": " looking to streamline and automate the YouTube video creation and posting workflow, the modern landscape relies heavily on AI-driven editing, repurposing, and scheduling tools. True \"auto-posting\" usually involves a combination of content creation software, cloud storage/management, and a reliable publishing scheduler.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry options (including your mentioned tools) tailored for a U.S. creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **A. Repurposing & Clipping (Long-form to Shorts/Reels)**\n*   **Opus Clip:** An industry favorite for turning long-form podcasts, tutorials, or vlogs into viral short-form clips. It uses AI to analyze your video, find the most engaging hooks, add captions, and format them for YouTube Shorts, TikTok, and Instagram Reels.\n*   **CapCut:** Highly popular for both desktop and mobile. Its web",
+              "thoughtSignature": "Eo4BCosBAWkUfRP3ajtcrx2dh2t0CWeus37zpq8HYHcp8+1xEtuBFwemmSRlsfDI9MdYp6YpJXB7/7v5ISVSojSDiWdkO3L/tuHdhb33sbgOkFaMR7LbJwtHWoYP5kMBZnjkUU3JmP3RZFkYhNkmWVydbiq61yqehd/IsqzLLR0trZAUbbjIpNUK5hK7Bgan3w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 209,
+      "totalTokenCount": 271,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "HD8Da522D-r5v_gP-tiVwQ8"
+  },
+  "latency_ms": 3369,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "udemy start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Submagic",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'udemy start faceless youtube channel with ai chatgpt deepseek' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 459
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'udemy start faceless youtube channel with ai chatgpt deepseek' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 498
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_udemy_start_faceless_youtube_channe_56bf1d_d1_GB.json"
+}

@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "youtube auto translate video titles",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'youtube auto translate video titles' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 329
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'youtube auto translate video titles' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_auto_translate_video_titles_fdd7dd_d1_GB.json"
+}

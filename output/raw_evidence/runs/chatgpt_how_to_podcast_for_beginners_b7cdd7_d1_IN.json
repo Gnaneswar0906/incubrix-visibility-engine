@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, venturing into podcasting is an excellent move. India has one of the fastest-growing digital audio audiences, and the barrier to entry has never been lower thanks to accessible software and cloud-based workflows.\n\nHere is a comprehensive guide to starting your p",
+      "cost_usd": 0.0002,
+      "latency_ms": 1006,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_podcast_for_beginners_b7cdd7_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a guide for beginners on how to podcast, recommending best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide information suitable for a content creator in India (IN). M",
+      "cost_usd": 0.0002,
+      "latency_ms": 1998,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_podcast_for_beginners_b7cdd7_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_podcast_for_beginners_b7cdd7_d1_IN.json"
+}

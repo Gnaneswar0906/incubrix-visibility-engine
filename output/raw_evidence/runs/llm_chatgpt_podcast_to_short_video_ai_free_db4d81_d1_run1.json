@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating short-form video content from podcasts is the most effective way to extend your reach in 2024/2025, but finding a truly \"free\" AI tool that handles the entire process (audio-to-video, auto-captions, clipping, and aspect ratio conversion) without watermarks or heavy usage limits can be tricky.\n\nHere is a curated guide for a UK-based content creator, focusing on **best-in-class free tiers**, **hybrid workflows**, and **industry-standard tools**.\n\n---\n\n### \ud83c\udfc6 Top Recommendation: The \"Best Free\" Hybrid Workflow\n\nThere is no single AI tool that is 100% free, unlimited, and professional-grade. The most effective **free workflow** combines",
+  "raw_payload": {
+    "id": "chatcmpl-b73b5a3d-4e40-4527-820b-99d4125fec38",
+    "object": "chat.completion",
+    "created": 1795375452,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating short-form video content from podcasts is the most effective way to extend your reach in 2024/2025, but finding a truly \"free\" AI tool that handles the entire process (audio-to-video, auto-captions, clipping, and aspect ratio conversion) without watermarks or heavy usage limits can be tricky.\n\nHere is a curated guide for a UK-based content creator, focusing on **best-in-class free tiers**, **hybrid workflows**, and **industry-standard tools**.\n\n---\n\n### \ud83c\udfc6 Top Recommendation: The \"Best Free\" Hybrid Workflow\n\nThere is no single AI tool that is 100% free, unlimited, and professional-grade. The most effective **free workflow** combines"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051125415,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005209985,
+      "completion_tokens": 150,
+      "completion_time": 0.303142777,
+      "total_tokens": 228,
+      "total_time": 0.308352762
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bem1zepbapsfnfdypxvgy",
+      "seed": 480917772
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1153,
+  "cost_usd": 0.0002
+}

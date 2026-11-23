@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Posting to YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a concise \u201cstarter kit\u201d for creators who want to **automate the upload,",
+      "cost_usd": 0.0002,
+      "latency_ms": 3169,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_to_youtube_35293d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto posting to YouTube, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to provide info suitable for a US content creator. Should include too",
+      "cost_usd": 0.0002,
+      "latency_ms": 3396,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_to_youtube_35293d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_to_youtube_35293d_d1_US.json"
+}

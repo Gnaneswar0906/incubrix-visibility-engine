@@ -1,0 +1,34 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video malayalam' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 413
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video malayalam' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 359
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_ma_08abd4_d2_IN.json"
+}

@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to create faceless youtube channel using ai' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 473
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to create faceless youtube channel using ai' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_create_faceless_youtube_chan_d2eff0_d1_IN.json"
+}

@@ -1,0 +1,35 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'automatically post youtube shorts' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 332
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'automatically post youtube shorts' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 392
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_automatically_post_youtube_shorts_077771_d2_GB.json"
+}

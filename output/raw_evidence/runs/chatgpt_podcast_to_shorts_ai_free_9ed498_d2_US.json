@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are looking to streamline your workflow by converting long-form podcast episodes into short-form vertical videos (for TikTok, Reels, YouTube Shorts) using AI, specifically focusing on **free** or **freemium** options.\n\nHere is a breakdown of the best tools,",
+      "cost_usd": 0.0002,
+      "latency_ms": 720,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_free_9ed498_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in US. Query: podcast to shorts ai free Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if availab",
+      "cost_usd": 0.0002,
+      "latency_ms": 1807,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_free_9ed498_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_ai_free_9ed498_d2_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for YouTube Videos  \n*Tailored for a U.S.\u2011based content creator who wants fast, accurate subtitles and a smooth workflow.*\n\n---\n\n### 1. Why Use Auto\u2011Captioning?\n| Benefit | How it Helps You |\n|---------",
+  "raw_payload": {
+    "id": "chatcmpl-920f0c34-3bff-425f-89ba-822847977837",
+    "object": "chat.completion",
+    "created": 1795374696,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for YouTube Videos  \n*Tailored for a U.S.\u2011based content creator who wants fast, accurate subtitles and a smooth workflow.*\n\n---\n\n### 1. Why Use Auto\u2011Captioning?\n| Benefit | How it Helps You |\n|---------",
+          "reasoning": "We need to answer as AI assistant for a content creator in US. Provide recommendations for auto-generating captions for YouTube videos. Include best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: provide citations with links. Provide thorough answer. No disallowed content. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.279675592,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005537406,
+      "completion_tokens": 150,
+      "completion_time": 0.320190139,
+      "total_tokens": 285,
+      "total_time": 0.325727545,
+      "completion_tokens_details": {
+        "reasoning_tokens": 86
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_47082602e2",
+    "x_groq": {
+      "id": "req_01m82aqhf1ekgat4b4m23gm38f",
+      "seed": 1751637734
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3596,
+  "cost_usd": 0.0002
+}

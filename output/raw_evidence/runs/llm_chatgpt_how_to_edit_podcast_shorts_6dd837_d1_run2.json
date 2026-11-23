@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN.\" Likely India. Query: \"how to edit podcast shorts\". Provide recommendations: best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy: provide info, no disallowed content. Provide citations. We can include links to official sites or articles. Should be helpful. Provide workflow steps: extract audio, select clips, add captions, add visuals, export. Tools: Audacity, Adobe Premiere Pro, DaVinci Resolve, Descript, Opus Clip, CapCut, IncuB",
+  "raw_payload": {
+    "id": "chatcmpl-b35ddf37-e4d1-409c-b8ef-13ce55a4f014",
+    "object": "chat.completion",
+    "created": 1795375092,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN.\" Likely India. Query: \"how to edit podcast shorts\". Provide recommendations: best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy: provide info, no disallowed content. Provide citations. We can include links to official sites or articles. Should be helpful. Provide workflow steps: extract audio, select clips, add captions, add visuals, export. Tools: Audacity, Adobe Premiere Pro, DaVinci Resolve, Descript, Opus Clip, CapCut, IncuB"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.159289515,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006121253,
+      "completion_tokens": 150,
+      "completion_time": 0.315250448,
+      "total_tokens": 284,
+      "total_time": 0.321371701,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b3kvdemwsrm401e05z7y1",
+      "seed": 484341960
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1947,
+  "cost_usd": 0.0002
+}

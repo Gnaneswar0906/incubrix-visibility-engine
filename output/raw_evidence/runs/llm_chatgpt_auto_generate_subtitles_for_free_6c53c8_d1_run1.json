@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for free auto subtitle generation tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, maybe include UK-specific considerations, privacy, data handling. Provide a list of free tools, their features, pros/cons, workflow steps, integration suggestions. Cite sources with URLs and maybe dates. Provide a structured answer. Ensure compliance with policy: no disallowed content. It's fine.\n\nWill include links to official sites, reviews. Provide a table comparing. Also mention open-source like Aegisub, YouTube auto captions, VLC? Also",
+  "raw_payload": {
+    "id": "chatcmpl-b09c23f5-74e8-4f39-8705-e2e9fc4be0b1",
+    "object": "chat.completion",
+    "created": 1795375598,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for free auto subtitle generation tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, maybe include UK-specific considerations, privacy, data handling. Provide a list of free tools, their features, pros/cons, workflow steps, integration suggestions. Cite sources with URLs and maybe dates. Provide a structured answer. Ensure compliance with policy: no disallowed content. It's fine.\n\nWill include links to official sites, reviews. Provide a table comparing. Also mention open-source like Aegisub, YouTube auto captions, VLC? Also"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370214682,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005509787,
+      "completion_tokens": 150,
+      "completion_time": 0.311694244,
+      "total_tokens": 284,
+      "total_time": 0.317204031,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82bk1y4etyb6nr30cxxt7z0",
+      "seed": 1870491682
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2781,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate captions for instagram' in US, popular recommendations include CapCut. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'auto generate captions for instagram' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 321
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_captions_for_instagra_6d38e9_d1_US.json"
+}

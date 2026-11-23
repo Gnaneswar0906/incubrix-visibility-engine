@@ -1,0 +1,27 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=gb&q=descript+vs",
+  "source_type": "YouTube Autocomplete",
+  "market": "GB",
+  "seed": "descript vs",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:38:37.791213+00:00",
+  "extracted_count": 14,
+  "suggestions": [
+    "descript vs riverside",
+    "descript vs capcut",
+    "descript vs opus clip",
+    "descript vs premiere pro",
+    "descript vs gling",
+    "descript vs loom",
+    "descript vs tella",
+    "descript vs captions ai",
+    "descript vs final cut pro",
+    "descript vs elevenlabs",
+    "descript vs davinci resolve",
+    "descript vs",
+    "descript vs veed",
+    "descript vs opus"
+  ],
+  "raw_response": "window.google.ac.h([\"descript vs\",[[\"descript vs riverside\",0,[512]],[\"descript vs capcut\",0,[512]],[\"descript vs opus clip\",0,[512]],[\"descript vs premiere pro\",0,[512]],[\"descript vs gling\",0,[512]],[\"descript vs loom\",0,[512]],[\"descript vs tella\",0,[512]],[\"descript vs captions ai\",0,[512]],[\"descript vs final cut pro\",0,[512]],[\"descript vs elevenlabs\",0,[512]],[\"descript vs davinci resolve\",0,[512]],[\"descript vs\",0,[512]],[\"descript vs veed\",0,[512]],[\"descript vs opus\",0,[512]]],{\"k\":1}])"
+}

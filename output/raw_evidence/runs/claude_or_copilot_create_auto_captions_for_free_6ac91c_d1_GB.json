@@ -1,0 +1,40 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'create auto captions for free' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 448
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'create auto captions for free' in GB, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 375
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_create_auto_captions_for_free_6ac91c_d1_GB.json"
+}

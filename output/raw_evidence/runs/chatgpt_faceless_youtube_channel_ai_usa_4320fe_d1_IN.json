@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai usa",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, presumably providing recommendations for a content creator in India (IN). The query: \"faceless youtube channel ai usa\". They want best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authorit",
+      "cost_usd": 0.0002,
+      "latency_ms": 2457,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_usa_4320fe_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India looking to build a **faceless YouTube channel targeting the USA market**, you are entering a highly competitive but lucrative niche. The key to success here is **high-quality automation, localization for US audiences, and efficient editing workflows**.\n\nHer",
+      "cost_usd": 0.0002,
+      "latency_ms": 1269,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_usa_4320fe_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_usa_4320fe_d1_IN.json"
+}

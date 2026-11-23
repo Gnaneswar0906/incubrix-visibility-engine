@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'faceless youtube channel ai reddit' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 450
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'faceless youtube channel ai reddit' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 410
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_faceless_youtube_channel_ai_reddit_a53d33_d2_US.json"
+}

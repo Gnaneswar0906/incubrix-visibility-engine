@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "youtube automation faceless youtube channel using ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube automation channel using AI is one of the most scalable digital businesses today, but it requires a streamlined workflow to avoid burnout. As a creator in the UK (GB), you also need to keep UK data protection (GDPR) and licensing laws in mind when sourcing assets.\n\nHere is",
+      "cost_usd": 0.0002,
+      "latency_ms": 3060,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_automation_faceless_youtube_a511d9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'youtube automation faceless youtube channel using ai' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 332
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_automation_faceless_youtube_a511d9_d1_GB.json"
+}

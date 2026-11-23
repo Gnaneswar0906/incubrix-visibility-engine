@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs veed",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **VEED.io** |\n|---------|---------------|-------------|\n| **Core strength** | AI",
+  "raw_payload": {
+    "id": "chatcmpl-03f9d5d3-14ca-449e-8016-fff1255ad28c",
+    "object": "chat.completion",
+    "created": 1795374982,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **VEED.io** |\n|---------|---------------|-------------|\n| **Core strength** | AI",
+          "reasoning": "We need to respond as an AI assistant, providing recommendation on Opus Clip vs Veed, plus best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Use US context. Provide a comparison and workflow suggestions.\n\nWe need to be careful not to provide disallowed content. It's fine.\n\nWe should include citations. Use markdown with footnotes.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.286583031,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005440128,
+      "completion_tokens": 150,
+      "completion_time": 0.316627034,
+      "total_tokens": 284,
+      "total_time": 0.322067162,
+      "completion_tokens_details": {
+        "reasoning_tokens": 106
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c800245357",
+    "x_groq": {
+      "id": "req_01m82b08ftev4t02g1rvrfczxq",
+      "seed": 1549673294
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2965,
+  "cost_usd": 0.0002
+}

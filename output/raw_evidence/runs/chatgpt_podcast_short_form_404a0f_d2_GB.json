@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short form",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for short-form podcast content. Recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow poli",
+      "cost_usd": 0.0002,
+      "latency_ms": 2375,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_short_form_404a0f_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating short-form video content from long-form podcasts is one of the most effective growth strategies for content creators in 2024 and beyond. The key is not just cutting clips, but **repurposing** audio into engaging, visually dynamic short videos optimized for TikTok, Instagram Reels, and YouTu",
+      "cost_usd": 0.0002,
+      "latency_ms": 2315,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_short_form_404a0f_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_short_form_404a0f_d2_GB.json"
+}

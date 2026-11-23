@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for creating podcast shorts (short clips from podcasts). Provide software tools, workflow steps, mention those specific tools, and cite authoritative web sources (like official sites, reputable blogs). Also note location: IN (India). Possibly mention region-specific considerations (e.g., availability, pricing in INR, local support). Provide a tutorial-like guide.\n\nWe must ensure compliance with policy: no",
+  "raw_payload": {
+    "id": "chatcmpl-195d7d98-a6dc-45fc-bf2e-85c345d13d61",
+    "object": "chat.completion",
+    "created": 1795375102,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for creating podcast shorts (short clips from podcasts). Provide software tools, workflow steps, mention those specific tools, and cite authoritative web sources (like official sites, reputable blogs). Also note location: IN (India). Possibly mention region-specific considerations (e.g., availability, pricing in INR, local support). Provide a tutorial-like guide.\n\nWe must ensure compliance with policy: no"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.319194587,
+      "prompt_tokens": 132,
+      "prompt_time": 0.026416552,
+      "completion_tokens": 150,
+      "completion_time": 0.311038829,
+      "total_tokens": 282,
+      "total_time": 0.337455381,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82b3xw3e4q8y62cdmd3sm23",
+      "seed": 1605621747
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2321,
+  "cost_usd": 0.0002
+}

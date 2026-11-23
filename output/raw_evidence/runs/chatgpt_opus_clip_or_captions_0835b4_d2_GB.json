@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Provide a comprehensive answer. Mention how to use these tools, best practices, maybe a workflow: script, capture, edit, captions, export. Provide sour",
+      "cost_usd": 0.0002,
+      "latency_ms": 4025,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_or_captions_0835b4_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in GB, asking about \"opus clip or captions\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative sources if available. Need to produce a helpfu",
+      "cost_usd": 0.0002,
+      "latency_ms": 4874,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_or_captions_0835b4_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_or_captions_0835b4_d2_GB.json"
+}

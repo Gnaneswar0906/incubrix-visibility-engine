@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down the best software tools, optimal workflows, and industry-standard options for auto-publishing YouTube videos. \n\nAutomating your YouTube publishing workflow saves hours of manual labor, letting you focus entirely on ideation, scripting, and filming.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an auto-publishing pipeline, you need tools that handle AI generation/editing, scheduling, and distribution. \n\n#### **A. AI Generation, Editing & Repurposing Tools**\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It takes long-form YouTube videos and automatically chops them into multiple viral short-form clips (YouTube Shorts, TikToks, Reels) complete with captions, emojis, and virality scores. \n*   **CapCut:** Essential for both desktop and mobile creators. CapCut offers auto-captions, background",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down the best software tools, optimal workflows, and industry-standard options for auto-publishing YouTube videos. \n\nAutomating your YouTube publishing workflow saves hours of manual labor, letting you focus entirely on ideation, scripting, and filming.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an auto-publishing pipeline, you need tools that handle AI generation/editing, scheduling, and distribution. \n\n#### **A. AI Generation, Editing & Repurposing Tools**\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It takes long-form YouTube videos and automatically chops them into multiple viral short-form clips (YouTube Shorts, TikToks, Reels) complete with captions, emojis, and virality scores. \n*   **CapCut:** Essential for both desktop and mobile creators. CapCut offers auto-captions, background",
+              "thoughtSignature": "Eo4BCosBAWkUfRN2M3SbSnyKcQP7dZq4dT/2Zd+D/xV8VQzv8aZ4e8O36npZJGS0bbuepQAYW/dHR+fl3gIsrytJTxveSKga5J2dTKciLhsFk1em8EpkbQZ5BfDMP16OuhpL7AWFiOJmAKHQC7KljvhHd/113E3pB5OOSdQl94QfL8FWsfeBCUlBId/3ObIjoQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "MT8Da66kI5rFjuMPgJXJqQs"
+  },
+  "latency_ms": 3261,
+  "cost_usd": 0.0002
+}

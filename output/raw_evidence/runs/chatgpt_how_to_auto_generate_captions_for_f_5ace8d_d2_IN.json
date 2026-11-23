@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick\u2011Start Overview \u2013 Free Caption\u2011Generation for Creators in India**\n\n| Tool (Free tier) | Primary Strength | How it works (one\u2011click steps) |",
+      "cost_usd": 0.0002,
+      "latency_ms": 3945,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto-generating captions for free. They are a content creator located in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply wit",
+      "cost_usd": 0.0002,
+      "latency_ms": 3542,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d2_IN.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically upload twitch vods to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | What It Does | How",
+  "raw_payload": {
+    "id": "chatcmpl-2380fdd7-9820-492a-872e-2d955631b472",
+    "object": "chat.completion",
+    "created": 1795375286,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | What It Does | How",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator located in India, wants to automatically upload Twitch VODs to YouTube. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide steps, automation, tools, possibly using Zapier, IFTTT, Streamlink, OBS, etc. Also mention legal considerations (Twitch terms, copyright). Provide citations with URLs. Must be helpful. Ensure not violating policies. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157426435,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005498604,
+      "completion_tokens": 150,
+      "completion_time": 0.311302153,
+      "total_tokens": 288,
+      "total_time": 0.316800757,
+      "completion_tokens_details": {
+        "reasoning_tokens": 123
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82b9j28edgs6mp36qhm0tn3",
+      "seed": 695234539
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2994,
+  "cost_usd": 0.0002
+}

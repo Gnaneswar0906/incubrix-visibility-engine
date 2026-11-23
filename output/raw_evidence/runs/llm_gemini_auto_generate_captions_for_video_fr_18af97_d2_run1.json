@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow with free online auto-captions, you have access to some of the most advanced AI-driven tools in the industry. Automatic captions are essential for audience retention, especially since a significant portion of viewers watch social media videos on mute.\n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow method to get professional results for free.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best for Mobile & Social-First Editing)\n*   **Overview:** CapCut (owned by ByteDance) is the industry standard for fast, trendy, short-form video captions (TikTok, Instagram Reels, YouTube Shorts).\n*   **Key Features:** \"Auto Captions\" feature instantly transcribes audio with high accuracy. It offers dozens of dynamic, animated caption styles (Karaoke style, pop-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow with free online auto-captions, you have access to some of the most advanced AI-driven tools in the industry. Automatic captions are essential for audience retention, especially since a significant portion of viewers watch social media videos on mute.\n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow method to get professional results for free.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best for Mobile & Social-First Editing)\n*   **Overview:** CapCut (owned by ByteDance) is the industry standard for fast, trendy, short-form video captions (TikTok, Instagram Reels, YouTube Shorts).\n*   **Key Features:** \"Auto Captions\" feature instantly transcribes audio with high accuracy. It offers dozens of dynamic, animated caption styles (Karaoke style, pop-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMvd2IGd+KbHOo6Qkr+V1U7MhUVNe9EWZ/u3+xHEkIr4+jQj3q5xEVBPJqwToALRhzK0CWAUPSq7X3M+HQNZN8JN79TcaYs2/EsZt3YeSEy68XhLC1hvWnlfXqDcpuvVgetUYMuYhdfYwgXe7X95NPhE89mk3H4EQQwLppp9mquu5UwLCS6kg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1UUDa9alEe20juMPgKWKsQE"
+  },
+  "latency_ms": 5567,
+  "cost_usd": 0.0002
+}

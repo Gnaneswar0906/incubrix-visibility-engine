@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing using DaVinci Resolve, and mention other tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods, best software tools, cite sources. Must be safe, no disallowed content. Provide citations with URLs. Use markdown. Provide details on using DaVinci Resolve's text+ and Fusion, scripting, etc. Also mention third-party tools for generating subtitles, AI voiceovers, etc. Provide workflow steps: script, generate subtitles, import, edit, add captions, export. Provide industry options. Cite authoritative sources: official DaVinci Resolve docs, Adobe, etc. Provide links",
+  "raw_payload": {
+    "id": "chatcmpl-d8660eb2-2921-4e77-ad7c-d6bf10aa6512",
+    "object": "chat.completion",
+    "created": 1795376568,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing using DaVinci Resolve, and mention other tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods, best software tools, cite sources. Must be safe, no disallowed content. Provide citations with URLs. Use markdown. Provide details on using DaVinci Resolve's text+ and Fusion, scripting, etc. Also mention third-party tools for generating subtitles, AI voiceovers, etc. Provide workflow steps: script, generate subtitles, import, edit, add captions, export. Provide industry options. Cite authoritative sources: official DaVinci Resolve docs, Adobe, etc. Provide links"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369493217,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007235442,
+      "completion_tokens": 150,
+      "completion_time": 0.31345201,
+      "total_tokens": 286,
+      "total_time": 0.320687452,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82cgn96edfbstngh35s16xm",
+      "seed": 512322993
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3079,
+  "cost_usd": 0.0002
+}

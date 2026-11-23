@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating short-form video content from podcasts is the most effective way to extend your reach in 2024/2025, but finding a truly \"free\" AI tool that handles the entire process (audio-to-video, auto-captions, clipping, and aspect ratio conversion) without watermarks or heavy usage limits can be trick",
+      "cost_usd": 0.0002,
+      "latency_ms": 1153,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_short_video_ai_free_db4d81_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast to short video ai free Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if av",
+      "cost_usd": 0.0002,
+      "latency_ms": 2989,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_short_video_ai_free_db4d81_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_short_video_ai_free_db4d81_d1_GB.json"
+}

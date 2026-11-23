@@ -1,0 +1,87 @@
+{
+  "query": "auto poster for youtube",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://dlvrit.com/youtube-auto-upload/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto poster for youtube",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto Upload Videos and Shorts to YouTube",
+        "link": "https://dlvrit.com/youtube-auto-upload/",
+        "displayedLink": "https://dlvrit.com \u203a youtube-auto-upload",
+        "snippet": "Auto post videos and shorts to your YouTube channel. Post videos on Instagram, Facebook, or Tiktok and automatically share them to YouTube.",
+        "position": 1
+      },
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description, ...",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 2
+      },
+      {
+        "title": "webwealthme/scs-youtube-auto-poster: Auto Posts newest ...",
+        "link": "https://github.com/webwealthme/scs-youtube-auto-poster",
+        "displayedLink": "https://github.com \u203a webwealthme \u203a scs-youtube-auto-poster",
+        "snippet": "Auto Posts newest YouTube Videos from the YouTube channel(s) of your choice. SCS YouTube AutoPoster. Using this plugin you can manually or automatically ...",
+        "position": 3
+      },
+      {
+        "title": "AutoShorts.ai | #1 Faceless Video Generator for TikTok & YouTube",
+        "link": "https://autoshorts.ai/",
+        "displayedLink": "https://autoshorts.ai",
+        "snippet": "Our powerful AI video creation platform allows you to fully automate a faceless channel. Get views and grow while you sleep. Try AutoShorts.ai for Free.",
+        "position": 4
+      },
+      {
+        "title": "FREE Autoposting Automation For ALL Social Media Platforms",
+        "link": "https://www.youtube.com/watch?v=SyoNQ_AARKA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "FREE Autoposting Automation For ALL Social Media Platforms \u00b7 Comments.",
+        "position": 5
+      },
+      {
+        "title": "YouTube Shorts & Video Auto Poster",
+        "link": "https://autoposter.ai/youtube",
+        "displayedLink": "https://autoposter.ai \u203a youtube",
+        "snippet": "The #1 YouTube Auto Poster & Scheduler. Never miss an upload schedule again. Automate your YouTube channel by scheduling Shorts and long-form videos directly ...",
+        "position": 6
+      },
+      {
+        "title": "Auto-post Youtube videos? - Product Support",
+        "link": "https://meta.discourse.org/t/auto-post-youtube-videos/327822?tl=en",
+        "displayedLink": "https://meta.discourse.org \u203a t \u203a auto-post-youtube-videos \u203a 327822",
+        "snippet": "sounds similar to this feature request. Automatically post YouTube videos from a certain channel? Feature. Is there a plug-in that pulls ...",
+        "date": "23 Sept 2024",
+        "position": 7
+      },
+      {
+        "title": "Automatically Post Your YouTube Videos To All Your Social Media ...",
+        "link": "https://repurpose.io/repurpose-youtube-videos/",
+        "displayedLink": "https://repurpose.io \u203a repurpose-youtube-videos",
+        "snippet": "Repurpose.io downloads your YouTube videos, Shorts, and Lives and automagically publishes them to Instagram Reels, Twitter, LinkedIn, Facebook, Pinterest, ...",
+        "position": 8
+      },
+      {
+        "title": "#1 Social Media Auto Poster and Scheduler - dlvr.it",
+        "link": "https://dlvrit.com/",
+        "displayedLink": "https://dlvrit.com",
+        "snippet": "Put your social media on autopilot. Auto post and schedule RSS, photos, and videos to 21 social networks. Post once and share everywhere.",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

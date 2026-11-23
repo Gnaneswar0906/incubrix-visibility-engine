@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for Instagram \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **concise, actionable guide** that covers:\n\n| What",
+      "cost_usd": 0.0002,
+      "latency_ms": 2445,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_6d38e9_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond as AI assistant, US content creator, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. Provide citations. Should ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2564,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_6d38e9_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_instagra_6d38e9_d2_US.json"
+}

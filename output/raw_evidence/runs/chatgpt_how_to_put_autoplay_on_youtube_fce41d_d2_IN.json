@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to put autoplay on youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web source",
+      "cost_usd": 0.0002,
+      "latency_ms": 3282,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_put_autoplay_on_youtube_fce41d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India (IN). They ask: \"how to put autoplay on youtube\". They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer h",
+      "cost_usd": 0.0002,
+      "latency_ms": 2873,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_put_autoplay_on_youtube_fce41d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_put_autoplay_on_youtube_fce41d_d2_IN.json"
+}

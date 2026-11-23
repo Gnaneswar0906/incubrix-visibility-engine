@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai 2026",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'faceless youtube channel ai 2026' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 464
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel ai 2026' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_2026_b491ce_d2_US.json"
+}

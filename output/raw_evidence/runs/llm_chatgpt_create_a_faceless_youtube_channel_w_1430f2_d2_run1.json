@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a faceless youtube channel with ai using invideo",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel using AI is a viable strategy for content creators in the UK, provided you adhere to platform guidelines regarding originality and disclosure. Below is a curated guide focusing on the integration of **InVideo**, alongside essential complementary tools and workflow best practices.\n\n### 1. Core Platform: InVideo AI\n**InVideo AI** is particularly well-suited for faceless channels because it handles the entire production pipeline: script generation, stock media selection, voiceover, and editing.\n\n*   **Strengths:**\n    *   **Prompt-to-Video:** You can generate a full video by typing a prompt (e.g., \u201cCreate a 5-minute video about the history of AI for a UK audience\u201d).",
+  "raw_payload": {
+    "id": "chatcmpl-b7d6bb5f-791f-43ba-9dae-4c784914f0c6",
+    "object": "chat.completion",
+    "created": 1795377656,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel using AI is a viable strategy for content creators in the UK, provided you adhere to platform guidelines regarding originality and disclosure. Below is a curated guide focusing on the integration of **InVideo**, alongside essential complementary tools and workflow best practices.\n\n### 1. Core Platform: InVideo AI\n**InVideo AI** is particularly well-suited for faceless channels because it handles the entire production pipeline: script generation, stock media selection, voiceover, and editing.\n\n*   **Strengths:**\n    *   **Prompt-to-Video:** You can generate a full video by typing a prompt (e.g., \u201cCreate a 5-minute video about the history of AI for a UK audience\u201d)."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054445452,
+      "prompt_tokens": 83,
+      "prompt_time": 0.007115568,
+      "completion_tokens": 150,
+      "completion_time": 0.300217949,
+      "total_tokens": 233,
+      "total_time": 0.307333517
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82dhw12ejm9a69ez55s8q6b",
+      "seed": 1971375160
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1691,
+  "cost_usd": 0.0002
+}

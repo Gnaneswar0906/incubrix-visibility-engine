@@ -1,0 +1,132 @@
+{
+  "query": "edit video by transcript",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.descript.com/",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "edit video by transcript",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Descript: AI Video & Audio Text-based Editor \u2014 Try Free",
+        "link": "https://www.descript.com/",
+        "displayedLink": "https://www.descript.com",
+        "snippet": "Descript is the AI video and audio editor that makes editing as easy as editing text. Record, transcribe, edit, and publish in one tool. Try it free.",
+        "position": 1
+      },
+      {
+        "title": "Edit video using generated transcript | Firefly",
+        "link": "https://helpx.adobe.com/firefly/web/firefly-video-editor/work-with-transcript/edit-video-using-generated-transcript.html",
+        "displayedLink": "https://helpx.adobe.com \u203a firefly \u203a ... \u203a edit-video-using-generated-...",
+        "snippet": "Learn how to edit your video by making changes directly in the transcript with Text-based editing. app Use the video transcript to edit videos ...",
+        "date": "Nov 10, 2026",
+        "position": 2
+      },
+      {
+        "title": "Text-Based Video Editing - Edit Videos With Text",
+        "link": "https://www.veed.io/tools/text-based-video-editing",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a text-based-video-editing",
+        "snippet": "Edit videos by modifying transcripts instead of timelines. Remove filler words, rearrange content, and create clips for social media in minutes, not hours.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 3
+      },
+      {
+        "title": "View, edit, and manage video transcripts and captions",
+        "link": "https://support.microsoft.com/en-us/clipchamp/stream-pages/view-edit-and-manage-video-transcripts-and-captions",
+        "displayedLink": "https://support.microsoft.com \u203a en-us \u203a ... \u203a view-edit-and-manage-video-...",
+        "snippet": "First, download the transcript as a WebVTT file and open it in a text editor or caption or subtitle editor of your choice. Make your edits and save the file.",
+        "position": 4
+      },
+      {
+        "title": "How to edit videos with AI transcript-based editing",
+        "link": "https://www.youtube.com/watch?v=My-t09vy5Co",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Watch this tutorial to learn how to easily trim lengthy footage, cut out filler words, and edit out mistakes with transcript-based editing.",
+        "position": 5
+      },
+      {
+        "title": "Introducing Edit by Transcript: Your Shortcut to Better Videos",
+        "link": "https://www.screencastify.com/blog/how-to-edit-by-transcript",
+        "displayedLink": "https://www.screencastify.com \u203a blog \u203a how-to-edit-by-transcript",
+        "snippet": "1. Open Your Video in the Editor \u00b7 2. Open the Transcript Panel \u00b7 3. Generate Captions (If Needed) \u00b7 4. Trim or Edit the Transcript \u00b7 5. Save Your ...",
+        "date": "Aug 1, 2025",
+        "position": 6
+      },
+      {
+        "title": "Transcript Based Video Editing",
+        "link": "https://vizard.ai/tools/transcript-based-video-editing",
+        "displayedLink": "https://vizard.ai \u203a tools \u203a transcript-based-video-editing",
+        "snippet": "Vizard's AI-powered transcript-based editor automatically transcribes your recordings, allowing you to cut bad takes, remove silences, and create viral clips",
+        "position": 7
+      },
+      {
+        "title": "Text-Based Video Editor: Edit by Transcript, No Watermark",
+        "link": "https://www.dadan.io/text-based-video-editor",
+        "displayedLink": "https://www.dadan.io \u203a text-based-video-editor",
+        "snippet": "Users can edit your video from the transcript. Cut, move, rearrange, remove filler words or pauses to see the changes take place in the video automatically. No ...",
+        "rating": 4.8,
+        "ratingCount": 285,
+        "position": 8
+      },
+      {
+        "title": "Editing videos USING the transcript : r/VideoEditing",
+        "link": "https://www.reddit.com/r/VideoEditing/comments/mg52er/editing_videos_using_the_transcript/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a editing_videos_using_the_tr...",
+        "snippet": "use the actual transcript to edit, delete, slice videos (i.e. user words to slice and delete). automatically add subtitles. create ...",
+        "position": 9
+      },
+      {
+        "title": "Text-Based Video Editing, Free: Edit Video by Editing the Transcript",
+        "link": "https://vidclean.net/blog/text-based-video-editing-free",
+        "displayedLink": "https://vidclean.net \u203a blog \u203a text-based-video-editing-free",
+        "snippet": "How to edit by transcript in VidClean, step by step \u00b7 1. Upload your video. \u00b7 2. The AI transcribes the speech. \u00b7 3. The transcript appears ...",
+        "date": "Jul 18, 2026",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Can ChatGPT transcribe video?"
+      },
+      {
+        "question": "How can I edit a video using text?"
+      },
+      {
+        "question": "Can I use transcript-based editing in CapCut?"
+      },
+      {
+        "question": "Can ChatGPT edit videos?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Edit video by transcript free"
+      },
+      {
+        "query": "Edit video by transcript online free"
+      },
+      {
+        "query": "Edit video by transcript online"
+      },
+      {
+        "query": "Edit video by transcript app"
+      },
+      {
+        "query": "How to use Descript to edit video"
+      },
+      {
+        "query": "Text-based video editing free"
+      }
+    ],
+    "credits": 1
+  }
+}

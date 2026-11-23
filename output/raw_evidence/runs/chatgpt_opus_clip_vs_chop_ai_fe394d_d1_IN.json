@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io",
+        "InVideo"
+      ],
+      "snippet": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus clip vs chop ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2511,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_chop_ai_fe394d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant, I can provide you with information on various software tools and workflow methods for content creation, including Opus Clip and Chop AI. However, since the query mentions two specific tools, I will primarily focus on comparing Opus Clip and Chop AI and provide additional informat",
+      "cost_usd": 0.0002,
+      "latency_ms": 5514,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_chop_ai_fe394d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_chop_ai_fe394d_d1_IN.json"
+}

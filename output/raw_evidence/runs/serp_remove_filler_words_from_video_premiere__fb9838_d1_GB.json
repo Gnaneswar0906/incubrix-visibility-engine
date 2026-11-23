@@ -1,0 +1,89 @@
+{
+  "query": "remove filler words from video premiere pro",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=hhHMrPVwE3E",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "remove filler words from video premiere pro",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Automatically Delete Filler Words (Uh, Umm...) | Premiere Pro",
+        "link": "https://www.youtube.com/watch?v=hhHMrPVwE3E",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Premiere Pro has a cool feature that automatically identifies filler words and removes them from the timeline in a single click. In this 2-\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "How to Instantly Remove All Filler Words in Premiere Pro",
+        "link": "https://www.youtube.com/watch?v=Bm51p22SGps",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to quickly polish your audio by removing common filler words like \"um,\" and \"uh,\" in Adobe Premiere Pro.",
+        "position": 2
+      },
+      {
+        "title": "Hey! Looking for a plug in that automatically cuts filler words like \u201c ...",
+        "link": "https://www.reddit.com/r/premiere/comments/1lw905s/hey_looking_for_a_plug_in_that_automatically_cuts/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a hey_looking_for_a_plug_in_t...",
+        "snippet": "Click the funnel icon to pick a filter, such as \u201cfiller words\u201d and it will highlight all the filler words for you. Then you can delete them.",
+        "position": 3
+      },
+      {
+        "title": "Detect and delete pauses in transcripts in Premiere",
+        "link": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-video-using-text-based-editing/detect-and-delete-pauses-in-transcripts.html",
+        "displayedLink": "https://helpx.adobe.com \u203a premiere \u203a ... \u203a detect-and-delete-pauses-in...",
+        "snippet": "Select the filter icon in the Transcript panel. Choose the Text, Filler words, Pauses, or Speakers you would like to delete. The filter for the ...",
+        "date": "7 Jan 2026",
+        "position": 4
+      },
+      {
+        "title": "New! Filler Word Removal in #premierepro",
+        "link": "https://www.youtube.com/shorts/Q49lTt22VQM",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a Q49lTt22VQM",
+        "position": 5
+      },
+      {
+        "title": "How to delete pauses and filler words with text-based editing",
+        "link": "https://www.redsharknews.com/how-to-delete-pauses-and-filler-words-with-text-based-editing",
+        "displayedLink": "https://www.redsharknews.com \u203a how-to-delete-pauses-and-fi...",
+        "snippet": "Navigate to the Filter icon within the Transcript Panel, and you will notice the Filler option in the dropdown menu. Once selected, Premiere Pro",
+        "date": "5 Dec 2023",
+        "position": 6
+      },
+      {
+        "title": "Automatically Delete Pauses and Filler Words | Adobe Premiere Pro ...",
+        "link": "https://www.youtube.com/watch?v=WXBb7Hw9ty4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In today's tutorial, I teach you how to automatically delete pauses and filler words in Adobe Premiere Pro!",
+        "position": 7
+      },
+      {
+        "title": "Is there a way to highlight every filler word in a transcript and autoclip/disable them?",
+        "link": "https://www.reddit.com/r/premiere/comments/1ux5pq0/is_there_a_way_to_highlight_every_filler_word_in/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_a_way_to_highlight...",
+        "position": 8
+      },
+      {
+        "title": "Adobe: filler words in Premiere Pro Text-Based Editing",
+        "link": "https://community.adobe.com/t5/premiere-pro-beta-discussions/now-in-beta-filler-words-and-other-text-based-editing-updates-in-premiere-pro/m-p/14084589",
+        "displayedLink": "https://community.adobe.com \u203a t5 \u203a ... \u203a 14084589",
+        "position": 9
+      },
+      {
+        "title": "Delete all pauses and fillers now in Beta",
+        "link": "https://www.reddit.com/r/premiere/comments/16hn0qa/delete_all_pauses_and_fillers_now_in_beta/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a delete_all_pauses_and_fille...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "best free auto caption generator reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"best free auto caption generator reddit\". They are a content creator located in India (IN). They want recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide answer with recommendations, mention free auto caption generators, especially those discussed on Reddit. Provide workflow methods. Mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations (like links). Must be safe. No disallowed content. Provide info.\n\nWe should include a brief intro, list of top free auto caption generators, with pros/cons, Reddit community",
+  "raw_payload": {
+    "id": "chatcmpl-d52ead65-3835-413a-857b-823e882147a4",
+    "object": "chat.completion",
+    "created": 1795377018,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"best free auto caption generator reddit\". They are a content creator located in India (IN). They want recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide answer with recommendations, mention free auto caption generators, especially those discussed on Reddit. Provide workflow methods. Mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations (like links). Must be safe. No disallowed content. Provide info.\n\nWe should include a brief intro, list of top free auto caption generators, with pros/cons, Reddit community"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368614555,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005535424,
+      "completion_tokens": 150,
+      "completion_time": 0.311032188,
+      "total_tokens": 285,
+      "total_time": 0.316567612,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82cyd9ve0wvmdhjz1n6damk",
+      "seed": 1254032107
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3130,
+  "cost_usd": 0.0002
+}

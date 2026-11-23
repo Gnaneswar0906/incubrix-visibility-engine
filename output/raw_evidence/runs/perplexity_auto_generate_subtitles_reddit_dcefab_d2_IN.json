@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto generate subtitles reddit' in IN, popular recommendations include Klap, Veed.io. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 450
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto generate subtitles reddit' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 441
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_subtitles_reddit_dcefab_d2_IN.json"
+}

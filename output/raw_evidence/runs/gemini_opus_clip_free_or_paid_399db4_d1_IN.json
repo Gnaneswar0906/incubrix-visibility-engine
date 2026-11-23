@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip free or paid",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in India (IN), let\u2019s break down the **Opus Clip** pricing model, evaluate it against your needs, and look at the best workflow methods and alternative tools available in the market.\n\n---\n\n### 1. Is Opus Clip Free or Paid?\n**Opus Clip operates on a freemiu",
+      "cost_usd": 0.0002,
+      "latency_ms": 2409,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_free_or_paid_399db4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'opus clip free or paid' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 321
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_free_or_paid_399db4_d1_IN.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts editing tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow steps, mention those tools, possibly others like Adobe Premiere Pro, Final Cut, DaVinci Resolve, Audacity, etc. Provide tutorial style guidance for creating short clips from podcasts. Provide citations (authoritative web sources) \u2013 we can reference articles, blog posts, official docs. Must comply with policy: no disallowed content. It's fine.\n\nWe need to",
+  "raw_payload": {
+    "id": "chatcmpl-9c7dcd6e-9405-477e-aad3-2f6a58257fbd",
+    "object": "chat.completion",
+    "created": 1795375067,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts editing tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow steps, mention those tools, possibly others like Adobe Premiere Pro, Final Cut, DaVinci Resolve, Audacity, etc. Provide tutorial style guidance for creating short clips from podcasts. Provide citations (authoritative web sources) \u2013 we can reference articles, blog posts, official docs. Must comply with policy: no disallowed content. It's fine.\n\nWe need to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318168013,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006783746,
+      "completion_tokens": 150,
+      "completion_time": 0.311247603,
+      "total_tokens": 283,
+      "total_time": 0.318031349,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82b2w67e6rtekyr17r8vdzq",
+      "seed": 1295775799
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3288,
+  "cost_usd": 0.0002
+}

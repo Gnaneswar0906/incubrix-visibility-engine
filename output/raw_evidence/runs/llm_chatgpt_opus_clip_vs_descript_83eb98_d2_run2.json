@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation comparing Opus Clip vs Descript, and also recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They want citations of authoritative web sources if available.\n\nWe must comply with policy. It's a normal request for information. Provide comparative analysis, workflow suggestions, and mention other tools. Provide citations with URLs. Must be factual, not promotional. Use neutral tone.\n\nWe must ensure not to provide disallowed content. It's fine.\n\nWe'll list features, pros/cons, use cases. Provide workflow: script, capture, edit, captions, distribution. Mention industry tools: Adobe Premiere Pro, Final Cut Pro, DaVinci",
+  "raw_payload": {
+    "id": "chatcmpl-54ff4965-bfb8-4e1c-a503-958502ddd24d",
+    "object": "chat.completion",
+    "created": 1795376719,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation comparing Opus Clip vs Descript, and also recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They want citations of authoritative web sources if available.\n\nWe must comply with policy. It's a normal request for information. Provide comparative analysis, workflow suggestions, and mention other tools. Provide citations with URLs. Must be factual, not promotional. Use neutral tone.\n\nWe must ensure not to provide disallowed content. It's fine.\n\nWe'll list features, pros/cons, use cases. Provide workflow: script, capture, edit, captions, distribution. Mention industry tools: Adobe Premiere Pro, Final Cut Pro, DaVinci"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36799099,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005066019,
+      "completion_tokens": 150,
+      "completion_time": 0.311260185,
+      "total_tokens": 283,
+      "total_time": 0.316326204,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82cn93de5napchqyz8rhj2d",
+      "seed": 1830497966
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4122,
+  "cost_usd": 0.0002
+}

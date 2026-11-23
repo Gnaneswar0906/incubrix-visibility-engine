@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give a tutorial on creating podcast shorts (short clips) for a content creator in India (IN). Provide software recommendations, workflow, mention the tools listed, and cite sources. Must be safe, no disallowed content. Provide citations with URLs. Use authoritative sources like official sites, blogs, etc.\n\nWe need to be helpful, structured, maybe step-by-step. Provide details on recording,",
+  "raw_payload": {
+    "id": "chatcmpl-ce4e443a-ffe5-4772-9a10-dc52a7edeae1",
+    "object": "chat.completion",
+    "created": 1795375105,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts tutorial. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give a tutorial on creating podcast shorts (short clips) for a content creator in India (IN). Provide software recommendations, workflow, mention the tools listed, and cite sources. Must be safe, no disallowed content. Provide citations with URLs. Use authoritative sources like official sites, blogs, etc.\n\nWe need to be helpful, structured, maybe step-by-step. Provide details on recording,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15607386,
+      "prompt_tokens": 132,
+      "prompt_time": 0.004964459,
+      "completion_tokens": 150,
+      "completion_time": 0.311495858,
+      "total_tokens": 282,
+      "total_time": 0.316460317,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82b40t0ebzsq26mx4z1sa7d",
+      "seed": 1208447549
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2822,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, automating your VOD (Video on Demand) uploads to YouTube can significantly save time and ensure consistency. While YouTube does not have a native \"auto-upload from file\" button for local files without human interaction, you can build a robust **semi-automated or",
+      "cost_usd": 0.0002,
+      "latency_ms": 1332,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_upload_vods_to_youtube_428c5a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user asks: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to auto upload vods to youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sou",
+      "cost_usd": 0.0002,
+      "latency_ms": 5560,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_upload_vods_to_youtube_428c5a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_upload_vods_to_youtube_428c5a_d2_IN.json"
+}

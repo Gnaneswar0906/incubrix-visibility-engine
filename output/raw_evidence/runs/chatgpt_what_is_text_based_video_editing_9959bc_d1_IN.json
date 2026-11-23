@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India, you are at the forefront of a major shift in video production. **Text-based video editing** is a workflow where you edit a video by editing its transcript. Instead of dragging and dropping clips on a timeline, you delete, rearrange, or modify words in a te",
+      "cost_usd": 0.0002,
+      "latency_ms": 1287,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_text_based_video_editing_9959bc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## What\u202fis\u202f**text\u2011based video editing**",
+      "cost_usd": 0.0002,
+      "latency_ms": 2772,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_text_based_video_editing_9959bc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_is_text_based_video_editing_9959bc_d1_IN.json"
+}

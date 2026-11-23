@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I have structured this guide to cover the best text-based video editing AI tools, standard workflows, and an analysis of key industry options including the ones you mentioned (**IncuBrix, CapCut, Opus Clip, and Descript**).\n\n---\n\n### 1. Key Industry Options & Their Best Use Cases\n\nText-based video editing (also known as \"transcript-based editing\") allows creators to edit video timelines simply by deleting, copying, or rearranging text in an automatically generated transcript. \n\nHere is how the leading tools stack up in the current market:\n\n*   **Descript (The Gold Standard for Editing):** \n    *   *Best for:* Long-form creators, podcasters, educators, and talking-head videos.\n    *   *Why use it:* Descript pioneered mainstream text-based video editing. It treats your video file like a Word document.",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I have structured this guide to cover the best text-based video editing AI tools, standard workflows, and an analysis of key industry options including the ones you mentioned (**IncuBrix, CapCut, Opus Clip, and Descript**).\n\n---\n\n### 1. Key Industry Options & Their Best Use Cases\n\nText-based video editing (also known as \"transcript-based editing\") allows creators to edit video timelines simply by deleting, copying, or rearranging text in an automatically generated transcript. \n\nHere is how the leading tools stack up in the current market:\n\n*   **Descript (The Gold Standard for Editing):** \n    *   *Best for:* Long-form creators, podcasters, educators, and talking-head videos.\n    *   *Why use it:* Descript pioneered mainstream text-based video editing. It treats your video file like a Word document.",
+              "thoughtSignature": "Eo4BCosBAWkUfRP6xUWxdgA+fB93fYqzx/H7QuJtzG4kLIh8PfzfuRnm9KD9NN+bJkwJAwp/2jyK+F7JpDrHWxUqCFLAsNwcvGkOXKYqND4rG5FsdWWN14JrSlXltX8Y4aJmdlYiQ6xxgj16ORRvyLWm2xBz+dYp3JukHwIWzInVMSYwxo10JT65b/3ZtounFw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zEUDa9qKMdfz3LUPh8KGiQk"
+  },
+  "latency_ms": 6480,
+  "cost_usd": 0.0002
+}

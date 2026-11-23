@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Given your query likely intends to compare **Opus Clip** against other top AI video repurposing tools, here is a comprehensive breakdown of the best software options, workflow methods, and industry leaders for creating short-form content from long-form videos.\n\n### \ud83c\udfc6 Top AI Video Repurposing Tools (",
+      "cost_usd": 0.0002,
+      "latency_ms": 2021,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_8560a5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "It looks like your query was cut off after \"opus clip vs,\" but based on the context of comparing video editing tools for content creators in the US, you are likely looking for a comparison between **Opus Clip** and its primary competitors for **repurposing long-form video into short-form vertical cl",
+      "cost_usd": 0.0002,
+      "latency_ms": 3028,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_8560a5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_8560a5_d1_US.json"
+}

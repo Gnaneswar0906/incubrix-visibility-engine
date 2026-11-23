@@ -1,0 +1,19 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=transcribe+video+and+edit",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "transcribe video and edit",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:33:52.740556+00:00",
+  "extracted_count": 6,
+  "suggestions": [
+    "transcribe video editor",
+    "transcribe video editing",
+    "can i transcribe a video",
+    "how to transcribe a video in word",
+    "how to transcribe a video",
+    "how to transcribe a video in microsoft word"
+  ],
+  "raw_response": "[\"transcribe video and edit\",[\"transcribe video editor\",\"transcribe video editing\",\"can i transcribe a video\",\"how to transcribe a video in word\",\"how to transcribe a video\",\"how to transcribe a video in microsoft word\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

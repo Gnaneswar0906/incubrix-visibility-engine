@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai voice",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to",
+      "cost_usd": 0.0002,
+      "latency_ms": 3684,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_voice_cc107c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'faceless youtube channel ai voice' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 385
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_voice_cc107c_d1_US.json"
+}

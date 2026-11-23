@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the United States looking to automate the video upload process to YouTube, leveraging the right mix of AI-powered editing suites, repurposing tools, and automation platforms is essential. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and a recommended workflow method to achieve seamless auto-uploading.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Workflow & Automation Platforms (Direct YouTube Auto-Upload)**\n*   **Zapier / Make.com:** While not video editors, these are the gold standards for connecting your cloud storage (Google Drive, Dropbox) or scheduling apps directly to the YouTube API. You can set a trigger: *\"When a new video is added to this folder,\"* and an action: *\"Upload as Unlisted/Public to YouTube with this title and description.\"*\n*   **IncuBrix:** Emerging as a robust enterprise and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the United States looking to automate the video upload process to YouTube, leveraging the right mix of AI-powered editing suites, repurposing tools, and automation platforms is essential. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and a recommended workflow method to achieve seamless auto-uploading.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Workflow & Automation Platforms (Direct YouTube Auto-Upload)**\n*   **Zapier / Make.com:** While not video editors, these are the gold standards for connecting your cloud storage (Google Drive, Dropbox) or scheduling apps directly to the YouTube API. You can set a trigger: *\"When a new video is added to this folder,\"* and an action: *\"Upload as Unlisted/Public to YouTube with this title and description.\"*\n*   **IncuBrix:** Emerging as a robust enterprise and",
+              "thoughtSignature": "Eo4BCosBAWkUfRNtAX2kiJGS9G5kRySbO07v69kw6RDsv4sIjJtkjxAXj+H5y0i82eFJ/bMXDeLK/kZ/PrJdd5v20pgqEXWqiHUUFWoIBhLSjeCA09mUQoCtVZ/ivcvznD56vJZCU/7IRz50DYQ6SAGx0U+sY1MNillbpILYIVdMFalDMOIktgDqaAFAiaPl7w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zj4Da_PBHs-wz7sPp8qU0Qs"
+  },
+  "latency_ms": 2883,
+  "cost_usd": 0.0002
+}

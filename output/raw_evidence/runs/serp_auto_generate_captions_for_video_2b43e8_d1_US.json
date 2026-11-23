@@ -1,0 +1,131 @@
+{
+  "query": "auto generate captions for video",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.kapwing.com/subtitles",
+  "competitors_named": "CapCut, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto generate captions for video",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.kapwing.com/subtitles",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 1
+      },
+      {
+        "title": "Add Subtitles to Video Online for Free",
+        "link": "https://www.canva.com/features/add-subtitles-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-subtitles-to-video",
+        "snippet": "You can put subtitles on a video using our video subtitle generator. It's completely free, and you can create subtitles from your video's speech in just seconds ...",
+        "position": 2
+      },
+      {
+        "title": "Add Captions to Videos Online for Free | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/add-caption",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a add-caption",
+        "snippet": "Add captions to videos quickly and easily using the Adobe Express subtitle generator. No experience required.",
+        "position": 3
+      },
+      {
+        "title": "Auto Subtitle & Caption Generator",
+        "link": "https://www.happyscribe.com/subtitle-generator",
+        "displayedLink": "https://www.happyscribe.com \u203a subtitle-generator",
+        "snippet": "Free AI subtitle generator and auto caption generator. Caption any video in 150+ languages, edit and style it, then export SRT, VTT or burned-in MP4.",
+        "rating": 4.6,
+        "ratingCount": 1426,
+        "position": 4
+      },
+      {
+        "title": "AI Caption Generator - Add Captions to Video",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online/video-caption-generator",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online \u203a video-caption-generator",
+        "snippet": "Add ai captions to your videos in seconds. Choose from over 125 languages. AI caption generator with dynamic subtitles and brand kit styling. Free to start.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 5
+      },
+      {
+        "title": "Free Video Caption Generator | AI Animated Subtitles & Captions",
+        "link": "https://www.choppity.com/tools/free-video-caption-generator/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-video-caption-generator",
+        "snippet": "AI adds captions automatically. Our speech-to-text AI transcribes the audio with 95%+ accuracy and burns time-synced captions straight into your video.",
+        "position": 6
+      },
+      {
+        "title": "Free Subtitle Generator \u2013 Auto Captions for Video, No Watermark",
+        "link": "https://wavespeed.ai/free-tools/subtitle-generator",
+        "displayedLink": "https://wavespeed.ai \u203a free-tools \u203a subtitle-generator",
+        "snippet": "Generate subtitles from speech automatically, free. Edit captions, style them, download SRT, VTT or TXT, or burn them into your MP4.",
+        "position": 7
+      },
+      {
+        "title": "AutoCaption \u2014 Add Captions to Your Videos in Seconds",
+        "link": "https://autocaption.io/",
+        "displayedLink": "https://autocaption.io",
+        "snippet": "AutoCaption is an AI-powered tool that automatically generates stylish captions for your videos. Upload a video, choose a caption style, and export a ready-to- ...",
+        "position": 8
+      },
+      {
+        "title": "Add Subtitles to Video Free | Restyle Your Video",
+        "link": "https://www.capcut.com/tools/add-subtitles-to-video",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a add-subtitles-to-video",
+        "snippet": "Click on the \"Captions\" tab in the left-hand toolbar and select \"Auto captions\" to add subtitles to video.Choose the language spoken in your video from the ...",
+        "position": 9
+      },
+      {
+        "title": "Auto subtitle generator online | Free in over 100 languages",
+        "link": "https://clipchamp.com/en/subtitle-generator/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a subtitle-generator",
+        "snippet": "1. Upload or record a video \u00b7 2. Choose your subtitle language \u00b7 3. Adjust font, colors, size and alignment \u00b7 4. Download your video and .SRT transcript file.",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "How do I generate captions for my video?"
+      },
+      {
+        "question": "Is there a free way to automatically generate subtitles from a video?"
+      },
+      {
+        "question": "Can ChatGPT add subtitles to video?"
+      },
+      {
+        "question": "What is the best caption generator for videos?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Auto generate captions for video free"
+      },
+      {
+        "query": "Free automatic subtitle generator"
+      },
+      {
+        "query": "Automatically add subtitles to video online free"
+      },
+      {
+        "query": "Auto caption generator"
+      },
+      {
+        "query": "How to add subtitles to a video free"
+      },
+      {
+        "query": "AI subtitles generator free"
+      }
+    ],
+    "credits": 1
+  }
+}

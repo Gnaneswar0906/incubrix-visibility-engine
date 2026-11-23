@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Take Summary**\n\n| Goal | Best\u2011in\u2011class tool (free/paid) | Why it shines for \u201cedit video by transcript\u201d |\n|------|-------------------------------|----------------------------------------------|\n| Full\u2011featured transcription\u202f+\u202ftext\u2011based video editing | **Descript** (Free tier, $12\u2011$30\u202f/mo) |",
+  "raw_payload": {
+    "id": "chatcmpl-68757cb0-ba9f-42ac-bcb6-189d164f9b99",
+    "object": "chat.completion",
+    "created": 1795374546,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Take Summary**\n\n| Goal | Best\u2011in\u2011class tool (free/paid) | Why it shines for \u201cedit video by transcript\u201d |\n|------|-------------------------------|----------------------------------------------|\n| Full\u2011featured transcription\u202f+\u202ftext\u2011based video editing | **Descript** (Free tier, $12\u2011$30\u202f/mo) |",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be helpful. Provide workflow steps. Provide citations with links. Use authoritative sources. Provide summary. Ensure compliance with policy: no disallowed content. It's fine."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370152156,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005288511,
+      "completion_tokens": 150,
+      "completion_time": 0.310536492,
+      "total_tokens": 283,
+      "total_time": 0.315825003,
+      "completion_tokens_details": {
+        "reasoning_tokens": 70
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82ajyf1e4m9yt4rr9e8q1se",
+      "seed": 592561015
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2776,
+  "cost_usd": 0.0002
+}

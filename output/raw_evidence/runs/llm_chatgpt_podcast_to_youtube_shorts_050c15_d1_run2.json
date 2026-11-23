@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "##",
+  "raw_payload": {
+    "id": "chatcmpl-4ea84dea-c242-4165-a98a-7ea5b53e0f50",
+    "object": "chat.completion",
+    "created": 1795374528,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "##",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Provide workflow steps, tips. Also note that user is in US. Provide suggestions for converting podcast audio/video into YouTube Shorts (vertical, under 60 sec). Provide tools for editing, clipping, adding captions, thumbnails. Provide free and paid options. Provide sources.\n\nWe must include citations. Use bracketed citations with URLs. Provide references at end.\n\nWe must avoid copyrighted text, but can quote small bits. Provide summary.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367642008,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005291388,
+      "completion_tokens": 150,
+      "completion_time": 0.315511834,
+      "total_tokens": 283,
+      "total_time": 0.320803222,
+      "completion_tokens_details": {
+        "reasoning_tokens": 141
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82ajd1he1ev1r0d9b2ermty",
+      "seed": 2046596901
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2158,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Starting a **Faceless YouTube Channel** with AI (ChatGPT\u202f+\u202fDeepSeek)\n\nBelow",
+      "cost_usd": 0.0002,
+      "latency_ms": 3466,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_faceless_youtube_channel_with_a947a3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel using AI is a highly viable strategy in 2024, particularly for creators in the UK who want to scale content production without appearing on camera. The key to success lies not just in generating text, but in creating high-quality, engaging video assets that retain",
+      "cost_usd": 0.0002,
+      "latency_ms": 1240,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_faceless_youtube_channel_with_a947a3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_start_faceless_youtube_channel_with_a947a3_d1_GB.json"
+}

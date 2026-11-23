@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing vimeo",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a prime position to leverage the rapidly growing \"text-based video editing\" market. This trend allows you to edit videos by editing a transcript, which significantly speeds up production workflows, especially for talking-head content, podcasts, and educational material.\n\nHere is a curated recommendation of the best software tools, workflow methods, and industry options tailored for your needs.\n\n### 1. Top Software Tools for Text-Based Editing\n\n#### **A. Descript (Industry Leader)**\n*   **Why it\u2019s #1:** Descript pioneered text-based editing. It transcribes your video/audio, and you edit the video by deleting or rearranging words in the text document. It also offers AI",
+  "raw_payload": {
+    "id": "chatcmpl-8b4a33ab-e0e4-4313-ae4c-94acdbb1b5ef",
+    "object": "chat.completion",
+    "created": 1795375122,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a prime position to leverage the rapidly growing \"text-based video editing\" market. This trend allows you to edit videos by editing a transcript, which significantly speeds up production workflows, especially for talking-head content, podcasts, and educational material.\n\nHere is a curated recommendation of the best software tools, workflow methods, and industry options tailored for your needs.\n\n### 1. Top Software Tools for Text-Based Editing\n\n#### **A. Descript (Industry Leader)**\n*   **Why it\u2019s #1:** Descript pioneered text-based editing. It transcribes your video/audio, and you edit the video by deleting or rearranging words in the text document. It also offers AI"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048335805,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005573164,
+      "completion_tokens": 150,
+      "completion_time": 0.2945619,
+      "total_tokens": 228,
+      "total_time": 0.300135064
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b4hrxer59x882vsf0xc07",
+      "seed": 1628282265
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1413,
+  "cost_usd": 0.0002
+}

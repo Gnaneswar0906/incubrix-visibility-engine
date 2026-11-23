@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to turn long-form podcast episodes into engaging short-form videos (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most powerful AI-driven and traditional editing tools on the market. \n\nHere is a comprehensive guide to the best software tools, key industry options, and a proven workflow method tailored for a GB-based creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is dominated by AI-repurposing tools that automatically detect engaging hooks, transcribe audio, and format videos vertically. \n\n#### **Opus Clip**\n*   **What it is:** One of the industry pioneers in generative AI video clipping. You feed it a YouTube link or upload a file, and its AI analyzes the content, scores clips based on \"viral potential,\" and outputs ready-to-publish shorts with captions.\n*   ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to turn long-form podcast episodes into engaging short-form videos (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most powerful AI-driven and traditional editing tools on the market. \n\nHere is a comprehensive guide to the best software tools, key industry options, and a proven workflow method tailored for a GB-based creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is dominated by AI-repurposing tools that automatically detect engaging hooks, transcribe audio, and format videos vertically. \n\n#### **Opus Clip**\n*   **What it is:** One of the industry pioneers in generative AI video clipping. You feed it a YouTube link or upload a file, and its AI analyzes the content, scores clips based on \"viral potential,\" and outputs ready-to-publish shorts with captions.\n*   ",
+              "thoughtSignature": "Eo4BCosBAWkUfROEe2dCHLa/ERrZnP5Pkx34B4L5N8axJjG7q5Ifdy5ckrA6va4szVmxvwSMVkg9BtN2vHC1Ylv3om0ODtKrppxj33O5RUa5aG7gvhhSjTN8HM0UySmewWb8ccOAhveO2YVOeh7uL8ofN45rDbqOvp7OprGNI47CqYPIKC9wStsZ3/OFrnv6iw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XUEDa_fvHu_b4t4PlqPuyQ8"
+  },
+  "latency_ms": 2624,
+  "cost_usd": 0.0002
+}

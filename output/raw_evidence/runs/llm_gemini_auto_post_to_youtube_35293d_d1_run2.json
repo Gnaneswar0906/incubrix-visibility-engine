@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow and **auto-post to YouTube**, the most efficient approach combines AI-powered editing and repurposing tools with dedicated scheduling platforms. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to automate your YouTube publishing pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo achieve a seamless auto-posting workflow, you generally need two types of tools: **Creation/Repurposing tools** (to make the videos) and **Scheduling/Automation tools** (to auto-post them).\n\n#### A. Content Creation & Repurposing Tools\n*   **Opus Clip:** An industry favorite for generative AI video repurposing. It takes long-form videos, analyzes them, extracts the most engaging hooks, and automatically reframes them into viral-ready YouTube Shorts with captions and emojis. \n*   **CapCut (Desktop/Mobile",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow and **auto-post to YouTube**, the most efficient approach combines AI-powered editing and repurposing tools with dedicated scheduling platforms. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to automate your YouTube publishing pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo achieve a seamless auto-posting workflow, you generally need two types of tools: **Creation/Repurposing tools** (to make the videos) and **Scheduling/Automation tools** (to auto-post them).\n\n#### A. Content Creation & Repurposing Tools\n*   **Opus Clip:** An industry favorite for generative AI video repurposing. It takes long-form videos, analyzes them, extracts the most engaging hooks, and automatically reframes them into viral-ready YouTube Shorts with captions and emojis. \n*   **CapCut (Desktop/Mobile",
+              "thoughtSignature": "Eo4BCosBAWkUfROR/1v58o484HIhOchw9YcJzsj6/AUibZuKzsDdQoJhSsufYK/O9hfz0LuqkXp4ZgJGsBc4sfUnjFVHhIRuipULGkenpwm1j0DPM5Hn2LyYFYPKC9JR3iu2U3OKM6BlFFBg596/25a2ZP7ShBV69mV8jqVqF+wIOskntVe2ZsgacCA659WahA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "wT4Da_OqNq7Tz7sPqYbs0QU"
+  },
+  "latency_ms": 6756,
+  "cost_usd": 0.0002
+}

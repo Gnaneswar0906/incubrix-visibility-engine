@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs submagic",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Submagic"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Submagic** is a common dilemma because while both fall under the \"AI-driven short-form video\" umbrella, they serve fundamentally different purposes in your workflow.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry options.\n\n### \ud83c\udfaf Quick Verdict: Which One Should You Choose?\n\n| Feature | **Opus Clip** | **Submagic** |\n| :--- | :--- | :--- |\n| **Primary Goal** | **Repurposing**: Turning long videos into multiple shorts. | **Enhancement**: Making existing clips more engaging with captions/graphics. |\n| **",
+  "raw_payload": {
+    "id": "chatcmpl-8eb5597c-6924-4b26-8974-c04af16e607b",
+    "object": "chat.completion",
+    "created": 1795376742,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Submagic** is a common dilemma because while both fall under the \"AI-driven short-form video\" umbrella, they serve fundamentally different purposes in your workflow.\n\nHere\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry options.\n\n### \ud83c\udfaf Quick Verdict: Which One Should You Choose?\n\n| Feature | **Opus Clip** | **Submagic** |\n| :--- | :--- | :--- |\n| **Primary Goal** | **Repurposing**: Turning long videos into multiple shorts. | **Enhancement**: Making existing clips more engaging with captions/graphics. |\n| **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054479411,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006944979,
+      "completion_tokens": 150,
+      "completion_time": 0.30053753,
+      "total_tokens": 228,
+      "total_time": 0.307482509
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82cnzmfe4ptv0bq1g2dhrh6",
+      "seed": 347904802
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1224,
+  "cost_usd": 0.0002
+}

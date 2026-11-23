@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Quick\u2011Start Guide: Editing a Video from a Transcript (when the \u201conline transcript",
+  "raw_payload": {
+    "id": "chatcmpl-551001cc-a543-4508-aad5-ac3446bdb739",
+    "object": "chat.completion",
+    "created": 1795376556,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Quick\u2011Start Guide: Editing a Video from a Transcript (when the \u201conline transcript",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They also want citations of authoritative web sources if available. Need to answer as an AI assistant. Should provide suggestions for editing video using transcript online not working. Provide workflow steps, alternatives, and mention tools. Provide citations with links.\n\nWe must ensure compliance: no disallowed content. Provide helpful info. Use markdown, bullet points, maybe tables.\n\nCite sources: can reference official websites, reviews, articles. Use footnotes.\n\nProceed."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155466076,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006153654,
+      "completion_tokens": 150,
+      "completion_time": 0.308163193,
+      "total_tokens": 286,
+      "total_time": 0.314316847,
+      "completion_tokens_details": {
+        "reasoning_tokens": 122
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82cg9wze9f8xxcdr1szm6cg",
+      "seed": 657614581
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3072,
+  "cost_usd": 0.0002
+}

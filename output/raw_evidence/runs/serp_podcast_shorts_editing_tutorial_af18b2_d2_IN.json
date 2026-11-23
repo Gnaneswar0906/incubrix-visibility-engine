@@ -1,0 +1,84 @@
+{
+  "query": "podcast shorts editing tutorial",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=lo2T9eMFKNA",
+  "competitors_named": "CapCut",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts editing tutorial",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Video Podcast Editing Made Simple: Full Tutorial for Beginners",
+        "link": "https://www.youtube.com/watch?v=lo2T9eMFKNA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn my complete editing workflow for video podcasts using Riverside! From AI tools to streamline edits, to creating vertical clips for Reels\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Podcast Shorts Kaise Banaye ? Shorts Editing Tutorial",
+        "link": "https://www.youtube.com/watch?v=u6dEoWmvS6E",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How To Edit Podcast Reels In Capcut. The Ultimate Guide To Make Podcast Shorts Like A PRO",
+        "position": 2
+      },
+      {
+        "title": "How to Make Podcast Clips for YouTube Shorts with AI ...",
+        "link": "https://www.youtube.com/watch?v=FIbTNCEJ0p0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Recording remote podcasts with local 4K video and separate tracks \u2022 Automatically finding strong moments and short clips \u2022 Light editing\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "How to Repurpose Podcast into Shorts | DaVinci Resolve Advance Reel ...",
+        "link": "https://www.youtube.com/watch?v=RXQOmQGJK34",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to Repurpose Podcast into Shorts | DaVinci Resolve Advance Reel Editing Tutorial \u00b7 Comments.",
+        "position": 4
+      },
+      {
+        "title": "Podcast Editing and Production Tips",
+        "link": "https://www.youtube.com/playlist?list=PL3imbTXUSRjQ_pUIJLsy9aKIPZFYN7E2E",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Podcast Editing and Production Tips. How to Remove Pops in Your Podcast Recording. Between Editing, Mixing, and Mastering a Podcast?",
+        "position": 5
+      },
+      {
+        "title": "A Guide for Editing Your Video Podcast",
+        "link": "https://www.bhphotovideo.com/explora/video/tips-and-solutions/a-guide-for-editing-your-video-podcast",
+        "displayedLink": "https://www.bhphotovideo.com \u203a explora \u203a ... \u203a a-guide-for-editing-your-vi...",
+        "snippet": "We're exploring the best and most effective methods for editing a video podcast, whether you're cutting it live or piecing it together after ...",
+        "date": "22 Jul 2025",
+        "position": 6
+      },
+      {
+        "title": "Viral Podcast Reel Editing in Premiere Pro | Minimal Text Animation Tutorial",
+        "link": "https://www.youtube.com/watch?v=w_Epv0DBAiE&vl=en-IN",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this Premiere Pro tutorial, I'll show you how to create a clean, minimal, viral-style podcast reel using animated text that appears word-by-\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "How to Turn Podcast Episodes Into Short-Form Video Clips",
+        "link": "https://www.tiktok.com/@socialgeminis/video/7394375912818494738",
+        "displayedLink": "https://www.tiktok.com \u203a @socialgeminis \u203a video \u203a 7394375912818494738",
+        "position": 8
+      },
+      {
+        "title": "How to Turn a Remote Podcast Into YouTube Shorts (2026 Guide)",
+        "link": "https://medium.com/@andrew_best/how-to-turn-a-remote-podcast-into-youtube-shorts-2026-guide-aa8228946f54",
+        "displayedLink": "https://medium.com \u203a @andrew_best \u203a how-to-turn-a-remote-podcas...",
+        "snippet": "The easiest way to record a clean double-ender podcast, clip the best moments, and turn them into vertical Shorts with AI subtitles.",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

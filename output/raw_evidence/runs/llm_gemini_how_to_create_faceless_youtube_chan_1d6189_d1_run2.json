@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel using AI is one of the most accessible and popular business models for content creators today. By leveraging artificial intelligence for scripting, voiceovers, visuals, and editing, you can produce high-retention videos with minimal overhead. \n\nAs a content creator in India (IN), you have access to a robust ecosystem of global AI tools, many of which offer generous free tiers. Here is a comprehensive guide to building your faceless YouTube channel for free, featuring the best software, workflows, and industry-standard tools.\n\n---\n\n### Phase 1: The Ultimate Free AI Tech Stack & Workflow\n\nTo run a faceless channel efficiently, your workflow should be divided into five stages: **Niche Selection, Scripting, Voiceover, Visual Generation, and Editing.**\n\n#### 1. Niche Selection & Strategy\n*   **The Approach:** Choose high-CPM (Cost Per Mille) or high-engagement niches like finance, AI tutorials",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Creating a faceless YouTube channel using AI is one of the most accessible and popular business models for content creators today. By leveraging artificial intelligence for scripting, voiceovers, visuals, and editing, you can produce high-retention videos with minimal overhead. \n\nAs a content creator in India (IN), you have access to a robust ecosystem of global AI tools, many of which offer generous free tiers. Here is a comprehensive guide to building your faceless YouTube channel for free, featuring the best software, workflows, and industry-standard tools.\n\n---\n\n### Phase 1: The Ultimate Free AI Tech Stack & Workflow\n\nTo run a faceless channel efficiently, your workflow should be divided into five stages: **Niche Selection, Scripting, Voiceover, Visual Generation, and Editing.**\n\n#### 1. Niche Selection & Strategy\n*   **The Approach:** Choose high-CPM (Cost Per Mille) or high-engagement niches like finance, AI tutorials",
+              "thoughtSignature": "Eo4BCosBAWkUfRPakjDgRZZaFPXS6ntHuKOmhlJsYid1+W/dtn4uW1eAK4NSguUcF6yiah0o5bhl/9nuqD/w835qSju53eCa9iYk7weV/1P/NnEEzngi579XdZLH1IPyDdmEk2MwNoHatS3mGlTO3f0FuY+44m3jKMsd+9aESR/AvDxXMSUvD6lJQclRBpsj5w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 69,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 69
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "KEEDa7elO8KPz7sPvZPEwQg"
+  },
+  "latency_ms": 6945,
+  "cost_usd": 0.0002
+}

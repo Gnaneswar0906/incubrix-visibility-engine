@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely dealing with specific considerations regarding data privacy (GDPR), royalty-free music libraries, and the competitive nature of the short-form video market.\n\nWhen comparing **Opus Clip** and **CapCut Pro**, it is important to understand tha",
+      "cost_usd": 0.0002,
+      "latency_ms": 1451,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_pro_e3fd05_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, location GB, providing recommendation comparing Opus Clip vs CapCut Pro. Also recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow p",
+      "cost_usd": 0.0002,
+      "latency_ms": 2329,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_pro_e3fd05_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_capcut_pro_e3fd05_d1_GB.json"
+}

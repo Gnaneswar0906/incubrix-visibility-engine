@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you are in a prime position to leverage the current boom in short-form video (TikTok, Instagram Reels, YouTube Shorts). The key to success is efficiency: turning long-form podcasts into multiple viral-ready clips without spending hours on manual editing.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options to streamline your \"podcast shorts\" production.\n\n### \ud83c\udfc6 Top Recommended Tools for Podcast-to-Shorts Conversion\n\n#### 1. Opus Clip (Best for AI Automation & Virality)\n*   **Why it\u2019s top-tier:** Opus Clip is currently the industry leader for automated repurposing. It doesn\u2019t just cut",
+  "raw_payload": {
+    "id": "chatcmpl-ea3d4a9f-45a7-4da1-96fb-94c7d638097d",
+    "object": "chat.completion",
+    "created": 1795375439,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you are in a prime position to leverage the current boom in short-form video (TikTok, Instagram Reels, YouTube Shorts). The key to success is efficiency: turning long-form podcasts into multiple viral-ready clips without spending hours on manual editing.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options to streamline your \"podcast shorts\" production.\n\n### \ud83c\udfc6 Top Recommended Tools for Podcast-to-Shorts Conversion\n\n#### 1. Opus Clip (Best for AI Automation & Virality)\n*   **Why it\u2019s top-tier:** Opus Clip is currently the industry leader for automated repurposing. It doesn\u2019t just cut"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054116843,
+      "prompt_tokens": 75,
+      "prompt_time": 0.005077647,
+      "completion_tokens": 150,
+      "completion_time": 0.330859855,
+      "total_tokens": 225,
+      "total_time": 0.335937502
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82be7fce0etg4076n3e91mn",
+      "seed": 223231458
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1565,
+  "cost_usd": 0.0002
+}

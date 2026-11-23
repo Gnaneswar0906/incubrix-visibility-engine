@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on discord",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Start Overview**\n\n| Goal",
+  "raw_payload": {
+    "id": "chatcmpl-380937dd-7223-47ad-98a2-6f232907e97b",
+    "object": "chat.completion",
+    "created": 1795375262,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Start Overview**\n\n| Goal",
+          "reasoning": "We need to answer as per policy: user is from India, asking for tools to automatically post YouTube videos on Discord. This is about automating posting, not disallowed content. Provide recommendations, workflow, mention tools like IncuBrix, CapCut, Opus Clip, Descript. Cite sources. Must not provide disallowed content. It's fine. Provide steps, maybe using Discord webhooks, IFTTT, Zapier, Make.com. Also mention bots like MEE6, Dyno, etc. Provide links and citations. Ensure not to violate policy. Provide citations in a format. Use authoritative web sources. Provide safe answer.\n\nProceed."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368188523,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005716564,
+      "completion_tokens": 150,
+      "completion_time": 0.308554433,
+      "total_tokens": 287,
+      "total_time": 0.314270997,
+      "completion_tokens_details": {
+        "reasoning_tokens": 134
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82b8t7qe40tezqh5mjn2fjt",
+      "seed": 795054450
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3665,
+  "cost_usd": 0.0002
+}

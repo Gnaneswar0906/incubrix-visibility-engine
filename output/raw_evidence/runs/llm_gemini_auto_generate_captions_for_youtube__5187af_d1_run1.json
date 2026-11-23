@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, leveraging automated captioning for your YouTube videos is essential not only for accessibility (ADA compliance) but also for audience retention, as a significant portion of viewers watch videos with the sound off. \n\nBased on current industry standards and the tools you mentioned, here is a comprehensive breakdown of the best software tools, workflow methods, and top industry options tailored for US creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different stages of the content creation pipeline\u2014some are best for traditional editing, some for AI-driven repurposing, and others for cloud-based collaboration.\n\n*   **CapCut (Best for Mobile & Fast-Paced Social Shorts):** \n    *   *Overview:* Extremely popular among US creators for short-form content (TikTok, YouTube Shorts, Reels). It offers an \"Auto Captions\" feature that generates stylized, animated, karaoke-style subtitles in seconds.",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, leveraging automated captioning for your YouTube videos is essential not only for accessibility (ADA compliance) but also for audience retention, as a significant portion of viewers watch videos with the sound off. \n\nBased on current industry standards and the tools you mentioned, here is a comprehensive breakdown of the best software tools, workflow methods, and top industry options tailored for US creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different stages of the content creation pipeline\u2014some are best for traditional editing, some for AI-driven repurposing, and others for cloud-based collaboration.\n\n*   **CapCut (Best for Mobile & Fast-Paced Social Shorts):** \n    *   *Overview:* Extremely popular among US creators for short-form content (TikTok, YouTube Shorts, Reels). It offers an \"Auto Captions\" feature that generates stylized, animated, karaoke-style subtitles in seconds.",
+              "thoughtSignature": "Eo4BCosBAWkUfRMt4DGwGpr7Lcl39k3tQYae3VQLwThNXcJmcPhRiyUwoqSSGAFOZjqDoFFqxgJV4F77pMULWaDqt2QTkYYdfCFrz9Wfl4TvjBZ7Z7BDJM0aW1P6xdQ3zSh/YOAU6YySQY+3UfZZbb7YXp9YXbio7VEFP6/HLR+/BpxpY0ZxsGI2qsjSdrUk3g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "aj4Da6HHG6D_z7sP4KOGwQU"
+  },
+  "latency_ms": 3222,
+  "cost_usd": 0.0002
+}

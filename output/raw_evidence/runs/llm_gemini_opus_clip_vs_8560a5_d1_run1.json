@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator looking into **Opus Clip** and its competitors, here is a comprehensive breakdown of the best AI video repurposing tools, industry alternatives, and an optimized workflow to maximize your output for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\n---\n\n### 1. Understanding Opus Clip & Direct Alternatives\nOpus Clip is a pioneer in generative AI video clipping\u2014taking long-form videos (like podcasts, tutorials, or webinars) and automatically cutting them into viral-style short clips with captions, emojis, and active speaker tracking. However, depending on your budget, editing control, and specific niche, you might want to look at alternatives.\n\nHere is how the top industry options stack up:\n\n*   **Opus Clip:** Best for speed and \"hands-off\" curation. It uses an AI virality score to rank clips based on hooks, narrative completeness, and trending topics.\n*",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator looking into **Opus Clip** and its competitors, here is a comprehensive breakdown of the best AI video repurposing tools, industry alternatives, and an optimized workflow to maximize your output for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\n---\n\n### 1. Understanding Opus Clip & Direct Alternatives\nOpus Clip is a pioneer in generative AI video clipping\u2014taking long-form videos (like podcasts, tutorials, or webinars) and automatically cutting them into viral-style short clips with captions, emojis, and active speaker tracking. However, depending on your budget, editing control, and specific niche, you might want to look at alternatives.\n\nHere is how the top industry options stack up:\n\n*   **Opus Clip:** Best for speed and \"hands-off\" curation. It uses an AI virality score to rank clips based on hooks, narrative completeness, and trending topics.\n*",
+              "thoughtSignature": "Eo4BCosBAWkUfRPTh9Iz5Fy9lHLss52I3X+bJ5KHu4uUiTGw1hJS/jwS9DI5WSrA0OVlAEjq0M6TcyuXcQUuFBFcvrhM26p8wXgHlGTy2klved1SOyUfkjtHg2buu9PXu2qF139N0tqfQJzpdM52ilLlkROV67KSpjgUQ4XEmrIkK5jeFBwYIVaUBEp4TX/yFg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Vj8Da9n4NfXl4t4Pru3C2Qc"
+  },
+  "latency_ms": 3368,
+  "cost_usd": 0.0002
+}

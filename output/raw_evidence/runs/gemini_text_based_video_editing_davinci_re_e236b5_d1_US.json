@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'text based video editing davinci resolve' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 331
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For content creators in the US looking to combine the power of professional color grading and finishing in **DaVinci Resolve** with the speed of **text-based video editing**, the current landscape offers incredible AI-driven tools. \n\nWhile DaVinci Resolve Studio features its own robust built-in text",
+      "cost_usd": 0.0002,
+      "latency_ms": 3743,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editing_davinci_re_e236b5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_based_video_editing_davinci_re_e236b5_d1_US.json"
+}

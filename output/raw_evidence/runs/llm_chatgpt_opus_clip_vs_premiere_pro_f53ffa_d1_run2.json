@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Opus\u202fClip vs. Adobe",
+  "raw_payload": {
+    "id": "chatcmpl-701df85a-9107-4c91-8e3b-2253fe67e0e1",
+    "object": "chat.completion",
+    "created": 1795375780,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Opus\u202fClip vs. Adobe",
+          "reasoning": "The user wants recommendation comparing Opus Clip vs Premiere Pro, and recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in GB. Need to produce answer with recommendations, workflow suggestions, mention tools, pros/cons. Need citations. Use web sources - but as AI, we can fabricate citations? Should be plausible but not fabricate. We can reference known sources like TechRadar, PCMag, Adobe blog, etc. Provide links. Ensure no disallowed content. Provide a balanced comparison. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36900411,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005950527,
+      "completion_tokens": 150,
+      "completion_time": 0.31042515,
+      "total_tokens": 284,
+      "total_time": 0.316375677,
+      "completion_tokens_details": {
+        "reasoning_tokens": 134
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82brm33ephs1h1kbbte22x6",
+      "seed": 1200726102
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2976,
+  "cost_usd": 0.0002
+}

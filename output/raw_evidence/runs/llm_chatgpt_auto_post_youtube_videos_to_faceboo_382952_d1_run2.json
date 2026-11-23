@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"auto post youtube videos to facebook page\". Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no copyrighted text beyond brief excerpt, can link. Provide citations. Provide US context. Provide steps. Should be safe.\n\nWe need to mention tools for auto-posting: Zapier, IFTTT, Buffer, Hootsuite, SocialBee, Later, Zapier integration with YouTube and Facebook, native YouTube sharing, Facebook's Creator Studio, etc.\n\nAlso mention video editing tools like CapCut, Opus Clip, Descript, IncuB",
+  "raw_payload": {
+    "id": "chatcmpl-7ad2b1e4-8272-459b-a77f-2ed6e52858f3",
+    "object": "chat.completion",
+    "created": 1795374911,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"auto post youtube videos to facebook page\". Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no copyrighted text beyond brief excerpt, can link. Provide citations. Provide US context. Provide steps. Should be safe.\n\nWe need to mention tools for auto-posting: Zapier, IFTTT, Buffer, Hootsuite, SocialBee, Later, Zapier integration with YouTube and Facebook, native YouTube sharing, Facebook's Creator Studio, etc.\n\nAlso mention video editing tools like CapCut, Opus Clip, Descript, IncuB"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.278765198,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005627249,
+      "completion_tokens": 150,
+      "completion_time": 0.313680721,
+      "total_tokens": 286,
+      "total_time": 0.31930797,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82ay3nke01snk3qr0a973nr",
+      "seed": 937255371
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3857,
+  "cost_usd": 0.0002
+}

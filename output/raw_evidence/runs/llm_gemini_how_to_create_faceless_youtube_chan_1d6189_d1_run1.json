@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel using AI is one of the most popular and cost-effective methods for content creators today. By leveraging free tools for scripting, voiceovers, visuals, and editing, you can launch a channel with zero upfront financial investment. \n\nHere is a comprehensive guide tailored for creators in **India (IN)**, detailing the best free software tools, an optimized workflow, and key industry options to get you started.\n\n---\n\n### Part 1: The Best Free Software Tools\n\nTo build a faceless channel without spending money, you need a toolkit that covers scriptwriting, voice synthesis, stock media, and video editing.\n\n1. **Scriptwriting & Ideation:**\n   * **ChatGPT (OpenAI) or Google Gemini:** Essential for generating video ideas, writing engaging hooks, and full video scripts. Both offer robust free tiers.\n2. **AI Voiceover (Text-to-Speech):**\n   * **ElevenLabs:**",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Creating a faceless YouTube channel using AI is one of the most popular and cost-effective methods for content creators today. By leveraging free tools for scripting, voiceovers, visuals, and editing, you can launch a channel with zero upfront financial investment. \n\nHere is a comprehensive guide tailored for creators in **India (IN)**, detailing the best free software tools, an optimized workflow, and key industry options to get you started.\n\n---\n\n### Part 1: The Best Free Software Tools\n\nTo build a faceless channel without spending money, you need a toolkit that covers scriptwriting, voice synthesis, stock media, and video editing.\n\n1. **Scriptwriting & Ideation:**\n   * **ChatGPT (OpenAI) or Google Gemini:** Essential for generating video ideas, writing engaging hooks, and full video scripts. Both offer robust free tiers.\n2. **AI Voiceover (Text-to-Speech):**\n   * **ElevenLabs:**",
+              "thoughtSignature": "Eo4BCosBAWkUfROHJImzZmirykAvi2zfRR/c0EV1C5D+w+D2Jo4AIkQL/FAWxRdvfjhrmZeeiUx8d5NSosZLv18dBGvY69X2k/rTw5e+dBoB7YdzHiB5DURqmd7dmkKFiq7rjArBJQ+ACl8+vPHO8NvboRZp+T/gy2Qh0Nm4Ta0TJnUB6QMK7MX0w4A0f7s7Ng=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 69,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 69
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "JkEDa-D-L_GN694PkaTl8Qs"
+  },
+  "latency_ms": 2387,
+  "cost_usd": 0.0002
+}

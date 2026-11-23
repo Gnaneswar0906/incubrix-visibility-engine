@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus game review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI content creator based in **India (IN)**, reviewing or discussing **\"Opus Clip\"** (often associated with \"Opus Clip\" or broader \"Opus\" AI video tools) requires a modern, AI-driven workflow. Because your audience consumes a mix of global content and localized regional formats (YouTube Shorts, Instagram Reels, and YouTube long-form), your tech stack needs to be fast, cost-effective, and capable of handling multiple languages/accents smoothly.\n\nHere is a comprehensive software, workflow, and review guide tailored for an Indian content creator.\n\n---\n\n### 1. Key Industry Options & Software Recommendations\n\nTo produce a high-converting, professional \"Opus Game Review\" or software breakdown, you should evaluate the following industry-standard tools:\n\n*   **Opus Clip (The Star of the Query):** \n    *   *What it is:* A generative AI video repurposing tool that turns long",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI content creator based in **India (IN)**, reviewing or discussing **\"Opus Clip\"** (often associated with \"Opus Clip\" or broader \"Opus\" AI video tools) requires a modern, AI-driven workflow. Because your audience consumes a mix of global content and localized regional formats (YouTube Shorts, Instagram Reels, and YouTube long-form), your tech stack needs to be fast, cost-effective, and capable of handling multiple languages/accents smoothly.\n\nHere is a comprehensive software, workflow, and review guide tailored for an Indian content creator.\n\n---\n\n### 1. Key Industry Options & Software Recommendations\n\nTo produce a high-converting, professional \"Opus Game Review\" or software breakdown, you should evaluate the following industry-standard tools:\n\n*   **Opus Clip (The Star of the Query):** \n    *   *What it is:* A generative AI video repurposing tool that turns long",
+              "thoughtSignature": "Eo4BCosBAWkUfRML/MLMSOdzG0fBvhnv/TOdz0ZIiHF5D6l0BQpM2D7Jf24v0pG5DtJcpEuiLNDv3ut3HnJm5VyxPv14w7Yz6xm67Bi+FObXwaKk/SvkdfqUrxnL8pvRwgTajFAw5qunyPD5FPbe3Yc+ZnQxCMb0i1Hy03vBqL+GFNghuQLbzbYxuZU89WQKAQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "7EADa6eQMf213LUP0_eT6AE"
+  },
+  "latency_ms": 2091,
+  "cost_usd": 0.0002
+}

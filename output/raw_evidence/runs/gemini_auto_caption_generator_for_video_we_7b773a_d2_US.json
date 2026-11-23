@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'auto caption generator for video website' in US, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 465
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US, choosing the right auto-caption generator depends heavily on your platform (TikTok/Reels vs. YouTube/Podcasts), your editing style, and whether you prefer automated speed or deep manual control. \n\nHere is a comprehensive breakdown of the best software tools, key indus",
+      "cost_usd": 0.0002,
+      "latency_ms": 2454,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_we_7b773a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_we_7b773a_d2_US.json"
+}

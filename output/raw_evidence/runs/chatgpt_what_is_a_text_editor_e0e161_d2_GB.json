@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is a text editor",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: what is a text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if availa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2805,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_a_text_editor_e0e161_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: \"what is a text editor\" and recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. But those are video editing tools. The query: \"what is a text editor\". They might want a definition and recommendation of text edit",
+      "cost_usd": 0.0002,
+      "latency_ms": 6137,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_a_text_editor_e0e161_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_is_a_text_editor_e0e161_d2_GB.json"
+}

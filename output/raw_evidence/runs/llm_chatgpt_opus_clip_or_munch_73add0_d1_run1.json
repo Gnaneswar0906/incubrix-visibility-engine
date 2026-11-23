@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or munch",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They want authoritative web sources cited if available. Need to answer as an AI assistant for a content creator in GB. Provide recommendations, workflow steps, pros/cons, pricing, integration, etc. Cite sources with links. Ensure compliance with policy: no disallowed content. Provide citations in a proper format. Use markdown. Provide a brief overview of each tool, then suggest workflow. Also mention alternatives like Adobe Premiere, Final Cut Pro, DaVinci Resolve, etc. Provide UK-specific considerations like GDPR, licensing. Provide links to official sites. Provide citations with footnotes",
+  "raw_payload": {
+    "id": "chatcmpl-f6589097-c7ca-4658-bb09-571431461c75",
+    "object": "chat.completion",
+    "created": 1795375768,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They want authoritative web sources cited if available. Need to answer as an AI assistant for a content creator in GB. Provide recommendations, workflow steps, pros/cons, pricing, integration, etc. Cite sources with links. Ensure compliance with policy: no disallowed content. Provide citations in a proper format. Use markdown. Provide a brief overview of each tool, then suggest workflow. Also mention alternatives like Adobe Premiere, Final Cut Pro, DaVinci Resolve, etc. Provide UK-specific considerations like GDPR, licensing. Provide links to official sites. Provide citations with footnotes"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157107492,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005592608,
+      "completion_tokens": 150,
+      "completion_time": 0.31224335,
+      "total_tokens": 283,
+      "total_time": 0.317835958,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82br8ebebv849fqzhb407ec",
+      "seed": 1686176751
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2700,
+  "cost_usd": 0.0002
+}

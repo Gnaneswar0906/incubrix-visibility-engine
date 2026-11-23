@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator based in the US, automating your YouTube Shorts workflow is critical for scaling output without sacrificing quality. The \"best\" stack depends on whether you want to repurpose long-form content or create fully independent short-form videos.\n\nHere\u2019s a curated recommendation of top software tools, optimized workflow methods, and key industry options, grounded in current industry standards.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Posting & Creation\n\n#### 1. **Opus Clip** \u2013 *Best for AI-Powered Repurposing*\n*   **Why it\u2019s top-tier:** Opus Clip uses AI to analyze long-form videos, identify viral hooks, and auto-edit them into short clips with captions, emojis, and B-roll.",
+  "raw_payload": {
+    "id": "chatcmpl-0d0d7336-6c8f-44fe-a70d-b9c7a05c5ce5",
+    "object": "chat.completion",
+    "created": 1795374890,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a content creator based in the US, automating your YouTube Shorts workflow is critical for scaling output without sacrificing quality. The \"best\" stack depends on whether you want to repurpose long-form content or create fully independent short-form videos.\n\nHere\u2019s a curated recommendation of top software tools, optimized workflow methods, and key industry options, grounded in current industry standards.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Posting & Creation\n\n#### 1. **Opus Clip** \u2013 *Best for AI-Powered Repurposing*\n*   **Why it\u2019s top-tier:** Opus Clip uses AI to analyze long-form videos, identify viral hooks, and auto-edit them into short clips with captions, emojis, and B-roll."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054502797,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004955633,
+      "completion_tokens": 150,
+      "completion_time": 0.285682705,
+      "total_tokens": 226,
+      "total_time": 0.290638338
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82axevqevf94rke81690k90",
+      "seed": 2005051817
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1730,
+  "cost_usd": 0.0002
+}

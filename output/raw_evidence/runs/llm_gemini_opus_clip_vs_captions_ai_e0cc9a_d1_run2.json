@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, evaluating **Opus Clip** versus **Captions AI** comes down to your primary goal: are you looking to mass-repurpose long-form videos into viral shorts, or are you focused on recording, enhancing, and styling talking-head videos with dynamic, studio-grade captions? \n\nBelow is a detailed comparison of Opus Clip and Captions AI, along with industry alternatives, recommended workflows, and authoritative context.\n\n---\n\n### 1. Opus Clip vs. Captions AI: Head-to-Head\n\n#### **Opus Clip**\n*   **Best For:** Automated long-to-short repurposing (Podcasts, webinars, YouTube videos to TikTok/Reels/Shorts).\n*   **Core Strength:** Generative AI that watches your long video, identifies the most engaging hooks, cuts them into stand-alone clips, adds captions, and even scores them based",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, evaluating **Opus Clip** versus **Captions AI** comes down to your primary goal: are you looking to mass-repurpose long-form videos into viral shorts, or are you focused on recording, enhancing, and styling talking-head videos with dynamic, studio-grade captions? \n\nBelow is a detailed comparison of Opus Clip and Captions AI, along with industry alternatives, recommended workflows, and authoritative context.\n\n---\n\n### 1. Opus Clip vs. Captions AI: Head-to-Head\n\n#### **Opus Clip**\n*   **Best For:** Automated long-to-short repurposing (Podcasts, webinars, YouTube videos to TikTok/Reels/Shorts).\n*   **Core Strength:** Generative AI that watches your long video, identifies the most engaging hooks, cuts them into stand-alone clips, adds captions, and even scores them based",
+              "thoughtSignature": "Eo4BCosBAWkUfRM6IpnauWUHxFT2VMEwd9ot8JSLlixyczJb7Q3rh7vyWhJsalEMo7ehBYKi7HdPBftWtE2KLVkD28OpujFcEw4Se1mpes2EgCEmVsq2U5TBjzi81K9a8dP6fbyWUUDY/Kbmdc7MrorvpTVw3nItqE+JQc3a/qU5ibRWCvEJUq9nzFcM0ShZXw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ez8Da4vnBZSm694Plbfj6Qs"
+  },
+  "latency_ms": 2374,
+  "cost_usd": 0.0002
+}

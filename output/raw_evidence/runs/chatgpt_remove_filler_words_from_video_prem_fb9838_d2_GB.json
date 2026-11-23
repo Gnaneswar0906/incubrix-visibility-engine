@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: remove filler words from video in Premiere Pro. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. We need to cite authoritative sources. We should mention how to remove filler words manually",
+      "cost_usd": 0.0002,
+      "latency_ms": 5635,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_prem_fb9838_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are in a good position to leverage both global AI tools and robust local workflows. Removing filler words (like \"um,\" \"uh,\" \"like,\" \"you know\") is crucial for tightening your narrative, but doing it manually in Premiere Pro is tedious.\n\nHere are the b",
+      "cost_usd": 0.0002,
+      "latency_ms": 1440,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_prem_fb9838_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_prem_fb9838_d2_GB.json"
+}

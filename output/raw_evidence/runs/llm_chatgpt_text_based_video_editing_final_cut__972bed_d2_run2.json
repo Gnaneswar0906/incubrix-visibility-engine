@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing final cut pro",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for text based video editing with Final Cut Pro. They are a content creator located in India (IN). They ask to recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. It's a request for software recommendations, not disallowed. Provide info, citations. Must not fabricate citations; we can provide generic references like \"According to TechRadar\" etc. Should we link? We can mention URLs.\n\nWe should ensure not to provide disallowed content. It's fine.\n\nWe should mention Final Cut Pro as a tool for text-based video editing, and other tools like",
+  "raw_payload": {
+    "id": "chatcmpl-3d14d593-ccf7-4eda-9b41-e4aa1b7f01a1",
+    "object": "chat.completion",
+    "created": 1795376909,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for text based video editing with Final Cut Pro. They are a content creator located in India (IN). They ask to recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. It's a request for software recommendations, not disallowed. Provide info, citations. Must not fabricate citations; we can provide generic references like \"According to TechRadar\" etc. Should we link? We can mention URLs.\n\nWe should ensure not to provide disallowed content. It's fine.\n\nWe should mention Final Cut Pro as a tool for text-based video editing, and other tools like"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318132105,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005870204,
+      "completion_tokens": 150,
+      "completion_time": 0.313051444,
+      "total_tokens": 286,
+      "total_time": 0.318921648,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82cv2vnebq9hg7shy7w81n9",
+      "seed": 2033403381
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3174,
+  "cost_usd": 0.0002
+}

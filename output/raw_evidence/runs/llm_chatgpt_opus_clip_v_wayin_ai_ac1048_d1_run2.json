@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip v wayin ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript) for \"opus clip v wayin ai\". Possibly they are looking for comparison between Opus Clip and Wayin AI? They ask to recommend best software tools, workflow methods, mention key industry options, and cite authoritative web sources if available. Must comply with policies. Provide info about these tools, their features, pros/cons, workflow suggestions for content creators in India. Provide citations (we can simulate citations). Must not fabricate sources, but can reference known sites like TechCrunch, CNET, etc. Provide URLs. Should be safe. Provide a structured answer.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-aad9fa1c-8ee2-4117-8271-15ea94299046",
+    "object": "chat.completion",
+    "created": 1795375359,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript) for \"opus clip v wayin ai\". Possibly they are looking for comparison between Opus Clip and Wayin AI? They ask to recommend best software tools, workflow methods, mention key industry options, and cite authoritative web sources if available. Must comply with policies. Provide info about these tools, their features, pros/cons, workflow suggestions for content creators in India. Provide citations (we can simulate citations). Must not fabricate sources, but can reference known sites like TechCrunch, CNET, etc. Provide URLs. Should be safe. Provide a structured answer.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158125359,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006243851,
+      "completion_tokens": 150,
+      "completion_time": 0.308410071,
+      "total_tokens": 285,
+      "total_time": 0.314653922,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82bbs48ekg96hyc019r5990",
+      "seed": 1500582416
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2513,
+  "cost_usd": 0.0002
+}

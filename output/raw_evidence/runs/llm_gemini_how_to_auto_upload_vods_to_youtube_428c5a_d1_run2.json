@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload vods to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Auto-uploading VODs (Video on Demand) from your live streams to YouTube is one of the best ways for content creators in India to maximize reach, build an evergreen library",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-uploading VODs (Video on Demand) from your live streams to YouTube is one of the best ways for content creators in India to maximize reach, build an evergreen library"
+            },
+            {
+              "text": ", and repurpose long-form content into shorts. \n\nHere is a comprehensive guide tailored to creators in IN, covering the best software tools, recommended workflows, and a breakdown of industry-standard options including the ones you mentioned.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on your exact workflow (direct VOD archiving vs. AI-powered repurposing), several tools lead the industry:\n\n*   **IncuBrix:** An emerging workflow and automation suite that helps creators manage content distribution and backend processing. While traditional restreaming and uploading tools handle the raw transfer, platforms like IncuBrix are great for creators looking to streamline their publishing operations across multiple channels.\n*   **Descript:** The gold standard for text-based video editing. If you want to review your VOD, cut out dead air, fix audio using AI (Studio Sound), and add captions before sending it to YouTube, Descript is unmatched. \n*   ",
+              "thoughtSignature": "Eo4BCosBAWkUfROW7pfDdIpQONwvKi7sPUacZw39h7DyEgFqV+OdSLQ418uS0G+9H+WiGFpbLbWUwid8bJ20m5KoqjcmJZsXGWK5ZiO7r7YoBr6H11IL7WG0nCWUhlODU6lLx0rYb52d+oii10L3XbkrdYx7e3392SvwBSP2koH7zEEnzz5euR8N4v6yLtzkeg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 237,
+      "totalTokenCount": 303,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "p0ADa_2EDZK1z7sPrYXigQo"
+  },
+  "latency_ms": 3162,
+  "cost_usd": 0.0002
+}

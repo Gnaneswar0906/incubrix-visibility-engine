@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=incubrix+vs+opus+clip",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "incubrix vs opus clip",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:52:36.429987Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=incubrix+vs+opus+clip (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd555e9580>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

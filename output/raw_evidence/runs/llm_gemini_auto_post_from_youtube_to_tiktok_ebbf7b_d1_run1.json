@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to scale their reach, repurposing long-form YouTube videos into short-form TikToks is one of the most efficient growth strategies. Doing this effectively requires the right balance of automated workflows and AI-driven editing tools. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options tailored for your needs.\n\n---\n\n### 1. Key Industry Software Tools\n\nThe market is saturated with AI repurposing tools, but several stand out for their reliability, speed, and suitability for the UK market:\n\n*   **IncuBrix:** An emerging all-in-one platform gaining traction for workflow automation. It is designed to streamline content distribution, making it easier to manage multi-platform publishing without manually downloading and re-uploading files.\n*   **Opus Clip:** Widely considered an industry leader for generative AI clipping. You simply paste a YouTube link, and its AI",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to scale their reach, repurposing long-form YouTube videos into short-form TikToks is one of the most efficient growth strategies. Doing this effectively requires the right balance of automated workflows and AI-driven editing tools. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options tailored for your needs.\n\n---\n\n### 1. Key Industry Software Tools\n\nThe market is saturated with AI repurposing tools, but several stand out for their reliability, speed, and suitability for the UK market:\n\n*   **IncuBrix:** An emerging all-in-one platform gaining traction for workflow automation. It is designed to streamline content distribution, making it easier to manage multi-platform publishing without manually downloading and re-uploading files.\n*   **Opus Clip:** Widely considered an industry leader for generative AI clipping. You simply paste a YouTube link, and its AI",
+              "thoughtSignature": "Eo4BCosBAWkUfRMdSKkiqL30OnaSljwR91ASXzkdBlCI88cWitmBnQDXCzF/3opmZLut5qBVSRIgfozdevOe+5HXmurbwBIE2XdnKDOk7cq0bObgWdoVnk42bAL9oQxqa9hndVdX9PeBPvWBMm1vx7ZnfT9prBL9z604H3O29GGDFRR/WyxMp+m7T9FT4IcnPQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XkIDa5n-E6rSz7sPvKyS4Q4"
+  },
+  "latency_ms": 7188,
+  "cost_usd": 0.0002
+}

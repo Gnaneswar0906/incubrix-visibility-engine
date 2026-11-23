@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can tell you that **text-based video editing** (editing video by editing a transcript) has completely revolutionized the post-production workflow. Instead of cutting waveforms on a traditional timeline, creators can now cut, copy, paste, and delete text just like a Google Doc, and the video updates automatically.\n\nHere is a comprehensive guide to the best tools, industry options, and an optimized workflow for editing video using transcripts online.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nDepending on whether you need a full editing suite, automated AI clipping, or quick social media formatting, several industry-leading tools stand out:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   **Best for:** Podcasters, talking-head YouTubers, and documentary creators.\n    *   **Why use it:** Descript pioneered text-based video",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can tell you that **text-based video editing** (editing video by editing a transcript) has completely revolutionized the post-production workflow. Instead of cutting waveforms on a traditional timeline, creators can now cut, copy, paste, and delete text just like a Google Doc, and the video updates automatically.\n\nHere is a comprehensive guide to the best tools, industry options, and an optimized workflow for editing video using transcripts online.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nDepending on whether you need a full editing suite, automated AI clipping, or quick social media formatting, several industry-leading tools stand out:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   **Best for:** Podcasters, talking-head YouTubers, and documentary creators.\n    *   **Why use it:** Descript pioneered text-based video",
+              "thoughtSignature": "Eo4BCosBAWkUfRP5R5BJio7FTTTXVrXhgSMYwCirGFlO/TQi2DklVUQsvBoU49alChK4iSp1uAY8QnKwZKo21aMb2AB83ANaBnyMQ76jn45tXxsWS/ZQ3hAVgLSnkYrKXMCaxdoPVcD6px3PHMSgbYexzmAYQ8WicEnookIZInUsJJYzekZoeSMCs6SUfJL58g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "JT4Da_KZBZfm694PgozR0A8"
+  },
+  "latency_ms": 3890,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to edit podcast shorts' in IN, popular recommendations include CapCut. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 338
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'how to edit podcast shorts' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 414
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_podcast_shorts_6dd837_d2_IN.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove words from a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"remove words from a video\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (UK). Should provide recommendations, workflow steps, mention free/paid, AI-based, etc. Cite sources (like URLs). Must be safe. Provide thorough answer. Use markdown. Provide citations. Could include links to official sites, reviews. Provide workflow: transcription, find word, cut, replace audio, etc. Also mention subtitles. Provide tips for UK creators (e.g., compliance with copyright). Provide mention of tools like Adobe Premiere Pro,",
+  "raw_payload": {
+    "id": "chatcmpl-ed93c8f0-af43-4172-be66-ee296d56a5fa",
+    "object": "chat.completion",
+    "created": 1795375563,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"remove words from a video\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (UK). Should provide recommendations, workflow steps, mention free/paid, AI-based, etc. Cite sources (like URLs). Must be safe. Provide thorough answer. Use markdown. Provide citations. Could include links to official sites, reviews. Provide workflow: transcription, find word, cut, replace audio, etc. Also mention subtitles. Provide tips for UK creators (e.g., compliance with copyright). Provide mention of tools like Adobe Premiere Pro,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369057713,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005382196,
+      "completion_tokens": 150,
+      "completion_time": 0.309895412,
+      "total_tokens": 284,
+      "total_time": 0.315277608,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82bhzp8e8t9t1gg15rrc2t8",
+      "seed": 628003062
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3318,
+  "cost_usd": 0.0002
+}

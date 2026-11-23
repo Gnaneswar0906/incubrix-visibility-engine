@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is from India (IN). They ask: \"You are an AI assistant answering a query from a content creator located in IN. Query: camtasia text-based video editing Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite",
+      "cost_usd": 0.0002,
+      "latency_ms": 3029,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_camtasia_text_based_video_editing_f65de6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India, you are sitting at the perfect intersection of high-volume content creation and cost-effective tooling. The shift toward **text-based video editing** (also known as \"editing by transcript\") is no longer just a trend; it is becoming the standard for efficie",
+      "cost_usd": 0.0002,
+      "latency_ms": 1257,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_camtasia_text_based_video_editing_f65de6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_camtasia_text_based_video_editing_f65de6_d1_IN.json"
+}

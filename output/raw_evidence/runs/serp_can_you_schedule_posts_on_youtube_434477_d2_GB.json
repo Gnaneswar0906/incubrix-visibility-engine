@@ -1,0 +1,116 @@
+{
+  "query": "can you schedule posts on youtube",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/1270709?hl=en-GB",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "can you schedule posts on youtube",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Schedule video publish time - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/1270709?hl=en-GB",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 1270709",
+        "snippet": "You can use scheduled publishing to schedule a private video to go public at a specific time. Click the Schedule card. Set the date, time and time zone that ...",
+        "position": 1
+      },
+      {
+        "title": "Is It Better To Schedule Videos? : r/NewTubers",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_it_better_to_schedule_vi...",
+        "snippet": "So I have this idea where instead of uploading videos for the next couple weeks I instead make multiple videos and just schedule them for the next month ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx6eru7/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx580e2/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx5nhhu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx6wqxs/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx7ajtm/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx7dpcl/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gre2di/is_it_better_to_schedule_videos/lx7lscr/"
+          },
+          {
+            "title": "Do you prefer to schedule a video, or post as soon as it finishes uploading?r/PartneredYoutube\u00b730+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/PartneredYoutube/comments/1ae837z/do_you_prefer_to_schedule_a_video_or_post_as_soon/"
+          },
+          {
+            "title": "How do I schedule shorts? : r/NewTubers - Redditr/NewTubers\u00b710+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1foe175/how_do_i_schedule_shorts/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "How to Schedule Community Posts on YouTube - Step-by-Step Tutorial",
+        "link": "https://www.youtube.com/watch?v=LPK03SAoXzo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I'll show you how to schedule Community Posts on YouTube step-by-step in 2025! \u2728 You'll learn: \u2713 The requirements to\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "YouTube: Schedule Shorts and Videos to your Channels",
+        "link": "https://www.postplanner.com/social-networks/youtube",
+        "displayedLink": "https://www.postplanner.com \u203a social-networks \u203a youtube",
+        "snippet": "Upload your video, Click \u201cCreate Post,\u201d pick your YouTube channels, add your text and media, then add it to your queue or schedule it for an exact time.",
+        "position": 4
+      },
+      {
+        "title": "How to Schedule YouTube Videos (& Why You Should)",
+        "link": "https://metricool.com/schedule-youtube-video/",
+        "displayedLink": "https://metricool.com \u203a schedule-youtube-video",
+        "snippet": "Select 'Schedule' and pick the date and time you want your video to go live. Navigate to the Visibility tab, select Schedule, enter your target date and time, ...",
+        "position": 5
+      },
+      {
+        "title": "Schedule YouTube Shorts with Buffer | Grow Your Channel",
+        "link": "https://buffer.com/youtube",
+        "displayedLink": "https://buffer.com \u203a youtube",
+        "snippet": "Plan, craft, and schedule your YouTube Shorts, and more, in one place with Buffer. Enjoy our powerful free plan or try Buffer's premium features free for 14 ...",
+        "position": 6
+      },
+      {
+        "title": "Can You Schedule Posts on YouTube",
+        "link": "https://www.facebook.com/fb-answers/can-you-schedule-posts-on-youtube/",
+        "displayedLink": "https://www.facebook.com \u203a fb-answers \u203a can-you-schedule-posts-on-y...",
+        "snippet": "Yes, you can schedule YouTube videos to publish at a specific date and time. Creators use it to stay consistent, upload as private then set a public release ...",
+        "position": 7
+      },
+      {
+        "title": "Can You Schedule YouTube Shorts? Yes \u2014 Here's How (2026)",
+        "link": "https://store.hollyland.com/blogs/creator-hub/can-you-schedule-youtube-shorts?srsltid=AYCX9vL47pDX1v2Xq0lVPhlQj3cQbxNXQ1jpWTW479kmg_TN3HTC3JJ9",
+        "displayedLink": "https://store.hollyland.com \u203a blogs \u203a creator-hub \u203a can-you-schedule-youtube-sh...",
+        "snippet": "YouTube fully supports scheduling for Shorts \u2014 no workarounds or third-party tools required. You can schedule through YouTube Studio on desktop ...",
+        "date": "9 Apr 2026",
+        "position": 8
+      }
+    ],
+    "credits": 1
+  }
+}

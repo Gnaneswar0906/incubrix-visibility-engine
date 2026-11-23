@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "IncuBrix",
+  "legalName": "IncuBrix Pte. Ltd.",
+  "url": "https://incubrix.com/",
+  "logo": "https://incubrix.com/assets/incubrix-logo.jpg",
+  "sameAs": [
+    "https://twitter.com/incubrix",
+    "https://linkedin.com/company/incubrix",
+    "https://www.youtube.com/@incubrix",
+    "https://www.crunchbase.com/organization/incubrix"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@incubrix.com",
+    "contactType": "customer service",
+    "availableLanguage": [
+      "English"
+    ]
+  }
+}

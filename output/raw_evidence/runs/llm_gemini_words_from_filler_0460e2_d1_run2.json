@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "words from filler",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to remove filler words (\"ums,\" \"ahs,\" long pauses, and stutters) from your videos or podcasts, you have access to some of the industry\u2019s most advanced AI-powered tools. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of the key industry options tailored to your needs.\n\n---\n\n### 1. Best Software Tools for Filler Word Removal\n\n#### **Descript (The Gold Standard for Editing)**\n*   **What it does:** Descript transcribes your audio and video into text. Removing a filler word in the transcript automatically deletes it from the timeline. It also features a \"Studio Sound\" tool to enhance audio quality and an **AI Filler Word Removal** feature that scans your entire project and removes all \"ums\" and \"ahs\" with a single click.\n*   **UK Relevance:** Fully supported in the UK, widely",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to remove filler words (\"ums,\" \"ahs,\" long pauses, and stutters) from your videos or podcasts, you have access to some of the industry\u2019s most advanced AI-powered tools. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of the key industry options tailored to your needs.\n\n---\n\n### 1. Best Software Tools for Filler Word Removal\n\n#### **Descript (The Gold Standard for Editing)**\n*   **What it does:** Descript transcribes your audio and video into text. Removing a filler word in the transcript automatically deletes it from the timeline. It also features a \"Studio Sound\" tool to enhance audio quality and an **AI Filler Word Removal** feature that scans your entire project and removes all \"ums\" and \"ahs\" with a single click.\n*   **UK Relevance:** Fully supported in the UK, widely",
+              "thoughtSignature": "Eo4BCosBAWkUfRNXacDGWEjsYOVCSodfWcIg8S7SuiYyq1SuXIXJIcLE0uCDOQKcWPfdEQUnMfe9Id4OIl5nh/mu4CU38g9oJhxXge+3AvoYHjEBj7awsr8+U+nnbGUglYUBzOi93Lj6BOquhxg+/k9y/T+4QJc0fHvY5q19dJ2GOqyfU5Sk9AhIcGpH/Bai7Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1kEDa-OxIsTj694PzIvj8Q8"
+  },
+  "latency_ms": 6217,
+  "cost_usd": 0.0002
+}

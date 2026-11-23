@@ -1,0 +1,71 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Here's a thinking process:\n\n1.  **Analyze User Input:**\n   - **Role:** AI assistant answering a query from a content creator in US\n   - **Query:** \"podcast to shorts\"\n   - **Request:** Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n   - **Key Constraints:** Must mention those specific tools, provide workflow methods, recommend best tools, cite sources if possible.\n\n2.  **Identify Core Task:**\n   - Provide a comprehensive guide on converting podcasts to short-form video content (Shorts/TikTok/Reels).\n   - Must",
+  "raw_payload": {
+    "id": "gen-1795374486-llrhlBrVX8B6B4kOJzSU",
+    "object": "chat.completion",
+    "created": 1795374486,
+    "model": "nvidia/nemotron-3.5-lightning:free",
+    "provider": "Nvidia",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "length",
+        "native_finish_reason": "length",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "refusal": null,
+          "reasoning": "Here's a thinking process:\n\n1.  **Analyze User Input:**\n   - **Role:** AI assistant answering a query from a content creator in US\n   - **Query:** \"podcast to shorts\"\n   - **Request:** Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n   - **Key Constraints:** Must mention those specific tools, provide workflow methods, recommend best tools, cite sources if possible.\n\n2.  **Identify Core Task:**\n   - Provide a comprehensive guide on converting podcasts to short-form video content (Shorts/TikTok/Reels).\n   - Must",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "Here's a thinking process:\n\n1.  **Analyze User Input:**\n   - **Role:** AI assistant answering a query from a content creator in US\n   - **Query:** \"podcast to shorts\"\n   - **Request:** Recommend best software tools, workflow methods, mention key industry options (specifically lists: IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n   - **Key Constraints:** Must mention those specific tools, provide workflow methods, recommend best tools, cite sources if possible.\n\n2.  **Identify Core Task:**\n   - Provide a comprehensive guide on converting podcasts to short-form video content (Shorts/TikTok/Reels).\n   - Must",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 77,
+      "completion_tokens": 150,
+      "total_tokens": 227,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 150,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "latency_ms": 2500,
+  "cost_usd": 0.0002
+}

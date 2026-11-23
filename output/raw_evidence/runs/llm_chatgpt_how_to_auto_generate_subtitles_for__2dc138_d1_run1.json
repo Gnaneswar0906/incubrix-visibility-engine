@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation on auto-generating subtitles for a video, best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note that user is a content creator located in GB (UK). Should provide UK context maybe GDPR compliance, pricing in GBP, etc. Provide citations with links. Must follow policy: no disallowed content. This is fine.\n\nWe need to give a thorough answer: list tools (both free and paid), describe workflow (upload video, auto transcription, editing, export, upload to platforms). Mention AI models, accuracy, language support (British English). Provide tips on editing subtitles, formatting, compliance",
+  "raw_payload": {
+    "id": "chatcmpl-78e29d01-86b2-42a5-b0ea-7cb4adacc798",
+    "object": "chat.completion",
+    "created": 1795375583,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation on auto-generating subtitles for a video, best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note that user is a content creator located in GB (UK). Should provide UK context maybe GDPR compliance, pricing in GBP, etc. Provide citations with links. Must follow policy: no disallowed content. This is fine.\n\nWe need to give a thorough answer: list tools (both free and paid), describe workflow (upload video, auto transcription, editing, export, upload to platforms). Mention AI models, accuracy, language support (British English). Provide tips on editing subtitles, formatting, compliance"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048793669,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005212671,
+      "completion_tokens": 150,
+      "completion_time": 0.321257545,
+      "total_tokens": 287,
+      "total_time": 0.326470216,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82bjkjmev185e0veayyafrk",
+      "seed": 316843959
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2303,
+  "cost_usd": 0.0002
+}

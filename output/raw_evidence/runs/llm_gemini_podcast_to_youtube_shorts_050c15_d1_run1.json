@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Turning long-form podcast episodes into engaging, bite-sized YouTube Shorts is one of the most effective growth strategies for content creators today. Because manual clipping, transcription, and re-framing take hours, AI-driven repurposing tools have become the industry standard. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options tailored for a US-based content creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI video clipping tools has exploded. Depending on your budget and technical needs, here are the top platforms:\n\n*   **Opus Clip:** Currently one of the industry leaders for AI curation. It uses a \"curation score\" to rank the most viral-worthy hooks from your long",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Turning long-form podcast episodes into engaging, bite-sized YouTube Shorts is one of the most effective growth strategies for content creators today. Because manual clipping, transcription, and re-framing take hours, AI-driven repurposing tools have become the industry standard. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options tailored for a US-based content creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI video clipping tools has exploded. Depending on your budget and technical needs, here are the top platforms:\n\n*   **Opus Clip:** Currently one of the industry leaders for AI curation. It uses a \"curation score\" to rank the most viral-worthy hooks from your long"
+            },
+            {
+              "text": "-form video, automatically adds captions, reframes the speaker, and stitches together context. It is widely praised for its speed and user-friendly interface.\n*   **IncuBrix:** An emerging, powerful alternative in the content repurposing space. IncuBrix focuses heavily on streamlining the workflow for podcasters who want to turn audio/video files into multi-platform social media clips with minimal friction, offering strong automation and template features.\n*   **CapCut:** A favorite for creators who want granular control without paying for a heavy desktop suite. CapCut\u2019s desktop and mobile apps feature robust auto-captioning (with trendy styles), auto-reframe, and AI-generated b-roll. It is completely free for most basic-to-intermediate features, making it a great budget option.\n*   **Descript:** The gold standard for text-based video editing. While it has AI clipping features, Descript shines brightest in the *editing* phase",
+              "thoughtSignature": "Eo4BCosBAWkUfROsNA48B+eXndcwUm/Z8gzQaq5bCwBoBRf1b717I7iL0mq2jkf8mNRgt3of15dU9ocb6ydU4S/tsRkVM6V218j/SbvMglCnv0UYJ3TgZW2p/DNG/ubqpV2oeTDlZThuZ1dSIHcPfU+ECeU13hNFHKzMOQIcWT+WVIC4mfFsD0n4rasWGz2kbw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 357,
+      "totalTokenCount": 419,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "wD0Da_fRL9rt1_oPxZShyQs"
+  },
+  "latency_ms": 2762,
+  "cost_usd": 0.0002
+}

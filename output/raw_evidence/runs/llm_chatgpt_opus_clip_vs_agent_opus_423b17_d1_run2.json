@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs agent opus",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick TL;DR**\n\n| Feature | **Opus\u202fClip** | **Agent\u202fOpus** (AI\u2011agent for content creation) | Best for |\n|---------|---------------|-----------------------------------------------|----------|\n| Core",
+  "raw_payload": {
+    "id": "chatcmpl-9c44da1d-d95b-4a2f-9abc-dd7efd4390d3",
+    "object": "chat.completion",
+    "created": 1795374953,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick TL;DR**\n\n| Feature | **Opus\u202fClip** | **Agent\u202fOpus** (AI\u2011agent for content creation) | Best for |\n|---------|---------------|-----------------------------------------------|----------|\n| Core",
+          "reasoning": "The user wants a recommendation about \"opus clip vs agent opus\". Likely they want comparison between Opus Clip (a video clipping tool using AI) and Agent Opus (maybe a tool? Not sure). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Must be US content creator. Provide citations with links. Ensure not to violate policy. Provide info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.314399569,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00606828,
+      "completion_tokens": 150,
+      "completion_time": 0.312949142,
+      "total_tokens": 284,
+      "total_time": 0.319017422,
+      "completion_tokens_details": {
+        "reasoning_tokens": 96
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82azcb3e3wr9cssrk0th39t",
+      "seed": 1435991704
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3575,
+  "cost_usd": 0.0002
+}

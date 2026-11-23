@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Posting to YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a concise \u201cstarter kit\u201d for creators who want to **automate the upload,",
+  "raw_payload": {
+    "id": "chatcmpl-23a3359e-bceb-42e7-8ad6-675a485eb9aa",
+    "object": "chat.completion",
+    "created": 1795374773,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Posting to YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a concise \u201cstarter kit\u201d for creators who want to **automate the upload,",
+          "reasoning": "The user wants recommendations for auto posting to YouTube, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide answer. Must be helpful, include tools, workflow, mention those. Provide citations with URLs. Ensure compliance with policy. No disallowed content. Provide info.\n\nWe can cite sources like official sites, blogs, reviews. Use markdown with footnotes. Provide workflow steps.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368758167,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005771292,
+      "completion_tokens": 150,
+      "completion_time": 0.318801101,
+      "total_tokens": 283,
+      "total_time": 0.324572393,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82aswf5e6z8ba43pw61j7tm",
+      "seed": 1408911410
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3169,
+  "cost_usd": 0.0002
+}

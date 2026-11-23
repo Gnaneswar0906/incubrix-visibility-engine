@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "create a monetizable ai faceless youtube channel",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 396
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 338
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_create_a_monetizable_ai_faceless_yo_0cf397_d1_GB.json"
+}

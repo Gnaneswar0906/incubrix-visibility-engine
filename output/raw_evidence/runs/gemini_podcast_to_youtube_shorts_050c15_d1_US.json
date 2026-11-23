@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Turning long-form podcast episodes into engaging, bite-sized YouTube Shorts is one of the most effective growth strategies for content creators today. Because manual clipping, transcription, and re-framing take hours, AI-driven repurposing tools have become the industry standard. \n\nHere is a compreh",
+      "cost_usd": 0.0002,
+      "latency_ms": 2762,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_youtube_shorts_050c15_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast to youtube shorts' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 412
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_youtube_shorts_050c15_d1_US.json"
+}

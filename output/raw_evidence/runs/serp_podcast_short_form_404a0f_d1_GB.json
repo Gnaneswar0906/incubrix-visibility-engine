@@ -1,0 +1,97 @@
+{
+  "query": "podcast short form",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=FdBDrZ1JMe8",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast short form",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Podcast Clips: How I Turn Long-Form Videos Into Short Clips (My Workflow)",
+        "link": "https://www.youtube.com/watch?v=FdBDrZ1JMe8",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Riverside is the platform I use to record, edit, and repurpose podcast clips. I've used it for years, and it's what makes this workflow fast\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Podcast",
+        "link": "https://en.wikipedia.org/wiki/Podcast",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Podcast",
+        "snippet": "A podcast is a program made available in digital format for download over the Internet. Podcasts are primarily an audio medium, which is reflected in the ...",
+        "position": 2
+      },
+      {
+        "title": "AI Podcast Clips Maker",
+        "link": "https://podsqueeze.com/podcast-clip-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on TikTok, Reels & YouTube shorts with Podsqueeze AI-Powered clip maker.",
+        "position": 3
+      },
+      {
+        "title": "Podcast Clips & Short-form Video at Scale | Liquid Studios",
+        "link": "https://liquidstudios.ai/use-cases/short-form/",
+        "displayedLink": "https://liquidstudios.ai \u203a use-cases \u203a short-form",
+        "snippet": "Thirty clips from one long episode. Liquid Studios turns each long-form episode into short-form video calibrated for TikTok, Reels, and Shorts \u2014 the moments ...",
+        "position": 4
+      },
+      {
+        "title": "AI Podcast Clip Maker for Short Videos",
+        "link": "https://www.heyeddie.ai/tools/podcast-clips",
+        "displayedLink": "https://www.heyeddie.ai \u203a tools \u203a podcast-clips",
+        "snippet": "Find shareable moments in a podcast with Eddie AI. Choose clip count, target length and aspect ratio, then review, refine and export your short videos.",
+        "position": 5
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "Upload any video podcast from YouTube or Google Drive, and within minutes, Flowjin scans your content to create ready-to-share short videos for social media.",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 6
+      },
+      {
+        "title": "How to clip a podcast: short clips that still make sense",
+        "link": "https://fitasticdigitalmedia.com/insights/turn-podcast-into-useful-short-clips",
+        "displayedLink": "https://fitasticdigitalmedia.com \u203a insights \u203a turn-podcast-into-useful-sh...",
+        "snippet": "To turn a long podcast into useful shorts, find an answer a new viewer can understand, keep the setup and qualifications it needs, ...",
+        "date": "29 Sept 2026",
+        "position": 7
+      },
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "OpusClip uses AI to pick the key moments from your podcast episodes and cut them into short clips, so you do not need advanced editing skills.",
+        "date": "11 Nov 2026",
+        "position": 8
+      },
+      {
+        "title": "I Turned a 2-Hour Podcast into 20 Short Clips: Here's the Full Workflow (and ...",
+        "link": "https://dev.to/weizhang_dev/i-turned-a-2-hour-podcast-into-20-short-clips-heres-the-full-workflow-and-where-ai-actually-156b",
+        "displayedLink": "https://dev.to \u203a weizhang_dev \u203a i-turned-a-2-hour-podcast-i...",
+        "snippet": "A client sent me a 2-hour podcast episode last month and asked for 20 short clips \u2014 Reels, Shorts, TikToks, the whole spread.",
+        "date": "26 Mar 2026",
+        "position": 9
+      },
+      {
+        "title": "Under 15 Minutes: The Secret to Making a Short-Form Podcast ...",
+        "link": "https://blog.podcast.co/create/short-form-podcast-under-15-minutes",
+        "displayedLink": "https://blog.podcast.co \u203a create \u203a short-form-podcast-under-15...",
+        "snippet": "Learn how to build a short-form podcast, from crafting the opening hook to post-production editing tips. This is the complete guide to ...",
+        "date": "4 Aug 2026",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

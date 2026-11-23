@@ -1,0 +1,65 @@
+{
+  "query": "ai remove filler words from video",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/filler-remover",
+  "competitors_named": "CapCut, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "ai remove filler words from video",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Remove Filler Words from Recordings",
+        "link": "https://www.veed.io/tools/filler-remover",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a filler-remover",
+        "snippet": "With VEED, you can clean your audio and video in one click and get rid of filler words like \u201cuhms\u201d and \u201clike\u201d so you can sound more persuasive and professional.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Remove Filler Words from Video - AI Speech Cleaner",
+        "link": "https://www.opus.pro/tools/remove-filler-words-from-video",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a remove-filler-words-from-video",
+        "snippet": "Enter our AI editor and choose \u201cEnhance Audio\u201d and then \u201cRemove filler words. Then our AI will get to work, detecting and removing filler words instantly.",
+        "position": 2
+      },
+      {
+        "title": "AI Filler Word Remover: Cut the Ums & Uhs",
+        "link": "https://cleanvoice.ai/filler-words/",
+        "displayedLink": "https://cleanvoice.ai \u203a filler-words",
+        "snippet": "Remove filler words like um, uh and ah from audio and video automatically. Cleanvoice's AI works in 20+ languages and keeps your speech natural.",
+        "position": 3
+      },
+      {
+        "title": "Best AI tools for removing filler words? : r/podcasting",
+        "link": "https://www.reddit.com/r/podcasting/comments/18ynr63/best_ai_tools_for_removing_filler_words/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a best_ai_tools_for_removing_...",
+        "snippet": "I haven't used any special software to remove filler words. But I used Vizard before, it's an auto-editing tool. When setting it up for editing, ...",
+        "position": 4
+      },
+      {
+        "title": "Remove Filler Words Automatically with AI Tool",
+        "link": "https://www.capcut.com/tools/filler-words",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a filler-words",
+        "snippet": "CapCut's AI removes filler words from video features, detects and deletes unnecessary speech in real time. With one click, the tool scans the audio track and ...",
+        "position": 5
+      },
+      {
+        "title": "Best Way to Remove Filler Words and Silences from Your Podcast",
+        "link": "https://www.youtube.com/watch?v=AzaqYaGcwfM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to Start a Podcast in 2025 (1+ Hour Course). Riverside \u00b7 62K views ; Edit out those annoying FILLER WORDS from your podcast using Audacity.",
+        "position": 6
+      }
+    ],
+    "credits": 1
+  }
+}

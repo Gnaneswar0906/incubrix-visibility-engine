@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a tutorial for \"podcast shorts\" presumably creating short clips from podcasts. They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide a helpful answer for a content creator located in India (IN). Provide tools, workflow steps, mention those options, possibly others like Adobe Premiere Rush, Final Cut Pro, Headliner, Veed.io, Clipchamp, etc. Provide citations with URLs.\n\nWe must ensure compliance: no disallowed content. It's fine.\n\nWe can include links to official sites, blog posts, reviews. Provide step-by-step workflow: ingest audio",
+  "raw_payload": {
+    "id": "chatcmpl-1ce7a46e-1317-4dac-9151-28aad05b473f",
+    "object": "chat.completion",
+    "created": 1795376885,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a tutorial for \"podcast shorts\" presumably creating short clips from podcasts. They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide a helpful answer for a content creator located in India (IN). Provide tools, workflow steps, mention those options, possibly others like Adobe Premiere Rush, Final Cut Pro, Headliner, Veed.io, Clipchamp, etc. Provide citations with URLs.\n\nWe must ensure compliance: no disallowed content. It's fine.\n\nWe can include links to official sites, blog posts, reviews. Provide step-by-step workflow: ingest audio"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157779747,
+      "prompt_tokens": 132,
+      "prompt_time": 0.004978733,
+      "completion_tokens": 150,
+      "completion_time": 0.309023575,
+      "total_tokens": 282,
+      "total_time": 0.314002308,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82ctbmjevmrmc1070cx0kfk",
+      "seed": 24665389
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2592,
+  "cost_usd": 0.0002
+}

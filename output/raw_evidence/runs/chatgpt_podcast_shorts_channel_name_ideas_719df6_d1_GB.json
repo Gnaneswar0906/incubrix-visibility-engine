@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast shorts channel name ideas Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sour",
+      "cost_usd": 0.0002,
+      "latency_ms": 3322,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_name_ideas_719df6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udf99\ufe0f  Podcast\u2011Shorts Channel Name Ideas  \n*(Tailored for a UK\u2011based creator \u2013 short, memorable, and SEO\u2011friendly)*  \n\n| # | Name",
+      "cost_usd": 0.0002,
+      "latency_ms": 3620,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_channel_name_ideas_719df6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_channel_name_ideas_719df6_d1_GB.json"
+}

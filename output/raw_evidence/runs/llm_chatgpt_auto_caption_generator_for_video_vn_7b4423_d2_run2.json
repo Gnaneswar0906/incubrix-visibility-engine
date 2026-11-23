@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video vn app",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator for video vn app. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for auto caption generator for video VN (video editing) app, presumably for a content creator in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must ensure compliance with policies. It's allowed. Provide citations",
+  "raw_payload": {
+    "id": "chatcmpl-c1f0e2e1-4c42-4560-846e-83937102da51",
+    "object": "chat.completion",
+    "created": 1795376976,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator for video vn app. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for auto caption generator for video VN (video editing) app, presumably for a content creator in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must ensure compliance with policies. It's allowed. Provide citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158265559,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00535406,
+      "completion_tokens": 150,
+      "completion_time": 0.30930729,
+      "total_tokens": 286,
+      "total_time": 0.31466135,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82cx49ye5z9pddvmdzm9kkr",
+      "seed": 938156545
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2733,
+  "cost_usd": 0.0002
+}

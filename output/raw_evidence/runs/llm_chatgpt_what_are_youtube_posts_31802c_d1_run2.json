@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "what are youtube posts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you're likely looking to maximise your reach across all of YouTube's surfaces. \"YouTube Posts\" (often referred to as **Shorts updates** or **Channel Posts** in the new interface) are a vital but often underutilised feature.\n\nHere\u2019s a breakdown of what they are, why they matter, and the best tools and workflows to manage them efficiently.\n\n### What Are YouTube Posts?\n\n**YouTube Posts** are short-form content updates that appear on your channel\u2019s \"Posts\" tab (and increasingly on your channel homepage and in subscribers' feeds). They are **not** the same as:\n*   **Shorts:** Vertical, under-60-second videos.",
+  "raw_payload": {
+    "id": "chatcmpl-03c485e1-1fae-438a-89cc-0a43d86e75ce",
+    "object": "chat.completion",
+    "created": 1795375660,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you're likely looking to maximise your reach across all of YouTube's surfaces. \"YouTube Posts\" (often referred to as **Shorts updates** or **Channel Posts** in the new interface) are a vital but often underutilised feature.\n\nHere\u2019s a breakdown of what they are, why they matter, and the best tools and workflows to manage them efficiently.\n\n### What Are YouTube Posts?\n\n**YouTube Posts** are short-form content updates that appear on your channel\u2019s \"Posts\" tab (and increasingly on your channel homepage and in subscribers' feeds). They are **not** the same as:\n*   **Shorts:** Vertical, under-60-second videos."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.13222378,
+      "prompt_tokens": 76,
+      "prompt_time": 0.00549713,
+      "completion_tokens": 150,
+      "completion_time": 0.299035518,
+      "total_tokens": 226,
+      "total_time": 0.304532648
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bmynge46s7sc3f90eah3s",
+      "seed": 139861002
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2301,
+  "cost_usd": 0.0002
+}

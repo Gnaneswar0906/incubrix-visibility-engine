@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I have put together a comprehensive guide on converting long-form YouTube podcasts into engaging, viral-ready Shorts for free (or with robust free tiers). \n\nRepurposing long-form content is one of the most effective growth strategies for creators today. Below are the best tools, an efficient workflow, and a breakdown of key industry options.\n\n---\n\n### Part 1: Industry-Leading Tools (With Free Tiers/Options)\n\nWhen looking for AI-driven clipping and editing tools, several platforms stand out in the creator economy:\n\n1. **Opus Clip (Industry Standard for AI Clipping)**\n   * **What it does:** Uses generative AI to analyze a long YouTube video, score clips based on potential virality, and automatically reframe the video to 9:16, add captions, and insert B-roll/emojis.\n   * **Pricing:** Offers",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I have put together a comprehensive guide on converting long-form YouTube podcasts into engaging, viral-ready Shorts for free (or with robust free tiers). \n\nRepurposing long-form content is one of the most effective growth strategies for creators today. Below are the best tools, an efficient workflow, and a breakdown of key industry options.\n\n---\n\n### Part 1: Industry-Leading Tools (With Free Tiers/Options)\n\nWhen looking for AI-driven clipping and editing tools, several platforms stand out in the creator economy:\n\n1. **Opus Clip (Industry Standard for AI Clipping)**\n   * **What it does:** Uses generative AI to analyze a long YouTube video, score clips based on potential virality, and automatically reframe the video to 9:16, add captions, and insert B-roll/emojis.\n   * **Pricing:** Offers",
+              "thoughtSignature": "Eo4BCosBAWkUfRP2c7cEsl3f39ii1NEPT6l5PAGjMDkW9ZgC/Mf3UMZTUiaiL/g9bASTnY2/vn2dYIood2baRirMOTayI1YP4MZpzZ8C4W4nC1CLPL8/XH4S5eQxtIr7ZtSK80dv3gbclXpS6pf7RIQ/xxGXFW0XGiz5j+oQ0i5xtD98Gm1MZEUNCj5fVtNYXw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ckUDa6r7EPzG694PwObm4A8"
+  },
+  "latency_ms": 2250,
+  "cost_usd": 0.0002
+}

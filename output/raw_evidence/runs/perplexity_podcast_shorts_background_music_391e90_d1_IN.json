@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast shorts background music",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'podcast shorts background music' in IN, popular recommendations include Vidyo.ai, CapCut, Descript. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 400
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'podcast shorts background music' in IN, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 382
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_shorts_background_music_391e90_d1_IN.json"
+}

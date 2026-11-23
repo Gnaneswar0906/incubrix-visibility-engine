@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in India looking to auto-generate free video captions (often discussed on Reddit communities like r/NewTubers, r/VideoEditing, or r/ContentCreators), you need tools that balance zero-cost accessibility with high-engagement styling (dynamic, karaoke-style subtitles popular on Ree",
+      "cost_usd": 0.0002,
+      "latency_ms": 2408,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_363731_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello!",
+      "cost_usd": 0.0002,
+      "latency_ms": 7744,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_fr_363731_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_fr_363731_d1_IN.json"
+}

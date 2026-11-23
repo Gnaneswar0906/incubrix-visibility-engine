@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "what is the best free video editor for beginners",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'what is the best free video editor for beginners' in IN, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 342
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'what is the best free video editor for beginners' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 438
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_what_is_the_best_free_video_editor__42b688_d2_IN.json"
+}

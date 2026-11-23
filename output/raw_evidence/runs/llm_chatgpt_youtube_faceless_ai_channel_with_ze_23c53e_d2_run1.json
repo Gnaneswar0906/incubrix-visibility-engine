@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "##",
+  "raw_payload": {
+    "id": "chatcmpl-bbf0c8ef-d12e-48df-8bf3-35b9a9e2e54b",
+    "object": "chat.completion",
+    "created": 1795376807,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "##",
+          "reasoning": "The user wants a recommendation for a faceless AI YouTube channel with zero investment. Need to suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide suggestions, workflow, free tools, how to create content, AI voice, video generation, editing, SEO, etc. Must be in line with policy: providing advice on creating a YouTube channel is allowed. Must not violate any policy. Provide citations with URLs. Use markdown. Provide steps. Also mention zero investment: free tiers, open-source tools. Provide resources. Cite sources like blog posts, reviews.\n\nWill comply."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053662154,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005539755,
+      "completion_tokens": 150,
+      "completion_time": 0.315753568,
+      "total_tokens": 287,
+      "total_time": 0.321293323,
+      "completion_tokens_details": {
+        "reasoning_tokens": 141
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_245acb052a",
+    "x_groq": {
+      "id": "req_01m82cqz2fesxap6xf7c54hnhn",
+      "seed": 1464494485
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4041,
+  "cost_usd": 0.0002
+}

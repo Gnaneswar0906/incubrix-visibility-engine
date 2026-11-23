@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "faceless youtube channel using ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'faceless youtube channel using ai' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 357
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'faceless youtube channel using ai' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 425
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_faceless_youtube_channel_using_ai_0718f8_d2_US.json"
+}

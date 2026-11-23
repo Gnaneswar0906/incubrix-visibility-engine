@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick\u2011answer summary**\n\n| Tool (Free tier) | Best for | Caption\u2011accuracy (auto) | Video length limits | Export",
+      "cost_usd": 0.0002,
+      "latency_ms": 2714,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_long_vid_ad3e39_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, dealing with long-form video can be a bottleneck for production speed. Finding a tool that handles long videos (10+ minutes, or even hour-long podcasts/webinars) with accurate auto-captions **for free** is tricky because most AI tools limit free tiers by video ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1090,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_long_vid_ad3e39_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_long_vid_ad3e39_d2_US.json"
+}

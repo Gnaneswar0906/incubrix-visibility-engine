@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload twitch streams to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**How to Auto\u2011Upload",
+  "raw_payload": {
+    "id": "chatcmpl-312c8f63-fd6e-4166-9538-beee38feca8a",
+    "object": "chat.completion",
+    "created": 1795375281,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**How to Auto\u2011Upload",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto uploading Twitch streams to YouTube, workflow, software tools, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must follow policies: no disallowed content. It's fine. Provide steps, mention tools like Streamlink, OBS, Restream, Zapier, IFTTT, YouTube API, Twitch API, etc. Provide workflow: record, edit, auto upload. Provide citations with URLs. Use authoritative sources like Twitch blog, YouTube help, Restream docs. Also mention region IN (India) maybe mention local considerations. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157847403,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005182146,
+      "completion_tokens": 150,
+      "completion_time": 0.312014765,
+      "total_tokens": 287,
+      "total_time": 0.317196911,
+      "completion_tokens_details": {
+        "reasoning_tokens": 136
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82b9d89e43szg1zrwf1mz2r",
+      "seed": 1782786761
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1995,
+  "cost_usd": 0.0002
+}

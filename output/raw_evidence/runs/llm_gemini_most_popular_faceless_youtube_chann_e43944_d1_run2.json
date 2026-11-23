@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hey there! As a content creator based in India, diving into the faceless YouTube channel space is one of the smartest moves right now. The Indian YouTube market is booming, and niches like finance, motivation, true crime, history, and AI tech are pulling in massive view counts and ad revenue (RPM/CPM). \n\nHowever, running a faceless channel efficiently requires a streamlined workflow because you are replacing human on-camera presence with high-quality visual storytelling, voiceovers, and dynamic editing.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a proven workflow tailored for an Indian creator.\n\n---\n\n### 1. Key Industry Software Tools & Options\n\nTo build a faceless channel, you need tools for five core stages: **Ideation/Scripting, Voiceover, Video Editing, Repurposing, and Scaling/Automation.**\n\n#### A. Video Editing & Automated Captions\n*",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hey there! As a content creator based in India, diving into the faceless YouTube channel space is one of the smartest moves right now. The Indian YouTube market is booming, and niches like finance, motivation, true crime, history, and AI tech are pulling in massive view counts and ad revenue (RPM/CPM). \n\nHowever, running a faceless channel efficiently requires a streamlined workflow because you are replacing human on-camera presence with high-quality visual storytelling, voiceovers, and dynamic editing.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a proven workflow tailored for an Indian creator.\n\n---\n\n### 1. Key Industry Software Tools & Options\n\nTo build a faceless channel, you need tools for five core stages: **Ideation/Scripting, Voiceover, Video Editing, Repurposing, and Scaling/Automation.**\n\n#### A. Video Editing & Automated Captions\n*",
+              "thoughtSignature": "Eo4BCosBAWkUfRNuBqNuqxGCt9ZCGuhx8j13a0t7wBlpC5N+sj2fQKMWIZLp6jdqU4qoxYqBmRVVzMPNkrVBOdWKjsNstL1ofXvCepXEDwqWlPlnximbeg6vnHDbAI+9KgjEbqGVCabau8KAiHyAjzi6m/xWyU2yWVwVxtrQ3DoUy7y2SAejmefvCHz8BDDOEQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "J0EDa7nyK5CgjuMP5JzE-Qo"
+  },
+  "latency_ms": 6930,
+  "cost_usd": 0.0002
+}

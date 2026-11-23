@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to recommend best free auto caption generator for photo. Also recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. Should be tailored for content creator in GB. Provide best free tools, workflows. Provide citations. Need to browse? We cannot browse. But can recall known tools: Google Photos, Microsoft Photos, Kapwing, VEED, Clipchamp, Kapwing, InVideo, Lumen5, etc. For photo captioning? Actually auto caption generator for photo: generating textual captions from image. Tools: Google Cloud Vision, Microsoft Azure Computer Vision, AWS Rekognition, OpenAI CLIP-based",
+  "raw_payload": {
+    "id": "chatcmpl-0870c5fe-00da-47af-b3d2-f0274c9dd8d3",
+    "object": "chat.completion",
+    "created": 1795377420,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to recommend best free auto caption generator for photo. Also recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. Should be tailored for content creator in GB. Provide best free tools, workflows. Provide citations. Need to browse? We cannot browse. But can recall known tools: Google Photos, Microsoft Photos, Kapwing, VEED, Clipchamp, Kapwing, InVideo, Lumen5, etc. For photo captioning? Actually auto caption generator for photo: generating textual captions from image. Tools: Google Cloud Vision, Microsoft Azure Computer Vision, AWS Rekognition, OpenAI CLIP-based"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.255689001,
+      "prompt_tokens": 135,
+      "prompt_time": 0.009706117,
+      "completion_tokens": 150,
+      "completion_time": 0.163377674,
+      "total_tokens": 285,
+      "total_time": 0.173083791,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_976a85d17a",
+    "x_groq": {
+      "id": "req_01m82danxmeksvs3zxzqacw42y",
+      "seed": 123123910
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5116,
+  "cost_usd": 0.0002
+}

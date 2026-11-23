@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to streamline production",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to streamline production"
+            },
+            {
+              "text": " and automate the publishing process, setting up an efficient automated upload workflow can save hours of manual labor. \n\nHere is a comprehensive guide to the best software tools, industry options (including your specified mentions), and a recommended automated workflow for YouTube.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. AI Repurposing & Editing (Short-Form & Long-Form)\n*   **Opus Clip:** An industry-leading generative AI video repurposing tool. It takes long-form videos, analyzes them, extracts the most engaging hooks, and automatically reframes them into viral-ready YouTube Shorts with captions and emojis. \n*   **CapCut:** Highly popular for both desktop and mobile. Its web-based and desktop versions feature robust AI tools like auto-captions, background removal, and smart clipping. CapCut offers direct sharing integrations to YouTube.\n*   **Descript:** The gold standard for text-based video editing.",
+              "thoughtSignature": "Eo4BCosBAWkUfRNDW5baR4hSGufJpj8j7y9Ma0ZTN3vQFvk7M71mtazwA9WKGMjio/eDvjKdyRZE4yWA5hhsy/ytEJwvk0aWpFjz1TWqbD5rGsA5f0WOER+qytl8AY+tScciCj06q4Mp4fjnsBUeXxXwE53oz68niuSMGf2kjv8vGSuIzivlKkDYCGPD2fdXCQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 211,
+      "totalTokenCount": 273,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xz4Da7-TGcqs694PpvTmgAs"
+  },
+  "latency_ms": 7191,
+  "cost_usd": 0.0002
+}

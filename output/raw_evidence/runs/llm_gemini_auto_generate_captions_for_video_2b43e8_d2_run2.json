@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., leveraging AI to auto-generate video captions is one of the most effective ways to boost watch time, improve accessibility, and capture the 85% of social media users who watch videos on mute. \n\nHere is a comprehensive guide to the best software tools, industry options (including the ones you mentioned), and a recommended workflow to streamline your editing process.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different parts of the content creation pipeline\u2014from quick social media clips to deep long-form editing.\n\n#### 1. CapCut (Best for Mobile & Short-Form Dynamic Captions)\n* **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is the gold standard for trendy, high-retention auto-captions on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n* **Key Features:** \"Auto Captions\" feature with heavily customizable templates (word-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., leveraging AI to auto-generate video captions is one of the most effective ways to boost watch time, improve accessibility, and capture the 85% of social media users who watch videos on mute. \n\nHere is a comprehensive guide to the best software tools, industry options (including the ones you mentioned), and a recommended workflow to streamline your editing process.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different parts of the content creation pipeline\u2014from quick social media clips to deep long-form editing.\n\n#### 1. CapCut (Best for Mobile & Short-Form Dynamic Captions)\n* **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is the gold standard for trendy, high-retention auto-captions on platforms like TikTok, Instagram Reels, and YouTube Shorts.\n* **Key Features:** \"Auto Captions\" feature with heavily customizable templates (word-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMlJ2EMiuK97mKXk7sqmf69MCY1XnVzqBn0Fsme8iDHhofJLwWBBIfFYzakJpVALatVZXkFDQy0m/lAzW6MLLz+SOphEY9JX8hSWUR4XrTEf2N4Q3BsgTsEnt1JbKRNh2CDucXeWALdsObwzQDjyJ8p9KWujby+F13DrRIofd4kWeZ2so9i3g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0EUDa8PnFJ6kg8UP-pqVkAI"
+  },
+  "latency_ms": 2279,
+  "cost_usd": 0.0002
+}

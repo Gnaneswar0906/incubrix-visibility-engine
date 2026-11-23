@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator based in Great Britain looking to streamline your content creation and publishing pipeline, automating the upload of YouTube Shorts can save you hours each week. \n\nBelow is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended automated workflow method tailored to a UK-based creator.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\nTo build a fully automated Shorts pipeline, you generally need tools that handle three stages: **AI Repurposing/Editing**, **Scheduling/Auto-Uploading**, and **All-in-One Automation**.\n\n#### **A. AI Repurposing & Editing (Turning long-form into Shorts)**\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos (like podcasts or YouTube videos), analyzes them, and automatically cuts them into viral-potential short clips with captions, emojis, and active speaker tracking. \n*   ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator based in Great Britain looking to streamline your content creation and publishing pipeline, automating the upload of YouTube Shorts can save you hours each week. \n\nBelow is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended automated workflow method tailored to a UK-based creator.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\nTo build a fully automated Shorts pipeline, you generally need tools that handle three stages: **AI Repurposing/Editing**, **Scheduling/Auto-Uploading**, and **All-in-One Automation**.\n\n#### **A. AI Repurposing & Editing (Turning long-form into Shorts)**\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos (like podcasts or YouTube videos), analyzes them, and automatically cuts them into viral-potential short clips with captions, emojis, and active speaker tracking. \n*   ",
+              "thoughtSignature": "Eo4BCosBAWkUfRNF9u9z1tM7txmS5UhZhE6uhQyl/YXfrZqcxsGBOWb1RoNSMKAumOuUXUAjLa9mVG97i5BaIQHnMqU04SWs+ijNt3Q2nQKIuxUxtO9zjVkCmQxAoQ4u3zObtxGzzEcbnW9T0+yeEHb30dF2bcY23nXEaHQKyVFPinA24IIxAUVhl8eqfqsQ9g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "TkIDa8ONFvmR3LUPmoyn4QU"
+  },
+  "latency_ms": 8589,
+  "cost_usd": 0.0002
+}

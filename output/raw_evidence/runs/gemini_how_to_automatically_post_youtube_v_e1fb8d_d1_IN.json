@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos to a Facebook Page, the goal is twofold: **repurposing the content** for optimal engagement on Meta\u2019s platform (which favors native video uploads over mere YouTube links) and **autom",
+      "cost_usd": 0.0002,
+      "latency_ms": 4089,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_automatically_post_youtube_v_e1fb8d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos onto a Facebook Page, the strategy involves two main phases: **Repurposing** (optimizing long-form YouTube content into short, vertical formats that perform best on Facebook Reels/Pages) and **Automated ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2620,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_automatically_post_youtube_v_e1fb8d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_automatically_post_youtube_v_e1fb8d_d1_IN.json"
+}

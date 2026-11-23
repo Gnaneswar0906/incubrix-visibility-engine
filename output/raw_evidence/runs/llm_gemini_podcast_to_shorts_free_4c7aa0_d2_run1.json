@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form videos (TikToks",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form videos (TikToks"
+            },
+            {
+              "text": ", YouTube Shorts, and Instagram Reels) using free or freemium tools. \n\nLeveraging AI-driven repurposing tools can save you hours of manual clipping, captioning, and formatting. Below are the best software tools, a proven workflow method, and a breakdown of key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nWhen looking to repurpose podcasts into shorts, several industry-leading tools stand out. Most operate on a \"freemium\" model, giving you free trial minutes or basic free tiers.\n\n*   **Opus Clip (Industry Standard for AI Curation):**\n    *   *What it does:* An AI-powered generative video tool that automatically analyzes your long-form podcast, extracts the most engaging hooks, and repans them into 9:16 vertical clips complete with dynamic captions and a virality score.\n    *   *Pricing:* Offers a free tier with limited processing minutes per month.\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRPMSsV4rY4G7XjZfdhmBlSbr59LrBSFDq4pgIIHOtMhVfitaufCkVybdZNIOf73Wea6AGao48pIOA0Xye2UZWfoNz91j6euU3XRumbshJJoMOJZS0Ixa7ydaLzBV+/pQ2GNXo7CvYaVNayV0M5JQd9M5LfVN2hBVC6Ryb0hiQGeu1jhfeG8Ww=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 237,
+      "totalTokenCount": 299,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YEUDa9-gM6-K694Phc_YgQg"
+  },
+  "latency_ms": 2924,
+  "cost_usd": 0.0002
+}

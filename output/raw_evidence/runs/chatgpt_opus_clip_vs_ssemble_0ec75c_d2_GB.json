@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs ssemble",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"opus clip vs ssemble\" presumably meaning comparing Opus Clip vs Ssemble. The user is a content creator in GB. They want recommendation of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citatio",
+      "cost_usd": 0.0002,
+      "latency_ms": 7450,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_ssemble_0ec75c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Given your location in the UK (GB) and your focus on content creation, the choice between **Opus Clip** and **Ssemble** (often referred to in this context as part of the broader AI clipping ecosystem, though Ssemble is less of a direct mainstream competitor than tools like Vizard or Veed) comes down",
+      "cost_usd": 0.0002,
+      "latency_ms": 1249,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_ssemble_0ec75c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_ssemble_0ec75c_d2_GB.json"
+}

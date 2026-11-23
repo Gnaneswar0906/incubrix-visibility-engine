@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how do i create a post on youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " a content creator in Great Britain looking to create and publish a post on YouTube, your approach will depend on whether you mean a **Community Post** (text, polls, images) or a standard **Video Post**. \n\nBelow is a complete guide covering the workflow, the best software tools tailored to the UK creator landscape, and how industry-standard tools like IncuBrix, CapCut, Opus Clip, and Descript fit into your production pipeline.\n\n---\n\n### Part 1: How to Create a YouTube Post (Platform Basics)\n\n#### A. Creating a Community Post (Text, Images, Polls)\nYouTube Community posts allow you to engage with your subscribers outside of traditional video uploads. To be eligible, your channel generally needs to have access to the Community tab (YouTube has been rolling this out to all channels with over 500 subscribers).\n\n1. **Log in** to [YouTube Studio](https://studio.youtube.com/) using a desktop browser",
+              "thoughtSignature": "Eo4BCosBAWkUfRMyUr0TJ5jAGtQkfSF4CTZFuIi/DnhvTIHhXQOYGEgUl0mOQjAeaFGZDLM4LImJEwCCWcJnY3hC4pKBxQnQdM9pQcbgPAA+U7zpIGRCgFO+/xhu/ld8r9ewFuvEYlPcrVcRnPbXrvZ7HWyAh7OzwzWJyboi6EJe3jc9pUNikrRedenUGqwO+A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "K0IDa7vaILeQmNMPvpqM8AQ"
+  },
+  "latency_ms": 4012,
+  "cost_usd": 0.0002
+}

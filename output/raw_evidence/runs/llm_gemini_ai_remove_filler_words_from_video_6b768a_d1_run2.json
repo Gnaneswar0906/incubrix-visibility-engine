@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the UK (GB), I can confirm that removing filler words (\"ums,\" \"ahs,\" long pauses) is one of the fastest ways to elevate video production value, boost audience retention, and save hours of manual editing. \n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow method tailored for a UK-based creator.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you prefer text-based editing, automated repurposing, or a traditional timeline with AI features, here are the top options currently dominating the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Why use it:* Descript pioneered the \"edit video by editing text\" workflow. It automatically transcribes your video, allows you to highlight and delete filler words globally with one click, and even features \"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the UK (GB), I can confirm that removing filler words (\"ums,\" \"ahs,\" long pauses) is one of the fastest ways to elevate video production value, boost audience retention, and save hours of manual editing. \n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow method tailored for a UK-based creator.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you prefer text-based editing, automated repurposing, or a traditional timeline with AI features, here are the top options currently dominating the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Why use it:* Descript pioneered the \"edit video by editing text\" workflow. It automatically transcribes your video, allows you to highlight and delete filler words globally with one click, and even features \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRNVgpIdW1Xx656IArNEhPLYHApGHz8BJ5mEce8LNlwyRea/7rLf0pNqwiGu7vFfBbvQ5t9NycKvF5oSF7Ro+vEvFpkEomkcMEFSelzNMTHTSPTyOZ38/sh+UyCy0nJGhp0+h0kLBENllRht0juIAQHpfRlCkfmi7pOzB7yWnzXxyjKdYKGTyw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "y0EDa83mHbbP1_oP68SP4Q8"
+  },
+  "latency_ms": 2569,
+  "cost_usd": 0.0002
+}

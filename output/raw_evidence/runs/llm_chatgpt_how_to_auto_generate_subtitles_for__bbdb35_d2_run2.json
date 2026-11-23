@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you have access to a robust ecosystem of tools for auto-generating subtitles. Since you are based in GB, I will assume you are comfortable with tools that support multiple languages and offer UK/EU data compliance options where relevant.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options for auto-generating YouTube subtitles, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **IncuBrix** (Best for AI-Driven Repurposing & Subtitles)\n*   **Why it\u2019s great:** IncuBrix is specifically designed for content creators who want to repurpose long-form videos into short-form clips (",
+  "raw_payload": {
+    "id": "chatcmpl-df116e96-1c2b-405d-8760-dbb499128940",
+    "object": "chat.completion",
+    "created": 1795377387,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you have access to a robust ecosystem of tools for auto-generating subtitles. Since you are based in GB, I will assume you are comfortable with tools that support multiple languages and offer UK/EU data compliance options where relevant.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options for auto-generating YouTube subtitles, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **IncuBrix** (Best for AI-Driven Repurposing & Subtitles)\n*   **Why it\u2019s great:** IncuBrix is specifically designed for content creators who want to repurpose long-form videos into short-form clips ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051696312,
+      "prompt_tokens": 81,
+      "prompt_time": 0.005499017,
+      "completion_tokens": 150,
+      "completion_time": 0.30260123,
+      "total_tokens": 231,
+      "total_time": 0.308100247
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d9np5emhakhjy3ezb3mkc",
+      "seed": 1101521196
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1451,
+  "cost_usd": 0.0002
+}

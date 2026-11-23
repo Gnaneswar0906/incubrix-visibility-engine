@@ -1,0 +1,20 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=podcast+to+shorts+m",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "podcast to shorts m",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:52:02.444330+00:00",
+  "extracted_count": 7,
+  "suggestions": [
+    "podcast to shorts maker",
+    "podcast shorts maker free",
+    "podcast shorts maker ai",
+    "podcast shorts maker free without watermark",
+    "podcast shorts music",
+    "podcast short form",
+    "podcast format example"
+  ],
+  "raw_response": "[\"podcast to shorts m\",[\"podcast to shorts maker\",\"podcast shorts maker free\",\"podcast shorts maker ai\",\"podcast shorts maker free without watermark\",\"podcast shorts music\",\"podcast short form\",\"podcast format example\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390]]}]"
+}

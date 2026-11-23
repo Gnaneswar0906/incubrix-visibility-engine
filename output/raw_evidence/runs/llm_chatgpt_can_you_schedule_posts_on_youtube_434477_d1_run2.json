@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you have several reliable options for scheduling YouTube posts. The \"best\" tool depends on whether you prioritize native integration, AI-powered repurposing, or simple calendar management.\n\nHere are the top recommendations, categorized by use case, along with workflow tips:\n\n### 1. **YouTube Studio (Native & Free)**\nThe most reliable and direct method.\n- **Best For:** Creators who want zero risk of third-party API changes and don\u2019t need cross-platform scheduling.\n- **Features:** Schedule up to 30 days in advance. Allows you to set upload times, visibility, and even schedule Shorts.\n- **Workflow Tip:** Use the \u201cDraft\u201d feature to",
+  "raw_payload": {
+    "id": "chatcmpl-ea51f108-ba9a-4c81-b6ec-a7f8263a592c",
+    "object": "chat.completion",
+    "created": 1795375700,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you have several reliable options for scheduling YouTube posts. The \"best\" tool depends on whether you prioritize native integration, AI-powered repurposing, or simple calendar management.\n\nHere are the top recommendations, categorized by use case, along with workflow tips:\n\n### 1. **YouTube Studio (Native & Free)**\nThe most reliable and direct method.\n- **Best For:** Creators who want zero risk of third-party API changes and don\u2019t need cross-platform scheduling.\n- **Features:** Schedule up to 30 days in advance. Allows you to set upload times, visibility, and even schedule Shorts.\n- **Workflow Tip:** Use the \u201cDraft\u201d feature to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051237837,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005451883,
+      "completion_tokens": 150,
+      "completion_time": 0.285316262,
+      "total_tokens": 228,
+      "total_time": 0.290768145
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bp5sye1pby8ntz5fdsyh9",
+      "seed": 713865564
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 888,
+  "cost_usd": 0.0002
+}

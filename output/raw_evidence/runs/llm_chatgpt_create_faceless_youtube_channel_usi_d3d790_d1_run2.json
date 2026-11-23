@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "create faceless youtube channel using ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel has become one of the most accessible entry points into content creation, particularly for creators in the UK and globally. The rise of AI tools has significantly lowered the barrier to entry, allowing you to produce high-quality, engaging content without ever showing your face or recording your voice.\n\nBelow is a curated guide on the best software tools, recommended workflows, and industry-leading options for building a successful faceless channel in 2024/2025.\n\n### 1. Core AI Software Stack\n\nA successful faceless channel typically relies on a combination of three types of tools: **Scripting/Ideas**, **Voiceover**, and **Video Editing/Assembly**.\n\n#### A. Scripting & Ide",
+  "raw_payload": {
+    "id": "chatcmpl-8edfe5e1-a25f-4344-96e5-65cc4add1b6b",
+    "object": "chat.completion",
+    "created": 1795375863,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a faceless YouTube channel has become one of the most accessible entry points into content creation, particularly for creators in the UK and globally. The rise of AI tools has significantly lowered the barrier to entry, allowing you to produce high-quality, engaging content without ever showing your face or recording your voice.\n\nBelow is a curated guide on the best software tools, recommended workflows, and industry-leading options for building a successful faceless channel in 2024/2025.\n\n### 1. Core AI Software Stack\n\nA successful faceless channel typically relies on a combination of three types of tools: **Scripting/Ideas**, **Voiceover**, and **Video Editing/Assembly**.\n\n#### A. Scripting & Ide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.064767941,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005482309,
+      "completion_tokens": 150,
+      "completion_time": 0.295645031,
+      "total_tokens": 229,
+      "total_time": 0.30112734
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bv5t8e05rakmpkzw3y7nq",
+      "seed": 2084931938
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1047,
+  "cost_usd": 0.0002
+}

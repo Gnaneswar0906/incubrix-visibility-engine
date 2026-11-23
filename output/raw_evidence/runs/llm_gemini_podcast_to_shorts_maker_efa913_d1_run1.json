@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best software tools, workflow methods, and industry-leading platforms to help you convert long-form podcasts into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\nHere is a comprehensive guide tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing tools has exploded. Here is how the top contenders\u2014including your mentioned tools\u2014stack up:\n\n*   **Opus Clip (Industry Leader for AI Curation):** \n    *   *What it does:* An AI-powered video repurposing tool that turns long videos into high-potential shorts in one click. It analyzes your podcast, identifies the most \"hook-able\" moments, extracts them, adds captions, and scores them based on virality potential.\n    *   *Best for:* Creators",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best software tools, workflow methods, and industry-leading platforms to help you convert long-form podcasts into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\nHere is a comprehensive guide tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing tools has exploded. Here is how the top contenders\u2014including your mentioned tools\u2014stack up:\n\n*   **Opus Clip (Industry Leader for AI Curation):** \n    *   *What it does:* An AI-powered video repurposing tool that turns long videos into high-potential shorts in one click. It analyzes your podcast, identifies the most \"hook-able\" moments, extracts them, adds captions, and scores them based on virality potential.\n    *   *Best for:* Creators",
+              "thoughtSignature": "Eo4BCosBAWkUfRNI5MrJVgHatCrYu5/+EmwmX4DZCL4x0cEUFrLjkuh3X50qRSbOSak0MiSm7uNxkWfDi2c8eyOKEcInQ2f7EQT7AAcksaD7oPLizg1mdDiw/2F5Le/62hNIOUcvXOXX/T4uLaY+v32+khwmctJsRdHgo4j7rsSMLzRO4aMir3js7lWgYwlmcw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qj0Da9GHMMH5juMP47XliQk"
+  },
+  "latency_ms": 3137,
+  "cost_usd": 0.0002
+}

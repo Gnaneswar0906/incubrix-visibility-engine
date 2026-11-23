@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to streamline their workflow from live streaming on Twitch to publishing on YouTube, automating the process is a major time-saver. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options\u2014including the specific platforms you mentioned\u2014tailored to modern content creators.\n\n---\n\n### 1. The Best Workflow Methods\nDepending on your editing style, there are two primary pathways for getting Twitch content onto YouTube: **The Automated Pipeline** (hands-off, fast) and **The AI-Assisted Pipeline** (optimized for viral short-form content).\n\n*   **Method A: Direct VOD Export (Long-form)**\n    *   *Best for:* Streamers who want full playthroughs, podcast-style VODs, or unedited gameplay archives on YouTube.\n    *   *Workflow:* Stream on Twitch $\\rightarrow$ Use native Twitch-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to streamline their workflow from live streaming on Twitch to publishing on YouTube, automating the process is a major time-saver. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options\u2014including the specific platforms you mentioned\u2014tailored to modern content creators.\n\n---\n\n### 1. The Best Workflow Methods\nDepending on your editing style, there are two primary pathways for getting Twitch content onto YouTube: **The Automated Pipeline** (hands-off, fast) and **The AI-Assisted Pipeline** (optimized for viral short-form content).\n\n*   **Method A: Direct VOD Export (Long-form)**\n    *   *Best for:* Streamers who want full playthroughs, podcast-style VODs, or unedited gameplay archives on YouTube.\n    *   *Workflow:* Stream on Twitch $\\rightarrow$ Use native Twitch-",
+              "thoughtSignature": "Eo4BCosBAWkUfRP48e/wvYK7rR+xiALNPnHCaA8b1uY2wp6F7VyMxHDwykrJlxw4++vOYyseru/7HX3TO5f2cyPdnAtLBG/gAFeJPtYVWPaPNJ2Gegq8q/RJC38CRbBHXJ1KG3+VMT6rw3BHXrGHLeo1s6W6BCfUQ4OCwMOGnpsPJ4E8RplEkL8ceIxnY2oEZQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Fz8Da-_lOqT6juMPnL6OiQ4"
+  },
+  "latency_ms": 6600,
+  "cost_usd": 0.0002
+}

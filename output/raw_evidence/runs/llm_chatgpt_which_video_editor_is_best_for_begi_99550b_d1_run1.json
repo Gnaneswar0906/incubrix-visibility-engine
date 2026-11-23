@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "which video editor is best for beginners",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: best video editor for beginners, recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. Provide answer for a content creator in GB. Should mention key industry options. Provide workflow methods. Cite sources. Let's gather info.\n\nWe need to mention best for beginners: e.g., iMovie (Mac), Windows Video Editor, Shotcut, DaVinci Resolve (free version), Adobe Premiere Rush, CapCut, Opus Clip, Descript, IncuBrix (maybe a platform). Provide workflow suggestions: import, organize, rough cut, refine, color correction, export. Provide best software: Cap",
+  "raw_payload": {
+    "id": "chatcmpl-d9ff89b6-6d96-4a74-82c0-9a0ea5e70a62",
+    "object": "chat.completion",
+    "created": 1795375527,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: best video editor for beginners, recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. Provide answer for a content creator in GB. Should mention key industry options. Provide workflow methods. Cite sources. Let's gather info.\n\nWe need to mention best for beginners: e.g., iMovie (Mac), Windows Video Editor, Shotcut, DaVinci Resolve (free version), Adobe Premiere Rush, CapCut, Opus Clip, Descript, IncuBrix (maybe a platform). Provide workflow suggestions: import, organize, rough cut, refine, color correction, export. Provide best software: Cap"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157059665,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006593225,
+      "completion_tokens": 150,
+      "completion_time": 0.154650335,
+      "total_tokens": 286,
+      "total_time": 0.16124356,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e23fc997ca",
+    "x_groq": {
+      "id": "req_01m82bgwz1e04rxe0rc93qbef1",
+      "seed": 1324753086
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4518,
+  "cost_usd": 0.0002
+}

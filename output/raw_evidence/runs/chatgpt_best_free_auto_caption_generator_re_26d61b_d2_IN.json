@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "best free auto caption generator reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"best free auto caption generator reddit\". They are a content creator located in India (IN). They want recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if availabl",
+      "cost_usd": 0.0002,
+      "latency_ms": 3130,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_free_auto_caption_generator_re_26d61b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick answer:**  \nIf you\u2019re looking for a **free, reliable auto\u2011caption generator** that the Reddit community already trusts, the top picks",
+      "cost_usd": 0.0002,
+      "latency_ms": 3831,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_free_auto_caption_generator_re_26d61b_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_free_auto_caption_generator_re_26d61b_d2_IN.json"
+}

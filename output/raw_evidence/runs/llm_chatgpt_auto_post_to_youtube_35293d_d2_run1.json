@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating your YouTube workflow is essential for scaling. However, it\u2019s important to clarify a key distinction first: **YouTube does not allow fully autonomous, unsupervised posting via third-party APIs for standard channels** due to spam and quality control policies.\n\nInstead, \"auto-posting\" typically means one of two things:\n1. **Semi-automated scheduling**: Uploading and scheduling videos in bulk using YouTube\u2019s native tools or authorized partners.\n2. **Content automation**: Using AI to edit, clip, and prepare content so that *you* only need to hit \u201cpublish\u201d at the end.\n\nBelow are the best tools and workflows to achieve this, categorized by your",
+  "raw_payload": {
+    "id": "chatcmpl-4cccb2f1-2e6d-42cf-af7b-7f7bf930a1ed",
+    "object": "chat.completion",
+    "created": 1795376651,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating your YouTube workflow is essential for scaling. However, it\u2019s important to clarify a key distinction first: **YouTube does not allow fully autonomous, unsupervised posting via third-party APIs for standard channels** due to spam and quality control policies.\n\nInstead, \"auto-posting\" typically means one of two things:\n1. **Semi-automated scheduling**: Uploading and scheduling videos in bulk using YouTube\u2019s native tools or authorized partners.\n2. **Content automation**: Using AI to edit, clip, and prepare content so that *you* only need to hit \u201cpublish\u201d at the end.\n\nBelow are the best tools and workflows to achieve this, categorized by your"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054550662,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005093097,
+      "completion_tokens": 150,
+      "completion_time": 0.284709769,
+      "total_tokens": 226,
+      "total_time": 0.289802866
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ck70he6nrn36tebk2m54w",
+      "seed": 705295991
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1182,
+  "cost_usd": 0.0002
+}

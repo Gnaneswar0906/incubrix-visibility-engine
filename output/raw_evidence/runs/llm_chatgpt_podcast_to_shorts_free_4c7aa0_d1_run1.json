@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast content into short-form vertical video (Reels, TikTok, Shorts) is one of the most effective ways to grow an audience in 2024/2025. Since you are in the US and looking for **free** options, it\u2019s important to manage expectations: most \"AI clipping\" tools operate on a \"freemium\" model. You can start for free, but exporting high-quality, watermark-free content often requires a paid tier.\n\nBelow is a breakdown of the best software tools, workflow methods, and industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Software Tools for Podcast-to-Shorts (Free/Freemium)\n\n#### 1.",
+  "raw_payload": {
+    "id": "chatcmpl-6272dc6c-f15d-4ebe-9599-3c0238602ca1",
+    "object": "chat.completion",
+    "created": 1795374473,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast content into short-form vertical video (Reels, TikTok, Shorts) is one of the most effective ways to grow an audience in 2024/2025. Since you are in the US and looking for **free** options, it\u2019s important to manage expectations: most \"AI clipping\" tools operate on a \"freemium\" model. You can start for free, but exporting high-quality, watermark-free content often requires a paid tier.\n\nBelow is a breakdown of the best software tools, workflow methods, and industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Software Tools for Podcast-to-Shorts (Free/Freemium)\n\n#### 1."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054270811,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005292668,
+      "completion_tokens": 150,
+      "completion_time": 0.296746873,
+      "total_tokens": 226,
+      "total_time": 0.302039541
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82agqqdetkshejpze43d7gx",
+      "seed": 1900817456
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1083,
+  "cost_usd": 0.0002
+}

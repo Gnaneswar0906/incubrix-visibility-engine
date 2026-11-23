@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs ssemble",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They ask to cite authoritative web sources if available. Provide answer for content creator in GB. Should be helpful. Provide comparisons of Opus Clip vs ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2391,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_ssemble_0ec75c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They want citation of authoritative web sources if available. Need to answer as an AI assistant for a content creator located in GB (UK). Should recommen",
+      "cost_usd": 0.0002,
+      "latency_ms": 2554,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_ssemble_0ec75c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_ssemble_0ec75c_d1_GB.json"
+}

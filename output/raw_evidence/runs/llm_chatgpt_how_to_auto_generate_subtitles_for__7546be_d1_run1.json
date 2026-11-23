@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Answer  \n**Free,",
+  "raw_payload": {
+    "id": "chatcmpl-6b0b5e79-912c-4da8-8257-3e24e7c8b59f",
+    "object": "chat.completion",
+    "created": 1795375588,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Answer  \n**Free,",
+          "reasoning": "We need to answer as an AI assistant, location GB, providing recommendations for free auto subtitle generation tools, workflow, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide info, maybe include links. Should not claim copyrighted text. Provide citations. Use markdown. Provide workflow steps. Also note limitations, privacy. Provide free options. Provide mention of paid upgrades. Provide authoritative sources like official sites, tech articles. Provide citations using footnotes. Provide UK considerations (e.g., GDPR). Provide final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36919958,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005427299,
+      "completion_tokens": 150,
+      "completion_time": 0.311498888,
+      "total_tokens": 288,
+      "total_time": 0.316926187,
+      "completion_tokens_details": {
+        "reasoning_tokens": 133
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82bjr3cee0rb2rhkkn9w7pj",
+      "seed": 313236319
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3101,
+  "cost_usd": 0.0002
+}

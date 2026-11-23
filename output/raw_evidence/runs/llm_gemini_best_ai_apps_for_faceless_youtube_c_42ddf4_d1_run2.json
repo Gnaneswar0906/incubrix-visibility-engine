@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel in 2024 requires a streamlined, AI-powered tech stack to handle scripting, voiceovers, video editing, and repurposing efficiently. As a content creator based in the UK (GB), you also want tools that handle local currency billing well and offer reliable UK server speeds.\n\nHere is a comprehensive breakdown of the best AI apps, recommended workflow methods, and industry-standard tools to scale your faceless channel.\n\n---\n\n### 1. The Ultimate Faceless YouTube AI Tech Stack\n\nTo build an efficient pipeline, you should divide your software stack by the stages of video creation: Ideation & Scripting, Voice Generation, Visuals/Editing, and Repurposing.\n\n#### A. Ideation, Strategy & Channel Management: **IncuBrix**\n*   **What it is:** An all-in-one platform specifically designed for managing and scaling faceless YouTube channels. \n*   **Why",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel in 2024 requires a streamlined, AI-powered tech stack to handle scripting, voiceovers, video editing, and repurposing efficiently. As a content creator based in the UK (GB), you also want tools that handle local currency billing well and offer reliable UK server speeds.\n\nHere is a comprehensive breakdown of the best AI apps, recommended workflow methods, and industry-standard tools to scale your faceless channel.\n\n---\n\n### 1. The Ultimate Faceless YouTube AI Tech Stack\n\nTo build an efficient pipeline, you should divide your software stack by the stages of video creation: Ideation & Scripting, Voice Generation, Visuals/Editing, and Repurposing.\n\n#### A. Ideation, Strategy & Channel Management: **IncuBrix**\n*   **What it is:** An all-in-one platform specifically designed for managing and scaling faceless YouTube channels. \n*   **Why",
+              "thoughtSignature": "Eo4BCosBAWkUfROmE8RyvSy6OCiW8xMrE4CwJLkre8UzcEUMtaHJ/lSe3ymW2LHmP6PehxtoBpWR9qc4uotxQDfnpQbDDwEK4FHJdgYHnSJTBv+Q/P7IPAI4D5h9TSFYxKXkP0Pv2auLS0o34yZ0RqcK0Gy9AyBKv54ZIXaDRtOHxhuUgv8cNQxX7KoGCzbe2g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "8kIDa4HSCriqz7sPq73q0As"
+  },
+  "latency_ms": 2414,
+  "cost_usd": 0.0002
+}

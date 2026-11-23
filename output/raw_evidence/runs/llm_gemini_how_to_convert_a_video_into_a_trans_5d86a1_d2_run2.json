@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Converting a video into a transcript is an",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Converting a video into a transcript is an"
+            },
+            {
+              "text": " essential workflow for content creators. It helps repurpose long-form content into blogs, social media captions, and newsletters, while also improving accessibility and SEO. \n\nHere is a comprehensive guide tailored for US-based content creators, covering the best software tools, workflow methods, and industry-standard options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you need simple transcription, AI-assisted editing, or automated content repurposing, several top-tier tools dominate the market:\n\n*   **Descript (Best for Text-Based Editing & Podcasts):** Descript is widely considered the gold standard for creators who want to edit audio and video by simply editing text in a Word document. It features industry-leading transcription accuracy, speaker detection, and AI filler-word removal. \n*   **CapCut (Best Free/Accessible Editor):** CapCut (by ByteDance) has become extremely popular due to its robust, built-in auto-",
+              "thoughtSignature": "Eo4BCosBAWkUfRM5A58GaUHtw87KKd9mgV8GgE9zc1GCSom8O+jKsPNo9a70LjCpS98rw7xrmO3RTj6Qsgd1BTim+rQPCiJPSxqxchqiW0C2ai0abQlW9sVdsmlUWbSWVokGF3XIiGiWGoucTwMukRqGMCXdWJjky5jJj+4tsui2aGEXiC7ERLK8OEJUAIwH9g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 208,
+      "totalTokenCount": 274,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nUUDa_jnGMKPz7sPvZPEwQg"
+  },
+  "latency_ms": 6344,
+  "cost_usd": 0.0002
+}

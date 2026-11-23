@@ -1,0 +1,90 @@
+{
+  "query": "camtasia text-based video editing",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.techsmith.com/camtasia/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "camtasia text-based video editing",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Camtasia \u2013 Free Screen Recorder & Video Editor",
+        "link": "https://www.techsmith.com/camtasia/",
+        "displayedLink": "https://www.techsmith.com \u203a camtasia",
+        "snippet": "Edit your video by editing text. Stop hunting for mistakes on the timeline. Camtasia, powered by Audiate, automatically transcribes your audio into text. To cut ...",
+        "position": 1
+      },
+      {
+        "title": "Edit Videos Fast with Text-Based Editing",
+        "link": "https://www.youtube.com/watch?v=iz7u8mPrcac&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Text-based video editing lets you edit videos fast by editing text instead of trimming a timeline. Learn how to turn a quick screen\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "AI text-based video editing",
+        "link": "https://www.techsmith.com/camtasia/features/ai-text-based-editing/",
+        "displayedLink": "https://www.techsmith.com \u203a camtasia \u203a features \u203a ai-text-based-editing",
+        "snippet": "Automatically transcribe audio, delete filler words, and edit your video by editing text. Streamline video editing with Camtasia Audiate.",
+        "position": 3
+      },
+      {
+        "title": "Text-Based Editing",
+        "link": "https://www.techsmith.com/learn/webinars/text-based-editing/",
+        "displayedLink": "https://www.techsmith.com \u203a learn \u203a webinars \u203a text-based-editing",
+        "position": 4
+      },
+      {
+        "title": "How to Edit Video by Editing Text in Camtasia 2026 and Beyond using ...",
+        "link": "https://www.youtube.com/watch?v=dDgQBiPD-OQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this tutorial, I'll show you How to Edit Video by Editing Text in Camtasia 2026 and Beyond using Camtasia Audiate. \u00b7 How to Save Camtasia\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Buy Camtasia",
+        "link": "https://www.techsmith.com/store/camtasia",
+        "displayedLink": "https://www.techsmith.com \u203a store \u203a camtasia",
+        "snippet": "AI FEATURES \u00b7 Text-based video editing \u00b7 Automatic filler word removal \u00b7 Speech-to-text transcription \u00b7 Unlimited caption generation \u00b7 VIDEO \u00b7 Editable multitrack ...",
+        "position": 6
+      },
+      {
+        "title": "r/CamtasiaStudio on Reddit: Text- ...",
+        "link": "https://www.reddit.com/r/CamtasiaStudio/comments/1gressb/textbased_video_editing_in_camtasia_essentials/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a textbased_video_editing_in_...",
+        "snippet": "It has text based editing right in it, and so many more tools including excellent audio effects and audio plugin support. For $50 more than a ...",
+        "position": 7
+      },
+      {
+        "title": "Text-Based Video Editing Changes Everything",
+        "link": "https://www.youtube.com/watch?v=Rm1p_g0DrHA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "... VIDEO: 00:00 is text-based editing really easier or faster? 02:00 export camtasia recording to audiate 03:23 how to auto-remove hesitations\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Camtasia | Screen Recording, Video Editing & Training Content Creation",
+        "link": "https://www.techsmith.com/",
+        "displayedLink": "https://www.techsmith.com",
+        "snippet": "Text-Based Editing. Edit a video just like a text document \u00b7 AI Avatar Generation. Create a realistic digital presenter to deliver narration \u00b7 AI Translation.",
+        "position": 9
+      },
+      {
+        "title": "Video Editor - Camtasia",
+        "link": "https://www.techsmith.com/camtasia/features/video-editor/",
+        "displayedLink": "https://www.techsmith.com \u203a camtasia \u203a features \u203a video-editor",
+        "snippet": "Text-Based Editing. Edit a video just like a text document \u00b7 AI Avatar Generation. Create a realistic digital presenter to deliver narration \u00b7 AI Translation.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

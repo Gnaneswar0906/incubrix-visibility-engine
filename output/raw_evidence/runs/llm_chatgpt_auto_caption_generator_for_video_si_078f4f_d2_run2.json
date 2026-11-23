@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto caption generator for video in Sinhala language. They are a content creator in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give suggestions, mention tools that support Sinhala auto transcription/captioning. Provide workflow: upload video, generate captions, edit, export, embed.\n\nWe need to cite sources. Provide links. Ensure compliance: no disallowed content. Provide helpful info.\n\nLet's list tools: YouTube automatic captions (supports Sinhala?), Google Cloud Speech-to-Text, IBM Watson, Rev.com, Kapwing, VEED, Clipchamp, VE",
+  "raw_payload": {
+    "id": "chatcmpl-d6f2ec81-ad55-4c36-8e2c-d0adbc764452",
+    "object": "chat.completion",
+    "created": 1795376989,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto caption generator for video in Sinhala language. They are a content creator in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give suggestions, mention tools that support Sinhala auto transcription/captioning. Provide workflow: upload video, generate captions, edit, export, embed.\n\nWe need to cite sources. Provide links. Ensure compliance: no disallowed content. Provide helpful info.\n\nLet's list tools: YouTube automatic captions (supports Sinhala?), Google Cloud Speech-to-Text, IBM Watson, Rev.com, Kapwing, VEED, Clipchamp, VE"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.374103542,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005652617,
+      "completion_tokens": 150,
+      "completion_time": 0.309123979,
+      "total_tokens": 286,
+      "total_time": 0.314776596,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82cxgwte0s8aqccppqn459t",
+      "seed": 1147747808
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3105,
+  "cost_usd": 0.0002
+}

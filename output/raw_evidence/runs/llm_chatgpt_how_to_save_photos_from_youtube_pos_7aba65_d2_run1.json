@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to save photos from youtube posts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Saving photos directly from YouTube \"posts\" (a feature often confused with YouTube Shorts or static thumbnails) requires a nuanced approach, as **YouTube does not have a native \"Posts\" feature that displays static images for download** in the way Instagram or Twitter does. However, if you are referring to:\n\n1. **YouTube Shorts** (vertical videos, sometimes with static frames),\n2. **Video thumbnails** (the \"photo\" associated with a video),\n3. **Embedded images within video content**, or\n4. **YouTube Community Tab posts** (which *can* include images),\n\nHere\u2019s how to save them effectively, along with recommended tools and workflows for content creators in India (IN).\n\n---\n\n### \u2705 Clar",
+  "raw_payload": {
+    "id": "chatcmpl-b6e52f89-077f-4bf6-83c2-98beeaa9477e",
+    "object": "chat.completion",
+    "created": 1795377094,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Saving photos directly from YouTube \"posts\" (a feature often confused with YouTube Shorts or static thumbnails) requires a nuanced approach, as **YouTube does not have a native \"Posts\" feature that displays static images for download** in the way Instagram or Twitter does. However, if you are referring to:\n\n1. **YouTube Shorts** (vertical videos, sometimes with static frames),\n2. **Video thumbnails** (the \"photo\" associated with a video),\n3. **Embedded images within video content**, or\n4. **YouTube Community Tab posts** (which *can* include images),\n\nHere\u2019s how to save them effectively, along with recommended tools and workflows for content creators in India (IN).\n\n---\n\n### \u2705 Clar"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054332493,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005587257,
+      "completion_tokens": 150,
+      "completion_time": 0.297891963,
+      "total_tokens": 229,
+      "total_time": 0.30347922
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d0qr5eqhsg3604b84ece2",
+      "seed": 904626911
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1349,
+  "cost_usd": 0.0002
+}

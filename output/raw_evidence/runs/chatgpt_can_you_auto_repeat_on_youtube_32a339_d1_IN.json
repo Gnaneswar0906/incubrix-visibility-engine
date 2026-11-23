@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "can you auto repeat on youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in India, you are likely looking for efficient ways to maximize the reach of your YouTube content. The short answer is that **YouTube itself does not have a native \"auto-repeat\" feature** that automatically replays a video in a loop for viewers.\n\nHowever, you can ac",
+      "cost_usd": 0.0002,
+      "latency_ms": 1276,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_you_auto_repeat_on_youtube_32a339_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant to a content creator in India (IN). Query: \"can you auto repeat on youtube\". They likely want to know how to set a video to auto repeat (loop) on YouTube, maybe for playback or for embedding. Also recommend best software tools, workflow methods, mention key indus",
+      "cost_usd": 0.0002,
+      "latency_ms": 2419,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_you_auto_repeat_on_youtube_32a339_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_can_you_auto_repeat_on_youtube_32a339_d1_IN.json"
+}

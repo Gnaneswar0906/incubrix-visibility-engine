@@ -1,0 +1,114 @@
+{
+  "query": "how to auto generate captions for youtube",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6373554?hl=en",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to auto generate captions for youtube",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Use automatic captioning - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6373554?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6373554",
+        "snippet": "Go to YouTube. \u00b7 From the top right, click Create and then Go live. \u00b7 Choose Stream from the left-hand menu. \u00b7 Within stream settings, turn on Closed captions.",
+        "position": 1
+      },
+      {
+        "title": "[QUESTION] How do you make YouTube generate automated ...",
+        "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a question_how_do_you_make_yo...",
+        "snippet": "Is there a way to just prompt youtube to make the automated captions? For some reason or another they sometimes don't appear and/or I accidentally bork ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3rquw5/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h49neoo/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/19s9s01noyc5f/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3z22xi/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "YouTube Automatic Subtitles: How to Add Quick Closed Captions!",
+        "link": "https://www.youtube.com/watch?v=tWbNrm7Jo5c",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "YouTube Automatic Subtitles: How to Add Quick Closed Captions ... Open ANY Lock without a key in 10 seconds! The Easiest Way Anyone can make it!",
+        "position": 3
+      },
+      {
+        "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online",
+        "snippet": "Upload your video to VEED and select 'Auto Subtitle' to generate captions automatically. \u00b7 Choose a subtitle style \u2014 bold oversized text that fills the frame, ...",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 4
+      },
+      {
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a auto-caption",
+        "snippet": "Auto-caption video. Select \u201cText\u201d on the editor side panel. Under the section Dynamic Text, choose \u201cCaptions.\u201d Click \u201cGenerate text.",
+        "position": 5
+      },
+      {
+        "title": "Auto subtitle generator online | Free in over 100 languages",
+        "link": "https://clipchamp.com/en/subtitle-generator/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a subtitle-generator",
+        "snippet": "Filter out offensive language and profanity with AI and safely monetize TikTok and YouTube videos. Generate clear captions. Ensure work videos are inclusive.",
+        "position": 6
+      },
+      {
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.kapwing.com/subtitles",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 7
+      },
+      {
+        "title": "How do I edit captions on YouTube? - Digital Accessibility - UC Berkeley",
+        "link": "https://dap.berkeley.edu/websites/web-accessibility-basics/captions-and-videos/how-do-i-edit-captions-youtube",
+        "displayedLink": "https://dap.berkeley.edu \u203a websites \u203a ... \u203a how-do-i-edit-captions-youtube",
+        "snippet": "How do I auto-caption a video on YouTube? \u00b7 In YouTube Studio, select Create and Upload Videos. \u00b7 Within the Upload Videos panel, select Show More. \u00b7 Under ...",
+        "position": 8
+      },
+      {
+        "title": "Edit Automatic Captions in YouTube and Download and Repurpose them!",
+        "link": "https://www.youtube.com/watch?v=LUa-fqKQOHg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "From the \"Edit as text\" screen, you can export a text file. \u00b7 From the \"Editing timing\" screen, you can export an SBV file.",
+        "position": 9
+      },
+      {
+        "title": "How (and why) to add captions to your YouTube videos",
+        "link": "https://blog.youtube/news-and-events/caption-my-youtube-videos/",
+        "displayedLink": "https://blog.youtube \u203a news-and-events \u203a caption-my-youtube-videos",
+        "snippet": "Click \u201cadd subtitles\u201d and you'll see a list of options including upload file, auto sync and type manually. You can also utilize YouTube's auto ...",
+        "date": "6 Nov 2023",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

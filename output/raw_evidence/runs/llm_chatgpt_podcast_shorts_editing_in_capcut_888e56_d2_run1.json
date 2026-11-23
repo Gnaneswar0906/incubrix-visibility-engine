@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for podcast shorts editing in CapCut, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide recommendations, workflow steps, pros/cons, etc. Must be US-based content creator. Provide citations with links. Ensure compliance with policy. No disallowed content. Provide helpful answer.\n\nWill include citations in markdown footnotes. Use reliable sources: official websites, reviews from TechRadar, PCMag, etc. Provide workflow: import audio, extract highlights, sync with video, add captions, export for platforms. Mention AI tools for clipping like Opus Clip, Descript's Overdub",
+  "raw_payload": {
+    "id": "chatcmpl-7ea38a14-baa9-42e5-bdf5-441b23f85c42",
+    "object": "chat.completion",
+    "created": 1795376524,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for podcast shorts editing in CapCut, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide recommendations, workflow steps, pros/cons, etc. Must be US-based content creator. Provide citations with links. Ensure compliance with policy. No disallowed content. Provide helpful answer.\n\nWill include citations in markdown footnotes. Use reliable sources: official websites, reviews from TechRadar, PCMag, etc. Provide workflow: import audio, extract highlights, sync with video, add captions, export for platforms. Mention AI tools for clipping like Opus Clip, Descript's Overdub"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156732973,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005740926,
+      "completion_tokens": 150,
+      "completion_time": 0.309796224,
+      "total_tokens": 285,
+      "total_time": 0.31553715,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cfazaehh87gr703zdqrt8",
+      "seed": 339720291
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2323,
+  "cost_usd": 0.0002
+}

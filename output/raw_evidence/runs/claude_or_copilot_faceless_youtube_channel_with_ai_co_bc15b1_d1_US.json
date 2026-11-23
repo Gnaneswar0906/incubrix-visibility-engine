@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'faceless youtube channel with ai course' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 348
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'faceless youtube channel with ai course' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 476
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_faceless_youtube_channel_with_ai_co_bc15b1_d1_US.json"
+}

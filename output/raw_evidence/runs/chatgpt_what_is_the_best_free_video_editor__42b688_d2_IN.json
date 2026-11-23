@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is the best free video editor for beginners",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Best Free",
+      "cost_usd": 0.0002,
+      "latency_ms": 3025,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_the_best_free_video_editor__42b688_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a great position to leverage a mix of powerful, accessible tools that cater to different aspects of video production. The \"best\" free editor depends slightly on your workflow, but here is a curated recommendation of the top free software options",
+      "cost_usd": 0.0002,
+      "latency_ms": 1248,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_the_best_free_video_editor__42b688_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_is_the_best_free_video_editor__42b688_d2_IN.json"
+}

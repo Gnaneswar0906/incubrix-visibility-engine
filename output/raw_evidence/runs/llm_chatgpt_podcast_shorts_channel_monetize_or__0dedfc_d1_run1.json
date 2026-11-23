@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel monetize or not",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query from a content creator in GB (Great Britain). They ask: \"podcast shorts channel monetize or not\". They want recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to discuss whether a podcast shorts channel can be monetized (e.g., YouTube Shorts, TikTok, Instagram Reels) and how to do it. Provide tools and workflow. Provide citations with links. Must be helpful, UK context, mention monetisation policies, copyright, etc. Provide step-by-step workflow.\n\nWe must not violate policy. It's allowed. Provide citations with proper format.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-e801d47c-8c09-4d81-94d4-7f130971b3de",
+    "object": "chat.completion",
+    "created": 1795375481,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query from a content creator in GB (Great Britain). They ask: \"podcast shorts channel monetize or not\". They want recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to discuss whether a podcast shorts channel can be monetized (e.g., YouTube Shorts, TikTok, Instagram Reels) and how to do it. Provide tools and workflow. Provide citations with links. Must be helpful, UK context, mention monetisation policies, copyright, etc. Provide step-by-step workflow.\n\nWe must not violate policy. It's allowed. Provide citations with proper format.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.163478664,
+      "prompt_tokens": 135,
+      "prompt_time": 0.010548365,
+      "completion_tokens": 150,
+      "completion_time": 0.312257376,
+      "total_tokens": 285,
+      "total_time": 0.322805741,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82bfg9pe1bt0xfx9f8zn3va",
+      "seed": 482805674
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3374,
+  "cost_usd": 0.0002
+}

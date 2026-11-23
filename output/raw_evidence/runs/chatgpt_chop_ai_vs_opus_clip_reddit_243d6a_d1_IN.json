@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "chop ai vs opus clip reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "## Quick Take\u2011away  \n\n| Feature | **Chop AI** (AI\u2011driven short\u2011form cutter) | **Opus Clip** (AI video\u2011to\u2011shorts platform) |\n|---------|-------------------------------------------",
+      "cost_usd": 0.0002,
+      "latency_ms": 1923,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_chop_ai_vs_opus_clip_reddit_243d6a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: chop ai vs opus clip reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources i",
+      "cost_usd": 0.0002,
+      "latency_ms": 2232,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_chop_ai_vs_opus_clip_reddit_243d6a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_chop_ai_vs_opus_clip_reddit_243d6a_d1_IN.json"
+}

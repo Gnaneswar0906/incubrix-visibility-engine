@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs opera",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus vs opera Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer about \"opus vs opera\". Likely they refer to Opus (audio codec) vs Opera (browser?) Or maybe Opus (video editing tool?) Could be about Opus Clip (software) vs Opera (browser). However they ask for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. So they are interested",
+  "raw_payload": {
+    "id": "chatcmpl-a8d61084-f789-4369-9463-4db118a332fc",
+    "object": "chat.completion",
+    "created": 1795377143,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus vs opera Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer about \"opus vs opera\". Likely they refer to Opus (audio codec) vs Opera (browser?) Or maybe Opus (video editing tool?) Could be about Opus Clip (software) vs Opera (browser). However they ask for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. So they are interested"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158490379,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005369929,
+      "completion_tokens": 150,
+      "completion_time": 0.311157371,
+      "total_tokens": 282,
+      "total_time": 0.3165273,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82d27n4e66ar8dtbq2zq2b5",
+      "seed": 1163438325
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2564,
+  "cost_usd": 0.0002
+}

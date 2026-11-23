@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts maker ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Podcast\u2011Shorts\u2011Maker AI \u2013 Toolkit & Workflow for a UK Creator**  \n*(All prices are shown in GBP unless",
+  "raw_payload": {
+    "id": "chatcmpl-3a834e97-1b55-47ac-b710-a70124debbf4",
+    "object": "chat.completion",
+    "created": 1795377286,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Podcast\u2011Shorts\u2011Maker AI \u2013 Toolkit & Workflow for a UK Creator**  \n*(All prices are shown in GBP unless",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for podcast shorts maker AI: software tools, workflow, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to include citations. Should be helpful, UK context maybe. Provide workflow steps, pros/cons, pricing, integration. Use citations with URLs. Provide maybe a table. Also mention AI transcription, editing, auto-clip generation. Provide best practices. Ensure no disallowed content. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.49242127,
+      "prompt_tokens": 133,
+      "prompt_time": 0.033271208,
+      "completion_tokens": 150,
+      "completion_time": 0.312195519,
+      "total_tokens": 283,
+      "total_time": 0.345466727,
+      "completion_tokens_details": {
+        "reasoning_tokens": 116
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82d6jxsepnvc019v0ggb75n",
+      "seed": 1100573098
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2504,
+  "cost_usd": 0.0002
+}

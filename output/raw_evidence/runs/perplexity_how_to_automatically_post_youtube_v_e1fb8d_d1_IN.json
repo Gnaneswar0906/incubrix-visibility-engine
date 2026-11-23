@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to automatically post youtube videos on facebook page' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 356
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to automatically post youtube videos on facebook page' in IN, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 442
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_automatically_post_youtube_v_e1fb8d_d1_IN.json"
+}

@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=publish+video+across+platforms",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "publish video across platforms",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:29:13.948675+00:00",
+  "extracted_count": 2,
+  "suggestions": [
+    "publish video across platforms",
+    "publish video across platforms fortnite"
+  ],
+  "raw_response": "window.google.ac.h([\"publish video across platforms\",[[\"publish video across platforms\",33,[299],{\"a\":\"publish\\u0026nbsp;video\\u0026nbsp;across\\u0026nbsp;\",\"b\":\"... platforms\"}],[\"publish video across platforms fortnite\",33,[299],{\"a\":\"publish\\u0026nbsp;video\\u0026nbsp;across\\u0026nbsp;\",\"b\":\"... platforms\\u0026nbsp;fortnite\"}]],{\"k\":1}])"
+}

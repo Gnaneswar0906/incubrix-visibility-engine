@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "can ai faceless youtube channel be monetized",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'can ai faceless youtube channel be monetized' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 431
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'can ai faceless youtube channel be monetized' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 491
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_can_ai_faceless_youtube_channel_be__88e0e3_d2_GB.json"
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and platform standards) but also because a significant percentage of viewers watch social media videos on mute. \n\nTo help you streamline your workflow, here is a breakdown of the best software tools, key industry options, and a recommended workflow method.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different purposes, ranging from quick mobile edits to automated AI clipping and text-based video editing.\n\n1. **CapCut**\n   * **Best For:** Fast, highly stylized, dynamic captions for short-form content (TikTok, Instagram Reels, YouTube Shorts).\n   * **Why use it:** CapCut\u2019s \"Auto Captions\" feature is free, highly accurate, and offers trendy templates (word-by-word highlighting, custom fonts, emojis). It is available on mobile and desktop.\n2. **Opus Clip",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and platform standards) but also because a significant percentage of viewers watch social media videos on mute. \n\nTo help you streamline your workflow, here is a breakdown of the best software tools, key industry options, and a recommended workflow method.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different purposes, ranging from quick mobile edits to automated AI clipping and text-based video editing.\n\n1. **CapCut**\n   * **Best For:** Fast, highly stylized, dynamic captions for short-form content (TikTok, Instagram Reels, YouTube Shorts).\n   * **Why use it:** CapCut\u2019s \"Auto Captions\" feature is free, highly accurate, and offers trendy templates (word-by-word highlighting, custom fonts, emojis). It is available on mobile and desktop.\n2. **Opus Clip",
+              "thoughtSignature": "Eo4BCosBAWkUfRO34GOHbDoka1aNlHw4Yid3gyVjVUsBW9sHfO3lO6yL9qOxo9hC/w784bVezy8jqAvXzMT6JtOSEAvCZFDYycP4Ppao4ih46uPexQHI7EhA4ifuNDbI5ExsIIxfZ217TZb4MTUqODS9PNR0T20ooOy31PQOnUiBjfzEWY/3IEf3jMXRFvEyGg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "EkIDa7KWItrt1_oPxZShyQs"
+  },
+  "latency_ms": 2260,
+  "cost_usd": 0.0002
+}

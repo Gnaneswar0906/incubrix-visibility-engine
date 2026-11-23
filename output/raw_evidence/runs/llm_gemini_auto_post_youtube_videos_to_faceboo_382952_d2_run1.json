@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a"
+            },
+            {
+              "text": " US-based content creator looking to maximize your reach, cross-posting your long-form and short-form YouTube videos to a Facebook Page is a proven way to drive cross-platform engagement, tap into Facebook's distinct monetization and community features, and save production time. \n\nHowever, simply sharing a YouTube link on Facebook typically results in very low algorithmic reach because platforms prefer native video uploads. To achieve the best results, you need a mix of AI repurposing tools and automated publishing workflows.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and optimized workflow methods to automate this process.\n\n---\n\n### Part 1: Key Industry Software & Tools\n\nTo get your YouTube content onto Facebook effectively, you generally need two types of software: **Repurposing/Editing tools** (to format the video for Facebook) and **Automation/Scheduling tools** (to handle the actual posting).\n\n#### 1. Repurposing &",
+              "thoughtSignature": "Eo4BCosBAWkUfRNeZyVeO/N5DCrxErQnontB9DHNTur3tDWRDDfLKsKHIGNcEwMNrVDN+9n8YDDdh0MW7/wFZZfASmtxzu/QA23jXVqBNex0cxHkjo+XWzk7Jrj7aPpE/qmX4c8uarmRwt3BurOOH8P4hDBwHX9R+wt5g3SZwpOKQxbybLHXnIirvHz4VbE2/w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "QUYDa5CJGYrl694PiP2PCA"
+  },
+  "latency_ms": 5968,
+  "cost_usd": 0.0002
+}

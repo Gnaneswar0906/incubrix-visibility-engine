@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or munch",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch"
+      ],
+      "snippet": "As an AI assistant helping a content creator in Great Britain, choosing between **Opus Clip** and **Munch** depends heavily on your specific workflow, the platforms you target (TikTok, YouTube Shorts, Instagram Reels), and your budget. Both are industry-leading AI repurposing tools, but they cater t",
+      "cost_usd": 0.0002,
+      "latency_ms": 2375,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_or_munch_73add0_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'opus clip or munch' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 332
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_or_munch_73add0_d1_GB.json"
+}

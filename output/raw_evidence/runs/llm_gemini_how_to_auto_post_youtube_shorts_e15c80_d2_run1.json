@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale your short-form video strategy, automating the YouTube Shorts pipeline is one of the highest-leverage moves you can make. Automation allows you to batch-create content, schedule posts consistently, and repurpose long-form videos into viral clips without manual overhead.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to automate your YouTube Shorts workflow.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you need AI clip generation, professional editing, or direct multi-platform scheduling, here are the top tools currently used by top-tier creators:\n\n*   **Opus Clip (AI Repurposing):** \n    *   *What it does:* An industry leader in generative AI video clipping. You drop in a long-form YouTube video URL, and its AI analyzes the content, extracts the most engaging hooks, creates standalone Shorts, adds dynamic captions",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale your short-form video strategy, automating the YouTube Shorts pipeline is one of the highest-leverage moves you can make. Automation allows you to batch-create content, schedule posts consistently, and repurpose long-form videos into viral clips without manual overhead.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to automate your YouTube Shorts workflow.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you need AI clip generation, professional editing, or direct multi-platform scheduling, here are the top tools currently used by top-tier creators:\n\n*   **Opus Clip (AI Repurposing):** \n    *   *What it does:* An industry leader in generative AI video clipping. You drop in a long-form YouTube video URL, and its AI analyzes the content, extracts the most engaging hooks, creates standalone Shorts, adds dynamic captions",
+              "thoughtSignature": "Eo4BCosBAWkUfRMBH0z8otjmX7eBmhJnAFrj8/Gtdo0XEE669CeJZm5ZZC4Gb8/7O97UGroWsnW9jo68rsDxZfAnT67PsmFH+roc+OojB7rYD0lEFkquJK9X3wf8JjIX52aEjVRFbcY6HlLoKuybLwFGgkZTh99DVz0JwO9nyLEj/+P+riK7ZVWS2ffmqOnkLw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "SUYDa--1I4WR3LUP79XOoQ8"
+  },
+  "latency_ms": 6962,
+  "cost_usd": 0.0002
+}

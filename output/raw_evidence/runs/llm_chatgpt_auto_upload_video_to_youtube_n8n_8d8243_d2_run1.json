@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto uploading video to YouTube using n8n (an automation tool). Include best software tools, workflow methods, and mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. Provide citations with links. Provide steps on how to use n8n to upload videos automatically, possibly via YouTube API, using triggers like new file in Google Drive, Dropbox, or after video processing. Mention tools for video editing: CapCut, Descript, Opus Clip, IncuBrix. Provide workflow: edit video, export to cloud storage",
+  "raw_payload": {
+    "id": "chatcmpl-71ddf43d-9d11-4b64-b193-1734502fa9dc",
+    "object": "chat.completion",
+    "created": 1795376695,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto uploading video to YouTube using n8n (an automation tool). Include best software tools, workflow methods, and mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. Provide citations with links. Provide steps on how to use n8n to upload videos automatically, possibly via YouTube API, using triggers like new file in Google Drive, Dropbox, or after video processing. Mention tools for video editing: CapCut, Descript, Opus Clip, IncuBrix. Provide workflow: edit video, export to cloud storage"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158837019,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005201911,
+      "completion_tokens": 150,
+      "completion_time": 0.309804972,
+      "total_tokens": 287,
+      "total_time": 0.315006883,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82cmj3wet9sd9neyzrp7r65",
+      "seed": 1911116591
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2539,
+  "cost_usd": 0.0002
+}

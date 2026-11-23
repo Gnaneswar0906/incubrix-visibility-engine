@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video after effects",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking for solutions that balance quality, cost-effectiveness, and ease of integration with Adobe After Effects. Since After Effects itself does not have a native, robust \"one-click\" auto-caption generator (it relies heavily on scripting or manual keyframing), the workflow usually involves generating captions in a dedicated tool and importing them into AE, or using specific plugins/scripts.\n\nHere are the best software tools, workflow methods, and industry options for generating auto-captions for use with After Effects:\n\n### 1. Top Recommended Tools for Auto-Captions\n\n#### **A. Descript (Highly Recommended for Workflow Integration)**\n*   **Why it\u2019s great:** Descript",
+  "raw_payload": {
+    "id": "chatcmpl-3561bfcd-b7e0-449a-bd37-b4c311e398e8",
+    "object": "chat.completion",
+    "created": 1795376977,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking for solutions that balance quality, cost-effectiveness, and ease of integration with Adobe After Effects. Since After Effects itself does not have a native, robust \"one-click\" auto-caption generator (it relies heavily on scripting or manual keyframing), the workflow usually involves generating captions in a dedicated tool and importing them into AE, or using specific plugins/scripts.\n\nHere are the best software tools, workflow methods, and industry options for generating auto-captions for use with After Effects:\n\n### 1. Top Recommended Tools for Auto-Captions\n\n#### **A. Descript (Highly Recommended for Workflow Integration)**\n*   **Why it\u2019s great:** Descript"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.837712598,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005485379,
+      "completion_tokens": 150,
+      "completion_time": 0.298265824,
+      "total_tokens": 229,
+      "total_time": 0.303751203
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cx4rxemg97fh5b6a39vms",
+      "seed": 1909692799
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1940,
+  "cost_usd": 0.0002
+}

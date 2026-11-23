@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to youtube shorts ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy: Provide helpful info, no disallowed content. Provide citations (maybe with URLs). Should be concise but thorough. Also maybe mention other tools like Adobe Premiere Pro, Final Cut Pro, InShot, Clipchamp, Veed.io, Canva, etc. Workflow: extract audio, generate transcript, pick highlight moments, add captions, format for vertical 9:16, add music, export.\n\nMention AI tools for summarization: ChatGPT, Open",
+  "raw_payload": {
+    "id": "chatcmpl-882ee0cd-db20-4580-adbd-91f027f81f05",
+    "object": "chat.completion",
+    "created": 1795376904,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy: Provide helpful info, no disallowed content. Provide citations (maybe with URLs). Should be concise but thorough. Also maybe mention other tools like Adobe Premiere Pro, Final Cut Pro, InShot, Clipchamp, Veed.io, Canva, etc. Workflow: extract audio, generate transcript, pick highlight moments, add captions, format for vertical 9:16, add music, export.\n\nMention AI tools for summarization: ChatGPT, Open"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157119169,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005284511,
+      "completion_tokens": 150,
+      "completion_time": 0.309341202,
+      "total_tokens": 284,
+      "total_time": 0.314625713,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82ctxv4e1r8bnxfc7fggzja",
+      "seed": 427348001
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2551,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatic captions generator for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"automatic captions generator for free\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. Provide suggestions. Need to mention free options and maybe free tiers. Provide workflow methods. Provide citations. Provide links. Use up-to-date info. Provide references to sources. Should be helpful. Also mention that some tools are free, some have paid upgrades. Provide best practices.\n\nWe need to cite authoritative web sources. We can use Wikipedia, tech blogs, product pages. Provide citations in parentheses with link. Use markdown.\n\nWe need to mention",
+  "raw_payload": {
+    "id": "chatcmpl-c1018449-9dee-4573-bd8c-0cc8fca47a91",
+    "object": "chat.completion",
+    "created": 1795377402,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"automatic captions generator for free\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. Provide suggestions. Need to mention free options and maybe free tiers. Provide workflow methods. Provide citations. Provide links. Use up-to-date info. Provide references to sources. Should be helpful. Also mention that some tools are free, some have paid upgrades. Provide best practices.\n\nWe need to cite authoritative web sources. We can use Wikipedia, tech blogs, product pages. Provide citations in parentheses with link. Use markdown.\n\nWe need to mention"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156442683,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006618147,
+      "completion_tokens": 150,
+      "completion_time": 0.156404508,
+      "total_tokens": 284,
+      "total_time": 0.163022655,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_75c733514d",
+    "x_groq": {
+      "id": "req_01m82da4r4e1dsxre05m1fetsd",
+      "seed": 850816125
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4284,
+  "cost_usd": 0.0002
+}

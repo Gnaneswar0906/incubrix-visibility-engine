@@ -1,0 +1,56 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor app",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator located in India (IN). They want recommendations for text video editor apps, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available.\n\nWe must provide recommendations, workflow, mention those tools, maybe others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Veed.io, InVideo, Lumen5, etc. Provide guidance for text overlay, subtitles, AI-driven text video creation.\n\nCite sources: can reference websites like TechRadar, PCMag, CNET, The Verge, etc. Provide URLs.\n\nMake sure to comply with policy: no disallowed",
+  "raw_payload": {
+    "id": "chatcmpl-0cd1c77d-20ef-414b-b46c-22e9b958c594",
+    "object": "chat.completion",
+    "created": 1795376949,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator located in India (IN). They want recommendations for text video editor apps, best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available.\n\nWe must provide recommendations, workflow, mention those tools, maybe others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Veed.io, InVideo, Lumen5, etc. Provide guidance for text overlay, subtitles, AI-driven text video creation.\n\nCite sources: can reference websites like TechRadar, PCMag, CNET, The Verge, etc. Provide URLs.\n\nMake sure to comply with policy: no disallowed"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368868064,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005275244,
+      "completion_tokens": 150,
+      "completion_time": 0.313685403,
+      "total_tokens": 283,
+      "total_time": 0.318960647,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82cw9afe04r45vsrr9vdye7",
+      "seed": 1352192620
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2898,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, finding an **open-source, text-based (transcript-driven) video editor** requires looking closely at the intersection of developer-driven open-source projects and professional",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, finding an **open-source, text-based (transcript-driven) video editor** requires looking closely at the intersection of developer-driven open-source projects and professional"
+            },
+            {
+              "text": " AI tooling. \n\nWhile the absolute cutting edge of text-based video editing is currently dominated by proprietary SaaS platforms, the open-source community offers powerful alternatives, alongside standard industry giants for comparison.\n\nHere is a comprehensive breakdown of the best open-source tools, recommended workflows, and how they compare to leading industry alternatives.\n\n---\n\n### Part 1: The Best Open-Source Text-Based Video Editors\n\nTrue open-source, text-based (transcript-driven) video editors are rare because they require complex integrations of Speech-to-Text (STT) AI models and non-linear video editing (NLE) timelines. However, the following tools lead the open-source space:\n\n#### 1. **AutoCut** (Best for Python-based/Premiere workflows)\n*   **What it is:** An open-source Python tool that lets you edit videos via a transcript. \n*   **How it works:** It uses OpenAI's",
+              "thoughtSignature": "Eo4BCosBAWkUfRO458oiqoOnxdLzi6l/YWOm4DaCfIPemrfCu7GqdHfJLcDsB3m6QFxU3VVeg2AT/fqswHf4KNlyGJmNT4AGSQujsgFo2iAe9ZnhaxTsrrhULvZiXwX8R6y3g0Dm4dZGf0NexPuJCW6OmU+ayOki3F2ptGnllG5+LbK8T3TRmfqlr4B6sG65Cw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 246,
+      "totalTokenCount": 310,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qEEDa-b3FNik0r4Pibr_4A8"
+  },
+  "latency_ms": 7199,
+  "cost_usd": 0.0002
+}

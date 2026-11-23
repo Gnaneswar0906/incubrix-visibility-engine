@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to automate or semi-automate the publishing of YouTube videos, the approach depends heavily on your content type (e.g., long-form Vlogs vs. Shorts/Reels) and your technical comfort level. There is no single \"magic button\" for completely hands-off publishing due to YouTube\u2019s strict anti-spam policies, but you can significantly streamline the workflow using specific tools and APIs.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options:\n\n### 1. Key Industry Tools & Platforms\n\n#### **A. Scheduling & Direct Integration (The \"Publish\" Step)**\nThese tools connect directly to your YouTube channel and allow you to schedule uploads, edit metadata (title",
+  "raw_payload": {
+    "id": "chatcmpl-730d69d2-ffd0-4c91-bb3c-f744fe1639ce",
+    "object": "chat.completion",
+    "created": 1795374895,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a US-based content creator looking to automate or semi-automate the publishing of YouTube videos, the approach depends heavily on your content type (e.g., long-form Vlogs vs. Shorts/Reels) and your technical comfort level. There is no single \"magic button\" for completely hands-off publishing due to YouTube\u2019s strict anti-spam policies, but you can significantly streamline the workflow using specific tools and APIs.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options:\n\n### 1. Key Industry Tools & Platforms\n\n#### **A. Scheduling & Direct Integration (The \"Publish\" Step)**\nThese tools connect directly to your YouTube channel and allow you to schedule uploads, edit metadata (title"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052960237,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005358203,
+      "completion_tokens": 150,
+      "completion_time": 0.290818486,
+      "total_tokens": 226,
+      "total_time": 0.296176689
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82axm7nekk81w0zy2q4mnxh",
+      "seed": 1205160998
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1467,
+  "cost_usd": 0.0002
+}

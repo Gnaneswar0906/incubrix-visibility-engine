@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 488
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Munch. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 395
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_best_auto_caption_generator_reddit_fefb04_d2_IN.json"
+}

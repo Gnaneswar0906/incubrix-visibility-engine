@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post on youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for auto posting on YouTube, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India (IN). We need to comply with policy. The request is about providing information on software tools and workflow for auto posting on YouTube. That's allowed. We can provide recommendations, mention tools, and cite sources. No disallowed content. Must ensure no copyrighted text beyond short excerpt. Provide citations with URLs. Use markdown. Provide steps. Also mention YouTube API, scheduling via YouTube Studio, third-party tools like TubeBuddy, Hootsuite, Buffer",
+  "raw_payload": {
+    "id": "chatcmpl-1773c32c-2059-4cf8-937d-e48dd5e804f5",
+    "object": "chat.completion",
+    "created": 1795375261,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for auto posting on YouTube, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India (IN). We need to comply with policy. The request is about providing information on software tools and workflow for auto posting on YouTube. That's allowed. We can provide recommendations, mention tools, and cite sources. No disallowed content. Must ensure no copyrighted text beyond short excerpt. Provide citations with URLs. Use markdown. Provide steps. Also mention YouTube API, scheduling via YouTube Studio, third-party tools like TubeBuddy, Hootsuite, Buffer"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369093905,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005599184,
+      "completion_tokens": 150,
+      "completion_time": 0.308969145,
+      "total_tokens": 285,
+      "total_time": 0.314568329,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82b8s2ne278sspy1z3m9px7",
+      "seed": 1354036335
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4110,
+  "cost_usd": 0.0002
+}

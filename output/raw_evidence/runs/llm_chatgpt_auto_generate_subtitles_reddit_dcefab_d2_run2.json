@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a great position to leverage automated subtitle tools, especially since the Indian audience often prefers watching videos with subtitles due to diverse regional languages and varied internet conditions.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and industry options for auto-generating subtitles, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Short-Form & TikTok/Reels)\n- **Why it\u2019s great**: Free (with Pro options), intuitive, and deeply integrated with short-form content creation.\n- **Features**:\n  - One-click auto-captions with high accuracy for English and many Indian languages",
+  "raw_payload": {
+    "id": "chatcmpl-8043098d-e2ce-4975-9d76-7f03ba726f08",
+    "object": "chat.completion",
+    "created": 1795377005,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a great position to leverage automated subtitle tools, especially since the Indian audience often prefers watching videos with subtitles due to diverse regional languages and varied internet conditions.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and industry options for auto-generating subtitles, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Short-Form & TikTok/Reels)\n- **Why it\u2019s great**: Free (with Pro options), intuitive, and deeply integrated with short-form content creation.\n- **Features**:\n  - One-click auto-captions with high accuracy for English and many Indian languages"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05406532,
+      "prompt_tokens": 76,
+      "prompt_time": 0.0054227,
+      "completion_tokens": 150,
+      "completion_time": 0.292256323,
+      "total_tokens": 226,
+      "total_time": 0.297679023
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cy0wrekj8dt62d2jbwm4n",
+      "seed": 48634362
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1280,
+  "cost_usd": 0.0002
+}

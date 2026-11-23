@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a US content creator. Provide recommendations on software tools, workflow, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: we can provide citations, but we must not",
+      "cost_usd": 0.0002,
+      "latency_ms": 2795,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_write_a_video_transcript_ffe6a3_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants advice on how to write a video transcript, recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide a thorough answer. Need to cite sources. As ChatGPT, I can reference s",
+      "cost_usd": 0.0002,
+      "latency_ms": 2563,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_write_a_video_transcript_ffe6a3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_write_a_video_transcript_ffe6a3_d2_US.json"
+}

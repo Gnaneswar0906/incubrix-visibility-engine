@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai claude",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for a faceless YouTube channel AI Claude. Likely they want to use Claude (Anthropic) for AI content generation. Provide a comprehensive answer, with workflow steps: script generation with Claude, voice generation with text-to-speech (e.g., ElevenLabs, Murf AI), video creation with stock footage, AI video editing, etc. Include tools like Pictory, Synthesia, Runway, InVideo, etc. Provide citations with URLs. Must be authoritative web sources. Provide citations in a format. Since I can browse? I cannot actually browse",
+  "raw_payload": {
+    "id": "chatcmpl-59b67c21-cbca-42c9-b783-5a13a9c4c20d",
+    "object": "chat.completion",
+    "created": 1795375797,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for a faceless YouTube channel AI Claude. Likely they want to use Claude (Anthropic) for AI content generation. Provide a comprehensive answer, with workflow steps: script generation with Claude, voice generation with text-to-speech (e.g., ElevenLabs, Murf AI), video creation with stock footage, AI video editing, etc. Include tools like Pictory, Synthesia, Runway, InVideo, etc. Provide citations with URLs. Must be authoritative web sources. Provide citations in a format. Since I can browse? I cannot actually browse"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15852762,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005708298,
+      "completion_tokens": 150,
+      "completion_time": 0.308888022,
+      "total_tokens": 286,
+      "total_time": 0.31459632,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82bs4ygertvj64bbnvanm19",
+      "seed": 450303895
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2805,
+  "cost_usd": 0.0002
+}

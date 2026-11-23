@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator in the US looking to streamline the production of Instagram Reels, automating captions is no longer just a convenience\u2014it\u2019s a necessity for accessibility and algorithmic reach, given that a significant portion of users watch videos on mute.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options to auto-generate accurate, engaging captions.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Captions\n\n#### 1. **CapCut** (Best Free/Integrated Option)\nCapCut is the de facto standard for TikTok and Instagram Reels due to its seamless integration with social media trends.\n- **Why it\u2019s great**: It offers highly accurate auto-captions with one click. You can",
+  "raw_payload": {
+    "id": "chatcmpl-6b864cc4-ef94-4eaa-a1c2-5a93ea656254",
+    "object": "chat.completion",
+    "created": 1795376600,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a content creator in the US looking to streamline the production of Instagram Reels, automating captions is no longer just a convenience\u2014it\u2019s a necessity for accessibility and algorithmic reach, given that a significant portion of users watch videos on mute.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options to auto-generate accurate, engaging captions.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Captions\n\n#### 1. **CapCut** (Best Free/Integrated Option)\nCapCut is the de facto standard for TikTok and Instagram Reels due to its seamless integration with social media trends.\n- **Why it\u2019s great**: It offers highly accurate auto-captions with one click. You can"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051789647,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005100343,
+      "completion_tokens": 150,
+      "completion_time": 0.30232389,
+      "total_tokens": 228,
+      "total_time": 0.307424233
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82chmm1ewytmfzb77ha1fzd",
+      "seed": 1461200048
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1089,
+  "cost_usd": 0.0002
+}

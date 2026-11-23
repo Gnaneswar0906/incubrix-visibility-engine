@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts english",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the UK, I have tailored this guide to the best AI-driven repurposing tools, standard",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the UK, I have tailored this guide to the best AI-driven repurposing tools, standard"
+            },
+            {
+              "text": " workflows, and industry-standard options for turning long-form podcasts into engaging English-language shorts (TikToks, Reels, YouTube Shorts). \n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven podcast clipping tools has matured significantly. Here are the leading platforms suited for English-content creators:\n\n*   **Opus Clip (Industry Leader for Automation):** Opus Clip uses AI to analyze long-form videos, extract multiple standalone \"clips,\" score them based on viral potential, add auto-captions, and reframe the video to 9:16. It is exceptionally popular for its \"one-click\" workflow.\n*   **CapCut (Best for Creative Control & Budget):** Widely used by UK creators, CapCut offers robust AI auto-captions, dynamic templates, and smart re-framing. While it requires a bit more manual editing than Opus Clip, its desktop app is free (with a Pro",
+              "thoughtSignature": "Eo4BCosBAWkUfRMJa9rBfMJVXQl3KfKhHhYBQEtbpmisdxIBqu9o9K/zykLsCK/xWxYNK4BmiTLAyBKuL9ELGK3oGt+5d8ePbVER2PGxrLzNufE8wsgVEGf7FQRuZuHzJilvUQ0GWiofD00rwP+VxeSCnqehQH4fT7+VtdpFJTb6MnFgCZAD9LB0F34tKYnUOQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 228,
+      "totalTokenCount": 289,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "WkEDa4KvAfu1694Pr4nR0AM"
+  },
+  "latency_ms": 7358,
+  "cost_usd": 0.0002
+}

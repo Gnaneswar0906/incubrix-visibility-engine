@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Building a **Faceless YouTube Channel** with AI \u2013 A Practical",
+  "raw_payload": {
+    "id": "chatcmpl-5fe243f6-8369-4700-be61-ff9671de6642",
+    "object": "chat.completion",
+    "created": 1795375823,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Building a **Faceless YouTube Channel** with AI \u2013 A Practical",
+          "reasoning": "We need to answer as an AI assistant. Provide recommendations for a faceless YouTube channel using AI: software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Should be helpful. Also note that the user is in GB, maybe mention UK-specific considerations (e.g., copyright, GDPR). Provide step-by-step workflow.\n\nWe need to cite authoritative sources: maybe from official sites, TechCrunch, etc. Provide links. Use proper citation style.\n\nWe'll produce a thorough answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.063507415,
+      "prompt_tokens": 137,
+      "prompt_time": 0.049987834,
+      "completion_tokens": 150,
+      "completion_time": 0.325103144,
+      "total_tokens": 287,
+      "total_time": 0.375090978,
+      "completion_tokens_details": {
+        "reasoning_tokens": 127
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_245acb052a",
+    "x_groq": {
+      "id": "req_01m82bsy53e0esj5rtkfeqbhjh",
+      "seed": 1212028822
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3704,
+  "cost_usd": 0.0002
+}

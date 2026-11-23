@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking to dive into text-based video editing, you are tapping into one of the fastest-growing trends in digital media. Text-based video editing allows you to edit your videos simply by editing a text transcript\u2014deleting a paragraph of text automatically cuts the corresponding video clip. \n\nHere is a comprehensive guide tailored to your needs, covering the best software tools, a streamlined workflow, and a look at key industry options including the ones you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are creating long-form YouTube videos, educational content, or short-form viral clips (Reels/Shorts), different tools serve different purposes:\n\n*   **Descript:** Widely considered the gold standard for text-based video editing. It transcribes audio with high accuracy, allows you to edit video via a text doc, offers AI \"Studio Sound\" to clean up bad",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking to dive into text-based video editing, you are tapping into one of the fastest-growing trends in digital media. Text-based video editing allows you to edit your videos simply by editing a text transcript\u2014deleting a paragraph of text automatically cuts the corresponding video clip. \n\nHere is a comprehensive guide tailored to your needs, covering the best software tools, a streamlined workflow, and a look at key industry options including the ones you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are creating long-form YouTube videos, educational content, or short-form viral clips (Reels/Shorts), different tools serve different purposes:\n\n*   **Descript:** Widely considered the gold standard for text-based video editing. It transcribes audio with high accuracy, allows you to edit video via a text doc, offers AI \"Studio Sound\" to clean up bad",
+              "thoughtSignature": "Eo4BCosBAWkUfRPX+y8u4QXPacaXHieCk5Pp/jeIe2opLIrU4H3GUFwyaIJFr+NlIrykliyBHPLJSsy9loc00CMiQ7ctUDGxVQ8lujeM2dKoUBS7Ar356Eu1g57yq2XQXJICpkPpqmbUFJR4R9d2BEQfuV9/3MuZqFOE6CXI/oFx1bpyTDrF8ECUGTp1SP3sSg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "MEADa6aeAvjJz7sP952RUA"
+  },
+  "latency_ms": 5696,
+  "cost_usd": 0.0002
+}

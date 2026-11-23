@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating a fully automated pipeline for YouTube Shorts requires a blend of AI-powered editing, scheduling, and API integration, as YouTube does not natively support \"set-and-forget\" automatic posting from external files without an API bridge. However, you can build a highly efficient, semi-to-fully automated workflow using the right stack.\n\nHere\u2019s a structured recommendation for a creator in the UK (GB), focusing on reliability, cost-effectiveness, and industry standards.\n\n### \ud83c\udfc6 Recommended Automated Workflow Stack\n\n#### 1. **Content Creation & Editing (AI-Driven)**\nThe goal here is to minimize manual editing. Use AI tools to turn long-form content into short, viral-ready clips.\n\n*   **Opus Clip** (",
+  "raw_payload": {
+    "id": "chatcmpl-dd765082-cc6c-4dc2-bcdb-31a0f1a0ec29",
+    "object": "chat.completion",
+    "created": 1795375669,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a fully automated pipeline for YouTube Shorts requires a blend of AI-powered editing, scheduling, and API integration, as YouTube does not natively support \"set-and-forget\" automatic posting from external files without an API bridge. However, you can build a highly efficient, semi-to-fully automated workflow using the right stack.\n\nHere\u2019s a structured recommendation for a creator in the UK (GB), focusing on reliability, cost-effectiveness, and industry standards.\n\n### \ud83c\udfc6 Recommended Automated Workflow Stack\n\n#### 1. **Content Creation & Editing (AI-Driven)**\nThe goal here is to minimize manual editing. Use AI tools to turn long-form content into short, viral-ready clips.\n\n*   **Opus Clip** ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.166319717,
+      "prompt_tokens": 76,
+      "prompt_time": 0.006028671,
+      "completion_tokens": 150,
+      "completion_time": 0.291735442,
+      "total_tokens": 226,
+      "total_time": 0.297764113
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bn7mperkbghbxzd3mnt4h",
+      "seed": 98718140
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2849,
+  "cost_usd": 0.0002
+}

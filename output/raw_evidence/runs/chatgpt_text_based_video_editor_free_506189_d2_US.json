@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Pick: Free **text\u2011centric** video editors for creators in the U.S.\n\n| Tool (Free tier) | Core strength for \u201ctext\u2011based",
+      "cost_usd": 0.0002,
+      "latency_ms": 3100,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editor_free_506189_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in luck because the landscape for **text-based video editing** has matured significantly. This technology (often called \"text-based editing\") allows you to edit video by editing the transcript\u2014deleting a word or sentence in the text automatically cuts t",
+      "cost_usd": 0.0002,
+      "latency_ms": 1828,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editor_free_506189_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editor_free_506189_d2_US.json"
+}

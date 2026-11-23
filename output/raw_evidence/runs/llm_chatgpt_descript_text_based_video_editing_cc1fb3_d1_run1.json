@@ -1,0 +1,58 @@
+{
+  "assistant": "chatgpt",
+  "question": "descript text based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [
+    "https://www.descript.com,",
+    "https://www.capcut.com,",
+    "https://opus.ai,"
+  ],
+  "response_text": "We need to answer a query from a content creator located in IN (India). Provide description of text-based video editing, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: provide citations with URLs, not fabricate. We need to browse? We cannot browse but can provide known sources. Provide citations with placeholders? We can cite known websites like TechCrunch, CNET, etc. Ensure we don't fabricate URLs. We can provide typical known URLs: e.g., https://www.descript.com, https://www.capcut.com, https://opus.ai, etc. Provide citations with proper format.",
+  "raw_payload": {
+    "id": "chatcmpl-dba1c5f7-8182-47d1-af2d-2f13f663cd98",
+    "object": "chat.completion",
+    "created": 1795375181,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query from a content creator located in IN (India). Provide description of text-based video editing, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: provide citations with URLs, not fabricate. We need to browse? We cannot browse but can provide known sources. Provide citations with placeholders? We can cite known websites like TechCrunch, CNET, etc. Ensure we don't fabricate URLs. We can provide typical known URLs: e.g., https://www.descript.com, https://www.capcut.com, https://opus.ai, etc. Provide citations with proper format."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.44289502,
+      "prompt_tokens": 134,
+      "prompt_time": 0.028109799,
+      "completion_tokens": 150,
+      "completion_time": 0.314934508,
+      "total_tokens": 284,
+      "total_time": 0.343044307,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82b6avwetz8zzy8mce315sz",
+      "seed": 1799348623
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3075,
+  "cost_usd": 0.0002
+}

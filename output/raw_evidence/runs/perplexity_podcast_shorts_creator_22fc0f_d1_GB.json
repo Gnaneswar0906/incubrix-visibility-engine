@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast shorts creator",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast shorts creator' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 333
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'podcast shorts creator' in GB, popular recommendations include Descript, Opus Clip. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 384
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_shorts_creator_22fc0f_d1_GB.json"
+}

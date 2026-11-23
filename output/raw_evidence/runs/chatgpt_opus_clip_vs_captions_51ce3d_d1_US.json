@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants a recommendation about \"opus clip vs captions\". Likely they are comparing Opus Clip (a tool for creating short videos) vs captions tools? They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Ne",
+      "cost_usd": 0.0002,
+      "latency_ms": 3021,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_captions_51ce3d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations on software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. S",
+      "cost_usd": 0.0002,
+      "latency_ms": 2733,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_captions_51ce3d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_captions_51ce3d_d1_US.json"
+}

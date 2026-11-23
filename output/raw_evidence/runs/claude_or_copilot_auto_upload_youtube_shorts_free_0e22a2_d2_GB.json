@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "auto upload youtube shorts free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto upload youtube shorts free' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 449
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto upload youtube shorts free' in GB, popular recommendations include CapCut. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_auto_upload_youtube_shorts_free_0e22a2_d2_GB.json"
+}

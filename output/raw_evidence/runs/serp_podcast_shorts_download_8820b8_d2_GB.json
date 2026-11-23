@@ -1,0 +1,98 @@
+{
+  "query": "podcast shorts download",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://downloadfestival.co.uk/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts download",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Download Festival | Donington Park, 9 - 13 June 2027",
+        "link": "https://downloadfestival.co.uk/",
+        "displayedLink": "https://downloadfestival.co.uk",
+        "snippet": "Download Festival is a mammoth rock event, based at the spiritual home of rock Donington Park. The UK's Premier Rock Festival Wed 9 \u2014 Sun 13 June 2027 Donington ...",
+        "position": 1
+      },
+      {
+        "title": "Download Grafana",
+        "link": "https://grafana.com/grafana/download",
+        "displayedLink": "https://grafana.com \u203a grafana \u203a download",
+        "snippet": "Overview of how to download and install different versions of Grafana on different operating systems.",
+        "position": 2
+      },
+      {
+        "title": "Download .NET 8.0 (Linux, macOS, and Windows)",
+        "link": "https://dotnet.microsoft.com/en-us/download/dotnet/8.0",
+        "displayedLink": "https://dotnet.microsoft.com \u203a en-us \u203a ... \u203a 8.0",
+        "snippet": "This release has reached end of life, meaning it is no longer supported. We recommend moving to a supported release, such as .NET 11.0. See our support policy ...",
+        "position": 3
+      },
+      {
+        "title": "Line-up",
+        "link": "https://downloadfestival.co.uk/lineup/",
+        "displayedLink": "https://downloadfestival.co.uk \u203a lineup",
+        "snippet": "Download Festival is a mammoth rock event, based at the spiritual home of rock Donington Park. The UK's Premier Rock Festival Wed 9 \u2014 Sun 13 June 2027 Donington ...",
+        "position": 4
+      },
+      {
+        "title": "Windows download",
+        "link": "https://www.teamviewer.com/en/download/windows/",
+        "displayedLink": "https://www.teamviewer.com \u203a en \u203a download \u203a windows",
+        "snippet": "Download the latest version of TeamViewer for Windows. Control and access your devices remotely.",
+        "position": 5
+      },
+      {
+        "title": "LinkedIn Data Export",
+        "link": "https://www.linkedin.com/mypreferences/d/download-my-data",
+        "displayedLink": "https://www.linkedin.com \u203a mypreferences \u203a d \u203a download-my-data",
+        "snippet": "No information is available for this page.",
+        "sitelinks": [
+          {
+            "title": "Learn why",
+            "link": "https://support.google.com/webmasters/answer/7489871?hl=en"
+          }
+        ],
+        "position": 6
+      },
+      {
+        "title": "RStudio IDE User Guide",
+        "link": "https://docs.posit.co/ide/user/",
+        "displayedLink": "https://docs.posit.co \u203a ide \u203a user",
+        "snippet": "RStudio is available in open source and commercial editions and runs on the desktop (Windows 11, macOS 15+, and Linux) To install it, see ...",
+        "date": "13 Nov 2026",
+        "position": 7
+      },
+      {
+        "title": "Download PuTTY: latest release (0.85)",
+        "link": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+        "displayedLink": "https://www.chiark.greenend.org.uk \u203a ~sgtatham \u203a putty \u203a latest.html",
+        "snippet": "This page contains download links for the latest released version of PuTTY. Currently this is 0.85, released on 2026-08-16. When new releases ...",
+        "date": "16 Aug 2026",
+        "position": 8
+      },
+      {
+        "title": "Download Proxmox software, datasheets, agreements",
+        "link": "https://www.proxmox.com/en/downloads",
+        "displayedLink": "https://www.proxmox.com \u203a en \u203a downloads",
+        "snippet": "Proxmox VE 9.2 ISO Installer Version 9.2-1 File Size 1.71 GB. Download Torrent Proxmox. File Size 1.48 GB. File Size 1.64 GB",
+        "position": 9
+      },
+      {
+        "title": "Download Admit Card Link - MPESB",
+        "link": "https://esb.mp.gov.in/tacs/tac_2026/SUBEDAR_SI_RES_TAC26/default_tac.htm",
+        "displayedLink": "https://esb.mp.gov.in \u203a tacs \u203a ... \u203a default_tac.htm",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

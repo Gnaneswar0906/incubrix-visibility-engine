@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Provide workflow steps. Should be helpful. Should not violate any policy. Provide links. Ensure not to provide disallowed content. It's fine.\n\nWe need to mention best software tools for auto generating subtitles for YouTube videos. Tools: YouTube's built-in automatic captions, Descript, Kapwing, Rev, Amara, Happy Scribe, Otter.ai, Clipchamp, etc. Also mention IncuBrix (",
+  "raw_payload": {
+    "id": "chatcmpl-0d2dd0e0-5438-4233-8a07-3cd14e6b58ca",
+    "object": "chat.completion",
+    "created": 1795375587,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Provide workflow steps. Should be helpful. Should not violate any policy. Provide links. Ensure not to provide disallowed content. It's fine.\n\nWe need to mention best software tools for auto generating subtitles for YouTube videos. Tools: YouTube's built-in automatic captions, Descript, Kapwing, Rev, Amara, Happy Scribe, Otter.ai, Clipchamp, etc. Also mention IncuBrix ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156119741,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005881508,
+      "completion_tokens": 150,
+      "completion_time": 0.313219173,
+      "total_tokens": 288,
+      "total_time": 0.319100681,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82bjqfhed3bw4ynyps94aj1",
+      "seed": 1591264189
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2902,
+  "cost_usd": 0.0002
+}

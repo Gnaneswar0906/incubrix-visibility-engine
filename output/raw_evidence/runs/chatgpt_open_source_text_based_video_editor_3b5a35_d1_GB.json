@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! Creating video content using text-based editing is a powerful workflow, especially for content creators in the UK who may be looking for cost-effective, flexible, and scriptable solutions.\n\nWhile strictly \"text-only\" video editors (where you never touch a timeline) are rare for full-fledged p",
+      "cost_usd": 0.0002,
+      "latency_ms": 1309,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_open_source_text_based_video_editor_3b5a35_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in Great Britain. Provide recommendations for open source text based video editor. Also mention workflow methods and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must compl",
+      "cost_usd": 0.0002,
+      "latency_ms": 2710,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_open_source_text_based_video_editor_3b5a35_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_open_source_text_based_video_editor_3b5a35_d1_GB.json"
+}

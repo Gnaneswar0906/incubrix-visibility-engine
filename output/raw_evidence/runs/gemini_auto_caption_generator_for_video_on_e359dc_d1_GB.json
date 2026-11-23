@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK (GB) looking for an online auto-caption generator, your workflow needs to balance speed, platform-specific formatting (TikTok/Reels vs. YouTube), and accuracy for British accents and colloquialisms. \n\nHere is",
+      "cost_usd": 0.0002,
+      "latency_ms": 9899,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_on_e359dc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK (GB) looking for an efficient online auto-caption generator, your",
+      "cost_usd": 0.0002,
+      "latency_ms": 4078,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_on_e359dc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_on_e359dc_d1_GB.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in GB. They want to auto generate captions for YouTube video. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. So we need to provide a structured answer: overview, tools, workflow, key industry options. Provide citations: maybe from official websites, reviews, or reputable tech sites. Provide links. Must mention the specific tools: IncuBrix, CapCut, Opus Clip, Descript. Also other tools: Rev, Otter.ai, YouTube's auto captions, etc. Provide steps: upload, auto generate, edit, export. Provide best",
+  "raw_payload": {
+    "id": "chatcmpl-e69b8d02-9872-446e-99dd-34664b97f160",
+    "object": "chat.completion",
+    "created": 1795377370,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in GB. They want to auto generate captions for YouTube video. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. So we need to provide a structured answer: overview, tools, workflow, key industry options. Provide citations: maybe from official websites, reviews, or reputable tech sites. Provide links. Must mention the specific tools: IncuBrix, CapCut, Opus Clip, Descript. Also other tools: Rev, Otter.ai, YouTube's auto captions, etc. Provide steps: upload, auto generate, edit, export. Provide best"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.313762993,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006579786,
+      "completion_tokens": 150,
+      "completion_time": 0.152659826,
+      "total_tokens": 287,
+      "total_time": 0.159239612,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e189667b30",
+    "x_groq": {
+      "id": "req_01m82d95aee1eadkpqnhbavrys",
+      "seed": 315224125
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5667,
+  "cost_usd": 0.0002
+}

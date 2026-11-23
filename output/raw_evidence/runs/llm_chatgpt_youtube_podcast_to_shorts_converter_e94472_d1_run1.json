@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a YouTube Podcast into Shorts \u2013 Free\u2011or\u2011Low\u2011Cost Toolkit (2024)\n\nBelow is a **step",
+  "raw_payload": {
+    "id": "chatcmpl-6949ae78-8177-424e-bcb0-89deb89680b3",
+    "object": "chat.completion",
+    "created": 1795374502,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a YouTube Podcast into Shorts \u2013 Free\u2011or\u2011Low\u2011Cost Toolkit (2024)\n\nBelow is a **step",
+          "reasoning": "We need to answer as an AI assistant, US-based content creator, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe, no disallowed content. Provide recommendations, free options, workflow steps. Provide citations. Use markdown. Provide links. Ensure not to violate policy. Provide disclaimer about copyright. Provide up-to-date info as of 2024. Provide citations maybe from official sites, blogs. Use footnotes.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048821279,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005586921,
+      "completion_tokens": 150,
+      "completion_time": 0.316417332,
+      "total_tokens": 285,
+      "total_time": 0.322004253,
+      "completion_tokens_details": {
+        "reasoning_tokens": 116
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82ahmgxe5dbp052y78cvpbw",
+      "seed": 338809135
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6335,
+  "cost_usd": 0.0002
+}

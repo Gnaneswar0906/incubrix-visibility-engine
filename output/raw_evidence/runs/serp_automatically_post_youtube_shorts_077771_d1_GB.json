@@ -1,0 +1,110 @@
+{
+  "query": "automatically post youtube shorts",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "automatically post youtube shorts",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description, ...",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 1
+      },
+      {
+        "title": "Auto Upload Videos and Shorts to YouTube",
+        "link": "https://dlvrit.com/youtube-auto-upload/",
+        "displayedLink": "https://dlvrit.com \u203a youtube-auto-upload",
+        "snippet": "Auto post videos and shorts to your YouTube channel. Post videos on Instagram, Facebook, or Tiktok and automatically share them to YouTube.",
+        "position": 2
+      },
+      {
+        "title": "How I turned ONE YouTube video into 10+ Shorts & posted them everywhere automatically",
+        "link": "https://www.reddit.com/r/n8n/comments/1mv590s/how_i_turned_one_youtube_video_into_10_shorts/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_i_turned_one_youtube_vi...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/n8n/comments/1mv590s/how_i_turned_one_youtube_video_into_10_shorts/n9okfsm/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/n8n/comments/1mv590s/how_i_turned_one_youtube_video_into_10_shorts/n9oo4h9/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Youtube shorts automation (free to minimum cost) - Questions",
+        "link": "https://community.make.com/t/youtube-shorts-automation-free-to-minimum-cost/82527",
+        "displayedLink": "https://community.make.com \u203a t \u203a youtube-shorts-automation-f... \u203a 82527",
+        "position": 4
+      },
+      {
+        "title": "Upload YouTube Shorts Automatically | Take the Game to Next Level",
+        "link": "https://community.make.com/t/upload-youtube-shorts-automatically-take-the-game-to-next-level-make-formerly-integromat/12226",
+        "displayedLink": "https://community.make.com \u203a t \u203a upload-youtube-shorts-autom... \u203a 12226",
+        "position": 5
+      },
+      {
+        "title": "Create a YouTube Shorts Automation Channel USING ONLY AI",
+        "link": "https://www.youtube.com/watch?v=8Q6hoBMecSA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Automate YouTube Shorts with cutting-edge AI Google Gemini Gems That Will Blow Your Mind! \u2022 7 Killer Google Gemini.",
+        "position": 6
+      },
+      {
+        "title": "YouTube Shorts Automation: Auto Upload and Schedule",
+        "link": "https://www.shortsync.app/automation/youtube-shorts",
+        "displayedLink": "https://www.shortsync.app \u203a automation \u203a youtube-shorts",
+        "snippet": "Automate YouTube Shorts uploads: schedule Shorts with titles, tags and playlists, bulk upload, and repost your Instagram Reels to Shorts. Free plan.",
+        "position": 7
+      },
+      {
+        "title": "Turn Long Videos Into Viral Shorts and Auto-Post Everywhere (Got Me 100K ...",
+        "link": "https://www.reddit.com/r/n8n/comments/1oi6orf/turn_long_videos_into_viral_shorts_and_autopost/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a turn_long_videos_into_viral...",
+        "snippet": "I built a free open-source tool that automatically clips Youtube podcasts and uploads them to TikTok,Instagram and Youtube shorts \u00b7 r/webdev ...",
+        "sitelinks": [
+          {
+            "title": "I created a 100% automated youtube shorts channel using free AI tools ...r/EntrepreneurRideAlong\u00b730+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cl6yoq/i_created_a_100_automated_youtube_shorts_channel/"
+          },
+          {
+            "title": "How I turned ONE YouTube video into 10+ Shorts & posted them ... - Redditr/n8n\u00b75 comments\u00b71y",
+            "link": "https://www.reddit.com/r/n8n/comments/1mv590s/how_i_turned_one_youtube_video_into_10_shorts/"
+          }
+        ],
+        "position": 8
+      },
+      {
+        "title": "Bulk Upload and YouTube Shorts Scheduling",
+        "link": "https://www.plannthat.com/schedule-youtube-shorts/",
+        "displayedLink": "https://www.plannthat.com \u203a schedule-youtube-shorts",
+        "snippet": "Bulk YouTube Shorts Scheduling. Repurpose, repost and schedule your videos to publish automatically at the right time.",
+        "position": 9
+      },
+      {
+        "title": "How to Auto-Post YouTube Shorts via API (with Scheduling)",
+        "link": "https://www.upload-post.com/how-to/auto-post-youtube-shorts/",
+        "displayedLink": "https://www.upload-post.com \u203a how-to \u203a auto-post-youtube-shorts",
+        "snippet": "Upload and schedule YouTube Shorts programmatically with the Upload-Post API. cURL, Python and n8n examples, batch uploads and cross-posting.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

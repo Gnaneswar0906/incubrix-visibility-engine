@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for video reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: content creator in India. Wants to auto generate subtitles for video reddit. They want recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available.\n\nWe need to provide a comprehensive answer: list software tools, workflow methods, mention key options, with citations. Must be relevant to Indian context perhaps. Provide step-by-step workflow: upload video, auto subtitle, edit, export, etc. Provide pros/cons. Provide links.\n\nWe need to cite authoritative sources: e.g., TechCrunch, G2, Capterra, industry blogs, maybe official websites.\n\nWe should mention that auto-subtitle",
+  "raw_payload": {
+    "id": "chatcmpl-4ad423ae-0e75-4a36-a2df-1b28249ff819",
+    "object": "chat.completion",
+    "created": 1795377002,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: content creator in India. Wants to auto generate subtitles for video reddit. They want recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available.\n\nWe need to provide a comprehensive answer: list software tools, workflow methods, mention key options, with citations. Must be relevant to Indian context perhaps. Provide step-by-step workflow: upload video, auto subtitle, edit, export, etc. Provide pros/cons. Provide links.\n\nWe need to cite authoritative sources: e.g., TechCrunch, G2, Capterra, industry blogs, maybe official websites.\n\nWe should mention that auto-subtitle"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369175693,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006501836,
+      "completion_tokens": 150,
+      "completion_time": 0.154885643,
+      "total_tokens": 285,
+      "total_time": 0.161387479,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_1d46a73b8b",
+    "x_groq": {
+      "id": "req_01m82cxxcgekdbdp4f5hhmxmz0",
+      "seed": 1244266321
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5137,
+  "cost_usd": 0.0002
+}

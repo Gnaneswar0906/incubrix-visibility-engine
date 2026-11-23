@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your video production, auto-generating captions for Instagram Reels is one of the highest-return investments you can make. Captions improve accessibility, boost engagement (since many watch on mute), and enhance audience retention. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Software Tools\n\nDepending on whether you want all-in-one mobile editing, AI-powered clipping, or desktop precision, several industry-standard tools dominate the market:\n\n#### 1. CapCut (Best for Mobile & Dynamic Style)\n*   **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is arguably the most popular tool for short-form video creators. Its \"Auto Captions\" feature is robust, fast, and highly accurate.\n*   **Key",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your video production, auto-generating captions for Instagram Reels is one of the highest-return investments you can make. Captions improve accessibility, boost engagement (since many watch on mute), and enhance audience retention. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Software Tools\n\nDepending on whether you want all-in-one mobile editing, AI-powered clipping, or desktop precision, several industry-standard tools dominate the market:\n\n#### 1. CapCut (Best for Mobile & Dynamic Style)\n*   **Overview:** Owned by ByteDance (TikTok's parent company), CapCut is arguably the most popular tool for short-form video creators. Its \"Auto Captions\" feature is robust, fast, and highly accurate.\n*   **Key",
+              "thoughtSignature": "Eo4BCosBAWkUfRNeYJleMpK+xHe0JlMEkZE7+frNVbYdJY+iuf6n0iuLbdJUtwKxNJoLS8R9eoF5eQCEIXvvLA+vpgZ+efjfc9lcL/vgO3Oz+6ghRz3VzjXkQzt0utnyrgmLnBjZmMO1WuQMns/2xkp0Hzwke4Nw1jMir6Wi+niv1hWXDP9l/jO99u2G016C1g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "20UDa7HeCKX4694PmqPOuQ8"
+  },
+  "latency_ms": 5720,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Editing Video\u202fby\u202fTranscript \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-e92b3964-34f5-4a30-8ccd-3c3e65cb76e0",
+    "object": "chat.completion",
+    "created": 1795374549,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing Video\u202fby\u202fTranscript \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. We can reference official sites, review articles. Provide workflow steps: transcription, editing, syncing, exporting. Also mention AI tools for automatic clipping. Provide pros/cons, pricing. Provide links. Ensure no disallowed content. Provide citations in brackets. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157529946,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005027063,
+      "completion_tokens": 150,
+      "completion_time": 0.309103559,
+      "total_tokens": 283,
+      "total_time": 0.314130622,
+      "completion_tokens_details": {
+        "reasoning_tokens": 116
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82ak1j5egra8y316a8rpxnb",
+      "seed": 446110620
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2942,
+  "cost_usd": 0.0002
+}

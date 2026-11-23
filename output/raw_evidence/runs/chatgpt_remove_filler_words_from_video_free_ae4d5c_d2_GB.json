@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! For content creators in the UK (GB) looking to efficiently remove filler words (like \"um,\" \"uh,\" \"you know\") from video projects for free, here are the best software tools, workflow methods, and industry options.\n\n### \ud83e\udd47 Top Free & Freemium Tools for Filler Word Removal\n\n1. **Descript (Free Ti",
+      "cost_usd": 0.0002,
+      "latency_ms": 1333,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_free_ae4d5c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: remove filler words from video free. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources",
+      "cost_usd": 0.0002,
+      "latency_ms": 4861,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_free_ae4d5c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_free_ae4d5c_d2_GB.json"
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator looking into **Opus Clip** and its competitors, here is a comprehensive breakdown of the best AI video repurposing tools, industry alternatives, and an optimized workflow to maximize your output for platforms like TikTok, Instagram Reels, and Y",
+      "cost_usd": 0.0002,
+      "latency_ms": 3368,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_8560a5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking at **Opus Clip** and its competitors, you are likely trying to solve the biggest bottleneck in modern video creation: **repurposing long-form content (podcasts, YouTube videos, webinars) into viral short-form clips (TikToks, YouTube Shorts, Reels) with minimal ",
+      "cost_usd": 0.0002,
+      "latency_ms": 4048,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_8560a5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_8560a5_d1_US.json"
+}

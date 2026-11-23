@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "create faceless youtube channel using ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, providing recommendations for creating a faceless YouTube channel using AI. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a c",
+      "cost_usd": 0.0002,
+      "latency_ms": 2667,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_faceless_youtube_channel_usi_d3d790_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a faceless YouTube channel has become one of the most accessible entry points into content creation, particularly for creators in the UK and globally. The rise of AI tools has significantly lowered the barrier to entry, allowing you to produce high-quality, engaging content without ever sho",
+      "cost_usd": 0.0002,
+      "latency_ms": 1047,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_faceless_youtube_channel_usi_d3d790_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_create_faceless_youtube_channel_usi_d3d790_d1_GB.json"
+}

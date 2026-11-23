@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "different video editors",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you likely need a toolkit that balances high-end professional editing with fast-paced, short-form content creation. The landscape of video editing is currently split into **traditional NLEs (Non-Linear Editors)** for long-form content and **AI-powered tools** for repurposing and efficiency.\n\nHere\u2019s a curated recommendation of the best software tools and workflow methods, including the specific options you mentioned.\n\n### 1. Industry-Standard & Professional NLEs\nFor long-form YouTube videos, documentaries, or client work, these remain the gold standard.\n\n*   **Adobe Premiere Pro**: The most widely used professional editor. Its tight integration with After Effects and the Creative Cloud ecosystem makes it",
+  "raw_payload": {
+    "id": "chatcmpl-65b6f7c9-c4ea-4c78-a29d-ae9eaae62f1a",
+    "object": "chat.completion",
+    "created": 1795377297,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you likely need a toolkit that balances high-end professional editing with fast-paced, short-form content creation. The landscape of video editing is currently split into **traditional NLEs (Non-Linear Editors)** for long-form content and **AI-powered tools** for repurposing and efficiency.\n\nHere\u2019s a curated recommendation of the best software tools and workflow methods, including the specific options you mentioned.\n\n### 1. Industry-Standard & Professional NLEs\nFor long-form YouTube videos, documentaries, or client work, these remain the gold standard.\n\n*   **Adobe Premiere Pro**: The most widely used professional editor. Its tight integration with After Effects and the Creative Cloud ecosystem makes it"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048240567,
+      "prompt_tokens": 75,
+      "prompt_time": 0.005071963,
+      "completion_tokens": 150,
+      "completion_time": 0.285273414,
+      "total_tokens": 225,
+      "total_time": 0.290345377
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d6xw3ew89q47gbfv5q3e1",
+      "seed": 1118758718
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1034,
+  "cost_usd": 0.0002
+}

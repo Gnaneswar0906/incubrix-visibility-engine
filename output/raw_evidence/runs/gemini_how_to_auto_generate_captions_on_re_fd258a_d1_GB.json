@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating captions for Instagram Reels is one of the most effective ways to boost watch time and engagement, especially since a large portion of users watch videos with the sound off. \n\nAs a content creator in Great Britain, you have access to a robust ecosystem of native platform tools and AI",
+      "cost_usd": 0.0002,
+      "latency_ms": 3013,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_captions_on_re_fd258a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating captions for Instagram Reels is one of the most effective ways to boost watch time and engagement, especially since a large portion of users watch videos with the sound off. \n\nAs a content creator in Great Britain, you have access to a robust ecosystem of native platform tools and th",
+      "cost_usd": 0.0002,
+      "latency_ms": 2039,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_captions_on_re_fd258a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_captions_on_re_fd258a_d1_GB.json"
+}

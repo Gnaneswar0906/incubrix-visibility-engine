@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the UK, here is the direct answer to your query regarding Opus Clip, along with a comprehensive breakdown of its pricing, the best alternative software tools, and an efficient clipping workflow.\n\n---\n\n### Is Opus Clip Free or Not?\n\n**Yes, Opus Clip offers a free tier, but it has significant limitations.** \n\nAccording to their official pricing structure, the free plan typically provides a limited number of processing minutes per month (usually around 60 to 90 minutes of uploaded video) to let creators test out its AI curation features. However, videos processed on the free plan generally include watermarks, and access to advanced editing features or higher-resolution exports may be restricted. Once you exhaust your monthly free minutes, you must upgrade to a paid subscription (Pro tier) to continue generating clips without limitations.\n\n*   *Note on Industry Context:* According to industry software analysis by platforms like [Tom's Guide",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the UK, here is the direct answer to your query regarding Opus Clip, along with a comprehensive breakdown of its pricing, the best alternative software tools, and an efficient clipping workflow.\n\n---\n\n### Is Opus Clip Free or Not?\n\n**Yes, Opus Clip offers a free tier, but it has significant limitations.** \n\nAccording to their official pricing structure, the free plan typically provides a limited number of processing minutes per month (usually around 60 to 90 minutes of uploaded video) to let creators test out its AI curation features. However, videos processed on the free plan generally include watermarks, and access to advanced editing features or higher-resolution exports may be restricted. Once you exhaust your monthly free minutes, you must upgrade to a paid subscription (Pro tier) to continue generating clips without limitations.\n\n*   *Note on Industry Context:* According to industry software analysis by platforms like [Tom's Guide",
+              "thoughtSignature": "Eo4BCosBAWkUfRM1QKj4Er48YwHwFR1CsruJrgYfsvacRqlKekeUJvtTCp9hukXA35Mi72AzINosz0AZpctRgMig7faz1NoEnjv4M5Y/rIz3wh45GAUJEKQdVim32+0bPG+4QSoB5CPX/sW185+8aq+pIz+a3Z5JusZnOSfmjKTHfSVdzNcnFnNp3fxGobe4Ww=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ekIDa6v7C9uQz7sP9o6mkQs"
+  },
+  "latency_ms": 2586,
+  "cost_usd": 0.0002
+}

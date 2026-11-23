@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for removing filler words from video for free. Provide authoritative web sources if available. Must be suitable for a content creator in GB (UK). Provide list, pros/cons, workflow steps, free options, mention limitations. Cite sources with links.\n\nNeed to ensure no disallowed content. It's fine.\n\nWill produce answer with headings: Overview, Free Tools (including CapCut, Opus Clip, Descript free tier, IncuBrix maybe?), other options (DaVinci Resolve, Shotcut, Audacity for audio). Workflow: import, auto-detect filler",
+  "raw_payload": {
+    "id": "chatcmpl-497daa42-1dbe-42ca-ad5f-6f3463223baf",
+    "object": "chat.completion",
+    "created": 1795375538,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for removing filler words from video for free. Provide authoritative web sources if available. Must be suitable for a content creator in GB (UK). Provide list, pros/cons, workflow steps, free options, mention limitations. Cite sources with links.\n\nNeed to ensure no disallowed content. It's fine.\n\nWill produce answer with headings: Overview, Free Tools (including CapCut, Opus Clip, Descript free tier, IncuBrix maybe?), other options (DaVinci Resolve, Shotcut, Audacity for audio). Workflow: import, auto-detect filler"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15435169,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00538681,
+      "completion_tokens": 150,
+      "completion_time": 0.313815725,
+      "total_tokens": 285,
+      "total_time": 0.319202535,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82bh7nzedary456571fq8mg",
+      "seed": 16152793
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2863,
+  "cost_usd": 0.0002
+}

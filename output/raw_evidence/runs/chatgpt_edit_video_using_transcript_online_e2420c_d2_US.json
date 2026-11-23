@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in a prime position to leverage the current wave of **AI-powered, transcript-driven video editing**. This workflow has shifted from a \"nice-to-have\" to a standard operational procedure for many high-volume creators because it allows you to edit video by",
+      "cost_usd": 0.0002,
+      "latency_ms": 1042,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online_e2420c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Editing Video\u202f\u2194\u202fTranscript\u202fOnline \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus a curated list of the **best\u2011in\u2011class tools** (including the ones",
+      "cost_usd": 0.0002,
+      "latency_ms": 2352,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online_e2420c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_online_e2420c_d2_US.json"
+}

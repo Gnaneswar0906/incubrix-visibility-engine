@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating captions for Instagram Reels is one of the most effective ways to boost watch time and engagement, especially since a large portion of users watch videos with the sound off. \n\nAs a content creator in Great Britain, you have access to a robust ecosystem of native platform tools and third-party AI software. Here is a comprehensive guide to the best software tools, recommended workflows, and industry-standard options to automate your Reel captions.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you want a quick in-app solution or a powerful desktop editor with advanced AI features, here are the leading options used by creators today:\n\n*   **CapCut (Mobile & Desktop):** \n    *   *Best for:* Trend-driven, highly stylized, dynamic captions.\n    *   *Why use it:* CapCut is the industry darling for short-form video. Its \"Auto Captions\" feature recognizes speech accurately, and it",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating captions for Instagram Reels is one of the most effective ways to boost watch time and engagement, especially since a large portion of users watch videos with the sound off. \n\nAs a content creator in Great Britain, you have access to a robust ecosystem of native platform tools and third-party AI software. Here is a comprehensive guide to the best software tools, recommended workflows, and industry-standard options to automate your Reel captions.\n\n---\n\n### 1. Key Industry Software Tools\n\nDepending on whether you want a quick in-app solution or a powerful desktop editor with advanced AI features, here are the leading options used by creators today:\n\n*   **CapCut (Mobile & Desktop):** \n    *   *Best for:* Trend-driven, highly stylized, dynamic captions.\n    *   *Why use it:* CapCut is the industry darling for short-form video. Its \"Auto Captions\" feature recognizes speech accurately, and it",
+              "thoughtSignature": "Eo4BCosBAWkUfRM1CRtwloK3lXZZiztmrNq9DQQJoRtUbOkz4icmAkluZWZi+YWfR+0XR4+dZMCgDAqe/9U6TWgARFB9E03ikkdvqK3DAA3svXNlxIDUTbOu5FSeqhDP68GV11nMzjLoIPcthQO63OMNNmXPrvVwH4FuXLEv/JtYNqEgN7cIxlnlEJsiy+dqlg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1kEDa5oSiZ7Puw_Pj4D4Bw"
+  },
+  "latency_ms": 2039,
+  "cost_usd": 0.0002
+}

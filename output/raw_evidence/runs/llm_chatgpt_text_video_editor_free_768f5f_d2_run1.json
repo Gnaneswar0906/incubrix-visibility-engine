@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"text video editor free\". They want recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. They are a content creator located in IN (India). Should recommend free text video editors. Provide workflow methods. Cite authoritative web sources if available.\n\nWe need to include citations. Use typical citation format: [1], etc. Provide URLs. Use up-to-date info.\n\nWe should mention free tools: CapCut, Opus Clip, Descript (free tier), InVideo, Clipchamp (free tier), DaVinci Resolve (free version), Shotcut, Lightworks (free), Open",
+  "raw_payload": {
+    "id": "chatcmpl-4efad6a0-1e88-4cd2-9611-37682131bf1a",
+    "object": "chat.completion",
+    "created": 1795376931,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"text video editor free\". They want recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. They are a content creator located in IN (India). Should recommend free text video editors. Provide workflow methods. Cite authoritative web sources if available.\n\nWe need to include citations. Use typical citation format: [1], etc. Provide URLs. Use up-to-date info.\n\nWe should mention free tools: CapCut, Opus Clip, Descript (free tier), InVideo, Clipchamp (free tier), DaVinci Resolve (free version), Shotcut, Lightworks (free), Open"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.260118475,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006882832,
+      "completion_tokens": 150,
+      "completion_time": 0.176381308,
+      "total_tokens": 283,
+      "total_time": 0.18326414,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_3023a70d60",
+    "x_groq": {
+      "id": "req_01m82cvrjje0htnzdj0p7emh4x",
+      "seed": 930202473
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3483,
+  "cost_usd": 0.0002
+}

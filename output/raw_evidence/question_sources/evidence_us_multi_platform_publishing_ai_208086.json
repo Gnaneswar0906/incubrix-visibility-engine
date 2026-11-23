@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=Multi-platform+publishing+ai",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "Multi-platform publishing ai",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:52:28.191351Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=Multi-platform+publishing+ai (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd54a64a10>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

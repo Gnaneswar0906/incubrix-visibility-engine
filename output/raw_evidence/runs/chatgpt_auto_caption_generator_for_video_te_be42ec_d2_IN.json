@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in India, specifically working with **Telugu** audio, you are navigating a growing but still challenging niche in the AI video editing space. Most general-purpose AI tools (like English-centric ones) often struggle with Dravidian languages due to lower training data avail",
+      "cost_usd": 0.0002,
+      "latency_ms": 1134,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_te_be42ec_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Captioning Tools for Telugu Video (2024)\n\nBelow is a curated list of the **most reliable, Telugu\u2011friendly caption\u2011generation solutions** that work well for creators in India.  Each tool is grouped by",
+      "cost_usd": 0.0002,
+      "latency_ms": 3571,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_te_be42ec_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_te_be42ec_d2_IN.json"
+}

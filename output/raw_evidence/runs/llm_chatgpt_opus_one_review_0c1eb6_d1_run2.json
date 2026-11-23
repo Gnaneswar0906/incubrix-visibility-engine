@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus one review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are likely looking for tools that not only enhance production quality but also help you scale your output efficiently, especially for platforms like YouTube, Instagram Reels, and LinkedIn.\n\nSince your query specifically mentions **Opus One** (which is often confused with **Opus Clip** or **Opus One** the AI video clipping tool) and lists key industry players, I\u2019ll provide a comprehensive breakdown of the best software tools and workflow methods for 2024\u20132025, with a focus on efficiency, AI automation, and cost-effectiveness for creators in India.\n\n### 1. Clarification: \"Opus One\" vs. \"Opus Clip\"\nThere is",
+  "raw_payload": {
+    "id": "chatcmpl-19b07681-e5db-47c1-bcd6-50f00e9108a8",
+    "object": "chat.completion",
+    "created": 1795375331,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are likely looking for tools that not only enhance production quality but also help you scale your output efficiently, especially for platforms like YouTube, Instagram Reels, and LinkedIn.\n\nSince your query specifically mentions **Opus One** (which is often confused with **Opus Clip** or **Opus One** the AI video clipping tool) and lists key industry players, I\u2019ll provide a comprehensive breakdown of the best software tools and workflow methods for 2024\u20132025, with a focus on efficiency, AI automation, and cost-effectiveness for creators in India.\n\n### 1. Clarification: \"Opus One\" vs. \"Opus Clip\"\nThere is"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047438557,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005175503,
+      "completion_tokens": 150,
+      "completion_time": 0.285831602,
+      "total_tokens": 226,
+      "total_time": 0.291007105
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bay1xegvrn5nwx3dcnsf0",
+      "seed": 355068362
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1008,
+  "cost_usd": 0.0002
+}

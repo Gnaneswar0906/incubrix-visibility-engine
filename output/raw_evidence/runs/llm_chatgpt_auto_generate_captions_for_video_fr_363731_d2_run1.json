@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"auto generate captions for video free reddit\" and wants recommendation of best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. The user is a content creator located in India (IN). They want free options? They mention \"auto generate captions for video free reddit\" maybe they want to know how to auto generate captions for videos that are free on Reddit? They want to auto generate captions for video free on reddit? They might want to auto generate captions for videos on reddit for free. They want recommended best software tools, workflow methods, mention key industry options. So I should provide a list of",
+  "raw_payload": {
+    "id": "chatcmpl-215d1307-8892-4133-8ad1-cd872f9404ad",
+    "object": "chat.completion",
+    "created": 1795376995,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"auto generate captions for video free reddit\" and wants recommendation of best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. The user is a content creator located in India (IN). They want free options? They mention \"auto generate captions for video free reddit\" maybe they want to know how to auto generate captions for videos that are free on Reddit? They want to auto generate captions for video free on reddit? They might want to auto generate captions for videos on reddit for free. They want recommended best software tools, workflow methods, mention key industry options. So I should provide a list of"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36850168,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006605527,
+      "completion_tokens": 150,
+      "completion_time": 0.156633778,
+      "total_tokens": 286,
+      "total_time": 0.163239305,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_816fc87d18",
+    "x_groq": {
+      "id": "req_01m82cxpwae09rfvgar6a4nxd0",
+      "seed": 168163107
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4518,
+  "cost_usd": 0.0002
+}

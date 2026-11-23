@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that transforming long-form podcast episodes into short-form vertical videos (TikTok, YouTube Shorts, Instagram Reels) is one of the most effective organic growth strategies available today. \n\nHere is a comprehensive breakdown of",
+      "cost_usd": 0.0002,
+      "latency_ms": 6848,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_generator_b1af8a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I have evaluated the current landscape of AI-powered video repurposing tools. Transforming long-form podcasts into viral short-form content (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies for creators today. \n\nHe",
+      "cost_usd": 0.0002,
+      "latency_ms": 1637,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_generator_b1af8a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_shorts_generator_b1af8a_d1_US.json"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 495
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 433
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_create_a_faceless_youtube_channel_w_b3e578_d2_GB.json"
+}

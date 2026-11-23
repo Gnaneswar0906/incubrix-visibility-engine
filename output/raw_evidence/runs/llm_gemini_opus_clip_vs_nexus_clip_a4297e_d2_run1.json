@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to repurpose long-form videos (like podcasts, YouTube videos, or webinars) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right AI clipping tool is crucial. \n\nWhen comparing **Opus Clip** and **Nexus Clip**, you are looking at two prominent AI-driven repurposing engines. Below is a comprehensive breakdown of these tools, how they fit into a modern creator workflow, and alternative industry options like **IncuBrix, CapCut, and Descript**.\n\n---\n\n### Part 1: Opus Clip vs. Nexus Clip\n\n#### **Opus Clip**\nOpus Clip is one of the pioneers and market leaders in generative AI video clipping. \n* **Core Technology:** It uses an AI curation system (referred to as *Opus Clip Co-Pilot*) that analyzes your long-form video, evaluates hooks, and extracts complete, standalone narratives with vir",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to repurpose long-form videos (like podcasts, YouTube videos, or webinars) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right AI clipping tool is crucial. \n\nWhen comparing **Opus Clip** and **Nexus Clip**, you are looking at two prominent AI-driven repurposing engines. Below is a comprehensive breakdown of these tools, how they fit into a modern creator workflow, and alternative industry options like **IncuBrix, CapCut, and Descript**.\n\n---\n\n### Part 1: Opus Clip vs. Nexus Clip\n\n#### **Opus Clip**\nOpus Clip is one of the pioneers and market leaders in generative AI video clipping. \n* **Core Technology:** It uses an AI curation system (referred to as *Opus Clip Co-Pilot*) that analyzes your long-form video, evaluates hooks, and extracts complete, standalone narratives with vir",
+              "thoughtSignature": "Eo4BCosBAWkUfRNEYnWMc0Tor425G6jPqijLwrlgcyFQlEsMPBOXrbK1A9VxvjFsF9bczbwjzRMtsOjaJL3T9lZB9nC+25Qfu41GPQm8sd51KfuOb9BEHgniDxLZJ58dpNrhWGnsVwNBh09Ixt64k+wYoLKffR0lWE9fP84JCgtJIk5k0TY3TFvMOES72eSwlg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "fUYDa-mFFNvx4t4Pu9GnmQ8"
+  },
+  "latency_ms": 2617,
+  "cost_usd": 0.0002
+}

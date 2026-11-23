@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " an AI assistant helping a US-based content creator, I have broken down the best tools, industry options, and a streamlined workflow to help you turn long-form podcast episodes into viral shorts (TikToks, Instagram Reels, YouTube Shorts). \n\nHere is a comprehensive guide based on current industry standards and creator workflows.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is divided into **AI-powered repurposing engines** (which do the heavy lifting automatically) and **manual/hybrid editors** (for precise control and stylized captions).\n\n#### 1. AI-Driven Repurposing Tools (Best for Speed & Volume)\n*   **Opus Clip:** One of the market leaders for AI clipping. It uses a \"curation score\" to rank the most viral-worthy hooks from your long-form video, auto-crops the speaker, adds dynamic captions, and packages them into ready-to-post shorts.",
+              "thoughtSignature": "Eo4BCosBAWkUfROJ2tUKEtHWjtWN9Qmiq7MqswKHrd1ARZphPT7+xTLCDjofdVPv3obIbVDMfBCv6TIVV5Yde1ERJXh6VNXblatuzzerxZzVmYYBCQTKJc4yavSI2k/t7j1ClbF/PxA68k5ZUnyPDxSxQ7A3oEcFFeU6lZX6RZTCvK6lczRcERDDtD6POE5UFQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zz0Da7b8MPvl4t4P65r1-QM"
+  },
+  "latency_ms": 3047,
+  "cost_usd": 0.0002
+}

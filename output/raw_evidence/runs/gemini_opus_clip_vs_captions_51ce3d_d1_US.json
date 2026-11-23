@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, the short answer is that **Opus Clip and Captions (the app) serve two different primary stages of the short-form video creation workflow**, and many creators actually use both. \n\nHere is a comprehensive breakdown comparing Opus Clip vs. Captio",
+      "cost_usd": 0.0002,
+      "latency_ms": 2659,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_51ce3d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to repurpose long-form videos into engaging short-form content (Reels, TikToks, Shorts), choosing between **Opus Clip** and a dedicated **Captions** tool depends entirely on your primary bottleneck: **finding the best viral moments** versus **hyper-stylizing te",
+      "cost_usd": 0.0002,
+      "latency_ms": 2141,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_51ce3d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_captions_51ce3d_d1_US.json"
+}

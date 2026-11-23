@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is asking for recommendations for a faceless YouTube channel in Hindi, with best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is in India (IN). Must comply with policy. This is allowed content: providing recommendations for software tools. No disallowed content. Must ensure not to provide copyrighted text beyond 90 characters. Provide citations. I can reference websites like the official sites or articles. Provide workflow: scriptwriting, voiceover, AI voice, video editing, thumbnail creation, SEO.\n\nInclude tools: text-to-speech like Google Text-to-Speech, Murf AI, Play",
+  "raw_payload": {
+    "id": "chatcmpl-6887761c-304a-47be-9162-1337354610df",
+    "object": "chat.completion",
+    "created": 1795377176,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is asking for recommendations for a faceless YouTube channel in Hindi, with best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is in India (IN). Must comply with policy. This is allowed content: providing recommendations for software tools. No disallowed content. Must ensure not to provide copyrighted text beyond 90 characters. Provide citations. I can reference websites like the official sites or articles. Provide workflow: scriptwriting, voiceover, AI voice, video editing, thumbnail creation, SEO.\n\nInclude tools: text-to-speech like Google Text-to-Speech, Murf AI, Play"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.67434316,
+      "prompt_tokens": 135,
+      "prompt_time": 0.042003483,
+      "completion_tokens": 150,
+      "completion_time": 0.316238098,
+      "total_tokens": 285,
+      "total_time": 0.358241581,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82d36p6edx8wgsgkgw3hcep",
+      "seed": 275284785
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3476,
+  "cost_usd": 0.0002
+}

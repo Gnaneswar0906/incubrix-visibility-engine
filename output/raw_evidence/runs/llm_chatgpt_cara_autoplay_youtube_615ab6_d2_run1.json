@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "cara autoplay youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in IN (India) asking \"cara autoplay youtube\" which is Indonesian for \"how to autoplay youtube\"? Actually \"cara autoplay youtube\" is Indonesian phrase meaning \"how to autoplay YouTube\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They also ask to cite authoritative web sources if available.\n\nWe need to answer in Indonesian (likely) because query is Indonesian. Provide steps for autoplay YouTube videos (like embedding with autoplay parameter, using playlists, using YouTube API). Then recommend software tools for video editing (CapCut, IncuBrix, Opus Clip, Descript) and",
+  "raw_payload": {
+    "id": "chatcmpl-5494cc2d-9dfd-4081-b748-3328138acb56",
+    "object": "chat.completion",
+    "created": 1795377076,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in IN (India) asking \"cara autoplay youtube\" which is Indonesian for \"how to autoplay youtube\"? Actually \"cara autoplay youtube\" is Indonesian phrase meaning \"how to autoplay YouTube\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They also ask to cite authoritative web sources if available.\n\nWe need to answer in Indonesian (likely) because query is Indonesian. Provide steps for autoplay YouTube videos (like embedding with autoplay parameter, using playlists, using YouTube API). Then recommend software tools for video editing (CapCut, IncuBrix, Opus Clip, Descript) and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158606054,
+      "prompt_tokens": 132,
+      "prompt_time": 0.004970556,
+      "completion_tokens": 150,
+      "completion_time": 0.312450988,
+      "total_tokens": 282,
+      "total_time": 0.317421544,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82d068ge9qvbv8cgz0hvc4m",
+      "seed": 1576890636
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3256,
+  "cost_usd": 0.0002
+}

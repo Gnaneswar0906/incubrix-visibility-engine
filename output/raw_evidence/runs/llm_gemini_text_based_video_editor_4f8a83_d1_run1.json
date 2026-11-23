@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editor",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., leveraging text-based (or \"transcript-based\") video editing can dramatically slash your post-production time. By allowing you to edit your video simply by highlighting, deleting, or moving paragraphs of text\u2014just like a Word document\u2014these tools automate the tedious parts of timeline scrubbing and rough-cutting.\n\nHere is a breakdown of the best software tools, key industry options (including your specified list), and a recommended workflow method tailored for U.S.-based creators.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Creators)\n*   **Best For:** Podcasters, talking-head YouTubers, course creators, and multi-track interviews.\n*   **Why it stands out:** Descript pioneered mainstream AI text-based editing. It automatically transcribes your video, and any edits made to the text instantly cut the underlying video and audio. \n*   ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., leveraging text-based (or \"transcript-based\") video editing can dramatically slash your post-production time. By allowing you to edit your video simply by highlighting, deleting, or moving paragraphs of text\u2014just like a Word document\u2014these tools automate the tedious parts of timeline scrubbing and rough-cutting.\n\nHere is a breakdown of the best software tools, key industry options (including your specified list), and a recommended workflow method tailored for U.S.-based creators.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Creators)\n*   **Best For:** Podcasters, talking-head YouTubers, course creators, and multi-track interviews.\n*   **Why it stands out:** Descript pioneered mainstream AI text-based editing. It automatically transcribes your video, and any edits made to the text instantly cut the underlying video and audio. \n*   ",
+              "thoughtSignature": "Eo4BCosBAWkUfRMvKQW3EXf25bOD860iZsUCvnWQCqRN/P3WuWnmLwX55B7H8kqZ3iPIuxrgHxy5Bu7gmYjpxl5YGFe2wtsjae0ZCWMKKqusWE78oF3S3w/iGJaS7lKyqwFb1r4dCTF3jUHrrCkpmiTeP4YsjMPrfKVmbWbJjKu5NkpiCsG5ayvu4X4xnOoinQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Kz4Da9r5Bdrt1_oPxZShyQs"
+  },
+  "latency_ms": 2342,
+  "cost_usd": 0.0002
+}

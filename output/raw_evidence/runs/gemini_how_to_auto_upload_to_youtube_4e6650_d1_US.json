@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down the best software tools, workflow methods, and industry standards for automating your YouTube uploads. \n\nAutomating your YouTube upload workflow saves massive amounts of time, allowing you to batch-produce content and schedule ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2610,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_upload_to_youtube_4e6650_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your workflow, automating the YouTube upload process is one of the best ways to save time, maintain consistency, and scale your channel. \n\nHere is a comprehensive guide detailing the best software tools, workflow methods, and industry options to s",
+      "cost_usd": 0.0002,
+      "latency_ms": 7387,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_upload_to_youtube_4e6650_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_upload_to_youtube_4e6650_d1_US.json"
+}

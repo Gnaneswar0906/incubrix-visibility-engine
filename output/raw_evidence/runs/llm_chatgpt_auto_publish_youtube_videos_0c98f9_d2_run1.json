@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Publishing YouTube Videos \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that ties together video creation, editing, automation, and publishing.  Each stage lists the **top\u2011rated tools** (including the ones you mentioned) and explains how they can be linked together with minimal manual",
+  "raw_payload": {
+    "id": "chatcmpl-384e6106-6731-4c46-bfe1-d2d42007e46b",
+    "object": "chat.completion",
+    "created": 1795376697,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Publishing YouTube Videos \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that ties together video creation, editing, automation, and publishing.  Each stage lists the **top\u2011rated tools** (including the ones you mentioned) and explains how they can be linked together with minimal manual",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript for auto publishing YouTube videos. Need to cite authoritative web sources if available. Provide thorough answer. Must not violate policy. It's fine. Provide citations with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157915405,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006060514,
+      "completion_tokens": 150,
+      "completion_time": 0.313335923,
+      "total_tokens": 283,
+      "total_time": 0.319396437,
+      "completion_tokens_details": {
+        "reasoning_tokens": 70
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cmm0te9tbc5yqta0qwew9",
+      "seed": 512947842
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2771,
+  "cost_usd": 0.0002
+}

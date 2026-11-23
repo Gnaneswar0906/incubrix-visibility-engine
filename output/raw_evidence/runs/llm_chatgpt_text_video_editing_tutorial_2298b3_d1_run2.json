@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query from a content creator located in IN (India). Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: overview, recommended software (including free/paid, desktop/mobile), workflow steps (pre-production, editing, post-production, export, distribution), mention each tool and its strengths, integration, cost, platform, etc. Provide citations with links. Use authoritative sources like official sites, reputable tech blogs, reviews.\n\nSince we need citations, we can embed footnotes with URLs.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-f7351743-8e27-4310-bc90-63779c9c2ba8",
+    "object": "chat.completion",
+    "created": 1795375148,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query from a content creator located in IN (India). Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: overview, recommended software (including free/paid, desktop/mobile), workflow steps (pre-production, editing, post-production, export, distribution), mention each tool and its strengths, integration, cost, platform, etc. Provide citations with links. Use authoritative sources like official sites, reputable tech blogs, reviews.\n\nSince we need citations, we can embed footnotes with URLs.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369582597,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00580507,
+      "completion_tokens": 150,
+      "completion_time": 0.314970973,
+      "total_tokens": 283,
+      "total_time": 0.320776043,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82b5acsefg87w5cyap2azc8",
+      "seed": 2134370167
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2107,
+  "cost_usd": 0.0002
+}

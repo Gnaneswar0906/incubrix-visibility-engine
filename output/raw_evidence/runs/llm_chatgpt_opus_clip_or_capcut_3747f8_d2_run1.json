@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or capcut",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick Recommendation for a Creator in India  \n\n| Goal | Best\u2011fit tool | Why it works for you | Cost (India) | Learning curve |\n|------|---------------|----------------------|--------------|----------------|\n| **Fast,",
+  "raw_payload": {
+    "id": "chatcmpl-2f860e54-ccfc-45f4-8560-12d80a35cb2c",
+    "object": "chat.completion",
+    "created": 1795377162,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Recommendation for a Creator in India  \n\n| Goal | Best\u2011fit tool | Why it works for you | Cost (India) | Learning curve |\n|------|---------------|----------------------|--------------|----------------|\n| **Fast,",
+          "reasoning": "The user wants recommendations on \"opus clip or capcut\". They are a content creator located in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, compare tools, suggest workflow, mention industry options, and cite sources. Must be safe. Provide citations with URLs. Use markdown. Ensure compliance."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158665356,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005118242,
+      "completion_tokens": 150,
+      "completion_time": 0.313008365,
+      "total_tokens": 284,
+      "total_time": 0.318126607,
+      "completion_tokens_details": {
+        "reasoning_tokens": 95
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82d2t2qevdrcy347k4y5h2w",
+      "seed": 1552113533
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2659,
+  "cost_usd": 0.0002
+}

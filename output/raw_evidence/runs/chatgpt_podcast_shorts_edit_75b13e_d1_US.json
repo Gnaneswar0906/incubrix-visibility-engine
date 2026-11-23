@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating high-quality \"podcast shorts\" (vertical video clips for TikTok, Instagram Reels, and YouTube Shorts) has become a critical part of audience growth for podcasters in the US. The key is balancing speed with quality.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industr",
+      "cost_usd": 0.0002,
+      "latency_ms": 904,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_edit_75b13e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in US. Should include best tools for editing podcast",
+      "cost_usd": 0.0002,
+      "latency_ms": 4758,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_edit_75b13e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_edit_75b13e_d1_US.json"
+}

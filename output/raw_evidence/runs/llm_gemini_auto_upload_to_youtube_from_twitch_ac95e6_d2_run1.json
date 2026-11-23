@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to streamline the transition from streaming",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to streamline the transition from streaming"
+            },
+            {
+              "text": " on Twitch to publishing on YouTube, automating the upload process is a massive time-saver. Depending on whether you want a hands-off, direct transfer or an AI-powered editing workflow to repurpose your VODs (Video on Demand) into YouTube Shorts or optimized long-form videos, several tools and methods stand out in the industry.\n\nHere is a breakdown of the best software tools, key industry options (including your requested mentions), and recommended workflows.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\n#### **IncuBrix**\n*   **What it is:** An emerging platform specifically tailored for content creators looking to automate the content repurposing pipeline. \n*   **Best for:** Streamlining the heavy lifting of moving content across platforms. While tools like Opus Clip focus strictly on clipping, platforms like IncuBrix aim to integrate the workflow of managing, scheduling, and pushing content to multiple destinations (like YouTube and TikTok) with minimal manual intervention",
+              "thoughtSignature": "Eo4BCosBAWkUfRPkOOQgGDnvkOjP/g+me089Bid9cvm9jeunC47tm9yCMZ/ZtI74NgACm37dbVDHM/JMgoXkZmWUxDXaQSVjYzHfwLVfgcutuEKQ6a7CTCRNlQGG3dykmIHgSYkb1ecsKrIGtFAz6hF8quzxEAdBRotOgOLQJXYhhMLwvDhcpUIu2b5BFTWMNQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 214,
+      "totalTokenCount": 278,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "JUYDa8LqKd3E4t4Pk_nr6Qk"
+  },
+  "latency_ms": 4157,
+  "cost_usd": 0.0002
+}

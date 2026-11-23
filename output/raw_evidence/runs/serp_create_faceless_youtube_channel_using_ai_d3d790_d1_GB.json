@@ -1,0 +1,88 @@
+{
+  "query": "create faceless youtube channel using ai",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/NewTubers/comments/1j7cp7n/anyone_started_a_faceless_aigenerated_youtube/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "create faceless youtube channel using ai",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Anyone Started a Faceless AI-Generated YouTube Channel for ...",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1j7cp7n/anyone_started_a_faceless_aigenerated_youtube/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a anyone_started_a_faceless_a...",
+        "snippet": "The idea is to create content that doesn't require me to show my face or spend hours editing manually. I've seen some people having success with ...",
+        "position": 1
+      },
+      {
+        "title": "Trying to build a faceless YouTube brand using only AI tools. What would YOU do?",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1kdr9lr/trying_to_build_a_faceless_youtube_brand_using/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a trying_to_build_a_faceless_...",
+        "position": 2
+      },
+      {
+        "title": "How do I make an AI automation faceless YouTube channel?",
+        "link": "https://www.quora.com/How-do-I-make-an-AI-automation-faceless-YouTube-channel",
+        "displayedLink": "https://www.quora.com \u203a How-do-I-make-an-AI-automat...",
+        "position": 3
+      },
+      {
+        "title": "\ud83c\udfac 100% Automated AI Faceless YouTube Video Creation Automation (Updated)",
+        "link": "https://community.make.com/t/100-automated-ai-faceless-youtube-video-creation-automation-updated/67569",
+        "displayedLink": "https://community.make.com \u203a t \u203a 100-automated-ai-faceless-y... \u203a 67569",
+        "position": 4
+      },
+      {
+        "title": "How I Created a $30000/month Faceless YouTube Channel Using ...",
+        "link": "https://www.youtube.com/watch?v=Sp83h2FqOH0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "YouTube automation is rarely the easy money machine people claim. See the real work behind building a successful faceless channel.",
+        "position": 5
+      },
+      {
+        "title": "How I Built a Faceless YouTube Channel That Makes ...",
+        "link": "https://medium.com/activated-thinker/how-i-built-a-faceless-youtube-channel-that-makes-3-000-month-using-ai-19236c9e105c",
+        "displayedLink": "https://medium.com \u203a activated-thinker \u203a how-i-built-a-faceless-yout...",
+        "snippet": "I started a faceless YouTube channel seven months ago as an experiment. No camera, no microphone, no face on screen. Just AI-generated ...",
+        "position": 6
+      },
+      {
+        "title": "Faceless.video",
+        "link": "https://faceless.video/",
+        "displayedLink": "https://faceless.video",
+        "snippet": "Faceless.video creates content and posts it to your account every day. Our AI automated content creation tool converts text to video in minutes and posts ...",
+        "position": 7
+      },
+      {
+        "title": "Start a faceless YouTube channel with AI: no camera",
+        "link": "https://morphic.com/resources/how-to/start-faceless-youtube-channel-with-ai",
+        "displayedLink": "https://morphic.com \u203a resources \u203a how-to \u203a start-faceless-youtube-chan...",
+        "snippet": "Start a faceless YouTube channel with AI: pick a niche, script in Copilot, generate visuals, and publish your first video with no camera. Try Morphic free.",
+        "position": 8
+      },
+      {
+        "title": "How to Create Video for Faceless YouTube Channel with AI (2026 ...",
+        "link": "https://www.youtube.com/watch?v=OmA98YIrXus",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "AI Filmmaking \u2013 Full Course (2026) / How to Edit and Create Videos with AI? (Best AI Generators). more. Subscribe. Comments.",
+        "position": 9
+      },
+      {
+        "title": "AI Faceless Video Generator for Faceless Reels | Faceless.so",
+        "link": "https://faceless.so/",
+        "displayedLink": "https://faceless.so",
+        "snippet": "Make faceless videos and faceless reels with AI: it writes, voices, edits and auto-posts them daily to Instagram, TikTok, YouTube and 4 more. From $29/mo.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

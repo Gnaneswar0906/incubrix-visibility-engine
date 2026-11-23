@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"auto post twitch vods to youtube\" for content creator in GB. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a concise answer, mention tools, workflow, mention key industry options, cite sources. Use web sources: maybe Twitch API, YouTube API, articles about auto uploading, tools like Streamlabs, OBS, etc. Also mention specific software: InVideo, Clipr, Opus Clip, Descript, CapCut, Incredibox? Wait incubrix? They said IncuBrix. Maybe they mean \"Incredibox",
+  "raw_payload": {
+    "id": "chatcmpl-a9f77fc6-91d5-4080-907a-136102632f88",
+    "object": "chat.completion",
+    "created": 1795377489,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"auto post twitch vods to youtube\" for content creator in GB. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a concise answer, mention tools, workflow, mention key industry options, cite sources. Use web sources: maybe Twitch API, YouTube API, articles about auto uploading, tools like Streamlabs, OBS, etc. Also mention specific software: InVideo, Clipr, Opus Clip, Descript, CapCut, Incredibox? Wait incubrix? They said IncuBrix. Maybe they mean \"Incredibox"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046910157,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006604243,
+      "completion_tokens": 150,
+      "completion_time": 0.151637391,
+      "total_tokens": 286,
+      "total_time": 0.158241634,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e99e93f2ac",
+    "x_groq": {
+      "id": "req_01m82dcskfevmvm16wy6dvyr7w",
+      "seed": 760542012
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3415,
+  "cost_usd": 0.0002
+}

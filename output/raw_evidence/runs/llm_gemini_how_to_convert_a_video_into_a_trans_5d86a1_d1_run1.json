@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost SEO, make content accessible, and serve as the raw material for repurposing long-form videos into blogs, newsletters, and social media clips. \n\nHere is a comprehensive guide detailing the best software tools, workflow methods, and key industry options to streamline your video-to-text process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific needs\u2014ranging from precise editing to AI-powered repurposing\u2014several industry standards stand out:\n\n*   **Descript (The Gold Standard for Editing & Transcribing):** \n    Descript is widely considered the premier tool for creators who want to edit video *through* text. When you upload a video, Descript automatically generates a highly accurate transcript. If you delete a sentence in the text, it cuts the corresponding video. It also features AI filler-word removal and studio",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost SEO, make content accessible, and serve as the raw material for repurposing long-form videos into blogs, newsletters, and social media clips. \n\nHere is a comprehensive guide detailing the best software tools, workflow methods, and key industry options to streamline your video-to-text process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific needs\u2014ranging from precise editing to AI-powered repurposing\u2014several industry standards stand out:\n\n*   **Descript (The Gold Standard for Editing & Transcribing):** \n    Descript is widely considered the premier tool for creators who want to edit video *through* text. When you upload a video, Descript automatically generates a highly accurate transcript. If you delete a sentence in the text, it cuts the corresponding video. It also features AI filler-word removal and studio",
+              "thoughtSignature": "Eo4BCosBAWkUfRN9C2U3UAlXChvxnp7PPC6iY+1NP49/qP7iagpU1/uxzCdhSPuwv+STDwMls7TO3bsZL+x35t4ROn7Fe7foOr65lHwDcY3yXRtIyRAhjVBnAEeyGRZraDRLhVf6OT+g6U0j3bon3ebnyaCzmEpdpo+2qwcYFNEWIm2bMtYbIA/YMEszdKonzw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "CT4Da_6XB5WumNMPqoa_8Ag"
+  },
+  "latency_ms": 7721,
+  "cost_usd": 0.0002
+}

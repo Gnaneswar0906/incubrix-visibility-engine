@@ -1,0 +1,94 @@
+{
+  "query": "podcast shorts usa",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=qwKzgc8s8YM&vl=en",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts usa",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How to Grow Your Podcast with YouTube Shorts & Vertical Video",
+        "link": "https://www.youtube.com/watch?v=qwKzgc8s8YM&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this session, we break down the best strategies for using YouTube Shorts to grow your audience on platforms like Substack and LinkedIn.\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Podcast Shorts",
+        "link": "https://www.youtube.com/playlist?list=PLx10X1JOKXOIQOkcuwCjrSrHmRJdE7LFl",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Podcast Shorts \u00b7 Bloody Stumps | Intrusive Thoughts by Adam Rippon \u00b7 Slipper Talk | Intrusive Thoughts by Adam Rippon \u00b7 Theft | Intrusive Thoughts by Adam Rippon.",
+        "position": 2
+      },
+      {
+        "title": "Short Stuff - Podcast",
+        "link": "https://podcasts.apple.com/us/podcast/short-stuff/id1437993828",
+        "displayedLink": "https://podcasts.apple.com \u203a us \u203a ... \u203a id1437993828",
+        "snippet": "Stuff You Should Know podcast 15-minute-or-less episodes about the most interesting things in the world around us.",
+        "position": 3
+      },
+      {
+        "title": "YouTube Shorts Secrets Every Podcaster NEEDS to Know",
+        "link": "https://www.youtube.com/watch?v=6zdd7XAv_58",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "I'll show you 7 proven strategies for creating engaging YouTube Shorts that get clicks, boost retention, and drive listeners to your full\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "YouTube's New AI Clips Tool: How to Turn Podcasts Into Shorts",
+        "link": "https://www.lsdigital.com/blog/youtube-s-new-ai-clips-tool-how-to-turn-podcasts-into-shorts/",
+        "displayedLink": "https://www.lsdigital.com \u203a blog \u203a youtube-s-new-ai-clips-tool...",
+        "snippet": "YouTube's New AI Clips Tool allows creators to efficiently transform lengthy podcast episodes into engaging Shorts.",
+        "date": "2 days ago",
+        "position": 5
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "Create podcast clips effortlessly with Flowjin, the AI generator that transforms your episodes into engaging social media content.",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 6
+      },
+      {
+        "title": "Short-Form Podcast Editing for Video and Audio",
+        "link": "https://solvismedia.com/podcast-editing-for-video-and-audio/",
+        "displayedLink": "https://solvismedia.com \u203a podcast-editing-for-video-a...",
+        "snippet": "We provide world-class podcast editing and audio production services to companies in all 50 states. We service all major, mid-major, and small markets ...",
+        "position": 7
+      },
+      {
+        "title": "How to Turn a Remote Podcast Into YouTube Shorts (2026 Guide)",
+        "link": "https://medium.com/@andrew_best/how-to-turn-a-remote-podcast-into-youtube-shorts-2026-guide-aa8228946f54",
+        "displayedLink": "https://medium.com \u203a @andrew_best \u203a how-to-turn-a-remote-podcas...",
+        "snippet": "The easiest way to record a clean double-ender podcast, clip the best moments, and turn them into vertical Shorts with AI subtitles.",
+        "position": 8
+      },
+      {
+        "title": "Shorts. | Listen to the Podcast on Spotify",
+        "link": "https://open.spotify.com/show/0ITuY9YlpbkAwglPo1ckd7",
+        "displayedLink": "https://open.spotify.com \u203a show \u203a 0ITuY9YlpbkAwglPo1ckd7",
+        "snippet": "Listen to Shorts. on Spotify. This is Shorts: the podcast where we talk about contemporary short stories. We're two long distanced friends who want to talk ...",
+        "position": 9
+      },
+      {
+        "title": "AI Podcast Clips Maker",
+        "link": "https://podsqueeze.com/podcast-clip-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on TikTok, Reels & YouTube shorts with Podsqueeze AI-Powered clip maker.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

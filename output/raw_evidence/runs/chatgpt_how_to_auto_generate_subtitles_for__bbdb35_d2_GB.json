@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video youtube",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: how to auto generate subtitles for a video on YouTube. Recommend best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources if available. We are ChatGPT, no direct ",
+      "cost_usd": 0.0002,
+      "latency_ms": 4075,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__bbdb35_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the UK, you have access to a robust ecosystem of tools for auto-generating subtitles. Since you are based in GB, I will assume you are comfortable with tools that support multiple languages and offer UK/EU data compliance options where relevant.\n\nHere\u2019s a breakdown of ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1451,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__bbdb35_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_subtitles_for__bbdb35_d2_GB.json"
+}

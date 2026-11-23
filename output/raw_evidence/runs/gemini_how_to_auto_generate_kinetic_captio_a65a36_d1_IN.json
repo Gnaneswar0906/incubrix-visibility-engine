@@ -1,0 +1,35 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate kinetic captions for reels",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to auto generate kinetic captions for reels' in IN, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 380
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to auto generate kinetic captions for reels' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 374
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_kinetic_captio_a65a36_d1_IN.json"
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "udemy start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to launch a faceless YouTube channel using advanced AI tools like ChatGPT and DeepSeek, the landscape offers powerful automation workflows. Combining scripting AIs with automated voiceovers, B-roll generation, and AI video editors allows you to produce high-retention content efficiently from a UK desktop setup.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options tailored to your query.\n\n---\n\n### 1. Recommended Software Tools\n\nTo build a streamlined faceless channel, your software stack should be divided into distinct production stages: Ideation, Scripting, Visuals/Voice, and Editing.\n\n*   **ChatGPT & DeepSeek (Scripting & Ideation):** \n    *   *ChatGPT (OpenAI):* Excellent for structuring YouTube video outlines, generating SEO-optimized titles, and writing engaging hooks.\n    *   *DeepSeek:* Highly capable of handling complex logical",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to launch a faceless YouTube channel using advanced AI tools like ChatGPT and DeepSeek, the landscape offers powerful automation workflows. Combining scripting AIs with automated voiceovers, B-roll generation, and AI video editors allows you to produce high-retention content efficiently from a UK desktop setup.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options tailored to your query.\n\n---\n\n### 1. Recommended Software Tools\n\nTo build a streamlined faceless channel, your software stack should be divided into distinct production stages: Ideation, Scripting, Visuals/Voice, and Editing.\n\n*   **ChatGPT & DeepSeek (Scripting & Ideation):** \n    *   *ChatGPT (OpenAI):* Excellent for structuring YouTube video outlines, generating SEO-optimized titles, and writing engaging hooks.\n    *   *DeepSeek:* Highly capable of handling complex logical",
+              "thoughtSignature": "Eo4BCosBAWkUfROfn6Om0aQLyGdcNRmslNFgVLJTsc1sYZc0Eil/PcA2rugfY6fYdQt4L0mp8bggKkmQrzZDhy4gAW1FscO2LCacLOwWT58Y/DBSzU5i7/5CNbktHonoMnqV40eQkN5H5HYUEyGBjsypexlZUtxjv3fnasADEcw2KykeG7JFzvJRklabcpVgvQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 71,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 71
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "AUMDa8nCO_S6juMPnJezmQw"
+  },
+  "latency_ms": 5209,
+  "cost_usd": 0.0002
+}

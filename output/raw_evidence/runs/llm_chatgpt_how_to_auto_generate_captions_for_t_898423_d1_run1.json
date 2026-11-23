@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating captions for TikTok, targeting a content creator in GB. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide UK-specific considerations maybe. Provide workflow steps. Provide pros/cons. Provide sources. Ensure not to fabricate sources. I need to find real sources: I know CapCut has auto subtitle feature; Descript can auto transcribe and export SRT; Opus Clip is for short clips but maybe also captions; IncuBrix? I'm",
+  "raw_payload": {
+    "id": "chatcmpl-b8121393-edef-4867-9155-6beef46db9dc",
+    "object": "chat.completion",
+    "created": 1795375577,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating captions for TikTok, targeting a content creator in GB. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide UK-specific considerations maybe. Provide workflow steps. Provide pros/cons. Provide sources. Ensure not to fabricate sources. I need to find real sources: I know CapCut has auto subtitle feature; Descript can auto transcribe and export SRT; Opus Clip is for short clips but maybe also captions; IncuBrix? I'm"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317846816,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005739731,
+      "completion_tokens": 150,
+      "completion_time": 0.312382892,
+      "total_tokens": 287,
+      "total_time": 0.318122623,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82bje1sevft6j9bh6z8hxcv",
+      "seed": 155741656
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2533,
+  "cost_usd": 0.0002
+}

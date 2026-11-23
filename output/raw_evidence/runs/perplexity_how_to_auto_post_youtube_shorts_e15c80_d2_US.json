@@ -1,0 +1,40 @@
+{
+  "assistant": "perplexity",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'how to auto post youtube shorts' in US, popular recommendations include Vidyo.ai, CapCut, Descript. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 355
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'how to auto post youtube shorts' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 336
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_auto_post_youtube_shorts_e15c80_d2_US.json"
+}

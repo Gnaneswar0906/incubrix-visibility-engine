@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai claude",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in Great Britain, I\u2019ve tailored this guide to the UK creator landscape\u2014keeping in mind local compliance (like UK GDPR/Copyright considerations for AI) and the most efficient software stack for building a profitable, automated faceless YouTube channel usin",
+      "cost_usd": 0.0002,
+      "latency_ms": 3684,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_claude_5ce865_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in Great Britain, I\u2019ve tailored",
+      "cost_usd": 0.0002,
+      "latency_ms": 6857,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_claude_5ce865_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_claude_5ce865_d1_GB.json"
+}

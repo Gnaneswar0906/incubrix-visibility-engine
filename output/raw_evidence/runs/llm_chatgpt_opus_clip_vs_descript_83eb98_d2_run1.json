@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking to maximize your output while minimizing the time spent on manual editing. Both **Opus Clip** and **Descript** are industry leaders, but they serve fundamentally different purposes in your workflow.\n\nHere\u2019s a detailed breakdown to help you choose the best tool, or better yet, how to combine them for maximum efficiency.\n\n### 1. Core Philosophy: What Each Tool Does Best\n\n| Feature | **Opus Clip** | **Descript** |\n| :--- | :--- | :--- |\n| **Primary Use** | **Repurposing & Virality** | **Editing & Production** |\n| **Core Strength** | AI-powered clipping of",
+  "raw_payload": {
+    "id": "chatcmpl-1bfa923f-5868-478c-88b2-8c2df5bda6b4",
+    "object": "chat.completion",
+    "created": 1795376715,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking to maximize your output while minimizing the time spent on manual editing. Both **Opus Clip** and **Descript** are industry leaders, but they serve fundamentally different purposes in your workflow.\n\nHere\u2019s a detailed breakdown to help you choose the best tool, or better yet, how to combine them for maximum efficiency.\n\n### 1. Core Philosophy: What Each Tool Does Best\n\n| Feature | **Opus Clip** | **Descript** |\n| :--- | :--- | :--- |\n| **Primary Use** | **Repurposing & Virality** | **Editing & Production** |\n| **Core Strength** | AI-powered clipping of"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047498377,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005336583,
+      "completion_tokens": 150,
+      "completion_time": 0.316823159,
+      "total_tokens": 228,
+      "total_time": 0.322159742
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cn5c2ef9ase9mgak6787j",
+      "seed": 913866488
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2357,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,14 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=video+editing+using+text+transcript",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "video editing using text transcript",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:56:20.206774Z",
+  "extracted_count": 1,
+  "suggestions": [
+    "video editing using text transcription"
+  ],
+  "raw_response": "window.google.ac.h([\"video editing using text transcript\",[[\"video editing using text transcription\",33,[21],{\"a\":\"video\\u0026nbsp;editing\\u0026nbsp;using\\u0026nbsp;text\\u0026nbsp;\",\"b\":\"... transcription\"}]],{\"k\":1}])"
+}

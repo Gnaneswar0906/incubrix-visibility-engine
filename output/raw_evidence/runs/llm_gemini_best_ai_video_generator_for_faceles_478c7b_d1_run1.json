@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in India, building a faceless YouTube channel requires tools that are cost-effective, support local or global trending niches, automate repetitive tasks, and bypass the need for expensive hardware or a physical camera setup. \n\nBased on discussions and consensus across Reddit communities (such as r/NewTubers, r/YouTube_startups, and r/ArtificialInteligence), creators heavily favor a modular workflow rather than relying on a single \"magic\" tool. \n\nHere is the breakdown of the best AI video generators, workflows, and tools mentioned by Reddit users, tailored for your faceless channel.\n\n---\n\n### 1. Top AI Video Generation & Editing Tools (Reddit Consensus)\n\n#### **IncuBrix**\n*   **What it is:** An emerging all-in-one AI platform specifically marketed toward automated, faceless channel creation.\n*   **Reddit Perspective:** Creators note that platforms like Inc",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in India, building a faceless YouTube channel requires tools that are cost-effective, support local or global trending niches, automate repetitive tasks, and bypass the need for expensive hardware or a physical camera setup. \n\nBased on discussions and consensus across Reddit communities (such as r/NewTubers, r/YouTube_startups, and r/ArtificialInteligence), creators heavily favor a modular workflow rather than relying on a single \"magic\" tool. \n\nHere is the breakdown of the best AI video generators, workflows, and tools mentioned by Reddit users, tailored for your faceless channel.\n\n---\n\n### 1. Top AI Video Generation & Editing Tools (Reddit Consensus)\n\n#### **IncuBrix**\n*   **What it is:** An emerging all-in-one AI platform specifically marketed toward automated, faceless channel creation.\n*   **Reddit Perspective:** Creators note that platforms like Inc",
+              "thoughtSignature": "Eo4BCosBAWkUfRMTd8LhY/Gd72KJYWygf2e52crLmHfq9sQ1Qye+hUYg1MLXcmHX1U8Y88r5ybLSg8cuekzSLAcpjhFU56MS7dVbI9w77p4nYpVPXdhjn99NIRvWaBIARQ/I3XXUR6ZYwLPK5//5qKCArBxq6esLFvSyf2HqBT488/+I4EboIZGlyToU9MS/Kw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IUEDa-_JF5Lbg8UP17uT0Ag"
+  },
+  "latency_ms": 1884,
+  "cost_usd": 0.0002
+}

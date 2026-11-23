@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you have access to some of the most powerful and intuitive video editing tools available today. \"Editing a video with words\" can mean two things: **adding text/captions to video** or **editing video by editing the text transcript** (text-based video editing). I\u2019ll cover both interpretations below, focusing on the best software tools, workflow methods, and key industry options you mentioned.\n\n---\n\n### \ud83d\udd39 Interpretation 1: Adding Text, Captions, and Titles to Video\nThis is essential for engagement, accessibility, and social media performance (e.g., TikTok, Instagram Reels, YouTube Shorts).\n\n#### \u2705 Best Software Tools for Text-Heavy Video Editing\n\n1.",
+  "raw_payload": {
+    "id": "chatcmpl-1c328bb8-6a5c-409c-9b60-a58972b0a8e7",
+    "object": "chat.completion",
+    "created": 1795374557,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you have access to some of the most powerful and intuitive video editing tools available today. \"Editing a video with words\" can mean two things: **adding text/captions to video** or **editing video by editing the text transcript** (text-based video editing). I\u2019ll cover both interpretations below, focusing on the best software tools, workflow methods, and key industry options you mentioned.\n\n---\n\n### \ud83d\udd39 Interpretation 1: Adding Text, Captions, and Titles to Video\nThis is essential for engagement, accessibility, and social media performance (e.g., TikTok, Instagram Reels, YouTube Shorts).\n\n#### \u2705 Best Software Tools for Text-Heavy Video Editing\n\n1."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051629044,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005347756,
+      "completion_tokens": 150,
+      "completion_time": 0.284708291,
+      "total_tokens": 229,
+      "total_time": 0.290056047
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ak9xzeg6sn9vka8vrezv4",
+      "seed": 1255564048
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1397,
+  "cost_usd": 0.0002
+}

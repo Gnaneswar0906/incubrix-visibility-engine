@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai usa",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, presumably providing recommendations for a content creator in India (IN). The query: \"faceless youtube channel ai usa\". They want best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should provide a structured answer: overview of faceless channel concept, AI tools for video creation, script generation, voiceovers, video editing, thumbnail creation, automation. Include tools: IncuBrix? I'm not aware; maybe it's a platform for AI video generation? Need to verify. Provide citations with URLs. Use authoritative sources like TechCrunch, Wired, Business Insider, etc",
+  "raw_payload": {
+    "id": "chatcmpl-25a81f20-1200-4062-a3ce-e71fc2a5feab",
+    "object": "chat.completion",
+    "created": 1795375373,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, presumably providing recommendations for a content creator in India (IN). The query: \"faceless youtube channel ai usa\". They want best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should provide a structured answer: overview of faceless channel concept, AI tools for video creation, script generation, voiceovers, video editing, thumbnail creation, automation. Include tools: IncuBrix? I'm not aware; maybe it's a platform for AI video generation? Need to verify. Provide citations with URLs. Use authoritative sources like TechCrunch, Wired, Business Insider, etc"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157994923,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005640567,
+      "completion_tokens": 150,
+      "completion_time": 0.339148066,
+      "total_tokens": 285,
+      "total_time": 0.344788633,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82bc6vtefcbmmcasmpz2qra",
+      "seed": 642638527
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2457,
+  "cost_usd": 0.0002
+}

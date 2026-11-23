@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel without ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel without relying on AI tools (or minimizing AI to purely mechanical tasks like auto-captions) requires a focus on efficient curation, stock media, traditional editing, and robust scripting. As a content creator in the U.S., your workflow will rely heavily on digital asset management, speed, and platform-native tools. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned platforms), and a streamlined workflow for a truly authentic, non-AI-generated faceless channel.\n\n---\n\n### 1. Key Industry Software Options & Tool Recommendations\n\nTo build a faceless channel without AI-generated scripts, voiceovers, or visuals, you will need tools focused on editing, asset sourcing, and repurposing.\n\n*   **CapCut (Editing & Captions):** While CapCut offers AI features, its core desktop software is an industry standard for fast, high-retention editing. It",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel without relying on AI tools (or minimizing AI to purely mechanical tasks like auto-captions) requires a focus on efficient curation, stock media, traditional editing, and robust scripting. As a content creator in the U.S., your workflow will rely heavily on digital asset management, speed, and platform-native tools. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned platforms), and a streamlined workflow for a truly authentic, non-AI-generated faceless channel.\n\n---\n\n### 1. Key Industry Software Options & Tool Recommendations\n\nTo build a faceless channel without AI-generated scripts, voiceovers, or visuals, you will need tools focused on editing, asset sourcing, and repurposing.\n\n*   **CapCut (Editing & Captions):** While CapCut offers AI features, its core desktop software is an industry standard for fast, high-retention editing. It",
+              "thoughtSignature": "Eo4BCosBAWkUfRPJewElAI5mex3SL94F7benZWhpo+0pkDlF0xuhcGZAzSTOD/+Fw9Iu+ueLm+Br90x58jCyBkM2rZeVoTcbX67EPAsrFG8RxxjKN1L72c5f3ExikK+jQK8zkO8MLjn7DC7JPIJn+bEwJIBJMW/9mKT7iOAPv1PmH3TAHDxA9wvr+UFUzSEXpA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uT8Da43eLaeRz7sPodTQ4Ak"
+  },
+  "latency_ms": 3035,
+  "cost_usd": 0.0002
+}

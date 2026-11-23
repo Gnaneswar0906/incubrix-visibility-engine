@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN) asking: \"auto generate captions reddit\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. This is a request for software recommendations, which is allowed. We can provide a list of tools, workflow suggestions, mention the given ones, and cite sources. Must ensure no copyrighted text beyond 90 characters; we can quote short snippets.\n\nWe should include sources like official websites, reviews, maybe articles. Provide links.\n\nWe should tailor to content creator in India, mention local considerations like language support,",
+  "raw_payload": {
+    "id": "chatcmpl-2c3834b1-8b8c-47a6-85a7-c1b41d405485",
+    "object": "chat.completion",
+    "created": 1795375207,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN) asking: \"auto generate captions reddit\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. This is a request for software recommendations, which is allowed. We can provide a list of tools, workflow suggestions, mention the given ones, and cite sources. Must ensure no copyrighted text beyond 90 characters; we can quote short snippets.\n\nWe should include sources like official websites, reviews, maybe articles. Provide links.\n\nWe should tailor to content creator in India, mention local considerations like language support,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.366475281,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005288258,
+      "completion_tokens": 150,
+      "completion_time": 0.313720215,
+      "total_tokens": 283,
+      "total_time": 0.319008473,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82b74ajeybrcnqezxs8jhqd",
+      "seed": 1271679221
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3432,
+  "cost_usd": 0.0002
+}

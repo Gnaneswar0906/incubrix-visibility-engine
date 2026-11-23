@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto generate captions for a video. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to produce a response. The user is a content creator located in GB (UK). We need to recommend software tools for auto captioning, workflow methods, key industry options, and cite authoritative web sources.\n\nWe should mention tools: Descript, CapCut, Opus Clip, IncuBrix, maybe others like Rev, Otter.ai, Trint, YouTube auto captions, Vimeo, etc. Provide workflow methods: import video, auto generate captions, review/edit,",
+  "raw_payload": {
+    "id": "chatcmpl-4c91394c-da23-4116-a686-b17e64db2dbd",
+    "object": "chat.completion",
+    "created": 1795377425,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto generate captions for a video. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to produce a response. The user is a content creator located in GB (UK). We need to recommend software tools for auto captioning, workflow methods, key industry options, and cite authoritative web sources.\n\nWe should mention tools: Descript, CapCut, Opus Clip, IncuBrix, maybe others like Rev, Otter.ai, Trint, YouTube auto captions, Vimeo, etc. Provide workflow methods: import video, auto generate captions, review/edit,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051054425,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006449205,
+      "completion_tokens": 150,
+      "completion_time": 0.158519667,
+      "total_tokens": 285,
+      "total_time": 0.164968872,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e99e93f2ac",
+    "x_groq": {
+      "id": "req_01m82datjvejdr20arew3tkb4r",
+      "seed": 1548577185
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3815,
+  "cost_usd": 0.0002
+}

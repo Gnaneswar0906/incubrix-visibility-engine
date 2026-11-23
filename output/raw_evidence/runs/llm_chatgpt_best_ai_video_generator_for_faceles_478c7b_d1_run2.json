@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best AI video generator for faceless YouTube channel, referencing Reddit. They want software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy. It's providing product recommendations, allowed. Must not include disallowed content. Provide citations with URLs. Must not fabricate sources; we can reference known articles. Should be careful to not hallucinate. We can cite sources like TechRadar, PCMag, etc. Provide workflow steps. Also mention Reddit communities like r/YouTubers, r/VideoEditing. Provide best AI video generator: maybe Pictory, Synthesia, Run",
+  "raw_payload": {
+    "id": "chatcmpl-e47de9bd-314b-49ff-bb45-82845e549a55",
+    "object": "chat.completion",
+    "created": 1795375392,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best AI video generator for faceless YouTube channel, referencing Reddit. They want software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy. It's providing product recommendations, allowed. Must not include disallowed content. Provide citations with URLs. Must not fabricate sources; we can reference known articles. Should be careful to not hallucinate. We can cite sources like TechRadar, PCMag, etc. Provide workflow steps. Also mention Reddit communities like r/YouTubers, r/VideoEditing. Provide best AI video generator: maybe Pictory, Synthesia, Run"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.276283234,
+      "prompt_tokens": 139,
+      "prompt_time": 0.005844733,
+      "completion_tokens": 150,
+      "completion_time": 0.315966358,
+      "total_tokens": 289,
+      "total_time": 0.321811091,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_df9620fe21",
+    "x_groq": {
+      "id": "req_01m82bcs8wep7vggyqzfe00rrj",
+      "seed": 35156300
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2453,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is the best free video editor for beginners",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Provide best free video editor for beginners, recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policies: no disallowed content. Provide citations. Use markdown. Provide recommendations, workflow steps, mention alternatives. Provide sources with links.\n\nWe need to ensure we don't claim any false info. Provide up-to-date info (as of 2024). Provide citations from reputable sites (e.g., PCMag, TechRadar, Android Authority, etc.). Provide Indian context maybe. Provide free video editors: DaVinci Resolve (free version),",
+  "raw_payload": {
+    "id": "chatcmpl-a49f2e85-e235-4f04-82cf-c30af0e120eb",
+    "object": "chat.completion",
+    "created": 1795375158,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide best free video editor for beginners, recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policies: no disallowed content. Provide citations. Use markdown. Provide recommendations, workflow steps, mention alternatives. Provide sources with links.\n\nWe need to ensure we don't claim any false info. Provide up-to-date info (as of 2024). Provide citations from reputable sites (e.g., PCMag, TechRadar, Android Authority, etc.). Provide Indian context maybe. Provide free video editors: DaVinci Resolve (free version),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049444066,
+      "prompt_tokens": 138,
+      "prompt_time": 0.034245514,
+      "completion_tokens": 150,
+      "completion_time": 0.315804504,
+      "total_tokens": 288,
+      "total_time": 0.350050018,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_420c059a6a",
+    "x_groq": {
+      "id": "req_01m82b5mnae1p9x79vwrjsas0m",
+      "seed": 1065449563
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2204,
+  "cost_usd": 0.0002
+}

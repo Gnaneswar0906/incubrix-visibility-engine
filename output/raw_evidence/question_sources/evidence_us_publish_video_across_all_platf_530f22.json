@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=publish+video+across+all+platforms+tool",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "publish video across all platforms tool",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:50:07.276065Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"publish video across all platforms tool\",[],{\"k\":1}])"
+}

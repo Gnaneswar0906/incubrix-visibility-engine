@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for free video editors, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be mindful of policy: we can provide citations to web sources. Provide UK context (GB). Provide free video ed",
+      "cost_usd": 0.0002,
+      "latency_ms": 3485,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_video_editor_is_free_7f3ae3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the UK, you have access to a robust ecosystem of free video editing tools that are powerful enough for professional-grade work, especially if you pair them with the right workflow.\n\nHere are the best free options, key industry tools, and recommended workflows:\n\n### 1. ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1331,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_video_editor_is_free_7f3ae3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_video_editor_is_free_7f3ae3_d1_GB.json"
+}

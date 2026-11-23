@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto translate video titles",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019re likely looking to expand your reach beyond the English-speaking market. While YouTube\u2019s native auto-translation for **titles** is currently limited (it primarily focuses on subtitles/captions and descriptions for a select number of languages), there are robust workflows and tools to manage video title translation effectively.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to help you auto-translate and manage video titles for global audiences.\n\n### \u26a0\ufe0f Important Clarification: YouTube\u2019s Native Features\nAs of 2024, YouTube **does not** natively auto-translate video titles for all languages. It supports **auto-generated captions** in many languages, and",
+  "raw_payload": {
+    "id": "chatcmpl-6cb14972-485c-451d-9756-657126326547",
+    "object": "chat.completion",
+    "created": 1795377503,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019re likely looking to expand your reach beyond the English-speaking market. While YouTube\u2019s native auto-translation for **titles** is currently limited (it primarily focuses on subtitles/captions and descriptions for a select number of languages), there are robust workflows and tools to manage video title translation effectively.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to help you auto-translate and manage video titles for global audiences.\n\n### \u26a0\ufe0f Important Clarification: YouTube\u2019s Native Features\nAs of 2024, YouTube **does not** natively auto-translate video titles for all languages. It supports **auto-generated captions** in many languages, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046818923,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005443166,
+      "completion_tokens": 150,
+      "completion_time": 0.284692879,
+      "total_tokens": 227,
+      "total_time": 0.290136045
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82dd783e5qapetnxzc3vvvb",
+      "seed": 1996641435
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1208,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or paid",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"opus clip free or paid\" and recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in India (IN). Provide information about Opus Clip pricing (free vs paid), mention other tools. Provide workflow methods. Provide citations. Need to browse? We can use knowledge. Provide up-to-date info. As of 2024-2026. Opus Clip is a video editing tool. I recall it's a free app with optional paid features. It offers a free plan with limited features, paid plan at $14/month or $",
+  "raw_payload": {
+    "id": "chatcmpl-47985d56-7d27-4fc9-b89c-0ee8ab0fc9d2",
+    "object": "chat.completion",
+    "created": 1795375342,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"opus clip free or paid\" and recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in India (IN). Provide information about Opus Clip pricing (free vs paid), mention other tools. Provide workflow methods. Provide citations. Need to browse? We can use knowledge. Provide up-to-date info. As of 2024-2026. Opus Clip is a video editing tool. I recall it's a free app with optional paid features. It offers a free plan with limited features, paid plan at $14/month or $"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155200111,
+      "prompt_tokens": 134,
+      "prompt_time": 0.007519299,
+      "completion_tokens": 150,
+      "completion_time": 0.155379081,
+      "total_tokens": 284,
+      "total_time": 0.16289838,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82bb8x9e77a3118taf9s4qe",
+      "seed": 2077305977
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3025,
+  "cost_usd": 0.0002
+}

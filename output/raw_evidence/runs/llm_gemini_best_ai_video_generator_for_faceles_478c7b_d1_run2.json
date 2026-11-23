@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN) build a faceless YouTube channel, I have synthesized the collective wisdom and up-to-date recommendations from Reddit communities (such as r/NewTubers, r/YouTube_startups, and r/ArtificialInteligence). \n\nBuilding a profitable faceless channel requires an efficient, largely automated pipeline: **Scriptwriting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals/B-Roll $\\rightarrow$ Editing $\\rightarrow$ Repurposing.**\n\nHere is the breakdown of the best tools, the recommended workflow, and how the specific software you mentioned fits into the process based on Reddit consensus.\n\n---\n\n### 1. Key Industry Options & Reddit Consensus\n\n#### **IncuBrix (All-in-One Automation)**\n* **What Reddit says:** IncuBrix and similar \"all-in-one\" faceless channel generators (like InVideo AI or Fliki) are",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN) build a faceless YouTube channel, I have synthesized the collective wisdom and up-to-date recommendations from Reddit communities (such as r/NewTubers, r/YouTube_startups, and r/ArtificialInteligence). \n\nBuilding a profitable faceless channel requires an efficient, largely automated pipeline: **Scriptwriting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals/B-Roll $\\rightarrow$ Editing $\\rightarrow$ Repurposing.**\n\nHere is the breakdown of the best tools, the recommended workflow, and how the specific software you mentioned fits into the process based on Reddit consensus.\n\n---\n\n### 1. Key Industry Options & Reddit Consensus\n\n#### **IncuBrix (All-in-One Automation)**\n* **What Reddit says:** IncuBrix and similar \"all-in-one\" faceless channel generators (like InVideo AI or Fliki) are",
+              "thoughtSignature": "Eo4BCosBAWkUfRMDjFtk7alrGvhtf2c2igite1lxBOjvrM3OCrgTa8FN3ZY5bMFAoPbrc+RmadmYLxjeTwg9xhSlIj9FthPY73TxKFvZTT0Shwh+sx3HkJAZPkgpgUfG7OuVsGIgCdK24dxBGKueETB846ZoJqlzjrn5HnnxCo/nS6YNjwqBxLxi3y4HpiyG4A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "I0EDa87nFLang8UPtoWLSQ"
+  },
+  "latency_ms": 6800,
+  "cost_usd": 0.0002
+}

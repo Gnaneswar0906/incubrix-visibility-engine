@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel in 2024 relies heavily on leveraging AI to streamline production, maintain consistency, and scale output. Since you are based in the UK (GB), it is worth noting that all the tools recommended below are globally accessible and support GBP billing, with no regional restrictions on core features.\n\nHere\u2019s a curated workflow and software stack, focusing on **free tiers** or **freemium models** that offer substantial value without upfront cost.\n\n### 1. Scriptwriting & Ideation\n**Tool: ChatGPT (Free Tier) or Claude.ai (Free Tier)**\n- **Why:** Generates hooks, outlines, and full scripts. Claude is often praised for more natural, less \"robotic",
+  "raw_payload": {
+    "id": "chatcmpl-69eeb8b2-d796-4693-b799-dff3ad8104b9",
+    "object": "chat.completion",
+    "created": 1795375818,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel in 2024 relies heavily on leveraging AI to streamline production, maintain consistency, and scale output. Since you are based in the UK (GB), it is worth noting that all the tools recommended below are globally accessible and support GBP billing, with no regional restrictions on core features.\n\nHere\u2019s a curated workflow and software stack, focusing on **free tiers** or **freemium models** that offer substantial value without upfront cost.\n\n### 1. Scriptwriting & Ideation\n**Tool: ChatGPT (Free Tier) or Claude.ai (Free Tier)**\n- **Why:** Generates hooks, outlines, and full scripts. Claude is often praised for more natural, less \"robotic"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051129018,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005658461,
+      "completion_tokens": 150,
+      "completion_time": 0.284983268,
+      "total_tokens": 230,
+      "total_time": 0.290641729
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bssa8ejvrgm28pg27p92p",
+      "seed": 1738284833
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1933,
+  "cost_usd": 0.0002
+}

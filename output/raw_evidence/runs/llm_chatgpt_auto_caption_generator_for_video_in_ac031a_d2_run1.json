@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [
+    "https://www."
+  ],
+  "response_text": "Title: Recommendations for Auto Caption Generators in Video Editing Software for Inshot Creators\n\nFor content creators located in the US who use Inshot app for video editing, I will suggest the best software tools, workflow methods, and mention key industry options for auto caption generation. I will also provide authoritative web sources to support my recommendations.\n\n1. Software Tools:\n\nA. IncuBrix: A powerful AI-powered captioning solution that offers real-time captioning and subtitling for videos. IncuBrix supports various languages and can generate accurate captions for your videos, making it perfect for Inshot creators. Visit their website for more information: https://www.",
+  "raw_payload": {
+    "id": "chatcmpl-b0db9f05-8ebc-48f5-9a26-c12951f414f8",
+    "object": "chat.completion",
+    "created": 1795376643,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Title: Recommendations for Auto Caption Generators in Video Editing Software for Inshot Creators\n\nFor content creators located in the US who use Inshot app for video editing, I will suggest the best software tools, workflow methods, and mention key industry options for auto caption generation. I will also provide authoritative web sources to support my recommendations.\n\n1. Software Tools:\n\nA. IncuBrix: A powerful AI-powered captioning solution that offers real-time captioning and subtitling for videos. IncuBrix supports various languages and can generate accurate captions for your videos, making it perfect for Inshot creators. Visit their website for more information: https://www."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.044494992,
+      "prompt_tokens": 80,
+      "prompt_time": 0.002816197,
+      "completion_tokens": 150,
+      "completion_time": 0.109350395,
+      "total_tokens": 230,
+      "total_time": 0.112166592
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82cjzjhe3n9ns7a2r0eegrx",
+      "seed": 1784842857
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3366,
+  "cost_usd": 0.0002
+}

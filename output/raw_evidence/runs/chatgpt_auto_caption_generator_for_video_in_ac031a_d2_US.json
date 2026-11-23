@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Title: Recommendations for Auto Caption Generators in Video Editing Software for Inshot Creators\n\nFor content creators located in the US who use Inshot app for video editing, I will suggest the best software tools, workflow methods, and mention key industry options for auto caption generation. I wil",
+      "cost_usd": 0.0002,
+      "latency_ms": 3366,
+      "cited_urls": [
+        "https://www."
+      ],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_in_ac031a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and high-quality output. While **InShot** is a fantastic, lightweight mobile app for quick edits, its native auto-captioning feature is basic and often requires manual tweaking for accuracy and styling.\n\nFor professional-gra",
+      "cost_usd": 0.0002,
+      "latency_ms": 1000,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_in_ac031a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_in_ac031a_d2_US.json"
+}

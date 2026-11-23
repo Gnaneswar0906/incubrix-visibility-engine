@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is the best free video editor for beginners",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Best Free Video Editors for Beginners (India\u2011focused)\n\n| Rank | Editor |",
+  "raw_payload": {
+    "id": "chatcmpl-7a6cf2c5-c926-4180-87c3-6393ee54be92",
+    "object": "chat.completion",
+    "created": 1795375160,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Best Free Video Editors for Beginners (India\u2011focused)\n\n| Rank | Editor |",
+          "reasoning": "We need to answer as AI assistant for a content creator located in India (IN). Provide best free video editor for beginners, recommend software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no disallowed content. Provide citations. Use markdown. Should be helpful. Provide list, pros/cons, workflow suggestions. Include links. Use Indian context maybe. Provide free options. Also mention paid upgrades. Provide citations from reputable sources like PCMag, TechRadar, etc. Use proper citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368923714,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005401685,
+      "completion_tokens": 150,
+      "completion_time": 0.311169336,
+      "total_tokens": 288,
+      "total_time": 0.316571021,
+      "completion_tokens_details": {
+        "reasoning_tokens": 125
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82b5px7e4xa3w62e6s2v7vy",
+      "seed": 2111553749
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2591,
+  "cost_usd": 0.0002
+}

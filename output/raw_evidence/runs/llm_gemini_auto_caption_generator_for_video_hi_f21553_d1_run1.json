@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US targeting a Hinglish (Hindi-English mix) audience, the challenge is that standard Western auto-caption tools often fail to recognize Hindi grammar, loan words, and transliterated slang, while Indian-centric tools might lack advanced editing workflows. \n\nHinglish is notoriously difficult for automated speech-to-text (STT) engines because of code-switching (shifting between Hindi and English mid-sentence). Below is a breakdown of the best software tools, key industry options (including your specified ones), and a recommended workflow to achieve accurate Hinglish captions.\n\n---\n\n### Key Industry Options for Hinglish Auto-Captions\n\n#### 1. CapCut (Best for Mobile & Fast Social Media Styling)\n*   **How it handles Hinglish:** CapCut\u2019s auto-captions support multiple languages, but for Hinglish, it often defaults to phonetic transcription in the Devanagari script",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US targeting a Hinglish (Hindi-English mix) audience, the challenge is that standard Western auto-caption tools often fail to recognize Hindi grammar, loan words, and transliterated slang, while Indian-centric tools might lack advanced editing workflows. \n\nHinglish is notoriously difficult for automated speech-to-text (STT) engines because of code-switching (shifting between Hindi and English mid-sentence). Below is a breakdown of the best software tools, key industry options (including your specified ones), and a recommended workflow to achieve accurate Hinglish captions.\n\n---\n\n### Key Industry Options for Hinglish Auto-Captions\n\n#### 1. CapCut (Best for Mobile & Fast Social Media Styling)\n*   **How it handles Hinglish:** CapCut\u2019s auto-captions support multiple languages, but for Hinglish, it often defaults to phonetic transcription in the Devanagari script",
+              "thoughtSignature": "Eo4BCosBAWkUfRPve44BZWY0qyCmqlHSPUFoRUB1KqqSKl4chvMzFNHzTVSk0/xHYWa9NqWPWxcbvJ5Lw/r5oXRdzY6evlP8kF/auBAHbIFVm/nECRNBUE2Wpw4Rj4fXGgrXnK7TPbLtByAhxT5wgXEzqvgLnq3saYTg2IKtSnKTgFRpa5QBz8OPJuPu94XTkA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iT4Da_TpDJLbg8UP1rOT0Ag"
+  },
+  "latency_ms": 2923,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "open clip vs closed clip",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the GB, you are likely dealing with the challenge of repurposing long-form video content (like podcasts, webinars, or interviews) into short-form vertical clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe choice between **\"Open Clip\"** and **\"Closed Clip\"** workflows is a critical decision that affects your editing speed, visual polish, and audience retention. Let\u2019s break down the differences and recommend the best tools and workflows for 2024/2025.\n\n### 1. Understanding \"Open Clip\" vs. \"Closed Clip\"\n\nWhile these terms are not universal industry standards, in the context of AI-assisted video editing, they typically refer to",
+  "raw_payload": {
+    "id": "chatcmpl-88b22a4f-5b27-47fd-b312-52e1c456c2db",
+    "object": "chat.completion",
+    "created": 1795375745,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the GB, you are likely dealing with the challenge of repurposing long-form video content (like podcasts, webinars, or interviews) into short-form vertical clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe choice between **\"Open Clip\"** and **\"Closed Clip\"** workflows is a critical decision that affects your editing speed, visual polish, and audience retention. Let\u2019s break down the differences and recommend the best tools and workflows for 2024/2025.\n\n### 1. Understanding \"Open Clip\" vs. \"Closed Clip\"\n\nWhile these terms are not universal industry standards, in the context of AI-assisted video editing, they typically refer to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048052361,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005049379,
+      "completion_tokens": 150,
+      "completion_time": 0.285673247,
+      "total_tokens": 227,
+      "total_time": 0.290722626
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bqhsre6fse5dx303sz3f9",
+      "seed": 1013990346
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1371,
+  "cost_usd": 0.0002
+}

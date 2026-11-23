@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, TikTok, and YouTube Shorts) is now a critical part of any podcasting strategy to drive new listeners. As a content creator in India, you likely have access to both global SaaS tools and cost-effective local alternatives.\n\nHere\u2019s a curated recommendation of the **best software tools**, **workflow methods**, and **key industry options** for producing podcast shorts in 2024\u20132025.\n\n---\n\n### \ud83c\udfc6 Top Software Tools for Podcast Shorts\n\n#### 1. **Opus Clip** (Best for Automated AI Curation)\n- **Why it\u2019s top-tier**: Opus is currently the industry leader for AI-driven",
+  "raw_payload": {
+    "id": "chatcmpl-d9aa5b0b-1f3e-43b5-a01b-0ef244774aec",
+    "object": "chat.completion",
+    "created": 1795376860,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, TikTok, and YouTube Shorts) is now a critical part of any podcasting strategy to drive new listeners. As a content creator in India, you likely have access to both global SaaS tools and cost-effective local alternatives.\n\nHere\u2019s a curated recommendation of the **best software tools**, **workflow methods**, and **key industry options** for producing podcast shorts in 2024\u20132025.\n\n---\n\n### \ud83c\udfc6 Top Software Tools for Podcast Shorts\n\n#### 1. **Opus Clip** (Best for Automated AI Curation)\n- **Why it\u2019s top-tier**: Opus is currently the industry leader for AI-driven"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048395314,
+      "prompt_tokens": 75,
+      "prompt_time": 0.005216016,
+      "completion_tokens": 150,
+      "completion_time": 0.300913621,
+      "total_tokens": 225,
+      "total_time": 0.306129637
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cskcceytb35qpgaw0bp58",
+      "seed": 788095339
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1296,
+  "cost_usd": 0.0002
+}

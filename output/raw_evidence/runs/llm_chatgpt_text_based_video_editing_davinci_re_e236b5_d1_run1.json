@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, leveraging **text-based video editing** is one of the most efficient ways to streamline your post-production workflow. This method allows you to edit video by simply deleting or rearranging text in a transcript, rather than scrubbing through a timeline.\n\nWhile **DaVinci Resolve** (by Blackmagic Design) is a powerhouse for color grading and professional editing, it does **not** have native, built-in text-based editing capabilities out of the box. However, you can achieve this workflow by integrating third-party plugins or using dedicated AI editing tools that export to Resolve.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to implement text-based editing, including how it fits with Da",
+  "raw_payload": {
+    "id": "chatcmpl-aa285c3c-44fe-4ce5-bdd1-f0e6d22da58b",
+    "object": "chat.completion",
+    "created": 1795374639,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a content creator in the US, leveraging **text-based video editing** is one of the most efficient ways to streamline your post-production workflow. This method allows you to edit video by simply deleting or rearranging text in a transcript, rather than scrubbing through a timeline.\n\nWhile **DaVinci Resolve** (by Blackmagic Design) is a powerhouse for color grading and professional editing, it does **not** have native, built-in text-based editing capabilities out of the box. However, you can achieve this workflow by integrating third-party plugins or using dedicated AI editing tools that export to Resolve.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to implement text-based editing, including how it fits with Da"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049340156,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005219494,
+      "completion_tokens": 150,
+      "completion_time": 0.285835327,
+      "total_tokens": 229,
+      "total_time": 0.291054821
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ant6we5xtmw5ra0zb4ewe",
+      "seed": 887450644
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2724,
+  "cost_usd": 0.0002
+}

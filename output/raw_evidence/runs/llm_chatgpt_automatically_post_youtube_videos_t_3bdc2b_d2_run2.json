@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: automatically post YouTube videos to Discord server. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB. So we should mention tools that help automatically post YouTube videos to Discord. Likely using Discord webhooks, bots, integration services like Zapier, Integromat (Make), IFTTT, or specialized bots like DiscordBot, YouTubeToDiscord, etc. Also mention how to use YouTube's API to detect new uploads and trigger Discord messages. Tools: Integromat/Make, Zapier, I",
+  "raw_payload": {
+    "id": "chatcmpl-a3451d49-db71-499c-8c16-425ec22b2448",
+    "object": "chat.completion",
+    "created": 1795377506,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: automatically post YouTube videos to Discord server. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB. So we should mention tools that help automatically post YouTube videos to Discord. Likely using Discord webhooks, bots, integration services like Zapier, Integromat (Make), IFTTT, or specialized bots like DiscordBot, YouTubeToDiscord, etc. Also mention how to use YouTube's API to detect new uploads and trigger Discord messages. Tools: Integromat/Make, Zapier, I"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.242784681,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007616039,
+      "completion_tokens": 150,
+      "completion_time": 0.154904008,
+      "total_tokens": 286,
+      "total_time": 0.162520047,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_334cc21c60",
+    "x_groq": {
+      "id": "req_01m82dda60edxb4f9j1kd5ydtm",
+      "seed": 1337382798
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3835,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools that cater to both quick, social-media-ready clips and long-form professional content. Since you are looking for **online** solutions (web-based) or tools that function seamlessly in a browser, here is a curated breakdown of the best options, workflows, and industry standards, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Social Media & Short-Form)\n*   **Why it\u2019s top-tier:** CapCut\u2019s online editor is widely regarded as the most powerful free-to-use tool for TikTok, Reels, and Shorts. Its auto-caption engine is highly accurate",
+  "raw_payload": {
+    "id": "chatcmpl-49237d4c-b17f-4542-be99-9c3c0bda428b",
+    "object": "chat.completion",
+    "created": 1795375628,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools that cater to both quick, social-media-ready clips and long-form professional content. Since you are looking for **online** solutions (web-based) or tools that function seamlessly in a browser, here is a curated breakdown of the best options, workflows, and industry standards, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Social Media & Short-Form)\n*   **Why it\u2019s top-tier:** CapCut\u2019s online editor is widely regarded as the most powerful free-to-use tool for TikTok, Reels, and Shorts. Its auto-caption engine is highly accurate"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054436578,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005497442,
+      "completion_tokens": 150,
+      "completion_time": 0.286418542,
+      "total_tokens": 228,
+      "total_time": 0.291915984
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bm01pemxvqfmjakx5zazz",
+      "seed": 1450962042
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1479,
+  "cost_usd": 0.0002
+}

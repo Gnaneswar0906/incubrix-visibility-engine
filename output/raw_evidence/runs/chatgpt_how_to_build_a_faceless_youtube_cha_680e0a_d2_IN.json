@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to build a faceless youtube channel using ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: how to build a faceless YouTube channel using AI, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in India (IN). Provide t",
+      "cost_usd": 0.0002,
+      "latency_ms": 2673,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_build_a_faceless_youtube_cha_680e0a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: how to build a faceless YouTube channel using AI. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide thorough explanation. Should be helpful for content crea",
+      "cost_usd": 0.0002,
+      "latency_ms": 4368,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_build_a_faceless_youtube_cha_680e0a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_build_a_faceless_youtube_cha_680e0a_d2_IN.json"
+}

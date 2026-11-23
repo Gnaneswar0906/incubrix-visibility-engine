@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does IncuBrix turn long videos into shorts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix transcribes long-form audio, detects viral highlight moments using natural language processing, automatically reframes horizontal video to 9:16 vertical shorts, and overlays animated kinetic captions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does IncuBrix put a watermark on free videos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix allows new creators to start free and export high-resolution short-form video clips without mandatory branding watermarks on eligible trial credits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What platforms can IncuBrix publish to directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix supports direct 1-click scheduling and publishing to YouTube Shorts, Instagram Reels, TikTok, and LinkedIn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to some of the most advanced AI-driven video editing tools in the industry. Captions are no longer just for accessibility; they are essential for viewer retention, especially since a large percentage of users watch social media videos on mute.\n\nHere is a comprehensive guide to the best free software tools, key industry options (including your mentioned platforms), and an efficient workflow to streamline your editing process.\n\n---\n\n### 1. Key Industry Options & Free Tiers\n\nWhile many platforms are moving toward paid models, several offer generous free tiers or completely free features suitable for GB creators:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *The Standout Free Option:* CapCut remains one of the most popular tools for creators. Its **Auto Captions** feature is entirely free to use on both mobile and desktop apps. It generates",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to some of the most advanced AI-driven video editing tools in the industry. Captions are no longer just for accessibility; they are essential for viewer retention, especially since a large percentage of users watch social media videos on mute.\n\nHere is a comprehensive guide to the best free software tools, key industry options (including your mentioned platforms), and an efficient workflow to streamline your editing process.\n\n---\n\n### 1. Key Industry Options & Free Tiers\n\nWhile many platforms are moving toward paid models, several offer generous free tiers or completely free features suitable for GB creators:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *The Standout Free Option:* CapCut remains one of the most popular tools for creators. Its **Auto Captions** feature is entirely free to use on both mobile and desktop apps. It generates",
+              "thoughtSignature": "Eo4BCosBAWkUfROXDKVbPNoBfGe6CoUqCs2VsLFu7SPFcePKpN7zjGSGtERFmRGzYpP5AcLwdhVczyU7Kt9MWOvsTddJdq8hUg59eEOEaZb3tdmZ1TMGbkzx8dQOfey7S/HCH3SmUwWnAbTrFoPA0VxVdqouMp1cmY/6/YtUJlQrWUOItwalfvJaqgoCiXDOuw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "B0IDa6r3AYGrjuMPuq7u6Qg"
+  },
+  "latency_ms": 8350,
+  "cost_usd": 0.0002
+}

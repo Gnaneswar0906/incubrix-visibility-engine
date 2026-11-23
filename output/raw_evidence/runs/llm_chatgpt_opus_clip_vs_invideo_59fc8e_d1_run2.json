@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs invideo",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, choosing between **Opus Clip** and **InVideo** comes down to a fundamental distinction: **Opus Clip is an AI-powered clipping tool**, while **InVideo (specifically InVideo AI) is a generative video creation platform**.\n\nThey solve different problems in your workflow. Here\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry tools.\n\n### 1. Opus Clip vs. InVideo: Core Differences\n\n| Feature | **Opus Clip** | **InVideo AI** |\n| :--- | :--- | :--- |\n| **Primary Function** | **Repurposing**: Turns long-form videos (podcasts,",
+  "raw_payload": {
+    "id": "chatcmpl-eb8f85dd-b05b-4eca-9d55-f396c6632efb",
+    "object": "chat.completion",
+    "created": 1795374985,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, choosing between **Opus Clip** and **InVideo** comes down to a fundamental distinction: **Opus Clip is an AI-powered clipping tool**, while **InVideo (specifically InVideo AI) is a generative video creation platform**.\n\nThey solve different problems in your workflow. Here\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry tools.\n\n### 1. Opus Clip vs. InVideo: Core Differences\n\n| Feature | **Opus Clip** | **InVideo AI** |\n| :--- | :--- | :--- |\n| **Primary Function** | **Repurposing**: Turns long-form videos (podcasts,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054470946,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005136503,
+      "completion_tokens": 150,
+      "completion_time": 0.328661226,
+      "total_tokens": 228,
+      "total_time": 0.333797729
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b0bpxe6wbacrcy8p7n8t3",
+      "seed": 1023814329
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1613,
+  "cost_usd": 0.0002
+}

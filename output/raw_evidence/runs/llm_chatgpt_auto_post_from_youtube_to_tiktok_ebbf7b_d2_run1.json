@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation for auto posting from YouTube to TikTok, for a content creator located in GB. They want best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to produce a concise answer with recommended tools, workflow, key options. Provide citations. Use authoritative sources: maybe blogs, reviews, official websites, industry articles. We can browse? We have no browsing capability. We need to rely on knowledge up to 2024. We can mention that TikTok's API for cross-posting is limited, but some tools provide automation. Provide workflow: use YouTube API to fetch",
+  "raw_payload": {
+    "id": "chatcmpl-308e13b1-1d4a-4c23-94c8-9d974937eec7",
+    "object": "chat.completion",
+    "created": 1795377481,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation for auto posting from YouTube to TikTok, for a content creator located in GB. They want best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to produce a concise answer with recommended tools, workflow, key options. Provide citations. Use authoritative sources: maybe blogs, reviews, official websites, industry articles. We can browse? We have no browsing capability. We need to rely on knowledge up to 2024. We can mention that TikTok's API for cross-posting is limited, but some tools provide automation. Provide workflow: use YouTube API to fetch"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284526172,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007672537,
+      "completion_tokens": 150,
+      "completion_time": 0.163185894,
+      "total_tokens": 286,
+      "total_time": 0.170858431,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8d13edce1d",
+    "x_groq": {
+      "id": "req_01m82dchdwe8m8g85ser3z1q72",
+      "seed": 1774400375
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6005,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tools",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 AI\u2011Powered Toolkit & Workflow  \n*(Tailored for U.S. creators, with free\u2011or\u2011low\u2011cost options where possible)*  \n\n---\n\n## 1\ufe0f\u20e3",
+  "raw_payload": {
+    "id": "chatcmpl-629ebd0e-1a3d-4245-bc7a-ebb61e0d0867",
+    "object": "chat.completion",
+    "created": 1795375008,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 AI\u2011Powered Toolkit & Workflow  \n*(Tailored for U.S. creators, with free\u2011or\u2011low\u2011cost options where possible)*  \n\n---\n\n## 1\ufe0f\u20e3",
+          "reasoning": "The user wants recommendations for faceless YouTube channel AI tools. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be helpful, include workflow steps, tool categories (script writing, voice generation, video editing, thumbnail creation, automation). Provide citations with links. Ensure not violating policy. Provide US context. Use markdown. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158318026,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005285172,
+      "completion_tokens": 150,
+      "completion_time": 0.31022698,
+      "total_tokens": 285,
+      "total_time": 0.315512152,
+      "completion_tokens_details": {
+        "reasoning_tokens": 95
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82b12ezenwsd30r8ee6pe6c",
+      "seed": 1650700034
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3917,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "what video editor is the best",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Choosing the \"best\" video editor depends entirely on your content format, skill level, and workflow needs. As a content creator in Great Britain (GB), your choices may also be influenced by local broadcasting standards, currency pricing, and regional server speeds for cloud-based tools. \n\nTo give you a comprehensive answer, we can break the \"best\" video editors down by category, incorporating industry heavyweights and the specific tools you mentioned\u2014**IncuBrix, CapCut, Opus Clip, and Descript**\u2014alongside traditional gold-standard software.\n\n---\n\n### 1. Traditional & Professional Timelines (Best for Cinematic & Long-Form)\nIf you are producing polished YouTube videos, documentaries, or cinematic content, industry-standard desktop software is essential.\n\n*   **Adobe Premiere Pro:** The long-time industry standard. It integrates seamlessly with Adobe After Effects and Audition. Features like \"Enhance Speech\" (AI-powered) and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Choosing the \"best\" video editor depends entirely on your content format, skill level, and workflow needs. As a content creator in Great Britain (GB), your choices may also be influenced by local broadcasting standards, currency pricing, and regional server speeds for cloud-based tools. \n\nTo give you a comprehensive answer, we can break the \"best\" video editors down by category, incorporating industry heavyweights and the specific tools you mentioned\u2014**IncuBrix, CapCut, Opus Clip, and Descript**\u2014alongside traditional gold-standard software.\n\n---\n\n### 1. Traditional & Professional Timelines (Best for Cinematic & Long-Form)\nIf you are producing polished YouTube videos, documentaries, or cinematic content, industry-standard desktop software is essential.\n\n*   **Adobe Premiere Pro:** The long-time industry standard. It integrates seamlessly with Adobe After Effects and Audition. Features like \"Enhance Speech\" (AI-powered) and",
+              "thoughtSignature": "Eo4BCosBAWkUfRNbYaOa+D40JxcgdlFMrWE8t9r8hk/st1SueEm8FzOnvytKxwR6beigC1qH61904nZyogvT1SrxANBuE/YMur8IhwvvgRx95NEswT6ImVmIrTgaTi9q3sXXqMEstRPKUJ8V8rkLW4Fkb989rAQWwGx2bXuZVm7XfZT5vaK39Jucrz9eeXlUEA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pEEDa_frFfzG694PwObm4A8"
+  },
+  "latency_ms": 3283,
+  "cost_usd": 0.0002
+}

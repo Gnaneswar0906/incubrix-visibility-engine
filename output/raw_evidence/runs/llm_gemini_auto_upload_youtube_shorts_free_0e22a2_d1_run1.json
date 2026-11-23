@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, finding a reliable, cost-effective workflow to automate the creation and publishing of YouTube Shorts is crucial for scaling your channel. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a step-by-step workflow to achieve automated uploading for free or at a minimal cost.\n\n---\n\n### 1. Key Industry Software Options & Tools\n\n#### **Creation, Editing & Repurposing**\n*   **Opus Clip:** An AI-powered video repurposing tool. You feed it a long-form video (like a YouTube podcast or VOD), and its AI identifies viral hooks, crops it to a 9:16 vertical format, adds captions, and outputs multiple ready-to-post Shorts. *(Offers a free trial / limited free tier).*\n*   **CapCut:** Hugely popular among short-form creators. Its",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, finding a reliable, cost-effective workflow to automate the creation and publishing of YouTube Shorts is crucial for scaling your channel. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a step-by-step workflow to achieve automated uploading for free or at a minimal cost.\n\n---\n\n### 1. Key Industry Software Options & Tools\n\n#### **Creation, Editing & Repurposing**\n*   **Opus Clip:** An AI-powered video repurposing tool. You feed it a long-form video (like a YouTube podcast or VOD), and its AI identifies viral hooks, crops it to a 9:16 vertical format, adds captions, and outputs multiple ready-to-post Shorts. *(Offers a free trial / limited free tier).*\n*   **CapCut:** Hugely popular among short-form creators. Its",
+              "thoughtSignature": "Eo4BCosBAWkUfRPOTtbkVUbNilAoX3cYJdd7iK/3nayKPv9ETqSLR2aCjM4ntTTyyV0AGEirWq2Z89GPWmhf2P5fKG0f3hzuG4Blt/5FM8n1FsSiuEPPxdgWVJQkIz7x6CaIY4BtTapKtALhNJggyGSh4qptiNxoFaaGAWl5w0BvOe6MrQB1wddXp35YpAR9ag=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "RUIDa6aSLL_84-EPr9XBcA"
+  },
+  "latency_ms": 7510,
+  "cost_usd": 0.0002
+}

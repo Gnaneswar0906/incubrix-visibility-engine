@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a podcast for beginners",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India (IN). Provide guide on starting a podcast for beginners, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must fol",
+      "cost_usd": 0.0002,
+      "latency_ms": 2262,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_start_a_podcast_for_beginner_c31e6c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants advice on how to start a podcast for beginners, recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations to authoritative web sources if available. Need to be mindful of location: India (IN). Should ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2269,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_start_a_podcast_for_beginner_c31e6c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_start_a_podcast_for_beginner_c31e6c_d1_IN.json"
+}

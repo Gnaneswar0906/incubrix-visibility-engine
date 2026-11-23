@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Posting TikTok Videos to YouTube \u2013 Recommended Tools & Workflow**\n\nBelow is a practical, step\u2011by\u2011step workflow that lets you take a TikTok video, edit it (if needed), and automatically publish it to a YouTube channel. The solution combines a few",
+  "raw_payload": {
+    "id": "chatcmpl-a0909676-45ad-4f6e-9519-88fedab365f3",
+    "object": "chat.completion",
+    "created": 1795376679,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Posting TikTok Videos to YouTube \u2013 Recommended Tools & Workflow**\n\nBelow is a practical, step\u2011by\u2011step workflow that lets you take a TikTok video, edit it (if needed), and automatically publish it to a YouTube channel. The solution combines a few",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Must comply with policies: no disallowed content. This is fine. Provide info, maybe include links. Must ensure not to provide copyrighted text beyond permissible. Summarize. Provide citations with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369837197,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006434462,
+      "completion_tokens": 150,
+      "completion_time": 0.311838536,
+      "total_tokens": 285,
+      "total_time": 0.318272998,
+      "completion_tokens_details": {
+        "reasoning_tokens": 85
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82cm1j0eed92bn4wcqpt9a6",
+      "seed": 1380979642
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3039,
+  "cost_usd": 0.0002
+}

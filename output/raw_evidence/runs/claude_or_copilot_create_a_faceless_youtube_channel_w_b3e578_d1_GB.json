@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 394
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'create a faceless youtube channel with ai' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 320
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_create_a_faceless_youtube_channel_w_b3e578_d1_GB.json"
+}

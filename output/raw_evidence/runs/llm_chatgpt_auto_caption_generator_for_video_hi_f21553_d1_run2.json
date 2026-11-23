@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Captioning for **Hinglish** (Hindi\u202f+\u202fEnglish) Video  \nBelow is a practical,",
+  "raw_payload": {
+    "id": "chatcmpl-4f51c1ea-9cd1-4e24-a7e7-c88f378dc821",
+    "object": "chat.completion",
+    "created": 1795374727,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Captioning for **Hinglish** (Hindi\u202f+\u202fEnglish) Video  \nBelow is a practical,",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript) for \"auto caption generator for video hinglish\". They want authoritative web sources if available. Must comply with policy. This is a recommendation request, allowed. Provide list of tools, features, pros/cons, workflow steps, mention those specific tools. Provide citations with URLs. Must not fabricate sources; can use known sources like product websites, reviews. Provide citations in brackets with links. Should be safe."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155927485,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005395055,
+      "completion_tokens": 150,
+      "completion_time": 0.31089425,
+      "total_tokens": 286,
+      "total_time": 0.316289305,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82arfxje9qbh2h8egwsqq6b",
+      "seed": 408734108
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3572,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai content",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India, about faceless YouTube channel AI content. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. Provide citations. Use markdown. Provide workflow steps: script generation, AI voice, video creation, editing, thumbnail, SEO. Suggest tools: ChatGPT, Jasper, Copy.ai for script; Synthesia, HeyGen, Pictory, D-ID for AI avatars; ElevenLabs for voice; Opus Clip for repurposing; CapCut for editing; Descript for transcription and editing;",
+  "raw_payload": {
+    "id": "chatcmpl-2f5bd2c1-bac2-4d17-a394-f2b9481dd0c0",
+    "object": "chat.completion",
+    "created": 1795377176,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India, about faceless YouTube channel AI content. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. Provide citations. Use markdown. Provide workflow steps: script generation, AI voice, video creation, editing, thumbnail, SEO. Suggest tools: ChatGPT, Jasper, Copy.ai for script; Synthesia, HeyGen, Pictory, D-ID for AI avatars; ElevenLabs for voice; Opus Clip for repurposing; CapCut for editing; Descript for transcription and editing;"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317816636,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005051671,
+      "completion_tokens": 150,
+      "completion_time": 0.311842737,
+      "total_tokens": 285,
+      "total_time": 0.316894408,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82d36waey1a4v6qmv2ehvyf",
+      "seed": 549964263
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3126,
+  "cost_usd": 0.0002
+}

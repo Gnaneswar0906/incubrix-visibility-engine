@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hey there! As a content creator in the US looking to tap into the massive reach of YouTube Shorts, TikTok, and Instagram Reels, repurposing your long-form podcast into bite-sized clips is one of the smartest growth strategies. \n\nHere is a complete guide on **how to make podcast shorts**, featuring the best software tools, a proven workflow, and industry insights based on current content creation standards.\n\n---\n\n### 1. Best Software Tools for Podcast Shorts\n\nThe creator economy has shifted heavily toward AI-assisted clipping tools, drastically cutting down the time it takes to find viral moments. Here are the top tools on the market:\n\n*   **Opus Clip (Industry Leader for AI Curation):** Opus Clip uses generative AI to analyze your long-form podcast, extract the most engaging hooks, and automatically reframe them into vertical 9:16 videos with dynamic captions. According to creator economy reviews (like those on *Social Media Examiner*",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hey there! As a content creator in the US looking to tap into the massive reach of YouTube Shorts, TikTok, and Instagram Reels, repurposing your long-form podcast into bite-sized clips is one of the smartest growth strategies. \n\nHere is a complete guide on **how to make podcast shorts**, featuring the best software tools, a proven workflow, and industry insights based on current content creation standards.\n\n---\n\n### 1. Best Software Tools for Podcast Shorts\n\nThe creator economy has shifted heavily toward AI-assisted clipping tools, drastically cutting down the time it takes to find viral moments. Here are the top tools on the market:\n\n*   **Opus Clip (Industry Leader for AI Curation):** Opus Clip uses generative AI to analyze your long-form podcast, extract the most engaging hooks, and automatically reframe them into vertical 9:16 videos with dynamic captions. According to creator economy reviews (like those on *Social Media Examiner*",
+              "thoughtSignature": "Eo4BCosBAWkUfROPuD76xCMycMticFlbvrm8Qow0byN9AYPLT7cN1oAsdiorHglY861GfpTMZvVLlyXqEf4ZH9g+/DdHo2BRgiEXdME8ajytjldPwVTwVdwdZIlCTLKZgcCX6SchqnxjSUb92wlor/m1V6CyUn+3YOkYgemYJOcd3Yk50MVPX2h+AiPaPOV+ug=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0T0Da_-XKsazz7sP5oG8gQs"
+  },
+  "latency_ms": 2555,
+  "cost_usd": 0.0002
+}

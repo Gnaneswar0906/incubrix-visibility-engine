@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube auto generated captions reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources. Provide answer tailored to content creator in India (IN). Should be helpful, include steps, pros/cons, integration with YouTube auto captions, Reddit usage perhaps. Provide citations with links.\n\nWe must comply with policy",
+  "raw_payload": {
+    "id": "chatcmpl-00a3b8c8-be3f-462f-809c-1f94d8c7b7c6",
+    "object": "chat.completion",
+    "created": 1795377013,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: youtube auto generated captions reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources. Provide answer tailored to content creator in India (IN). Should be helpful, include steps, pros/cons, integration with YouTube auto captions, Reddit usage perhaps. Provide citations with links.\n\nWe must comply with policy"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157931343,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006086207,
+      "completion_tokens": 150,
+      "completion_time": 0.313522901,
+      "total_tokens": 284,
+      "total_time": 0.319609108,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82cy8eneq0bd325z6h1tpyt",
+      "seed": 304073239
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2790,
+  "cost_usd": 0.0002
+}

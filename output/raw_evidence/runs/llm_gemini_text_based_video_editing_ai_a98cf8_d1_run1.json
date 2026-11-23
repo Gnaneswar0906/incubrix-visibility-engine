@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can tell you that **Text-Based",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can tell you that **Text-Based"
+            },
+            {
+              "text": " Video Editing (TBVE)**\u2014often referred to as editing video by editing a transcript\u2014has completely revolutionized the post-production workflow. It allows creators to cut out filler words, rearrange sentences, and structure a narrative simply by highlighting and deleting text, just like a Google Doc. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a standard workflow method tailored for a US-based creator.\n\n---\n\n### Part 1: Key Industry Options & Best Software Tools\n\nThe text-based video editing market is booming, but tools generally fall into three categories: **All-in-One Podcasting & Long-Form Suites**, **Repurposing & Short-Form Automation**, and **Mobile-First Editors**.\n\n#### 1. Descript (The Industry Pioneer for Long-Form)\n* **Best For:** Podcasters, talking-head YouTube videos, tutorials, and courses.\n* **Why it shines:** Des",
+              "thoughtSignature": "Eo4BCosBAWkUfRMzC8FHLEZFkE+1A47e331Kg5XKXbLB5+BTLfJvBhGkNFHWKrXGvmi1QvUpQsCYJh2WILNlFWiqLABEeDpNYU4ZsjxrxZ8YhPfW8/KTkvGSE4rlS7yB0eGiwhLS4wv/QUQDaj7YNZHFwgs9+27ZVA/TeNm6TQDedUEn+gqPZDpAJDEcqgeLPQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 221,
+      "totalTokenCount": 284,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "TT4Da5WHFrr3694Pi_DC8Q8"
+  },
+  "latency_ms": 3298,
+  "cost_usd": 0.0002
+}

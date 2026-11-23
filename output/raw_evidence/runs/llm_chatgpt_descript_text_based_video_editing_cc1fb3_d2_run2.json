@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "descript text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are likely looking for tools that balance affordability, speed, and high-quality output. **Descript** is indeed a game-changer in the space of **text-based video editing**.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options tailored for your needs.\n\n### \ud83c\udfc6 Top Recommended Tools for Text-Based Video Editing\n\n#### 1. **Descript** (The Gold Standard)\n*   **Why it\u2019s best:** Descript pioneered the \"edit video by editing text\" concept. It transcribes your video, and you can delete, replace, or rearrange words in the transcript to automatically edit the video and audio.\n*   **",
+  "raw_payload": {
+    "id": "chatcmpl-705c98e9-de04-49e6-bb44-ea1725dd2291",
+    "object": "chat.completion",
+    "created": 1795376969,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are likely looking for tools that balance affordability, speed, and high-quality output. **Descript** is indeed a game-changer in the space of **text-based video editing**.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options tailored for your needs.\n\n### \ud83c\udfc6 Top Recommended Tools for Text-Based Video Editing\n\n#### 1. **Descript** (The Gold Standard)\n*   **Why it\u2019s best:** Descript pioneered the \"edit video by editing text\" concept. It transcribes your video, and you can delete, replace, or rearrange words in the transcript to automatically edit the video and audio.\n*   **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047401098,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005292181,
+      "completion_tokens": 150,
+      "completion_time": 0.285326125,
+      "total_tokens": 228,
+      "total_time": 0.290618306
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cwxexea2s0xj9degnk41x",
+      "seed": 2045254874
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1753,
+  "cost_usd": 0.0002
+}

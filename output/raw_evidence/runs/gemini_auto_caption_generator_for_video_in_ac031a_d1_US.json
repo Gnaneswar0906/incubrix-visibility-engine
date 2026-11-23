@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the U.S. looking to generate auto-captions\u2014especially if you are already using or looking into mobile editing suites like **InShot**\u2014you have several powerful options depending on whether you want a seamless mobile workflow or advanced AI repurposing. \n\nWhile InShot has intro",
+      "cost_usd": 0.0002,
+      "latency_ms": 7192,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_in_ac031a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping",
+      "cost_usd": 0.0002,
+      "latency_ms": 3933,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_in_ac031a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_in_ac031a_d1_US.json"
+}

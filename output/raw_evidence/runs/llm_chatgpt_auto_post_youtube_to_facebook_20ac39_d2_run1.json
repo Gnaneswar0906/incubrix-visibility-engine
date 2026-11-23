@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Start Answer (TL;DR)**  \n| Goal | Recommended Tool(s) | How It Works (One\u2011Line) |\n|------|----------------------|--------------------------|\n| **Fully automated \u201cYouTube\u202f\u2192\u202fFacebook Page\u201d posting** | **Zapier**\u202f+\u202fYouTube trigger \u2192 Facebook Page action",
+  "raw_payload": {
+    "id": "chatcmpl-6174bf86-ba8d-4bbb-aae4-11c92d928eab",
+    "object": "chat.completion",
+    "created": 1795376655,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Start Answer (TL;DR)**  \n| Goal | Recommended Tool(s) | How It Works (One\u2011Line) |\n|------|----------------------|--------------------------|\n| **Fully automated \u201cYouTube\u202f\u2192\u202fFacebook Page\u201d posting** | **Zapier**\u202f+\u202fYouTube trigger \u2192 Facebook Page action",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for auto posting YouTube to Facebook. Provide suggestions, workflow steps, and cite authoritative web sources. Must be safe, no disallowed content. Provide citations with links. Should be US creator. Provide details."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157417772,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005412957,
+      "completion_tokens": 150,
+      "completion_time": 0.314071441,
+      "total_tokens": 284,
+      "total_time": 0.319484398,
+      "completion_tokens_details": {
+        "reasoning_tokens": 75
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82ckaxxe6mrny0nha1myvs5",
+      "seed": 1732573820
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2275,
+  "cost_usd": 0.0002
+}

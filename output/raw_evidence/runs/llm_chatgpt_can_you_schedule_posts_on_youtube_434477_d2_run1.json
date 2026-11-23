@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"can you schedule posts on youtube\". The user wants recommendations: best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide a helpful answer. The content creator is in GB. So we can mention that YouTube's native scheduling feature is available, and third-party tools. Provide workflow methods: content calendar, batch editing, scheduling, analytics. Mention tools: YouTube Studio, TubeBuddy, vidIQ, Hootsuite, Buffer, Later, Sprout Social, SocialBee, Planoly, etc. Also mention the ones in the prompt: Incu",
+  "raw_payload": {
+    "id": "chatcmpl-78fa629a-ee13-4b96-bb7a-fc8a19e074a8",
+    "object": "chat.completion",
+    "created": 1795377473,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"can you schedule posts on youtube\". The user wants recommendations: best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide a helpful answer. The content creator is in GB. So we can mention that YouTube's native scheduling feature is available, and third-party tools. Provide workflow methods: content calendar, batch editing, scheduling, analytics. Mention tools: YouTube Studio, TubeBuddy, vidIQ, Hootsuite, Buffer, Later, Sprout Social, SocialBee, Planoly, etc. Also mention the ones in the prompt: Incu"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15434973,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007519269,
+      "completion_tokens": 150,
+      "completion_time": 0.162307664,
+      "total_tokens": 285,
+      "total_time": 0.169826933,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82dc9r3eq6sk07peae7jgez",
+      "seed": 526555431
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3893,
+  "cost_usd": 0.0002
+}

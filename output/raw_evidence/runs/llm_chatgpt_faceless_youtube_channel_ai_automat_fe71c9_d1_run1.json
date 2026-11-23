@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Faceless YouTube Channels\u202f\u2014\u202fHow to Build One End\u2011to\u2011End",
+  "raw_payload": {
+    "id": "chatcmpl-572c9518-b093-4027-b327-44579ca9c8d2",
+    "object": "chat.completion",
+    "created": 1795375004,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Faceless YouTube Channels\u202f\u2014\u202fHow to Build One End\u2011to\u2011End",
+          "reasoning": "The user wants recommendations for a faceless YouTube channel using AI automation. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Must comply with policy: providing tool recommendations is allowed. Must cite sources. Provide a thorough answer. Use markdown. Provide steps, tools categories: script generation, voiceover, video editing, thumbnail creation, automation, scheduling, analytics. Provide workflow. Cite sources with URLs. Ensure no disallowed content. Provide disclaimer about licensing. Provide US context."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317037996,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006427523,
+      "completion_tokens": 150,
+      "completion_time": 0.310288302,
+      "total_tokens": 285,
+      "total_time": 0.316715825,
+      "completion_tokens_details": {
+        "reasoning_tokens": 124
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82b0xryehqbv1v166mj7z6v",
+      "seed": 475585991
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3501,
+  "cost_usd": 0.0002
+}

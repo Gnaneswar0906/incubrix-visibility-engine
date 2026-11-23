@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for",
+  "raw_payload": {
+    "id": "chatcmpl-cc63c993-9238-43af-9b7c-fbc1f2c2d483",
+    "object": "chat.completion",
+    "created": 1795375574,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no copyrighted text beyond short excerpt. Provide citations with URLs. Provide guidance on auto-generating captions for YouTube videos. Also mention UK considerations (e.g., accessibility regulations, Ofcom, etc.). Provide step-by-step workflow. Provide pros/cons. Provide links. Provide best practices.\n\nWe must ensure to not violate policy. Provide citations. Use markdown. Provide list.\n\nOk."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.406168989,
+      "prompt_tokens": 137,
+      "prompt_time": 0.04224665,
+      "completion_tokens": 150,
+      "completion_time": 0.311734656,
+      "total_tokens": 287,
+      "total_time": 0.353981306,
+      "completion_tokens_details": {
+        "reasoning_tokens": 135
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82bjb33eg89axj83tg82b46",
+      "seed": 453866917
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3031,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vidyo.ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, choosing between **Opus Clip** and **Vidyo.ai** comes down to your specific workflow needs, budget, and editing style. Both are industry-leading AI-driven repurposing tools designed to slice long-form videos (like podcasts, YouTube videos, and webinars) into viral, short-form clips (TikToks, Reels, YouTube Shorts). \n\nBelow is a comprehensive comparison of Opus Clip and Vidyo.ai, along with a look at other key industry players, recommended workflows, and authoritative sources.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Vidyo.ai\n\n#### **Opus Clip**\n*   **Best For:** Creators who want a completely hands-off, highly automated experience with industry-leading AI curation.\n*   **Standout Features:** \n    *   **AI Curation & Scoring:** It evaluates your video and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, choosing between **Opus Clip** and **Vidyo.ai** comes down to your specific workflow needs, budget, and editing style. Both are industry-leading AI-driven repurposing tools designed to slice long-form videos (like podcasts, YouTube videos, and webinars) into viral, short-form clips (TikToks, Reels, YouTube Shorts). \n\nBelow is a comprehensive comparison of Opus Clip and Vidyo.ai, along with a look at other key industry players, recommended workflows, and authoritative sources.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Vidyo.ai\n\n#### **Opus Clip**\n*   **Best For:** Creators who want a completely hands-off, highly automated experience with industry-leading AI curation.\n*   **Standout Features:** \n    *   **AI Curation & Scoring:** It evaluates your video and",
+              "thoughtSignature": "Eo4BCosBAWkUfRPwO4XODTUlGiSwczCTwS7np/qBDK0lB47Y6dRmcqmiSEejDXDYfaKHYNSKRiMyehaSQPA3HnStnYClLXQT/TfCSbfO6GpKM7xvJf5f54Q57qK90m+9KGdb3XkNNW8EuSkeL5OJA45bEs23G4wX6tbI5X9kzFUdyifbPUWDkB8kjD8S/Y5IWw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kEYDa8aKD--80r4P3ZXR-As"
+  },
+  "latency_ms": 3162,
+  "cost_usd": 0.0002
+}

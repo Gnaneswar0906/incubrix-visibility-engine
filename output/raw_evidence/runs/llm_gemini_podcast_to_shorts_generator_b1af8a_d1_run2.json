@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I have evaluated the current landscape of AI-powered video repurposing tools. Transforming long-form podcasts into viral short-form content (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies for creators today. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an optimized workflow to streamline your production.\n\n---\n\n### Part 1: Key Industry Options & Best Software Tools\n\n#### 1. Opus Clip (AI-First Repurposing)\n*   **Best For:** Fully automated, AI-driven clip generation.\n*   **How it Works:** You paste a YouTube link or upload a podcast file. Opus Clip\u2019s AI analyzes the entire video, identifies hooks and cohesive topics, crops the speaker to 9:16, adds animated captions, and even scores the clips based on \"viral potential.\"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I have evaluated the current landscape of AI-powered video repurposing tools. Transforming long-form podcasts into viral short-form content (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies for creators today. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an optimized workflow to streamline your production.\n\n---\n\n### Part 1: Key Industry Options & Best Software Tools\n\n#### 1. Opus Clip (AI-First Repurposing)\n*   **Best For:** Fully automated, AI-driven clip generation.\n*   **How it Works:** You paste a YouTube link or upload a podcast file. Opus Clip\u2019s AI analyzes the entire video, identifies hooks and cohesive topics, crops the speaker to 9:16, adds animated captions, and even scores the clips based on \"viral potential.\"",
+              "thoughtSignature": "Eo4BCosBAWkUfRNNmS1JGzibDq93R6uZMVEOmomc9znJUfYflGuppU2jtzyvEKv56cYaXY3ZKKNkHk0rdehPBRwrRktFAJDnanGHO7+yh9RQzqEEbSQWZxQjecWkF1pc9wN6oKjsgJIqbTLRFUQ6RpiRboVcL/us6/KrurgYAEilvhuj+gGhDHuRtJnQL7qwrA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pz0Da7SMFeqy694P-dnEuAM"
+  },
+  "latency_ms": 1637,
+  "cost_usd": 0.0002
+}

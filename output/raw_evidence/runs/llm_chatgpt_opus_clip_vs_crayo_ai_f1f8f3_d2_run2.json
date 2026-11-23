@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are entering a market where **short-form video (Reels, Shorts, TikTok)** is the primary driver of growth. The choice between **Opus Clip** and **Crayo AI** depends heavily on your workflow, volume, and budget.\n\nHere\u2019s a detailed, authoritative comparison and recommendation tailored for the Indian market:\n\n---\n\n### \ud83d\udd0d Quick Verdict: Which is Better?\n\n| Feature | **Opus Clip** | **Crayo AI** |\n| :--- | :--- | :--- |\n| **Best For** | **High-volume creators** who need polished, viral-ready clips with minimal editing. | **Beginners or budget-conscious creators",
+  "raw_payload": {
+    "id": "chatcmpl-f02ab63e-fa0e-4882-b56b-196da732d622",
+    "object": "chat.completion",
+    "created": 1795377103,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are entering a market where **short-form video (Reels, Shorts, TikTok)** is the primary driver of growth. The choice between **Opus Clip** and **Crayo AI** depends heavily on your workflow, volume, and budget.\n\nHere\u2019s a detailed, authoritative comparison and recommendation tailored for the Indian market:\n\n---\n\n### \ud83d\udd0d Quick Verdict: Which is Better?\n\n| Feature | **Opus Clip** | **Crayo AI** |\n| :--- | :--- | :--- |\n| **Best For** | **High-volume creators** who need polished, viral-ready clips with minimal editing. | **Beginners or budget-conscious creators"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054585948,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005166782,
+      "completion_tokens": 150,
+      "completion_time": 0.313510557,
+      "total_tokens": 229,
+      "total_time": 0.318677339
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d10anej5tscyk4g292mak",
+      "seed": 174665201
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1074,
+  "cost_usd": 0.0002
+}

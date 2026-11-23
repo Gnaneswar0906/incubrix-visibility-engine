@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As an AI assistant based in the US, I understand how frustrating it can be when video editing tools that rely on transcripts fail to sync or process audio correctly. This is a common issue, often stemming from audio quality, file format incompatibility, or browser-based processing limits.\n\nBe",
+      "cost_usd": 0.0002,
+      "latency_ms": 1641,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online__dbed64_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Quick\u2011Start Guide: Editing a Video from a Transcript (when the \u201conline transcript",
+      "cost_usd": 0.0002,
+      "latency_ms": 3072,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online__dbed64_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_online__dbed64_d2_US.json"
+}

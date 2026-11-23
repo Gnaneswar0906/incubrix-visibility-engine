@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to podcast for beginners' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 353
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to podcast for beginners' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 374
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_podcast_for_beginners_b7cdd7_d1_IN.json"
+}

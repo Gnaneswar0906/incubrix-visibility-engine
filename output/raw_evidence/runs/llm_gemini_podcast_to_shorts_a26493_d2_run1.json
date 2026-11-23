@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflows, and industry standards for turning long-form podcasts into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\nRepurposing long-form content is one of the most efficient ways to grow an audience. According to industry reports and creator economy trends (such as those highlighted by *Tubefilter* and *Creator Wizard*), automated AI clipping tools have drastically reduced the time it takes to go from a 1-hour recording to published micro-content.\n\nHere is your comprehensive guide to tools, workflows, and industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing has exploded. Here is how the top tools\u2014including the ones you mentioned\u2014compare:\n\n*   **Opus Clip (Industry Leader for AI Curation):**\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflows, and industry standards for turning long-form podcasts into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\nRepurposing long-form content is one of the most efficient ways to grow an audience. According to industry reports and creator economy trends (such as those highlighted by *Tubefilter* and *Creator Wizard*), automated AI clipping tools have drastically reduced the time it takes to go from a 1-hour recording to published micro-content.\n\nHere is your comprehensive guide to tools, workflows, and industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing has exploded. Here is how the top tools\u2014including the ones you mentioned\u2014compare:\n\n*   **Opus Clip (Industry Leader for AI Curation):**\n",
+              "thoughtSignature": "Eo4BCosBAWkUfROOPxsFuO7WQIQyFXWKUBKPMpD5594OqlFtt7rNwLiusRgLSaa7VWHotwN5JpEUO2z0dVaUBz+OvelrLAl/MVJSNGAtcnJoVdX7fJ9i8wmmHFtePvNoPs19dzryxIGfcB7QfWtrKxIpAu8un+5dvP//3zk0qzKa7Z1y7KB2ivkHb9d8WVxvXA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YEUDa_SjJdSe3LUP45jwiQ8"
+  },
+  "latency_ms": 2406,
+  "cost_usd": 0.0002
+}

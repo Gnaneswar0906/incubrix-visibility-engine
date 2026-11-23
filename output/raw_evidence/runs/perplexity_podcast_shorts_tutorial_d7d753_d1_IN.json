@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast shorts tutorial",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'podcast shorts tutorial' in IN, popular recommendations include CapCut. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 410
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast shorts tutorial' in IN, popular recommendations include Veed.io, InVideo, Submagic. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 325
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_shorts_tutorial_d7d753_d1_IN.json"
+}

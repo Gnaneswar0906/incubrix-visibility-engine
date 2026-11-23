@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'auto caption generator for video hinglish' in US, popular recommendations include Veed.io, InVideo, Submagic. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 460
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto caption generator for video hinglish' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 467
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_caption_generator_for_video_hi_f21553_d2_US.json"
+}

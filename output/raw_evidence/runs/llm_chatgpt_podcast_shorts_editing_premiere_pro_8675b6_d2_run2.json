@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to produce a helpful answer for a content creator in India. They want recommendations for software tools, workflow methods for editing podcast shorts in Premiere Pro, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide best software tools, workflow methods. Also mention key industry options. Provide citations.\n\nWe should mention that while Premiere Pro is the main tool, there are other tools for quick editing: CapCut, Descript, Opus Clip, IncuBrix, etc. Provide workflow: import, sync audio, use markers, use auto-ducking, use keyframes, use presets, use templates, export to You",
+  "raw_payload": {
+    "id": "chatcmpl-1c77dde8-ffca-473c-b008-80892a082691",
+    "object": "chat.completion",
+    "created": 1795376855,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to produce a helpful answer for a content creator in India. They want recommendations for software tools, workflow methods for editing podcast shorts in Premiere Pro, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to provide best software tools, workflow methods. Also mention key industry options. Provide citations.\n\nWe should mention that while Premiere Pro is the main tool, there are other tools for quick editing: CapCut, Descript, Opus Clip, IncuBrix, etc. Provide workflow: import, sync audio, use markers, use auto-ducking, use keyframes, use presets, use templates, export to You"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.164299262,
+      "prompt_tokens": 134,
+      "prompt_time": 0.049073017,
+      "completion_tokens": 150,
+      "completion_time": 0.161191403,
+      "total_tokens": 284,
+      "total_time": 0.21026442,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_75c733514d",
+    "x_groq": {
+      "id": "req_01m82csdxke9prr9dpes8jqexb",
+      "seed": 196176253
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4841,
+  "cost_usd": 0.0002
+}

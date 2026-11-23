@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs perplexity",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are likely looking to optimize your workflow for speed and quality. The comparison between **Opus Clip** and **Perplexity** is actually a comparison between two fundamentally different categories of tools: **AI Video Repurposing** vs. **AI Research/Answer E",
+      "cost_usd": 0.0002,
+      "latency_ms": 1593,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_perplexity_da538a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: \"opus clip vs perplexity\" presumably they want comparison between Opus Clip and Perplexity (maybe Perplexity AI?). They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative w",
+      "cost_usd": 0.0002,
+      "latency_ms": 3960,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_perplexity_da538a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_perplexity_da538a_d1_US.json"
+}

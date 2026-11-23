@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to repurpose and auto-upload content from Twitch to YouTube, automating the pipeline is the best way to save time and capture the short-form video boom (YouTube Shorts and TikTok). \n\nHere is a breakdown of the best software tools, key industry options (including the",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to repurpose and auto-upload content from Twitch to YouTube, automating the pipeline is the best way to save time and capture the short-form video boom (YouTube Shorts and TikTok). \n\nHere is a breakdown of the best software tools, key industry options (including the"
+            },
+            {
+              "text": " ones you mentioned), and an efficient end-to-end workflow method.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to automate **long-form archiving** (full VODs) or **short-form clipping** (viral highlights), different tools excel in different areas.\n\n#### **A. AI Clipping & Repurposing Tools (Best for Shorts/Reels)**\n*   **Opus Clip:** An industry favorite for generative AI clipping. It analyzes your Twitch VOD, extracts the most engaging moments, adds captions, resizes them to 9:16, and gives them a \"virality score.\" \n    *   *Best for:* Quickly turning hours of gameplay or chatting streams into ready-to-post Shorts.\n*   **CapCut (Desktop & Web):** A powerhouse for editing. While known for auto",
+              "thoughtSignature": "Eo4BCosBAWkUfRMznc1uuBrRttOMM7ia3r3yfld6p2J4iF6nzJ5KTOp/eu7Jop7wH30a63EER7fIcvliJkvBFQz8rnETaaQPxwq+HTAQ09l3k/NODLto+QRZTufNOVENWnhZMHdSYEoBYvns0uVjipMTltgZcXcpBGFW4QKbLMqkkSb5Mj4n1iXfxTts1065GQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 246,
+      "totalTokenCount": 310,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Ez8Da7vUHdTNjuMP2tCUoA8"
+  },
+  "latency_ms": 4184,
+  "cost_usd": 0.0002
+}

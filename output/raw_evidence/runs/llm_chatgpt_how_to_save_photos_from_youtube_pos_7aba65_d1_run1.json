@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to save photos from youtube posts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"how to save photos from youtube posts\". The user is a content creator in India. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies: This is about downloading content from YouTube. It's about extracting photos (thumbnails? frames?) from YouTube posts. This may be considered copyrighted material. We need to be careful: The user wants to save photos from YouTube posts. This could be considered downloading images from YouTube, which may be copyrighted. According to policy, providing instructions on how to download copyrighted content is disallowed if it is",
+  "raw_payload": {
+    "id": "chatcmpl-f4814603-9893-4fb4-94f6-b7d340660740",
+    "object": "chat.completion",
+    "created": 1795375307,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"how to save photos from youtube posts\". The user is a content creator in India. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies: This is about downloading content from YouTube. It's about extracting photos (thumbnails? frames?) from YouTube posts. This may be considered copyrighted material. We need to be careful: The user wants to save photos from YouTube posts. This could be considered downloading images from YouTube, which may be copyrighted. According to policy, providing instructions on how to download copyrighted content is disallowed if it is"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369297081,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005402236,
+      "completion_tokens": 150,
+      "completion_time": 0.3110039,
+      "total_tokens": 286,
+      "total_time": 0.316406136,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82ba635e89smstaqhwfchkz",
+      "seed": 943091208
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2462,
+  "cost_usd": 0.0002
+}

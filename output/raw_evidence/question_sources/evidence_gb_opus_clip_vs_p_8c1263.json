@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=opus+clip+vs+p",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "opus clip vs p",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:56:15.869100+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "opus clip vs perplexity",
+    "opus clip vs premiere pro",
+    "opus clip starter vs pro",
+    "opus clip vs capcut pro",
+    "opus clip vs opus pro",
+    "opus clip free or paid",
+    "opus game review",
+    "opus vs mp3 quality",
+    "opus one review",
+    "opus vs wav"
+  ],
+  "raw_response": "[\"opus clip vs p\",[\"opus clip vs perplexity\",\"opus clip vs premiere pro\",\"opus clip starter vs pro\",\"opus clip vs capcut pro\",\"opus clip vs opus pro\",\"opus clip free or paid\",\"opus game review\",\"opus vs mp3 quality\",\"opus one review\",\"opus vs wav\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

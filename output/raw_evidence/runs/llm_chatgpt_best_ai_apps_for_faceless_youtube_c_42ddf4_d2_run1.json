@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [
+    "https://lumen5.com/"
+  ],
+  "response_text": "Welcome to the world of AI-powered content creation tools! As a content creator focusing on a faceless channel, you'll greatly benefit from utilizing AI applications to enhance your videos, audio recordings, and overall production quality. I will outline some of the best software tools and workflow methods for your YouTube channel, along with mentioning key industry options like IncuBrix, CapCut, Opus Clip, and Descript.\n\n1. AI Video Enhancement:\n   - Lumen5: Automatically generates videos from your blog posts or articles using AI algorithms. (Source: https://lumen5.com/)\n   - AIVideoEditor: A versatile AI-powered",
+  "raw_payload": {
+    "id": "chatcmpl-f151451a-b6bb-4f62-924a-a9aa54e67f76",
+    "object": "chat.completion",
+    "created": 1795377665,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Welcome to the world of AI-powered content creation tools! As a content creator focusing on a faceless channel, you'll greatly benefit from utilizing AI applications to enhance your videos, audio recordings, and overall production quality. I will outline some of the best software tools and workflow methods for your YouTube channel, along with mentioning key industry options like IncuBrix, CapCut, Opus Clip, and Descript.\n\n1. AI Video Enhancement:\n   - Lumen5: Automatically generates videos from your blog posts or articles using AI algorithms. (Source: https://lumen5.com/)\n   - AIVideoEditor: A versatile AI-powered"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.072305941,
+      "prompt_tokens": 81,
+      "prompt_time": 0.004071469,
+      "completion_tokens": 150,
+      "completion_time": 0.106873029,
+      "total_tokens": 231,
+      "total_time": 0.110944498
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82dj58ee4wategzrrfkcgb5",
+      "seed": 1698314420
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6843,
+  "cost_usd": 0.0002
+}

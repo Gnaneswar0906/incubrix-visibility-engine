@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to automate and streamline your YouTube Shorts workflow, you have access to some of the most advanced AI-powered video repurposing and scheduling tools on the market. \n\nTo build an efficient \"auto-post\" and creation pipeline, you need a combination of **AI clipping/editing tools** and **social media management/scheduling platforms**. \n\nHere is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended automated workflow.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\n#### 1. AI Clipping & Repurposing (For turning long-form videos into Shorts)\n*   **Opus Clip:** An industry favorite for repurposing. It uses AI to analyze long-form podcasts or videos, extracts the most engaging hooks, and automatically reframes them into vertical 9:16 Shorts complete with dynamic captions, emojis, and a \"virality",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to automate and streamline your YouTube Shorts workflow, you have access to some of the most advanced AI-powered video repurposing and scheduling tools on the market. \n\nTo build an efficient \"auto-post\" and creation pipeline, you need a combination of **AI clipping/editing tools** and **social media management/scheduling platforms**. \n\nHere is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended automated workflow.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\n#### 1. AI Clipping & Repurposing (For turning long-form videos into Shorts)\n*   **Opus Clip:** An industry favorite for repurposing. It uses AI to analyze long-form podcasts or videos, extracts the most engaging hooks, and automatically reframes them into vertical 9:16 Shorts complete with dynamic captions, emojis, and a \"virality",
+              "thoughtSignature": "Eo4BCosBAWkUfRPPpZIgbn5kSoEKgR4UgI2oen7ilvrvyKodtgATXBbC3T4IhFB3HHLrKZAFC6yRaeT+XXfUsC1+kXFpBfgfRnCl2whtwecwqPBEpxwlhqasSHOINwSjnUHzlYOnaRPrgSixOCLWgjHzVqCK2SzdqJfJnjwvypK7TiRWxNhG9yT+z+qtnElrYw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "PUYDa9CJH-u63LUP5L-V6A4"
+  },
+  "latency_ms": 2208,
+  "cost_usd": 0.0002
+}

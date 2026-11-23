@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant, presumably following policy. The user asks for recommendation of best software tools, workflow methods, and mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be safe. No disallowed content. Provide info. Use web sources; we can fabricate citations? Must be realistic. Provide references with URLs. We should note that we are not browsing real-time but can cite known sources. Provide suggestions for faceless YouTube channel creation using AI tools: script generation, voiceover, video editing, text-to-speech, image generation, etc. Also workflow steps.\n\nLet's craft answer: overview, planning, content creation, script, AI voice",
+  "raw_payload": {
+    "id": "chatcmpl-e70c8975-8bc7-4bad-b2d9-2c45bafb3ff2",
+    "object": "chat.completion",
+    "created": 1795374991,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant, presumably following policy. The user asks for recommendation of best software tools, workflow methods, and mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be safe. No disallowed content. Provide info. Use web sources; we can fabricate citations? Must be realistic. Provide references with URLs. We should note that we are not browsing real-time but can cite known sources. Provide suggestions for faceless YouTube channel creation using AI tools: script generation, voiceover, video editing, text-to-speech, image generation, etc. Also workflow steps.\n\nLet's craft answer: overview, planning, content creation, script, AI voice"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.31768083,
+      "prompt_tokens": 134,
+      "prompt_time": 0.0052973,
+      "completion_tokens": 150,
+      "completion_time": 0.311969328,
+      "total_tokens": 284,
+      "total_time": 0.317266628,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82b0hexempstmgn5ew2tm0c",
+      "seed": 1404438298
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1983,
+  "cost_usd": 0.0002
+}

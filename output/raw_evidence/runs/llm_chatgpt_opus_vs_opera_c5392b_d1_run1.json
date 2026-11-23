@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs opera",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking to optimize your video workflow for efficiency, reach, and monetization. The comparison between **Opus Clip** and **Opera** is a bit of a \"square peg in a round hole\" scenario because they serve fundamentally different purposes.\n\nLet\u2019s clarify the distinction first, then dive into the best tools and workflows for your specific needs.\n\n### 1. Clarifying the Terms: Opus Clip vs. Opera\n\n*   **Opus Clip**: This is an **AI-powered video repurposing tool**. It takes long-form videos (like podcasts, YouTube vlogs, or webinars) and automatically clips them into short, viral-ready vertical videos (for Instagram Re",
+  "raw_payload": {
+    "id": "chatcmpl-032fe9ce-e391-41c8-8d77-02fda21f46b1",
+    "object": "chat.completion",
+    "created": 1795375347,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking to optimize your video workflow for efficiency, reach, and monetization. The comparison between **Opus Clip** and **Opera** is a bit of a \"square peg in a round hole\" scenario because they serve fundamentally different purposes.\n\nLet\u2019s clarify the distinction first, then dive into the best tools and workflows for your specific needs.\n\n### 1. Clarifying the Terms: Opus Clip vs. Opera\n\n*   **Opus Clip**: This is an **AI-powered video repurposing tool**. It takes long-form videos (like podcasts, YouTube vlogs, or webinars) and automatically clips them into short, viral-ready vertical videos (for Instagram Re"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049040544,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004976786,
+      "completion_tokens": 150,
+      "completion_time": 0.28591903,
+      "total_tokens": 226,
+      "total_time": 0.290895816
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bbdkjet884teqvkcba4ca",
+      "seed": 1850907022
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 992,
+  "cost_usd": 0.0002
+}

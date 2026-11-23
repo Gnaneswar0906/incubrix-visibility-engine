@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a"
+            },
+            {
+              "text": " content creator in the US looking to scale their podcast output into viral short-form videos (TikTok, Instagram Reels, YouTube Shorts), choosing the right software and workflow is essential for maximizing reach while saving time. \n\nHere is a comprehensive breakdown of the best tools, industry options, and an optimized workflow for editing podcast shorts using **CapCut** and other leading platforms.\n\n---\n\n### Part 1: Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is divided into two main categories: **AI-driven repurposing tools** (which automate the finding and cutting of clips) and **manual/creative editing suites** (which give you precise control over visuals, pacing, and styling).\n\n#### 1. CapCut (Best for Creative Control & Trending Styles)\n*   **What it is:** A versatile video editor available on desktop, mobile, and web. \n*   **Why use it:** CapCut dominates the short-form space due to its user",
+              "thoughtSignature": "Eo4BCosBAWkUfRPTPLb5K/ujnc2tvqf+pO9Z8ulg02MQhQLqNLHX8sUmAInnaRZgW8ZmZbFY7Ue5nv60CwMZpmc8R6VGsHVHgtRvR+NGosPZD9ZWP769XACzGhp8iaPyJaCRo0dLvPTxIkYQ9y6ZhfGaxqMFII2E8y4klhvUD2LKEk1naBksnya0ptB50nrpyw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "lUUDa5iNOK-K694Phc_YgQg"
+  },
+  "latency_ms": 5640,
+  "cost_usd": 0.0002
+}

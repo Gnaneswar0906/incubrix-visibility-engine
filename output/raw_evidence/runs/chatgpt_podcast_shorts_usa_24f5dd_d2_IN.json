@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: podcast shorts usa Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nW",
+      "cost_usd": 0.0002,
+      "latency_ms": 4426,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_usa_24f5dd_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, TikTok, and YouTube Shorts) is now a critical part of any podcasting strategy to drive new listeners. As a content creator in India, you likely have access to both global SaaS tools and cost-effective local alternative",
+      "cost_usd": 0.0002,
+      "latency_ms": 1296,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_usa_24f5dd_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_usa_24f5dd_d2_IN.json"
+}

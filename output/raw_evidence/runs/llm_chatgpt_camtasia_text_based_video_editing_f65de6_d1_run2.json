@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are sitting at the perfect intersection of high-volume content creation and cost-effective tooling. The shift toward **text-based video editing** (also known as \"editing by transcript\") is no longer just a trend; it is becoming the standard for efficiency, especially for talking-head videos, podcasts, and educational content.\n\nWhile **Camtasia** is a powerhouse for screen recording and detailed tutorial creation, it is **not** primarily known for text-based editing. Its strength lies in visual polish, cursor effects, and screen capture. For true text-based editing, you need AI-powered tools that allow you to delete words in a transcript to cut video.\n\nHere\u2019s a breakdown of the best software",
+  "raw_payload": {
+    "id": "chatcmpl-e69f4098-3711-48e5-a483-35c14eb33507",
+    "object": "chat.completion",
+    "created": 1795375139,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are sitting at the perfect intersection of high-volume content creation and cost-effective tooling. The shift toward **text-based video editing** (also known as \"editing by transcript\") is no longer just a trend; it is becoming the standard for efficiency, especially for talking-head videos, podcasts, and educational content.\n\nWhile **Camtasia** is a powerhouse for screen recording and detailed tutorial creation, it is **not** primarily known for text-based editing. Its strength lies in visual polish, cursor effects, and screen capture. For true text-based editing, you need AI-powered tools that allow you to delete words in a transcript to cut video.\n\nHere\u2019s a breakdown of the best software"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050356958,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005197002,
+      "completion_tokens": 150,
+      "completion_time": 0.286281461,
+      "total_tokens": 229,
+      "total_time": 0.291478463
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82b52rcea69zzwzbdmnmv2c",
+      "seed": 587868932
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1257,
+  "cost_usd": 0.0002
+}

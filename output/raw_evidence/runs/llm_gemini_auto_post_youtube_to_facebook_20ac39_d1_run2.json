@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I understand that cross-posting your long-form YouTube videos or YouTube Shorts to Facebook is one of the most efficient ways to maximize your reach, build an omnichannel presence, and monetize your content across multiple platforms (such as the Facebook Creator Bonus or In-Stream Ads). \n\nHowever, simply sharing a YouTube link on Facebook typically results in poor algorithmic reach because social platforms prefer native uploads. To do this effectively, you need a mix of video repurposing tools and social media management workflows.\n\nBelow are the best software tools, key industry options (including your mentioned platforms), and optimized workflow methods for the U.S. market.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\n#### **Repurposing & Editing Tools (Best for turning YouTube into short-form Facebook Reels)**\n*   **Opus Clip:** An AI-powered generative video tool that repurposes long-form",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I understand that cross-posting your long-form YouTube videos or YouTube Shorts to Facebook is one of the most efficient ways to maximize your reach, build an omnichannel presence, and monetize your content across multiple platforms (such as the Facebook Creator Bonus or In-Stream Ads). \n\nHowever, simply sharing a YouTube link on Facebook typically results in poor algorithmic reach because social platforms prefer native uploads. To do this effectively, you need a mix of video repurposing tools and social media management workflows.\n\nBelow are the best software tools, key industry options (including your mentioned platforms), and optimized workflow methods for the U.S. market.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\n#### **Repurposing & Editing Tools (Best for turning YouTube into short-form Facebook Reels)**\n*   **Opus Clip:** An AI-powered generative video tool that repurposes long-form",
+              "thoughtSignature": "Eo4BCosBAWkUfRP4IwK7bPXbzQ3akJ2kdqYd9AeHrUTCPHsyW4ELaN3nWRcp4oYio4C6QsMFhDKvQFSUom6h9gv78x+g/113VGrsHeXc+C9IOIdbkCuBfn0YLUiT/Jl9hr7bPmr1OWgozLKPL5EbBViLkguUxXJ8S8FwLVf1cbsONvq4Re3EVpT+iXn1/nVSwQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xT4Da6DXIe3g694P7YD24A8"
+  },
+  "latency_ms": 6888,
+  "cost_usd": 0.0002
+}

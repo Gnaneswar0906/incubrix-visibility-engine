@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video vn app",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto caption generator for video VN (maybe Vietnamese?) app. They are a content creator located in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention those tools, maybe others like Veed, Rev, Happy Scribe, Google\u2019s auto-caption, YouTube automatic captions, etc. Provide citations with links. Must be safe. Provide Indian context, maybe mention local language support for Vietnamese? Actually \"vn\" could be \"video\" abbreviation. Could be \"video VN app\" meaning video editing app for Vietnam? But",
+  "raw_payload": {
+    "id": "chatcmpl-14a3ec3e-e52f-4888-bbf7-3871142141a6",
+    "object": "chat.completion",
+    "created": 1795375185,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto caption generator for video VN (maybe Vietnamese?) app. They are a content creator located in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention those tools, maybe others like Veed, Rev, Happy Scribe, Google\u2019s auto-caption, YouTube automatic captions, etc. Provide citations with links. Must be safe. Provide Indian context, maybe mention local language support for Vietnamese? Actually \"vn\" could be \"video\" abbreviation. Could be \"video VN app\" meaning video editing app for Vietnam? But"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157521842,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005405277,
+      "completion_tokens": 150,
+      "completion_time": 0.31100508,
+      "total_tokens": 286,
+      "total_time": 0.316410357,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82b6f7yexmt29araf8ey57r",
+      "seed": 1897395448
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2904,
+  "cost_usd": 0.0002
+}

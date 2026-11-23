@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+generate+captions+for+free",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto generate captions for free",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:53:58.299031+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto generate captions for free",
+    "auto generate subtitles for free",
+    "automatic captions generator for free",
+    "auto generate captions for video free",
+    "auto generate captions for video free online",
+    "auto generate captions for video free ai",
+    "auto generate captions for video free reddit",
+    "create auto captions for free",
+    "auto generate captions free online",
+    "auto caption generator free for photo"
+  ],
+  "raw_response": "[\"auto generate captions for free\",[\"auto generate captions for free\",\"auto generate subtitles for free\",\"automatic captions generator for free\",\"auto generate captions for video free\",\"auto generate captions for video free online\",\"auto generate captions for video free ai\",\"auto generate captions for video free reddit\",\"create auto captions for free\",\"auto generate captions free online\",\"auto caption generator free for photo\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

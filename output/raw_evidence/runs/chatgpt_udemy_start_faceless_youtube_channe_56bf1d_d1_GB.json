@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "udemy start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. Should be helpful, possibly include steps to start a fa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2665,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Should be helpful, structured. Need to be mindful of pol",
+      "cost_usd": 0.0002,
+      "latency_ms": 2494,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d1_GB.json"
+}

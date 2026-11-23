@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the short answer is that **Opus Clip and Captions (the app) serve two different primary stages of the short-form video creation workflow**, and many creators actually use both. \n\nHere is a comprehensive breakdown comparing Opus Clip vs. Captions, along with a look at industry alternatives (including IncuBrix, CapCut, and Descript) and a recommended workflow.\n\n---\n\n### 1. The Core Contenders: Opus Clip vs. Captions\n\n#### **Opus Clip (The AI Repurposing Engine)**\n* **Primary Function:** Long-form to short-form video clipping. \n* **How it works:** You feed Opus Clip a long-form YouTube video, podcast, or webinar link. Its AI (often utilizing OpenAI's GPT models under the hood) analyzes the transcript, finds the most engaging \"hooks\" and viral moments, and automatically",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the short answer is that **Opus Clip and Captions (the app) serve two different primary stages of the short-form video creation workflow**, and many creators actually use both. \n\nHere is a comprehensive breakdown comparing Opus Clip vs. Captions, along with a look at industry alternatives (including IncuBrix, CapCut, and Descript) and a recommended workflow.\n\n---\n\n### 1. The Core Contenders: Opus Clip vs. Captions\n\n#### **Opus Clip (The AI Repurposing Engine)**\n* **Primary Function:** Long-form to short-form video clipping. \n* **How it works:** You feed Opus Clip a long-form YouTube video, podcast, or webinar link. Its AI (often utilizing OpenAI's GPT models under the hood) analyzes the transcript, finds the most engaging \"hooks\" and viral moments, and automatically",
+              "thoughtSignature": "Eo4BCosBAWkUfRMPK4ow1Lbsl3fwvK8Yf1ngS04S2ikjpF45lPynLl3AGHy6dLTkfx1jF7LR/u4BHeakgBQsSXRA9CLOrjn/rsLFcgiX/u6aKo0zukadAOyTFtFZQsktXUlCrtVGzgWTKd/ieosXuGjeufEls3hSsKgDkIJQpuKfLq3E2F/sRvTggmJI6TV4hQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ez8Da4f1M4LB694P8ZK-uQ8"
+  },
+  "latency_ms": 2659,
+  "cost_usd": 0.0002
+}

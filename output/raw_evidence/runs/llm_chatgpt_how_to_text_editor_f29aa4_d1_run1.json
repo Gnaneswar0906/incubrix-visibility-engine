@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text editor",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nInterpretation: The user wants advice on \"how to text editor\"? Possibly they mean \"how to use a text editor\" or \"how to edit text\"? But they also mention software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Those are video editing tools, not text editors. Maybe they want text editing for scripts, subtitles,",
+  "raw_payload": {
+    "id": "chatcmpl-ae565b87-9028-48de-ac00-ba673e6a9805",
+    "object": "chat.completion",
+    "created": 1795375142,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nInterpretation: The user wants advice on \"how to text editor\"? Possibly they mean \"how to use a text editor\" or \"how to edit text\"? But they also mention software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Those are video editing tools, not text editors. Maybe they want text editing for scripts, subtitles,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317748179,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005768868,
+      "completion_tokens": 150,
+      "completion_time": 0.315351292,
+      "total_tokens": 283,
+      "total_time": 0.32112016,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82b54tzevyr0c5tp1kk8zsr",
+      "seed": 1599509432
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2794,
+  "cost_usd": 0.0002
+}

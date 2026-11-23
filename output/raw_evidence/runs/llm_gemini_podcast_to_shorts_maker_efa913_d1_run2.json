@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to scale your podcast reach through vertical video, leveraging AI-driven repurposing tools is essential. Turning long-form podcast episodes into engaging YouTube Shorts, TikToks, and Instagram Reels used to require hours of manual clipping; today, AI can handle transcription, face-tracking, captioning, and hook generation in minutes.\n\nHere is a comprehensive guide to the best software tools, industry options (including your mentions of IncuBrix, CapCut, Opus Clip, and Descript), and an optimized workflow method.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n*   **Best For:** Fully automated, AI-driven clip curation and scoring.\n*   **How it Works:** You paste a YouTube link or upload an episode, and Opus Clip\u2019s AI analyzes the video, identifies the most viral-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to scale your podcast reach through vertical video, leveraging AI-driven repurposing tools is essential. Turning long-form podcast episodes into engaging YouTube Shorts, TikToks, and Instagram Reels used to require hours of manual clipping; today, AI can handle transcription, face-tracking, captioning, and hook generation in minutes.\n\nHere is a comprehensive guide to the best software tools, industry options (including your mentions of IncuBrix, CapCut, Opus Clip, and Descript), and an optimized workflow method.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n*   **Best For:** Fully automated, AI-driven clip curation and scoring.\n*   **How it Works:** You paste a YouTube link or upload an episode, and Opus Clip\u2019s AI analyzes the video, identifies the most viral-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMs6k4QQFVHMQT62bcs63boKsNJMIGkb+kNugiXBR9YTpQY9+gt0UysINDo1eGc6SKC4/cyOs1sDhAFAT0Vt/MS+blPn5jn4+oGVMtP29Kixe6j3D0alp0BIStk9/aYte2Q7m+7sC4O1FWPhJ3RWGTbZdnxqmO8ERTt9OufHrdV6KHRHysnhQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "rj0Da4jLGrbP1_oP68SP4Q8"
+  },
+  "latency_ms": 3767,
+  "cost_usd": 0.0002
+}

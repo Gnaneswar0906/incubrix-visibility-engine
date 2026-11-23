@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus 4 review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"opus 4 review\". They want recommendation of best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide a review of Opus 4 (maybe a software? Could be Opus 4 by something). There's Opus 4, a video editing tool? Actually Opus Clip is a tool. Opus 4 might be a plugin? Need to search memory: Opus 4 could be a digital audio workstation? There's \"Opus 4\" maybe a music production plugin? Or \"Opus ",
+  "raw_payload": {
+    "id": "chatcmpl-b6901801-9fbb-452e-b47b-87ef305bc297",
+    "object": "chat.completion",
+    "created": 1795375341,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"opus 4 review\". They want recommendation of best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide a review of Opus 4 (maybe a software? Could be Opus 4 by something). There's Opus 4, a video editing tool? Actually Opus Clip is a tool. Opus 4 might be a plugin? Need to search memory: Opus 4 could be a digital audio workstation? There's \"Opus 4\" maybe a music production plugin? Or \"Opus "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155718794,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006080434,
+      "completion_tokens": 150,
+      "completion_time": 0.310958412,
+      "total_tokens": 283,
+      "total_time": 0.317038846,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82bb72me0sv5514sgxd44bn",
+      "seed": 420410896
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1774,
+  "cost_usd": 0.0002
+}

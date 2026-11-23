@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, industry options, and a proven workflow for converting long-form podcasts",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, industry options, and a proven workflow for converting long-form podcasts"
+            },
+            {
+              "text": " into viral short-form clips (TikToks, Instagram Reels, and YouTube Shorts).\n\nThe landscape of AI video repurposing has exploded. Platforms can now automatically detect engaging hooks, crop speakers vertically, add dynamic captions, and score clips based on viral potential. \n\n---\n\n### 1. Key Industry Options & Software Tools\n\nWhen evaluating tools, creators generally look for a balance of AI automation, editing precision, and pricing. Here is how the top options stack up:\n\n*   **Opus Clip (Industry Standard for AI Curation):** Opus Clip is one of the pioneers in generative AI video clipping. You drop in a YouTube link, and its AI analyzes your podcast, extracts multiple highlights, ranks them by a \"viral score,\" and adds captions. According to reviews on creator economy platforms like *Creator Wizard* and *VidIQ*, it is currently the most hands-off, efficient tool for pure volume generation.\n*   **CapCut (Best for Creative Control &",
+              "thoughtSignature": "Eo4BCosBAWkUfRPRHUJYyYlsD8zgJ4494sXllqCbsDMxmhnDQQhf+0bkNTqJOAliVahcmpdwQllEzBtm18+GYoOdFcjtcYHVuAlMq/1e9YI7XQEFukDmTjrVex6tRpFm+J/JWw2UxdxVuuzMapiCXjIhiaITHn/hnOiCNU2gSC3MJ7wzzPz8YoRSmXquvDg36w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 236,
+      "totalTokenCount": 298,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "akUDa6mmPM79juMP3JC0iAc"
+  },
+  "latency_ms": 3374,
+  "cost_usd": 0.0002
+}

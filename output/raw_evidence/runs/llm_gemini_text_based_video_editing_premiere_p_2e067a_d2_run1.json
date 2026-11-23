@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a US-based content creator looking to leverage text-based video editing alongside or as an alternative to Adobe Premiere Pro, you are operating in one of the fastest-growing sectors of post-production. Text-based editing allows creators to edit video timelines simply by cutting, copying, and pasting text transcripts, drastically reducing rough-cut times.\n\nHere is a comprehensive guide to the best software tools, industry options (including your specified list), and an efficient workflow to integrate this technology into your Premiere Pro pipeline.\n\n---\n\n### Key Industry Options for Text-Based Editing & AI Video\n\n#### 1. Adobe Premiere Pro (Native Text-Based Editing)\nSince Adobe integrated native text-based editing directly into Premiere Pro, users no longer *have* to leave the ecosystem for basic transcript-driven rough cuts. \n*   **How it works:** Premiere automatically transcribes your footage. You highlight text in the Transcript panel and click \"Insert\" or \"Delete",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a US-based content creator looking to leverage text-based video editing alongside or as an alternative to Adobe Premiere Pro, you are operating in one of the fastest-growing sectors of post-production. Text-based editing allows creators to edit video timelines simply by cutting, copying, and pasting text transcripts, drastically reducing rough-cut times.\n\nHere is a comprehensive guide to the best software tools, industry options (including your specified list), and an efficient workflow to integrate this technology into your Premiere Pro pipeline.\n\n---\n\n### Key Industry Options for Text-Based Editing & AI Video\n\n#### 1. Adobe Premiere Pro (Native Text-Based Editing)\nSince Adobe integrated native text-based editing directly into Premiere Pro, users no longer *have* to leave the ecosystem for basic transcript-driven rough cuts. \n*   **How it works:** Premiere automatically transcribes your footage. You highlight text in the Transcript panel and click \"Insert\" or \"Delete",
+              "thoughtSignature": "Eo4BCosBAWkUfROubdl7MMbAtDaIegTwe7UVvmXTxahfMqFDy3Z+P+VgMczHLpkva1TanPSn5Z0+72bP3SJfZO7V8ASVvUEVcM4OgxkWQv+95Vi5fCb1QflkHUYrsbxDzu90wEvjvy7qmGbB7duKGb2KRRQ7o26gKErJyAxThvk95XE4ImGgJw5sv8AjeRfCqg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xUUDa_SqGMDq694Pm-bAqA8"
+  },
+  "latency_ms": 2553,
+  "cost_usd": 0.0002
+}

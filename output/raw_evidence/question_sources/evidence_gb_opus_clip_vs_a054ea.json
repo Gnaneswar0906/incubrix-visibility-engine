@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=opus+clip+vs",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "opus clip vs",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:36.594342+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "opus clip vs capcut",
+    "opus clip vs descript",
+    "opus clip vs",
+    "opus clip vs riverside",
+    "opus clip vs perplexity",
+    "opus clip vs submagic",
+    "opus clip vs crayo ai",
+    "opus clip vs eklipse",
+    "opus clip vs agent opus",
+    "opus clip vs klap"
+  ],
+  "raw_response": "[\"opus clip vs\",[\"opus clip vs capcut\",\"opus clip vs descript\",\"opus clip vs\",\"opus clip vs riverside\",\"opus clip vs perplexity\",\"opus clip vs submagic\",\"opus clip vs crayo ai\",\"opus clip vs eklipse\",\"opus clip vs agent opus\",\"opus clip vs klap\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[512],[512],[512],[512],[512],[512],[512]]}]"
+}

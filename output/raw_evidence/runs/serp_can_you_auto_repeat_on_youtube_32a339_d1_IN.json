@@ -1,0 +1,99 @@
+{
+  "query": "can you auto repeat on youtube",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=jjdUNZsh9wM",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "can you auto repeat on youtube",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How To Put A YouTube Video On Repeat",
+        "link": "https://www.youtube.com/watch?v=jjdUNZsh9wM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Watch this tutorial to learn how to put a YouTube video on loop using both desktop and mobile.",
+        "position": 1
+      },
+      {
+        "title": "LoopTube: Repeat YouTube Videos",
+        "link": "https://looptube.io/",
+        "displayedLink": "https://looptube.io",
+        "snippet": "LoopTube is a free online tool to repeat any YouTube videos. Just type the YouTube video URL in the search bar, or simply replace \"youtube.com\" with \"looptube.",
+        "position": 2
+      },
+      {
+        "title": "Loop videos or playlists on YouTube - Computer",
+        "link": "https://support.google.com/youtube/answer/10788593?hl=en&co=GENIE.Platform%3DDesktop",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 10788593",
+        "snippet": "To repeat a video: Go to the watch screen of any video. Right Click in the video player. Click Loop The video will repeat continuously.",
+        "position": 3
+      },
+      {
+        "title": "How To Repeat Videos on YouTube - Mobile, Mac, or PC",
+        "link": "https://www.youtube.com/watch?v=xH2ZJuO7FrE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Here's how to repeat or loop YouTube videos in your browser and on your phone! - Mobile, Mac, or PC",
+        "position": 4
+      },
+      {
+        "title": "Looper for YouTube - Chrome Web Store",
+        "link": "https://chromewebstore.google.com/detail/looper-for-youtube/iggpfpnahkgpnindfkdncknoldgnccdg",
+        "displayedLink": "https://chromewebstore.google.com \u203a detail \u203a looper-for-youtube \u203a iggpfpnahkgpnindfkdncknoldg...",
+        "snippet": "With Looper for YouTube you will get a loop button under the YouTube player. After you press the button, video will repeat itself infinitely. Key Features ...",
+        "position": 5
+      },
+      {
+        "title": "How to Repeat YouTube Videos",
+        "link": "https://www.computerhope.com/tips/tip196.htm",
+        "displayedLink": "https://www.computerhope.com \u203a tips \u203a tip196.htm",
+        "snippet": "YouTube now lets you loop, or automatically repeat, any video by right-clicking the video or play button and selecting the Loop option from the ...",
+        "date": "14 Jun 2025",
+        "position": 6
+      },
+      {
+        "title": "YouTube automatically loops every video after closing and reopening the website, help?",
+        "link": "https://www.reddit.com/r/youtube/comments/1aub5wt/youtube_automatically_loops_every_video_after/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a youtube_automatically_loops...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1aub5wt/comment/kr2uyul/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1aub5wt/comment/kr2wjhl/"
+          }
+        ],
+        "position": 7
+      },
+      {
+        "title": "Can you automatically play youtube video on a loop?",
+        "link": "https://www.reddit.com/r/Chromecast/comments/15ah7m6/can_you_automatically_play_youtube_video_on_a_loop/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a can_you_automatically_play_...",
+        "position": 8
+      },
+      {
+        "title": "How do you make YouTube videos auto-replay?",
+        "link": "https://www.quora.com/How-do-you-make-YouTube-videos-auto-replay",
+        "displayedLink": "https://www.quora.com \u203a How-do-you-make-YouTube-vid...",
+        "position": 9
+      },
+      {
+        "title": "LOOP YOUTUBE VIDEOS! How to Put a YouTube Video on Repeat!",
+        "link": "https://www.youtube.com/watch?v=TbPXMyEqGZg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Find your video. Right click on it and click Loop. Open up your YouTube app, Play the video and click this repeat button.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

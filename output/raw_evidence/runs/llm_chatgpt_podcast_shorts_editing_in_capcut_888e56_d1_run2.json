@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for podcast shorts editing in CapCut, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to be helpful, US creator. Provide list of tools, workflow steps, tips. Provide citations with links. Must be safe. Provide references. Use markdown. Provide citations in footnotes. Ensure not to fabricate sources. I need to reference known sources: maybe articles from TechRadar, The Verge, Podcast Insights, etc. I can cite generic URLs. Should be accurate. Provide brief descriptions. Provide workflow: import audio, transcript, cut, add captions, export. Mention CapCut mobile/",
+  "raw_payload": {
+    "id": "chatcmpl-fdff6aa6-b672-4962-97c0-663ffa08edb7",
+    "object": "chat.completion",
+    "created": 1795374549,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for podcast shorts editing in CapCut, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to be helpful, US creator. Provide list of tools, workflow steps, tips. Provide citations with links. Must be safe. Provide references. Use markdown. Provide citations in footnotes. Ensure not to fabricate sources. I need to reference known sources: maybe articles from TechRadar, The Verge, Podcast Insights, etc. I can cite generic URLs. Should be accurate. Provide brief descriptions. Provide workflow: import audio, transcript, cut, add captions, export. Mention CapCut mobile/"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317676375,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006409174,
+      "completion_tokens": 150,
+      "completion_time": 0.310888875,
+      "total_tokens": 285,
+      "total_time": 0.317298049,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82ak1j4eafb3n2gkhttycw5",
+      "seed": 308910360
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3077,
+  "cost_usd": 0.0002
+}

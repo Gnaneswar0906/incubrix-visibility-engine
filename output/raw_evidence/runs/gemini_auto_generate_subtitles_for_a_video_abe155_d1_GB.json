@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'auto generate subtitles for a video' in GB, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 337
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For a content creator based in the UK (GB) looking to auto-generate video subtitles, the right choice depends on whether you need quick, highly stylized captions for short-form content (TikTok, Reels, Shorts) or heavy-duty, text-based editing for long-form YouTube videos and podcasts. \n\nBelow is a b",
+      "cost_usd": 0.0002,
+      "latency_ms": 6788,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_for_a_video_abe155_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_subtitles_for_a_video_abe155_d1_GB.json"
+}

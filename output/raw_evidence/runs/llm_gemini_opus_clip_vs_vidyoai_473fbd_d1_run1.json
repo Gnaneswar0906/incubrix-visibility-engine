@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vidyo.ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Vidyo.ai** depends heavily on whether your priority is raw automated speed (Opus) or granular design and template customization (Vidyo.ai). Both are industry-leading AI clipping tools designed to repurpose long-form YouTube videos, podcasts, or webinars into viral short-form content for TikTok, YouTube Shorts, and Instagram Reels.\n\nBelow is a detailed comparison, recommended workflows, and a look at how other industry options stack up against them.\n\n---\n\n### Part 1: Opus Clip vs. Vidyo.ai\n\n#### **Opus Clip**\n*   **Best For:** Creators who want a true \"set-it-and-forget-it\" workflow. \n*   **Core Strengths:** Powered by OpenAI, Opus Clip\u2019s AI is exceptionally good at finding \"hooks\" and evaluating a video's",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Vidyo.ai** depends heavily on whether your priority is raw automated speed (Opus) or granular design and template customization (Vidyo.ai). Both are industry-leading AI clipping tools designed to repurpose long-form YouTube videos, podcasts, or webinars into viral short-form content for TikTok, YouTube Shorts, and Instagram Reels.\n\nBelow is a detailed comparison, recommended workflows, and a look at how other industry options stack up against them.\n\n---\n\n### Part 1: Opus Clip vs. Vidyo.ai\n\n#### **Opus Clip**\n*   **Best For:** Creators who want a true \"set-it-and-forget-it\" workflow. \n*   **Core Strengths:** Powered by OpenAI, Opus Clip\u2019s AI is exceptionally good at finding \"hooks\" and evaluating a video's",
+              "thoughtSignature": "Eo4BCosBAWkUfRPoqde5BNn25s8+kVsXwjk+nIXFDm50LQ5fMMdtXu1FtMKuQ8aVZoiDtCvQgXt1Cl7+93u4DN5uDWynUGqeRSJSVQtkntzJOwLDmw5uh8jr0pGBvXoj+kHfWRT2DhSD4qCXJmnuyV9pz7izfvFA6JIaToFXq13xl6eWrvZBxOp57+i8/626Mw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jD8Da_2nCJXnz7sP8PDLuAs"
+  },
+  "latency_ms": 5961,
+  "cost_usd": 0.0002
+}

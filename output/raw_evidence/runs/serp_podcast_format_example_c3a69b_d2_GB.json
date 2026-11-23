@@ -1,0 +1,88 @@
+{
+  "query": "podcast format example",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://mark-leonard.medium.com/the-seven-most-common-podcast-formats-87bbc3ecf40d",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast format example",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "The Seven Most Common Podcast Formats: With Examples - Medium",
+        "link": "https://mark-leonard.medium.com/the-seven-most-common-podcast-formats-87bbc3ecf40d",
+        "displayedLink": "https://mark-leonard.medium.com \u203a the-seven-most-common-podca...",
+        "snippet": "The Seven Most Common Podcast Formats: With Examples \u00b7 1. One-on-one interview \u00b7 2. Solo commentary \u00b7 3. Panel (guest interview or discussion).",
+        "position": 1
+      },
+      {
+        "title": "How to Write a Podcast Script [8 Free Script Templates]",
+        "link": "https://www.buzzsprout.com/blog/write-podcast-script-examples",
+        "displayedLink": "https://www.buzzsprout.com \u203a blog \u203a write-podcast-script-examples",
+        "snippet": "CONTENTS: Basic podcast script template example; Podcast outline template; How to write a podcast script; Common podcast script elements; 8 ...",
+        "date": "3 Aug 2026",
+        "position": 2
+      },
+      {
+        "title": "Best Podcast Format? Easiest, Popular, & Most Sustainable Options",
+        "link": "https://www.thepodcasthost.com/planning/podcast-formats/",
+        "displayedLink": "https://www.thepodcasthost.com \u203a planning \u203a podcast-formats",
+        "snippet": "From interviews to solo shows, there are various types of podcast format. Here, I help you choose the best fit for you, and your content.",
+        "date": "30 Mar 2026",
+        "position": 3
+      },
+      {
+        "title": "8 Podcast Formats To Consider For Your Show",
+        "link": "https://castos.com/podcast-format/",
+        "displayedLink": "https://castos.com \u203a podcast-format",
+        "snippet": "Examples of the panel style podcast format: Slate's Political Gabfest. Voted \u201cFavorite Political Podcast\u201d by Apple Podcasts listeners.",
+        "date": "11 Aug 2025",
+        "position": 4
+      },
+      {
+        "title": "Podcast Formats Explained: 10 Popular Types and How to Choose ...",
+        "link": "https://www.youtube.com/watch?v=VEFsBVgvX8Q",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "You'll learn: \u2022 What makes each podcast format unique \u2022 How to pick a format that aligns with your audience \u2022 Real examples ... Podcast Formats\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Ready To Choose Your Podcast Format?",
+        "link": "https://multimedia.journalism.berkeley.edu/blog/podcast-format/",
+        "displayedLink": "https://multimedia.journalism.berkeley.edu \u203a blog \u203a podcast-format",
+        "snippet": "One popular podcast format is the interview-style podcast. In ... My Favorite Murder, a popular true crime comedy podcast, is an example of this format.",
+        "position": 6
+      },
+      {
+        "title": "Podcast Scripts: How to create awesome podcasts! - VoiceTalks",
+        "link": "https://voice123.com/blog/voice-over-scripts/podcast-scripts/",
+        "displayedLink": "https://voice123.com \u203a blog \u203a voice-over-scripts \u203a podcast-scripts",
+        "snippet": "This guide breaks down how to write a podcast script, shares a podcast script template, and gives you real podcast script examples you can use right away.",
+        "position": 7
+      },
+      {
+        "title": "Podcast formats: Navigating the choices",
+        "link": "https://akademie.dw.com/en/from-solo-shows-to-storytelling-a-guide-to-different-podcast-formats/a-69531292",
+        "displayedLink": "https://akademie.dw.com \u203a en \u203a from-solo-shows-to-storytel... \u203a a-69531292",
+        "snippet": "Choosing a podcast format takes consideration. It determines how your show develops, who you reach and how you collaborate.",
+        "date": "1 Jul 2024",
+        "position": 8
+      },
+      {
+        "title": "Writing a podcast script",
+        "link": "https://aoifesnotes.com/leaving-cert/ordinary-level/Paper-One/docs/comprehension-question-b/Podcast%20Script%20Writing%20-%20Focus%20on%202022%20Comp%20B%20-%20Slideshow%20.pdf",
+        "displayedLink": "https://aoifesnotes.com \u203a leaving-cert \u203a ... \u203a Podcast Script Writing - Fo...",
+        "snippet": "Sample Intros. Welcome to 'The Music Playing in Me', where we explore the role music plays in our lives. My name is Killian McCarthy and on today's podcast,.",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

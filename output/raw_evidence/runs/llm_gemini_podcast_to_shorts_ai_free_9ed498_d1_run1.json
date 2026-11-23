@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that repurposing long-form podcast episodes into short-form clips (TikToks, Instagram Reels, YouTube Shorts) is currently one of the most effective audience-growth strategies. \n\nBelow is a comprehensive guide covering the best free AI-powered software tools, a recommended workflow method, and an analysis of key industry options, including your mentioned tools.\n\n---\n\n### Part 1: Key Industry Options & Free Tiers\n\nWhen looking for \"free\" AI clipping tools, most platforms operate on a **freemium model**\u2014offering a limited number of free upload minutes or watermarked exports per month. \n\n1. **Opus Clip (Industry Standard for AI Curation)**\n   * **What it does:** Uses generative AI to analyze a long video, score clips based on \"viral potential,\" and automatically add captions, emojis, and face-tracking crop.\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that repurposing long-form podcast episodes into short-form clips (TikToks, Instagram Reels, YouTube Shorts) is currently one of the most effective audience-growth strategies. \n\nBelow is a comprehensive guide covering the best free AI-powered software tools, a recommended workflow method, and an analysis of key industry options, including your mentioned tools.\n\n---\n\n### Part 1: Key Industry Options & Free Tiers\n\nWhen looking for \"free\" AI clipping tools, most platforms operate on a **freemium model**\u2014offering a limited number of free upload minutes or watermarked exports per month. \n\n1. **Opus Clip (Industry Standard for AI Curation)**\n   * **What it does:** Uses generative AI to analyze a long video, score clips based on \"viral potential,\" and automatically add captions, emojis, and face-tracking crop.\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRM2TjgWi6x17Siq1JLa3S0bHGakw7yTREnIvu7ehiY96uve07Wwh7gY3tbLp5BcTlENBRdciZvfQeJSCutpzXJ0i6w0xMZ5e3xL+kUl9R5UEiWuZwG74dESSje2tHsfGRwrpNUgSfVXqkhshKzg1M1JbUX5BEWnkz1xyDB2HS8T0urHoHwJrA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iz0Da9jTJdSe3LUP45jwiQ8"
+  },
+  "latency_ms": 2322,
+  "cost_usd": 0.0002
+}

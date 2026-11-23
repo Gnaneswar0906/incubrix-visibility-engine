@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus 4 review",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide a review of \"opus 4\". Likely refers to Opus 4 video editing or maybe Opus 4 audio? Could be \"Opus 4\" a software? Actually Opus Clip is a tool. Opus 4 might be a product? Could be \"Opus 4\" as a video editing AI tool? Let's search memory: Opus 4 is a video editing platform by Opus Clip? Or Opus 4 maybe a music composition? Might be \"Opus 4\" a digital audio workstation? Not sure. Provide review: features, pros, cons, pricing, alternatives.\n\nAlso recommend best",
+  "raw_payload": {
+    "id": "chatcmpl-a1640cdf-1c99-49b8-841d-041a128e4435",
+    "object": "chat.completion",
+    "created": 1795375339,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide a review of \"opus 4\". Likely refers to Opus 4 video editing or maybe Opus 4 audio? Could be \"Opus 4\" a software? Actually Opus Clip is a tool. Opus 4 might be a product? Could be \"Opus 4\" as a video editing AI tool? Let's search memory: Opus 4 is a video editing platform by Opus Clip? Or Opus 4 maybe a music composition? Might be \"Opus 4\" a digital audio workstation? Not sure. Provide review: features, pros, cons, pricing, alternatives.\n\nAlso recommend best"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317915986,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006437351,
+      "completion_tokens": 150,
+      "completion_time": 0.315407608,
+      "total_tokens": 283,
+      "total_time": 0.321844959,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82bb56fefavgyvn0xqmje6h",
+      "seed": 1536979383
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2357,
+  "cost_usd": 0.0002
+}

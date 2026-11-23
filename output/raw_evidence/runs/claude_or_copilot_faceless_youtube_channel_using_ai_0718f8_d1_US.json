@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "faceless youtube channel using ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'faceless youtube channel using ai' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 351
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'faceless youtube channel using ai' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 414
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_faceless_youtube_channel_using_ai_0718f8_d1_US.json"
+}

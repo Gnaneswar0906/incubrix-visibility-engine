@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Generating Captions for Video \u2013 Free\u2011to\u2011Use Tools, Workflow, and Industry Options**  \n\nBelow is a quick\u2011start guide you can copy\u2011paste into a production checklist, plus a short comparison of the",
+      "cost_usd": 0.0002,
+      "latency_ms": 3324,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_8f58f3_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Take Summary\n| Tool (Free tier)",
+      "cost_usd": 0.0002,
+      "latency_ms": 2624,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_fr_8f58f3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_fr_8f58f3_d2_US.json"
+}

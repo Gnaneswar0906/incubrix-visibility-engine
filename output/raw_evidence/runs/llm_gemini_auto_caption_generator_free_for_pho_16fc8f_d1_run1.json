@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator free for photo",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain (GB), finding the right auto-caption generator for *photos* (or text-on-image/carousel content) requires tools that excel in graphic design, typography automation, and AI-driven layout. \n\nWhile tools like Opus Clip and Descript are industry giants for *video* transcription, and CapCut handles both video and image text overlay, other specialized tools (and your specific suite options) handle photos best.\n\nHere is a breakdown of the best software tools, a recommended workflow, and how key industry options fit your needs.\n\n---\n\n### 1. Best Software Tools for Auto-Captioning Photos\n\nFor static photos, carousels, and graphic design in the GB market, you want tools that either auto-generate captions (copywriting) or auto-generate stylish text overlays (subtitles/graphics on images).\n\n*   **CapCut (Free / Freemium):** While",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain (GB), finding the right auto-caption generator for *photos* (or text-on-image/carousel content) requires tools that excel in graphic design, typography automation, and AI-driven layout. \n\nWhile tools like Opus Clip and Descript are industry giants for *video* transcription, and CapCut handles both video and image text overlay, other specialized tools (and your specific suite options) handle photos best.\n\nHere is a breakdown of the best software tools, a recommended workflow, and how key industry options fit your needs.\n\n---\n\n### 1. Best Software Tools for Auto-Captioning Photos\n\nFor static photos, carousels, and graphic design in the GB market, you want tools that either auto-generate captions (copywriting) or auto-generate stylish text overlays (subtitles/graphics on images).\n\n*   **CapCut (Free / Freemium):** While",
+              "thoughtSignature": "Eo4BCosBAWkUfRO1v35R3NwbDd3NGrCms7uqHxeS24dttrj1F03WnBJ4w39q5bc9jNIXzpv3qtKKZHr4Qd2gYvbq3UCs4eFdgj8UfezSNMehZNhW7GtuMO2FiJhrAi5WEjmP8iE15OCG8JjA65kqIknyO3k74rPjJ2OxAwp2s13pwOoKo5tZOsBdd6Aw3I6Kig=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "C0IDa77aDKfh694Py_HtCQ"
+  },
+  "latency_ms": 2873,
+  "cost_usd": 0.0002
+}

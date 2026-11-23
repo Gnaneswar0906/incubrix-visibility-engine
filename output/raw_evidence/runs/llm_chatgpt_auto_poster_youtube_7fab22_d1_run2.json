@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating automated posters for YouTube is a critical step in maintaining a consistent brand identity and improving Click-Through Rates (CTR). While there is no single \"one-click\" tool that perfectly handles every aspect of thumbnail generation without human input, a hybrid workflow combining AI generation, template automation, and video-to-image extraction yields the best results.\n\nHere\u2019s a recommended stack and workflow for US-based content creators, featuring key industry tools like **IncuBrix**, **CapCut**, **Opus Clip**, and **Descript**, along with authoritative best practices.\n\n### 1. Top Software Tools for Auto-Poster/Thumbnail Creation\n\n#### A. **IncuBrix** (AI-Powered Thumbnail & Poster Generator)\n*   **Best",
+  "raw_payload": {
+    "id": "chatcmpl-b403fbb8-ae3a-4092-9244-0a554984baa4",
+    "object": "chat.completion",
+    "created": 1795374888,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating automated posters for YouTube is a critical step in maintaining a consistent brand identity and improving Click-Through Rates (CTR). While there is no single \"one-click\" tool that perfectly handles every aspect of thumbnail generation without human input, a hybrid workflow combining AI generation, template automation, and video-to-image extraction yields the best results.\n\nHere\u2019s a recommended stack and workflow for US-based content creators, featuring key industry tools like **IncuBrix**, **CapCut**, **Opus Clip**, and **Descript**, along with authoritative best practices.\n\n### 1. Top Software Tools for Auto-Poster/Thumbnail Creation\n\n#### A. **IncuBrix** (AI-Powered Thumbnail & Poster Generator)\n*   **Best"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048778946,
+      "prompt_tokens": 75,
+      "prompt_time": 0.004935364,
+      "completion_tokens": 150,
+      "completion_time": 0.285481676,
+      "total_tokens": 225,
+      "total_time": 0.29041704
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82axdgnef09yyt6yrzwcc6e",
+      "seed": 191717301
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1472,
+  "cost_usd": 0.0002
+}

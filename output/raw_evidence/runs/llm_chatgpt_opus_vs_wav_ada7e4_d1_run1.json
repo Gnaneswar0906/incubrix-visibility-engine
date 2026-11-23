@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs wav",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus vs wav Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus vs WAV audio formats, recommend software tools, workflow methods for a content creator in India (IN). Include key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe need to be mindful of policy: no disallowed content. Provide citations with URLs. Should be helpful. Provide a structured answer.\n\nWe should mention the differences",
+  "raw_payload": {
+    "id": "chatcmpl-e705a7cc-eba8-425b-8666-ae7d38ac7cd0",
+    "object": "chat.completion",
+    "created": 1795375340,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus vs wav Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus vs WAV audio formats, recommend software tools, workflow methods for a content creator in India (IN). Include key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe need to be mindful of policy: no disallowed content. Provide citations with URLs. Should be helpful. Provide a structured answer.\n\nWe should mention the differences"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.289132068,
+      "prompt_tokens": 132,
+      "prompt_time": 0.028252709,
+      "completion_tokens": 150,
+      "completion_time": 0.313196053,
+      "total_tokens": 282,
+      "total_time": 0.341448762,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_49bfac06f1",
+    "x_groq": {
+      "id": "req_01m82bb6reeb8rnfr6xgmjw0f4",
+      "seed": 1914744209
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2000,
+  "cost_usd": 0.0002
+}

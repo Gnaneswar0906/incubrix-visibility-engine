@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a"
+            },
+            {
+              "text": " content creator located in India (IN) looking to repurpose long-form videos into viral short-form content (Reels, Shorts, TikToks), choosing between **Opus Clip** and **Crayo AI** comes down to whether you prioritize **AI-driven narrative intelligence** or **hyper-fast visual automation and captioning**. \n\nBelow is a detailed comparison tailored to your needs, incorporating regional considerations, industry alternatives, and recommended workflows.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Crayo AI\n\n#### **Opus Clip**\n*   **Best For:** Long-form podcasters, educators, and creators who need AI to understand the *context* and *narrative arc* of a video.\n*   **Key Strengths:** \n    *   **AI curation:** It doesn't just clip highlights; it uses a proprietary AI (Curator) to score clips based on hook strength, coherence, and",
+              "thoughtSignature": "Eo4BCosBAWkUfRN+KAJe8R3MWn0lzRLRXIhJdGqAoE6mEQbsBmmC18dzgjAutuMigYzyqvN1Id1je2qxaQFwSYWVCEeZk6MT6U9YM0MFL9oE0Wpu6KHvBT6OBIWTqgtzx5YiLOuhvwraCP2Dz14W89k2nwjNNmjJ1qFajxax+GaEEHppwpVwB5Ig5lxWJhzvVA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2kADa5fpK5Le694PopizgAE"
+  },
+  "latency_ms": 2573,
+  "cost_usd": 0.0002
+}

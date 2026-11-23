@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tools",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for faceless YouTube channel AI tools, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available. Need to provide a thorough answer. Must ensure compliance with policy",
+      "cost_usd": 0.0002,
+      "latency_ms": 3698,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tools_185a7c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** with AI\u2011Powered Tools  \n*(Tailored for a U.S",
+      "cost_usd": 0.0002,
+      "latency_ms": 2778,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tools_185a7c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_tools_185a7c_d2_US.json"
+}

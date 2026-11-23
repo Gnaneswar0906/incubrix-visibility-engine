@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to scale your podcast through shorts, reels, and TikToks, you need a mix of AI automation to save time and precise editing tools for creative polish. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a proven workflow method to maximize your output and reach.\n\n---\n\n### 1. Key Industry Software & Tools\n\nThe podcast-to-shorts landscape is divided into **AI Repurposing Tools** (which automatically find highlights and caption videos) and **Traditional/Hybrid Editors** (for manual control and high-end styling).\n\n#### **AI Repurposing Tools (Best for Speed & Automation)**\n*   **Opus Clip:** One of the market leaders in AI video clipping. It analyzes long-form podcasts, scores clips based on \"viral potential,\" extracts the most engaging segments, adds animated captions, and reformats them to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to scale your podcast through shorts, reels, and TikToks, you need a mix of AI automation to save time and precise editing tools for creative polish. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a proven workflow method to maximize your output and reach.\n\n---\n\n### 1. Key Industry Software & Tools\n\nThe podcast-to-shorts landscape is divided into **AI Repurposing Tools** (which automatically find highlights and caption videos) and **Traditional/Hybrid Editors** (for manual control and high-end styling).\n\n#### **AI Repurposing Tools (Best for Speed & Automation)**\n*   **Opus Clip:** One of the market leaders in AI video clipping. It analyzes long-form podcasts, scores clips based on \"viral potential,\" extracts the most engaging segments, adds animated captions, and reformats them to",
+              "thoughtSignature": "Eo4BCosBAWkUfRMoEdmzlFlWfWGv1eMUg2BYSNrGIScaBKCQL8OiPCfp+9UYN8vGnh5C3AHBWgVhNkxrEXfvSGguiIxpU2Y9WTaryoo+9TbA3WORA/LcLsnBzUAM5SaOxjt2E900hjnbrJxIVkWZIbrtdemFgoV528wlexFy0fJ6rt+qyBUl+eoMdc3sjqY3fQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jEUDa5fKJcetz7sPxraJqQs"
+  },
+  "latency_ms": 2316,
+  "cost_usd": 0.0002
+}

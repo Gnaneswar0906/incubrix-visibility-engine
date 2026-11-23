@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=gb&q=convert+16%3A9+video+to+vertical+for+uk+clients",
+  "source_type": "YouTube Autocomplete",
+  "market": "GB",
+  "seed": "convert 16:9 video to vertical for uk clients",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:09:36.064406Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"convert 16:9 video to vertical for uk clients\",[],{\"k\":1}])"
+}

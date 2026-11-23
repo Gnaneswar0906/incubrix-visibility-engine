@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are at the forefront of a major shift in video production. **Text-based video editing** is a workflow where you edit a video by editing its transcript. Instead of dragging and dropping clips on a timeline, you delete, rearrange, or modify words in a text document, and the software automatically cuts the corresponding audio and visual footage.\n\nThis method dramatically speeds up post-production, especially for talking-head videos, podcasts, and educational content.\n\n### How It Works\n1. **Transcription**: The software uses AI to convert your video\u2019s audio into accurate text.\n2. **Text Editing**: You edit the text (delete filler words like \"um,\" \"uh,\" or restructure",
+  "raw_payload": {
+    "id": "chatcmpl-a6bc9308-1166-4b94-97b9-dd50226f4f59",
+    "object": "chat.completion",
+    "created": 1795375139,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are at the forefront of a major shift in video production. **Text-based video editing** is a workflow where you edit a video by editing its transcript. Instead of dragging and dropping clips on a timeline, you delete, rearrange, or modify words in a text document, and the software automatically cuts the corresponding audio and visual footage.\n\nThis method dramatically speeds up post-production, especially for talking-head videos, podcasts, and educational content.\n\n### How It Works\n1. **Transcription**: The software uses AI to convert your video\u2019s audio into accurate text.\n2. **Text Editing**: You edit the text (delete filler words like \"um,\" \"uh,\" or restructure"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048700476,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005212164,
+      "completion_tokens": 150,
+      "completion_time": 0.28503034,
+      "total_tokens": 228,
+      "total_time": 0.290242504
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b52rbez7spp812ypd9s21",
+      "seed": 1704097334
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1287,
+  "cost_usd": 0.0002
+}

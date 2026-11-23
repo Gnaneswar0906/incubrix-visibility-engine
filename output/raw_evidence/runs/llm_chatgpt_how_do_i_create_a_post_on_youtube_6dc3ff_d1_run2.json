@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i create a post on youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide instructions on creating a post on YouTube, recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Use proper tone. No disallowed content. Provide step-by-step guide, tools for editing, thumbnail creation, SEO, scheduling. Provide links to official docs.\n\nWe must ensure we cite sources. We can reference YouTube Help Center, Google support pages. Also mention tools' websites. Provide citations in brackets with URLs.\n\nWe must not fabricate sources; we can use known URLs. Provide plausible",
+  "raw_payload": {
+    "id": "chatcmpl-c9d888d6-4bcb-436f-8dff-fd77c5523b5a",
+    "object": "chat.completion",
+    "created": 1795375657,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide instructions on creating a post on YouTube, recommend software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Use proper tone. No disallowed content. Provide step-by-step guide, tools for editing, thumbnail creation, SEO, scheduling. Provide links to official docs.\n\nWe must ensure we cite sources. We can reference YouTube Help Center, Google support pages. Also mention tools' websites. Provide citations in brackets with URLs.\n\nWe must not fabricate sources; we can use known URLs. Provide plausible"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156494198,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006252512,
+      "completion_tokens": 150,
+      "completion_time": 0.31304936,
+      "total_tokens": 287,
+      "total_time": 0.319301872,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82bmw1qe8h9gthbxj2hdjhk",
+      "seed": 88624431
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7157,
+  "cost_usd": 0.0002
+}

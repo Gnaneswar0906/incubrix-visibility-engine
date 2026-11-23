@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Overview  \n| Goal | Free tool (or free tier) | How it works | Typical workflow step |\n|------|--------------------------|--------------|----------------------|\n| **Fully\u2011automated caption generation** | **YouTube Studio (auto\u2011captions)** \u2013 free for any uploaded video | Upload \u2192 \u201cSubtitles/CC\u201d \u2192",
+  "raw_payload": {
+    "id": "chatcmpl-af3ba84e-03e8-40fa-b158-d0ef8bc6ad38",
+    "object": "chat.completion",
+    "created": 1795375238,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Overview  \n| Goal | Free tool (or free tier) | How it works | Typical workflow step |\n|------|--------------------------|--------------|----------------------|\n| **Fully\u2011automated caption generation** | **YouTube Studio (auto\u2011captions)** \u2013 free for any uploaded video | Upload \u2192 \u201cSubtitles/CC\u201d \u2192",
+          "reasoning": "The user wants recommendations for auto generating captions for free, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide authoritative web sources if available. Need to comply with policies. Provide info. No disallowed content. Should be fine. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.1582815,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00548384,
+      "completion_tokens": 150,
+      "completion_time": 0.30886884,
+      "total_tokens": 286,
+      "total_time": 0.31435268,
+      "completion_tokens_details": {
+        "reasoning_tokens": 70
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82b82s3eqh9h2tgzsxh2tv1",
+      "seed": 1490618147
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2939,
+  "cost_usd": 0.0002
+}

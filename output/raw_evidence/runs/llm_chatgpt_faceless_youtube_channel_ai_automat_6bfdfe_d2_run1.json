@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"faceless youtube channel ai automation free\" \u2013 a content creator in India wants recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. It's allowed. Provide suggestions for free or freemium tools, workflow steps, mention AI automation for faceless channels (text-to-speech, AI video generation, script generation, editing). Provide citations with URLs. Since we can't browse live, we can cite known sources like official sites, blogs, reviews. Provide references.\n\nWe should not claim we have real-time browsing, but can provide known references.\n\nMake",
+  "raw_payload": {
+    "id": "chatcmpl-7617bc56-84cd-4e82-8fe9-2add3c18b164",
+    "object": "chat.completion",
+    "created": 1795377169,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"faceless youtube channel ai automation free\" \u2013 a content creator in India wants recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must comply with policy. It's allowed. Provide suggestions for free or freemium tools, workflow steps, mention AI automation for faceless channels (text-to-speech, AI video generation, script generation, editing). Provide citations with URLs. Since we can't browse live, we can cite known sources like official sites, blogs, reviews. Provide references.\n\nWe should not claim we have real-time browsing, but can provide known references.\n\nMake"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157894312,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005411246,
+      "completion_tokens": 150,
+      "completion_time": 0.312885807,
+      "total_tokens": 286,
+      "total_time": 0.318297053,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82d30qden8b4xtnt8by3zsy",
+      "seed": 1435061048
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2823,
+  "cost_usd": 0.0002
+}

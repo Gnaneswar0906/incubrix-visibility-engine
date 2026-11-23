@@ -1,0 +1,47 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US, comparing Opus Clip vs Riverside, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must not violate policy. Prov",
+      "cost_usd": 0.0002,
+      "latency_ms": 4076,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_riverside_f199be_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "We need to answer as an AI assistant for a US content creator, recommending best software tools, workflow methods, and mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policies: no disallowed content. This is f",
+      "cost_usd": 0.0002,
+      "latency_ms": 3431,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_riverside_f199be_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_riverside_f199be_d1_US.json"
+}

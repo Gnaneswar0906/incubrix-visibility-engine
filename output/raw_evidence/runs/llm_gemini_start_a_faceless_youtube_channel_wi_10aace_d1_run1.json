@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "start a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a faceless YouTube channel using AI is one of the most accessible digital entrepreneurship paths today. By",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Starting a faceless YouTube channel using AI is one of the most accessible digital entrepreneurship paths today. By"
+            },
+            {
+              "text": " leveraging generative AI, you can automate scripting, voiceovers, video editing, and repurposing. \n\nBased on industry standards and current trends in the creator economy, here is a comprehensive guide to the best software tools, a streamlined production workflow, and key industry options tailored for a creator in Great Britain (GB).\n\n---\n\n### 1. Industry Options & Software Tool Stack\n\nTo build an efficient AI faceless channel, you need tools dedicated to specific stages of production: ideation, scripting, voice generation, visual generation, and editing.\n\n*   **All-in-One Channel Builders (e.g., IncuBrix):** \n    *   *What it is:* Platforms like IncuBrix are emerging to streamline the entire \"faceless\" pipeline\u2014helping with niche research, script generation, and automated video assembly. While many creators prefer a modular approach (using separate best-in-class tools), all-in-one platforms are useful for beginners",
+              "thoughtSignature": "Eo4BCosBAWkUfRNNOogNH9dkZ+fIO0fj0YTEMMZUQAi+SBQK5n5T9ZhHWWCv3E3H/PfZF1Jga0w5fuRsJtKNkFnJMXqcsrLbFX38ZLvcpX1bVQfBWm9p6DpxpInOShFWsu5zoTPkE2XWA6CBTeI/r6mZxkJ3u/dpr6os6DGDMyGqSKp2SJ8jDspAczBraEkrcA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 221,
+      "totalTokenCount": 287,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2EIDa_aMK6iL694Px_2NCA"
+  },
+  "latency_ms": 6722,
+  "cost_usd": 0.0002
+}

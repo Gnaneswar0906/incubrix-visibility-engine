@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'opus clip vs nexus clip' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 497
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'opus clip vs nexus clip' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 431
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_opus_clip_vs_nexus_clip_a4297e_d2_US.json"
+}

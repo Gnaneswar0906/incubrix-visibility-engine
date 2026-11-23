@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=automatic+silence+remover+from+video",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "automatic silence remover from video",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:56:40.233053Z",
+  "extracted_count": 5,
+  "suggestions": [
+    "automatically remove silence from video free",
+    "automatically remove silence from video capcut",
+    "automatically remove silence from video free online",
+    "automatically remove silence from video",
+    "remove silence from audio"
+  ],
+  "raw_response": "[\"automatic silence remover from video\",[\"automatically remove silence from video free\",\"automatically remove silence from video capcut\",\"automatically remove silence from video free online\",\"automatically remove silence from video\",\"remove silence from audio\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[512,650,390]]}]"
+}

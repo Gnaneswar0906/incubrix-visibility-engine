@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to a content creator in GB (UK). They ask: \"podcast to short video ai free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, maybe include free options, steps to convert podcast audio to short video clips using AI for transcription, video generation, subtitles, etc. Also mention UK-specific considerations? Provide workflow: audio extraction, transcription, highlight detection, clip generation, add visuals, export to platforms like TikTok, Instagram Reels, YouTube Shorts.\n\nCite sources: maybe from official sites, blogs, TechRadar, The Verge",
+  "raw_payload": {
+    "id": "chatcmpl-6135fef7-e856-4964-95e5-ef23e067a001",
+    "object": "chat.completion",
+    "created": 1795377239,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to a content creator in GB (UK). They ask: \"podcast to short video ai free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, maybe include free options, steps to convert podcast audio to short video clips using AI for transcription, video generation, subtitles, etc. Also mention UK-specific considerations? Provide workflow: audio extraction, transcription, highlight detection, clip generation, add visuals, export to platforms like TikTok, Instagram Reels, YouTube Shorts.\n\nCite sources: maybe from official sites, blogs, TechRadar, The Verge"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.164458319,
+      "prompt_tokens": 135,
+      "prompt_time": 0.0053533,
+      "completion_tokens": 150,
+      "completion_time": 0.310285242,
+      "total_tokens": 285,
+      "total_time": 0.315638542,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82d54gjerqbvxy9pfes0fc0",
+      "seed": 81112970
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3433,
+  "cost_usd": 0.0002
+}

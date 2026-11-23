@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions free online",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Generate Captions\u202f\u2014\u202fFree Online Tools & Workflow for a UK Content Creator**  \n\nBelow is a concise guide that covers:\n\n1. **",
+  "raw_payload": {
+    "id": "chatcmpl-a1fffe1b-fffc-4a67-a2bd-598a35f842f7",
+    "object": "chat.completion",
+    "created": 1795375620,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Generate Captions\u202f\u2014\u202fFree Online Tools & Workflow for a UK Content Creator**  \n\nBelow is a concise guide that covers:\n\n1. **",
+          "reasoning": "The user wants recommendation of best software tools for auto generate captions free online, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is content creator located in GB (UK). Should consider UK specifics like GDPR, maybe mention free tools with UK servers or compliance. Provide recommendations, workflow steps, pros/cons, pricing, and links. Cite sources with references. Must be safe, no disallowed content. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.314397371,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005652508,
+      "completion_tokens": 150,
+      "completion_time": 0.310754818,
+      "total_tokens": 284,
+      "total_time": 0.316407326,
+      "completion_tokens_details": {
+        "reasoning_tokens": 110
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82bkr1secyr025vv62g6ber",
+      "seed": 2044365791
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4079,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video file",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Editing a video file involves a structured workflow\u2014from ingesting raw footage to exporting the final cut\u2014and relies on software tailored to your specific goals, whether that\u2019s traditional storytelling, quick social media clips, or AI-powered repurposing. \n\nHere is a comprehensive guide to editing a",
+      "cost_usd": 0.0002,
+      "latency_ms": 7266,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_a_video_file_0e0c85_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Editing a video file involves a structured workflow, from organizing raw footage to exporting the final cut for your audience. As a content creator in the US, your choice of software and workflow will depend heavily on your platform (YouTube, TikTok, Instagram Reels) and your comfort level with tech",
+      "cost_usd": 0.0002,
+      "latency_ms": 4241,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_a_video_file_0e0c85_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_a_video_file_0e0c85_d1_US.json"
+}

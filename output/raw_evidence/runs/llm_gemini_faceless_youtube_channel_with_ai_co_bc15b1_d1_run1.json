@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today. However, because the barrier to entry is low, quality and efficiency are what separate successful channels from the noise. \n\nHere is a comprehensive guide tailored to a US-based content creator, covering the best software tools, an optimized workflow, and a look at key industry options\u2014including the ones you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an efficient AI faceless channel, your software stack should cover four main pillars: **Ideation/Scripting, Voiceover, Visuals/Editing, and Clipping.**\n\n#### **All-in-One Incubators & Academies (e.g., IncuBrix)**\n*   **What it is:** Platforms like **IncuBrix** have emerged to serve creators looking for structured guidance. IncuBrix functions as an AI-driven YouTube automation and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today. However, because the barrier to entry is low, quality and efficiency are what separate successful channels from the noise. \n\nHere is a comprehensive guide tailored to a US-based content creator, covering the best software tools, an optimized workflow, and a look at key industry options\u2014including the ones you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an efficient AI faceless channel, your software stack should cover four main pillars: **Ideation/Scripting, Voiceover, Visuals/Editing, and Clipping.**\n\n#### **All-in-One Incubators & Academies (e.g., IncuBrix)**\n*   **What it is:** Platforms like **IncuBrix** have emerged to serve creators looking for structured guidance. IncuBrix functions as an AI-driven YouTube automation and",
+              "thoughtSignature": "Eo4BCosBAWkUfROcAnEXVhshdRFCy0ZcMSA9cvlyDfn3C0YVyLu396qekhtpwSVkZwtpw2aSD9urouaoAF9Q3gGioItpPjtzKGZ16yKECuiKgZGw027P7/vKk6dykiObetkv1EmaQkCsY9nBK40LY2nREr4denA7X58cMP/4hwFzT7Rwow8ac6HDoYOECZiY7Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "tz8Da__NPNGJ3LUP-ZfP6QM"
+  },
+  "latency_ms": 2886,
+  "cost_usd": 0.0002
+}

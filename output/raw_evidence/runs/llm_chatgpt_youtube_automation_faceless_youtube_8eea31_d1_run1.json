@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They want citations of authoritative web sources if available. Also note they are a content creator located in GB. Must comply with policy. It's a request for tool recommendations, not disallowed. Provide info. Should include free AI tools for faceless YouTube automation. Provide workflow steps, mention free options, mention paid options. Provide citations with URLs. Must be safe. Provide disclaimer about copyright. Provide suggestions for script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf AI), video creation (Pictory, Opus Clip, CapCut),",
+  "raw_payload": {
+    "id": "chatcmpl-bdde759a-da09-4167-babb-cd7ec474d173",
+    "object": "chat.completion",
+    "created": 1795375808,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They want citations of authoritative web sources if available. Also note they are a content creator located in GB. Must comply with policy. It's a request for tool recommendations, not disallowed. Provide info. Should include free AI tools for faceless YouTube automation. Provide workflow steps, mention free options, mention paid options. Provide citations with URLs. Must be safe. Provide disclaimer about copyright. Provide suggestions for script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf AI), video creation (Pictory, Opus Clip, CapCut),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.378120785,
+      "prompt_tokens": 139,
+      "prompt_time": 0.041879453,
+      "completion_tokens": 150,
+      "completion_time": 0.31310258,
+      "total_tokens": 289,
+      "total_time": 0.354982033,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bsfdeek0abs4ps5ds59xr",
+      "seed": 1493928595
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4870,
+  "cost_usd": 0.0002
+}

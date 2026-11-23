@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=multi+platform+video+distribution+tool",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "multi platform video distribution tool",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:51:13.977464Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Read timed out. (read timeout=8)\"}"
+}

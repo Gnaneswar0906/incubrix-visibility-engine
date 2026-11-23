@@ -1,0 +1,34 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast to shorts converter' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 431
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast to shorts converter' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 323
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_to_shorts_converter_6a52df_d2_US.json"
+}

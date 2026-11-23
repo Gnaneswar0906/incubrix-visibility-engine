@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube channel using AI on a zero-to-low budget is entirely possible thanks to a booming ecosystem of free and freemium tools. As a US-based content creator, leveraging these tools effectively can help you automate scriptwriting, voiceovers, video editing, and clip repurposing.\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 2263,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_free_4325b4_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'faceless youtube channel ai free' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 328
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_free_4325b4_d2_US.json"
+}

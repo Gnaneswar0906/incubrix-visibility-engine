@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a monetizable ai faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Building a **Monetizable, AI\u2011Powered Faceless YouTube Channel**  \n*(Tailored for a",
+  "raw_payload": {
+    "id": "chatcmpl-5000f2be-cf3a-4fd0-9fc3-f38b4a90795a",
+    "object": "chat.completion",
+    "created": 1795375857,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Building a **Monetizable, AI\u2011Powered Faceless YouTube Channel**  \n*(Tailored for a",
+          "reasoning": "We need to answer the query: create a monetizable AI faceless YouTube channel. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be suitable for a content creator in GB (UK). Provide steps, tools, workflow, monetization tips, legal considerations, etc. Must include citations with links.\n\nWe must follow policy: no disallowed content. This is fine. Provide citations. Use markdown. Provide a structured guide.\n\nLet's produce answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.397665842,
+      "prompt_tokens": 138,
+      "prompt_time": 0.040926887,
+      "completion_tokens": 150,
+      "completion_time": 0.311798146,
+      "total_tokens": 288,
+      "total_time": 0.352725033,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82btz91eher2ctbyj15n0rf",
+      "seed": 1966901325
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3009,
+  "cost_usd": 0.0002
+}

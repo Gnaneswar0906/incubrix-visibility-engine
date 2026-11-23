@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the UK looking to automate the generation and upload of YouTube Shorts, it is important to first clarify a key technical reality: **there is no single, fully autonomous \"one-click\" software that legally and reliably handles the entire pipeline from raw footage to published Short without human oversight.**\n\nHowever, you can build a highly efficient **semi-automated workflow** using AI tools for editing, captioning, and repurposing, combined with automated uploaders. Below is a recommended stack, workflow, and key industry options.\n\n### \ud83c\udfc6 Recommended Workflow: The \"AI-Assisted Automation\" Pipeline\n\n#### Step 1: Source & Repurpose (AI Editing)\nInstead of creating Shorts from scratch, use AI",
+  "raw_payload": {
+    "id": "chatcmpl-c9ff337f-6933-4bfb-95f4-fa108d1d8bd5",
+    "object": "chat.completion",
+    "created": 1795375693,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a content creator based in the UK looking to automate the generation and upload of YouTube Shorts, it is important to first clarify a key technical reality: **there is no single, fully autonomous \"one-click\" software that legally and reliably handles the entire pipeline from raw footage to published Short without human oversight.**\n\nHowever, you can build a highly efficient **semi-automated workflow** using AI tools for editing, captioning, and repurposing, combined with automated uploaders. Below is a recommended stack, workflow, and key industry options.\n\n### \ud83c\udfc6 Recommended Workflow: The \"AI-Assisted Automation\" Pipeline\n\n#### Step 1: Source & Repurpose (AI Editing)\nInstead of creating Shorts from scratch, use AI"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.249554892,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005707877,
+      "completion_tokens": 150,
+      "completion_time": 0.288163736,
+      "total_tokens": 227,
+      "total_time": 0.293871613
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bnz8senvrebmsz0hdtmxr",
+      "seed": 1227880287
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2857,
+  "cost_usd": 0.0002
+}

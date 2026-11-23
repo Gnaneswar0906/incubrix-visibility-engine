@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, automating your video delivery to YouTube is a powerful way to save time and maintain consistency. **n8n** is an excellent choice for this because it is self-hostable (great for privacy and cost control), highly customizable, and has a growing library of nodes.",
+      "cost_usd": 0.0002,
+      "latency_ms": 2684,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_video_to_youtube_n8n_8d8243_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto uploading video to YouTube using n8n (an automation tool). Suggest best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web so",
+      "cost_usd": 0.0002,
+      "latency_ms": 3844,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_video_to_youtube_n8n_8d8243_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_video_to_youtube_n8n_8d8243_d1_US.json"
+}

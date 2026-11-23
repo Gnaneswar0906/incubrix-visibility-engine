@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are in a prime position to leverage the latest advancements in AI-driven video editing. Auto-generated subtitles are no longer just a \"nice-to-have\" for accessibility; they are essential for engagement, as the vast majority of viewers watch videos with the sound off on social platforms.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options for auto-generating subtitles, tailored to a professional creator\u2019s needs.\n\n### 1. Top Software Tools for Auto-Subtitles\n\n#### **CapCut (Desktop & Mobile)**\n*   **Best For:** TikTok, Instagram Reels, YouTube Shorts, and fast-paced social content.\n*   **Why It",
+  "raw_payload": {
+    "id": "chatcmpl-09d0fef1-abef-4367-a101-d047cb601a75",
+    "object": "chat.completion",
+    "created": 1795377375,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are in a prime position to leverage the latest advancements in AI-driven video editing. Auto-generated subtitles are no longer just a \"nice-to-have\" for accessibility; they are essential for engagement, as the vast majority of viewers watch videos with the sound off on social platforms.\n\nHere is a curated guide to the best software tools, workflow methods, and key industry options for auto-generating subtitles, tailored to a professional creator\u2019s needs.\n\n### 1. Top Software Tools for Auto-Subtitles\n\n#### **CapCut (Desktop & Mobile)**\n*   **Best For:** TikTok, Instagram Reels, YouTube Shorts, and fast-paced social content.\n*   **Why It"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051739735,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005464905,
+      "completion_tokens": 150,
+      "completion_time": 0.28592629,
+      "total_tokens": 230,
+      "total_time": 0.291391195
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d9a2texzaz0ddjbp6m2ej",
+      "seed": 2114212773
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1675,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Removing Filler Words from Video \u2013 Free\u2011Tool Guide (UK\u2011focused)**  \n\nBelow is a practical \u201ctool\u2011and\u2011workflow\u201d cheat\u2011sheet for content creators in Great Britain who want to strip out \u201cuh\u201d, \u201cum\u201d, \u201clike",
+  "raw_payload": {
+    "id": "chatcmpl-c0e52382-15d7-42b3-ae0e-5363122a282d",
+    "object": "chat.completion",
+    "created": 1795375541,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Removing Filler Words from Video \u2013 Free\u2011Tool Guide (UK\u2011focused)**  \n\nBelow is a practical \u201ctool\u2011and\u2011workflow\u201d cheat\u2011sheet for content creators in Great Britain who want to strip out \u201cuh\u201d, \u201cum\u201d, \u201clike",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, for removing filler words from video for free. Provide authoritative web sources if possible. Must comply with policy: no disallowed content. It's fine. Provide list, pros/cons, workflow steps, mention free tiers. Cite sources. Should be UK context. Provide links. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368204408,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005333719,
+      "completion_tokens": 150,
+      "completion_time": 0.310574247,
+      "total_tokens": 285,
+      "total_time": 0.315907966,
+      "completion_tokens_details": {
+        "reasoning_tokens": 91
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bhahzet1ts1h8w0wwm26g",
+      "seed": 898392942
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3075,
+  "cost_usd": 0.0002
+}

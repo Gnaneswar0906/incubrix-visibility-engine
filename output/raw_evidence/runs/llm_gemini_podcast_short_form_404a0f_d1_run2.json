@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast short form",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to break into or scale up your short-form podcast content (Reels, TikTok, Shorts), you have access to some of the most advanced AI-driven tools and streamlined editing workflows on the market. \n\nTo help you build a robust system, here is a breakdown of the best software tools, industry-standard workflow methods, and an analysis of the key platforms you mentioned, tailored for the UK creator landscape.\n\n---\n\n### 1. Key Industry Software Options\n\nThe short-form podcast market is dominated by AI repurposing tools and precision editors. Here is how the platforms you mentioned stack up:\n\n*   **Opus Clip:** Widely considered the gold standard for automated long-to-short clipping. It uses AI to analyse your podcast video, score the clips based on \"viral potential,\" generate captions, and reframe the video to 9:16 automatically. It\u2019s ideal if",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to break into or scale up your short-form podcast content (Reels, TikTok, Shorts), you have access to some of the most advanced AI-driven tools and streamlined editing workflows on the market. \n\nTo help you build a robust system, here is a breakdown of the best software tools, industry-standard workflow methods, and an analysis of the key platforms you mentioned, tailored for the UK creator landscape.\n\n---\n\n### 1. Key Industry Software Options\n\nThe short-form podcast market is dominated by AI repurposing tools and precision editors. Here is how the platforms you mentioned stack up:\n\n*   **Opus Clip:** Widely considered the gold standard for automated long-to-short clipping. It uses AI to analyse your podcast video, score the clips based on \"viral potential,\" generate captions, and reframe the video to 9:16 automatically. It\u2019s ideal if",
+              "thoughtSignature": "Eo4BCosBAWkUfROrQddtJo17yc6lph9wYC8azFSuE1tGnLD7n2B8VLYLkV/zGj14Ui+DVnKc+bK9ica9S+D4kAc1mVrtbCZSLjMtnY+CMkYe+5pLc2CB8OIT1VA30sR17mmtrdfSPrawhkoQ6eWkmZiqB1cg1JPh32XYldWr5i8yyE+Lu4dBREsSnacI4sSHmQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bUEDa9z1JLmx0r4PrfLz4Qs"
+  },
+  "latency_ms": 2420,
+  "cost_usd": 0.0002
+}

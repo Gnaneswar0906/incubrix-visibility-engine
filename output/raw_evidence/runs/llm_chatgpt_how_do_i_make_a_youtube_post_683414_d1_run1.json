@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants an answer: how to make a YouTube post (presumably a video post). They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in GB (UK). So possibly mention UK-specific considerations like copyright, platform guidelines, etc.\n\nWe need to give a thorough guide: planning, scripting, filming, editing, thumbnail creation, SEO, upload settings, scheduling, promotion. Include software: video editing (CapCut, DaVinci Resolve, Adobe Premiere Pro, Final Cut Pro, IncuBrix maybe for AI video creation), audio editing",
+  "raw_payload": {
+    "id": "chatcmpl-b5a571ae-b2b8-4b43-abfa-7cca7becc5c3",
+    "object": "chat.completion",
+    "created": 1795375644,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants an answer: how to make a YouTube post (presumably a video post). They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in GB (UK). So possibly mention UK-specific considerations like copyright, platform guidelines, etc.\n\nWe need to give a thorough guide: planning, scripting, filming, editing, thumbnail creation, SEO, upload settings, scheduling, promotion. Include software: video editing (CapCut, DaVinci Resolve, Adobe Premiere Pro, Final Cut Pro, IncuBrix maybe for AI video creation), audio editing"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317601954,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005763096,
+      "completion_tokens": 150,
+      "completion_time": 0.311766453,
+      "total_tokens": 286,
+      "total_time": 0.317529549,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82bmevtepdv1psqwe6ekapm",
+      "seed": 2091099080
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4123,
+  "cost_usd": 0.0002
+}

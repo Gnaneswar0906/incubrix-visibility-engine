@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically upload twitch vods to youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Repurpose.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Repurpose.io"
+      ],
+      "snippet": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide steps for automatically uploading Twitch VODs to YouTube. Must be mindful of location: Ind",
+      "cost_usd": 0.0002,
+      "latency_ms": 2370,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_automatically_upload_twitch__451520_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | What It Does | How",
+      "cost_usd": 0.0002,
+      "latency_ms": 2994,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_automatically_upload_twitch__451520_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_automatically_upload_twitch__451520_d1_IN.json"
+}

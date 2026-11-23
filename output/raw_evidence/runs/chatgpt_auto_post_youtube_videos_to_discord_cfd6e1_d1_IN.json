@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to discord",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is from India, wants to auto post YouTube videos to Discord. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fi",
+      "cost_usd": 0.0002,
+      "latency_ms": 2727,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, automating the distribution of your YouTube content to Discord is a powerful way to maintain community engagement without the manual effort of cross-posting. Since Discord does not have a native \"auto-post\" button for YouTube links, you will need to bridge the g",
+      "cost_usd": 0.0002,
+      "latency_ms": 1498,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_videos_to_discord_cfd6e1_d1_IN.json"
+}

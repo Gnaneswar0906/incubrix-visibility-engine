@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Podcast\u2011to\u2011Short\u2011Video Workflow for a UK Creator**  \n*(Designed for a creator based in Great Britain, but the tools work globally.)*\n\n---\n\n## 1. Overview of the End\u2011to\u2011End Process  \n\n| Stage | Goal |",
+  "raw_payload": {
+    "id": "chatcmpl-38839efb-be4f-480f-8ac6-c4028e6ba8cc",
+    "object": "chat.completion",
+    "created": 1795377227,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Podcast\u2011to\u2011Short\u2011Video Workflow for a UK Creator**  \n*(Designed for a creator based in Great Britain, but the tools work globally.)*\n\n---\n\n## 1. Overview of the End\u2011to\u2011End Process  \n\n| Stage | Goal |",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide recommendations, workflow steps, maybe hardware suggestions, distribution tips. Use UK context. Provide citations with links. Ensure not to violate policy. Provide citations in a format. Should be helpful."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318558765,
+      "prompt_tokens": 132,
+      "prompt_time": 0.006944244,
+      "completion_tokens": 150,
+      "completion_time": 0.3094878,
+      "total_tokens": 282,
+      "total_time": 0.316432044,
+      "completion_tokens_details": {
+        "reasoning_tokens": 90
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82d4rmde608e78pew5snnc2",
+      "seed": 311938004
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2700,
+  "cost_usd": 0.0002
+}

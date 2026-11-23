@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayon",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator located in India (IN). They ask: \"opus clip vs crayon\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to compare Opus Clip vs Crayon (maybe Crayon is a tool for video editing? Actually Crayon could be a AI video generation tool? There's \"Crayon\" by \"Crayon AI\" for video generation? Might be \"Crayon\" a competitor to Opus Clip for AI video summarization. Need to research typical info. Provide comparison, pros/cons, use cases, pricing, features",
+  "raw_payload": {
+    "id": "chatcmpl-0efd6871-7194-48c3-a89b-98452ebffa6c",
+    "object": "chat.completion",
+    "created": 1795375318,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator located in India (IN). They ask: \"opus clip vs crayon\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to compare Opus Clip vs Crayon (maybe Crayon is a tool for video editing? Actually Crayon could be a AI video generation tool? There's \"Crayon\" by \"Crayon AI\" for video generation? Might be \"Crayon\" a competitor to Opus Clip for AI video summarization. Need to research typical info. Provide comparison, pros/cons, use cases, pricing, features"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048812544,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005688656,
+      "completion_tokens": 150,
+      "completion_time": 0.316262801,
+      "total_tokens": 284,
+      "total_time": 0.321951457,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82bahdpe51rxfjmbevtkzk9",
+      "seed": 1388589658
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2275,
+  "cost_usd": 0.0002
+}

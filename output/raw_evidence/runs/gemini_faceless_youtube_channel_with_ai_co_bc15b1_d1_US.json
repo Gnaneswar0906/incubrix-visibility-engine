@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today. However, because the barrier to entry is low, quality and efficiency are what separate successful channels from the noise. \n\nHere is a comprehensive guide tailored to a US-based c",
+      "cost_usd": 0.0002,
+      "latency_ms": 2886,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_with_ai_co_bc15b1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today, but success relies on a streamlined workflow. By leveraging AI for scripting, voice generation, editing, and repurposing, creators can drastically reduce production time. \n\nHere i",
+      "cost_usd": 0.0002,
+      "latency_ms": 2001,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_with_ai_co_bc15b1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_with_ai_co_bc15b1_d1_US.json"
+}

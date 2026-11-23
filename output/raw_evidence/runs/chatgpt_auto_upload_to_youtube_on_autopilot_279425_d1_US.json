@@ -1,0 +1,41 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'auto upload to youtube on autopilot' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 393
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: recommend best software tools, workflow methods for auto uploading to YouTube on autopilot. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies: providing info about software, no disallo",
+      "cost_usd": 0.0002,
+      "latency_ms": 14919,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_upload_to_youtube_on_autopilot_279425_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_upload_to_youtube_on_autopilot_279425_d1_US.json"
+}

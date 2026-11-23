@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "does youtube automatically add ads",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: does youtube automatically add ads Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer: does YouTube automatically add ads? Provide explanation about monetization, ad eligibility, automatic ads vs manual. Also recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe must comply with policy. It's about providing info, no disallowed content. Provide citations (maybe using",
+  "raw_payload": {
+    "id": "chatcmpl-3d24cc4d-e341-4e4d-87ea-22c812f8cba4",
+    "object": "chat.completion",
+    "created": 1795377086,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: does youtube automatically add ads Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer: does YouTube automatically add ads? Provide explanation about monetization, ad eligibility, automatic ads vs manual. Also recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe must comply with policy. It's about providing info, no disallowed content. Provide citations (maybe using"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317697407,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006097412,
+      "completion_tokens": 150,
+      "completion_time": 0.315449962,
+      "total_tokens": 284,
+      "total_time": 0.321547374,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82d0f54ez4swyh9vmz040ar",
+      "seed": 1188914884
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3100,
+  "cost_usd": 0.0002
+}

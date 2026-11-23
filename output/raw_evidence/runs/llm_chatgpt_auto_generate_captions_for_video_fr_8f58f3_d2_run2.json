@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary\n| Tool (Free tier)",
+  "raw_payload": {
+    "id": "chatcmpl-060659aa-7514-403f-bc40-31d3209a1b46",
+    "object": "chat.completion",
+    "created": 1795376593,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary\n| Tool (Free tier)",
+          "reasoning": "The user wants recommendations for auto generating captions for video free, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, US content creator. Provide list of free tools, maybe freemium, workflow steps, pros/cons, integration tips, mention open-source options like YouTube auto captions, Aegisub, Amara, etc. Cite sources: maybe from websites like TechRadar, PCMag, Capterra, etc. Provide links. Ensure no disallowed content. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318811803,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005651966,
+      "completion_tokens": 150,
+      "completion_time": 0.317910204,
+      "total_tokens": 285,
+      "total_time": 0.32356217,
+      "completion_tokens_details": {
+        "reasoning_tokens": 130
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82che2qe47vbw4f2nvf4wqp",
+      "seed": 61831555
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2624,
+  "cost_usd": 0.0002
+}

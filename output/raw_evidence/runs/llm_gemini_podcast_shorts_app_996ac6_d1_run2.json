@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to break into or scale up with podcast shorts (vertical video clips optimized for TikTok, Instagram Reels, and YouTube Shorts), choosing the right toolkit and workflow is essential for maximizing growth and saving time. \n\nHere is a comprehensive guide to the best software tools, key industry options\u2014including the ones you mentioned\u2014and a streamlined workflow tailored for creators.\n\n---\n\n### Key Industry Options for Podcast Shorts\n\nThe market for AI-driven clipping and editing tools has exploded. Here is how the top options stack up, including your specified tools:\n\n#### 1. Opus Clip (The AI Repurposing Standard)\n*   **Best for:** Automated, long-form to short-form conversion.\n*   **How it works:** You drop in a YouTube link or upload an MP4/audio file. Opus\u2019s AI analyzes the transcript, identifies \"hooks\" and viral moments, and cuts them into ready-to-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to break into or scale up with podcast shorts (vertical video clips optimized for TikTok, Instagram Reels, and YouTube Shorts), choosing the right toolkit and workflow is essential for maximizing growth and saving time. \n\nHere is a comprehensive guide to the best software tools, key industry options\u2014including the ones you mentioned\u2014and a streamlined workflow tailored for creators.\n\n---\n\n### Key Industry Options for Podcast Shorts\n\nThe market for AI-driven clipping and editing tools has exploded. Here is how the top options stack up, including your specified tools:\n\n#### 1. Opus Clip (The AI Repurposing Standard)\n*   **Best for:** Automated, long-form to short-form conversion.\n*   **How it works:** You drop in a YouTube link or upload an MP4/audio file. Opus\u2019s AI analyzes the transcript, identifies \"hooks\" and viral moments, and cuts them into ready-to-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMWy4azwXgQcGIycWJ0kN/Qc+i7PPcsVp943vmCkSi95EXQvB/7gT6rS/HlzIoy0lEbS+oQUnFPdUcq6EgWxsrW/l3HzhYWRJLh5n6HDCFdZIUiEXg66rfePkIvTbsJfIzyqCa+z2t35SuAtiMjEKQ/luLAmR9tU4o6EVH+HA83BwXrUYs0+Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XUEDa8PgM9ijmNMPjKHrwAM"
+  },
+  "latency_ms": 7034,
+  "cost_usd": 0.0002
+}

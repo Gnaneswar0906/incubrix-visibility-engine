@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary (for a GB\u2011based creator",
+  "raw_payload": {
+    "id": "chatcmpl-c5b85eb2-391a-431e-a083-0f44e52644de",
+    "object": "chat.completion",
+    "created": 1795375750,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary (for a GB\u2011based creator",
+          "reasoning": "The user wants a recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They are a content creator located in GB (Great Britain). Need to recommend best software tools, workflow methods, and mention key industry options. Cite authoritative web sources if available. Must comply with policy. Provide citations with links. Should be a thorough answer. Should not include disallowed content. Provide comparison, pros/cons, workflow suggestions, maybe pricing, features. Also mention IncuBrix (maybe not widely known; need to check). Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158512263,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005386726,
+      "completion_tokens": 150,
+      "completion_time": 0.310783469,
+      "total_tokens": 286,
+      "total_time": 0.316170195,
+      "completion_tokens_details": {
+        "reasoning_tokens": 130
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82bqq5xep9smrykzjy3petf",
+      "seed": 1974335662
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2494,
+  "cost_usd": 0.0002
+}

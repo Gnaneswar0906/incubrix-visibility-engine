@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "opus op lite review",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve broken down your query regarding **\"Opus Clip",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve broken down your query regarding **\"Opus Clip"
+            },
+            {
+              "text": "\"** and its lightweight alternatives, alongside the best software tools and workflow methods currently trending in the UK creator economy. \n\n*(Note: \"Opus Op Lite\" likely refers to **Opus Clip** and its tier options, or a mix-up with \"Opus Clip Lite\" workflows for turning long-form video into viral shorts).*\n\n---\n\n### 1. Understanding the Tool: Opus Clip & Alternatives\n**Opus Clip** is an AI-powered generative video tool that repurposes long-form videos (like podcasts, tutorials, or Vlogs) into multiple high-retention short clips (Reels, TikToks, Shorts) in one click using AI curation.\n\n#### Key Industry Options to Consider:\n*   **Opus Clip:** Industry standard for AI clipping, scoring clips for \"viral potential,\" and auto-captions.\n*   **CapCut (Desktop/Mobile):** Hugely popular in the UK for manual and semi-automated editing",
+              "thoughtSignature": "Eo4BCosBAWkUfRPM+bmRkeYZMCdAwIuqwXEc1Z2a2IfEPhN3lKJuKNDuTNuPSocUJzWFGojHB1HiUGhocybEGHn/sUmYRgM/Q2dWt4IDki7Z+tLYLxRb2mcbeJdh3JnEorlKcL7wO5IF6EwhFJiaiBSV3IM1uZo/i8pVDH0jlHERe0LoXpWscnPb2WrQMqIIDA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 225,
+      "totalTokenCount": 287,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kkIDa-gYxafPuw_EucPQAg"
+  },
+  "latency_ms": 8134,
+  "cost_usd": 0.0002
+}

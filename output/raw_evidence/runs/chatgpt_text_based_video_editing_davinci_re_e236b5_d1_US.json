@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US, leveraging **text-based video editing** is one of the most efficient ways to streamline your post-production workflow. This method allows you to edit video by simply deleting or rearranging text in a transcript, rather than scrubbing through a timeline.\n\nWhile **DaVin",
+      "cost_usd": 0.0002,
+      "latency_ms": 2724,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_davinci_re_e236b5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for text based video editing with DaVinci Resolve. Also mention other tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods, key industry options. Cite authoritative web sources if availabl",
+      "cost_usd": 0.0002,
+      "latency_ms": 4982,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_davinci_re_e236b5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_davinci_re_e236b5_d1_US.json"
+}

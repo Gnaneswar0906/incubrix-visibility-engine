@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs ssemble",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Given your location in the UK (GB) and your focus on content creation, the choice between **Opus Clip** and **Ssemble** (often referred to in this context as part of the broader AI clipping ecosystem, though Ssemble is less of a direct mainstream competitor than tools like Vizard or Veed) comes down to your specific workflow: **automated scaling** vs. **multi-source aggregation**.\n\nHere\u2019s a detailed comparison, workflow recommendations, and broader industry context to help you decide.\n\n### 1. Opus Clip vs. Ssemble: Key Differences\n\n#### **Opus Clip**\n*   **Best For:** Turning long-form video (podcasts, interviews, streams) into **viral short-form clips",
+  "raw_payload": {
+    "id": "chatcmpl-618c3b39-d055-49b3-aff1-efca6fc8a916",
+    "object": "chat.completion",
+    "created": 1795377597,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Given your location in the UK (GB) and your focus on content creation, the choice between **Opus Clip** and **Ssemble** (often referred to in this context as part of the broader AI clipping ecosystem, though Ssemble is less of a direct mainstream competitor than tools like Vizard or Veed) comes down to your specific workflow: **automated scaling** vs. **multi-source aggregation**.\n\nHere\u2019s a detailed comparison, workflow recommendations, and broader industry context to help you decide.\n\n### 1. Opus Clip vs. Ssemble: Key Differences\n\n#### **Opus Clip**\n*   **Best For:** Turning long-form video (podcasts, interviews, streams) into **viral short-form clips"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054530781,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005421608,
+      "completion_tokens": 150,
+      "completion_time": 0.289188512,
+      "total_tokens": 228,
+      "total_time": 0.29461012
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dg2m7eprvxjafrdg24shs",
+      "seed": 301218148
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1249,
+  "cost_usd": 0.0002
+}

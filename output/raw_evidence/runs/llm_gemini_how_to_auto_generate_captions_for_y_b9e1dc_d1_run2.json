@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB), auto-generating captions for your YouTube videos is one of the best ways to boost accessibility, watch time, and algorithmic reach\u2014especially since a large percentage of viewers watch social and long-form video on mute. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### 1. Key Industry Software Tools & Options\n\nDepending on whether you want a quick mobile edit, AI-powered re-framing, or deep text-based editing, here are the leading options on the market:\n\n*   **Descript (Best for Precision & Long-Form Editing):** Descript is an industry standard for creators who want to edit video *by editing text*. It features ultra-accurate, AI-powered transcription. If you delete a word in the transcript, it deletes it from the video. It also offers trendy, highly customizable \"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB), auto-generating captions for your YouTube videos is one of the best ways to boost accessibility, watch time, and algorithmic reach\u2014especially since a large percentage of viewers watch social and long-form video on mute. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### 1. Key Industry Software Tools & Options\n\nDepending on whether you want a quick mobile edit, AI-powered re-framing, or deep text-based editing, here are the leading options on the market:\n\n*   **Descript (Best for Precision & Long-Form Editing):** Descript is an industry standard for creators who want to edit video *by editing text*. It features ultra-accurate, AI-powered transcription. If you delete a word in the transcript, it deletes it from the video. It also offers trendy, highly customizable \"",
+              "thoughtSignature": "Eo4BCosBAWkUfRMweQRxlrVBBLXmgNhttlWuOBsj6UPn+CsSiME7XRSwW41KHORtXal5XJTHEjEivuxFiaV+ewPx4mJy+XMZv5U+lBRJFtFC/TIeIIZfdTpWudI9gJEAs0HktmdzqxXviWwrw6bhbzXjauWKkH6P9NWvdk86SV3OreAXg0BAdZpFeWxnyUvySg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4EEDa-VJ0tnX-g-osMbhDw"
+  },
+  "latency_ms": 2208,
+  "cost_usd": 0.0002
+}

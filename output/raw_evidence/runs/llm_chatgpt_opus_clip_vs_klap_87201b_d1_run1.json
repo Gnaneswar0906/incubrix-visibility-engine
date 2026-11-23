@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Klap"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: compare Opus Clip vs Klap (maybe Klap is a tool? There's a video editing AI tool called Klap?). Provide recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with URLs. Use markdown. Provide overview of each tool, pros/cons, use cases, workflow suggestions. Provide recommendation which is better for content creator in US. Also mention pricing. Provide sources. Need to browse? I can recall some info: Opus Clip is AI video shortener that creates short clips from long form content",
+  "raw_payload": {
+    "id": "chatcmpl-2fcef955-2caa-4040-9d1f-d130d82b233d",
+    "object": "chat.completion",
+    "created": 1795374962,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: compare Opus Clip vs Klap (maybe Klap is a tool? There's a video editing AI tool called Klap?). Provide recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with URLs. Use markdown. Provide overview of each tool, pros/cons, use cases, workflow suggestions. Provide recommendation which is better for content creator in US. Also mention pricing. Provide sources. Need to browse? I can recall some info: Opus Clip is AI video shortener that creates short clips from long form content"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.322246427,
+      "prompt_tokens": 134,
+      "prompt_time": 0.025221092,
+      "completion_tokens": 150,
+      "completion_time": 0.312389874,
+      "total_tokens": 284,
+      "total_time": 0.337610966,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82azn4tes990wjnjgdata0h",
+      "seed": 1127998056
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2734,
+  "cost_usd": 0.0002
+}

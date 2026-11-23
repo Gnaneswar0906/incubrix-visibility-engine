@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ideas with ai free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel using free AI tools has never been more accessible. For a content creator in the UK (GB), leveraging the right stack of tools can automate everything from scriptwriting and voiceovers to video editing and clipping, all without showing your face or spending heavily on software.\n\nHere is a comprehensive guide to the best free software tools, industry benchmarks, and a streamlined workflow to get your faceless channel running.\n\n---\n\n### 1. Key Industry Options & Free Software Stack\n\nWhile there are many AI video generation suites on the market, successful creators usually combine specialized tools for each stage of production. \n\n*   **IncuBrix:** An emerging all-in-one AI platform frequently discussed in the automated content creation space. It assists with channel ideation, niche research, and content structuring. While premium tiers exist, exploring their ecosystem can help pinpoint profitable, low-competition niches for a UK audience.\n*   **CapCut (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel using free AI tools has never been more accessible. For a content creator in the UK (GB), leveraging the right stack of tools can automate everything from scriptwriting and voiceovers to video editing and clipping, all without showing your face or spending heavily on software.\n\nHere is a comprehensive guide to the best free software tools, industry benchmarks, and a streamlined workflow to get your faceless channel running.\n\n---\n\n### 1. Key Industry Options & Free Software Stack\n\nWhile there are many AI video generation suites on the market, successful creators usually combine specialized tools for each stage of production. \n\n*   **IncuBrix:** An emerging all-in-one AI platform frequently discussed in the automated content creation space. It assists with channel ideation, niche research, and content structuring. While premium tiers exist, exploring their ecosystem can help pinpoint profitable, low-competition niches for a UK audience.\n*   **CapCut (",
+              "thoughtSignature": "Eo4BCosBAWkUfROpfVb3HjqUt+BzcSMP/nWUyWmeAzrUstqkUi45dYX90hGuT8kJM45tfIDR4IO92uBwS+CHvIRAZJ0IqLLnNbTnV8yg7MowVWchra54J0uV82ARC49+nNbtH4vQ0mK6BpPLdRMDrItIgnqByRtB4f7ZjfZ2CeW5KHGiQW7GyD8KPeDEnnwA7g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xkIDa-y7J8vB694PpIOb2Q0"
+  },
+  "latency_ms": 2988,
+  "cost_usd": 0.0002
+}

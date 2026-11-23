@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'faceless youtube channel ai shorts' in US, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 433
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the U.S. targeting the lucrative YouTube Shorts market, leveraging AI for a faceless channel is the most efficient way to scale production without burning out. Faceless channels rely on high retention, fast-paced editing, compelling scripts, and eye-catching visuals (AI voice",
+      "cost_usd": 0.0002,
+      "latency_ms": 2109,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_shorts_28da69_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_shorts_28da69_d1_US.json"
+}

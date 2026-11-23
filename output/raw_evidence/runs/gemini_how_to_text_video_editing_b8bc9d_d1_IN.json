@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "how to text video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to text video editing' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 401
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in India (IN) looking to dive into text-based video editing\u2014a method where you edit a video by simply deleting, rearranging, or modifying a transcript\u2014you are in luck. This workflow has revolutionized content creation for YouTube, Instagram Reels, and podcasts by drastica",
+      "cost_usd": 0.0002,
+      "latency_ms": 2131,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_text_video_editing_b8bc9d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_text_video_editing_b8bc9d_d1_IN.json"
+}

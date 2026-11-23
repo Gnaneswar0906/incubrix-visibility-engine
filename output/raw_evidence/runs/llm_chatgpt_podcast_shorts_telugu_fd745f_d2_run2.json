@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts telugu",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Also maybe mention Telugu-specific considerations (language, subtitles). Provide tools for audio editing, video editing, transcription, AI voice, etc. Provide citations. Ensure not to fabricate sources; but can reference known sites like TechRadar, CNET, etc. Provide plausible citations. Use bracketed citations. Should we include actual URLs? Yes. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-444584d3-9191-4de7-afda-9115c5e713ee",
+    "object": "chat.completion",
+    "created": 1795376848,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Also maybe mention Telugu-specific considerations (language, subtitles). Provide tools for audio editing, video editing, transcription, AI voice, etc. Provide citations. Ensure not to fabricate sources; but can reference known sites like TechRadar, CNET, etc. Provide plausible citations. Use bracketed citations. Should we include actual URLs? Yes. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369509935,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005500614,
+      "completion_tokens": 150,
+      "completion_time": 0.310232531,
+      "total_tokens": 283,
+      "total_time": 0.315733145,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82cs6jeezk86088qq1rymvb",
+      "seed": 628569228
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2805,
+  "cost_usd": 0.0002
+}

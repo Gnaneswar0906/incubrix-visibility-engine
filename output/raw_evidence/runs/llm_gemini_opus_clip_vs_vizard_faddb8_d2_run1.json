@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vizard",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, here is a detailed, objective comparison between **Opus Clip** and **Vizard**, along with an overview of other industry-leading alternatives, recommended workflows, and authoritative context.\n\n---\n\n### **1. Opus Clip vs. Vizard: Head-to-Head Comparison**\n\nBoth **Opus Clip** and **Vizard.ai** are AI-powered video repurposing tools designed to take long-form content (like podcasts, webinars, or YouTube videos) and automatically slice them into viral short-form clips (Reels, TikToks, Shorts). However, they cater to slightly different user needs.\n\n#### **Opus Clip**\n*   **Core Strength:** Exceptional AI curation, speed, and virality scoring.\n*   **How it Works:** Powered by OpenAI, Opus Clip analyzes your long-form video, evaluates hooks, and uses a proprietary \"Virality Score\" (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, here is a detailed, objective comparison between **Opus Clip** and **Vizard**, along with an overview of other industry-leading alternatives, recommended workflows, and authoritative context.\n\n---\n\n### **1. Opus Clip vs. Vizard: Head-to-Head Comparison**\n\nBoth **Opus Clip** and **Vizard.ai** are AI-powered video repurposing tools designed to take long-form content (like podcasts, webinars, or YouTube videos) and automatically slice them into viral short-form clips (Reels, TikToks, Shorts). However, they cater to slightly different user needs.\n\n#### **Opus Clip**\n*   **Core Strength:** Exceptional AI curation, speed, and virality scoring.\n*   **How it Works:** Powered by OpenAI, Opus Clip analyzes your long-form video, evaluates hooks, and uses a proprietary \"Virality Score\" (",
+              "thoughtSignature": "Eo4BCosBAWkUfROcll+J7YtMoZdZ+48u59VeIO4dqIIf/GLjFyOTQ6shJhtUHcyG5kDqQpU5mVCeV88FrIiGRbLf7AeXc+0r/RZOz4krgkdtJAsgkrccwrR2SXuSvDIiN3vHkC/Wq3FiFWgiTYIyOVHm/maiZX9g8mtXXOG+X3teB+v6NUY+MX/XqjgFv4Vm5Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "eEYDa_npOJ70694P6-zYwQo"
+  },
+  "latency_ms": 2106,
+  "cost_usd": 0.0002
+}

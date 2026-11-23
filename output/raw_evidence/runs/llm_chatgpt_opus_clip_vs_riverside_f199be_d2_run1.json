@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Riverside.fm** |\n|---------|---------------|------------------|\n| Primary purpose | AI\u2011driven short\u2011form video creation (auto\u2011highlight, captioning",
+  "raw_payload": {
+    "id": "chatcmpl-a8c54335-f8dd-461f-9275-a9207424212f",
+    "object": "chat.completion",
+    "created": 1795376733,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Riverside.fm** |\n|---------|---------------|------------------|\n| Primary purpose | AI\u2011driven short\u2011form video creation (auto\u2011highlight, captioning",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendation comparing Opus Clip vs Riverside, mention best software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow suggestions. Provide comparison table. Provide recommendation."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054426564,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005405396,
+      "completion_tokens": 150,
+      "completion_time": 0.313465659,
+      "total_tokens": 284,
+      "total_time": 0.318871055,
+      "completion_tokens_details": {
+        "reasoning_tokens": 91
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_05e76be18c",
+    "x_groq": {
+      "id": "req_01m82cnpm1etqv1npfj9m63xe5",
+      "seed": 405428961
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3818,
+  "cost_usd": 0.0002
+}

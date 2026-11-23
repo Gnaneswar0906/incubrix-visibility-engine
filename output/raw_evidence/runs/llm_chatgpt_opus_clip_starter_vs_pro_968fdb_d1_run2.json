@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendation comparing Opus Clip Starter vs Pro, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB (UK). Should be helpful, possibly include pricing, features, use cases, workflow suggestions. Must cite sources. Use markdown. Provide citations with footnotes. Need to browse? We can recall known info. Provide URLs. Ensure up-to-date as of 2026. Provide comparison table. Also mention alternatives. Provide workflow steps for short-form video creation. Provide tips for UK creators (e.g., copyright, GDPR",
+  "raw_payload": {
+    "id": "chatcmpl-d608a12f-70c9-4d02-84f6-db6812f96111",
+    "object": "chat.completion",
+    "created": 1795375783,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendation comparing Opus Clip Starter vs Pro, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB (UK). Should be helpful, possibly include pricing, features, use cases, workflow suggestions. Must cite sources. Use markdown. Provide citations with footnotes. Need to browse? We can recall known info. Provide URLs. Ensure up-to-date as of 2026. Provide comparison table. Also mention alternatives. Provide workflow steps for short-form video creation. Provide tips for UK creators (e.g., copyright, GDPR"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046832763,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005287466,
+      "completion_tokens": 150,
+      "completion_time": 0.317458688,
+      "total_tokens": 284,
+      "total_time": 0.322746154,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82brq3tee28k7613ey1ceb0",
+      "seed": 622762495
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2326,
+  "cost_usd": 0.0002
+}

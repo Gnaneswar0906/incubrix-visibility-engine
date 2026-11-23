@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a faceless YouTube channel in",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Starting a faceless YouTube channel in"
+            },
+            {
+              "text": " the UK using AI tools like ChatGPT and DeepSeek is one of the most efficient ways to build a digital media brand today. By leveraging Large Language Models (LLMs) for scripting and specialized AI tools for production, you can automate almost the entire workflow\u2014from ideation to publishing.\n\nHere is a comprehensive guide tailored for a UK-based content creator, covering the best software tools, a step-by-step workflow, and key industry options.\n\n---\n\n### 1. The Best Software Tools & Industry Options\n\nTo build a faceless channel efficiently, you need a stack divided by production stages:\n\n#### **Ideation & Scripting (AI LLMs)**\n*   **ChatGPT (OpenAI):** Excellent for broad brainstorming, SEO title generation, and structuring engaging video hooks.\n*   **DeepSeek:** A powerful, cost-effective alternative gaining massive traction for complex reasoning and generating nuanced, data-driven scripts. Many creators use DeepSeek for long-form research",
+              "thoughtSignature": "Eo4BCosBAWkUfRMnVM1d9CMgI9E5tyW5IoB4snpbYR9yE8AgcLhx7VQ+JZiKrwafK+5cIV8TLPGXmgKIBO2lz3U1DbTRz52luVIDrMBo0K/j3MuOSCemMkhxMV1Qy0QPVCE3qm4MN3xxXfRa1IvT8GIT3fncmEccPaqX06aC/oaPD7tBEKtPFPBoKhIPrqCr9Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 69,
+      "candidatesTokenCount": 207,
+      "totalTokenCount": 276,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 69
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "8UIDa7P2ArDi694PkL2g2AI"
+  },
+  "latency_ms": 2626,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text editor",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to a query from a content creator located in India (IN). The query: \"how to text editor\". Likely they want guidance on text editing for content creation? They also ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: provide safe, non-misleading info. Provide citations with URLs. Use markdown for citations. Provide suggestions for text editing (writing scripts, subtitles, etc.) Tools: Notion, Google Docs, Microsoft Word, Scrivener, Grammarly, Hemingway, etc. Also video editing tools like CapCut, Des",
+  "raw_payload": {
+    "id": "chatcmpl-5e2b5de3-7d6f-4716-9b22-2a1988e0601a",
+    "object": "chat.completion",
+    "created": 1795375144,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to a query from a content creator located in India (IN). The query: \"how to text editor\". Likely they want guidance on text editing for content creation? They also ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: provide safe, non-misleading info. Provide citations with URLs. Use markdown for citations. Provide suggestions for text editing (writing scripts, subtitles, etc.) Tools: Notion, Google Docs, Microsoft Word, Scrivener, Grammarly, Hemingway, etc. Also video editing tools like CapCut, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.257099105,
+      "prompt_tokens": 133,
+      "prompt_time": 0.007505392,
+      "completion_tokens": 150,
+      "completion_time": 0.313772352,
+      "total_tokens": 283,
+      "total_time": 0.321277744,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_0708ac49a5",
+    "x_groq": {
+      "id": "req_01m82b57dae25speanvqvqyeqv",
+      "seed": 93736410
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2580,
+  "cost_usd": 0.0002
+}

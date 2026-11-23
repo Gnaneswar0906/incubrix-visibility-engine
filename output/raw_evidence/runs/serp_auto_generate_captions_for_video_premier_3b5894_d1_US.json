@@ -1,0 +1,167 @@
+{
+  "query": "auto generate captions for video premiere pro",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=gXYRDO5_CSs",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto generate captions for video premiere pro",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How to Auto Generate Captions in Premiere Pro | Essential Workflows ...",
+        "link": "https://www.youtube.com/watch?v=gXYRDO5_CSs",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to generate captions in the latest version of #PremierePro from filmmaker Parker Walbeck. In this Essential Workflows tutorial,\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Premiere Pro : How to Add Automatic Subtitles",
+        "link": "https://www.youtube.com/watch?v=BRGXxDJk998",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "New Feature: Auto-Generate Captions in Premiere Pro! PiXimperfect \u00b7 516K views ; How to Create Viral Subtitles in 10 Minutes (Premiere Pro\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "What is the most Efficient way to create these subtitles in Pr or Ae? : r/premiere",
+        "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a what_is_the_most_efficient_...",
+        "snippet": "I am working for a client who wants these fast animated word subtitles for one reel. Earlier I had normal captions. Now they send me an example so that ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mzifjog/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mylxiuf/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/myzvet0/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/myln1pe/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mylodco/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mylynyo/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/myn42ne/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/myzwnfq/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mylua18/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/premiere/comments/1lf5xbj/what_is_the_most_efficient_way_to_create_these/mzdkfah/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Create captions in Premiere",
+        "link": "https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/create-captions.html",
+        "displayedLink": "https://helpx.adobe.com \u203a premiere \u203a ... \u203a create-captions.html",
+        "snippet": "Select Window > Workspaces > Captions and Graphics to switch to the dedicated workspace for captioning. Select Captions > Create captions from ...",
+        "date": "Jan 7, 2026",
+        "position": 4
+      },
+      {
+        "title": "PREMIERE PRO 2026 Auto Captions | Generate & Edit in Minutes!",
+        "link": "https://www.youtube.com/watch?v=jPk8xs6cjcA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Hello and welcome back! In this Adobe Premiere Pro 2026 tutorial, we're showing you how to create subtitles and customize them.",
+        "position": 5
+      },
+      {
+        "title": "Is there an automated way to do captions that I don't know about yet",
+        "link": "https://www.reddit.com/r/premiere/comments/1imgtbc/is_there_an_automated_way_to_do_captions_that_i/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_an_automated_way_t...",
+        "snippet": "You can take a look at our plugin integrated in Premiere Pro that allows you to automatically add captions and customize them according to your ...",
+        "position": 6
+      },
+      {
+        "title": "How to create Automatic Captions / Video Subtitles in Adobe Premiere Pro",
+        "link": "https://www.youtube.com/watch?v=X2eF8M50ggg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to create Automatic Captions / Video Subtitles in Adobe Premiere Pro. @JustinOdisho673 likes70K views2 years ago",
+        "position": 7
+      },
+      {
+        "title": "Create Animated Captions in Premiere Pro Automatically",
+        "link": "https://www.autocut.com/en/autocaptions/",
+        "displayedLink": "https://www.autocut.com \u203a en \u203a autocaptions",
+        "snippet": "Add subtitles in Premiere Pro in seconds. AutoCut generates animated captions, translations, and styles automatically. Save hours on editing.",
+        "position": 8
+      },
+      {
+        "title": "Add Captions to Videos Online for Free | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/add-caption",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a add-caption",
+        "snippet": "Add captions to videos quickly and easily using the Adobe Express subtitle generator. No experience required.",
+        "position": 9
+      },
+      {
+        "title": "I made a free tool that automatically makes subtitles in Premiere Pro",
+        "link": "https://www.reddit.com/r/premiere/comments/ome5nl/i_made_a_free_tool_that_automatically_makes/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_made_a_free_tool_that_aut...",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Can Adobe Premiere Pro automatically generate captions?"
+      },
+      {
+        "question": "Does Premiere Pro have caption generator?"
+      },
+      {
+        "question": "How to generate subtitles for a video in Premiere Pro?"
+      },
+      {
+        "question": "Is there a way to auto-generate subtitles?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Premiere Pro auto captions plugin free"
+      },
+      {
+        "query": "How to generate captions in Premiere Pro 2026"
+      },
+      {
+        "query": "Premiere Pro Auto captions languages"
+      },
+      {
+        "query": "How to add captions in Premiere Pro manually"
+      },
+      {
+        "query": "Create caption style Premiere Pro"
+      },
+      {
+        "query": "How to edit captions in Premiere Pro"
+      }
+    ],
+    "credits": 1
+  }
+}

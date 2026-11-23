@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start faceless youtube channel with ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant, providing recommendations for starting a faceless YouTube channel using AI. Include software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is located in IN (India). Should be mindful of Indian context maybe mention local considerations, copyright, monetization, language. Provide step-by-step workflow, list of tools for script generation, voiceover, video editing, thumbnail creation, automation, SEO. Cite sources with links. Ensure not violating policy. Provide citations.\n\nWe should not provide disallowed content. It's fine.\n\nWe need to format citations. Use footnote style or inline. Provide references",
+  "raw_payload": {
+    "id": "chatcmpl-4f58b938-5960-4cee-bd31-14a28ea9d950",
+    "object": "chat.completion",
+    "created": 1795375400,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant, providing recommendations for starting a faceless YouTube channel using AI. Include software tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is located in IN (India). Should be mindful of Indian context maybe mention local considerations, copyright, monetization, language. Provide step-by-step workflow, list of tools for script generation, voiceover, video editing, thumbnail creation, automation, SEO. Cite sources with links. Ensure not violating policy. Provide citations.\n\nWe should not provide disallowed content. It's fine.\n\nWe need to format citations. Use footnote style or inline. Provide references"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317733272,
+      "prompt_tokens": 138,
+      "prompt_time": 0.006230857,
+      "completion_tokens": 150,
+      "completion_time": 0.315162899,
+      "total_tokens": 288,
+      "total_time": 0.321393756,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82bd0vmepsvdvedg8bnhd5c",
+      "seed": 107174139
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2082,
+  "cost_usd": 0.0002
+}

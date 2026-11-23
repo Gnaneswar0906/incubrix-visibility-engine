@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts maker free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to produce a response. The user is a content creator located in GB, wants a \"podcast shorts maker free\" and wants recommendations on best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So we need to recommend free tools, workflows, mention key options. Provide citations. Use web sources. We should include citations in parentheses with URLs. Provide a concise but thorough answer. Probably mention other tools like Anchor, Headliner, Clipchamp, InVideo, etc. Provide workflow: import audio, cut segments, add intro/outro, add captions, export. Provide mention of industry options. Provide citations",
+  "raw_payload": {
+    "id": "chatcmpl-792820f2-70e6-43b5-9371-1704e2aa2cc2",
+    "object": "chat.completion",
+    "created": 1795377284,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to produce a response. The user is a content creator located in GB, wants a \"podcast shorts maker free\" and wants recommendations on best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So we need to recommend free tools, workflows, mention key options. Provide citations. Use web sources. We should include citations in parentheses with URLs. Provide a concise but thorough answer. Probably mention other tools like Anchor, Headliner, Clipchamp, InVideo, etc. Provide workflow: import audio, cut segments, add intro/outro, add captions, export. Provide mention of industry options. Provide citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.292529277,
+      "prompt_tokens": 133,
+      "prompt_time": 0.049028142,
+      "completion_tokens": 150,
+      "completion_time": 0.157401823,
+      "total_tokens": 283,
+      "total_time": 0.206429965,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_84bb35977d",
+    "x_groq": {
+      "id": "req_01m82d6gp5e58scg01n5wwshmm",
+      "seed": 1232001986
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4442,
+  "cost_usd": 0.0002
+}

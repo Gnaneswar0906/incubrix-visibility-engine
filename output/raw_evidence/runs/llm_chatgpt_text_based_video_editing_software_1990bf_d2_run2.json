@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Pick List (Best\u2011in\u2011Class Text\u2011Based Video Editors)\n\n| Rank | Tool | Why it shines for \u201ctext\u2011first\u201d editing | Pricing (US) | Best",
+  "raw_payload": {
+    "id": "chatcmpl-60b674e8-9c9d-4981-9eac-30000ba73a25",
+    "object": "chat.completion",
+    "created": 1795376575,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Pick List (Best\u2011in\u2011Class Text\u2011Based Video Editors)\n\n| Rank | Tool | Why it shines for \u201ctext\u2011first\u201d editing | Pricing (US) | Best",
+          "reasoning": "We need to answer as an AI assistant for a US content creator, recommending best text-based video editing software, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide recommendations, discuss features, pros/cons, pricing, integration, workflow steps, maybe include alternatives. Must cite sources; we can provide URLs with citations. Ensure we comply with policy. No disallowed content. Provide helpful answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.288870543,
+      "prompt_tokens": 134,
+      "prompt_time": 0.042090844,
+      "completion_tokens": 150,
+      "completion_time": 0.314300893,
+      "total_tokens": 284,
+      "total_time": 0.356391737,
+      "completion_tokens_details": {
+        "reasoning_tokens": 103
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82cgw4veft94hv4xbch463r",
+      "seed": 447829980
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3094,
+  "cost_usd": 0.0002
+}

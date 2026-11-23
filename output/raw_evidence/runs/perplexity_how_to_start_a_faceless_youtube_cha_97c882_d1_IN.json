@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "how to start a faceless youtube channel with ai 1 hour course",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to start a faceless youtube channel with ai 1 hour course' in IN, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 487
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to start a faceless youtube channel with ai 1 hour course' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 488
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_start_a_faceless_youtube_cha_97c882_d1_IN.json"
+}

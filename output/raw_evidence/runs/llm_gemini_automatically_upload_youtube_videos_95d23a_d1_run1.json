@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "automatically upload youtube videos",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to **automatically upload YouTube videos**, you need a system that bridges the gap between AI-driven video production and hands-free publishing. Whether you are running a faceless \"cash cow\" channel or scaling your personal brand, automating the upload process saves hours of manual scheduling.\n\nHere is a breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended end-to-end workflow tailored for the UK creator economy.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo achieve fully automated YouTube uploads, you typically need to combine an **AI content creation tool** with an **automation/scheduling platform**. \n\n#### **A. Video Creation & Repurposing Tools**\n*   **CapCut (by ByteDance):** Excellent for auto-captioning, cutting dead air, and generating short-form clips (Shorts). While its direct auto-upload is mostly mobile",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to **automatically upload YouTube videos**, you need a system that bridges the gap between AI-driven video production and hands-free publishing. Whether you are running a faceless \"cash cow\" channel or scaling your personal brand, automating the upload process saves hours of manual scheduling.\n\nHere is a breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended end-to-end workflow tailored for the UK creator economy.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo achieve fully automated YouTube uploads, you typically need to combine an **AI content creation tool** with an **automation/scheduling platform**. \n\n#### **A. Video Creation & Repurposing Tools**\n*   **CapCut (by ByteDance):** Excellent for auto-captioning, cutting dead air, and generating short-form clips (Shorts). While its direct auto-upload is mostly mobile",
+              "thoughtSignature": "Eo4BCosBAWkUfRPSZ3yT9kt/f/eYQ1NiK25TmqKChxaN3HYoGQW4hma9okh6syHcI26NcTBPIXQWRFIw4LFhIFIZYqtphUR9ATt6zXY+CTb+tu7zHNsFD3Dg+qxTkAnA8dqUDakLv2z/ZtHHInxt7WRE8Wph9SsM+MJugg4WIGoJ7QOl4hOvUfeYzwJg4ePtNw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bEIDa-KoE8ap3LUP8dnqmQ8"
+  },
+  "latency_ms": 2982,
+  "cost_usd": 0.0002
+}

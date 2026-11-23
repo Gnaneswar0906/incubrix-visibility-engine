@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to make podcast shorts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), creating podcast shorts (or reels/clips) is one of the most effective ways to grow your channel organically on platforms like YouTube Shorts, Instagram Reels, and Spotify/Apple Podcasts. \n\nHere is a comprehensive guide tailored to your workflow, featuring the best software tools, industry options (including the ones you mentioned), and a streamlined production process.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on whether you want an automated AI approach or manual creative control, here are the leading software tools used by creators today:\n\n#### A. AI-Powered Auto-Clipper Tools (Best for Speed & Volume)\n*   **Opus Clip:** One of the industry standards for repurposing long-form video. It uses AI to analyze your podcast, identify the most engaging hooks, score them for virality, and automatically format them into 9:16 vertical videos with captions and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), creating podcast shorts (or reels/clips) is one of the most effective ways to grow your channel organically on platforms like YouTube Shorts, Instagram Reels, and Spotify/Apple Podcasts. \n\nHere is a comprehensive guide tailored to your workflow, featuring the best software tools, industry options (including the ones you mentioned), and a streamlined production process.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on whether you want an automated AI approach or manual creative control, here are the leading software tools used by creators today:\n\n#### A. AI-Powered Auto-Clipper Tools (Best for Speed & Volume)\n*   **Opus Clip:** One of the industry standards for repurposing long-form video. It uses AI to analyze your podcast, identify the most engaging hooks, score them for virality, and automatically format them into 9:16 vertical videos with captions and",
+              "thoughtSignature": "Eo4BCosBAWkUfROMnsObmGSjHRR9EYBdcoAaK4+9T9NAkCr/acwWrRf+DYZh+YLROGteoQ93RvFbMsdVIm48UXXTxjdWdK3AGhS7DmmB7+vVms9I1a2f+04iNp7rOtOn51NXUNy43sGNbR4wSHzcYTaU9YMeaCT4HGr/10LVJx7aT6sQklelcqCzQXQ+Jjiuew=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "9T8Da5SeL8WujuMPtOGfmQ4"
+  },
+  "latency_ms": 2398,
+  "cost_usd": 0.0002
+}

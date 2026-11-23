@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "open clip vs closed clip",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: \"open clip vs closed clip\" presumably refers to video editing clip types? Might be about \"Open clip\" vs \"Closed clip\" in video editing context. The user wants best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide ci",
+      "cost_usd": 0.0002,
+      "latency_ms": 4132,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_open_clip_vs_closed_clip_46824a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: open clip vs closed clip. The user is a content creator in GB. They want recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources. They want open clip vs closed clip. That ",
+      "cost_usd": 0.0002,
+      "latency_ms": 4896,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_open_clip_vs_closed_clip_46824a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_open_clip_vs_closed_clip_46824a_d2_GB.json"
+}

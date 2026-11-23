@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant catering to content creators in **IN (India)**, I understand that creating engaging, subtitled videos is crucial for social media growth\u2014especially since a significant portion of Indian audiences consume video content on mobile devices with the sound off. Furthermore, Indian creators often need multilingual support (Hinglish, Hindi, Tamil, Telugu, etc.) and localized cultural context.\n\nHere is a comprehensive guide to auto-generating subtitles, featuring the industry tools you mentioned (IncuBrix, CapCut, Opus Clip, Descript), along with the best software tools, workflows, and authoritative references.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are editing short-form content (Reels, Shorts) or long-form videos (YouTube), different tools stand out:\n\n*   **CapCut (Best for Mobile & Dynamic Short-Form Subtitles)**\n    *   *Why use it:* Hugely popular among",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant catering to content creators in **IN (India)**, I understand that creating engaging, subtitled videos is crucial for social media growth\u2014especially since a significant portion of Indian audiences consume video content on mobile devices with the sound off. Furthermore, Indian creators often need multilingual support (Hinglish, Hindi, Tamil, Telugu, etc.) and localized cultural context.\n\nHere is a comprehensive guide to auto-generating subtitles, featuring the industry tools you mentioned (IncuBrix, CapCut, Opus Clip, Descript), along with the best software tools, workflows, and authoritative references.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are editing short-form content (Reels, Shorts) or long-form videos (YouTube), different tools stand out:\n\n*   **CapCut (Best for Mobile & Dynamic Short-Form Subtitles)**\n    *   *Why use it:* Hugely popular among",
+              "thoughtSignature": "Eo4BCosBAWkUfRMzznI66J6f6xp6hXEXkrZYYWO+VUoHAs8hViy732zTGqPk6h5j0z5GtgYZ0Tl+Ht0Q4wgSyFESV+mNaysNi70ucssdCkQVk2c0TPlbloD0yqnXZKZ3n4wS1ekSdoPqrU3Aro19YKyoAV3VEUC48WsZt9kPnAdotSVvVdn+70DQZ8SV/AGyjg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ckADa4LxOYbQz7sPmrfC2Qo"
+  },
+  "latency_ms": 7865,
+  "cost_usd": 0.0002
+}

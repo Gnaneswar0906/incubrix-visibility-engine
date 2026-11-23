@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Nexus\u202fClip** | Verdict for most U.S. creators |\n|---------|---------------",
+      "cost_usd": 0.0002,
+      "latency_ms": 2738,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_nexus_clip_a4297e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Title: A Comprehensive Guide for US Content Creators: Comparing Opus Clip & Nexus Clip\n\nIntroduction:\nAs a content creator in the US, choosing the right software tools and workflow methods can significantly enhance your editing process and overall video production quality. In this guide, we will com",
+      "cost_usd": 0.0002,
+      "latency_ms": 4442,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_nexus_clip_a4297e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_nexus_clip_a4297e_d2_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary  \n\n| Goal | Best\u2011in\u2011class tool (free\u2011tier) | Paid tier you\u2019ll likely need | Why it shines for \u201cedit video\u202fusing\u202ftranscript\u201d |\n",
+  "raw_payload": {
+    "id": "chatcmpl-45a635b0-f4a5-4ff1-bd3b-8fa00423088e",
+    "object": "chat.completion",
+    "created": 1795374623,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary  \n\n| Goal | Best\u2011in\u2011class tool (free\u2011tier) | Paid tier you\u2019ll likely need | Why it shines for \u201cedit video\u202fusing\u202ftranscript\u201d |\n",
+          "reasoning": "We need to respond as an AI assistant, providing recommendations for editing video using transcript online. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be thorough, US content creator. Provide workflow steps, pros/cons, pricing, integration, etc. Provide citations (maybe with footnotes and URLs). Must be safe. No disallowed content. Provide helpful answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316212673,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006983564,
+      "completion_tokens": 150,
+      "completion_time": 0.311517696,
+      "total_tokens": 284,
+      "total_time": 0.31850126,
+      "completion_tokens_details": {
+        "reasoning_tokens": 100
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82ana74etvagky69t3wd4jx",
+      "seed": 1133496870
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6317,
+  "cost_usd": 0.0002
+}

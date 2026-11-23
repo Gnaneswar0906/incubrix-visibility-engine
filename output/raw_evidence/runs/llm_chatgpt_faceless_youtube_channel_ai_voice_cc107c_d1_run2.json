@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai voice",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f Building a **Faceless YouTube Channel** with AI Voice  \n*(A practical toolkit & workflow for U.S. creators)*  \n\n---\n\n### 1\ufe0f\u20e3  Core Workflow Overview  \n\n| Step | What you do | Recommended Tools | Why it works",
+  "raw_payload": {
+    "id": "chatcmpl-94613157-5be5-4d52-9bc8-ac1e80ae7352",
+    "object": "chat.completion",
+    "created": 1795375056,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f Building a **Faceless YouTube Channel** with AI Voice  \n*(A practical toolkit & workflow for U.S. creators)*  \n\n---\n\n### 1\ufe0f\u20e3  Core Workflow Overview  \n\n| Step | What you do | Recommended Tools | Why it works",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must be helpful. Provide list of AI voice generation tools, video editing, script writing, etc. Provide workflow steps. Cite sources with links. Ensure compliance with policy: no disallowed content. It's fine. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15715841,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00529782,
+      "completion_tokens": 150,
+      "completion_time": 0.308424092,
+      "total_tokens": 285,
+      "total_time": 0.313721912,
+      "completion_tokens_details": {
+        "reasoning_tokens": 89
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82b2hkme0jbjs7j5tn5bcas",
+      "seed": 2017444315
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3138,
+  "cost_usd": 0.0002
+}

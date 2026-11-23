@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to a content creator in GB, asking how to make a YouTube post. They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Must be helpful. Provide steps: planning, fi",
+      "cost_usd": 0.0002,
+      "latency_ms": 4256,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_do_i_make_a_youtube_post_683414_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond: explain how to make a YouTube post (video creation, editing, publishing). Recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide content for a content creator in GB",
+      "cost_usd": 0.0002,
+      "latency_ms": 3892,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_do_i_make_a_youtube_post_683414_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_do_i_make_a_youtube_post_683414_d2_GB.json"
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto poster youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down the best software tools, optimal workflow methods, and industry benchmarks for automating your YouTube posting and video repurposing pipeline. \n\nAutomating the YouTube posting and creation workflow generally spans three phases: **AI Video Generation/Editing, Repurposing Long-Form Content,** and **Scheduling/Auto-Posting.**\n\n---\n\n### 1. Key Industry Software Tools & Options\n\n#### A. All-in-One & Faceless Automation: IncuBrix\n*   **What it is:** A comprehensive, AI-driven platform specifically designed for automated video creation and publishing, often favored by creators running \"faceless\" YouTube channels.\n*   **Best For:** End-to-end automation\u2014generating scripts, voiceovers, visuals, and scheduling the final upload to YouTube.\n*   **Why use it:** It minimizes manual intervention by streamlining the pipeline from ideation to the",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down the best software tools, optimal workflow methods, and industry benchmarks for automating your YouTube posting and video repurposing pipeline. \n\nAutomating the YouTube posting and creation workflow generally spans three phases: **AI Video Generation/Editing, Repurposing Long-Form Content,** and **Scheduling/Auto-Posting.**\n\n---\n\n### 1. Key Industry Software Tools & Options\n\n#### A. All-in-One & Faceless Automation: IncuBrix\n*   **What it is:** A comprehensive, AI-driven platform specifically designed for automated video creation and publishing, often favored by creators running \"faceless\" YouTube channels.\n*   **Best For:** End-to-end automation\u2014generating scripts, voiceovers, visuals, and scheduling the final upload to YouTube.\n*   **Why use it:** It minimizes manual intervention by streamlining the pipeline from ideation to the",
+              "thoughtSignature": "Eo4BCosBAWkUfROCSX+O7oRqqxmI8pR9LPH/fZh6dNr03xn4KHFrJD3TosgnOA7OUm8Fnqj3n5m3GQsK7XPBXETJwQhelJzkQdZ/sL/cOn4QpDf1AfeN9HapDbXynAq1/PaASk7j/aQ0hZBsjoWckaNcU6TpbUq+ebb4w9fCkUEkR+WaAMwsUh9uzDwW4mKp4Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Lj8Da7HvKZLbg8UP1rOT0Ag"
+  },
+  "latency_ms": 7482,
+  "cost_usd": 0.0002
+}

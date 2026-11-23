@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that automated captioning is no longer just an accessibility feature\u2014it is a critical driver of audience retention, search engine optimization (SEO), and cross-platform distribution (like YouTube Shorts). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended modern workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want all-in-one AI editing, specialized short-form clipping, or enterprise-grade script editing, here are the top tools currently dominating the creator economy:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Dynamic, TikTok/Shorts-style \"Hormozi-style\" captions.\n    *   *Why use it:* CapCut features industry-leading auto-captioning that automatically highlights keywords",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that automated captioning is no longer just an accessibility feature\u2014it is a critical driver of audience retention, search engine optimization (SEO), and cross-platform distribution (like YouTube Shorts). \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended modern workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want all-in-one AI editing, specialized short-form clipping, or enterprise-grade script editing, here are the top tools currently dominating the creator economy:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Dynamic, TikTok/Shorts-style \"Hormozi-style\" captions.\n    *   *Why use it:* CapCut features industry-leading auto-captioning that automatically highlights keywords",
+              "thoughtSignature": "Eo4BCosBAWkUfROiWdXfTTwsz/GGzLIdvKKeweLEMF+ZKGFKcq86eR2TBYjxvrjmMyPfLXR2C0zEfxsmzsjZPt2kdcNh0eet93WK5Ng0He8LvMhfIZRr+J1spXZjYuASqTfRqtu90x2N9GUnZkrlwDq+KGaD/ZuRxs5YEWSIK8zlCpN62msc5qCKGCbtPLsHpw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hD4Da7i3JaXSmNMPrpHY6Ac"
+  },
+  "latency_ms": 7931,
+  "cost_usd": 0.0002
+}

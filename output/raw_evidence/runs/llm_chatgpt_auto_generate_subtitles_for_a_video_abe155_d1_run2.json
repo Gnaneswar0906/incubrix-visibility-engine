@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating subtitles for a video, targeting a content creator in GB (Great Britain). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention those tools, and cite sources. Must comply with policy: no disallowed content. It's fine. Provide citations with URLs. Provide a structured answer.\n\nWe should note that IncuBrix is perhaps a lesser-known tool; ensure we have correct info. Provide alternatives: YouTube automatic captions, Rev.com, Otter.ai, Happy Scribe, etc. Provide workflow: upload video,",
+  "raw_payload": {
+    "id": "chatcmpl-cc5b33f2-d208-472a-b6e0-227047241da1",
+    "object": "chat.completion",
+    "created": 1795375641,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating subtitles for a video, targeting a content creator in GB (Great Britain). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention those tools, and cite sources. Must comply with policy: no disallowed content. It's fine. Provide citations with URLs. Provide a structured answer.\n\nWe should note that IncuBrix is perhaps a lesser-known tool; ensure we have correct info. Provide alternatives: YouTube automatic captions, Rev.com, Otter.ai, Happy Scribe, etc. Provide workflow: upload video,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.326548946,
+      "prompt_tokens": 135,
+      "prompt_time": 0.026783951,
+      "completion_tokens": 150,
+      "completion_time": 0.311941612,
+      "total_tokens": 285,
+      "total_time": 0.338725563,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82bmcf6e39acn5hcy99bb4v",
+      "seed": 1781819391
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3164,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text video editing",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"how to text video editing\". Likely they want to know how to add text to video editing, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide recommendations, workflow, mention sources. Must be safe, no disallowed content. Prov",
+      "cost_usd": 0.0002,
+      "latency_ms": 3221,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_video_editing_b8bc9d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text video editing Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if availab",
+      "cost_usd": 0.0002,
+      "latency_ms": 2442,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_video_editing_b8bc9d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_text_video_editing_b8bc9d_d1_IN.json"
+}

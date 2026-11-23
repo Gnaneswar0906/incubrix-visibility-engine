@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating subtitles for a TikTok video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to provide answer as an AI assistant for a content creator in GB. Provide UK context perhaps. Must cite sources. Use markdown with links. Provide step-by-step workflow. Mention free vs paid, accuracy, integration with TikTok. Provide tips like using TikTok's built-in auto captions, using external tools, exporting SRT, etc. Provide citation style maybe footnotes. Use reliable sources: official websites, articles from TechRadar, The Verge, etc. Provide citations inline with numbers",
+  "raw_payload": {
+    "id": "chatcmpl-ff47cd28-07d8-4266-b0ec-b216b643163a",
+    "object": "chat.completion",
+    "created": 1795375596,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating subtitles for a TikTok video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to provide answer as an AI assistant for a content creator in GB. Provide UK context perhaps. Must cite sources. Use markdown with links. Provide step-by-step workflow. Mention free vs paid, accuracy, integration with TikTok. Provide tips like using TikTok's built-in auto captions, using external tools, exporting SRT, etc. Provide citation style maybe footnotes. Use reliable sources: official websites, articles from TechRadar, The Verge, etc. Provide citations inline with numbers"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369285341,
+      "prompt_tokens": 139,
+      "prompt_time": 0.005983648,
+      "completion_tokens": 150,
+      "completion_time": 0.312750408,
+      "total_tokens": 289,
+      "total_time": 0.318734056,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82bk0q4e35s2726zfp7etqn",
+      "seed": 1630093549
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2964,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=multilingual+video+dubbing+ai",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "multilingual video dubbing ai",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:49:21.686945Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=multilingual+video+dubbing+ai (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd54a67e90>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

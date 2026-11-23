@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in Great Britain looking to streamline editing and remove filler words (like \"um,\" \"ah,\" \"you know,\" and awkward pauses) from videos, you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive guide to the best software tools, re",
+      "cost_usd": 0.0002,
+      "latency_ms": 2328,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_ai_remove_filler_words_from_video_6b768a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the UK (GB), I can confirm that removing filler words (\"ums,\" \"ahs,\" long pauses) is one of the fastest ways to elevate video production value, boost audience retention, and save hours of manual editing. \n\nHere is a comprehensive guide to the best soft",
+      "cost_usd": 0.0002,
+      "latency_ms": 2569,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_ai_remove_filler_words_from_video_6b768a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_ai_remove_filler_words_from_video_6b768a_d1_GB.json"
+}

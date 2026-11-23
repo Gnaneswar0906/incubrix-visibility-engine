@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to viewers who watch videos on mute. For content creators in **India (IN)**, the workflow needs to be fast, accurate (especially for Hindi-English mixed content, commonly known as Hinglish), and cost-effective.\n\nHere is a comprehensive guide detailing the best software tools, recommended workflows, and key industry options tailored for your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want advanced editing, AI-powered re-framing, or localized captioning, several top-tier tools dominate the market:\n\n*   **CapCut (Best for Mobile & Quick Desktop Editing):** Extremely popular among Indian creators due to its free tier and robust AI caption generator. It excels at creating \"Alex Hormozi-style\" kinetic captions (word-by-word highlighting with vibrant colors and emojis).",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to viewers who watch videos on mute. For content creators in **India (IN)**, the workflow needs to be fast, accurate (especially for Hindi-English mixed content, commonly known as Hinglish), and cost-effective.\n\nHere is a comprehensive guide detailing the best software tools, recommended workflows, and key industry options tailored for your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want advanced editing, AI-powered re-framing, or localized captioning, several top-tier tools dominate the market:\n\n*   **CapCut (Best for Mobile & Quick Desktop Editing):** Extremely popular among Indian creators due to its free tier and robust AI caption generator. It excels at creating \"Alex Hormozi-style\" kinetic captions (word-by-word highlighting with vibrant colors and emojis).",
+              "thoughtSignature": "Eo4BCosBAWkUfRObGFdBlKmZBPL4Eq+zOMnKYLXFvharq3MqYn7MfKDYoLq5SbQVtLop9Q//jaAFmHZ7+5SyZYwgBuRJK+PCgqd9bTUezw4BYXv+j7XWkwUWpEI0p6N+1s9qHTCjVedaCXcNHI+5K5sCd4zPdNcxDsB1CUx//xBSfK/oyZk4oOpzXvQcdc43FA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nkADa72LOoej694P0qqyuQI"
+  },
+  "latency_ms": 2915,
+  "cost_usd": 0.0002
+}

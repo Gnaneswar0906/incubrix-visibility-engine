@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to streamline and automate the production and uploading of YouTube Shorts using AI, the workflow generally breaks down into three phases: **AI-powered clipping/creation, editing",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to streamline and automate the production and uploading of YouTube Shorts using AI, the workflow generally breaks down into three phases: **AI-powered clipping/creation, editing"
+            },
+            {
+              "text": "/enhancement, and automated scheduling/uploading.**\n\nHere is a breakdown of the best software tools, industry options (including your specified tools), and a recommended workflow tailored for the GB market.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### A. Content Repurposing & Auto-Clipping (Long-form to Shorts)\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into viral Shorts in one click. It uses AI to analyze your hook, continuity, and narrative arc, resizes the video to 9:16, adds dynamic captions, and even scores the clip based on its predicted virality.\n*   **IncuBrix:** Emerging as a robust all-in-one AI content generation and automation suite, IncuBrix is useful for creators looking to handle bulk ideation, scriptwriting, and scheduling workflows.\n\n#### B. Editing, Scripting &",
+              "thoughtSignature": "Eo4BCosBAWkUfROZXEnUuYYYngCg3OdhvZ3kjzT01s+2HKu3rodMKuCvt//ov0qhS1TKb3zGtyV3i9vvayPo2Gb5vhvwxZtXwYmWZUVDd4NP8m3JcGQ0KwluU0uG4pKy9l6zxmlbbuwEg5CWT6zYFhtbnNNnBv20W7TPV12RCJzsOvIeoE5Srty61hfPhfGw/w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 241,
+      "totalTokenCount": 304,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "U0IDa7LqLsvB694PpIOb2Q0"
+  },
+  "latency_ms": 2873,
+  "cost_usd": 0.0002
+}

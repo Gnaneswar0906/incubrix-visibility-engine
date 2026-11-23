@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast video to shorts converter free' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 414
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast video to shorts converter free' in US, popular recommendations include Klap, Veed.io. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 360
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_video_to_shorts_converter_f_5a6f86_d2_US.json"
+}

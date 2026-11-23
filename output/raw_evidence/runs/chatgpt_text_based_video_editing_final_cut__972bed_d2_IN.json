@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing final cut pro",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a prime position to leverage powerful, cost-effective text-based editing tools. Text-based video editing (often called \"text-based editing\" or \"edit-by-transcript\") allows you to edit your video by editing the transcript, which significantly spe",
+      "cost_usd": 0.0002,
+      "latency_ms": 1209,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_final_cut__972bed_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for text based video editing with Final Cut Pro. They are a content creator located in India (IN). They ask to recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if a",
+      "cost_usd": 0.0002,
+      "latency_ms": 3174,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_final_cut__972bed_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_final_cut__972bed_d2_IN.json"
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the US, you\u2019re likely looking for the most efficient way to repurpose long-form video into short-form clips (for TikTok, Reels, and Shorts) while maintaining high quality and speed.\n\nThe comparison between **Opus Clip** and **Captions AI** is a common one, but th",
+      "cost_usd": 0.0002,
+      "latency_ms": 1187,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_captions_ai_e0cc9a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation on best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They ask to cite authoritative web sources if available. Need to respond as an AI assistant for a US content creator. Should provide overview of each",
+      "cost_usd": 0.0002,
+      "latency_ms": 2862,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_captions_ai_e0cc9a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_captions_ai_e0cc9a_d1_US.json"
+}

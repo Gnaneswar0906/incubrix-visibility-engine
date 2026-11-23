@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate captions for audio' in US, popular recommendations include CapCut. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For content creators in the US looking to auto-generate captions for audio and video, the current ecosystem offers powerful AI-driven tools that save hours of manual transcription. \n\nHere is a comprehensive breakdown of the best software tools, key industry options, and an efficient workflow method ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3236,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_audio_b84744_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_audio_b84744_d1_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Subtitles for YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical, step\u2011by\u2011step workflow you can adopt today, plus a curated list of the **best\u2011in",
+  "raw_payload": {
+    "id": "chatcmpl-3b9b56d4-8d65-4431-b07c-854c1c3aaf6d",
+    "object": "chat.completion",
+    "created": 1795374722,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Subtitles for YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical, step\u2011by\u2011step workflow you can adopt today, plus a curated list of the **best\u2011in",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto generating subtitles for YouTube videos, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, thorough. Provide workflow steps, pros/cons, pricing, integration with YouTube. Provide citations with links. Ensure not to violate policy. Provide citations format. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156868088,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005638612,
+      "completion_tokens": 150,
+      "completion_time": 0.313847162,
+      "total_tokens": 285,
+      "total_time": 0.319485774,
+      "completion_tokens_details": {
+        "reasoning_tokens": 99
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82aray4eextgwpecjfj1kkj",
+      "seed": 233878469
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3310,
+  "cost_usd": 0.0002
+}

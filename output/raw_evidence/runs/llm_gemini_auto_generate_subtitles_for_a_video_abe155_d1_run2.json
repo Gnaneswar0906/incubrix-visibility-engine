@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the UK (GB) looking to auto-generate video subtitles, the right choice depends on whether you need quick, highly stylized captions for short-form content (TikTok, Reels, Shorts) or heavy-duty, text-based editing for long-form YouTube videos and podcasts. \n\nBelow is a breakdown of the best software tools, industry options (including your mentioned tools), and a recommended workflow tailored for the GB market.\n\n---\n\n### 1. Recommended Software Tools & Industry Options\n\n#### **CapCut (Best for Short-Form & Trend-Driven Captions)**\n* **Overview:** Extremely popular among creators for its robust mobile app and desktop software. It offers one-click auto-captions with a massive library of dynamic, animated styles (karaoke-style pop-ups, custom fonts, and colors).\n* **GB Relevance:** Fully supports UK English speech recognition with high accuracy. \n* **Cost:**",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the UK (GB) looking to auto-generate video subtitles, the right choice depends on whether you need quick, highly stylized captions for short-form content (TikTok, Reels, Shorts) or heavy-duty, text-based editing for long-form YouTube videos and podcasts. \n\nBelow is a breakdown of the best software tools, industry options (including your mentioned tools), and a recommended workflow tailored for the GB market.\n\n---\n\n### 1. Recommended Software Tools & Industry Options\n\n#### **CapCut (Best for Short-Form & Trend-Driven Captions)**\n* **Overview:** Extremely popular among creators for its robust mobile app and desktop software. It offers one-click auto-captions with a massive library of dynamic, animated styles (karaoke-style pop-ups, custom fonts, and colors).\n* **GB Relevance:** Fully supports UK English speech recognition with high accuracy. \n* **Cost:**",
+              "thoughtSignature": "Eo4BCosBAWkUfRMJTGPPfA3ZjVK6rrzvjROu0M0oWGfVle/SGtAwaLDDjnzq+h3qL2cRnMy9YGkQc3COefDiQA/N54/Z77vN4wQT8T825UPYcGuyPLsjbHN03RDFWPZW6jzgFxQ5Y0czBXKodGXoeqm4M4N/gyYhVoGUrFLInCZSSST9y/EuNfQSqRA+limeog=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IUIDa_yFCMfi694PguicuQM"
+  },
+  "latency_ms": 6788,
+  "cost_usd": 0.0002
+}

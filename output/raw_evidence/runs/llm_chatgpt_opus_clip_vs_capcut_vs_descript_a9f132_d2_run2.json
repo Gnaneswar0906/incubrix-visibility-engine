@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are likely looking for tools that can streamline your workflow, particularly for repurposing long-form content (like podcasts, YouTube videos, or webinars) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a detailed comparison of **Opus Clip**, **CapCut**, and **Descript**, along with recommended workflows and industry context.\n\n---\n\n### 1. Quick Comparison Overview\n\n| Feature | **Opus Clip** | **CapCut** | **Descript** |\n| :--- | :--- | :--- | :--- |\n| **Primary Use** | AI-powered clipping & repurposing | Video editing (",
+  "raw_payload": {
+    "id": "chatcmpl-d024b81f-2913-4e87-bad3-4b07d244cdeb",
+    "object": "chat.completion",
+    "created": 1795377532,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are likely looking for tools that can streamline your workflow, particularly for repurposing long-form content (like podcasts, YouTube videos, or webinars) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a detailed comparison of **Opus Clip**, **CapCut**, and **Descript**, along with recommended workflows and industry context.\n\n---\n\n### 1. Quick Comparison Overview\n\n| Feature | **Opus Clip** | **CapCut** | **Descript** |\n| :--- | :--- | :--- | :--- |\n| **Primary Use** | AI-powered clipping & repurposing | Video editing ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.09919183,
+      "prompt_tokens": 81,
+      "prompt_time": 0.006569019,
+      "completion_tokens": 150,
+      "completion_time": 0.324641992,
+      "total_tokens": 231,
+      "total_time": 0.331211011
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82de358em1r7ha0r858e5yg",
+      "seed": 1770782447
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1662,
+  "cost_usd": 0.0002
+}

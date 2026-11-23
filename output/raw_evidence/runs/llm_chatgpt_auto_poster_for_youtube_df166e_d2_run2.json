@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Poster for YouTube \u2013 A Practical Guide for UK Creators\n\n| Step |",
+  "raw_payload": {
+    "id": "chatcmpl-11de354d-c39f-434f-8d7e-582f479cb5db",
+    "object": "chat.completion",
+    "created": 1795377511,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Poster for YouTube \u2013 A Practical Guide for UK Creators\n\n| Step |",
+          "reasoning": "We need to recommend best software tools and workflow methods for auto posting to YouTube. Also mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations. The user is a content creator in GB. So mention UK compliance or local services? Provide suggestions like TubeBuddy, Hootsuite, Later, SocialBee, etc. Provide workflow: content creation, editing, auto upload, scheduling. Provide citations from authoritative websites. Use up-to-date info. Provide links. Provide citations. Ensure not to exceed length. Use Markdown. Provide sources. Let's do it."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.16171469,
+      "prompt_tokens": 133,
+      "prompt_time": 0.04639632,
+      "completion_tokens": 150,
+      "completion_time": 0.15899624,
+      "total_tokens": 283,
+      "total_time": 0.20539256,
+      "completion_tokens_details": {
+        "reasoning_tokens": 123
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82ddezwe2atvq0pmzkt6qa4",
+      "seed": 1934233278
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3549,
+  "cost_usd": 0.0002
+}

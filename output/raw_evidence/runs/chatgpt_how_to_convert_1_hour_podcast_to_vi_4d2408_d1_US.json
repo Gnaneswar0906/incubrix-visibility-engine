@@ -1,0 +1,39 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to convert 1 hour podcast to viral shorts with ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'how to convert 1 hour podcast to viral shorts with ai' in US, popular recommendations include Opus Clip, Munch, Klap. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 412
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'how to convert 1 hour podcast to viral shorts with ai' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 443
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_convert_1_hour_podcast_to_vi_4d2408_d1_US.json"
+}

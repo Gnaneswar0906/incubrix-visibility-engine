@@ -1,0 +1,17 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=repurpose+long+video",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "repurpose long video",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:32:30.963118+00:00",
+  "extracted_count": 4,
+  "suggestions": [
+    "repurpose long videos into youtube shorts",
+    "repurpose long form video",
+    "repurpose examples",
+    "what to do with old videos"
+  ],
+  "raw_response": "[\"repurpose long video\",[\"repurpose long videos into youtube shorts\",\"repurpose long form video\",\"repurpose examples\",\"what to do with old videos\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390],[512,650,390]]}]"
+}

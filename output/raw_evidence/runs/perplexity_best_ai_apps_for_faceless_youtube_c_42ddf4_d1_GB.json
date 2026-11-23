@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'best ai apps for faceless youtube channel' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 413
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'best ai apps for faceless youtube channel' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 388
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_best_ai_apps_for_faceless_youtube_c_42ddf4_d1_GB.json"
+}

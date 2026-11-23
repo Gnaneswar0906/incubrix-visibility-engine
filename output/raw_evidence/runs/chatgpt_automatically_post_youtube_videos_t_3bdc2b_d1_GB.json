@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation for automatically posting YouTube videos to a Discord server. They also want best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer as an AI as",
+      "cost_usd": 0.0002,
+      "latency_ms": 2673,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_automatically_post_youtube_videos_t_3bdc2b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "To automatically post YouTube videos to a Discord server, you need to bridge the gap between YouTube\u2019s API (which is read-heavy and restrictive for automated posting) and Discord\u2019s Webhook or Bot capabilities. Since YouTube does not natively support \"auto-posting\" to third-party platforms via a simp",
+      "cost_usd": 0.0002,
+      "latency_ms": 872,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_automatically_post_youtube_videos_t_3bdc2b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_automatically_post_youtube_videos_t_3bdc2b_d1_GB.json"
+}

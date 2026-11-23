@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel using ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for a faceless YouTube channel using AI. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be helpful, US-based creator. Provide citations with li",
+      "cost_usd": 0.0002,
+      "latency_ms": 3839,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_using_ai_0718f8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in the current landscape is less about \"hiding\" your identity and more about leveraging AI to scale high-quality, niche-specific content. The key to standing out in 2024\u20132025 is **authenticity through curation**, not just raw AI generation. YouTube\u2019s re",
+      "cost_usd": 0.0002,
+      "latency_ms": 1906,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_using_ai_0718f8_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_using_ai_0718f8_d1_US.json"
+}

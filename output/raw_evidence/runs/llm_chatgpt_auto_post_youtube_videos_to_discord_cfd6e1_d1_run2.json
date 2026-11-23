@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to discord",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, automating the distribution of your YouTube content to Discord is a powerful way to maintain community engagement without the manual effort of cross-posting. Since Discord does not have a native \"auto-post\" button for YouTube links, you will need to bridge the gap between the YouTube API and the Discord API using middleware or automation tools.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options tailored for your needs.\n\n### 1. Top Software Tools for Automation\n\n#### A. General-Purpose Automation Platforms (Most Reliable)\nThese tools allow you to create \"If This, Then That\" logic: **If** a new video is published on YouTube, **then** post a",
+  "raw_payload": {
+    "id": "chatcmpl-66e716e5-bff0-44f8-b125-f03e20547164",
+    "object": "chat.completion",
+    "created": 1795375303,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, automating the distribution of your YouTube content to Discord is a powerful way to maintain community engagement without the manual effort of cross-posting. Since Discord does not have a native \"auto-post\" button for YouTube links, you will need to bridge the gap between the YouTube API and the Discord API using middleware or automation tools.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options tailored for your needs.\n\n### 1. Top Software Tools for Automation\n\n#### A. General-Purpose Automation Platforms (Most Reliable)\nThese tools allow you to create \"If This, Then That\" logic: **If** a new video is published on YouTube, **then** post a"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054326996,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005266144,
+      "completion_tokens": 150,
+      "completion_time": 0.285415446,
+      "total_tokens": 228,
+      "total_time": 0.29068159
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ba27he0e8443v1zctpx1h",
+      "seed": 1436464879
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1498,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Given your query likely intends to compare **Opus Clip** against other top AI video repurposing tools, here is a comprehensive breakdown of the best software options, workflow methods, and industry leaders for creating short-form content from long-form videos.\n\n### \ud83c\udfc6 Top AI Video Repurposing Tools (2024)\n\n#### 1. **Opus Clip**\n- **Best For:** Automated viral hook detection, AI-generated captions, and social media optimization.\n- **Key Features:**\n  - **Viral Score:** Rates clips based on potential engagement.\n  - **AI Reframe:** Automatically adjusts aspect ratio (9:16, 1:1, 16:9) by tracking active",
+  "raw_payload": {
+    "id": "chatcmpl-4a94aa01-aae9-4c19-9dca-d424cd46b295",
+    "object": "chat.completion",
+    "created": 1795374929,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Given your query likely intends to compare **Opus Clip** against other top AI video repurposing tools, here is a comprehensive breakdown of the best software options, workflow methods, and industry leaders for creating short-form content from long-form videos.\n\n### \ud83c\udfc6 Top AI Video Repurposing Tools (2024)\n\n#### 1. **Opus Clip**\n- **Best For:** Automated viral hook detection, AI-generated captions, and social media optimization.\n- **Key Features:**\n  - **Viral Score:** Rates clips based on potential engagement.\n  - **AI Reframe:** Automatically adjusts aspect ratio (9:16, 1:1, 16:9) by tracking active"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048270764,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005076096,
+      "completion_tokens": 150,
+      "completion_time": 0.284764593,
+      "total_tokens": 226,
+      "total_time": 0.289840689
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82aynm9epmahq5rmn48xsyw",
+      "seed": 1240379891
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2021,
+  "cost_usd": 0.0002
+}

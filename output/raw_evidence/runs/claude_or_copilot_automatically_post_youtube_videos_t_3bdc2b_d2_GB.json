@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Submagic",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'automatically post youtube videos to discord server' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 462
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'automatically post youtube videos to discord server' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 396
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_automatically_post_youtube_videos_t_3bdc2b_d2_GB.json"
+}

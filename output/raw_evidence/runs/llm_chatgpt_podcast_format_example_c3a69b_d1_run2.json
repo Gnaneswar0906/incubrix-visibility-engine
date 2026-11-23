@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast format example",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example, recommend best software tools, workflow methods, mention key industry options (including those named). Also cite authoritative web sources. Must be UK context? Mention GDPR maybe. Provide citations with URLs.\n\nWe must follow policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: Overview of podcast format, sample outline, recommended tools (recording, editing",
+  "raw_payload": {
+    "id": "chatcmpl-420c2740-d020-4856-ad62-b4d189998487",
+    "object": "chat.completion",
+    "created": 1795375469,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example, recommend best software tools, workflow methods, mention key industry options (including those named). Also cite authoritative web sources. Must be UK context? Mention GDPR maybe. Provide citations with URLs.\n\nWe must follow policy: no disallowed content. It's fine.\n\nWe should provide a structured answer: Overview of podcast format, sample outline, recommended tools (recording, editing"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369049907,
+      "prompt_tokens": 132,
+      "prompt_time": 0.006382061,
+      "completion_tokens": 150,
+      "completion_time": 0.312974962,
+      "total_tokens": 282,
+      "total_time": 0.319357023,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82bf3y7evmszsq88qggb9qp",
+      "seed": 914211611
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3695,
+  "cost_usd": 0.0002
+}

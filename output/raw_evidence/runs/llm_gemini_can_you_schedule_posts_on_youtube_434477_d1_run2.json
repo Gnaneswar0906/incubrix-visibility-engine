@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Yes, you can schedule posts (videos, Shorts, and Community posts) directly on YouTube.** \n\nYouTube has a built-in scheduling feature accessible via YouTube Studio on both desktop and the mobile app. This allows creators to select a specific date, time, and time zone for their content to go live automatically without needing to be at their computer.\n\nHowever, relying *only* on YouTube's native scheduler limits your cross-platform reach. As a content creator in GB looking to streamline your workflow, combining YouTube's native tools with dedicated creator software will save you hours of time.\n\n---\n\n### Key Industry Software Tools & Workflow Methods\n\nTo build an efficient content pipeline\u2014from editing to repurposing and scheduling\u2014industry-standard tools are categorized below by their function.\n\n#### 1. All-in-One Management & Social Schedulers\n*   **IncuBrix:** A robust tool gaining traction among digital agencies and multi-platform creators",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "**Yes, you can schedule posts (videos, Shorts, and Community posts) directly on YouTube.** \n\nYouTube has a built-in scheduling feature accessible via YouTube Studio on both desktop and the mobile app. This allows creators to select a specific date, time, and time zone for their content to go live automatically without needing to be at their computer.\n\nHowever, relying *only* on YouTube's native scheduler limits your cross-platform reach. As a content creator in GB looking to streamline your workflow, combining YouTube's native tools with dedicated creator software will save you hours of time.\n\n---\n\n### Key Industry Software Tools & Workflow Methods\n\nTo build an efficient content pipeline\u2014from editing to repurposing and scheduling\u2014industry-standard tools are categorized below by their function.\n\n#### 1. All-in-One Management & Social Schedulers\n*   **IncuBrix:** A robust tool gaining traction among digital agencies and multi-platform creators",
+              "thoughtSignature": "Eo4BCosBAWkUfROhB6xgZP865mFp47qtHCQJLkCa4ayWlpbegFgdRK5BJmr7hvmZAxWqBcdpbgRZbpTI8QVAxeai73U3wCNTaUQ5KXqmICt3UZLHtAlcVxqV9Qm9K7MacLBKLxaPaxzolSMncZKUYuxPb9yM5PNlZPDHeCQQX3fOmYs4iUU1X6JCBQ0/aaj7Ww=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "XkIDa--ACfu1694Pr4nR0AM"
+  },
+  "latency_ms": 3819,
+  "cost_usd": 0.0002
+}

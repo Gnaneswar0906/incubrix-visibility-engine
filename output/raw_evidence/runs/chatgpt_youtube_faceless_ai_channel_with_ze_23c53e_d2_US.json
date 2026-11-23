@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "##",
+      "cost_usd": 0.0002,
+      "latency_ms": 4041,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Below is a **zero\u2011budget workflow** you can start today to launch a **faceless \u201cAI\u2011generated\u201d YouTube channel**.  \nEverything listed either has a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2730,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d2_US.json"
+}

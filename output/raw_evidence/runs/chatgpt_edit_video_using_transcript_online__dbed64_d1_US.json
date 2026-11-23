@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "If you are experiencing issues where \"editing video using transcript\" features are not working online, the problem is rarely a bug in the AI itself. It is almost always one of three things: **audio clarity**, **browser compatibility**, or **file format/size limitations**.\n\nHere is a breakdown of the",
+      "cost_usd": 0.0002,
+      "latency_ms": 4430,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online__dbed64_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to answer as an AI assistant for a US content creator. Provide suggestions for editing video u",
+      "cost_usd": 0.0002,
+      "latency_ms": 3736,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_online__dbed64_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_online__dbed64_d1_US.json"
+}

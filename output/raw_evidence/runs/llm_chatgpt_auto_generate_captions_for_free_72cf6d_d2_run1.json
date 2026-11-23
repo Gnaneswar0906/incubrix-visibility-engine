@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary\n| Tool (Free tier) | Auto\u2011caption quality | Platform | Export options | Notable limits (free) |\n|------------------|----------------------",
+  "raw_payload": {
+    "id": "chatcmpl-9c30caf9-c891-483a-8d32-8fca26205c34",
+    "object": "chat.completion",
+    "created": 1795376610,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary\n| Tool (Free tier) | Auto\u2011caption quality | Platform | Export options | Notable limits (free) |\n|------------------|----------------------",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto-generating captions for free, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: providing recommendations is allowed. Must not provide copyrighted text beyond short excerpt. Provide citations with URLs. Use markdown. Provide workflow steps. Provide free options. Mention limitations. Provide citations. Ensure not to violate policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157402918,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00511305,
+      "completion_tokens": 150,
+      "completion_time": 0.316100384,
+      "total_tokens": 284,
+      "total_time": 0.321213434,
+      "completion_tokens_details": {
+        "reasoning_tokens": 106
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82chyrbeqa976vvhb1m754w",
+      "seed": 1701150103
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2799,
+  "cost_usd": 0.0002
+}

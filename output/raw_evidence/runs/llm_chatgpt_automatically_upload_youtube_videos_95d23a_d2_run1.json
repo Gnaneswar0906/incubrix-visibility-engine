@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically upload youtube videos",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in GB, wants to automatically upload YouTube videos. They want recommendations for best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. So we need to produce a helpful answer. They want recommendations for software tools and workflow methods for automatic uploading of YouTube videos. Also mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Should mention how to set up automation using YouTube API, scheduling, using tools like Zapier, Integromat, IFTTT, Hootsuite, Buffer, etc. Also mention specific",
+  "raw_payload": {
+    "id": "chatcmpl-a1ef96f3-179f-4523-8ce2-3dd7aad46e7a",
+    "object": "chat.completion",
+    "created": 1795377493,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in GB, wants to automatically upload YouTube videos. They want recommendations for best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. So we need to produce a helpful answer. They want recommendations for software tools and workflow methods for automatic uploading of YouTube videos. Also mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Should mention how to set up automation using YouTube API, scheduling, using tools like Zapier, Integromat, IFTTT, Hootsuite, Buffer, etc. Also mention specific"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367892009,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00894297,
+      "completion_tokens": 150,
+      "completion_time": 0.158594511,
+      "total_tokens": 283,
+      "total_time": 0.167537481,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ce54c53bd5",
+    "x_groq": {
+      "id": "req_01m82dcwz2e0hv716f6a2dkce5",
+      "seed": 107163241
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4198,
+  "cost_usd": 0.0002
+}

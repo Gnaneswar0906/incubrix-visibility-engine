@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to edit videos using transcripts online, you are tapping into one of the most efficient workflows in modern digital media. **Text-based video editing** allows you to cut, rearrange, and delete video footage simply by editing a Word-document-style transcript.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options to streamline your video production.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the transcript-based editing ecosystem. Here are the top platforms available:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   **Best for:** Podcasters, talking-head YouTubers, course creators, and deep editorial control.\n    *   **Key Features:** Industry pioneer in text-based editing. Deleting a word in the transcript deletes it in the video. Features \"Studio Sound\" (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to edit videos using transcripts online, you are tapping into one of the most efficient workflows in modern digital media. **Text-based video editing** allows you to cut, rearrange, and delete video footage simply by editing a Word-document-style transcript.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options to streamline your video production.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the transcript-based editing ecosystem. Here are the top platforms available:\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   **Best for:** Podcasters, talking-head YouTubers, course creators, and deep editorial control.\n    *   **Key Features:** Industry pioneer in text-based editing. Deleting a word in the transcript deletes it in the video. Features \"Studio Sound\" (",
+              "thoughtSignature": "Eo4BCosBAWkUfRPPMhy7mS1xSjVLvMO+2K5mZCzmbd/oN6rxQWlIXCk6XIidyzUU0EfJkFNzwMAPaAmPWkWh6+7L8FJ1TVV3tsoByylzgudgDjqhRvwvGJTwJedTKTXKgKMgVnnfKqrSVZqQtRu16NQmSXq640UHTUmKOJhPJsdLAWykltrsw/+UAEfU2i25kA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IT4Da9-KBtLZ1_oPqLDG4Q8"
+  },
+  "latency_ms": 3230,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Title: A Comprehensive Guide for US Content Creators: Comparing Opus Clip & Nexus Clip\n\nIntroduction:\nAs a content creator in the US, choosing the right software tools and workflow methods can significantly enhance your editing process and overall video production quality. In this guide, we will compare two popular options: Opus Clip and Nexus Clip. We will discuss their key features, differences, and provide valuable insights into industry alternatives like IncuBrix, CapCut, and Descript. By the end, you will have a well-informed basis to make the best choice for your content creation needs.\n\nOpus Clip:\nOpus Clip is a",
+  "raw_payload": {
+    "id": "chatcmpl-028369db-145c-4741-ac77-c06568c1c10a",
+    "object": "chat.completion",
+    "created": 1795376764,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Title: A Comprehensive Guide for US Content Creators: Comparing Opus Clip & Nexus Clip\n\nIntroduction:\nAs a content creator in the US, choosing the right software tools and workflow methods can significantly enhance your editing process and overall video production quality. In this guide, we will compare two popular options: Opus Clip and Nexus Clip. We will discuss their key features, differences, and provide valuable insights into industry alternatives like IncuBrix, CapCut, and Descript. By the end, you will have a well-informed basis to make the best choice for your content creation needs.\n\nOpus Clip:\nOpus Clip is a"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046558764,
+      "prompt_tokens": 81,
+      "prompt_time": 0.002860526,
+      "completion_tokens": 150,
+      "completion_time": 0.106904616,
+      "total_tokens": 231,
+      "total_time": 0.109765142
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82cpn4ye0et8tnzqr6ttx2p",
+      "seed": 554462510
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4442,
+  "cost_usd": 0.0002
+}

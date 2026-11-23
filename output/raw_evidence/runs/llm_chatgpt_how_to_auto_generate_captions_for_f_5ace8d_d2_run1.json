@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Start Overview \u2013 Free Caption\u2011Generation for Creators in India**\n\n| Tool (Free tier) | Primary Strength | How it works (one\u2011click steps) |",
+  "raw_payload": {
+    "id": "chatcmpl-04627945-cf29-43b2-89ac-48ee58654ad4",
+    "object": "chat.completion",
+    "created": 1795377033,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Start Overview \u2013 Free Caption\u2011Generation for Creators in India**\n\n| Tool (Free tier) | Primary Strength | How it works (one\u2011click steps) |",
+          "reasoning": "We need to respond as ChatGPT, following policies. The user wants recommendations for auto generating captions for free, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be safe, no disallowed content. Provide info. Also note user is in India (IN). Provide free options, maybe limited features. Provide workflow steps. Cite sources with URLs. Provide citation style. Ensure not to violate any policy. Provide factual info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317547564,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006894205,
+      "completion_tokens": 150,
+      "completion_time": 0.315422712,
+      "total_tokens": 286,
+      "total_time": 0.322316917,
+      "completion_tokens_details": {
+        "reasoning_tokens": 106
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82cyvkke3e82nxh6kwcg0s0",
+      "seed": 2012153630
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3945,
+  "cost_usd": 0.0002
+}

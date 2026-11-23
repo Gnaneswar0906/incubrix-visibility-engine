@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts with ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast videos into short-form content (Shorts, Reels, TikTok) is one of the most effective growth strategies today. The key is leveraging AI to handle the tedious work of finding \"viral\" moments, adding captions, and reframing the video, while keeping a human touch for final qu",
+      "cost_usd": 0.0002,
+      "latency_ms": 1266,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_with_ai_9af836_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). They also want citations of authoritative web sources if available. Must comply with policy. It's a normal request for tool recommendations, no ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2247,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_with_ai_9af836_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_video_to_shorts_with_ai_9af836_d2_US.json"
+}

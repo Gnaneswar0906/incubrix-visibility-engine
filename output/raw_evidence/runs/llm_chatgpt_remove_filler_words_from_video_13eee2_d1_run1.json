@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Removing Filler Words from Video \u2013 A Practical Guide for a UK Content Creator  \n\nBelow is a concise, step\u2011by\u2011step workflow together with the **",
+  "raw_payload": {
+    "id": "chatcmpl-57f92ce7-f061-4c30-9617-91832f6db821",
+    "object": "chat.completion",
+    "created": 1795375542,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Removing Filler Words from Video \u2013 A Practical Guide for a UK Content Creator  \n\nBelow is a concise, step\u2011by\u2011step workflow together with the **",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use UK spelling? British English. Provide workflow steps. Provide tools for removing filler words, both automated and manual. Mention free/paid, desktop/mobile, AI features. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369845291,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005279798,
+      "completion_tokens": 150,
+      "completion_time": 0.311074417,
+      "total_tokens": 284,
+      "total_time": 0.316354215,
+      "completion_tokens_details": {
+        "reasoning_tokens": 110
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82bhbtfeh5te3vgyptq3dsq",
+      "seed": 732635937
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3112,
+  "cost_usd": 0.0002
+}

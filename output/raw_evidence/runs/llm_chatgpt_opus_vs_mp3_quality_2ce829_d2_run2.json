@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs mp3 quality",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query from a content creator in GB. The question: \"opus vs mp3 quality\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to explain the difference in quality between Opus and MP3, mention when to use each. Also recommend tools that support these formats. Provide workflow suggestions. Provide citations. Use up-to-date info.\n\nWe should browse for sources: but as ChatGPT offline, we can rely on known sources: Wikipedia, Xiph.org, Ogg.org, maybe blog posts. Also mention industry tools: CapCut, Descript",
+  "raw_payload": {
+    "id": "chatcmpl-e56b9215-5cd4-4543-8beb-7b4610b7f866",
+    "object": "chat.completion",
+    "created": 1795377554,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query from a content creator in GB. The question: \"opus vs mp3 quality\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to explain the difference in quality between Opus and MP3, mention when to use each. Also recommend tools that support these formats. Provide workflow suggestions. Provide citations. Use up-to-date info.\n\nWe should browse for sources: but as ChatGPT offline, we can rely on known sources: Wikipedia, Xiph.org, Ogg.org, maybe blog posts. Also mention industry tools: CapCut, Descript"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.255642025,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006564884,
+      "completion_tokens": 150,
+      "completion_time": 0.156445325,
+      "total_tokens": 284,
+      "total_time": 0.163010209,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_976a85d17a",
+    "x_groq": {
+      "id": "req_01m82dercwe8qbmzdchnk6fga7",
+      "seed": 1300112809
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4572,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Provide guide on creating faceless YouTube channel using AI. Recommend software tools, workflow, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, comply with policy. Provide steps, tools for script generation, voiceover, video creation, editing, thumbnail, SEO. Provide Indian context maybe. Provide citations with links. Should not claim false info. Use credible sources like blogs, official sites. Provide bullet points. Provide workflow diagram perhaps. Provide tips for monetization. Ensure not to violate policy. Provide citations in brackets with URLs. Let's produce final answer.",
+  "raw_payload": {
+    "id": "chatcmpl-2cf6633d-6a10-4f56-b9a5-4748712ac118",
+    "object": "chat.completion",
+    "created": 1795377199,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide guide on creating faceless YouTube channel using AI. Recommend software tools, workflow, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, comply with policy. Provide steps, tools for script generation, voiceover, video creation, editing, thumbnail, SEO. Provide Indian context maybe. Provide citations with links. Should not claim false info. Use credible sources like blogs, official sites. Provide bullet points. Provide workflow diagram perhaps. Provide tips for monetization. Ensure not to violate policy. Provide citations in brackets with URLs. Let's produce final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.314680306,
+      "prompt_tokens": 138,
+      "prompt_time": 0.006910373,
+      "completion_tokens": 150,
+      "completion_time": 0.310775212,
+      "total_tokens": 288,
+      "total_time": 0.317685585,
+      "completion_tokens_details": {
+        "reasoning_tokens": 147
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82d3xp9e1esccskj0kvjrvf",
+      "seed": 1072228
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2967,
+  "cost_usd": 0.0002
+}

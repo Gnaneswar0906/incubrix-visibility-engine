@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a US content creator. Provide recommendations on software tools, workflow, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: we can provide citations, but we must not fabricate. We need to search memory? We can provide known sources like official websites, blogs. Provide citations in brackets with URLs. Must be accurate. We can reference e.g., Descript website, CapCut official, Opus Clip website, IncuBrix (maybe a lesser-known tool). Provide workflow steps: planning, recording, transcription, editing, timestamping, exporting. Also mention AI transcription services like Otter",
+  "raw_payload": {
+    "id": "chatcmpl-cd2f896a-dd25-48d4-a42f-a16ffa476e14",
+    "object": "chat.completion",
+    "created": 1795376540,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations on software tools, workflow, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: we can provide citations, but we must not fabricate. We need to search memory? We can provide known sources like official websites, blogs. Provide citations in brackets with URLs. Must be accurate. We can reference e.g., Descript website, CapCut official, Opus Clip website, IncuBrix (maybe a lesser-known tool). Provide workflow steps: planning, recording, transcription, editing, timestamping, exporting. Also mention AI transcription services like Otter"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369913643,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006473926,
+      "completion_tokens": 150,
+      "completion_time": 0.316732904,
+      "total_tokens": 285,
+      "total_time": 0.32320683,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82cftdweear3pvj1h6d1zzq",
+      "seed": 2121416192
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2795,
+  "cost_usd": 0.0002
+}

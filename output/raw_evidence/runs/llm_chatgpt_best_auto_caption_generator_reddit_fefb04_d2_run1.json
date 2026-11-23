@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you likely face unique challenges such as managing multiple languages (Hindi, English, and regional languages), dealing with variable internet speeds, and optimizing for high-engagement platforms like Instagram Reels, YouTube Shorts, and LinkedIn.\n\nBased on current industry trends, Reddit community feedback (r/youtubers, r/NewTubers, r/VideoEditing), and professional workflows, here is a breakdown of the best auto-caption generators and workflows for 2024\u20132025.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Short-Form & Mobile)\n- **Why it\u2019s popular on Reddit**: Free, fast, and",
+  "raw_payload": {
+    "id": "chatcmpl-1e4ea24f-26d6-48d7-9327-50d66978657c",
+    "object": "chat.completion",
+    "created": 1795377013,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you likely face unique challenges such as managing multiple languages (Hindi, English, and regional languages), dealing with variable internet speeds, and optimizing for high-engagement platforms like Instagram Reels, YouTube Shorts, and LinkedIn.\n\nBased on current industry trends, Reddit community feedback (r/youtubers, r/NewTubers, r/VideoEditing), and professional workflows, here is a breakdown of the best auto-caption generators and workflows for 2024\u20132025.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **CapCut** (Best for Short-Form & Mobile)\n- **Why it\u2019s popular on Reddit**: Free, fast, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047875502,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005164518,
+      "completion_tokens": 150,
+      "completion_time": 0.322969805,
+      "total_tokens": 227,
+      "total_time": 0.328134323
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cy8tcezw846p3r7e0ycr0",
+      "seed": 1900764340
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1208,
+  "cost_usd": 0.0002
+}

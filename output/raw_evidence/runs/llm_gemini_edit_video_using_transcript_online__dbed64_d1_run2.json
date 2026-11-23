@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "When text-based video editing (editing video by deleting or rearranging text in a transcript) stops working, it is usually due to one of three issues: **cloud-sync lag, browser memory limitations, or corrupted transcription alignment.** \n\nAs a content creator in the US, dealing with this frustrating bottleneck requires knowing how to troubleshoot your current tool, pivot to a reliable alternative, and adopt a bulletproof workflow.\n\nHere is a breakdown of the best software tools, industry options, and a streamlined troubleshooting workflow to get you back to editing.\n\n---\n\n### 1. Industry Options & Best Software Tools\n\nDepending on whether you need a quick fix, an AI-powered repurposing machine, or a full-scale professional editor, here are the top industry standards:\n\n*   **Descript (The Gold Standard for Transcript Editing):** Descript pioneered text-based video editing. If your Descript transcript is out of sync or not working, it is often a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "When text-based video editing (editing video by deleting or rearranging text in a transcript) stops working, it is usually due to one of three issues: **cloud-sync lag, browser memory limitations, or corrupted transcription alignment.** \n\nAs a content creator in the US, dealing with this frustrating bottleneck requires knowing how to troubleshoot your current tool, pivot to a reliable alternative, and adopt a bulletproof workflow.\n\nHere is a breakdown of the best software tools, industry options, and a streamlined troubleshooting workflow to get you back to editing.\n\n---\n\n### 1. Industry Options & Best Software Tools\n\nDepending on whether you need a quick fix, an AI-powered repurposing machine, or a full-scale professional editor, here are the top industry standards:\n\n*   **Descript (The Gold Standard for Transcript Editing):** Descript pioneered text-based video editing. If your Descript transcript is out of sync or not working, it is often a",
+              "thoughtSignature": "Eo4BCosBAWkUfRMa+qyc4M+0F0bpLUmRuvgWs0UzOMI2+QdA21soBKR+f3I0VcQJ3nGm7z3LNbDT8OuVkqWQ+2lbv2ZLslirsKdL581DKSPqMuWODyrfYtNhcHt4Y8VSdOqUE9cewOj7/oSsKAmytott48nzZaqgrf4ZruDVZ28FH4olHoFfoHwyplLtZElRXQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Jj4Da7G0CpLbg8UP17uT0Ag"
+  },
+  "latency_ms": 6150,
+  "cost_usd": 0.0002
+}

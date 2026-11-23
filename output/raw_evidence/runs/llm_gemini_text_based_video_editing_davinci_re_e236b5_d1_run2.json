@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For content creators in the US looking to combine the power of professional color grading and finishing in **DaVinci Resolve** with the speed of **text-based video editing**, the current landscape offers incredible AI-driven tools. \n\nWhile DaVinci Resolve Studio features its own robust built-in text-based editing workflow, many creators integrate external AI tools for automated rough cuts, repurposing, and captioning.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to streamline your video production pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Built-in: DaVinci Resolve Studio (Text-Based Editing)**\n*   **What it is:** Blackmagic Design\u2019s native AI-powered text-based editing feature (available in Studio versions).\n*   **How it works:** It transcribes your source clips. You can then edit the video simply by deleting, copying,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US looking to combine the power of professional color grading and finishing in **DaVinci Resolve** with the speed of **text-based video editing**, the current landscape offers incredible AI-driven tools. \n\nWhile DaVinci Resolve Studio features its own robust built-in text-based editing workflow, many creators integrate external AI tools for automated rough cuts, repurposing, and captioning.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to streamline your video production pipeline.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Built-in: DaVinci Resolve Studio (Text-Based Editing)**\n*   **What it is:** Blackmagic Design\u2019s native AI-powered text-based editing feature (available in Studio versions).\n*   **How it works:** It transcribes your source clips. You can then edit the video simply by deleting, copying,",
+              "thoughtSignature": "Eo4BCosBAWkUfRN5XfuZPglv0AciHA8T6OHG39SVx4KsjESZV5M3XUlYT40KY0UAi54IMzqK9i4hCztj9GxP7P1gn87NngATVYwI80p0tPOqMZTzmyeKTtpjmikk3SBfrWk8FpLlpt8RJO0QNzO8W0r9JeMaL8Z8BvGQoVZQ4omdDudd04PK9UvrhUMIEoSwQw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "QD4Da42jBYzUqfkP9MjbqA4"
+  },
+  "latency_ms": 3743,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83d\udcf9 Text\u2011Based Video Editing \u2013 The \u201cWrite\u2011First, Cut\u2011Later\u201d Playbook  \n\nIf you spend",
+  "raw_payload": {
+    "id": "chatcmpl-1b5fed4f-0ac5-42d8-8f12-3de48a49d16b",
+    "object": "chat.completion",
+    "created": 1795374641,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83d\udcf9 Text\u2011Based Video Editing \u2013 The \u201cWrite\u2011First, Cut\u2011Later\u201d Playbook  \n\nIf you spend",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing: software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. Provide citations with URLs. Use markdown. Provide workflow steps. Provide pros/cons. Provide links.\n\nWe need to ensure we cite authoritative sources: maybe articles from TechCrunch, The Verge, PCMag, etc. Provide citations.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368260574,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005555782,
+      "completion_tokens": 150,
+      "completion_time": 0.313213113,
+      "total_tokens": 283,
+      "total_time": 0.318768895,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82anvywexdbzdd3y3bxw6j0",
+      "seed": 121146444
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5131,
+  "cost_usd": 0.0002
+}

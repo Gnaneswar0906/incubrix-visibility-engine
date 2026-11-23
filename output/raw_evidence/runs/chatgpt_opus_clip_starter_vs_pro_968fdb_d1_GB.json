@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip starter vs pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Opus\u202fClip\u202fStarter\u202fvs\u202fPro \u2013 Which One Fits a UK Content Creator\u2019s Needs?\n\n| Feature |",
+      "cost_usd": 0.0002,
+      "latency_ms": 2980,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_starter_vs_pro_968fdb_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, providing recommendation comparing Opus Clip Starter vs Pro, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator l",
+      "cost_usd": 0.0002,
+      "latency_ms": 2326,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_starter_vs_pro_968fdb_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_starter_vs_pro_968fdb_d1_GB.json"
+}

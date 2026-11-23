@@ -1,0 +1,16 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=speech+to+text+video+editor+free",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "speech to text video editor free",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:48:41.198690Z",
+  "extracted_count": 3,
+  "suggestions": [
+    "speech to text video editor free",
+    "is there an app for speech to text",
+    "what is speech to text software"
+  ],
+  "raw_response": "[\"speech to text video editor free\",[\"speech to text video editor free\",\"is there an app for speech to text\",\"what is speech to text software\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390],[512,650,390]]}]"
+}

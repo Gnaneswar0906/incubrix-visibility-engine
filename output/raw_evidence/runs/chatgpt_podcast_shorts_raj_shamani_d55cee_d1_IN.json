@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India asking for recommendations for podcast shorts (short clips) for \"raj shamani\" presumably a podcast host. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web",
+      "cost_usd": 0.0002,
+      "latency_ms": 3097,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_raj_shamani_d55cee_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in India, creating high-quality \"Podcast Shorts\" (vertical clips for Instagram Reels, YouTube Shorts, and LinkedIn) from Raj Shamani\u2019s content is a smart move. Raj Shamani is a massive figure in the Indian business/startup space, and his talks are dense with value, ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1149,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_raj_shamani_d55cee_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_raj_shamani_d55cee_d1_IN.json"
+}

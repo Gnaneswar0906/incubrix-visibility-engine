@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i create a post on youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: how do i create a post on youtube Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer with steps to create a post on YouTube (presumably uploading a video), and recommend software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations.\n\nWe must comply with policy: no disallowed content. This is fine. Provide citations using links.\n\nWe should note that \"post",
+  "raw_payload": {
+    "id": "chatcmpl-7e6ca4b1-5442-4f4e-9035-11a8758d9704",
+    "object": "chat.completion",
+    "created": 1795375650,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: how do i create a post on youtube Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer with steps to create a post on YouTube (presumably uploading a video), and recommend software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations.\n\nWe must comply with policy: no disallowed content. This is fine. Provide citations using links.\n\nWe should note that \"post"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.39441625,
+      "prompt_tokens": 137,
+      "prompt_time": 0.045259986,
+      "completion_tokens": 150,
+      "completion_time": 0.308534545,
+      "total_tokens": 287,
+      "total_time": 0.353794531,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bmmj8es6a219p21m2paxd",
+      "seed": 1633981999
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3947,
+  "cost_usd": 0.0002
+}

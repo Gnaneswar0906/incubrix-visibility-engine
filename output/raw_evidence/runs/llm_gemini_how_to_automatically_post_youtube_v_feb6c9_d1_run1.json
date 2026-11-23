@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "how to automatically post youtube videos on discord",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India, automating the process of sharing your YouTube videos to Discord is one of the best ways to keep your community engaged without manual busywork. By setting up an automated pipeline, the moment your video goes live on YouTube, a notification with a custom message, thumbnail, and link is automatically posted to your designated Discord channel.\n\nHere is a complete guide to the best software tools, workflow methods, and how to integrate your creation stack (including tools like IncuBrix, CapCut, Opus Clip, and Descript) into your automation setup.\n\n---\n\n### Part 1: Best Software Tools for YouTube-to-Discord Automation\n\nTo achieve seamless automation, you don't necessarily need complex coding. Several reliable tools handle this natively or via integration platforms:\n\n1. **Discord Webhooks (Native & Free)**\n   * **What it is:** A built-in feature of Discord that allows external services to post messages in a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India, automating the process of sharing your YouTube videos to Discord is one of the best ways to keep your community engaged without manual busywork. By setting up an automated pipeline, the moment your video goes live on YouTube, a notification with a custom message, thumbnail, and link is automatically posted to your designated Discord channel.\n\nHere is a complete guide to the best software tools, workflow methods, and how to integrate your creation stack (including tools like IncuBrix, CapCut, Opus Clip, and Descript) into your automation setup.\n\n---\n\n### Part 1: Best Software Tools for YouTube-to-Discord Automation\n\nTo achieve seamless automation, you don't necessarily need complex coding. Several reliable tools handle this natively or via integration platforms:\n\n1. **Discord Webhooks (Native & Free)**\n   * **What it is:** A built-in feature of Discord that allows external services to post messages in a",
+              "thoughtSignature": "Eo4BCosBAWkUfRNQZNyJ7SaRH08Vzwlqf9xj0QN15wPDXnrbcvDFvoB4uDrnBMV98YWmHlLbPsnZo7fGg83bkhq2Dy4xSJpat2+hvoNQWoSP+zn7aVz1hdaC6uhaKAg4IIuXH0XfKhun6+1BWJTekyBX9zryJrnkcYLv/SVKZYM//apE7U4FpWmQjJ67UnQPDw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "n0ADa46wN-D83LUPo7qc-QM"
+  },
+  "latency_ms": 2657,
+  "cost_usd": 0.0002
+}

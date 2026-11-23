@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing tutorial",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for a content creator in India (IN) making podcast shorts editing tutorial. Need to cite authoritative web sources if available. Must comply with policy:",
+      "cost_usd": 0.0002,
+      "latency_ms": 2896,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_editing_tutorial_af18b2_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They want a query: \"podcast shorts editing tutorial\". They want recommendations of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite au",
+      "cost_usd": 0.0002,
+      "latency_ms": 3633,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_editing_tutorial_af18b2_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_editing_tutorial_af18b2_d2_IN.json"
+}

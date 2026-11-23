@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto post to twitter",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for automating posting YouTube videos to Twitter. They also want citations from authoritative web sources if available. Must comply with policy: providin",
+      "cost_usd": 0.0002,
+      "latency_ms": 3172,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_post_to_twitter_774f3f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"youtube auto post to twitter\". Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Also note the user is a content creator located in GB. Need to give recomme",
+      "cost_usd": 0.0002,
+      "latency_ms": 3132,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_auto_post_to_twitter_774f3f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_auto_post_to_twitter_774f3f_d1_GB.json"
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with UR",
+      "cost_usd": 0.0002,
+      "latency_ms": 3051,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_a9119e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, \"editing by text\" (or transcript-based editing) is one of the most efficient ways to boost productivity. It allows you to cut out filler words, fix grammar, and restructure your video simply by deleting or rearranging text in a document\u2014just like editing a blog",
+      "cost_usd": 0.0002,
+      "latency_ms": 1106,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_using_transcript_a9119e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_using_transcript_a9119e_d1_US.json"
+}

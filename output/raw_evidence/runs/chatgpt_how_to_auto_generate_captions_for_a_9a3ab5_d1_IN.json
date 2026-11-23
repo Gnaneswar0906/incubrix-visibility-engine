@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for a video",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for a Video \u2013 A Practical Guide for Indian Creators  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the **best\u2011in\u2011class tools** (including the ones you mentioned), and quick",
+      "cost_usd": 0.0002,
+      "latency_ms": 3318,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_a_9a3ab5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a great position to leverage several powerful, cost-effective, and AI-driven tools that are increasingly supporting Hindi and other Indian languages alongside English. Here\u2019s a comprehensive guide to auto-generating captions for your videos, inc",
+      "cost_usd": 0.0002,
+      "latency_ms": 1224,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_a_9a3ab5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_for_a_9a3ab5_d1_IN.json"
+}

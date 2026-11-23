@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to repurpose your long-form YouTube videos into short-form TikToks, you have access to some of the most advanced AI-driven video automation tools on the market. \n\nTo achieve an **auto-post workflow** (minimising manual intervention), you need a combination of AI clipping software (to find the best moments and resize them) and automation/scheduling tools (to push them straight to TikTok).\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient automated workflow.\n\n---\n\n### 1. Key Industry Options & Software Recommendations\n\n#### **A. AI Clipping & Editing Tools**\nThese tools analyse your YouTube URL, extract the most engaging hooks, add captions, and reformat 16:9 video into 9:16 vertical video.\n\n*   **Opus Clip:** Widely considered the industry gold standard for AI repurposing",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to repurpose your long-form YouTube videos into short-form TikToks, you have access to some of the most advanced AI-driven video automation tools on the market. \n\nTo achieve an **auto-post workflow** (minimising manual intervention), you need a combination of AI clipping software (to find the best moments and resize them) and automation/scheduling tools (to push them straight to TikTok).\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient automated workflow.\n\n---\n\n### 1. Key Industry Options & Software Recommendations\n\n#### **A. AI Clipping & Editing Tools**\nThese tools analyse your YouTube URL, extract the most engaging hooks, add captions, and reformat 16:9 video into 9:16 vertical video.\n\n*   **Opus Clip:** Widely considered the industry gold standard for AI repurposing",
+              "thoughtSignature": "Eo4BCosBAWkUfRO0sZRyjefoQKj3qw7cZKO41Qm13Zc4FOEl+kzRmIIj+we5sive+MZLyyUizg7ngkix0KDn+93NNct60iCPUjKXS7MhYBLm7/nxz/zRTZR8Mh13u1nJNc9hxw4SLtmkkj2gKETdFjjfjllpPrEDbUWVFpRI9QVu4icFCpoPde1CQeNQxgS1hQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ZUIDa8KDDOSe3LUP6YnViAU"
+  },
+  "latency_ms": 2170,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast shorts download free' in GB, popular recommendations include Submagic, Vidyo.ai. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in Great Britain (GB), I understand that",
+      "cost_usd": 0.0002,
+      "latency_ms": 3554,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_download_free_458f54_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_download_free_458f54_d1_GB.json"
+}

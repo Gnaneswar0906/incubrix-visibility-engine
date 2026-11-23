@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe should give overview of the process: download YouTube video, edit to TikTok format (vertical, 9:16, 60 sec or longer), add captions, music, etc., then post to TikTok via API or manual upload. Tools: IncuBrix (maybe a tool for repurposing?), CapCut (video editor with TikTok integration), Opus Clip (AI short clip generator",
+  "raw_payload": {
+    "id": "chatcmpl-5b5f3149-a3ed-4f9b-88ab-8fd507760ec9",
+    "object": "chat.completion",
+    "created": 1795375707,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe should give overview of the process: download YouTube video, edit to TikTok format (vertical, 9:16, 60 sec or longer), add captions, music, etc., then post to TikTok via API or manual upload. Tools: IncuBrix (maybe a tool for repurposing?), CapCut (video editor with TikTok integration), Opus Clip (AI short clip generator"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.439132554,
+      "prompt_tokens": 136,
+      "prompt_time": 0.028201314,
+      "completion_tokens": 150,
+      "completion_time": 0.311703875,
+      "total_tokens": 286,
+      "total_time": 0.339905189,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82bpcvfetntbszxa2ah06zy",
+      "seed": 1577227804
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2878,
+  "cost_usd": 0.0002
+}

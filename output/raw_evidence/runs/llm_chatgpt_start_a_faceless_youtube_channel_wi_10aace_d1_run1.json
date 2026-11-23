@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "start a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a faceless YouTube channel using AI in 2024/2025 is a highly viable strategy, but it requires moving beyond simple \"text-to-video\" buttons. The current meta focuses on **high-retention editing**, **authentic-sounding AI voiceovers**, and **context-aware visual storytelling**.\n\nSince you are based in the UK (GB), ensure your AI voiceovers use British English accents (e.g., \"UK English - Male/Female\" or regional accents like \"Scottish\" or \"Cockney\" for niche channels) to resonate with your local and global audience.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options.\n\n---\n\n### 1.",
+  "raw_payload": {
+    "id": "chatcmpl-3769ed19-9f98-487b-94f2-7ecfc8608033",
+    "object": "chat.completion",
+    "created": 1795375826,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Starting a faceless YouTube channel using AI in 2024/2025 is a highly viable strategy, but it requires moving beyond simple \"text-to-video\" buttons. The current meta focuses on **high-retention editing**, **authentic-sounding AI voiceovers**, and **context-aware visual storytelling**.\n\nSince you are based in the UK (GB), ensure your AI voiceovers use British English accents (e.g., \"UK English - Male/Female\" or regional accents like \"Scottish\" or \"Cockney\" for niche channels) to resonate with your local and global audience.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options.\n\n---\n\n### 1."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048288427,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005266253,
+      "completion_tokens": 150,
+      "completion_time": 0.288552554,
+      "total_tokens": 230,
+      "total_time": 0.293818807
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bt1neerr8psf4s2tgazc0",
+      "seed": 1941366512
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1838,
+  "cost_usd": 0.0002
+}

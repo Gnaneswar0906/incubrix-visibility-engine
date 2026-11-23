@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the US, you\u2019re likely looking for the most efficient way to repurpose long-form video into short-form clips (for TikTok, Reels, and Shorts) while maintaining high quality and speed.\n\nThe comparison between **Opus Clip** and **Captions AI** is a common one, but they actually serve slightly different primary use cases. Here\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry tools.\n\n### 1. Opus Clip vs. Captions AI: Key Differences\n\n| Feature | **Opus Clip** | **Captions AI** |\n| :--- | :--- | :--- |\n| **Primary Strength** | **AI-driven",
+  "raw_payload": {
+    "id": "chatcmpl-8d256d03-1108-4453-b497-f13c4cc66d88",
+    "object": "chat.completion",
+    "created": 1795374960,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the US, you\u2019re likely looking for the most efficient way to repurpose long-form video into short-form clips (for TikTok, Reels, and Shorts) while maintaining high quality and speed.\n\nThe comparison between **Opus Clip** and **Captions AI** is a common one, but they actually serve slightly different primary use cases. Here\u2019s a detailed breakdown to help you decide, along with recommended workflows and other key industry tools.\n\n### 1. Opus Clip vs. Captions AI: Key Differences\n\n| Feature | **Opus Clip** | **Captions AI** |\n| :--- | :--- | :--- |\n| **Primary Strength** | **AI-driven"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048563844,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005517096,
+      "completion_tokens": 150,
+      "completion_time": 0.296687999,
+      "total_tokens": 228,
+      "total_time": 0.302205095
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82azkswezktwzhnjvttc2m8",
+      "seed": 1847410846
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1187,
+  "cost_usd": 0.0002
+}

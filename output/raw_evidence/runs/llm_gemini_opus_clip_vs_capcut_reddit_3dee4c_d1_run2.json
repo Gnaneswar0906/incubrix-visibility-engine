@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking to break down long-form videos (like YouTube podcasts, VODs, or tutorials) into viral short-form clips for YouTube Shorts, Instagram Reels, and TikTok, you are stepping into a very mature market. \n\nBased on discussions and consensus across creator communities on Reddit (such as r/NewTubers, r/VideoEditing, and r/contentators), here is a detailed breakdown comparing **Opus Clip** and **CapCut**, along with a look at other industry giants like **Descript** and localized solutions like **IncuBrix**.\n\n---\n\n### 1. Reddit Consensus: Opus Clip vs. CapCut\n\nWhen content creators on Reddit debate **Opus Clip vs. CapCut**, the consensus generally boils down to **AI automation vs. manual creative control**.\n\n#### **Opus Clip (The AI Repurposing Specialist)**\n*   **What it does:** Opus Clip",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking to break down long-form videos (like YouTube podcasts, VODs, or tutorials) into viral short-form clips for YouTube Shorts, Instagram Reels, and TikTok, you are stepping into a very mature market. \n\nBased on discussions and consensus across creator communities on Reddit (such as r/NewTubers, r/VideoEditing, and r/contentators), here is a detailed breakdown comparing **Opus Clip** and **CapCut**, along with a look at other industry giants like **Descript** and localized solutions like **IncuBrix**.\n\n---\n\n### 1. Reddit Consensus: Opus Clip vs. CapCut\n\nWhen content creators on Reddit debate **Opus Clip vs. CapCut**, the consensus generally boils down to **AI automation vs. manual creative control**.\n\n#### **Opus Clip (The AI Repurposing Specialist)**\n*   **What it does:** Opus Clip",
+              "thoughtSignature": "Eo4BCosBAWkUfRPiUWOgi5RTzm2/kvRjanin+/adwL3QA/9KNmFY8ED+Fk4tv2obmXIZzqqlTPU2ky/Yz21t1OghUTGmbx+AgJ5mELHijP/qrZ6c7ACJAPobK97FcTEFuOhKfzbbhgr6Vr2gzAOwrx7LXykW2mK0TZSNBl6p6DS37QW/SQgpNPYW9wBtttY8wg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4UADa6CeO5-K4-EPxLvqCA"
+  },
+  "latency_ms": 2197,
+  "cost_usd": 0.0002
+}

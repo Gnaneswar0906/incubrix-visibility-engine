@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** with AI  \n*(A practical toolkit and workflow for U.S. creators)*  \n\n---\n\n### 1\ufe0f\u20e3 ",
+  "raw_payload": {
+    "id": "chatcmpl-70745760-d25b-4906-9d9b-700546d64f27",
+    "object": "chat.completion",
+    "created": 1795374989,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** with AI  \n*(A practical toolkit and workflow for U.S. creators)*  \n\n---\n\n### 1\ufe0f\u20e3 ",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for faceless YouTube channel AI tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations. Use markdown with links. Provide workflow steps. Provide software categories: script generation, voice synthesis, video editing, AI avatars, thumbnail creation, SEO. Provide best tools. Provide references."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369341156,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005753844,
+      "completion_tokens": 150,
+      "completion_time": 0.315605293,
+      "total_tokens": 284,
+      "total_time": 0.321359137,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82b0ff9e0xavs7457290as3",
+      "seed": 558859828
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2673,
+  "cost_usd": 0.0002
+}

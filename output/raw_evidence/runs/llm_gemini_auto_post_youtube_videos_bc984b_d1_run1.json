@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to streamline their workflow and automate the YouTube publishing process, leveraging a combination of AI-driven content repurposing and scheduling tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned list), and an efficient workflow method to fully automate your YouTube video pipeline.\n\n---\n\n### 1. Key Industry Software Tools\n\nTo build an end-to-end auto-posting and creation workflow, creators typically rely on a mix of video editing/repurposing tools and scheduling automation platforms.\n\n#### **Content Repurposing & AI Editing Tools**\n*   **Opus Clip:** An industry favorite for generative AI video repurposing. It takes a long-form YouTube video and automatically chops it into multiple viral short-form clips (Shorts, Reels, TikToks), complete with AI-generated captions, dynamic cropping, and virality scores. According to creator",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to streamline their workflow and automate the YouTube publishing process, leveraging a combination of AI-driven content repurposing and scheduling tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned list), and an efficient workflow method to fully automate your YouTube video pipeline.\n\n---\n\n### 1. Key Industry Software Tools\n\nTo build an end-to-end auto-posting and creation workflow, creators typically rely on a mix of video editing/repurposing tools and scheduling automation platforms.\n\n#### **Content Repurposing & AI Editing Tools**\n*   **Opus Clip:** An industry favorite for generative AI video repurposing. It takes a long-form YouTube video and automatically chops it into multiple viral short-form clips (Shorts, Reels, TikToks), complete with AI-generated captions, dynamic cropping, and virality scores. According to creator",
+              "thoughtSignature": "Eo4BCosBAWkUfRMNNpylQdHBfu5OivT1BV59spoc6rZaZofuOjSV34OG1qZx8atJb/UImvcaSJgjbsAt0L9TmCjuT1rkYF9Ag8tc3olzeaPxgBdkWN4B/e7Oa6Y/7UJ6/5D6o/V8U41OFNI40amxO6O4PhEuzXpsv29Wtom8IUGdLbSpT7uAQWdHUk2+z34wVg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "FD8Da9CNHsnbz7sP7uTicA"
+  },
+  "latency_ms": 7546,
+  "cost_usd": 0.0002
+}

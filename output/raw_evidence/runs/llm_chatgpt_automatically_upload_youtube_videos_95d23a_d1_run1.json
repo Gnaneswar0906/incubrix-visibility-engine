@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically upload youtube videos",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Automatic YouTube\u2011Video Upload \u2013 A Practical Guide for a GB Content Creator**  \n\nBelow is a concise, step\u2011by\u2011step workflow that lets you take a finished video (or a batch of videos)",
+  "raw_payload": {
+    "id": "chatcmpl-3d543323-817e-43e3-b0a7-673660ba492c",
+    "object": "chat.completion",
+    "created": 1795375720,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Automatic YouTube\u2011Video Upload \u2013 A Practical Guide for a GB Content Creator**  \n\nBelow is a concise, step\u2011by\u2011step workflow that lets you take a finished video (or a batch of videos)",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide recommendations, workflow steps, mention automation, scheduling, etc. Provide citations with links. Ensure no disallowed content. Provide UK context perhaps. Use bullet points, tables. Provide citations. Use proper style."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157182725,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005639364,
+      "completion_tokens": 150,
+      "completion_time": 0.308238955,
+      "total_tokens": 283,
+      "total_time": 0.313878319,
+      "completion_tokens_details": {
+        "reasoning_tokens": 99
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82bpscweb4t6j525r8ykwgc",
+      "seed": 1882298408
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2496,
+  "cost_usd": 0.0002
+}

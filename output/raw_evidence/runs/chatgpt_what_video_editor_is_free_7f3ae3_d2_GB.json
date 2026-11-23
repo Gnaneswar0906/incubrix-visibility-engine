@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond as an AI assistant to a content creator in GB. Query: \"what video editor is free\" They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Provide best free video editors. Provi",
+      "cost_usd": 0.0002,
+      "latency_ms": 4645,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_video_editor_is_free_7f3ae3_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"what video editor is free\" for a content creator located in GB. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. We should provide a comprehensive answer. We",
+      "cost_usd": 0.0002,
+      "latency_ms": 4516,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_video_editor_is_free_7f3ae3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_video_editor_is_free_7f3ae3_d2_GB.json"
+}

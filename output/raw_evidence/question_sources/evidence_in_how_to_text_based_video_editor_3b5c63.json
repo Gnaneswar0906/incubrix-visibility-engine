@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=how+to+text+based+video+editor",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "how to text based video editor",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:49:21.615641+00:00",
+  "extracted_count": 5,
+  "suggestions": [
+    "text based video editor",
+    "text based video editor free",
+    "how to text video editing",
+    "what is text based video editing",
+    "how to text editor"
+  ],
+  "raw_response": "[\"how to text based video editor\",[\"text based video editor\",\"text based video editor free\",\"how to text video editing\",\"what is text based video editing\",\"how to text editor\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[512,650,390]]}]"
+}

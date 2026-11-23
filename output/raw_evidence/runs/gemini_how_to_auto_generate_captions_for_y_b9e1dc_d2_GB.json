@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "InVideo",
+    "Klap",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'how to auto generate captions for youtube video' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 369
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'how to auto generate captions for youtube video' in GB, popular recommendations include Veed.io, InVideo, Submagic. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 415
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_captions_for_y_b9e1dc_d2_GB.json"
+}

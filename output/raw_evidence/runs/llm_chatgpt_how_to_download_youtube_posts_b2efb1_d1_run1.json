@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: \"how to download youtube posts\". The user is a content creator located in India. They want recommended best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be mindful of policy: providing instructions for downloading YouTube content may be disallowed if it violates YouTube's terms of service. According to policy, providing instructions to download copyrighted material without permission is disallowed. However, providing general info about downloading one's own content or content that is public domain? The query is ambiguous: \"how to download youtube posts\". Likely they want to download videos from YouTube. That could be disallowed if they",
+  "raw_payload": {
+    "id": "chatcmpl-a1d8c043-09be-4363-b5e8-308bea3ffd7e",
+    "object": "chat.completion",
+    "created": 1795375309,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: \"how to download youtube posts\". The user is a content creator located in India. They want recommended best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be mindful of policy: providing instructions for downloading YouTube content may be disallowed if it violates YouTube's terms of service. According to policy, providing instructions to download copyrighted material without permission is disallowed. However, providing general info about downloading one's own content or content that is public domain? The query is ambiguous: \"how to download youtube posts\". Likely they want to download videos from YouTube. That could be disallowed if they"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369230416,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005756611,
+      "completion_tokens": 150,
+      "completion_time": 0.314822975,
+      "total_tokens": 284,
+      "total_time": 0.320579586,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82ba883ewh8b4nfs693qvm6",
+      "seed": 1600738993
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2773,
+  "cost_usd": 0.0002
+}

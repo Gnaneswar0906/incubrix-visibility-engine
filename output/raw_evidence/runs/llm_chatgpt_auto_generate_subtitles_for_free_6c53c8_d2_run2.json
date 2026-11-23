@@ -1,0 +1,59 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [
+    "https://www.descript.com",
+    "https://www.capcut.com",
+    "https://incubrix.com",
+    "https://opusclip.com"
+  ],
+  "response_text": "We need to answer the query: auto generate subtitles for free. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources. We need to produce a helpful answer for a content creator in GB. Should mention free options, maybe subscription but free tiers. Provide workflow methods. Provide citations. Need to browse? We cannot browse internet. But we can rely on knowledge up to 2024. Provide citations referencing known sources like tech blogs, official websites. Could include references like \"https://www.descript.com\", \"https://www.capcut.com\", \"https://incubrix.com\", \"https://opusclip.com",
+  "raw_payload": {
+    "id": "chatcmpl-ef43ec15-3e06-4589-912f-7c47be8d4eed",
+    "object": "chat.completion",
+    "created": 1795377401,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto generate subtitles for free. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources. We need to produce a helpful answer for a content creator in GB. Should mention free options, maybe subscription but free tiers. Provide workflow methods. Provide citations. Need to browse? We cannot browse internet. But we can rely on knowledge up to 2024. Provide citations referencing known sources like tech blogs, official websites. Could include references like \"https://www.descript.com\", \"https://www.capcut.com\", \"https://incubrix.com\", \"https://opusclip.com"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.372445993,
+      "prompt_tokens": 134,
+      "prompt_time": 0.017812955,
+      "completion_tokens": 150,
+      "completion_time": 0.15531816,
+      "total_tokens": 284,
+      "total_time": 0.173131115,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5979a0e1b7",
+    "x_groq": {
+      "id": "req_01m82da3b8e7tamq35yfajhcd4",
+      "seed": 2083141210
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4104,
+  "cost_usd": 0.0002
+}

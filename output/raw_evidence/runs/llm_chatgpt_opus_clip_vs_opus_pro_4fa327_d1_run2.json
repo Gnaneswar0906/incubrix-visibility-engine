@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs opus pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: opus clip vs opus pro. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs Opus Pro (maybe Opus Clip is a video editing AI tool, Opus Pro is a multimedia authoring tool from 1990s? Actually Opus Pro is a multimedia authoring tool by \"Opus Software\" used for CD-ROMs etc, now maybe outdated. Provide recommendation for content creator in GB. Provide workflow methods, mention industry",
+  "raw_payload": {
+    "id": "chatcmpl-112cb1bd-798d-4196-adf8-b7b1c129610c",
+    "object": "chat.completion",
+    "created": 1795375789,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in GB. Query: opus clip vs opus pro. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs Opus Pro (maybe Opus Clip is a video editing AI tool, Opus Pro is a multimedia authoring tool from 1990s? Actually Opus Pro is a multimedia authoring tool by \"Opus Software\" used for CD-ROMs etc, now maybe outdated. Provide recommendation for content creator in GB. Provide workflow methods, mention industry"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368993382,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005506605,
+      "completion_tokens": 150,
+      "completion_time": 0.313713819,
+      "total_tokens": 284,
+      "total_time": 0.319220424,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82brwwwe6fstsaharsqpwvt",
+      "seed": 723168528
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2567,
+  "cost_usd": 0.0002
+}

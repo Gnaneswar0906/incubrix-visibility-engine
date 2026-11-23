@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Audio \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **",
+  "raw_payload": {
+    "id": "chatcmpl-73e2c205-37b4-4bfb-a60e-5410825c3d99",
+    "object": "chat.completion",
+    "created": 1795374707,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Audio \u2013 A Practical Toolkit for U.S. Content Creators  \n\nBelow is a **",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto generating captions for audio, including software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, possibly include steps, pros/cons, pricing, integration. Provide citations. Use markdown. Provide links. Ensure citations are from authoritative sources: official websites, blogs, reviews. Provide citations in footnote style. Should be safe. No disallowed content. Provide thorough answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15802329,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005889379,
+      "completion_tokens": 150,
+      "completion_time": 0.310864386,
+      "total_tokens": 284,
+      "total_time": 0.316753765,
+      "completion_tokens_details": {
+        "reasoning_tokens": 118
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82aqwsvebjvj0mgyhqeapn8",
+      "seed": 1208645222
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3560,
+  "cost_usd": 0.0002
+}

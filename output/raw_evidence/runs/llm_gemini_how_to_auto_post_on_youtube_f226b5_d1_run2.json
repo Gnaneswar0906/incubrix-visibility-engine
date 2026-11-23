@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post on youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello creator! As a content creator based in India, automating your YouTube posting workflow is a game-changer. It saves you hours of manual uploading, allows you to target peak Indian viewing hours (typically between 6:00 PM and 9:00 PM IST), and streamlines your production pipeline. \n\nHere is a comprehensive guide on how to auto-post on YouTube, featuring the best software tools, recommended workflows, and how to leverage industry-standard options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Tools & Their Roles\n\nTo build a fully automated or semi-automated YouTube workflow, you need tools that handle AI generation/editing, scheduling, and multi-platform distribution.\n\n*   **Opus Clip:** \n    *   *Role:* AI-powered long-to-short video repurposing. \n    *   *Why use it:* If",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello creator! As a content creator based in India, automating your YouTube posting workflow is a game-changer. It saves you hours of manual uploading, allows you to target peak Indian viewing hours (typically between 6:00 PM and 9:00 PM IST), and streamlines your production pipeline. \n\nHere is a comprehensive guide on how to auto-post on YouTube, featuring the best software tools, recommended workflows, and how to leverage industry-standard options like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Tools & Their Roles\n\nTo build a fully automated or semi-automated YouTube workflow, you need tools that handle AI generation/editing, scheduling, and multi-platform distribution.\n\n*   **Opus Clip:** \n    *   *Role:* AI-powered long-to-short video repurposing. \n    *   *Why use it:* If",
+              "thoughtSignature": "Eo4BCosBAWkUfRNPr1vMKjA93pRkCXiQm1frd/OWxpuqzqKVOvnqoqWPOamzNOxCTuCxvSgFg0r10ggmqvBnQWuqpAF5QDIEgPfxP68ESOojODIa3mkFS55b4GM3gWlQxzNt7yfEJunk6v+3orcKjAJ6wM2Lh9sIDZr2Y6L+anVesnsGwOlsAhHRmGDw4Q0ydA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "pEADa4iWBIKD694P3quvaQ"
+  },
+  "latency_ms": 6043,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-"
+            },
+            {
+              "text": "based content creator producing videos in **Hinglish** (a blend of Hindi and English), adding accurate auto-captions is essential. Hinglish presents a unique challenge for AI speech-to-text models due to code-switching (rapidly alternating between Hindi and English within the same sentence) and varying regional accents. \n\nHere is a comprehensive guide to the best software tools, industry options (including your requested platforms), and an optimized workflow for creating Hinglish video captions.\n\n---\n\n### 1. Industry Options & Software Tools for Hinglish Captions\n\nNot all auto-caption tools handle code-switching well. Based on current AI capabilities, here is how the top tools stack up for Hinglish:\n\n#### **CapCut (Best for Speed, Social Media Styles, & Cost)**\n*   **How it handles Hinglish:** CapCut\u2019s auto-captions support multiple languages. While it may occasionally struggle with complex code-switching, its AI is generally good",
+              "thoughtSignature": "Eo4BCosBAWkUfRPL9gByI+Z0zESjjpSmPTnC1Qc4+q0oIHD7D7dXEYZ+Dy3HyhvZvV/WOYhIyaKsPneI0R123j+AxWyQfGBIry96isZIDfU+eOf9vs9OHWHdh03whVvCNBQ4LGmmncBEFKXXXOdwzJhlafS40naR3RitF5ZXTpmVeX1p50qbZTlYAlq4ZQ98QQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 204,
+      "totalTokenCount": 269,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "_UUDa5O9BYLnjuMP04zrmAc"
+  },
+  "latency_ms": 8818,
+  "cost_usd": 0.0002
+}

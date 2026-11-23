@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto posting to YouTube, including best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide a thorough answer: overview of automation, tools like TubeBuddy, Hootsuite, Zapier, IFTTT, Later, Buffer, SocialBee, Restream, etc. Also mention video editing tools that have auto posting features (CapCut, Descript). Mention IncuBrix (maybe a platform for video creation). Opus Clip (shorts generation). Provide workflow steps: content creation, editing, thumbnail generation, scheduling, publishing, analytics. Provide best practices, compliance",
+  "raw_payload": {
+    "id": "chatcmpl-c95ba3c5-7504-4738-9534-f719896a1800",
+    "object": "chat.completion",
+    "created": 1795376654,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto posting to YouTube, including best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide a thorough answer: overview of automation, tools like TubeBuddy, Hootsuite, Zapier, IFTTT, Later, Buffer, SocialBee, Restream, etc. Also mention video editing tools that have auto posting features (CapCut, Descript). Mention IncuBrix (maybe a platform for video creation). Opus Clip (shorts generation). Provide workflow steps: content creation, editing, thumbnail generation, scheduling, publishing, analytics. Provide best practices, compliance"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369046619,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005708428,
+      "completion_tokens": 150,
+      "completion_time": 0.312380857,
+      "total_tokens": 283,
+      "total_time": 0.318089285,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82ck953ef38qpb2pqctq4vw",
+      "seed": 465374121
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2528,
+  "cost_usd": 0.0002
+}

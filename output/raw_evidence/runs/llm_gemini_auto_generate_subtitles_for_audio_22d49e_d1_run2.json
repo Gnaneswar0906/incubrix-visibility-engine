@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for audio",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the UK (GB) looking to auto-generate subtitles for audio and video, the market offers a range of tools tailored for different workflows\u2014from quick, trendy social media clips to deep, text-based video editing. \n\nHere is a breakdown of the best software tools, industry options (including your specified tools), and an efficient workflow method to streamline your content creation.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript\n* **Best For:** Long-form content, podcasters, YouTubers, and precision editing.\n* **Why use it:** Descript is the industry leader for \"text-based video editing.\" When you upload audio, it generates a transcript. If you delete a sentence in the text, it cuts the corresponding audio/video. It also features **Studio Sound** (which removes background noise and enhances voice quality) and accurate AI captioning.\n* **UK Relevance:** Highly popular among",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the UK (GB) looking to auto-generate subtitles for audio and video, the market offers a range of tools tailored for different workflows\u2014from quick, trendy social media clips to deep, text-based video editing. \n\nHere is a breakdown of the best software tools, industry options (including your specified tools), and an efficient workflow method to streamline your content creation.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript\n* **Best For:** Long-form content, podcasters, YouTubers, and precision editing.\n* **Why use it:** Descript is the industry leader for \"text-based video editing.\" When you upload audio, it generates a transcript. If you delete a sentence in the text, it cuts the corresponding audio/video. It also features **Studio Sound** (which removes background noise and enhances voice quality) and accurate AI captioning.\n* **UK Relevance:** Highly popular among",
+              "thoughtSignature": "Eo4BCosBAWkUfROHD4sSE9IJz+36s960oHl5Mkg27IPFEZR36EwSz3wptaI6TjSyK/wjFyYnN/DSBlj9vKzOpSrP8iHiodLdgOhAKzP02PB9TmTSH1oI0fXGqhbCRhjNgjxO5CH+Zx539oATGJ4baQ9GAUdrGpp8/ALuMrd1z0iKgeOioX6XGJvHHx8FrpxuSg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IkIDa5WCLKrSz7sPvKyS4Q4"
+  },
+  "latency_ms": 3433,
+  "cost_usd": 0.0002
+}

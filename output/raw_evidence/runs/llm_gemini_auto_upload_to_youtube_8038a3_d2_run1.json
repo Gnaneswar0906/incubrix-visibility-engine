@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your channel management through auto-uploading and automated workflows, leveraging the right stack of tools can save you hours of manual labor. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading platforms to achieve seamless auto-uploading to YouTube.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nWhen building an automated YouTube pipeline, tools generally fall into three categories: **AI content repurposing/editing**, **all-in-one automation/scheduling**, and **cloud storage triggers**.\n\n*   **IncuBrix:** While platforms like Zapier handle basic file transfers, robust automation ecosystems like **IncuBrix** and similar workflow engines are increasingly used by creators to connect cloud storage, AI generation tools, and YouTube channels into a single cohesive pipeline. They allow for trigger-based publishing (e.g., when a final video hits a Google Drive folder",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your channel management through auto-uploading and automated workflows, leveraging the right stack of tools can save you hours of manual labor. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading platforms to achieve seamless auto-uploading to YouTube.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nWhen building an automated YouTube pipeline, tools generally fall into three categories: **AI content repurposing/editing**, **all-in-one automation/scheduling**, and **cloud storage triggers**.\n\n*   **IncuBrix:** While platforms like Zapier handle basic file transfers, robust automation ecosystems like **IncuBrix** and similar workflow engines are increasingly used by creators to connect cloud storage, AI generation tools, and YouTube channels into a single cohesive pipeline. They allow for trigger-based publishing (e.g., when a final video hits a Google Drive folder",
+              "thoughtSignature": "Eo4BCosBAWkUfRO0u+2JajrB2AlsHEXz0iGj4sRBY8cj8tBBVJ7KeeD1WvMf21d/gXsP10NyKULXHeHGxGfFjYSKpDCmErhTyGcV5Esrf9Elc327XhGI1q8j9IYNp/6qv7c9aWAOFN/6X9E2MNeQjGnSvmpGcDXVU2h2/Ta/iUCYTltSpS9vK/8mF0dc4v0lGA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "FUYDa922N536694P5sLuiQ0"
+  },
+  "latency_ms": 2309,
+  "cost_usd": 0.0002
+}

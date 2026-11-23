@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to leverage text-based video editing\u2014specifically in conjunction with or as an alternative to Adobe Premiere Pro\u2014you have access to a robust ecosystem of AI-powered tools. Text-based editing allows you to cut, rearrange, and delete video footage simply by editing a transcript, drastically speeding up the rough-cut phase.\n\nHere is a breakdown of the best software tools, workflow methods, and industry-standard options currently dominating the market.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Adobe Premiere Pro (Native Text-Based Editing)**\n*   **Best For:** End-to-end professional workflows without leaving your primary NLE.\n*   **How it Works:** Premiere Pro features a native **Text-Based Editing** workspace powered by Adobe Sensei. It automatically transcribes your video timeline. You can delete filler words (like \"ums\" and \"ahs\"), rearrange paragraphs of dialogue,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to leverage text-based video editing\u2014specifically in conjunction with or as an alternative to Adobe Premiere Pro\u2014you have access to a robust ecosystem of AI-powered tools. Text-based editing allows you to cut, rearrange, and delete video footage simply by editing a transcript, drastically speeding up the rough-cut phase.\n\nHere is a breakdown of the best software tools, workflow methods, and industry-standard options currently dominating the market.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Adobe Premiere Pro (Native Text-Based Editing)**\n*   **Best For:** End-to-end professional workflows without leaving your primary NLE.\n*   **How it Works:** Premiere Pro features a native **Text-Based Editing** workspace powered by Adobe Sensei. It automatically transcribes your video timeline. You can delete filler words (like \"ums\" and \"ahs\"), rearrange paragraphs of dialogue,",
+              "thoughtSignature": "Eo4BCosBAWkUfROonWVE08Km6g8/XXSIEOmmjxg12NOBUBZOwvzE/C5atrmg1hJu8m5QdFUA5rDbsPt3j1cmCqH5qw630Q8+h5M92mxOjKfIEeZt/nSJGFgFzbrLo1iWcGnGRbcIE0hpsrzEKztbWJLHYpUa3lAv/t1Cc0mQaDPH8p/ujhJXzu9SAF56TU1PPw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Qz4Da5KcBq3N3LUP-7bI0Ac"
+  },
+  "latency_ms": 3202,
+  "cost_usd": 0.0002
+}

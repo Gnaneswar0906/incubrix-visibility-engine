@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs vizard",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation: comparing Opus Clip vs Vizard, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a thorough answer for a US content creator. Provide comparison of Opus Clip vs Vizard, overview of each, pros/cons, pricing, features. Recommend best tools for various use cases: short-form video creation, AI editing, subtitles, etc. Suggest workflow: script, AI generation, editing, publishing. Mention other tools: IncuBrix (maybe a video platform?), CapCut (by ByteDance), Descript, etc. Cite sources: we",
+  "raw_payload": {
+    "id": "chatcmpl-6bab8a88-dd98-49f7-8371-ea445bc761bd",
+    "object": "chat.completion",
+    "created": 1795376759,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation: comparing Opus Clip vs Vizard, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a thorough answer for a US content creator. Provide comparison of Opus Clip vs Vizard, overview of each, pros/cons, pricing, features. Recommend best tools for various use cases: short-form video creation, AI editing, subtitles, etc. Suggest workflow: script, AI generation, editing, publishing. Mention other tools: IncuBrix (maybe a video platform?), CapCut (by ByteDance), Descript, etc. Cite sources: we"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15839113,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00540346,
+      "completion_tokens": 150,
+      "completion_time": 0.310303097,
+      "total_tokens": 284,
+      "total_time": 0.315706557,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cpfvyegrsbg1r1wvry0fk",
+      "seed": 861179348
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2661,
+  "cost_usd": 0.0002
+}

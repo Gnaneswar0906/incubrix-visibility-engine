@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video capcut",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "### How to Remove Filler Words from a Video in CapCut (and Alternatives)\n\n| Goal | What you\u2019ll do | Key Tools | Quick Tips | Sources",
+  "raw_payload": {
+    "id": "chatcmpl-ad040bcc-6050-4f8c-9d13-8ff949fba9e6",
+    "object": "chat.completion",
+    "created": 1795377339,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "### How to Remove Filler Words from a Video in CapCut (and Alternatives)\n\n| Goal | What you\u2019ll do | Key Tools | Quick Tips | Sources",
+          "reasoning": "We need to answer: remove filler words from video CapCut. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide advice for a content creator in GB. Provide references. Should mention workflow methods: manual editing, AI-based removal, using speech-to-text, etc. Provide key industry options. Provide citations. Provide sources: maybe from tech websites, YouTube tutorials, official docs. Use citations format. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284410945,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006687263,
+      "completion_tokens": 150,
+      "completion_time": 0.167882851,
+      "total_tokens": 286,
+      "total_time": 0.174570114,
+      "completion_tokens_details": {
+        "reasoning_tokens": 110
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_565badff47",
+    "x_groq": {
+      "id": "req_01m82d86kyej8s9xw72qeg80w8",
+      "seed": 824120257
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4312,
+  "cost_usd": 0.0002
+}

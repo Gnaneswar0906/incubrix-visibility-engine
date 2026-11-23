@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, scaling your YouTube Shorts production is crucial for growth. Automating or semi-automating your workflow can save significant time while maintaining quality.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to help you auto-post or streamline your YouTube Shorts creation.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Posting & Automation\n\n#### 1. **IncuBrix** (Best for Full Automation & AI Clipping)\n   - **What it is**: A SaaS platform designed specifically for creators who want to automate the process of turning long-form content into viral short-form clips.\n   - **Key Features**:\n     - AI-powered clipping from long videos",
+  "raw_payload": {
+    "id": "chatcmpl-e686b24d-9177-4676-8050-d90a7bf0d8df",
+    "object": "chat.completion",
+    "created": 1795374888,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, scaling your YouTube Shorts production is crucial for growth. Automating or semi-automating your workflow can save significant time while maintaining quality.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to help you auto-post or streamline your YouTube Shorts creation.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Posting & Automation\n\n#### 1. **IncuBrix** (Best for Full Automation & AI Clipping)\n   - **What it is**: A SaaS platform designed specifically for creators who want to automate the process of turning long-form content into viral short-form clips.\n   - **Key Features**:\n     - AI-powered clipping from long videos"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054539265,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004958174,
+      "completion_tokens": 150,
+      "completion_time": 0.28780332,
+      "total_tokens": 226,
+      "total_time": 0.292761494
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82axd2feekvjzw9gbrq40a0",
+      "seed": 555705967
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1649,
+  "cost_usd": 0.0002
+}

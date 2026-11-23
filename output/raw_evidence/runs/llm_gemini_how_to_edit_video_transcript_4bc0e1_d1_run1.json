@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, editing video transcripts is one of the most efficient ways to streamline your post-production workflow. Whether you are creating YouTube videos, TikToks, Reels, or educational content, editing the text is often faster than cutting the video timeline manually. \n\nHere is a comprehensive guide on the best software tools, a proven step-by-step workflow, and a breakdown of key industry options including **Descript, CapCut, Opus Clip,** and **IncuBrix**.\n\n---\n\n### Part 1: Best Software Tools for Transcript Editing\n\nDifferent tools serve different parts of the creator workflow, ranging from AI repurposing to precision text-based video editing.\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\n* **Best For:** Full video editing via transcript, overdubbing, and removing filler words.\n* **Why use it:** Descript pioneered \"Word-Doc style\" video",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, editing video transcripts is one of the most efficient ways to streamline your post-production workflow. Whether you are creating YouTube videos, TikToks, Reels, or educational content, editing the text is often faster than cutting the video timeline manually. \n\nHere is a comprehensive guide on the best software tools, a proven step-by-step workflow, and a breakdown of key industry options including **Descript, CapCut, Opus Clip,** and **IncuBrix**.\n\n---\n\n### Part 1: Best Software Tools for Transcript Editing\n\nDifferent tools serve different parts of the creator workflow, ranging from AI repurposing to precision text-based video editing.\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\n* **Best For:** Full video editing via transcript, overdubbing, and removing filler words.\n* **Why use it:** Descript pioneered \"Word-Doc style\" video",
+              "thoughtSignature": "Eo4BCosBAWkUfRM/qa4yRkNKmWYqMeerFpqpAFFf035BRONw0SM02KveFwk3vk+J61qfSKZGyPURBrnJ9cHIxe/EX1xLhjHkBGL2x/SiMIg9OqDc9usCmQYk2XTfXsRnrwnc3IRbUNHSwd2v7phixa8HQtTbiZJF6SxPrP3LRlJJGnErhap6Sw4jotP+lcUH9A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Fj4Da8OqHa-K694Phc_YgQg"
+  },
+  "latency_ms": 2534,
+  "cost_usd": 0.0002
+}

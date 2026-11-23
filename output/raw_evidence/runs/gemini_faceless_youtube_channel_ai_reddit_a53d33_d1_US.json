@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to build a **faceless YouTube channel using",
+      "cost_usd": 0.0002,
+      "latency_ms": 7665,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_reddit_a53d33_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a U.S.-based content creator navigate the \"faceless YouTube channel AI\" landscape, the best approach is to synthesize the collective wisdom of online creator communities (like Reddit\u2019s r/NewTubers, r/YouTube_startups, and r/ArtificialInteligence) with current industry stan",
+      "cost_usd": 0.0002,
+      "latency_ms": 2531,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_reddit_a53d33_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_reddit_a53d33_d1_US.json"
+}

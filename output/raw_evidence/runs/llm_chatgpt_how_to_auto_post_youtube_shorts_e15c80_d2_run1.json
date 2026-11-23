@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating your YouTube Shorts workflow is one of the most effective ways to scale your channel without burning out. \"Auto-posting\" in this context usually involves two stages: **automated generation/editing** (turning long-form content into shorts) and **automated publishing** (scheduling the upload).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to streamline this process.\n\n### 1. Best Software Tools for Automation & Editing\n\n#### **A. Auto-Clip Creation (Long-Form \u2192 Shorts)**\nThese tools use AI to identify the most engaging moments in your long videos and automatically cut, caption, and resize them into vertical Shorts.",
+  "raw_payload": {
+    "id": "chatcmpl-bed92636-4232-4d1c-a85a-1f740769ea53",
+    "object": "chat.completion",
+    "created": 1795376709,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating your YouTube Shorts workflow is one of the most effective ways to scale your channel without burning out. \"Auto-posting\" in this context usually involves two stages: **automated generation/editing** (turning long-form content into shorts) and **automated publishing** (scheduling the upload).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to streamline this process.\n\n### 1. Best Software Tools for Automation & Editing\n\n#### **A. Auto-Clip Creation (Long-Form \u2192 Shorts)**\nThese tools use AI to identify the most engaging moments in your long videos and automatically cut, caption, and resize them into vertical Shorts."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047507142,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005556188,
+      "completion_tokens": 150,
+      "completion_time": 0.304782456,
+      "total_tokens": 228,
+      "total_time": 0.310338644
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cmzkwev4t3s9yjhs7hqvp",
+      "seed": 796941950
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1040,
+  "cost_usd": 0.0002
+}

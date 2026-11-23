@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Editing Video\u202f\u2194\u202fTranscript\u202fOnline \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus a curated list of the **best\u2011in\u2011class tools** (including the ones",
+  "raw_payload": {
+    "id": "chatcmpl-ea0a2ac5-299a-4203-887d-045393cd8820",
+    "object": "chat.completion",
+    "created": 1795376547,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing Video\u202f\u2194\u202fTranscript\u202fOnline \u2013 A Practical Guide for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus a curated list of the **best\u2011in\u2011class tools** (including the ones",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for editing video using transcript online. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful to a US content creator. Provide workflow steps, pros/cons, pricing, integration. Provide citations with links. Ensure no disallowed content. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155803227,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005662901,
+      "completion_tokens": 150,
+      "completion_time": 0.313103861,
+      "total_tokens": 284,
+      "total_time": 0.318766762,
+      "completion_tokens_details": {
+        "reasoning_tokens": 92
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cg100ewvr110rhftwnj82",
+      "seed": 1362813588
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2352,
+  "cost_usd": 0.0002
+}

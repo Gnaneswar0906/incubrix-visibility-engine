@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to streamline editing and remove filler words (like \"um,\" \"ah,\" \"you know,\" and awkward pauses) from videos, you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options tailored to your needs.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\nDescript pioneered the concept of editing video by editing text. When you upload a video, it transcribes the audio. You can simply highlight filler words in the transcript and delete them, and the video cuts automatically. It also features **AI Studio Sound** to clean up audio quality and \"Studio Voice\" to remove background noise.\n*   **Best for:** Talking-head videos, podcasts, tutorials, and creators who prefer editing via a script.\n*   ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to streamline editing and remove filler words (like \"um,\" \"ah,\" \"you know,\" and awkward pauses) from videos, you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options tailored to your needs.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\nDescript pioneered the concept of editing video by editing text. When you upload a video, it transcribes the audio. You can simply highlight filler words in the transcript and delete them, and the video cuts automatically. It also features **AI Studio Sound** to clean up audio quality and \"Studio Voice\" to remove background noise.\n*   **Best for:** Talking-head videos, podcasts, tutorials, and creators who prefer editing via a script.\n*   ",
+              "thoughtSignature": "Eo4BCosBAWkUfRO0eoC7MhDBm4G/fUDELlGL5fdNOKXo4GBi97QFzxc3uj+S/cm2x4LXgo/tuT2LmPp6hWnhkLqI43CI/PLObaUI5GmhgQD5FPOwt3YnpG/iicWJh27Dnu9TA6FZM6PC2i/ko7If2H4TNjnbi+Vnfa50idw6kIUVJ5M7Ft6ypURY4sW0xspcbw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "yEEDa_ufPMe3694Pw7D7EA"
+  },
+  "latency_ms": 2328,
+  "cost_usd": 0.0002
+}

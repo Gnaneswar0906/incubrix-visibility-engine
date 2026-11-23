@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai voice",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to"
+            },
+            {
+              "text": " launch or scale a faceless YouTube channel, leveraging AI tools is the most efficient way to handle scriptwriting, voiceovers, video editing, and repurposing. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and an optimized workflow to get your channel monetized and growing.\n\n---\n\n### Part 1: Key Industry Software Tools\n\n#### 1. AI Voice Generators (Text-to-Speech)\nThe quality of AI voices has improved dramatically, moving far beyond robotic tones to hyper-realistic human inflections, pacing, and emotional range.\n*   **ElevenLabs:** Widely regarded as the industry gold standard for AI voiceovers. It offers hyper-realistic human emotion, custom voice cloning, and a massive library of premade commercial voices. YouTube audiences heavily favor ElevenLabs because it doesn't trigger the \"boring robot\" fatigue.\n*   **Play.ht / Murf.ai:** Excellent",
+              "thoughtSignature": "Eo4BCosBAWkUfRPRxTjD2PdXJcix2sCGLc0l1PRWrYq5XzjRUtVk/pWqIYGB6bInJqezm67Cjs/muDNp0vSNdzlr+31VVnfBo1YCDze9Kxn7062Ar/G+Aklh1g0vMkpId/b7CkPUkQNqD98mBhG46OIZnFaSVZ1qUvEGcS0G+KtEM07OmKgu46IXCqdKFZdyWQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 209,
+      "totalTokenCount": 273,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0j8Da_OgHL3BqfkPlYWBWQ"
+  },
+  "latency_ms": 3684,
+  "cost_usd": 0.0002
+}

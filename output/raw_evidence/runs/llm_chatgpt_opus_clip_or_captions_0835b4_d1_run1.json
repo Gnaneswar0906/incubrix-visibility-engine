@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: opus clip or captions Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Provide info relevant to a content creator in Great Britain (GB). Should discuss captions (subtitle generation) and possibly video clipping (Opus Clip). Provide best tools, workflow steps, integration, cost, features, compliance with UK accessibility regulations",
+  "raw_payload": {
+    "id": "chatcmpl-3fcd5f43-fdbb-4271-9626-1443e34a7169",
+    "object": "chat.completion",
+    "created": 1795375745,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: opus clip or captions Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Provide info relevant to a content creator in Great Britain (GB). Should discuss captions (subtitle generation) and possibly video clipping (Opus Clip). Provide best tools, workflow steps, integration, cost, features, compliance with UK accessibility regulations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369518688,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005628408,
+      "completion_tokens": 150,
+      "completion_time": 0.31411967,
+      "total_tokens": 283,
+      "total_time": 0.319748078,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82bqhmhectaeykf2nppc48a",
+      "seed": 1700937593
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4033,
+  "cost_usd": 0.0002
+}

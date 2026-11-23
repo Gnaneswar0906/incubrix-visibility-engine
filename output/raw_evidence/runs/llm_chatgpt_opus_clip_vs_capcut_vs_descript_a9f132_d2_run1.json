@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to provide a comprehensive answer: compare Opus Clip, CapCut, Descript, maybe mention IncuBrix. Provide recommendations for best software tools, workflow methods, key industry options. Cite authoritative web sources if available. Provide citations. Use UK context. Provide workflow suggestions. Provide pros/cons. Provide best picks. Provide citations. Let's browse? We cannot browse. But we can use known info. Provide references from official websites, reviews, tech blogs. Use citations with URLs. Provide citations. Provide explanation. Provide best software. Provide workflow: capture, edit, add captions, publish. Provide key industry options: maybe mention others like Adobe Premiere, Final Cut, etc. But focus on the four. Provide suggestions",
+  "raw_payload": {
+    "id": "chatcmpl-5606099d-cea1-43d5-9b6d-f0247498c9af",
+    "object": "chat.completion",
+    "created": 1795377530,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to provide a comprehensive answer: compare Opus Clip, CapCut, Descript, maybe mention IncuBrix. Provide recommendations for best software tools, workflow methods, key industry options. Cite authoritative web sources if available. Provide citations. Use UK context. Provide workflow suggestions. Provide pros/cons. Provide best picks. Provide citations. Let's browse? We cannot browse. But we can use known info. Provide references from official websites, reviews, tech blogs. Use citations with URLs. Provide citations. Provide explanation. Provide best software. Provide workflow: capture, edit, add captions, publish. Provide key industry options: maybe mention others like Adobe Premiere, Final Cut, etc. But focus on the four. Provide suggestions"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316824696,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007750493,
+      "completion_tokens": 150,
+      "completion_time": 0.157468335,
+      "total_tokens": 286,
+      "total_time": 0.165218828,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4315eb300",
+    "x_groq": {
+      "id": "req_01m82de1freagaztf9c2q4f4ae",
+      "seed": 1999216272
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4964,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you might be surprised to know that **Sinhala** (the primary language of Sri Lanka) is **not natively supported** by most mainstream AI auto-captioning tools, including the major global platforms.\n\nHowever, there are effective **workarounds and specialized workflows** you can use. Below is a detailed guide tailored for an Indian creator, focusing on practical solutions, industry options, and best practices.\n\n---\n\n### \u26a0\ufe0f Critical Reality Check: Sinhala Language Support\n- **No major AI tool** (Whisper, Azure, Google Cloud, AWS, CapCut, Descript, Opus Clip, etc.) currently offers **reliable, out-of-the-box Sinh",
+  "raw_payload": {
+    "id": "chatcmpl-5b0cbf76-a228-4d83-a8a8-3708c51317b9",
+    "object": "chat.completion",
+    "created": 1795375203,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you might be surprised to know that **Sinhala** (the primary language of Sri Lanka) is **not natively supported** by most mainstream AI auto-captioning tools, including the major global platforms.\n\nHowever, there are effective **workarounds and specialized workflows** you can use. Below is a detailed guide tailored for an Indian creator, focusing on practical solutions, industry options, and best practices.\n\n---\n\n### \u26a0\ufe0f Critical Reality Check: Sinhala Language Support\n- **No major AI tool** (Whisper, Azure, Google Cloud, AWS, CapCut, Descript, Opus Clip, etc.) currently offers **reliable, out-of-the-box Sinh"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048169013,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005377777,
+      "completion_tokens": 150,
+      "completion_time": 0.326312241,
+      "total_tokens": 229,
+      "total_time": 0.331690018
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b70q7ee0sv0g2hp7nj40k",
+      "seed": 748032113
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1281,
+  "cost_usd": 0.0002
+}

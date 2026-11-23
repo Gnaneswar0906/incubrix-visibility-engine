@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"opus clip vs streamladder\" and recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources. The user is a content creator located in GB. Provide a comparison between Opus Clip and Streamladder, then recommend best tools/workflows, mention key industry options. Provide citations. Let's search memory: Opus Clip is a video editing tool for creators, AI-powered. Streamladder? Might be a platform for streamlining live streaming? Not sure. Let's quickly recall: Streamladder might be a streaming service? Actually Streamladder is a streaming service for YouTubers",
+  "raw_payload": {
+    "id": "chatcmpl-dcd15542-53d0-4ac4-9d26-dc32de98e03a",
+    "object": "chat.completion",
+    "created": 1795377596,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"opus clip vs streamladder\" and recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources. The user is a content creator located in GB. Provide a comparison between Opus Clip and Streamladder, then recommend best tools/workflows, mention key industry options. Provide citations. Let's search memory: Opus Clip is a video editing tool for creators, AI-powered. Streamladder? Might be a platform for streamlining live streaming? Not sure. Let's quickly recall: Streamladder might be a streaming service? Actually Streamladder is a streaming service for YouTubers"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.153900406,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007310393,
+      "completion_tokens": 150,
+      "completion_time": 0.157452683,
+      "total_tokens": 285,
+      "total_time": 0.164763076,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82dg1h6etqrx2827s9rjz27",
+      "seed": 1482370676
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5891,
+  "cost_usd": 0.0002
+}

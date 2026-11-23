@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to create faceless YouTube channel using AI. Provide recommended software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources if available. The user is a content creator located in IN (India). Provide relevant context. Provide step-by-step workflow, tools, tips, maybe monetization, SEO. Cite sources.\n\nWe need to browse the web? Not possible, but we can provide citations from known sources. We can reference some websites like TechCrunch, YouTube Creator Academy, etc. Provide citations with links. Provide a structured answer.\n\nWe need to mention best software tools: AI video editors (Pictory",
+  "raw_payload": {
+    "id": "chatcmpl-2f8079c9-0830-49e4-9903-ff43fbd77d5c",
+    "object": "chat.completion",
+    "created": 1795375401,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to create faceless YouTube channel using AI. Provide recommended software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources if available. The user is a content creator located in IN (India). Provide relevant context. Provide step-by-step workflow, tools, tips, maybe monetization, SEO. Cite sources.\n\nWe need to browse the web? Not possible, but we can provide citations from known sources. We can reference some websites like TechCrunch, YouTube Creator Academy, etc. Provide citations with links. Provide a structured answer.\n\nWe need to mention best software tools: AI video editors (Pictory"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.366752979,
+      "prompt_tokens": 138,
+      "prompt_time": 0.00700694,
+      "completion_tokens": 150,
+      "completion_time": 0.155274176,
+      "total_tokens": 288,
+      "total_time": 0.162281116,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_aef561cf8e",
+    "x_groq": {
+      "id": "req_01m82bd1krea89vq2t7e96vtgp",
+      "seed": 712062863
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3005,
+  "cost_usd": 0.0002
+}

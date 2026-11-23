@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in Great Britain, finding a reliable, cost-effective workflow to automate the creation and publishing of YouTube Shorts is crucial for scaling your channel. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including th",
+      "cost_usd": 0.0002,
+      "latency_ms": 7510,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_youtube_shorts_free_0e22a2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator based in Great Britain looking to streamline your content creation and publishing pipeline, automating the upload of YouTube Shorts can save you hours each week. \n\nBelow is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a rec",
+      "cost_usd": 0.0002,
+      "latency_ms": 8589,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_youtube_shorts_free_0e22a2_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_youtube_shorts_free_0e22a2_d1_GB.json"
+}

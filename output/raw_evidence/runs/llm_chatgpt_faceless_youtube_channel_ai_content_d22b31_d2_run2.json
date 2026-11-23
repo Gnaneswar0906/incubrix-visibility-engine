@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai content",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! Creating a faceless YouTube channel using AI is a highly effective strategy right now, allowing you to scale content production without appearing on camera. Since you are based in **India (IN)**, I have tailored the tool recommendations to consider **cost-effectiveness**, **English language support**, and **affordability** of subscriptions.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for launching a successful AI-powered faceless YouTube channel.\n\n---\n\n### \ud83d\udd11 Key Industry Options & Top Tools\n\n#### 1. **IncuBrix**\n- **Best for:** End-to-end automation and AI-driven content creation.\n- **Overview:** IncuBrix is a newer AI platform designed specifically",
+  "raw_payload": {
+    "id": "chatcmpl-cb09018d-6d13-4187-8c22-87857285b1c6",
+    "object": "chat.completion",
+    "created": 1795377177,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Creating a faceless YouTube channel using AI is a highly effective strategy right now, allowing you to scale content production without appearing on camera. Since you are based in **India (IN)**, I have tailored the tool recommendations to consider **cost-effectiveness**, **English language support**, and **affordability** of subscriptions.\n\nHere\u2019s a comprehensive guide to the best software tools, workflow methods, and industry options for launching a successful AI-powered faceless YouTube channel.\n\n---\n\n### \ud83d\udd11 Key Industry Options & Top Tools\n\n#### 1. **IncuBrix**\n- **Best for:** End-to-end automation and AI-driven content creation.\n- **Overview:** IncuBrix is a newer AI platform designed specifically"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054593417,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005200072,
+      "completion_tokens": 150,
+      "completion_time": 0.290415091,
+      "total_tokens": 228,
+      "total_time": 0.295615163
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d388ze5sv2ha6kdvw96nc",
+      "seed": 856644067
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1140,
+  "cost_usd": 0.0002
+}

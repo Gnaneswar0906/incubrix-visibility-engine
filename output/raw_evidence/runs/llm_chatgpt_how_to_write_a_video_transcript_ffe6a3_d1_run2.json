@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you\u2019re in a great position to leverage some of the most advanced AI-driven tools available for video transcription. Writing a high-quality video transcript is no longer just about typing out every word; it\u2019s about efficiency, editing by text, and repurposing content.\n\nHere\u2019s a comprehensive guide on how to write a video transcript, including recommended software, workflow methods, and key industry options.\n\n### \ud83c\udfaf What Is a Video Transcript?\nA video transcript is a text-based version of the spoken content in your video. It serves multiple purposes:\n- **SEO:** Search engines can index your video content.\n- **Accessibility:** Helps viewers who are deaf or hard of hearing.\n",
+  "raw_payload": {
+    "id": "chatcmpl-d10fcef3-47aa-4dcd-863e-d548b2f0cb0b",
+    "object": "chat.completion",
+    "created": 1795374601,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you\u2019re in a great position to leverage some of the most advanced AI-driven tools available for video transcription. Writing a high-quality video transcript is no longer just about typing out every word; it\u2019s about efficiency, editing by text, and repurposing content.\n\nHere\u2019s a comprehensive guide on how to write a video transcript, including recommended software, workflow methods, and key industry options.\n\n### \ud83c\udfaf What Is a Video Transcript?\nA video transcript is a text-based version of the spoken content in your video. It serves multiple purposes:\n- **SEO:** Search engines can index your video content.\n- **Accessibility:** Helps viewers who are deaf or hard of hearing.\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047861396,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005123764,
+      "completion_tokens": 150,
+      "completion_time": 0.286050523,
+      "total_tokens": 228,
+      "total_time": 0.291174287
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82ammv6eea8gsj1ks30vxse",
+      "seed": 2135024386
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6683,
+  "cost_usd": 0.0002
+}

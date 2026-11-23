@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: open source text based video editor. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. We must mention open source text-based video editors. Provide recommendations: OpenShot? Not text-based. Maybe \"Shotcut\"? \"DaVinci Resolve\"? Not open source. \"Blender\"? Not text-based. \"FFmpeg\" with scripting? \"OpenCV\"? Not video editor. \"AviSynth\"? Text-based video editing using script. \"VideoLAN's VLCLibrary\"? Not. \"OpenShot\" uses UI.\n\nMaybe \"FFmpeg\" scripting: command-line. \"AviSynth",
+  "raw_payload": {
+    "id": "chatcmpl-2186251e-f556-49df-99fe-2fb14dfdd0f4",
+    "object": "chat.completion",
+    "created": 1795377302,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: open source text based video editor. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. We must mention open source text-based video editors. Provide recommendations: OpenShot? Not text-based. Maybe \"Shotcut\"? \"DaVinci Resolve\"? Not open source. \"Blender\"? Not text-based. \"FFmpeg\" with scripting? \"OpenCV\"? Not video editor. \"AviSynth\"? Text-based video editing using script. \"VideoLAN's VLCLibrary\"? Not. \"OpenShot\" uses UI.\n\nMaybe \"FFmpeg\" scripting: command-line. \"AviSynth"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367942127,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007455192,
+      "completion_tokens": 150,
+      "completion_time": 0.152562029,
+      "total_tokens": 285,
+      "total_time": 0.160017221,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_487ff4efc6",
+    "x_groq": {
+      "id": "req_01m82d7226emhvjq4h3raw58h8",
+      "seed": 238248453
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5453,
+  "cost_usd": 0.0002
+}

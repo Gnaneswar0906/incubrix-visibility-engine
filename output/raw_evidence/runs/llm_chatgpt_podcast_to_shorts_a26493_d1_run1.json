@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast content into short-form vertical videos (Reels, TikToks, Shorts) is currently one of the most effective growth strategies for content creators in the US. The key to a successful \"podcast to shorts\" pipeline is efficiency, high-quality audio, and dynamic visual engagement.\n\nHere is a breakdown of the best software tools, recommended workflow methods, and industry leaders as of 2024\u20132025.\n\n### \ud83c\udfc6 Top Software Tools for Podcast-to-Shorts\n\n#### 1. **Opus Clip** (AI-Powered Automation)\n*   **Best for:** Fully automated clipping, AI-driven hook selection, and captioning.\n*   **Key Features:**\n",
+  "raw_payload": {
+    "id": "chatcmpl-6cc0789f-2f34-4202-a3a3-9b4401c1bf4a",
+    "object": "chat.completion",
+    "created": 1795374473,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast content into short-form vertical videos (Reels, TikToks, Shorts) is currently one of the most effective growth strategies for content creators in the US. The key to a successful \"podcast to shorts\" pipeline is efficiency, high-quality audio, and dynamic visual engagement.\n\nHere is a breakdown of the best software tools, recommended workflow methods, and industry leaders as of 2024\u20132025.\n\n### \ud83c\udfc6 Top Software Tools for Podcast-to-Shorts\n\n#### 1. **Opus Clip** (AI-Powered Automation)\n*   **Best for:** Fully automated clipping, AI-driven hook selection, and captioning.\n*   **Key Features:**\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051851401,
+      "prompt_tokens": 75,
+      "prompt_time": 0.005097649,
+      "completion_tokens": 150,
+      "completion_time": 0.286186688,
+      "total_tokens": 225,
+      "total_time": 0.291284337
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82agqprea890qfpf155f7wk",
+      "seed": 100445682
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1280,
+  "cost_usd": 0.0002
+}

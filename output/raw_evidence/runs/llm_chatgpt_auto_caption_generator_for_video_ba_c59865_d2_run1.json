@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"auto caption generator for video bangla\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to be mindful of policy: Provide factual info, no disallowed content. It's fine.\n\nWe should give overview of auto caption generation for Bangla (Bengali) language, tools that support it, accuracy, workflow steps, integration, cost, etc. Provide citations with URLs.\n\nWe should mention tools: YouTube automatic captions (supports Bengali), Kapwing, Veed.io, Rev.com (auto + human), Subly, Clipchamp, Descript, Op",
+  "raw_payload": {
+    "id": "chatcmpl-710d9464-a83c-480b-98cf-e4ce84112103",
+    "object": "chat.completion",
+    "created": 1795376638,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"auto caption generator for video bangla\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to be mindful of policy: Provide factual info, no disallowed content. It's fine.\n\nWe should give overview of auto caption generation for Bangla (Bengali) language, tools that support it, accuracy, workflow steps, integration, cost, etc. Provide citations with URLs.\n\nWe should mention tools: YouTube automatic captions (supports Bengali), Kapwing, Veed.io, Rev.com (auto + human), Subly, Clipchamp, Descript, Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369485413,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005403324,
+      "completion_tokens": 150,
+      "completion_time": 0.31297645,
+      "total_tokens": 286,
+      "total_time": 0.318379774,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82cjsnzekkvyh1afpm867vz",
+      "seed": 223339791
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2386,
+  "cost_usd": 0.0002
+}

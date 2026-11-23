@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the US, automating your YouTube workflow is crucial for scaling your channel while maintaining quality. \"Auto-uploading\" can mean two different things: **automating the video creation/editing process** (so you can upload more frequently) or **automating the actual upload and scheduling process**.\n\nBelow is a comprehensive breakdown of the best software tools, workflow methods, and industry options to help you build a scalable, semi-automated pipeline.\n\n### \u26a0\ufe0f Important Note on YouTube\u2019s Terms of Service\nYouTube **does not allow fully automated, unmonitored uploads** that bypass human review. Their Community Guidelines prohibit spam and low-effort content. However, **scheduling** and **bulk",
+  "raw_payload": {
+    "id": "chatcmpl-0bd57b32-f1ba-46e7-a43f-9439cb452bfa",
+    "object": "chat.completion",
+    "created": 1795374785,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the US, automating your YouTube workflow is crucial for scaling your channel while maintaining quality. \"Auto-uploading\" can mean two different things: **automating the video creation/editing process** (so you can upload more frequently) or **automating the actual upload and scheduling process**.\n\nBelow is a comprehensive breakdown of the best software tools, workflow methods, and industry options to help you build a scalable, semi-automated pipeline.\n\n### \u26a0\ufe0f Important Note on YouTube\u2019s Terms of Service\nYouTube **does not allow fully automated, unmonitored uploads** that bypass human review. Their Community Guidelines prohibit spam and low-effort content. However, **scheduling** and **bulk"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.162517152,
+      "prompt_tokens": 76,
+      "prompt_time": 0.003166698,
+      "completion_tokens": 150,
+      "completion_time": 0.455235164,
+      "total_tokens": 226,
+      "total_time": 0.458401862
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c17bd6bdd1",
+    "x_groq": {
+      "id": "req_01m82at8f8e5a9thqh5w2j2y35",
+      "seed": 1234199551
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1812,
+  "cost_usd": 0.0002
+}

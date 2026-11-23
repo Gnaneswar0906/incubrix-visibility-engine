@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"podcast shorts video\" - likely the user wants to create short videos from podcasts. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful for content creator in GB. Provide recommended tools, workflow steps, mention key industry options. Provide citations. Provide sources: maybe from websites like techradar, techcrunch, etc. Also mention that Descript is popular, CapCut, Opus Clip, IncuBrix. Provide workflow: recording, editing, transcribing, generating clips, adding subtitles, publishing. Provide steps.\n\nNeed to cite sources. Let's search",
+  "raw_payload": {
+    "id": "chatcmpl-e74aee61-a933-45ab-b43b-7061ffa72658",
+    "object": "chat.completion",
+    "created": 1795377230,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"podcast shorts video\" - likely the user wants to create short videos from podcasts. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful for content creator in GB. Provide recommended tools, workflow steps, mention key industry options. Provide citations. Provide sources: maybe from websites like techradar, techcrunch, etc. Also mention that Descript is popular, CapCut, Opus Clip, IncuBrix. Provide workflow: recording, editing, transcribing, generating clips, adding subtitles, publishing. Provide steps.\n\nNeed to cite sources. Let's search"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156664066,
+      "prompt_tokens": 132,
+      "prompt_time": 0.006332883,
+      "completion_tokens": 150,
+      "completion_time": 0.154719968,
+      "total_tokens": 282,
+      "total_time": 0.161052851,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82d4wcke4nt476ajm3d4vqy",
+      "seed": 844056584
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3529,
+  "cost_usd": 0.0002
+}

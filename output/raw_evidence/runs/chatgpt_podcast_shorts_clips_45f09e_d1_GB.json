@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts clips",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond as an AI assistant, presumably providing recommendations for podcast short clips creation. Must mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 3082,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_clips_45f09e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Snackable Shorts  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good",
+      "cost_usd": 0.0002,
+      "latency_ms": 3226,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_clips_45f09e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_clips_45f09e_d1_GB.json"
+}

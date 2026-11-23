@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai guide",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US build a **faceless YouTube channel**, the modern creator economy offers an unprecedented level of automation. Thanks to generative AI, you can now produce high-retention videos with minimal manual editing. \n\nBelow is a comprehensive guide detail",
+      "cost_usd": 0.0002,
+      "latency_ms": 3329,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_guide_95d582_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Running",
+      "cost_usd": 0.0002,
+      "latency_ms": 7566,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_ai_guide_95d582_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_ai_guide_95d582_d1_US.json"
+}

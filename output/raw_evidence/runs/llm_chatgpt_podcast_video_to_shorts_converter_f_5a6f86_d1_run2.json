@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast video content into short-form clips (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective strategies for audience growth in 2024. Since you are a US-based creator, I\u2019ll focus on tools that offer robust US-based support, clear pricing, and high-quality AI transcription/editing.\n\nBelow is a breakdown of the best **free** and **freemium** tools, along with recommended workflows.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools (Free & Freemium)\n\n#### 1. **CapCut** (Best Overall Free Option)\n- **Why it\u2019s great:** CapCut is widely considered the best free tool for manual short-form editing. It",
+  "raw_payload": {
+    "id": "chatcmpl-7ccebfef-eea3-4c80-b466-0f5bc510538e",
+    "object": "chat.completion",
+    "created": 1795374511,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast video content into short-form clips (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective strategies for audience growth in 2024. Since you are a US-based creator, I\u2019ll focus on tools that offer robust US-based support, clear pricing, and high-quality AI transcription/editing.\n\nBelow is a breakdown of the best **free** and **freemium** tools, along with recommended workflows.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools (Free & Freemium)\n\n#### 1. **CapCut** (Best Overall Free Option)\n- **Why it\u2019s great:** CapCut is widely considered the best free tool for manual short-form editing. It"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048577225,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005513555,
+      "completion_tokens": 150,
+      "completion_time": 0.309185361,
+      "total_tokens": 228,
+      "total_time": 0.314698916
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ahxesesqr573rv23naqy7",
+      "seed": 1454427572
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2941,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to scale your short-form video strategy, automating the posting of YouTube Shorts is one of the best ways to maintain consistency across platforms like TikTok and Instagram Reels. \n\nHere is a comprehensive guide on the best software tools, recommended workflows, and how to leverage industry-standard platforms to streamline your Shorts automation.\n\n---\n\n### 1. Best Software Tools for Auto-Posting & Repurposing\n\nTo successfully auto-post YouTube Shorts, you typically need two types of tools: **AI Repurposing/Editing tools** (to cut long-form content into Shorts) and **Scheduling/Auto-Posting tools** (to push them live).\n\n*   **Opus Clip (AI Repurposing):** \n    *   *What it does:* An industry leader in turning long-form podcasts, streams, or YouTube videos into viral, bite-sized clips. It uses AI to identify hooks,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to scale your short-form video strategy, automating the posting of YouTube Shorts is one of the best ways to maintain consistency across platforms like TikTok and Instagram Reels. \n\nHere is a comprehensive guide on the best software tools, recommended workflows, and how to leverage industry-standard platforms to streamline your Shorts automation.\n\n---\n\n### 1. Best Software Tools for Auto-Posting & Repurposing\n\nTo successfully auto-post YouTube Shorts, you typically need two types of tools: **AI Repurposing/Editing tools** (to cut long-form content into Shorts) and **Scheduling/Auto-Posting tools** (to push them live).\n\n*   **Opus Clip (AI Repurposing):** \n    *   *What it does:* An industry leader in turning long-form podcasts, streams, or YouTube videos into viral, bite-sized clips. It uses AI to identify hooks,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMg6HXVYUYlKWO3wDHAD4oekqqXpF6uL+2TeQ818CBOGTXew07HkSEzEtZUr3K+dAXeNJIfM1Y46wBbhWeUFs89VWgIt+OLD/5w3qrpM14WPygKldq7QeWJ/HtTQx3IHUAHIkQe3lmntXVZD3gePCOmYFWBzoTQNFECImvzBxfm6RkJ4oln7Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Rj8Da8nyK_yI694P567J6A8"
+  },
+  "latency_ms": 5116,
+  "cost_usd": 0.0002
+}

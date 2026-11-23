@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator in the US looking to edit video by transcript, the landscape has shifted significantly toward \"text-based video editing.\" This approach allows you to edit your video as easily as editing a Word document\u2014deleting text to cut video, rearranging sentences to reorder clips, and using AI to remove filler words.\n\nHere are the best software tools, workflow methods, and industry leaders for transcript-based editing in 2024\u20132025.\n\n### \ud83c\udfc6 Top Software Recommendations\n\n#### 1. **Descript** \u2013 *The Industry Standard for Text-Based Editing*\n   - **Best For:** Podcasts, interviews, talking-head videos, and creators who want full control.\n   - **Key Features",
+  "raw_payload": {
+    "id": "chatcmpl-e1ac5410-3906-44aa-92db-3ca421516d46",
+    "object": "chat.completion",
+    "created": 1795376525,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a content creator in the US looking to edit video by transcript, the landscape has shifted significantly toward \"text-based video editing.\" This approach allows you to edit your video as easily as editing a Word document\u2014deleting text to cut video, rearranging sentences to reorder clips, and using AI to remove filler words.\n\nHere are the best software tools, workflow methods, and industry leaders for transcript-based editing in 2024\u20132025.\n\n### \ud83c\udfc6 Top Software Recommendations\n\n#### 1. **Descript** \u2013 *The Industry Standard for Text-Based Editing*\n   - **Best For:** Podcasts, interviews, talking-head videos, and creators who want full control.\n   - **Key Features"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049737534,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004920226,
+      "completion_tokens": 150,
+      "completion_time": 0.285114114,
+      "total_tokens": 226,
+      "total_time": 0.29003434
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cfbw0e9k93x01addxrcnq",
+      "seed": 858122856
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1050,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=video+me+se+silence+kaise+remove+kare",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "video me se silence kaise remove kare",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:56:48.092560Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"video me se silence kaise remove kare\",[],{\"k\":1,\"o\":\"video me se \\u003csc\\u003esilent\\u003c\\/sc\\u003e kaise remove kare\",\"p\":\"video me se \\u003cse\\u003esilence\\u003c\\/se\\u003e kaise remove kare\"}])"
+}

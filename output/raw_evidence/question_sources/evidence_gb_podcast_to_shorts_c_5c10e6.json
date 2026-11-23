@@ -1,0 +1,21 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=podcast+to+shorts+c",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "podcast to shorts c",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:51:55.162172+00:00",
+  "extracted_count": 8,
+  "suggestions": [
+    "podcast to shorts converter",
+    "youtube podcast to shorts converter free",
+    "podcast video to shorts converter free",
+    "podcast shorts channel name ideas",
+    "podcast shorts creator",
+    "podcast shorts clips",
+    "podcast shorts channel monetize or not",
+    "podcast short form"
+  ],
+  "raw_response": "[\"podcast to shorts c\",[\"podcast to shorts converter\",\"youtube podcast to shorts converter free\",\"podcast video to shorts converter free\",\"podcast shorts channel name ideas\",\"podcast shorts creator\",\"podcast shorts clips\",\"podcast shorts channel monetize or not\",\"podcast short form\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390]]}]"
+}

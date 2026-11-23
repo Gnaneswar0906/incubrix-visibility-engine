@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'how to auto generate captions on reels' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 324
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to auto generate captions on reels' in GB, popular recommendations include Munch. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 422
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_how_to_auto_generate_captions_on_re_fd258a_d2_GB.json"
+}

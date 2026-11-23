@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai agent",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Building a **Faceless YouTube Channel** with AI \u2013 Tools",
+      "cost_usd": 0.0002,
+      "latency_ms": 2527,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_agent_496624_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Faceless YouTube Channel \u2013 AI\u2011Powered Production Guide (U.S. Creator)**  \n\nBelow is a practical, end\u2011to\u2011end workflow that lets you produce high\u2011quality faceless videos (voice\u2011over, animation, stock footage, AI\u2011generated visuals, etc.) while keeping the process as automated as possible",
+      "cost_usd": 0.0002,
+      "latency_ms": 2784,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_agent_496624_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_agent_496624_d2_US.json"
+}

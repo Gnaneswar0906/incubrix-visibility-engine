@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Captioning\u202fSinhala\u202fVideos \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical \u201ctool\u2011and\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-912c4e17-701f-49f7-b7a7-13da415b401a",
+    "object": "chat.completion",
+    "created": 1795375202,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Captioning\u202fSinhala\u202fVideos \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical \u201ctool\u2011and\u2011",
+          "reasoning": "We need to respond as AI assistant, providing recommendations for auto caption generator for video Sinhala. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in IN (India). We should tailor suggestions for Indian context, possibly mention local language support, offline options, cost. Provide workflow steps: transcribe, edit, sync, export. Provide sources with URLs. Ensure not to violate policy. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.321339591,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005504078,
+      "completion_tokens": 150,
+      "completion_time": 0.312966757,
+      "total_tokens": 286,
+      "total_time": 0.318470835,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82b6z2neybtb2jk9hwneqm8",
+      "seed": 790073685
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3122,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating your video delivery to YouTube is a powerful way to save time and maintain consistency. **n8n** is an excellent choice for this because it is self-hostable (great for privacy and cost control), highly customizable, and has a growing library of nodes.\n\nBelow is a comprehensive guide on how to build an \"Auto-Upload Video to YouTube\" workflow in n8n, along with recommended complementary tools and key industry options.\n\n---\n\n### \ud83d\ude80 Core Workflow: Auto-Upload to YouTube with n8n\n\nThere is no single \"magic button\" for full automation because YouTube requires **OAuth authentication** and often **manual review** for copyright/strikes. However,",
+  "raw_payload": {
+    "id": "chatcmpl-85b7818c-7d03-42f1-a0df-b1a62adfd17b",
+    "object": "chat.completion",
+    "created": 1795374891,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating your video delivery to YouTube is a powerful way to save time and maintain consistency. **n8n** is an excellent choice for this because it is self-hostable (great for privacy and cost control), highly customizable, and has a growing library of nodes.\n\nBelow is a comprehensive guide on how to build an \"Auto-Upload Video to YouTube\" workflow in n8n, along with recommended complementary tools and key industry options.\n\n---\n\n### \ud83d\ude80 Core Workflow: Auto-Upload to YouTube with n8n\n\nThere is no single \"magic button\" for full automation because YouTube requires **OAuth authentication** and often **manual review** for copyright/strikes. However,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047643208,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005229662,
+      "completion_tokens": 150,
+      "completion_time": 0.285036514,
+      "total_tokens": 230,
+      "total_time": 0.290266176
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82axfyne82a4n9n9g177fc4",
+      "seed": 735846199
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2684,
+  "cost_usd": 0.0002
+}

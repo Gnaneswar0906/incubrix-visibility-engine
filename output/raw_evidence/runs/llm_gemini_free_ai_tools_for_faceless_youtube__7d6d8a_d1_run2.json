@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel has become one of the most accessible ways to enter the creator economy, thanks to rapid advancements in generative AI. As a creator in the UK, leveraging the right free (or freemium) tools can automate everything from scriptwriting and voiceovers to editing and clipping. \n\nHere is a comprehensive guide to the best tools, a streamlined workflow, and industry standards to launch your faceless channel efficiently.\n\n---\n\n### 1. Key Industry Options & Recommended Free AI Tools\n\n#### **Scriptwriting & Ideation**\n*   **ChatGPT (OpenAI) / Claude (Anthropic):** The gold standard for generating video outlines, full scripts, and catchy titles. Both offer robust free tiers. \n*   *Tip for UK Creators:* Prompt the AI to use British English spelling and natural, engaging phrasing suited to UK audiences if that\u2019s your target demographic.\n\n#### **Voiceovers (Text-to-Speech)**\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel has become one of the most accessible ways to enter the creator economy, thanks to rapid advancements in generative AI. As a creator in the UK, leveraging the right free (or freemium) tools can automate everything from scriptwriting and voiceovers to editing and clipping. \n\nHere is a comprehensive guide to the best tools, a streamlined workflow, and industry standards to launch your faceless channel efficiently.\n\n---\n\n### 1. Key Industry Options & Recommended Free AI Tools\n\n#### **Scriptwriting & Ideation**\n*   **ChatGPT (OpenAI) / Claude (Anthropic):** The gold standard for generating video outlines, full scripts, and catchy titles. Both offer robust free tiers. \n*   *Tip for UK Creators:* Prompt the AI to use British English spelling and natural, engaging phrasing suited to UK audiences if that\u2019s your target demographic.\n\n#### **Voiceovers (Text-to-Speech)**\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRO0gFqeIZAVI1pU+1jPqxAz8VkFLPI363Rmw0Q9a6ez5X92cbw4pN+S8Sz/80BYl1jz8BxtoxnIl46QVNX7wkNBsF60mHNVaFQ3SAW7xD9teCJ/D4fEgk76MvkrdbiP0XovHxlyRMdzvdizZpr5L6ExcbGvNyXQhK+rsbthuMLAWT/bq/3M7Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0kIDa9j3MNTNjuMP2tCUoA8"
+  },
+  "latency_ms": 2740,
+  "cost_usd": 0.0002
+}

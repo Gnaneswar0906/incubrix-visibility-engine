@@ -1,0 +1,111 @@
+{
+  "query": "auto generate captions for video capcut",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=EeU6Og9lRhc",
+  "competitors_named": "CapCut, Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto generate captions for video capcut",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Auto Captions in CapCut (Talking Head Video in 2 Minutes)",
+        "link": "https://www.youtube.com/watch?v=EeU6Og9lRhc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this CapCut mobile tutorial, you'll learn how to trim your clip, generate captions instantly, customize the style, and fix mistakes \u2014\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Add Subtitles to Video Free | Restyle Your Video",
+        "link": "https://www.capcut.com/tools/add-subtitles-to-video",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a add-subtitles-to-video",
+        "snippet": "Instant auto-caption generation. CapCut's subtitle generator utilizes advanced AI technology to automatically recognize spoken words in your video and convert ...",
+        "position": 2
+      },
+      {
+        "title": "Smart Auto Caption Generator",
+        "link": "https://www.capcut.com/tools/auto-caption-generator",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a auto-caption-generator",
+        "snippet": "1. Navigate to 'Text', select 'Auto captions', and click the Generate button. \u00b7 2. Let the generator automatically recognize the video's language and instantly ...",
+        "position": 3
+      },
+      {
+        "title": "Add Auto Captions in Seconds for FREE ...",
+        "link": "https://www.youtube.com/shorts/oUHXVaqnj2I",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a oUHXVaqnj2I",
+        "position": 4
+      },
+      {
+        "title": "CapCut captions aren't free anymore. Here's a better option.",
+        "link": "https://www.descript.com/blog/article/capcut-captions-arent-free-anymore-heres-a-better-option",
+        "displayedLink": "https://www.descript.com \u203a blog \u203a article \u203a capcut-captions-arent-free-...",
+        "snippet": "CapCut moved auto captions to a paid plan. CapCut removed auto captions from its free plan in 2025. It now requires a Pro subscription.",
+        "date": "Jul 29, 2026",
+        "position": 5
+      },
+      {
+        "title": "How To Add Animated Captions In CapCut!",
+        "link": "https://www.youtube.com/watch?v=Z1iXjrAMAu0&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Adding animated captions to your videos is FREE & easy with the latest update to the CapCut desktop app. Captions > Caption Templates > Choose\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "How To Add English Subtitles Using CapCut Auto Captions Feature",
+        "link": "https://www.youtube.com/watch?v=VZwFFwUSec0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "I show you how to add English subtitles using the Auto caption feature. Be aware that CapCut uses the audio recordings from your videos to\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "AI Captions | All-In-One Video Editing Software",
+        "link": "https://www.capcut.com/magic-tools/ai-captions",
+        "displayedLink": "https://www.capcut.com \u203a magic-tools \u203a ai-captions",
+        "snippet": "Upload video to generate captions. Video must be under 20 minutes. Upload video. Select spoken language. : Auto detect. No videos? Try our sample clips.",
+        "position": 8
+      },
+      {
+        "title": "How to make Auto Captions using CapCut ...",
+        "link": "https://www.youtube.com/shorts/bzaOHsQ-HBc?vl=en-US",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a bzaOHsQ-HBc",
+        "position": 9
+      },
+      {
+        "title": "AI Subtitle Generator | Create Auto Captions in a Click",
+        "link": "https://www.capcut.com/resource/ai-subtitle-generator",
+        "displayedLink": "https://www.capcut.com \u203a resource \u203a ai-subtitle-generator",
+        "snippet": "Simply upload your video to the CapCut app, select the auto caption tool, and choose the language used in your video. CapCut's AI will then ...",
+        "date": "Dec 31, 2025",
+        "position": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "How to do auto captions on CapCut PC"
+      },
+      {
+        "query": "CapCut auto captions free"
+      },
+      {
+        "query": "Best auto generate captions for video capcut"
+      },
+      {
+        "query": "Auto generate captions for video capcut online"
+      },
+      {
+        "query": "Auto generate captions for video capcut free"
+      },
+      {
+        "query": "How to add subtitles on CapCut Mobile"
+      }
+    ],
+    "credits": 1
+  }
+}

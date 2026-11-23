@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=text+based+video+editor",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "text based video editor",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:52:54.555693+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "text based video editor",
+    "text based video editor free",
+    "text based video editing",
+    "text based video editing davinci resolve",
+    "text based video editing software",
+    "text-based video editing premiere pro",
+    "text based video editing capcut",
+    "text based video editing ai",
+    "text based video editing vimeo",
+    "text based video editing final cut pro"
+  ],
+  "raw_response": "[\"text based video editor\",[\"text based video editor\",\"text based video editor free\",\"text based video editing\",\"text based video editing davinci resolve\",\"text based video editing software\",\"text-based video editing premiere pro\",\"text based video editing capcut\",\"text based video editing ai\",\"text based video editing vimeo\",\"text based video editing final cut pro\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30,10],[22,30],[22,30],[22,30],[22,30]]}]"
+}

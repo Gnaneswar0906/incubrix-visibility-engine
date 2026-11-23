@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'auto generate subtitles for youtube videos' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 371
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate subtitles for youtube videos' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 428
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_generate_subtitles_for_youtube_381fdb_d2_US.json"
+}

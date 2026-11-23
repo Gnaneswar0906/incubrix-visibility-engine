@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "start a faceless youtube channel with ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel using AI is one of the most accessible digital entrepreneurship paths today. By",
+      "cost_usd": 0.0002,
+      "latency_ms": 6722,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_start_a_faceless_youtube_channel_wi_10aace_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'start a faceless youtube channel with ai' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 413
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_start_a_faceless_youtube_channel_wi_10aace_d1_GB.json"
+}

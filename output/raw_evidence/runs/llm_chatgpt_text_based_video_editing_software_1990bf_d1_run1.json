@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are in a prime position to leverage the rapidly evolving landscape of **text-based video editing**. This technology allows you to edit video by editing the transcript, which significantly speeds up post-production, especially for talking-head videos, podcasts, and interviews.\n\nBelow are the top recommended software tools, workflow methods, and key industry options, with insights from authoritative sources.\n\n### \ud83c\udfc6 Top Recommended Text-Based Video Editing Software\n\n#### 1. Descript (Industry Leader)\n**Best for:** Podcasters, interviewers, and creators who want a full DAW-like experience for video.\n- **Why it\u2019s top-tier:** Descript pioneered text-based editing. You record video, it",
+  "raw_payload": {
+    "id": "chatcmpl-06d9811f-6075-4cc0-896f-d872a92793d6",
+    "object": "chat.completion",
+    "created": 1795374647,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are in a prime position to leverage the rapidly evolving landscape of **text-based video editing**. This technology allows you to edit video by editing the transcript, which significantly speeds up post-production, especially for talking-head videos, podcasts, and interviews.\n\nBelow are the top recommended software tools, workflow methods, and key industry options, with insights from authoritative sources.\n\n### \ud83c\udfc6 Top Recommended Text-Based Video Editing Software\n\n#### 1. Descript (Industry Leader)\n**Best for:** Podcasters, interviewers, and creators who want a full DAW-like experience for video.\n- **Why it\u2019s top-tier:** Descript pioneered text-based editing. You record video, it"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049922625,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005072055,
+      "completion_tokens": 150,
+      "completion_time": 0.285076612,
+      "total_tokens": 227,
+      "total_time": 0.290148667
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82ap1dyen4tvcrh0hhamcra",
+      "seed": 1122410616
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1612,
+  "cost_usd": 0.0002
+}

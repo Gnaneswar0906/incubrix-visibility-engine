@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for video reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Subtitles for Reddit Videos \u2013 A Practical Guide for Indian Creators  \n\nBelow is a **step\u2011by\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-8a49f361-fdab-42a0-b841-40c9c2404729",
+    "object": "chat.completion",
+    "created": 1795376997,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Subtitles for Reddit Videos \u2013 A Practical Guide for Indian Creators  \n\nBelow is a **step\u2011by\u2011",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India, query about auto generating subtitles for video Reddit. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, include steps, pros/cons, pricing, integration with Reddit, etc. Also mention Indian context maybe local language support. Provide citations with links. Must comply with policy: no disallowed content. It's fine. Provide citations in brackets with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157599996,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005729083,
+      "completion_tokens": 150,
+      "completion_time": 0.311719315,
+      "total_tokens": 285,
+      "total_time": 0.317448398,
+      "completion_tokens_details": {
+        "reasoning_tokens": 116
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82cxrdne6f96skq4kfc3eqd",
+      "seed": 863369226
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3716,
+  "cost_usd": 0.0002
+}

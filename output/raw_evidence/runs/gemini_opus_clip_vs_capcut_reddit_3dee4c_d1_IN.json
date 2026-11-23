@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in **India (IN)**, navigating the landscape of AI-driven video repurposing can be overwhelming. When looking at real-world creator sentiment\u2014specifically discussions on platforms like **Reddit (r/NewTubers, r/VideoEditing, r/ContentCreators)**\u2014creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 2153,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_capcut_reddit_3dee4c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in India (IN) looking to break down long-form videos (like YouTube podcasts, VODs, or tutorials) into viral short-form clips for YouTube Shorts, Instagram Reels, and TikTok, you are stepping into a very mature market. \n\nBased on discussions and consensus across creator communiti",
+      "cost_usd": 0.0002,
+      "latency_ms": 2197,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_capcut_reddit_3dee4c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_capcut_reddit_3dee4c_d1_IN.json"
+}

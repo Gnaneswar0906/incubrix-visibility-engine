@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK (GB), you are in a strong position to leverage cross-platform automation, but you must navigate specific technical and legal nuances. Direct \"auto-posting\" from YouTube to TikTok is not natively supported by either platform due to API restrictions and copyright policies. However, you can build a **semi-automated or fully automated workflow** using third-party tools.\n\nBelow are the best software tools, workflow methods, and industry options tailored for UK-based creators, including compliance considerations.\n\n### \u26a0\ufe0f Critical Legal & Platform Compliance Note (UK Context)\n- **TikTok\u2019s Terms of Service**: Prohibit automating account actions (like posting) without explicit API access. Using unofficial",
+  "raw_payload": {
+    "id": "chatcmpl-1c2c8887-dec4-4128-9a63-43f9046124d7",
+    "object": "chat.completion",
+    "created": 1795375709,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK (GB), you are in a strong position to leverage cross-platform automation, but you must navigate specific technical and legal nuances. Direct \"auto-posting\" from YouTube to TikTok is not natively supported by either platform due to API restrictions and copyright policies. However, you can build a **semi-automated or fully automated workflow** using third-party tools.\n\nBelow are the best software tools, workflow methods, and industry options tailored for UK-based creators, including compliance considerations.\n\n### \u26a0\ufe0f Critical Legal & Platform Compliance Note (UK Context)\n- **TikTok\u2019s Terms of Service**: Prohibit automating account actions (like posting) without explicit API access. Using unofficial"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052959406,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005177784,
+      "completion_tokens": 150,
+      "completion_time": 0.309738116,
+      "total_tokens": 229,
+      "total_time": 0.3149159
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bpepdecmbgh9604803pjn",
+      "seed": 1832533343
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1476,
+  "cost_usd": 0.0002
+}

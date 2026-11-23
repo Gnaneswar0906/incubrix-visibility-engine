@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts app",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to break down long-form audio/video into engaging podcast shorts (Reels, TikToks, and YouTube Shorts), you have access to some of the most powerful AI-driven repurposing tools on the market. \n\nTo help you build an efficient, modern workflow, here is a brea",
+      "cost_usd": 0.0002,
+      "latency_ms": 9498,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_app_996ac6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in Great Britain looking to break into or scale up with podcast shorts (vertical video clips optimized for TikTok, Instagram Reels, and YouTube Shorts), choosing the right toolkit and workflow is essential for maximizing growth and saving time. \n\nHere is a comprehensive guide to",
+      "cost_usd": 0.0002,
+      "latency_ms": 7034,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_app_996ac6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_app_996ac6_d1_GB.json"
+}

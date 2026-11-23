@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can tell you that **text-based video editing** (editing video by manipulating a transcript like a Word document) has completely revolutionized post-production. It allows creators to cut out filler words, rearrange sentences, and delete unwant",
+      "cost_usd": 0.0002,
+      "latency_ms": 2343,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_using_transcript_a9119e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For content creators in the US looking to edit video using transcripts\u2014a modern post-production technique often called **Text-Based Video Editing**\u2014the workflow has completely transformed. Instead of scrubbing through a timeline, you simply highlight, delete, or rearrange text in a word processor, a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2457,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_using_transcript_a9119e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_edit_video_using_transcript_a9119e_d1_US.json"
+}

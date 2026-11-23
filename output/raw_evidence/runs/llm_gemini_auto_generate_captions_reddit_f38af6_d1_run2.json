@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For content creators in **India (IN)** looking to auto-generate captions from Reddit content\u2014whether you are creating text-to-speech Reddit story videos for YouTube Shorts, Instagram Reels, or translating",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in **India (IN)** looking to auto-generate captions from Reddit content\u2014whether you are creating text-to-speech Reddit story videos for YouTube Shorts, Instagram Reels, or translating"
+            },
+            {
+              "text": " Reddit discussions into engaging vertical videos\u2014having the right workflow and software is essential. \n\nHere is a comprehensive guide tailored to your query, covering top industry tools, an optimized workflow, and how key software options stack up.\n\n---\n\n### 1. Key Industry Software Options\n\nWhen it comes to auto-generating captions and repurposing Reddit content into video, several tools stand out in the creator economy:\n\n*   **CapCut (Best for Mobile & Manual Control):** \n    *   *Why use it:* CapCut has arguably the most accurate, free auto-caption engine on the market. It offers trendy, animated caption styles popular on TikTok and Reels. \n    *   *IN Context:* While the Indian government banned the mobile app version of TikTok, CapCut remains accessible via specific workarounds or desktop applications, though creators should verify current regional availability and network policies. Its desktop version is widely used globally.\n*   **Opus Clip (Best for Long",
+              "thoughtSignature": "Eo4BCosBAWkUfRPFlw/vBMcJsDQzjRN9wWYZaV6eme3Ga3Xp2qFANnIs4SpcB4ZWNhyrYO5WdIt0p6DnxvPMvzPqXGlxftc82XdZsEOxEsvJdCWH9dSCmNdFg8OARhFvN2uGPMxkB9JK50bW8EkUmrKbpijiernXsnSlvRxPgFxagXh878TWTVvyO5ApN6dHqw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 240,
+      "totalTokenCount": 302,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "b0ADa93dJJiC3LUP4_-I0Ag"
+  },
+  "latency_ms": 3118,
+  "cost_usd": 0.0002
+}

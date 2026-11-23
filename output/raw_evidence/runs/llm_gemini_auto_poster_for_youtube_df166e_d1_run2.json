@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to streamline your workflow with an **auto-poster for YouTube** and accompanying automation tools, the goal is to move from raw footage to a scheduled, optimized YouTube upload with minimal manual friction. \n\nTrue \"auto-posting\" for YouTube usually involves a combination of **AI editing/repurposing tools** (to generate the content) and **social media management/scheduling platforms** (to handle the auto-posting via the YouTube API).\n\nHere is a breakdown of the best software tools, key industry options (including your mentioned tools), and an efficient workflow method tailored",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to streamline your workflow with an **auto-poster for YouTube** and accompanying automation tools, the goal is to move from raw footage to a scheduled, optimized YouTube upload with minimal manual friction. \n\nTrue \"auto-posting\" for YouTube usually involves a combination of **AI editing/repurposing tools** (to generate the content) and **social media management/scheduling platforms** (to handle the auto-posting via the YouTube API).\n\nHere is a breakdown of the best software tools, key industry options (including your mentioned tools), and an efficient workflow method tailored"
+            },
+            {
+              "text": " for the UK market.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### A. Repurposing & Auto-Editing (The Content Engines)\nBefore you auto-post, you need content\u2014ideally short-form clips (YouTube Shorts) derived from long-form videos to maximize channel growth.\n\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It analyzes long-form talking-head videos, extracts the most engaging hooks, adds captions, and formats them into vertical Shorts. According",
+              "thoughtSignature": "Eo4BCosBAWkUfRMNAaqtVXrQ0kUdUIzpTtpPRJgvnOrcRra0Nt6vwjaBa36vVO/ROJRC1l5pjJegah/nNYVHuMW+4iJlRc028Agr337cTwq8gezhYYhoGS8HbHNhH7y15e/S+icqEDZnUIrz07+rx4NDgUdlfools5ZR28EvceF1tOMvtKSuu+88XsPivL7xFQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 233,
+      "totalTokenCount": 295,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "eUIDa4XSHfCbz7sP0vTvmAk"
+  },
+  "latency_ms": 2901,
+  "cost_usd": 0.0002
+}

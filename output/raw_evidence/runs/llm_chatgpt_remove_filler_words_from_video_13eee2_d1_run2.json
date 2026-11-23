@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations on removing filler words from video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide authoritative web sources citations if available. Need to tailor to content creator in GB (UK). Provide suggestions, workflow, pros/cons, pricing, integration, etc. Also mention AI tools that can auto-detect filler words and remove them.\n\nWe need to cite sources; can reference official sites, reviews, articles. Provide links.\n\nMake sure to comply with policy: no disallowed content. It's fine.\n\nWill provide structured answer: overview, key tools, workflow steps, comparison table, tips for UK creators (e.g., GDPR compliance,",
+  "raw_payload": {
+    "id": "chatcmpl-2140cd08-6ca1-41e2-bc15-b7c39494be3d",
+    "object": "chat.completion",
+    "created": 1795375545,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations on removing filler words from video, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide authoritative web sources citations if available. Need to tailor to content creator in GB (UK). Provide suggestions, workflow, pros/cons, pricing, integration, etc. Also mention AI tools that can auto-detect filler words and remove them.\n\nWe need to cite sources; can reference official sites, reviews, articles. Provide links.\n\nMake sure to comply with policy: no disallowed content. It's fine.\n\nWill provide structured answer: overview, key tools, workflow steps, comparison table, tips for UK creators (e.g., GDPR compliance,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155754163,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005360556,
+      "completion_tokens": 150,
+      "completion_time": 0.312773043,
+      "total_tokens": 284,
+      "total_time": 0.318133599,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82bheyfekfr3y8mmqd3x21w",
+      "seed": 1497281453
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2975,
+  "cost_usd": 0.0002
+}

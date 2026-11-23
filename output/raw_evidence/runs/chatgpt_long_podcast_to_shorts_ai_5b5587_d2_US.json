@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Turning a Long Podcast into Snack\u2011Size Shorts \u2013 A Practical Toolkit (US\u2011Focused)\n\nBelow is a **step\u2011by\u2011step workflow** plus",
+      "cost_usd": 0.0002,
+      "latency_ms": 2453,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_long_podcast_to_shorts_ai_5b5587_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for turning long podcasts into shorts using AI. Need to cite authoritative web sources if available. Provide a structured answer: overview, workflow s",
+      "cost_usd": 0.0002,
+      "latency_ms": 2178,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_long_podcast_to_shorts_ai_5b5587_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_long_podcast_to_shorts_ai_5b5587_d2_US.json"
+}

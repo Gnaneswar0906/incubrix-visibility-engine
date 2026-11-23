@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US, editing videos via text (commonly known as **text-based video editing**) is one of the biggest workflow game-changers in recent years. Instead of meticulously cutting visual timelines, you edit a transcript\u2014deleting a paragraph of text automatically deletes that corre",
+      "cost_usd": 0.0002,
+      "latency_ms": 5059,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_a_video_with_words_ae1d8d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'how to edit a video with words' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 357
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_a_video_with_words_ae1d8d_d1_US.json"
+}

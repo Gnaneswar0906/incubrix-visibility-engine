@@ -1,0 +1,130 @@
+{
+  "query": "what's autoplay on youtube",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6327615?hl=en",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what's autoplay on youtube",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Autoplay videos - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6327615?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6327615",
+        "snippet": "The Autoplay feature on YouTube makes it easier to decide what to watch next. When Autoplay is on, another related video will automatically play after a video ...",
+        "position": 1
+      },
+      {
+        "title": "The Autoplay feature on YouTube makes it easier to decide what ...",
+        "link": "https://www.youtube.com/shorts/XvPXzCxgmlE",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a XvPXzCxgmlE",
+        "position": 2
+      },
+      {
+        "title": "what is this thing for/what does it do? : r/youtube",
+        "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a what_is_this_thing_forwhat_...",
+        "snippet": "That's autoplay. Basically, it controls whether or not another related video plays automatically after the one you're watching ends. It's nice ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lkljd/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lhfe6/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lcznj/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lqvbs/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lvcmr/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lw4gw/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9m6yz0/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9ma18k/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9mc393/"
+          },
+          {
+            "title": "where the hell is auto playr/youtube\u00b740+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/youtube/comments/1p0p9go/where_the_hell_is_auto_play/"
+          },
+          {
+            "title": "How do I turn off auto play?r/youtube\u00b750+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "How to Autoplay Videos on YouTube",
+        "link": "https://www.youtube.com/watch?v=Wkr2n5Fs_NA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "The Autoplay feature on YouTube makes it easier to decide what to watch next. After you watch a YouTube video, we'll automatically play\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "YouTube's new instant auto-play feature is terrible, and it's spoiling my ...",
+        "link": "https://www.androidpolice.com/youtubes-new-instant-autoplay-feature-is-terrible-and-its-spoiling-my-enjoyment/",
+        "displayedLink": "https://www.androidpolice.com \u203a youtubes-new-instant-autopl...",
+        "snippet": "Here's how it works now. About 20 seconds before the video you're watching ends, a small window appears in the corner of the screen with the ...",
+        "date": "27 Apr 2026",
+        "position": 5
+      },
+      {
+        "title": "How to Turn On Autoplay on YouTube",
+        "link": "https://www.youtube.com/watch?v=xCJr5xFlTt4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Enable YouTube autoplay for videos and video previews. You'll learn where to find the desktop autoplay toggle, enable video previews on hover,\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "Autoplay Settings for YouTube - Chrome Web Store",
+        "link": "https://chromewebstore.google.com/detail/autoplay-settings-for-you/aogbgdnkcjgamgglpikcenliinchedel",
+        "displayedLink": "https://chromewebstore.google.com \u203a detail \u203a autoplay-settings-for-you \u203a aogbgdnkcjgamgglpikcenliinc...",
+        "snippet": "Autoplay Settings for YouTube\u2122 is a browser extension that disables the automatic playback of the next video on YouTube\u2122, and remembers your autoplay settings ...",
+        "position": 7
+      },
+      {
+        "title": "What Is YouTube Autoplay",
+        "link": "https://www.facebook.com/fb-answers/what-is-youtube-autoplay/",
+        "displayedLink": "https://www.facebook.com \u203a fb-answers \u203a what-is-youtube-autoplay",
+        "snippet": "YouTube autoplay is the feature that automatically plays the next video after the one you're watching, often based on similar content or your watch history.",
+        "position": 8
+      },
+      {
+        "title": "Autoplay Definition - YouTube Explained",
+        "link": "https://www.tella.com/definition/autoplay",
+        "displayedLink": "https://www.tella.com \u203a definition \u203a autoplay",
+        "snippet": "Autoplay in YouTube is a feature that automatically plays a suggested video immediately after the completion of the video you are currently watching.",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

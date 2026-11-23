@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos to a Facebook Page, the goal is twofold: **repurposing the content** for optimal engagement on Meta\u2019s platform (which favors native video uploads over mere YouTube links) and **autom",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos to a Facebook Page, the goal is twofold: **repurposing the content** for optimal engagement on Meta\u2019s platform (which favors native video uploads over mere YouTube links) and **autom"
+            },
+            {
+              "text": "ating the publishing workflow**. \n\nHere is a comprehensive guide to the best tools, workflow methods, and industry-standard software to streamline this process.\n\n---\n\n### 1. The Best Workflow Method: Native Uploads vs. RSS Automation\n\nTo maximize reach on Facebook, **do not simply drop a YouTube link**. Facebook\u2019s algorithm heavily suppresses outbound links. \n\n*   **The Optimal Workflow:** \n    1. Extract your long-form YouTube video.\n    2. Use AI tools to slice it into short, vertical clips (Reels) and format it for Facebook.\n    3. Upload the video **natively** to your Facebook Page using automation tools.\n\n---\n\n### 2. Recommended Software Tools & Industry Options\n\n#### **A. Content Repurposing & Editing (Preparing for Facebook)**\nBefore automating the post, you need to optimize your YouTube video for Facebook\u2019s preference for short-form video (Reels) and captioned content.",
+              "thoughtSignature": "Eo4BCosBAWkUfROYLvp7hK2utVCQUW7CQd/Sl5GQ24ht+9FKipBmaRDlD8dFRw4demY6aeEJ5x1NHQvLfNLTwx4ZstVntIUi0o17HUUmItURATEwbWRf8J8BT8kkl98k4fiDhVQ/7vEYew3Z234mNQJV+XiZoIW6laPz3tNzDVXbz68w9N90LJIlbyDYBqlj9Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 257,
+      "totalTokenCount": 324,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nEADa5uxMOfF1_oPu7aywA8"
+  },
+  "latency_ms": 4089,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to a robust ecosystem of AI-powered tools and platforms. Captions are no longer just an accessibility feature; according to industry data from platforms like Meta and TikTok, the vast majority of users watch videos with the sound off, making dynamic, accurate",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to create auto-captions for free, you have access to a robust ecosystem of AI-powered tools and platforms. Captions are no longer just an accessibility feature; according to industry data from platforms like Meta and TikTok, the vast majority of users watch videos with the sound off, making dynamic, accurate"
+            },
+            {
+              "text": " captions essential for engagement and retention.\n\nHere is a comprehensive guide to the best software tools, a recommended workflow, and a breakdown of the key industry options you mentioned.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\n#### **CapCut (Best Overall for Mobile & Desktop - Free Tier)**\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is arguably the most popular free video editor globally. \n*   **Auto-Caption Feature:** It offers an \"Auto Captions\" feature that generates subtitles in seconds across dozens of languages with high accuracy. \n*   **GB Context:** Extremely popular among UK TikTokers, Instagram Reels, and YouTube Shorts creators.\n*   **Cost:** Highly generous free version (watermarks can be removed).\n\n#### **IncuBrix (Best for Specialized/Niche Workflows)**\n*   **Overview:** IncuBrix is emerging in the creator space as an agile",
+              "thoughtSignature": "Eo4BCosBAWkUfRM9v+B5LDpI/RF5JrB/RU7kpH5evbCinE+X7GLV9nOI57nSdjAmbMFcBqgxQkdh5HRdZklWmv3uIbOuHgfBAUEV50YqBicP2EgBpaKAN0vPDBE0ehEySzrF0hVGv3EKYJmnScgPs7x9K5VGwoHIBomf7kPeu4CCWVh5TlsUJKWQxDLUwwS69A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 272,
+      "totalTokenCount": 335,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "DkIDa47JLIej694P0qqyuQI"
+  },
+  "latency_ms": 4062,
+  "cost_usd": 0.0002
+}

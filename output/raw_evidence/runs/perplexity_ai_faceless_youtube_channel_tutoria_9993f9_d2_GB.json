@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'ai faceless youtube channel tutorial 2026' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 441
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'ai faceless youtube channel tutorial 2026' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 474
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_ai_faceless_youtube_channel_tutoria_9993f9_d2_GB.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus one review",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"opus one review\". The user is a content creator located in IN (India). They want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to give a review of Opus One? Possibly \"Opus One\" is a video editing or AI tool? Actually \"Opus One\" could be a music mastering plugin? But given context of content creation, likely they refer to \"Opus One\" maybe a video editing AI tool? There is \"Opus Clip\" (AI video summarizer). \"Opus One\" might be a new AI",
+  "raw_payload": {
+    "id": "chatcmpl-cd9409d9-8602-4ffa-856f-c80d39677cf4",
+    "object": "chat.completion",
+    "created": 1795375330,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"opus one review\". The user is a content creator located in IN (India). They want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to give a review of Opus One? Possibly \"Opus One\" is a video editing or AI tool? Actually \"Opus One\" could be a music mastering plugin? But given context of content creation, likely they refer to \"Opus One\" maybe a video editing AI tool? There is \"Opus Clip\" (AI video summarizer). \"Opus One\" might be a new AI"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317562427,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005293212,
+      "completion_tokens": 150,
+      "completion_time": 0.31338268,
+      "total_tokens": 282,
+      "total_time": 0.318675892,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82baws2e4rvn48ax6d9qqtz",
+      "seed": 1167168892
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2511,
+  "cost_usd": 0.0002
+}

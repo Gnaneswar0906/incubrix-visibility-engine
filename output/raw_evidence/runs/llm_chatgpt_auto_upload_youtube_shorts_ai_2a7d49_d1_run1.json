@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit for YouTube\u202fShorts | Approx. Cost (GBP) |\n|------|---------------------|",
+  "raw_payload": {
+    "id": "chatcmpl-a4af8c30-0c06-4854-a5c9-6bb957e6fea7",
+    "object": "chat.completion",
+    "created": 1795375690,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Overview  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good Fit for YouTube\u202fShorts | Approx. Cost (GBP) |\n|------|---------------------|",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, detailed, include workflow steps, pros/cons, pricing, integration with YouTube Shorts (vertical video, 60 sec). Provide citations with links. Must not violate policy. Provide UK context maybe. Use markdown. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.413630646,
+      "prompt_tokens": 134,
+      "prompt_time": 0.010552623,
+      "completion_tokens": 150,
+      "completion_time": 0.312200517,
+      "total_tokens": 284,
+      "total_time": 0.32275314,
+      "completion_tokens_details": {
+        "reasoning_tokens": 102
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82bnw94eme9a2d8hm17kr9r",
+      "seed": 1324582069
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4243,
+  "cost_usd": 0.0002
+}

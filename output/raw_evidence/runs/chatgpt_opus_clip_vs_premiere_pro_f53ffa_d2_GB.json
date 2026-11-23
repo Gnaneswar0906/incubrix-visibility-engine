@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you are likely working in a competitive space where efficiency and quality are paramount. The comparison between **Opus Clip** and **Adobe Premiere Pro** is not so much about which is \"better,\" but rather which serves your specific workflow stage. They serve fu",
+      "cost_usd": 0.0002,
+      "latency_ms": 1695,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_premiere_pro_f53ffa_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "When comparing Opus Clip and Premiere Pro for video editing, both tools have their strengths and suit different needs. However, Premiere Pro, a product of Adobe, is a widely used and industry-standard video editing software among content creators and professionals. Here's a brief comparison between ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6938,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_premiere_pro_f53ffa_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_premiere_pro_f53ffa_d2_GB.json"
+}

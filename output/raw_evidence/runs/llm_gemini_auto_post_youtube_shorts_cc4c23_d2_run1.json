@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. targeting platforms like YouTube Shorts, automating your short-form video workflow is one of the best ways to scale your channel, maintain consistency, and maximize reach without burning out. \n\nTo build an efficient auto-posting and repurposing workflow, you need a combination of AI editing tools, scheduling platforms, and smart syndication methods. Below is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **AI Repurposing & Clipping Tools (Long-form to Shorts)**\n*   **Opus Clip:** An industry-leading generative AI video tool that repurposes long-form videos into multiple viral clips in one click. It analyzes hooks, extracts the most engaging segments, adds auto-captions, and formats them for YouTube Shorts, TikTok, and Reels.\n*   **Descript:**",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. targeting platforms like YouTube Shorts, automating your short-form video workflow is one of the best ways to scale your channel, maintain consistency, and maximize reach without burning out. \n\nTo build an efficient auto-posting and repurposing workflow, you need a combination of AI editing tools, scheduling platforms, and smart syndication methods. Below is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a recommended workflow.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **AI Repurposing & Clipping Tools (Long-form to Shorts)**\n*   **Opus Clip:** An industry-leading generative AI video tool that repurposes long-form videos into multiple viral clips in one click. It analyzes hooks, extracts the most engaging segments, adds auto-captions, and formats them for YouTube Shorts, TikTok, and Reels.\n*   **Descript:**",
+              "thoughtSignature": "Eo4BCosBAWkUfROGz6RZdCHNsIKf7ig/6EO5fgMuZk3cZhhOjWWYeYjbNsYekTYKFAMjJMGyCUgXh2FwivDJvNvqPDz0p3QZt5Jl8bWICeQ+flRXZGBPxXby0O0PtEFhltHGlmAN/6q4seto9Z88b3Q1jh0V7Rv99K/tmubEJP6yAfkXjylRIrPXYh5A7cF10w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "OEYDa9acFMva4-EP6tL50Ag"
+  },
+  "latency_ms": 5413,
+  "cost_usd": 0.0002
+}

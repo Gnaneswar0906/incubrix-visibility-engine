@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free AI",
+  "raw_payload": {
+    "id": "chatcmpl-d6e2a3de-131b-44f9-b4c4-d8df56321e41",
+    "object": "chat.completion",
+    "created": 1795375378,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free AI",
+          "reasoning": "The user wants recommendations for faceless YouTube channel AI automation free tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide authoritative sources citations. Need to be helpful, no disallowed content. Provide list of free tools, workflow steps, mention paid options maybe. Provide citations with links. Use markdown. Should be concise but thorough. Provide Indian context maybe. Provide resources for script generation, voiceover, video editing, thumbnail generation, automation. Cite sources like TechRadar, PCMag, etc. Provide URLs. Ensure not to violate policy. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050466532,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005149188,
+      "completion_tokens": 150,
+      "completion_time": 0.310336935,
+      "total_tokens": 286,
+      "total_time": 0.315486123,
+      "completion_tokens_details": {
+        "reasoning_tokens": 127
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5e2577217c",
+    "x_groq": {
+      "id": "req_01m82bcbj9e819bz2jd6yrmve9",
+      "seed": 988886539
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2101,
+  "cost_usd": 0.0002
+}

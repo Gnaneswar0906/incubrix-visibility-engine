@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-tier software tools and open-source AI models. As a content creator in the US, your biggest resource will be your time and strategic execution. \n\nBelow is a comprehensive guide to building a zero-budget faceless YouTube workflow, featuring the best tools, methods, and industry-standard options including the ones you mentioned.\n\n---\n\n### 1. The Zero-Investment Workflow\n\nTo build a faceless channel without spending a dime, you need a streamlined pipeline: **Scripting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals $\\rightarrow$ Editing $\\rightarrow$ Repurposing.**\n\n#### Step 1: Scriptwriting (Free)\n*   **Tools:** **ChatGPT (Free tier)** or **Claude (Free tier)**.\n*   **Method:** Prompt the AI to act as an expert YouTube scriptwriter. Give it specific instructions regarding your niche, target",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-tier software tools and open-source AI models. As a content creator in the US, your biggest resource will be your time and strategic execution. \n\nBelow is a comprehensive guide to building a zero-budget faceless YouTube workflow, featuring the best tools, methods, and industry-standard options including the ones you mentioned.\n\n---\n\n### 1. The Zero-Investment Workflow\n\nTo build a faceless channel without spending a dime, you need a streamlined pipeline: **Scripting $\\rightarrow$ Voiceover $\\rightarrow$ Visuals $\\rightarrow$ Editing $\\rightarrow$ Repurposing.**\n\n#### Step 1: Scriptwriting (Free)\n*   **Tools:** **ChatGPT (Free tier)** or **Claude (Free tier)**.\n*   **Method:** Prompt the AI to act as an expert YouTube scriptwriter. Give it specific instructions regarding your niche, target",
+              "thoughtSignature": "Eo4BCosBAWkUfROU1akI6NKTZVPFS2+EUrmREtSjPtE99nhA10lRf0A2VxZKJQVRw2YDsU4XYRGdcP0psXKgIEXRxxMmdrp4ZQp2P/zMWfe5zu55HOIPkAATZds/wZW0kmCHbsn5NDuW0LUDz+aKrG5OgMuqpD9BZURWYrlPf8bZ5H5d6YH/QhmMjU4Vhl4VRg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uD8Da9vMD4vdqfkPhdfn4Qs"
+  },
+  "latency_ms": 7446,
+  "cost_usd": 0.0002
+}

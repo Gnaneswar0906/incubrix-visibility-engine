@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 A Quick\u2011Start Guide for U.S. Creators  \n\nBelow is a **concise, actionable toolkit** that blends the most popular \u201ctext\u2011to\u2011video\u201d platforms with a solid workflow you can start using",
+  "raw_payload": {
+    "id": "chatcmpl-37a924bf-2c6e-4373-b149-72f460c6d562",
+    "object": "chat.completion",
+    "created": 1795374637,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 A Quick\u2011Start Guide for U.S. Creators  \n\nBelow is a **concise, actionable toolkit** that blends the most popular \u201ctext\u2011to\u2011video\u201d platforms with a solid workflow you can start using",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing: software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. Provide citations with links. Use markdown. Provide workflow steps. Provide pros/cons. Provide sources. Let's craft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317715303,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005971054,
+      "completion_tokens": 150,
+      "completion_time": 0.325323666,
+      "total_tokens": 283,
+      "total_time": 0.33129472,
+      "completion_tokens_details": {
+        "reasoning_tokens": 90
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82anqd3ecc9xsx97qmc0zky",
+      "seed": 2057305394
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2575,
+  "cost_usd": 0.0002
+}

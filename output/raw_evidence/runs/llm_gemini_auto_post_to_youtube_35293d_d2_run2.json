@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to streamline your channel management, automating the YouTube posting workflow can save you dozens of hours each month. Auto-posting involves three main pillars: **AI-assisted editing and clip generation**, **automated scheduling/publishing**, and **cross-platform syndication**. \n\nBased on current industry standards, here is a breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow method.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **AI Clipping & Repurposing (For Shorts, Reels, and TikToks)**\n*   **Opus Clip:** An industry leader in generative AI video clipping. It takes long-form talking-head videos, analyzes them for hooks and engagement, and automatically chops them into viral-ready short clips with captions, emojis, and dynamic framing. \n*   **CapCut (Desktop & Web):** Extremely popular among U.",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to streamline your channel management, automating the YouTube posting workflow can save you dozens of hours each month. Auto-posting involves three main pillars: **AI-assisted editing and clip generation**, **automated scheduling/publishing**, and **cross-platform syndication**. \n\nBased on current industry standards, here is a breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow method.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **AI Clipping & Repurposing (For Shorts, Reels, and TikToks)**\n*   **Opus Clip:** An industry leader in generative AI video clipping. It takes long-form talking-head videos, analyzes them for hooks and engagement, and automatically chops them into viral-ready short clips with captions, emojis, and dynamic framing. \n*   **CapCut (Desktop & Web):** Extremely popular among U.",
+              "thoughtSignature": "Eo4BCosBAWkUfROIDbh1PdcR2ZEBKNY8KclhAM97k6tM1pxuzVzaN5Wq5BGkNq3konZrXBfKS3hQcYY5xXX72Bbyeo/jDLyADh61Hjk05c9UtD+iJRiYAscXBNHkAaUpIgsNkqPFT4/LUxU7ieUFhm8nbaF7tLGzOCq+xBR8BRVA7he9CM/n2cV0kuNz3pturQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "GEYDa53YGq-K694Phc_YgQg"
+  },
+  "latency_ms": 2766,
+  "cost_usd": 0.0002
+}

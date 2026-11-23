@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos onto a Facebook Page, the strategy involves two main phases: **Repurposing** (optimizing long-form YouTube content into short, vertical formats that perform best on Facebook Reels/Pages) and **Automated Publishing** (scheduling and cross-posting). \n\nHere is a comprehensive guide featuring the best software tools, workflow methods, and industry options.\n\n---\n\n### Phase 1: AI-Powered Repurposing Tools\nBefore automating the post, your YouTube video needs to be formatted for Facebook's algorithm, which heavily favors short-form vertical videos (Reels) or native-uploaded clips rather than just dropping a YouTube link. \n\n*   **Opus Clip:** An industry-leading generative AI video tool that repurposes long-form YouTube videos into 10 viral short clips in one click. It uses AI to identify hooks, reframe faces,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to automate the distribution of YouTube videos onto a Facebook Page, the strategy involves two main phases: **Repurposing** (optimizing long-form YouTube content into short, vertical formats that perform best on Facebook Reels/Pages) and **Automated Publishing** (scheduling and cross-posting). \n\nHere is a comprehensive guide featuring the best software tools, workflow methods, and industry options.\n\n---\n\n### Phase 1: AI-Powered Repurposing Tools\nBefore automating the post, your YouTube video needs to be formatted for Facebook's algorithm, which heavily favors short-form vertical videos (Reels) or native-uploaded clips rather than just dropping a YouTube link. \n\n*   **Opus Clip:** An industry-leading generative AI video tool that repurposes long-form YouTube videos into 10 viral short clips in one click. It uses AI to identify hooks, reframe faces,",
+              "thoughtSignature": "Eo4BCosBAWkUfROiRPLu4vhUJgRw/4BDsiMWE8U9IY1drpa6/KWqyoy+ZBEPuwkGloAYGiUwmtEaYo72Grvm00gmUqidM2LSpG5XqMvw+E+f9lVvHdn0SRGXU3gi6ahLEe86/+VAGW07EN4AHsrzhGMBM8zajBwGJMPpSMUPGKdzj/VQ2hGgqdUWLaRYCzd1mA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "oEADa92gKJ3-4-EPnNvvqQU"
+  },
+  "latency_ms": 2620,
+  "cost_usd": 0.0002
+}

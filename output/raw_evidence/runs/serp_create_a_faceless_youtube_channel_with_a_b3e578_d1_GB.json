@@ -1,0 +1,91 @@
+{
+  "query": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/NewTubers/comments/1j7cp7n/anyone_started_a_faceless_aigenerated_youtube/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "create a faceless youtube channel with ai",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Anyone Started a Faceless AI-Generated YouTube Channel for ...",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1j7cp7n/anyone_started_a_faceless_aigenerated_youtube/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a anyone_started_a_faceless_a...",
+        "snippet": "Hey everyone, I've been thinking about starting a faceless YouTube channel using AI-generated content as a side hustle to make some extra income",
+        "position": 1
+      },
+      {
+        "title": "Watch Me Create a Faceless YouTube Channel in 33 Minutes (Using AI)",
+        "link": "https://www.youtube.com/watch?v=0lTLOyB7QUE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "A lot of people have asked to see me set up an entire YouTube channel, generate content, and upload it while using AI for the entire process\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "How I Built a Faceless YouTube Channel That Makes ...",
+        "link": "https://medium.com/activated-thinker/how-i-built-a-faceless-youtube-channel-that-makes-3-000-month-using-ai-19236c9e105c",
+        "displayedLink": "https://medium.com \u203a activated-thinker \u203a how-i-built-a-faceless-yout...",
+        "snippet": "Step 1: Script writing. I write the script first, always. \u00b7 Step 2: Voiceover generation. \u00b7 Step 3: Visual assembly. \u00b7 Step 4: Thumbnail and title.",
+        "position": 3
+      },
+      {
+        "title": "Faceless.video",
+        "link": "https://faceless.video/",
+        "displayedLink": "https://faceless.video",
+        "snippet": "Faceless.video creates content and posts it to your account every day. Our AI automated content creation tool converts text to video in minutes and posts ...",
+        "position": 4
+      },
+      {
+        "title": "Start a faceless YouTube channel with AI: no camera",
+        "link": "https://morphic.com/resources/how-to/start-faceless-youtube-channel-with-ai",
+        "displayedLink": "https://morphic.com \u203a resources \u203a how-to \u203a start-faceless-youtube-chan...",
+        "snippet": "Start a faceless YouTube channel with AI: pick a niche, script in Copilot, generate visuals, and publish your first video with no camera. Try Morphic free.",
+        "position": 5
+      },
+      {
+        "title": "How To Start a Faceless YouTube Channel That Makes Money in 2026 ...",
+        "link": "https://www.youtube.com/watch?v=-WSoI1zL_Z4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Watch Me Create a Faceless YouTube Channel in 33 Minutes (Using AI) ... How to Create AI Animated Stories That Make Money on YouTube in\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "AI Faceless Video Generator for Faceless Reels | Faceless.so",
+        "link": "https://faceless.so/",
+        "displayedLink": "https://faceless.so",
+        "snippet": "Make faceless videos and faceless reels with AI: it writes, voices, edits and auto-posts them daily to Instagram, TikTok, YouTube and 4 more. From $29/mo.",
+        "position": 7
+      },
+      {
+        "title": "Faceless video generator",
+        "link": "https://www.canva.com/features/ai-faceless-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a ai-faceless-video",
+        "snippet": "The AI faceless video generator on Canva can do just about the entire video-making process for you\u2014including getting you a subject. Powered by advanced AI, this ...",
+        "position": 8
+      },
+      {
+        "title": "AI Faceless YouTube Channel Ideas (Build with Me)",
+        "link": "https://www.youtube.com/playlist?list=PLgJT3CexzMMIpJdwZbcFb58EsDvOFlBmD",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "AI Faceless YouTube Channel Ideas (Build with Me) \u00b7 How to Create VIRAL AI Animation Story Videos \u00b7 How Much Youtube Paid Me as a FACELESS Channel and Why\u2026",
+        "position": 9
+      },
+      {
+        "title": "How to Build a Faceless Channel YouTube Won't Demonetize",
+        "link": "https://www.youtube.com/watch?v=d_csri5M9xw&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Go to channel Two Paths YouTube \u00b7 Is Your Faceless Channel About to Get Demonetized? (NEW YouTube AI Rules). Two Paths YouTube\u2022663 views \u00b7 8:53.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

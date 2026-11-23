@@ -1,0 +1,95 @@
+{
+  "query": "opus clip v wayin ai",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://wayin.ai/",
+  "competitors_named": "Opus Clip, InVideo, Submagic",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus clip v wayin ai",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "WayinVideo",
+        "link": "https://wayin.ai/",
+        "displayedLink": "https://wayin.ai",
+        "snippet": "AI Clip Maker ... Turn long videos into short clips with WayinVideo's AI clip maker, which finds highlights and prepares social-ready edits for TikTok, Reels, and ...",
+        "sitelinks": [
+          {
+            "title": "Discover, Create, Share",
+            "link": "https://wayin.ai/wayinvideo/"
+          },
+          {
+            "title": "AI Clip Maker Turn Videos Into ...",
+            "link": "https://wayin.ai/tools/clip-maker/"
+          },
+          {
+            "title": "Best Opus Clip Alternative for ...",
+            "link": "https://wayin.ai/alternative/opus-clip/"
+          },
+          {
+            "title": "The Best Opus Clip Alternative",
+            "link": "https://wayin.ai/blog/opusclip-alternative/"
+          },
+          {
+            "title": "AI Video Editor",
+            "link": "https://wayin.ai/tools/ai-video-editor/"
+          },
+          {
+            "title": "AI Video Clip Generators",
+            "link": "https://wayin.ai/blog/ai-video-clip-generator/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "OpusClip: #1 AI video clipping and editing tool",
+        "link": "https://www.opus.pro/",
+        "displayedLink": "https://www.opus.pro",
+        "snippet": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click.",
+        "position": 2
+      },
+      {
+        "title": "Wayin vs Opus Clip: Which AI Video Clipping Tool Should Creators ...",
+        "link": "https://www.vmaker.com/blog/wayin-vs-opus-clip/",
+        "displayedLink": "https://www.vmaker.com \u203a blog \u203a wayin-vs-opus-clip",
+        "position": 3
+      },
+      {
+        "title": "The Best Opus Clip Alternative (Free to Use)",
+        "link": "https://vizard.ai/alternatives/opus",
+        "displayedLink": "https://vizard.ai \u203a alternatives \u203a opus",
+        "snippet": "Vizard vs OpusClip: the best OpusClip alternative in 2026. Same AI clipping, about half the cost per minute, and your credits never expire.",
+        "position": 4
+      },
+      {
+        "title": "ClipAnything - Clip any moment from any video with prompts",
+        "link": "https://www.opus.pro/clipanything",
+        "displayedLink": "https://www.opus.pro \u203a clipanything",
+        "snippet": "ClipAnything is the first-ever multimodal AI video clipping software that lets you clip any moment from any video using visual, audio, and sentiment cues.",
+        "position": 5
+      },
+      {
+        "title": "The BEST AI Clipping Tool in 2026: Riverside vs Opus Clip vs Submagic",
+        "link": "https://www.youtube.com/watch?v=pa5LVtcbgD0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I test and compare three of the most talked-about AI clipping tools: Riverside, Submagic, and Opus Clip. break down features,\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "Wayin vs Opus Clip comparison - Vmaker Blog: Best of AI Video Editing ...",
+        "link": "https://www.vmaker.com/blog/tags/wayin-vs-opus-clip-comparison/",
+        "displayedLink": "https://www.vmaker.com \u203a blog \u203a tags \u203a wayin-vs-opus-clip-comparison",
+        "snippet": "While both use AI to identify highlights and generate short-form videos, they take very different approaches to content repurposing.",
+        "position": 7
+      }
+    ],
+    "credits": 1
+  }
+}

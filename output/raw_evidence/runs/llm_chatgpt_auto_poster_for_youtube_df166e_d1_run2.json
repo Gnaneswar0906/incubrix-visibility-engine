@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Posting for YouTube \u2013 A Practical Toolkit for a UK Creator  \n\nBelow is a **",
+  "raw_payload": {
+    "id": "chatcmpl-5f0eb154-8768-4b53-81cb-da4c6838d238",
+    "object": "chat.completion",
+    "created": 1795375733,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Posting for YouTube \u2013 A Practical Toolkit for a UK Creator  \n\nBelow is a **",
+          "reasoning": "The user wants recommendations for auto poster for YouTube, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. The user is a content creator in GB (UK). So we should tailor to UK context, maybe mention compliance with YouTube policies, GDPR. Provide list of tools, workflow steps, automation, scheduling, thumbnail generation, SEO, etc. Cite sources: can use official sites, blogs, reviews. Provide links. Ensure not to violate policy. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318755956,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005764443,
+      "completion_tokens": 150,
+      "completion_time": 0.312923344,
+      "total_tokens": 283,
+      "total_time": 0.318687787,
+      "completion_tokens_details": {
+        "reasoning_tokens": 122
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82bq5veep6rr1j7scvcx6vd",
+      "seed": 859551163
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2697,
+  "cost_usd": 0.0002
+}

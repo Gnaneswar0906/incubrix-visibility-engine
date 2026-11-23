@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "##",
+  "raw_payload": {
+    "id": "chatcmpl-c45c5bb1-a148-4c40-8e4b-eb69e5c2c4ff",
+    "object": "chat.completion",
+    "created": 1795374724,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "##",
+          "reasoning": "We need to respond to a content creator in US, query: \"auto caption generator for video hinglish\". They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe should provide recommendations for auto captioning tools that support Hinglish (mix of Hindi and English). Provide overview of each tool, pros/cons, pricing, integration. Also workflow: transcription, editing, syncing, exporting. Provide steps.\n\nCite sources: need to reference web sources. Provide links.\n\nMake sure to comply with policy. No disallowed content. Provide helpful answer.\n\nLet's produce final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157830315,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005412764,
+      "completion_tokens": 150,
+      "completion_time": 0.313204067,
+      "total_tokens": 286,
+      "total_time": 0.318616831,
+      "completion_tokens_details": {
+        "reasoning_tokens": 141
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82arcfmexd8n8pbw1h3dtnq",
+      "seed": 1450631272
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3939,
+  "cost_usd": 0.0002
+}

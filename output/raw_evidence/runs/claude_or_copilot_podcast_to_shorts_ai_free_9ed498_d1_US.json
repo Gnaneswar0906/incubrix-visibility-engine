@@ -1,0 +1,44 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast to shorts ai free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"podcast to shorts ai free\". The user is a content creator located in US. They want recommendations for software tools, workflow methods, and key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Also mention authoritative web sources if available.\n\nWe must ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2397,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_claude_or_copilot_podcast_to_shorts_ai_free_9ed498_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to understand the query: \"podcast to shorts ai free\". The user is a content creator in US, asking for recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nSo w",
+      "cost_usd": 0.0002,
+      "latency_ms": 5916,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_claude_or_copilot_podcast_to_shorts_ai_free_9ed498_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_to_shorts_ai_free_9ed498_d1_US.json"
+}

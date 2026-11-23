@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto upload to youtube from folder. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative sources if available. The user is a content creator in US. Provide suggestions, workflow, tools. Must mention auto upload to YouTube from folder. Provide tools like YouTube Studio, Google Drive, Cloud Storage, Zapier, IFTTT, Integromat (Make), Automator, etc. Also mention specific software: InVideo, CapCut, Opus Clip, Descript. Provide details on how to set up. Provide citations: e.g., YouTube Help, Google Developers,",
+  "raw_payload": {
+    "id": "chatcmpl-8c290c03-18ea-4aff-a974-765bceff2e58",
+    "object": "chat.completion",
+    "created": 1795374863,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto upload to youtube from folder. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative sources if available. The user is a content creator in US. Provide suggestions, workflow, tools. Must mention auto upload to YouTube from folder. Provide tools like YouTube Studio, Google Drive, Cloud Storage, Zapier, IFTTT, Integromat (Make), Automator, etc. Also mention specific software: InVideo, CapCut, Opus Clip, Descript. Provide details on how to set up. Provide citations: e.g., YouTube Help, Google Developers,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.256606825,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006649055,
+      "completion_tokens": 150,
+      "completion_time": 0.15980009,
+      "total_tokens": 285,
+      "total_time": 0.166449145,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_228717f27c",
+    "x_groq": {
+      "id": "req_01m82awmyeemwtk7t3syqknqxs",
+      "seed": 207347241
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 29676,
+  "cost_usd": 0.0002
+}

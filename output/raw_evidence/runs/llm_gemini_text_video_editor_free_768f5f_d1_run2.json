@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text video editor free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking for free text-based video editors\u2014often referred to as AI script-to-video or text-driven timeline editors\u2014you have access to powerful tools that streamline editing by letting you edit video simply by editing text transcripts. \n\nHere is a breakdown of the best tools, industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### Key Industry Options Mentioned in Your Query\n\n1. **Descript**\n   * **What it is:** The gold standard for text-based video editing. You edit your video by deleting, moving, or correcting words in the transcript.\n   * **Free Tier:** Offers a limited free plan with transcription minutes and a watermark-free export, making it great for testing.\n   * **Best For:** Podcasters, talking-head YouTube videos, and precise dialogue editing.\n\n2. **CapCut**\n   * **What it is:** A",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking for free text-based video editors\u2014often referred to as AI script-to-video or text-driven timeline editors\u2014you have access to powerful tools that streamline editing by letting you edit video simply by editing text transcripts. \n\nHere is a breakdown of the best tools, industry options, and an efficient workflow tailored for your needs.\n\n---\n\n### Key Industry Options Mentioned in Your Query\n\n1. **Descript**\n   * **What it is:** The gold standard for text-based video editing. You edit your video by deleting, moving, or correcting words in the transcript.\n   * **Free Tier:** Offers a limited free plan with transcription minutes and a watermark-free export, making it great for testing.\n   * **Best For:** Podcasters, talking-head YouTube videos, and precise dialogue editing.\n\n2. **CapCut**\n   * **What it is:** A",
+              "thoughtSignature": "Eo4BCosBAWkUfRN4k91lUL3PNdZucxiFF9kh5izAX9HdwCzFwAllCDvjKlGKJRzZyXazwfyxYd5qT9w7BSqjMb4oe6tBJ4Hl4OxAdkiqhdYvVBKCwOjadM5MiQ5XkL6wjzIFksxlmQGVgZheV3mmD2rob8Mp3C+cnJgcXIoUnX4m/qHEi55s4vCFPB0fSkajFQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "OEADa6TFEprNqfkPm-6MmAs"
+  },
+  "latency_ms": 2323,
+  "cost_usd": 0.0002
+}

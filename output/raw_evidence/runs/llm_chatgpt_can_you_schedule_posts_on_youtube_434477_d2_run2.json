@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you have several robust options for scheduling YouTube posts. The \"best\" tool often depends on whether you are a solo creator, part of a team, or looking for specific features like AI editing or cross-platform distribution.\n\nHere\u2019s a breakdown of the top software tools, workflow methods, and key industry options, including the ones you mentioned.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **YouTube Studio (Native & Free)**\n   - **Best for:** Solo creators who want simplicity and no extra cost.\n   - **Features:** Directly built into YouTube. Allows you to schedule videos, Shorts, and live streams. You can set titles, descriptions, thumbnails",
+  "raw_payload": {
+    "id": "chatcmpl-e611ddbd-ff19-47b6-944d-62bc0bd89803",
+    "object": "chat.completion",
+    "created": 1795377475,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you have several robust options for scheduling YouTube posts. The \"best\" tool often depends on whether you are a solo creator, part of a team, or looking for specific features like AI editing or cross-platform distribution.\n\nHere\u2019s a breakdown of the top software tools, workflow methods, and key industry options, including the ones you mentioned.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **YouTube Studio (Native & Free)**\n   - **Best for:** Solo creators who want simplicity and no extra cost.\n   - **Features:** Directly built into YouTube. Allows you to schedule videos, Shorts, and live streams. You can set titles, descriptions, thumbnails"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05440357,
+      "prompt_tokens": 78,
+      "prompt_time": 0.00527815,
+      "completion_tokens": 150,
+      "completion_time": 0.284602037,
+      "total_tokens": 228,
+      "total_time": 0.289880187
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dcb7def9aba47htph0t19",
+      "seed": 1207387450
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1485,
+  "cost_usd": 0.0002
+}

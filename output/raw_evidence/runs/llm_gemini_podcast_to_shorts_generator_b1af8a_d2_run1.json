@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " an AI assistant helping a US-based content creator, I can break down the current landscape of AI-powered \"podcast-to-shorts\" generators. Repurposing long-form audio and video into bite-sized clips for TikTok, Instagram Reels, and YouTube Shorts is one of the most effective growth strategies for creators today. \n\nHere is a comprehensive guide to the best software tools, key industry options you mentioned, and a recommended workflow to maximize your efficiency.\n\n---\n\n### Part 1: Key Industry Options & Best Software Tools\n\nThe market is flooded with AI repurposing tools, but a few stand out based on specific creator needs:\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n* **Best For:** Fully automated, AI-driven clip curation and virality scoring.\n* **How it works:** You drop in a YouTube link or upload an episode. Opus Clip\u2019s AI scans the video, identifies hooks, extracts standalone segments (",
+              "thoughtSignature": "Eo4BCosBAWkUfRMfX4B4oPlmUADL1aiQ828dOTgrF8GLiX7k8gj+DE0cMO0uixFYpIvQg8v7OztM6MR66TlMXLeso7vlliAxuyJUZKwr2fQCBn/OfAzGtwEUEKSwBzMDLmCIYxM0YbzgFL2QEOhGq1wRIr/vhZQtdl5oJek2nAy1GeLsqpWbNf9BLOoCU1+7rw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "b0UDa-n2CPCbz7sP0vTvmAk"
+  },
+  "latency_ms": 3722,
+  "cost_usd": 0.0002
+}

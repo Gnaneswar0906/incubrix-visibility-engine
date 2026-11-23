@@ -1,0 +1,93 @@
+{
+  "query": "text video edit template",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/video-editor/templates/",
+  "competitors_named": "CapCut, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text video edit template",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free, customizable video templates for your channel",
+        "link": "https://www.canva.com/video-editor/templates/",
+        "displayedLink": "https://www.canva.com \u203a video-editor \u203a templates",
+        "snippet": "Browse hundreds of editable, high quality templates that make it simple to create a memorable video for any purpose. Free to customize to suit every brand ...",
+        "position": 1
+      },
+      {
+        "title": "Text Video Templates",
+        "link": "https://elements.envato.com/video-templates/text?srsltid=AYCX9vJW8PSg4cbsvbvEyyBgnG9tVwzkYoUmlJ-ojerh15UWhqMHUUjv",
+        "displayedLink": "https://elements.envato.com \u203a video-templates \u203a text",
+        "snippet": "Find tons of Text Video Templates for your all projects, with unlimited downloads with a single Envato subscription.",
+        "position": 2
+      },
+      {
+        "title": "Free text animation templates",
+        "link": "https://jitter.video/templates/text/",
+        "displayedLink": "https://jitter.video \u203a templates \u203a text",
+        "snippet": "Design professional text animations with Jitter's collection of free, easy-to-use motion graphics templates for text.",
+        "position": 3
+      },
+      {
+        "title": "Free Text Effects Templates - Easy & Fast",
+        "link": "https://www.capcut.com/explore/text-effects-templates/7497635722376218640",
+        "displayedLink": "https://www.capcut.com \u203a explore \u203a text-effects-templates \u203a 7497635722376218640",
+        "snippet": "Create stunning videos with professional text effects templates. Customize unique titles and captions in seconds with CapCut's easy-to-use video editor.",
+        "position": 4
+      },
+      {
+        "title": "1931+ Free Text Template 4K & HD Stock Videos",
+        "link": "https://pixabay.com/videos/search/text%20template/",
+        "displayedLink": "https://pixabay.com \u203a videos \u203a search \u203a text template",
+        "snippet": "1,931+ Free Text Template 4K & HD Stock Videos. Select a text template video to download for free. HD & 4K video clips for your next project.",
+        "position": 5
+      },
+      {
+        "title": "Editable free video templates. - Adobe Express",
+        "link": "https://www.adobe.com/express/templates/video",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a templates \u203a video",
+        "snippet": "Kick off your editing with a vast selection of free Adobe Express video templates, searchable by theme, aesthetic, niche, or video type.",
+        "position": 6
+      },
+      {
+        "title": "1000+ Video Templates | Customize Online",
+        "link": "https://www.renderforest.com/templates",
+        "displayedLink": "https://www.renderforest.com \u203a templates",
+        "snippet": "Video templates for creating stunning videos online with Renderforest. Discover hundreds of customizable options, all easily edited in your browser.",
+        "position": 7
+      },
+      {
+        "title": "Royalty-Free Text Animation Templates",
+        "link": "https://www.storyblocks.com/templates/search/text-animation",
+        "displayedLink": "https://www.storyblocks.com \u203a templates \u203a search \u203a text-animation",
+        "snippet": "Royalty-Free Text Animation Templates. Browse stunning Text Animation templates for use in Premiere Pro, After Effects, and DaVinci Resolve.",
+        "position": 8
+      },
+      {
+        "title": "80+ FREE Premiere Pro Templates for Reels (Captions, Text & More)",
+        "link": "https://www.youtube.com/watch?v=nyuzdjmlu94",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "download and use 80+ free Instagram Reels presets, animated captions, text effects, MOGRT templates ... How to Edit ANY Video Like You've Done it\u00a0...",
+        "position": 9
+      },
+      {
+        "title": "Add Text to Video Online - Free Video Text Editor",
+        "link": "https://www.veed.io/tools/add-text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a add-text-to-video",
+        "snippet": "Adding text over videos is quick and intuitive with VEED. Add engaging headlines, emphasize key points, and generate subtitles \u2014 all from your browser.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

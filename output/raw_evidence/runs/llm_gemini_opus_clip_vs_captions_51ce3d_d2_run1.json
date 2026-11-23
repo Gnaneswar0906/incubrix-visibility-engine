@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale your short-form video production (TikTok, Reels, Shorts), choosing the right AI tool is crucial. When comparing **Opus Clip vs. Captions**, you are looking at two industry giants that serve slightly different primary purposes: automated video repurposing versus AI-powered capture and kinetic editing.\n\nHere is a comprehensive breakdown of both tools, alternative industry options, and a recommended workflow to maximize your output.\n\n---\n\n### 1. Opus Clip vs. Captions: The Core Differences\n\n#### **Opus Clip**\n* **Primary Focus:** Automated long-form-to-short clipping and curation.\n* **Best For:** Podcasters, educators, and creators with a backlog of long YouTube videos, webinars, or interviews who want AI to do the heavy lifting of finding the \"viral hooks.\"\n* **Key Features:** \n  * **AI Curation:** Analyzes a long video and cuts",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale your short-form video production (TikTok, Reels, Shorts), choosing the right AI tool is crucial. When comparing **Opus Clip vs. Captions**, you are looking at two industry giants that serve slightly different primary purposes: automated video repurposing versus AI-powered capture and kinetic editing.\n\nHere is a comprehensive breakdown of both tools, alternative industry options, and a recommended workflow to maximize your output.\n\n---\n\n### 1. Opus Clip vs. Captions: The Core Differences\n\n#### **Opus Clip**\n* **Primary Focus:** Automated long-form-to-short clipping and curation.\n* **Best For:** Podcasters, educators, and creators with a backlog of long YouTube videos, webinars, or interviews who want AI to do the heavy lifting of finding the \"viral hooks.\"\n* **Key Features:** \n  * **AI Curation:** Analyzes a long video and cuts",
+              "thoughtSignature": "Eo4BCosBAWkUfRMurwSGQZ1dIuDF2V9t1OFDI7E3m2RUOBlRCBCie8vE3tbqynCe62lAdhC+vh1txAsl1xxLSgQjVtC0ZO/kzoAICrGXaqiHVlwVr4JA3Ofp9stNVczPjwfwaD7M8UGOIJ0xaAIX0Eq2O+nZZwMexYMeBQ+jehaoYZ+8i2YHRX5DYYAwelPgJw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "eUYDa-zyHMetz7sPxraJqQs"
+  },
+  "latency_ms": 8557,
+  "cost_usd": 0.0002
+}

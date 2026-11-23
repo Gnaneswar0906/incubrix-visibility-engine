@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: auto generate subtitles for a TikTok video. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide a detailed answer. Should be tailored for content creator in G",
+      "cost_usd": 0.0002,
+      "latency_ms": 4717,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__98745c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Creating auto-generated subtitles for TikTok has become less about \"guessing\" and more about leveraging AI-driven transcription tools that offer high accuracy and rapid editing capabilities. As a creator based in the UK, you have access to a robust ecosystem of global tools, many of which support Br",
+      "cost_usd": 0.0002,
+      "latency_ms": 932,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__98745c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_subtitles_for__98745c_d2_GB.json"
+}

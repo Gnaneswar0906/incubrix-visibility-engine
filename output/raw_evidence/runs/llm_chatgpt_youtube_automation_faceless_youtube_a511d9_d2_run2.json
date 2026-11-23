@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"You are an AI assistant answering a query from a content creator located in GB. Query: youtube automation faceless youtube channel using ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to provide a comprehensive answer recommending software tools for creating faceless YouTube channels using AI. Provide workflow methods. Mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to keep tone helpful, concise, but thorough. Provide a list of recommended tools, workflow steps",
+  "raw_payload": {
+    "id": "chatcmpl-d58ff750-b7e2-4a9a-a86a-552d27fcbdf0",
+    "object": "chat.completion",
+    "created": 1795377657,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"You are an AI assistant answering a query from a content creator located in GB. Query: youtube automation faceless youtube channel using ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to provide a comprehensive answer recommending software tools for creating faceless YouTube channels using AI. Provide workflow methods. Mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to keep tone helpful, concise, but thorough. Provide a list of recommended tools, workflow steps"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36815941,
+      "prompt_tokens": 137,
+      "prompt_time": 0.007711288,
+      "completion_tokens": 150,
+      "completion_time": 0.153668986,
+      "total_tokens": 287,
+      "total_time": 0.161380274,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_487ff4efc6",
+    "x_groq": {
+      "id": "req_01m82dhxkeedgbp8m6vdztgdkf",
+      "seed": 1757098666
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5616,
+  "cost_usd": 0.0002
+}

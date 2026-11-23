@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video vn app",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a creator based in India, you are in an excellent position to leverage some of the most cost-effective and powerful auto-caption tools available today. Since you specifically asked about **VN App** (VlogNow), I\u2019ll start with that and then expand to other industry-leading options that can integrate into your workflow.\n\n### 1. For VN App (VlogNow) Specifically\n**VN App is a free, professional-grade mobile video editor that has built-in auto-captioning features.**\n\n- **How it works:** After importing your video, go to the **Text** tab \u2192 Select **Auto Captions**. VN uses on-device or cloud-based speech recognition to generate timed subtitles.\n- **Pros:**\n  - **",
+  "raw_payload": {
+    "id": "chatcmpl-af4e96fd-87c5-4f65-97b8-f4e261f2e018",
+    "object": "chat.completion",
+    "created": 1795375186,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a creator based in India, you are in an excellent position to leverage some of the most cost-effective and powerful auto-caption tools available today. Since you specifically asked about **VN App** (VlogNow), I\u2019ll start with that and then expand to other industry-leading options that can integrate into your workflow.\n\n### 1. For VN App (VlogNow) Specifically\n**VN App is a free, professional-grade mobile video editor that has built-in auto-captioning features.**\n\n- **How it works:** After importing your video, go to the **Text** tab \u2192 Select **Auto Captions**. VN uses on-device or cloud-based speech recognition to generate timed subtitles.\n- **Pros:**\n  - **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04960664,
+      "prompt_tokens": 79,
+      "prompt_time": 0.00536222,
+      "completion_tokens": 150,
+      "completion_time": 0.316050711,
+      "total_tokens": 229,
+      "total_time": 0.321412931
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82b6ggwek5rv723sx20texe",
+      "seed": 1639791334
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1164,
+  "cost_usd": 0.0002
+}

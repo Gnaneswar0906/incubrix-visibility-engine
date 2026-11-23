@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Uploading YouTube Shorts \u2013 A Practical Toolkit for GB Creators**  \n*(All tools listed are publicly available as of November\u202f2024",
+  "raw_payload": {
+    "id": "chatcmpl-2cfc2963-977b-4784-8311-3d06c16904ed",
+    "object": "chat.completion",
+    "created": 1795375676,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Uploading YouTube Shorts \u2013 A Practical Toolkit for GB Creators**  \n*(All tools listed are publicly available as of November\u202f2024",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for auto uploading YouTube Shorts. They want authoritative web sources if available. Must comply with policies: no disallowed content. This is fine. Provide recommendations, workflow steps, mention tools, maybe automation via YouTube API, schedule, etc. Provide citations with URLs. Must be mindful of copyrighted content: we can summarize. Provide links. Ensure not to provide copyrighted text. Provide guidance."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052505821,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005052519,
+      "completion_tokens": 150,
+      "completion_time": 0.31607411,
+      "total_tokens": 283,
+      "total_time": 0.321126629,
+      "completion_tokens_details": {
+        "reasoning_tokens": 112
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4be3b0989",
+    "x_groq": {
+      "id": "req_01m82bneacer79d8w263qh07tj",
+      "seed": 594870684
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 8946,
+  "cost_usd": 0.0002
+}

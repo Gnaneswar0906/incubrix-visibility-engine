@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"auto post twitch vods to youtube\". Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Also note the user is a content creator in GB (UK). Provide UK-relevant considerations (e.g., copyright, GDPR, etc). Provide steps: download VODs from Twitch, edit, auto upload to YouTube, schedule, etc. Tools: Streamlink, Twitch API, youtube-dl, OBS, etc. Also third-party services like Restream, StreamYard? Actually Restream can simulcast but not VOD auto post. There are services",
+  "raw_payload": {
+    "id": "chatcmpl-fb6c6bf1-75b5-4a9d-b904-5bf78af0767c",
+    "object": "chat.completion",
+    "created": 1795375710,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"auto post twitch vods to youtube\". Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Also note the user is a content creator in GB (UK). Provide UK-relevant considerations (e.g., copyright, GDPR, etc). Provide steps: download VODs from Twitch, edit, auto upload to YouTube, schedule, etc. Tools: Streamlink, Twitch API, youtube-dl, OBS, etc. Also third-party services like Restream, StreamYard? Actually Restream can simulcast but not VOD auto post. There are services"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154254095,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006869914,
+      "completion_tokens": 150,
+      "completion_time": 0.312649,
+      "total_tokens": 286,
+      "total_time": 0.319518914,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82bpfs4ebdvzfymjxkzftq4",
+      "seed": 563581158
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3439,
+  "cost_usd": 0.0002
+}

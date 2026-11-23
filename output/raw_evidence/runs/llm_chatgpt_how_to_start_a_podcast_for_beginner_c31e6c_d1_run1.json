@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a podcast for beginners",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide guide on starting a podcast for beginners, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with links. Should be helpful.\n\nWe need to be mindful of not providing copyrighted text beyond 90 characters. Provide summary and citations.\n\nLet's produce a structured answer: planning, equipment, recording, editing, publishing, promotion. Tools: hardware (mic, headphones, audio interface), software: Audacity (free), Adobe Audition, Reaper, Descript",
+  "raw_payload": {
+    "id": "chatcmpl-be4b7889-325e-4fb9-b2b2-6ee3da6c5b2e",
+    "object": "chat.completion",
+    "created": 1795375101,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide guide on starting a podcast for beginners, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with links. Should be helpful.\n\nWe need to be mindful of not providing copyrighted text beyond 90 characters. Provide summary and citations.\n\nLet's produce a structured answer: planning, equipment, recording, editing, publishing, promotion. Tools: hardware (mic, headphones, audio interface), software: Audacity (free), Adobe Audition, Reaper, Descript"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317806061,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005157298,
+      "completion_tokens": 150,
+      "completion_time": 0.311266463,
+      "total_tokens": 286,
+      "total_time": 0.316423761,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82b3wsqe0wr3mxy3tx3v5m7",
+      "seed": 1027834538
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2262,
+  "cost_usd": 0.0002
+}

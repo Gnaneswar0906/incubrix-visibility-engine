@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove words from a video",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: \"remove words from a video\" \u2013 i.e., editing out words or removing text overlays? Probably meaning removing spoken words or text overlays? The query: remove words from a video. The content creator located in GB. They want best software tools, workflow methods, mention key industry ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6252,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_words_from_a_video_8bbc80_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the UK, you have access to some of the most advanced AI-driven editing tools available globally. \"Removing words from a video\" usually refers to one of two workflows:\n\n1.  **Text-Based Editing:** Deleting spoken words by deleting text from a transcript (automatically r",
+      "cost_usd": 0.0002,
+      "latency_ms": 948,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_words_from_a_video_8bbc80_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_words_from_a_video_8bbc80_d2_GB.json"
+}

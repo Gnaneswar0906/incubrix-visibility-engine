@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you\u2019re likely looking to maximise efficiency without breaking the bank. Regarding your specific question about **Opus Clip**, here is the breakdown of its pricing model, followed by recommendations for the best software tools and workflows for 2024/2025.\n\n### Is Opus Clip Free or Not?\n\n**Opus Clip has a free tier, but with significant limitations.**\n\n- **Free Plan:** You can sign up and use the tool to generate clips from your long-form videos. However, the free plan typically includes:\n  - A limited number of video minutes per month (e.g., 60\u2013120 minutes, depending on current promos).\n",
+  "raw_payload": {
+    "id": "chatcmpl-a4ebc290-e085-42a2-b761-40130b7d6038",
+    "object": "chat.completion",
+    "created": 1795377512,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you\u2019re likely looking to maximise efficiency without breaking the bank. Regarding your specific question about **Opus Clip**, here is the breakdown of its pricing model, followed by recommendations for the best software tools and workflows for 2024/2025.\n\n### Is Opus Clip Free or Not?\n\n**Opus Clip has a free tier, but with significant limitations.**\n\n- **Free Plan:** You can sign up and use the tool to generate clips from your long-form videos. However, the free plan typically includes:\n  - A limited number of video minutes per month (e.g., 60\u2013120 minutes, depending on current promos).\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04828588,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005278119,
+      "completion_tokens": 150,
+      "completion_time": 0.308327057,
+      "total_tokens": 228,
+      "total_time": 0.313605176
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ddfvxertbnw6b0nqwdt2m",
+      "seed": 1261503335
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1085,
+  "cost_usd": 0.0002
+}

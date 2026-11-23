@@ -1,0 +1,85 @@
+{
+  "query": "podcast shorts raj shamani",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/rajshamani",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts raj shamani",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Raj Shamani",
+        "link": "https://www.youtube.com/rajshamani",
+        "displayedLink": "https://www.youtube.com \u203a rajshamani",
+        "snippet": "Raj Shamani \u20222.6K videos Figuring Out is a podcast for people who want to learn. 1.88M subscribers Raj Shamani Shorts @RajShamani.Shorts. Tomorrow 9:09PM | Raj ...",
+        "position": 1
+      },
+      {
+        "title": "Raj Shamani Shorts",
+        "link": "https://www.youtube.com/@RajShamani.Shorts",
+        "displayedLink": "https://www.youtube.com \u203a @RajShamani.Shorts",
+        "snippet": "Raj Shamani Shorts is your destination to find the Highlights of the best Business & Entrepreneurship Podcast - Figuring Out with Raj Shamani.",
+        "position": 2
+      },
+      {
+        "title": "Adapt this mindset to change your life | Raj Shamani #Shorts #inspiration",
+        "link": "https://www.youtube.com/shorts/9GCvKcxnApY",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a 9GCvKcxnApY",
+        "position": 3
+      },
+      {
+        "title": "Raj Shamani (@rajshamani) \u2022 Instagram photos and videos",
+        "link": "https://www.instagram.com/rajshamani/?hl=en",
+        "displayedLink": "https://www.instagram.com \u203a rajshamani",
+        "snippet": "Purpose: To help people live & love better \u2728 Podcast Host: @figuringout.co i study how the world's most extraordinary people think. rajshamani. Follow.",
+        "position": 4
+      },
+      {
+        "title": "Are Successful People Broken? Dark Traits, AI Evolution & Loneliness | Dr. K",
+        "link": "https://www.youtube.com/watch?v=R878NxqapRA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Raj Shamani is an entrepreneur and the host of the Figuring Out Podcast. He sits down with experts, athletes, celebrities, billionaires, and\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Raj Shamani - Figuring Out - Podcasts on Audible",
+        "link": "https://www.audible.in/podcast/Raj-Shamani-Figuring-Out/B08K5QB2M9",
+        "displayedLink": "https://www.audible.in \u203a podcast \u203a Raj-Shamani-Figuring-Out \u203a B08K5QB2M9",
+        "snippet": "In Figuring it Out, I showcase my growth, challenges and shortcomings that are a part of my pursuit for happiness. It is an opportunity for my audience to ...",
+        "rating": 5,
+        "ratingCount": 1,
+        "position": 6
+      },
+      {
+        "title": "Raj Shamani Clips",
+        "link": "https://www.youtube.com/@rajshamaniclips",
+        "displayedLink": "https://www.youtube.com \u203a @rajshamaniclips",
+        "snippet": "Raj Shamani Clips is your one-stop destination to find the Highlights of the best episodes from our podcast Figuring Out with Raj Shamani.",
+        "position": 7
+      },
+      {
+        "title": "Khan Sir Podcast: India vs China, Pakistan, Bihar's Reality & Geopolitics",
+        "link": "https://www.youtube.com/watch?v=E3oG313_kps",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Raj Shamani is an entrepreneur and the host of the Figuring Out Podcast. He sits down with experts, athletes, celebrities, billionaires, and\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Raj Shamani | Listen to the Podcast on Spotify",
+        "link": "https://open.spotify.com/show/5iGUU76KYxEebxLGFuWzcU",
+        "displayedLink": "https://open.spotify.com \u203a show \u203a 5iGUU76KYxEebxLGFuWzcU",
+        "snippet": "It is one of India's most popular podcasts where Raj, an entrepreneur and content creator, hosts conversations with successful people from different fields ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

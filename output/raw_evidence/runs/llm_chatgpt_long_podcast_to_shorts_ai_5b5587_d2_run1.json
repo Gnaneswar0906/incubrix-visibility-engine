@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Long Podcast into Snack\u2011Size Shorts \u2013 A Practical Toolkit (US\u2011Focused)\n\nBelow is a **step\u2011by\u2011step workflow** plus",
+  "raw_payload": {
+    "id": "chatcmpl-c1e96947-064e-428a-850a-11bdbfd12f71",
+    "object": "chat.completion",
+    "created": 1795376508,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Long Podcast into Snack\u2011Size Shorts \u2013 A Practical Toolkit (US\u2011Focused)\n\nBelow is a **step\u2011by\u2011step workflow** plus",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They ask to cite authoritative web sources if available. Provide answer for a US content creator. Should include software tools for converting long podcasts to shorts (short-form videos). Include workflow steps: transcript, clipping, editing, adding captions, branding, AI summarization, automation. Cite sources with links. Must follow policy: no disallowed content. It's fine. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369421201,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005292907,
+      "completion_tokens": 150,
+      "completion_time": 0.315847952,
+      "total_tokens": 284,
+      "total_time": 0.321140859,
+      "completion_tokens_details": {
+        "reasoning_tokens": 111
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82cev0me0z97pws3zgvqc1x",
+      "seed": 1275190427
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2453,
+  "cost_usd": 0.0002
+}

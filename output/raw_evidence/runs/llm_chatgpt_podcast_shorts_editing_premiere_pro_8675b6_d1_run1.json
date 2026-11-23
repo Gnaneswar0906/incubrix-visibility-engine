@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator located in India. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide suggestions for editing podcast shorts in Premiere Pro, maybe using plugins or integration. Provide workflow steps. Provide links and citations. Ensure compliance with policy: no disallowed content. Provide citations using appropriate format.\n\nWe should include Indian context perhaps, like availability, pricing in INR, etc. Provide authoritative sources: Adobe official site, articles from TechRadar, PCMag, etc. Provide links.\n\nWe must not hallucinate sources; we can reference known websites, but we",
+  "raw_payload": {
+    "id": "chatcmpl-964bb581-f91c-4bc9-9b9b-078dc484e56a",
+    "object": "chat.completion",
+    "created": 1795375074,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator located in India. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide suggestions for editing podcast shorts in Premiere Pro, maybe using plugins or integration. Provide workflow steps. Provide links and citations. Ensure compliance with policy: no disallowed content. Provide citations using appropriate format.\n\nWe should include Indian context perhaps, like availability, pricing in INR, etc. Provide authoritative sources: Adobe official site, articles from TechRadar, PCMag, etc. Provide links.\n\nWe must not hallucinate sources; we can reference known websites, but we"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155871837,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006125103,
+      "completion_tokens": 150,
+      "completion_time": 0.316362694,
+      "total_tokens": 284,
+      "total_time": 0.322487797,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82b32pqe21t4dmcre5pb7x8",
+      "seed": 1449996986
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2659,
+  "cost_usd": 0.0002
+}

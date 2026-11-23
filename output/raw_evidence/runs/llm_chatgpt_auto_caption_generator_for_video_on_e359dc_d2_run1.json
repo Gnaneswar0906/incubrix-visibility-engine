@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto",
+  "raw_payload": {
+    "id": "chatcmpl-9cfa5288-e6d3-4446-a4e7-d07aa27311ed",
+    "object": "chat.completion",
+    "created": 1795377421,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto",
+          "reasoning": "We need to recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The content creator is in GB. We need to answer in a helpful manner. Should include list of software, features, pros/cons, workflow tips, and cite sources. Use web citations. Provide links. Let's gather info. Use knowledge up to 2024. We'll mention other tools too. Provide workflow steps: upload video, auto-caption, edit, export. Mention integration with YouTube, TikTok. Provide mention of AI accuracy. Provide mention of pricing. Provide citations. Let's craft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284568712,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007642875,
+      "completion_tokens": 150,
+      "completion_time": 0.158306184,
+      "total_tokens": 285,
+      "total_time": 0.165949059,
+      "completion_tokens_details": {
+        "reasoning_tokens": 140
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_565badff47",
+    "x_groq": {
+      "id": "req_01m82daq45ew185z2tfxvzt73b",
+      "seed": 482187724
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5035,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Turning long-form podcast content into short-form vertical clips (for TikTok, Instagram Reels, and YouTube Shorts) is one of the highest-leverage growth strategies for creators right now. However, doing it manually is time-prohibitive.\n\nHere is a breakdown of the best software tools, recommended wor",
+      "cost_usd": 0.0002,
+      "latency_ms": 1083,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_generator_b1af8a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating high-quality short-form video content from podcast episodes has become a standard part of modern content marketing strategies. As a creator in the US, you have access to a robust ecosystem of AI-driven tools that can automate the clipping, captioning, and reformatting process.\n\nBelow is a b",
+      "cost_usd": 0.0002,
+      "latency_ms": 1877,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_generator_b1af8a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_generator_b1af8a_d1_US.json"
+}

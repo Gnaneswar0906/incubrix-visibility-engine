@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [
+    "https://www.youtube.com/watch?v=pL_8XYf6Np8"
+  ],
+  "response_text": "To assist content creators like you in generating subtitles for videos, I have compiled a comprehensive guide on the best software tools, workflow methods, and industry options available for free. Please keep in mind that while some of these options offer free versions, others may have free trials or certain limitations on the free plan.\n\n1. **Subtitle Edit (Windows)**: This widely used software allows you to create, edit, and synchronize subtitles. It supports various subtitle file formats and has a user-friendly interface. Visit their website for download and instructions: [Subtitle Edit](https://www.youtube.com/watch?v=pL_8XYf6Np8).\n\n2",
+  "raw_payload": {
+    "id": "chatcmpl-184809d8-4ce6-4989-9f33-7ae54287f2f7",
+    "object": "chat.completion",
+    "created": 1795375594,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "To assist content creators like you in generating subtitles for videos, I have compiled a comprehensive guide on the best software tools, workflow methods, and industry options available for free. Please keep in mind that while some of these options offer free versions, others may have free trials or certain limitations on the free plan.\n\n1. **Subtitle Edit (Windows)**: This widely used software allows you to create, edit, and synchronize subtitles. It supports various subtitle file formats and has a user-friendly interface. Visit their website for download and instructions: [Subtitle Edit](https://www.youtube.com/watch?v=pL_8XYf6Np8).\n\n2"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046043548,
+      "prompt_tokens": 84,
+      "prompt_time": 0.003274301,
+      "completion_tokens": 150,
+      "completion_time": 0.107294239,
+      "total_tokens": 234,
+      "total_time": 0.11056854
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82bjz53ejeb6red1yvdm1p9",
+      "seed": 294107129
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6695,
+  "cost_usd": 0.0002
+}

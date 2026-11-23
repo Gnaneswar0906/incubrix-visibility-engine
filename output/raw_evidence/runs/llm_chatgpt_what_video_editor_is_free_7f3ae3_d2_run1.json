@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant to a content creator in GB. Query: \"what video editor is free\" They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Provide best free video editors. Provide workflow methods. Provide mention of key industry options. Provide authoritative sources.\n\nWe should include citations from sources like TechRadar, PCMag, etc. Provide links. Use citations with brackets. Provide a comprehensive answer. Use markdown. Provide a list. Also mention workflow methods: editing in stages, using templates, etc.\n\nWe should mention free versions of these tools, their pros and cons, and mention any limitations.",
+  "raw_payload": {
+    "id": "chatcmpl-6ff6fd4a-9312-45b3-bae0-4500ee9ed089",
+    "object": "chat.completion",
+    "created": 1795377323,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant to a content creator in GB. Query: \"what video editor is free\" They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Provide best free video editors. Provide workflow methods. Provide mention of key industry options. Provide authoritative sources.\n\nWe should include citations from sources like TechRadar, PCMag, etc. Provide links. Use citations with brackets. Provide a comprehensive answer. Use markdown. Provide a list. Also mention workflow methods: editing in stages, using templates, etc.\n\nWe should mention free versions of these tools, their pros and cons, and mention any limitations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368510059,
+      "prompt_tokens": 134,
+      "prompt_time": 0.0405684,
+      "completion_tokens": 150,
+      "completion_time": 0.154499384,
+      "total_tokens": 284,
+      "total_time": 0.195067784,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_1d46a73b8b",
+    "x_groq": {
+      "id": "req_01m82d7pvje2s97xb5d02tdtne",
+      "seed": 619477887
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4645,
+  "cost_usd": 0.0002
+}

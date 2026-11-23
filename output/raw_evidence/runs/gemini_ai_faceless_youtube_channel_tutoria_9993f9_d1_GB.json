@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Building and scaling an AI faceless YouTube channel in 2026 requires a streamlined, highly automated tech stack. As AI video generation matures, the workflow has shifted from manual clipping and editing to end-to-end AI orchestration. \n\nHere is a comprehensive tutorial and software guide tailored fo",
+      "cost_usd": 0.0002,
+      "latency_ms": 2988,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_ai_faceless_youtube_channel_tutoria_9993f9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'ai faceless youtube channel tutorial 2026' in GB, popular recommendations include Veed.io, InVideo, Submagic. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 424
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_ai_faceless_youtube_channel_tutoria_9993f9_d1_GB.json"
+}

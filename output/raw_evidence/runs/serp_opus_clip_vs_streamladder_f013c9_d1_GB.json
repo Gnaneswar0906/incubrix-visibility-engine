@@ -1,0 +1,110 @@
+{
+  "query": "opus clip vs streamladder",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/Twitch/comments/1nxlptr/ai_clipping/",
+  "competitors_named": "Opus Clip, Submagic",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus clip vs streamladder",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AI Clipping : r/Twitch",
+        "link": "https://www.reddit.com/r/Twitch/comments/1nxlptr/ai_clipping/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a ai_clipping",
+        "snippet": "I use StreamLadder and it's been quite good for me. Opus was okay but heavy. overproduce clips, but it finds real highlights and handles ...",
+        "sitelinks": [
+          {
+            "title": "AI clip creation tools - worth it? which one? : r/streamingr/streaming\u00b750+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/streaming/comments/1mwnrhp/ai_clip_creation_tools_worth_it_which_one/"
+          },
+          {
+            "title": "Looking for a Clipping Engine : r/Twitchr/Twitch\u00b710+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/Twitch/comments/1jep2do/looking_for_a_clipping_engine/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "OpusClip Alternative for Streamers (2026)",
+        "link": "https://www.streamladder.com/compare/opus-clip",
+        "displayedLink": "https://www.streamladder.com \u203a compare \u203a opus-clip",
+        "snippet": "StreamLadder and OpusClip both turn long videos into short vertical clips, and both score them for you. The difference is the meter. OpusClip charges one ...",
+        "position": 2
+      },
+      {
+        "title": "Streamladder Alternative | OpusClip - AI-powered Video Repurposing",
+        "link": "https://www.opus.pro/alternatives/streamladder",
+        "displayedLink": "https://www.opus.pro \u203a alternatives \u203a streamladder",
+        "snippet": "OpusClip repurposes shorts with AI video trimmer, while alternative products can only mark highlighted moments and requires manual clipping.",
+        "position": 3
+      },
+      {
+        "title": "AI clip creation tools - worth it? which one?",
+        "link": "https://www.reddit.com/r/streaming/comments/1mwnrhp/ai_clip_creation_tools_worth_it_which_one/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a ai_clip_creation_tools_wort...",
+        "sitelinks": [
+          {
+            "title": "Quick question for streamers: If you've used Eklipse, Opus Clip, Crossclip or similar AI ...Facebook\u00a0\u00b7\u00a0Free Promote your Twitch 2025-\u2026\u00a0\u00b7\u00a02 comments\u00a0\u00b7\u00a04mo",
+            "link": "https://www.facebook.com/groups/1112136463063489/posts/2123059328637859/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "Quick question for streamers: If you've used Eklipse, Opus Clip, Crossclip or similar AI ...",
+        "link": "https://www.facebook.com/groups/1112136463063489/posts/2123059328637859/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 2123059328637859",
+        "position": 5
+      },
+      {
+        "title": "The BEST AI Clipping Tool in 2026: Riverside vs Opus Clip vs Submagic",
+        "link": "https://www.youtube.com/watch?v=pa5LVtcbgD0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I test and compare three of the most talked-about AI clipping tools: Riverside, Submagic, and Opus Clip. break down features,\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "7 Best Tools for Content Creators in 2026",
+        "link": "https://streamgen.cc/blog/best-tools-for-content-creators/",
+        "displayedLink": "https://streamgen.cc \u203a blog \u203a best-tools-for-content-crea...",
+        "snippet": "For creators whose workload is dominated by spoken-word repurposing, Opus Clip solves a different bottleneck than StreamGen or StreamLadder.",
+        "date": "20 Oct 2026",
+        "rating": 4.9,
+        "ratingCount": 152,
+        "position": 7
+      },
+      {
+        "title": "Eklipse Alternatives: Eklipse vs StreamLadder, Clipbot & More",
+        "link": "https://clipbot.tv/blog/clipbot-vs-eklipse-comparison-twitch-highlights",
+        "displayedLink": "https://clipbot.tv \u203a blog \u203a clipbot-vs-eklipse-comparis...",
+        "snippet": "StreamLadder: a clip editor with an AI tool, ClipGPT, that scans full VODs. It can also schedule posts. This is the closest match to Eklipse.",
+        "date": "6 Oct 2026",
+        "position": 8
+      },
+      {
+        "title": "StreamLadder: Turn Streams into Viral Clips with AI",
+        "link": "https://www.streamladder.com/",
+        "displayedLink": "https://www.streamladder.com",
+        "snippet": "Turn a 6-hour VOD into clips in minutes. See ClipGPT vs OpusClip on a 4-hour stream. Works with Twitch, YouTube, and Kick VODs. Turn horizontal stream footage ...",
+        "position": 9
+      },
+      {
+        "title": "StreamLadder Alternatives and Pricing (2026)",
+        "link": "https://blitzreels.com/alternatives/streamladder",
+        "displayedLink": "https://blitzreels.com \u203a alternatives \u203a streamladder",
+        "snippet": "If you clip YouTube videos or podcasts, the best StreamLadder alternatives take the link: BlitzReels, OpusClip or Vizard. BlitzReels takes no ...",
+        "date": "4 Nov 2026",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

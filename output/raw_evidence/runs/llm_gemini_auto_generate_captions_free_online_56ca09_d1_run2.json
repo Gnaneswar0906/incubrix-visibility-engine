@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions free online",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to auto-generate captions free online, you have access to a robust ecosystem of AI-powered tools designed to boost engagement, accessibility, and watch time\u2014especially on short-form platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient workflow method tailored for UK creators.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best Overall for Free, Stylized Captions)\n* **Overview:** Widely considered the industry standard for fast, trendy, and free auto-captions. Both its mobile app and desktop software offer robust automated captioning.\n* **Pros:** Highly engaging dynamic styles (Karaoke-style word-by-word highlights), emojis, custom fonts, and completely free core features.\n* **Cons:** Heavy reliance on",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to auto-generate captions free online, you have access to a robust ecosystem of AI-powered tools designed to boost engagement, accessibility, and watch time\u2014especially on short-form platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your specified list), and an efficient workflow method tailored for UK creators.\n\n---\n\n### Key Industry Options for Auto-Captions\n\n#### 1. CapCut (Best Overall for Free, Stylized Captions)\n* **Overview:** Widely considered the industry standard for fast, trendy, and free auto-captions. Both its mobile app and desktop software offer robust automated captioning.\n* **Pros:** Highly engaging dynamic styles (Karaoke-style word-by-word highlights), emojis, custom fonts, and completely free core features.\n* **Cons:** Heavy reliance on",
+              "thoughtSignature": "Eo4BCosBAWkUfRObDP43+oFjfbKIpZRbD2cEoBC7GkIhIpK1TWT2bk4isAbfYGlMXUBFV63YimtdJSVftWqNZHvF9vCG6BXCYov8279gHPU0ifwc46Z5BSmpM2y66mOevJp0o55lAkgQ97I4RnEdmSmIIS69bugE6M0B31nbSzaXSPviZbawc5QDsT8mDNJbBA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "DUIDa-SYC7Gl694PkZztgAs"
+  },
+  "latency_ms": 6906,
+  "cost_usd": 0.0002
+}

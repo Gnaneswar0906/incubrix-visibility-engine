@@ -1,0 +1,19 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+post+to+youtube+t",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto post to youtube t",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:23.961142+00:00",
+  "extracted_count": 6,
+  "suggestions": [
+    "auto post from youtube to tiktok",
+    "auto upload to youtube from twitch",
+    "youtube auto post to twitter",
+    "auto post twitch vods to youtube",
+    "how do i make a youtube post",
+    "how to save photos from youtube posts"
+  ],
+  "raw_response": "[\"auto post to youtube t\",[\"auto post from youtube to tiktok\",\"auto upload to youtube from twitch\",\"youtube auto post to twitter\",\"auto post twitch vods to youtube\",\"how do i make a youtube post\",\"how to save photos from youtube posts\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390]]}]"
+}

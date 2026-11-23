@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "##",
+  "raw_payload": {
+    "id": "chatcmpl-cfc2de43-6767-4b2a-a850-30fee96f05d6",
+    "object": "chat.completion",
+    "created": 1795375795,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "##",
+          "reasoning": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) comparing Opus Clip vs Streamladder. Provide recommendations for a content creator in GB. Cite authoritative web sources if available. Need to ensure compliance with policy: no disallowed content. It's a normal request. Provide citations with links. Use markdown. Provide comparison table. Mention workflow steps: script, capture, edit, AI tools, publishing. Provide UK considerations: GDPR, copyright, platform preferences. Provide citations from reputable sources like TechRadar, PCMag, The Verge, official sites. Provide links. Ensure citations are formatted."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.374241338,
+      "prompt_tokens": 135,
+      "prompt_time": 0.026617461,
+      "completion_tokens": 150,
+      "completion_time": 0.311277436,
+      "total_tokens": 285,
+      "total_time": 0.337894897,
+      "completion_tokens_details": {
+        "reasoning_tokens": 141
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82bs2nzepvvg98fcdpkrjgc",
+      "seed": 2080956235
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2991,
+  "cost_usd": 0.0002
+}

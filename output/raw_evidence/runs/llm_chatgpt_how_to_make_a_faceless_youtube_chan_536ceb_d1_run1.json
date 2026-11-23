@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to make a faceless youtube channel without ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel without relying on AI generation is a viable and often preferred strategy for creators who want full artistic control, authenticity, and to avoid the \"soulless\" feel that some viewers associate with AI-generated content. The key here is to leverage **stock footage, motion graphics, screen recordings, and voiceovers** to tell a compelling story.\n\nHere is a comprehensive guide tailored for a creator in India, focusing on manual workflows, essential software, and industry-standard tools.\n\n### 1. Core Workflow Method: The \"Stock & Graphic\" Pipeline\n\nThe most common and effective method for non-AI faceless channels is the **Stock Footage + Motion Graphics + Voiceover** model.\n\n#### Step 1:",
+  "raw_payload": {
+    "id": "chatcmpl-388153fc-d4dd-4470-8bc5-a4478409c144",
+    "object": "chat.completion",
+    "created": 1795375412,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a faceless YouTube channel without relying on AI generation is a viable and often preferred strategy for creators who want full artistic control, authenticity, and to avoid the \"soulless\" feel that some viewers associate with AI-generated content. The key here is to leverage **stock footage, motion graphics, screen recordings, and voiceovers** to tell a compelling story.\n\nHere is a comprehensive guide tailored for a creator in India, focusing on manual workflows, essential software, and industry-standard tools.\n\n### 1. Core Workflow Method: The \"Stock & Graphic\" Pipeline\n\nThe most common and effective method for non-AI faceless channels is the **Stock Footage + Motion Graphics + Voiceover** model.\n\n#### Step 1:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05381569,
+      "prompt_tokens": 82,
+      "prompt_time": 0.005400039,
+      "completion_tokens": 150,
+      "completion_time": 0.285147094,
+      "total_tokens": 232,
+      "total_time": 0.290547133
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bdcngehpv1f3qevf2kmr7",
+      "seed": 276167950
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1146,
+  "cost_usd": 0.0002
+}

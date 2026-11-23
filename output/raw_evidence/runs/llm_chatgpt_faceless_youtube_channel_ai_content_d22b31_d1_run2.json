@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai content",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel ai content. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations of software tools, workflow methods, mention key industry options, and cite authoritative web sources. The user is in India (IN). Provide relevant tools, possibly free/affordable options, AI tools for faceless YouTube channel creation (text-to-speech, avatar generation, video editing, script generation, etc.). Cite sources. We must ensure compliance with",
+  "raw_payload": {
+    "id": "chatcmpl-359d5a1f-1401-4c14-b480-8f7396f230e2",
+    "object": "chat.completion",
+    "created": 1795375384,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: faceless youtube channel ai content. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations of software tools, workflow methods, mention key industry options, and cite authoritative web sources. The user is in India (IN). Provide relevant tools, possibly free/affordable options, AI tools for faceless YouTube channel creation (text-to-speech, avatar generation, video editing, script generation, etc.). Cite sources. We must ensure compliance with"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369911158,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005307961,
+      "completion_tokens": 150,
+      "completion_time": 0.310405664,
+      "total_tokens": 285,
+      "total_time": 0.315713625,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82bchjkesytezea78zrw7cm",
+      "seed": 761250579
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2186,
+  "cost_usd": 0.0002
+}

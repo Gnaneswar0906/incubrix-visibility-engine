@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=ai+voice+clone+for+video",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "ai voice clone for video",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:49:05.273594Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=firefox&hl=en&gl=us&q=ai+voice+clone+for+video (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd54a648c0>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

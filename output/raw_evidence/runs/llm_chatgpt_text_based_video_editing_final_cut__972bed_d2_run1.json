@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing final cut pro",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a prime position to leverage powerful, cost-effective text-based editing tools. Text-based video editing (often called \"text-based editing\" or \"edit-by-transcript\") allows you to edit your video by editing the transcript, which significantly speeds up the workflow for talking-head videos, podcasts, and educational content.\n\nHere are the best software tools, workflow methods, and key industry options for text-based video editing, including your specific interest in **Final Cut Pro**:\n\n### \ud83c\udfc6 Top Text-Based Video Editing Tools\n\n#### 1. **Descript** (Industry Leader in Text-Based Editing)\n- **Why it\u2019s great**: Descript pioneered the \"edit video by editing",
+  "raw_payload": {
+    "id": "chatcmpl-87173b67-fce9-4129-82cc-5491ac9284d9",
+    "object": "chat.completion",
+    "created": 1795376906,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a prime position to leverage powerful, cost-effective text-based editing tools. Text-based video editing (often called \"text-based editing\" or \"edit-by-transcript\") allows you to edit your video by editing the transcript, which significantly speeds up the workflow for talking-head videos, podcasts, and educational content.\n\nHere are the best software tools, workflow methods, and key industry options for text-based video editing, including your specific interest in **Final Cut Pro**:\n\n### \ud83c\udfc6 Top Text-Based Video Editing Tools\n\n#### 1. **Descript** (Industry Leader in Text-Based Editing)\n- **Why it\u2019s great**: Descript pioneered the \"edit video by editing"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054286588,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005566821,
+      "completion_tokens": 150,
+      "completion_time": 0.290119685,
+      "total_tokens": 229,
+      "total_time": 0.295686506
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cv011eqx8wwp2dmnkks5t",
+      "seed": 193934440
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1209,
+  "cost_usd": 0.0002
+}

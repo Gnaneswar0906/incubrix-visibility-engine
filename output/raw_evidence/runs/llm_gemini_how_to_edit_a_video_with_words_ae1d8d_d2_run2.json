@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., editing videos using text (often called **text-based video editing** or **transcript-based editing**) is one of the most efficient ways to produce content for YouTube, TikTok, Reels, and podcasts. Instead of scrubbing through a timeline and trimming clips manually, you simply edit a word document of the transcript, and the video edits itself.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading platforms to help you streamline your video creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are looking for AI-driven automation, multi-cam podcast editing, or quick social media clips, the industry currently relies on a few powerhouse platforms:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered the concept of editing video by editing text. It features hyper-accurate transcription, a \"Studio Sound\"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., editing videos using text (often called **text-based video editing** or **transcript-based editing**) is one of the most efficient ways to produce content for YouTube, TikTok, Reels, and podcasts. Instead of scrubbing through a timeline and trimming clips manually, you simply edit a word document of the transcript, and the video edits itself.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading platforms to help you streamline your video creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you are looking for AI-driven automation, multi-cam podcast editing, or quick social media clips, the industry currently relies on a few powerhouse platforms:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered the concept of editing video by editing text. It features hyper-accurate transcription, a \"Studio Sound\"",
+              "thoughtSignature": "Eo4BCosBAWkUfRN1ey6ivG6knvm7LsPXkcAevpJoE6EtCmMhqD8JIh6aKbxzqBsljD4+EeG/LbeI1xScklg0yWxkA5c7VgUsfjihtJRFgUzAEXsCSgagPSUPoMTU4wx0xwUwDadfEdfWE6cy+lssKWHBQXvDwCcUe+ih8L71Bb3/L5wzUo/mTVgJKeTCZr66qQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "mUUDa77oPKfh694Py_HtCQ"
+  },
+  "latency_ms": 2242,
+  "cost_usd": 0.0002
+}

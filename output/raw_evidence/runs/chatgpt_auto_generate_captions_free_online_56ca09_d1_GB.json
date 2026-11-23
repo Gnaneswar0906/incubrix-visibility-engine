@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions free online",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Generate Captions\u202f\u2014\u202fFree Online Tools & Workflow for a UK Content Creator**  \n\nBelow is a concise guide that covers:\n\n1. **",
+      "cost_usd": 0.0002,
+      "latency_ms": 4079,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_free_online_56ca09_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants: \"auto generate captions free online\". They are a content creator located in GB. They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to answe",
+      "cost_usd": 0.0002,
+      "latency_ms": 4688,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_free_online_56ca09_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_free_online_56ca09_d1_GB.json"
+}

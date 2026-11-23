@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto upload to youtube on autopilot' in US, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 493
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto upload to youtube on autopilot' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 458
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_upload_to_youtube_on_autopilot_279425_d2_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Instagram \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **concise, actionable guide** that covers:\n\n| What",
+  "raw_payload": {
+    "id": "chatcmpl-db24a437-8b73-4796-a6e5-0bbd11be4814",
+    "object": "chat.completion",
+    "created": 1795376621,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Instagram \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **concise, actionable guide** that covers:\n\n| What",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto generating captions for Instagram. Include best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Mention pros/cons, pricing, integration. Provide authoritative sources like TechCrunch, The Verge, etc. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.280970488,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006143131,
+      "completion_tokens": 150,
+      "completion_time": 0.312733695,
+      "total_tokens": 284,
+      "total_time": 0.318876826,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82cj90gez8ajqp2beq63rr8",
+      "seed": 1360556234
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2445,
+  "cost_usd": 0.0002
+}

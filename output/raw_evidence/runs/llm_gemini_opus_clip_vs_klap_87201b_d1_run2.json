@@ -1,0 +1,52 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Klap"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I have evaluated **Opus Clip** and **Klap**\u2014the two leading AI-driven video repurposing tools designed to slice long-form videos into viral, short-form content for TikTok, Instagram Reels, and YouTube Shorts. \n\nBelow is a comprehensive breakdown comparing Opus Clip and Klap, alongside recommendations for the best software tools, workflow methods, and industry alternatives like IncuBrix, CapCut, and Descript.\n\n---\n\n### Part 1: Opus Clip vs. Klap\n\nBoth tools utilize generative AI to find \"hook-worthy\" moments in long videos, automatically add captions, and reframe speakers",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I have evaluated **Opus Clip** and **Klap**\u2014the two leading AI-driven video repurposing tools designed to slice long-form videos into viral, short-form content for TikTok, Instagram Reels, and YouTube Shorts. \n\nBelow is a comprehensive breakdown comparing Opus Clip and Klap, alongside recommendations for the best software tools, workflow methods, and industry alternatives like IncuBrix, CapCut, and Descript.\n\n---\n\n### Part 1: Opus Clip vs. Klap\n\nBoth tools utilize generative AI to find \"hook-worthy\" moments in long videos, automatically add captions, and reframe speakers"
+            },
+            {
+              "text": " into a vertical (9:16) aspect ratio. However, they cater to slightly different creator needs.\n\n#### **Opus Clip**\n* **Best For:** Scale, speed, and virality scoring.\n* **Key Features:** \n  * **Virality Score:** Opus analyzes your clip and gives it a score from 1-100 based on psychological hooks and trends, explaining *why* it expects the clip to perform well.\n  * **Curator AI:** Allows you to filter clips by length, keyword, or score.\n  * **Seamless B-Roll & Transitions:** Automatically injects relevant emojis, captions, and zoom-ins.\n* **Pros:** Highly accurate at finding standalone moments with strong hooks; generous free trial tiers; very fast processing.\n* **Cons:** The user interface can feel a bit crowded; heavy reliance on AI means sometimes the auto-cropping cuts off co-hosts in multi-person podcasts.\n\n####",
+              "thoughtSignature": "Eo4BCosBAWkUfROA9pSQxRUVNU4gj/75XyILIc/2Elm5Oz9uXeiCXotwwewRXocdwDu6FdwM5E2omzo/UpPWldnb0CZ0AKJ9/THAKCBq2YmRaZZ/dBpBADMVJ5Yj9EbDERq1WUFLzk3Q0+j3tEmx5vHD4UrYBFcMWGvMuI8rLD/a3xCc9Ef2xIJnaN5ubDvKMA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 341,
+      "totalTokenCount": 404,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "eD8Da8aiI7ang8UPtoWLSQ"
+  },
+  "latency_ms": 7321,
+  "cost_usd": 0.0002
+}

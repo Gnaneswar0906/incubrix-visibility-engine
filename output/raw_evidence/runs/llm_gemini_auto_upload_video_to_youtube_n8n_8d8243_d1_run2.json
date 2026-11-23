@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that automating your YouTube upload pipeline using **n8n** is one of the most efficient ways to scale a channel\u2014especially if you are producing short-form content (Shorts, Reels, TikToks) or programmatic long-form videos.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to build a fully automated YouTube upload engine.\n\n---\n\n### 1. Workflow Architecture: How to Build the n8n Pipeline\nA robust video automation workflow typically follows a 4-stage pipeline:\n1. **Trigger:** A new file is added to Google Drive/Dropbox, a row is updated in Airtable/Google Sheets, or an automated rendering tool finishes a video.\n2. **AI Processing / Editing (Optional):** Trimming, captioning, or clipping via tools like Opus Clip or Descript.\n3.",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that automating your YouTube upload pipeline using **n8n** is one of the most efficient ways to scale a channel\u2014especially if you are producing short-form content (Shorts, Reels, TikToks) or programmatic long-form videos.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and key industry options to build a fully automated YouTube upload engine.\n\n---\n\n### 1. Workflow Architecture: How to Build the n8n Pipeline\nA robust video automation workflow typically follows a 4-stage pipeline:\n1. **Trigger:** A new file is added to Google Drive/Dropbox, a row is updated in Airtable/Google Sheets, or an automated rendering tool finishes a video.\n2. **AI Processing / Editing (Optional):** Trimming, captioning, or clipping via tools like Opus Clip or Descript.\n3.",
+              "thoughtSignature": "Eo4BCosBAWkUfRP0tTug0aZrPeLTXNKWPDJ7BtBoeESWRVW3OlQJftd0kkeLDGdXPNOwX7+kvohwi5GA1s3WLt6gGm9c1HXIJ8dP9XaqWD/i8GnwMDuHyMhtzu97mnZhrwQMTpJXXogKGnrPyLvUKQWAWsKCq2owM4utodlpodyrs6vgcOmPHdzzTtNTNJu12w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "NT8Da7vhIsvB694PpIOb2Q0"
+  },
+  "latency_ms": 3007,
+  "cost_usd": 0.0002
+}

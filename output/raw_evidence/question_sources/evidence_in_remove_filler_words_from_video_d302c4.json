@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=remove+filler+words+from+video",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "remove filler words from video",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:30:53.664115+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "remove filler words from video",
+    "remove filler words from video free",
+    "remove filler words from video online free",
+    "remove filler words from video capcut",
+    "remove filler words from video premiere pro",
+    "ai remove filler words from video",
+    "remove words from a video",
+    "words from filler",
+    "erase words from video",
+    "how to delete words from a video"
+  ],
+  "raw_response": "[\"remove filler words from video\",[\"remove filler words from video\",\"remove filler words from video free\",\"remove filler words from video online free\",\"remove filler words from video capcut\",\"remove filler words from video premiere pro\",\"ai remove filler words from video\",\"remove words from a video\",\"words from filler\",\"erase words from video\",\"how to delete words from a video\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

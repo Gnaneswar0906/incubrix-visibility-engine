@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs descript reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking for tools that balance **cost-effectiveness**, **quality**, and **ease of integration** with popular platforms like YouTube, Instagram Reels, and LinkedIn.\n\nBelow is a detailed comparison of **Opus Clip** vs. **Descript**, followed by recommended workflows and other key industry options (including **Incubrix**, **CapCut**, and others), tailored for creators in IN.\n\n---\n\n### \ud83c\udd9a Opus Clip vs. Descript: Key Differences\n\n| Feature | **Opus Clip** | **Descript** |\n|--------|---------------|-------------|\n| **Primary Use Case** | **AI-powered clipping** (long video \u2192 short",
+  "raw_payload": {
+    "id": "chatcmpl-2c6d31eb-4e44-49ec-8d61-282cd83c9c5d",
+    "object": "chat.completion",
+    "created": 1795375320,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking for tools that balance **cost-effectiveness**, **quality**, and **ease of integration** with popular platforms like YouTube, Instagram Reels, and LinkedIn.\n\nBelow is a detailed comparison of **Opus Clip** vs. **Descript**, followed by recommended workflows and other key industry options (including **Incubrix**, **CapCut**, and others), tailored for creators in IN.\n\n---\n\n### \ud83c\udd9a Opus Clip vs. Descript: Key Differences\n\n| Feature | **Opus Clip** | **Descript** |\n|--------|---------------|-------------|\n| **Primary Use Case** | **AI-powered clipping** (long video \u2192 short"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051585065,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005148615,
+      "completion_tokens": 150,
+      "completion_time": 0.28558771,
+      "total_tokens": 229,
+      "total_time": 0.290736325
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bake8e4ysak06naqdszkb",
+      "seed": 1042319259
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1829,
+  "cost_usd": 0.0002
+}

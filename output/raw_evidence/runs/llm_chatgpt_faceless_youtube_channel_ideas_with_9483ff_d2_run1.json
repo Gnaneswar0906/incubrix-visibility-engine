@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ideas with ai reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to the query: \"faceless youtube channel ideas with ai reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give ideas for faceless YouTube channel using AI, mention software tools, workflow methods, key industry options. Provide citations. Must cite authoritative sources. We need to search for relevant sources. Since we can't actually browse the internet, we need to rely on knowledge up to 2024. But we can produce citations referencing known sources like TechCrunch, Forbes, etc. But we need to provide citations with URLs. We should reference credible websites",
+  "raw_payload": {
+    "id": "chatcmpl-e956e76b-6e32-4e04-b294-54873e641370",
+    "object": "chat.completion",
+    "created": 1795377182,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to the query: \"faceless youtube channel ideas with ai reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give ideas for faceless YouTube channel using AI, mention software tools, workflow methods, key industry options. Provide citations. Must cite authoritative sources. We need to search for relevant sources. Since we can't actually browse the internet, we need to rely on knowledge up to 2024. But we can produce citations referencing known sources like TechCrunch, Forbes, etc. But we need to provide citations with URLs. We should reference credible websites"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156269622,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006689076,
+      "completion_tokens": 150,
+      "completion_time": 0.15706176,
+      "total_tokens": 287,
+      "total_time": 0.163750836,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a12402de73",
+    "x_groq": {
+      "id": "req_01m82d3dsne6aa2n41tgmm3h4m",
+      "seed": 1062664232
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3756,
+  "cost_usd": 0.0002
+}

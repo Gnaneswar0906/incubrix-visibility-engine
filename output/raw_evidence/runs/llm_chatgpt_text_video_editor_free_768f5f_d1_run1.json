@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking for tools that balance **cost-effectiveness** with **high-quality output**, especially given the competitive nature of the Indian digital market.\n\nHere are the best free and freemium text-to-video and text-based video editing tools, categorized by their primary use case, along with recommended workflows.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **CapCut** (Best Overall for Short-Form & Social Media)\n*   **Why it\u2019s great for IN creators:** Highly popular in India for Reels/Shorts. Offers free auto-captions, trendy templates, and effects without watermarks (on the desktop version).\n*   **Key",
+  "raw_payload": {
+    "id": "chatcmpl-bdac29f8-2d55-4bc1-9899-d4ad0e37d478",
+    "object": "chat.completion",
+    "created": 1795375154,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking for tools that balance **cost-effectiveness** with **high-quality output**, especially given the competitive nature of the Indian digital market.\n\nHere are the best free and freemium text-to-video and text-based video editing tools, categorized by their primary use case, along with recommended workflows.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **CapCut** (Best Overall for Short-Form & Social Media)\n*   **Why it\u2019s great for IN creators:** Highly popular in India for Reels/Shorts. Offers free auto-captions, trendy templates, and effects without watermarks (on the desktop version).\n*   **Key"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048883526,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005072894,
+      "completion_tokens": 150,
+      "completion_time": 0.286104513,
+      "total_tokens": 226,
+      "total_time": 0.291177407
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b5gjce2z9acgtbp6n3r6m",
+      "seed": 478147700
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1179,
+  "cost_usd": 0.0002
+}

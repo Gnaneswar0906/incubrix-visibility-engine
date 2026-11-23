@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Pick List \u2013 Free (or \u201cfree\u2011tier\u201d) Auto\u2011Caption Tools for Long\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-7d32906d-5739-48ac-8302-49c398e4c126",
+    "object": "chat.completion",
+    "created": 1795374732,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Pick List \u2013 Free (or \u201cfree\u2011tier\u201d) Auto\u2011Caption Tools for Long\u2011",
+          "reasoning": "The user wants recommendations for auto caption generator for long video free. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to be helpful, list free options, maybe freemium. Provide workflow: upload video, auto transcription, edit captions, export SRT, embed. Provide pros/cons, pricing, limitations. Cite sources: maybe from official sites, reviews. Provide links. Ensure compliance: no disallowed content. Provide citations in brackets with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367405321,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005759736,
+      "completion_tokens": 150,
+      "completion_time": 0.310691364,
+      "total_tokens": 286,
+      "total_time": 0.3164511,
+      "completion_tokens_details": {
+        "reasoning_tokens": 121
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82armhreq9vt126apvfw00k",
+      "seed": 1233363053
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3697,
+  "cost_usd": 0.0002
+}

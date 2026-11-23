@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an optimized workflow to get professional results.\n\n---\n\n### Key Industry Options for Bangla Auto-Captions\n\nWhile many tools struggle with non-English languages, AI advancements have made significant strides. Here is how the tools you mentioned\u2014and a few others\u2014handle Bangla:\n\n#### 1. CapCut (Best for Mobile & Quick Social Media Edits)\n* **Bangla Support:** CapCut supports auto-captions in dozens of languages, including Bengali. Its speech-recognition engine does a surprisingly good job with clear Bengali audio.\n* **Pros:** Free, highly",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an optimized workflow to get professional results.\n\n---\n\n### Key Industry Options for Bangla Auto-Captions\n\nWhile many tools struggle with non-English languages, AI advancements have made significant strides. Here is how the tools you mentioned\u2014and a few others\u2014handle Bangla:\n\n#### 1. CapCut (Best for Mobile & Quick Social Media Edits)\n* **Bangla Support:** CapCut supports auto-captions in dozens of languages, including Bengali. Its speech-recognition engine does a surprisingly good job with clear Bengali audio.\n* **Pros:** Free, highly",
+              "thoughtSignature": "Eo4BCosBAWkUfROkGvX3xw4se010p53QmNgF7MiO/RSa02BgvCRFZZnf9yWXzlpro3o+DEs1mvX/RG60IZ4YELUEr8Pot9uKSDg7B4g4hH59MjFaRAXLDTWCxzm24uYLvU3bdzHAh9vb2rhXSY9q56VB3r/E6kxQm2MvPCi5t00E0ojAQAOLA2bq1TWtA2icsg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "CkYDa7YVlPTPuw-U8eOBDA"
+  },
+  "latency_ms": 3026,
+  "cost_usd": 0.0002
+}

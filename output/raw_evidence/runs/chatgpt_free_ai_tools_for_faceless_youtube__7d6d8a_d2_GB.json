@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond with free AI tools for faceless YouTube channel. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Must be helpful for content creator in GB. Provide tools: text-to-speech, AI v",
+      "cost_usd": 0.0002,
+      "latency_ms": 7014,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: free AI tools for faceless YouTube channel. Recommend best software tools, workflow methods, mention key industry options like Incubrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful for content creator in GB. Provide list of tools: sc",
+      "cost_usd": 0.0002,
+      "latency_ms": 6165,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d2_GB.json"
+}

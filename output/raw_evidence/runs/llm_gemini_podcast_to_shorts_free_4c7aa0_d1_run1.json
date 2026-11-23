@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form clips (TikToks, Instagram Reels, YouTube Shorts) for **free** (or using free tiers). \n\nHere is a breakdown of the best software tools, key industry options you mentioned, and a recommended workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Options & Free Tools\n\nWhen looking to repurpose podcasts into shorts, automation and AI are your best friends. Here is how the top tools stack up, including the ones you highlighted:\n\n1. **Opus Clip (Industry Leader for AI Curation)**\n   * **What it does:** An AI-powered generative video tool that repurposes long videos into high-potential shorts in one click. It analyzes your podcast, identifies hooks, extracts B-roll, and adds animated captions.\n   * **Cost",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form clips (TikToks, Instagram Reels, YouTube Shorts) for **free** (or using free tiers). \n\nHere is a breakdown of the best software tools, key industry options you mentioned, and a recommended workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Options & Free Tools\n\nWhen looking to repurpose podcasts into shorts, automation and AI are your best friends. Here is how the top tools stack up, including the ones you highlighted:\n\n1. **Opus Clip (Industry Leader for AI Curation)**\n   * **What it does:** An AI-powered generative video tool that repurposes long videos into high-potential shorts in one click. It analyzes your podcast, identifies hooks, extracts B-roll, and adds animated captions.\n   * **Cost",
+              "thoughtSignature": "Eo4BCosBAWkUfRNT1+8dh1UqGj2J0BfLz3JEVyS9nEfYg81/NNvoj3I0uqmNe+BK0nzIXcv5w5wf2w389bIwZwYizW2OtN6ayzolikfzLaEd8M55MdlobXCi7b+QeptnvVZnAr2G8bbjWGs3oWWnT7WFXFW2gTrsik28SpP3rUCFCGWjKbCYPSq29cj48S4doA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jT0Da_DTEejmz7sPrOi0gQY"
+  },
+  "latency_ms": 2512,
+  "cost_usd": 0.0002
+}

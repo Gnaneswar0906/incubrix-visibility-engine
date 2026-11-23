@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Uploading Twitch Streams",
+  "raw_payload": {
+    "id": "chatcmpl-5a6b041e-78bf-4acc-9249-62480e206e80",
+    "object": "chat.completion",
+    "created": 1795376676,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Uploading Twitch Streams",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto uploading from Twitch to YouTube. Mention software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Use markdown. Provide steps. Provide pros/cons. Provide links. Provide best practices. Ensure no disallowed content. Should be fine.\n\nWe need to cite sources. Could reference official docs from Twitch, YouTube API, Zapier, Streamlabs, Restream, etc. Provide URLs. Use footnote style citations.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369036968,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00573885,
+      "completion_tokens": 150,
+      "completion_time": 0.315902121,
+      "total_tokens": 285,
+      "total_time": 0.321640971,
+      "completion_tokens_details": {
+        "reasoning_tokens": 136
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82ckz5behdtsejg4qm6hhw2",
+      "seed": 350369788
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2678,
+  "cost_usd": 0.0002
+}

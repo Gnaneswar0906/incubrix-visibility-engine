@@ -1,0 +1,121 @@
+{
+  "query": "opus clip vs klap",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=SpT52wVn47E",
+  "competitors_named": "Opus Clip, Klap",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus clip vs klap",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Opus Clip vs Klap? Which is Better Choice?",
+        "link": "https://www.youtube.com/watch?v=SpT52wVn47E",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Opus Clip is an amazing tool that turns your long form videos into short vertical reels. The Klap tool does a very similar thing by using AI\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Klap vs Opus Clip: Honest Comparison After Testing Both (2026)",
+        "link": "https://autoposting.ai/blog/klap-vs-opus-clip",
+        "displayedLink": "https://autoposting.ai \u203a blog \u203a klap-vs-opus-clip",
+        "snippet": "Winner: Tie, with an asterisk. Klap produced cleaner output per clip. Opus Clip produced more usable clips total. Which matters more depends on ...",
+        "date": "May 19, 2026",
+        "position": 2
+      },
+      {
+        "title": "Klap vs Opus Clip",
+        "link": "https://exemplary.ai/compare/klap-vs-opus-clip",
+        "displayedLink": "https://exemplary.ai \u203a compare \u203a klap-vs-opus-clip",
+        "snippet": "Klap and Opus Clip both turn long recordings into short clips. Klap offers a one-source free evaluation without a watermark; Opus Clip includes branding on free ...",
+        "position": 3
+      },
+      {
+        "title": "Anyone find success with AI clipped shorts? (Opusclip, klap, etc.)",
+        "link": "https://www.reddit.com/r/podcasting/comments/1s0z324/anyone_find_success_with_ai_clipped_shorts/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a anyone_find_success_with_ai...",
+        "snippet": "I've also used opusclip, klap, and couple other similar apps in the past. The quality is always hit or miss. The problem I'm having is that they ...",
+        "sitelinks": [
+          {
+            "title": "Opus Clip & all other \"Viral\" Clip AI Tools -- Happy with any? - Redditr/podcasting\u00b7150+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/podcasting/comments/1fd4dlh/opus_clip_all_other_viral_clip_ai_tools_happy/"
+          },
+          {
+            "title": "r/aitubers on Reddit: Opus And Klap Eat My Profit ... Here is what i did nextr/aitubers\u00b710+ comments\u00b79mo",
+            "link": "https://www.reddit.com/r/aitubers/comments/1qww4ot/opus_and_klap_eat_my_profit_here_is_what_i_did/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "Opus Clip vs Klap - Which Produces Better Shorts",
+        "link": "https://www.youtube.com/watch?v=Jn1ZnpLuUhw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Choosing between Klap and Opus Clip for AI shorts? In this video, I break down the 5 key differences you NEED to know before signing up. From\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Opus Clip vs Klap \u2014 which AI clipper in 2026? | Butter",
+        "link": "https://hellobutter.io/compare-tools/opus-clip-vs-klap",
+        "displayedLink": "https://hellobutter.io \u203a compare-tools \u203a opus-clip-vs-klap",
+        "snippet": "Opus Clip beats Klap on raw clip detection quality and pricing flexibility \u2014 its virality-scoring model and $15-29/mo pricing fit most podcast and YouTube ...",
+        "position": 6
+      },
+      {
+        "title": "Opus Clip vs Klap Comparison: Best AI Tool for Short Videos",
+        "link": "https://www.red11media.com/blog/opus-clip-vs-klap",
+        "displayedLink": "https://www.red11media.com \u203a blog \u203a opus-clip-vs-klap",
+        "snippet": "Opus Clip is better for teams that need scalability, data, and flexibility. Klap is better for users who want a fast, clean solution without ...",
+        "date": "Apr 22, 2026",
+        "position": 7
+      },
+      {
+        "title": "Klap vs OpusClip: I Tested Both\u2026 The Results Weren't Close",
+        "link": "https://www.youtube.com/watch?v=80jtl7skfcA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Klap won: its clips start and end on a complete thought, it keeps what's on screen in frame, and it even cut a line it didn't need.",
+        "position": 8
+      },
+      {
+        "title": "The AI based alternative to Opus Clip",
+        "link": "https://klap.app/alternatives/opus-clip",
+        "displayedLink": "https://klap.app \u203a alternatives \u203a opus-clip",
+        "snippet": "OpusClip has no editing on Free, and media uploads start on Pro. Klap ships a full editor in every plan: precise cuts, media import, longer ...",
+        "date": "5 days ago",
+        "rating": 4.9,
+        "ratingCount": 120,
+        "position": 9
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Is there anything better than OpusClip?"
+      },
+      {
+        "question": "Does the OpusClip really work?"
+      },
+      {
+        "question": "Does OpusClip lower quality?"
+      },
+      {
+        "question": "Why is OpusClip so expensive?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Klap AI"
+      },
+      {
+        "query": "Invideo AI"
+      }
+    ],
+    "credits": 1
+  }
+}

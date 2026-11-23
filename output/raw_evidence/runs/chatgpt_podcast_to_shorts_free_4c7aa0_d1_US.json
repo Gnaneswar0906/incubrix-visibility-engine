@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Converting long-form podcast content into short-form vertical video (Reels, TikTok, Shorts) is one of the most effective ways to grow an audience in 2024/2025. Since you are in the US and looking for **free** options, it\u2019s important to manage expectations: most \"AI clipping\" tools operate on a \"free",
+      "cost_usd": 0.0002,
+      "latency_ms": 1083,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_free_4c7aa0_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Turning a Podcast Episode into Free \u201cShorts\u201d (TikTok, YouTube Shorts, Instagram",
+      "cost_usd": 0.0002,
+      "latency_ms": 2827,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_free_4c7aa0_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_free_4c7aa0_d1_US.json"
+}

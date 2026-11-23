@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "adobe text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 The Best Tools & Workflow for Indian Creators  \n\nBelow is a compact guide that covers **(1)",
+  "raw_payload": {
+    "id": "chatcmpl-e455106c-312c-4dac-b5f7-444ada9f4c92",
+    "object": "chat.completion",
+    "created": 1795375181,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 The Best Tools & Workflow for Indian Creators  \n\nBelow is a compact guide that covers **(1)",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for best software tools for text-based video editing, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Mention free/paid options. Possibly mention Indian context. Provide sources like TechRadar, PCMag, etc. Ensure citations are formatted."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369952367,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005453622,
+      "completion_tokens": 150,
+      "completion_time": 0.317020296,
+      "total_tokens": 284,
+      "total_time": 0.322473918,
+      "completion_tokens_details": {
+        "reasoning_tokens": 112
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82b6b86eccbajm0mekmcdb0",
+      "seed": 234502973
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2764,
+  "cost_usd": 0.0002
+}

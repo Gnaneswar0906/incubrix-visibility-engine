@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a US-based content creator, automating your YouTube production pipeline is one of the most effective ways to scale your channel without burning out. The industry has shifted from simple \"upload bots\" to sophisticated **AI-assisted editing and scheduling ecosystems**.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options to achieve efficient, semi-automated (or fully automated) video posting.\n\n### 1. Key Industry Tools & Software\n\n#### A. AI-Powered Repurposing & Editing\nThese tools automate the heavy lifting of turning long-form content into short-form clips or editing raw footage.\n\n*   **Opus Clip**: One of the most popular tools for turning long YouTube videos into viral Shorts/Re",
+  "raw_payload": {
+    "id": "chatcmpl-2e927f36-c130-473c-8894-97d74cdd0810",
+    "object": "chat.completion",
+    "created": 1795374867,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "As a US-based content creator, automating your YouTube production pipeline is one of the most effective ways to scale your channel without burning out. The industry has shifted from simple \"upload bots\" to sophisticated **AI-assisted editing and scheduling ecosystems**.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options to achieve efficient, semi-automated (or fully automated) video posting.\n\n### 1. Key Industry Tools & Software\n\n#### A. AI-Powered Repurposing & Editing\nThese tools automate the heavy lifting of turning long-form content into short-form clips or editing raw footage.\n\n*   **Opus Clip**: One of the most popular tools for turning long YouTube videos into viral Shorts/Re"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046702731,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004965819,
+      "completion_tokens": 150,
+      "completion_time": 0.310058203,
+      "total_tokens": 226,
+      "total_time": 0.315024022
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82awr9betb8f5j85375s8rt",
+      "seed": 540235697
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3034,
+  "cost_usd": 0.0002
+}

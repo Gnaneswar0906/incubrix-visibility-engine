@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Guide: Cutting Out Filler Words in\u202fPremiere\u202fPro  \n\n| Step | What to do | How to do it in Premiere Pro | Tips for speed",
+  "raw_payload": {
+    "id": "chatcmpl-3b5895e4-5905-4908-bb70-b57ab2fafd8c",
+    "object": "chat.completion",
+    "created": 1795375558,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Guide: Cutting Out Filler Words in\u202fPremiere\u202fPro  \n\n| Step | What to do | How to do it in Premiere Pro | Tips for speed",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for removing filler words from video using Premiere Pro, plus other software tools, workflow methods, and mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no copyrighted text beyond 90 characters, can summarize. Provide citations with URLs. Should be helpful. Also note UK location maybe mention UK-specific resources. Provide workflow steps. Let's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155898368,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005626302,
+      "completion_tokens": 150,
+      "completion_time": 0.316030712,
+      "total_tokens": 286,
+      "total_time": 0.321657014,
+      "completion_tokens_details": {
+        "reasoning_tokens": 106
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82bhvqsew19syhakpwapqvf",
+      "seed": 1419640425
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3186,
+  "cost_usd": 0.0002
+}

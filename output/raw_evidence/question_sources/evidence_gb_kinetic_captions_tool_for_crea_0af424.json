@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=gb&q=kinetic+captions+tool+for+creators",
+  "source_type": "YouTube Autocomplete",
+  "market": "GB",
+  "seed": "kinetic captions tool for creators",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:08:11.250922Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"kinetic captions tool for creators\",[],{\"k\":1}])"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a prime position to leverage automated captioning. The demand for short-form video (Reels, Shorts, TikTok) is massive in the Indian market, and accurate, engaging captions are critical for retention, especially for viewers who watch on mute or have limited data.\n\nBelow are the **best software tools**, **workflow methods**, and **industry options** specifically tailored for auto-generating captions, with recommendations optimized for your location and content style.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Generated Captions\n\n#### 1. **CapCut** (Best for Short-Form & Social Media)\n- **Why it\u2019s great for you:** CapCut is free, mobile",
+  "raw_payload": {
+    "id": "chatcmpl-a07cf46f-0a6e-4ce5-9ec7-5a027b55a61a",
+    "object": "chat.completion",
+    "created": 1795376995,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a prime position to leverage automated captioning. The demand for short-form video (Reels, Shorts, TikTok) is massive in the Indian market, and accurate, engaging captions are critical for retention, especially for viewers who watch on mute or have limited data.\n\nBelow are the **best software tools**, **workflow methods**, and **industry options** specifically tailored for auto-generating captions, with recommendations optimized for your location and content style.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Generated Captions\n\n#### 1. **CapCut** (Best for Short-Form & Social Media)\n- **Why it\u2019s great for you:** CapCut is free, mobile"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053799122,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005098358,
+      "completion_tokens": 150,
+      "completion_time": 0.290978777,
+      "total_tokens": 226,
+      "total_time": 0.296077135
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cxpkjebj82hx701dm1qnk",
+      "seed": 1057576896
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1947,
+  "cost_usd": 0.0002
+}

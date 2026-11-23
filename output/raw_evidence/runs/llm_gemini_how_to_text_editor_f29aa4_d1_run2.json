@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to text editor",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India, choosing the right \"text editor\" depends heavily on what you mean by the term. In the creator economy, a text editor usually falls into two categories: **Code/Script Editors** (for writing video scripts, managing website code, or programming automated tools) and **Text-Based Video Editors** (where you edit videos simply by editing text transcripts). \n\nBelow is a comprehensive guide covering both use cases, featuring industry-standard tools, workflow methods, and specific mentions of the platforms you requested.\n\n---\n\n### Part 1: Text-Based Video Editors (Edit Video by Editing Text)\nFor modern content creators (especially YouTubers, podcasters, and reel makers), traditional timeline editing can be tedious. Text-based video editors let you cut filler words, rearrange sentences, and edit videos as if you were editing a Word document.\n\n#### Key Industry Options & Recommendations:\n1. **Descript**\n   *",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India, choosing the right \"text editor\" depends heavily on what you mean by the term. In the creator economy, a text editor usually falls into two categories: **Code/Script Editors** (for writing video scripts, managing website code, or programming automated tools) and **Text-Based Video Editors** (where you edit videos simply by editing text transcripts). \n\nBelow is a comprehensive guide covering both use cases, featuring industry-standard tools, workflow methods, and specific mentions of the platforms you requested.\n\n---\n\n### Part 1: Text-Based Video Editors (Edit Video by Editing Text)\nFor modern content creators (especially YouTubers, podcasters, and reel makers), traditional timeline editing can be tedious. Text-based video editors let you cut filler words, rearrange sentences, and edit videos as if you were editing a Word document.\n\n#### Key Industry Options & Recommendations:\n1. **Descript**\n   *",
+              "thoughtSignature": "Eo4BCosBAWkUfRNy0j/JcudSn7erUSHFjf5OLg9dzUdBozeuBHCLuGs96envEEyj7iHYBJBx9flMCEO97mUuKzJjHNXMxlFZiJoXbq2w5GoqsslMCH49mmYkRZ4yTnt7r+oPzs3uVITunpfe7Ra5RT+KOoRxQptNPkI27ZfWGiSvyRV+mJmbWIcIIGR0ScPV9A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "K0ADa4iOKrv1g8UP1KXp8QQ"
+  },
+  "latency_ms": 7006,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor app",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: text video editor app Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for text video editor apps, workflow methods, mention key industry options, citing sources. Must be helpful, maybe include Indian context (IN). Provide links. Ensure not disallowed content. Provide citations.\n\nWe should include description of each tool, pros/cons, pricing, best use cases. Also workflow: scriptwriting, text overlay, automation, export.\n\nCite authoritative web sources",
+  "raw_payload": {
+    "id": "chatcmpl-a9c2023f-4b59-4490-9e72-11e6ff09583f",
+    "object": "chat.completion",
+    "created": 1795375163,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: text video editor app Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for text video editor apps, workflow methods, mention key industry options, citing sources. Must be helpful, maybe include Indian context (IN). Provide links. Ensure not disallowed content. Provide citations.\n\nWe should include description of each tool, pros/cons, pricing, best use cases. Also workflow: scriptwriting, text overlay, automation, export.\n\nCite authoritative web sources"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.163681212,
+      "prompt_tokens": 133,
+      "prompt_time": 0.020631288,
+      "completion_tokens": 150,
+      "completion_time": 0.309871559,
+      "total_tokens": 283,
+      "total_time": 0.330502847,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82b5szqe9mvss69d4sxvc1e",
+      "seed": 1934355669
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1996,
+  "cost_usd": 0.0002
+}

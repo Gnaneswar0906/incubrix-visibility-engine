@@ -1,0 +1,38 @@
+{
+  "assistant": "perplexity",
+  "question": "how to automatically post youtube videos on discord",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to automatically post youtube videos on discord' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 485
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'how to automatically post youtube videos on discord' in IN, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 457
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_automatically_post_youtube_v_feb6c9_d2_IN.json"
+}

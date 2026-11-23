@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video file",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**How to Edit a Video File \u2013 A Practical Guide for U.S. Content Creators**  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the most popular editing tools (including the ones you asked about), and tips on how to choose the right solution for your style, budget, and distribution platform.\n\n---\n\n## 1",
+  "raw_payload": {
+    "id": "chatcmpl-541e67af-e384-4005-b9eb-4fdde1730e12",
+    "object": "chat.completion",
+    "created": 1795376550,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**How to Edit a Video File \u2013 A Practical Guide for U.S. Content Creators**  \n\nBelow is a step\u2011by\u2011step workflow, a shortlist of the most popular editing tools (including the ones you asked about), and tips on how to choose the right solution for your style, budget, and distribution platform.\n\n---\n\n## 1",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with URLs. Provide a structured answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157897118,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00697434,
+      "completion_tokens": 150,
+      "completion_time": 0.309671769,
+      "total_tokens": 285,
+      "total_time": 0.316646109,
+      "completion_tokens_details": {
+        "reasoning_tokens": 73
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82cg41we3n9a9eyeqafswhv",
+      "seed": 1573949490
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2749,
+  "cost_usd": 0.0002
+}

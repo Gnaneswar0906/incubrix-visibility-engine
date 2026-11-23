@@ -1,0 +1,107 @@
+{
+  "query": "youtube auto post to twitter",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=duftrLoMlds",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "youtube auto post to twitter",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How to Automatically Tweet a YouTube Video",
+        "link": "https://www.youtube.com/watch?v=duftrLoMlds",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "automatically tweet a new YouTube video as soon as one publishes. In this video, I'll show you how using Zapier.",
+        "position": 1
+      },
+      {
+        "title": "YouTube AutoPost to Twitter when Live",
+        "link": "https://www.reddit.com/r/ifttt/comments/1khfusg/youtube_autopost_to_twitter_when_live/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a youtube_autopost_to_twitter...",
+        "position": 2
+      },
+      {
+        "title": "How do you tweet embedded YouTube videos with autoplay on Twitter?",
+        "link": "https://www.quora.com/How-do-you-tweet-embedded-YouTube-videos-with-autoplay-on-Twitter",
+        "displayedLink": "https://www.quora.com \u203a How-do-you-tweet-embedded-Y...",
+        "position": 3
+      },
+      {
+        "title": "How do you tweet a YouTube video with autoplay on Twitter, for example",
+        "link": "https://www.quora.com/How-do-you-tweet-a-YouTube-video-with-autoplay-on-Twitter-for-example-https-twitter-com-jimmykimmellive-status-847473497374838784?no_redirect=1",
+        "displayedLink": "https://www.quora.com \u203a How-do-you-tweet-a-YouTube-...",
+        "position": 4
+      },
+      {
+        "title": "Tweet automatically when you upload a YouTube video",
+        "link": "https://ifttt.com/applets/nw7kauJG-tweet-automatically-when-you-upload-a-youtube-video",
+        "displayedLink": "https://ifttt.com \u203a applets \u203a nw7kauJG-tweet-automaticall...",
+        "snippet": "Each time you post a public video, a tweet with its title and URL is automatically published to your account. Great for keeping followers updated",
+        "position": 5
+      },
+      {
+        "title": "Is there a way to auto-share new videos on YouTube to an X (Twitter) account?",
+        "link": "https://www.reddit.com/r/nodered/comments/199jpck/is_there_a_way_to_autoshare_new_videos_on_youtube/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_a_way_to_autoshare...",
+        "snippet": "I am thinking about learning how to use Node-Red and this would be a major reason to do it. Automating some of my posting so I don't have to manually ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/nodered/comments/199jpck/comment/kien3an/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/nodered/comments/199jpck/comment/lrbmzrp/"
+          },
+          {
+            "title": "YouTube AutoPost to Twitter when Live : r/ifttt - Redditr/ifttt\u00b73 comments\u00b71y",
+            "link": "https://www.reddit.com/r/ifttt/comments/1khfusg/youtube_autopost_to_twitter_when_live/"
+          },
+          {
+            "title": "Does anyone use Twitter/X to cross-post their YouTube content?r/SmallYTChannel\u00b740+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/SmallYTChannel/comments/1gy1o9q/does_anyone_use_twitterx_to_crosspost_their/"
+          }
+        ],
+        "position": 6
+      },
+      {
+        "title": "How to Auto-post to X/Twitter from Make.com (2025 Methods)",
+        "link": "https://www.youtube.com/watch?v=ZSnkr8KMAjY",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Make.com announced the removal of its Twitter/X integration. In this video, I walk you through three robust ways to 02:10 Buffer Option. How to\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "How to Tweet on X (Twitter) When a New Video is Posted on YouTube",
+        "link": "https://lp.yoom.fun/en/blog-posts/youtube-x-oauth-integration-auto-tweet-new-video-no-programming-updated",
+        "displayedLink": "https://lp.yoom.fun \u203a en \u203a blog-posts \u203a youtube-x-oauth-integration...",
+        "snippet": "Step 1: Link YouTube and X (Twitter) to My Apps \u00b7 Step 2: Copy the Template \u00b7 Step 3: Set the YouTube Trigger \u00b7 Step 4: Set the X (Twitter) Action.",
+        "date": "20 Nov 2025",
+        "position": 8
+      },
+      {
+        "title": "Automatically Post & Embed YouTube Videos on Twitter | Best Way to Share ...",
+        "link": "https://bika.ai/template/youtube-to-twitter-sharing",
+        "displayedLink": "https://bika.ai \u203a template \u203a youtube-to-twitter-sharing",
+        "snippet": "Learn how to share videos on Twitter effortlessly. Automatically post YouTube videos, embed them in tweets, and connect your channel for wider reach.",
+        "position": 9
+      },
+      {
+        "title": "Automatically Post Your YouTube Videos To Twitter",
+        "link": "https://repurpose.io/youtube-twitter/",
+        "displayedLink": "https://repurpose.io \u203a youtube-twitter",
+        "snippet": "Automatically post your YouTube videos to Twitter. The next time you upload your YouTube video, it gets published to Twitter without you lifting a finger.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

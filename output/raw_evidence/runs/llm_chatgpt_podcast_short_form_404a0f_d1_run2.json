@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short form",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating high-quality short-form content (Reels, TikTok, Shorts) from long-form podcasts is a critical part of modern content strategy. As a creator in the UK, you\u2019ll want tools that are accessible, cost-effective, and intuitive.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options for turning your podcast into viral short-form clips.\n\n### \ud83c\udfc6 Top Software Tools for Podcast Short-Form\n\n#### 1. **Opus Clip** (Best for AI Automation)\n*   **Why it\u2019s top-tier:** Opus Clip is currently the industry leader for automated podcast clipping. It uses AI to identify the most engaging moments, auto-captions, and reformats vertical video.\n*",
+  "raw_payload": {
+    "id": "chatcmpl-e2cf9f72-3a89-41c2-a73c-f4b1a4aa41b0",
+    "object": "chat.completion",
+    "created": 1795375465,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality short-form content (Reels, TikTok, Shorts) from long-form podcasts is a critical part of modern content strategy. As a creator in the UK, you\u2019ll want tools that are accessible, cost-effective, and intuitive.\n\nHere is a breakdown of the best software tools, workflow methods, and industry options for turning your podcast into viral short-form clips.\n\n### \ud83c\udfc6 Top Software Tools for Podcast Short-Form\n\n#### 1. **Opus Clip** (Best for AI Automation)\n*   **Why it\u2019s top-tier:** Opus Clip is currently the industry leader for automated podcast clipping. It uses AI to identify the most engaging moments, auto-captions, and reformats vertical video.\n*"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054878949,
+      "prompt_tokens": 75,
+      "prompt_time": 0.004871371,
+      "completion_tokens": 150,
+      "completion_time": 0.302756406,
+      "total_tokens": 225,
+      "total_time": 0.307627777
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bf0pzew1988r9j2r8916h",
+      "seed": 995445799
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1378,
+  "cost_usd": 0.0002
+}

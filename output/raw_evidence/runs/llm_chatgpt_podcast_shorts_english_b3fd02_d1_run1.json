@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts english",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe need to provide recommendations for creating podcast shorts in English. Should discuss tools for audio editing, video creation, AI clipping, transcription, etc. Provide workflow steps. Provide citations. Need to cite authoritative web sources; we can reference official websites, reputable blogs, etc. Provide links.\n\nWe must be mindful of not providing copyrighted material. Just recommendations is fine.\n\nWe should tailor to GB content creator, maybe mention",
+  "raw_payload": {
+    "id": "chatcmpl-cdeaccd4-7684-43b3-a90c-afc70dc96e8d",
+    "object": "chat.completion",
+    "created": 1795375439,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine.\n\nWe need to provide recommendations for creating podcast shorts in English. Should discuss tools for audio editing, video creation, AI clipping, transcription, etc. Provide workflow steps. Provide citations. Need to cite authoritative web sources; we can reference official websites, reputable blogs, etc. Provide links.\n\nWe must be mindful of not providing copyrighted material. Just recommendations is fine.\n\nWe should tailor to GB content creator, maybe mention"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.375345033,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005543776,
+      "completion_tokens": 150,
+      "completion_time": 0.308609752,
+      "total_tokens": 282,
+      "total_time": 0.314153528,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82be74ye6f8k6qenjfcarry",
+      "seed": 1844220871
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4270,
+  "cost_usd": 0.0002
+}

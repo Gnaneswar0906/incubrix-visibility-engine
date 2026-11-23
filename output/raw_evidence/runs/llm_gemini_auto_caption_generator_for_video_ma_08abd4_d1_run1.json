@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN) looking to generate Malayalam auto-captions for videos, navigating the right tool is crucial due to the nuances of regional Dravidian languages. Malayalam speech recognition requires robust AI models that can handle regional slang, cinematic dialogue",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN) looking to generate Malayalam auto-captions for videos, navigating the right tool is crucial due to the nuances of regional Dravidian languages. Malayalam speech recognition requires robust AI models that can handle regional slang, cinematic dialogue"
+            },
+            {
+              "text": ", and proper noun capitalization. \n\nHere is a comprehensive guide covering the best software tools, workflow methods, and an analysis of the industry options you mentioned (**IncuBrix, CapCut, Opus Clip, Descript**), tailored for the Indian creator ecosystem.\n\n---\n\n### Part 1: Evaluating Your Mentioned Industry Options for Malayalam\n\n1. **CapCut (Best Overall for Mobile & Trendy Malayalam Captions)**\n   * **Malayalam Support:** CapCut supports auto-captions in Malayalam. While it occasionally struggles with complex regional slang, its AI speech-to-text is surprisingly accurate for standard conversational Malayalam.\n   * **Pros:** Highly popular among Indian Reels/Shorts creators; offers dynamic, animated, TikTok-style caption templates (word-by-word highlighting) that boost engagement; 100% free core features.\n   * **Cons:** Security concerns in India (the app has faced regulatory scrutiny/bans on certain app stores,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMbN9TRjoKgEIqzIfO25EFm0DldiM29HOOpihw52zCWkhY4kKZ7xLXEWm6RFmEtYELE75Y7stPsL5LhnZvDCookkpkBKwH6/R60dlwmfGZdvaGokkDU/xH5jy3RHP2aTQUsyDjyao3bN78+3ZXUNpxiATyR3u1OoIJINQ9/zSAmvyRmua2FKg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 255,
+      "totalTokenCount": 320,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YUADa5O3CJLbg8UP1rOT0Ag"
+  },
+  "latency_ms": 3817,
+  "cost_usd": 0.0002
+}

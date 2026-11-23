@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. working with long-form videos (such as YouTube videos, podcasts, or webinars), generating accurate, engaging",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. working with long-form videos (such as YouTube videos, podcasts, or webinars), generating accurate, engaging"
+            },
+            {
+              "text": ", and free captions is essential for boosting accessibility, watch time, and SEO. \n\nHere is a comprehensive breakdown of the best software tools, key industry options, and an efficient workflow method to handle long-form video captioning.\n\n---\n\n### Key Industry Options for Long Videos\n\nWhile many tools cater exclusively to short-form content (under 60 seconds), long-form video requires robust handling of large file sizes, high speech-to-text accuracy, and easy export options.\n\n1. **CapCut (Desktop/Web)**\n   * **Best For:** Free, highly stylish, dynamic auto-captions with minimal effort.\n   * **Features:** CapCut\u2019s desktop app offers a robust **\"Auto Captions\"** feature that supports long videos for free. It generates accurate transcripts, allows bulk editing, and offers trending templates. \n   * *Caveat:* While mostly free, certain advanced AI templates or cloud storage require paid tiers, but",
+              "thoughtSignature": "Eo4BCosBAWkUfRPglHKE1JK5waZjqk27v76ipVqoGULdGP2jgAWbCO/OuNE22ToWdFOm9WjxxtVnSmQXJzSp6DEeXk3Q7K87kLlndvvpHNHV2e6TXLfet8Qawnrtiw5e2Un7lG3Cm65eHW3NcMsUXT7QpngpozpJJ0B08Pc1H7K8n4Sp6iB4HTrPWmayQ6gWPw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 231,
+      "totalTokenCount": 296,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "BEYDa_byLOjg694Pg9bJuA0"
+  },
+  "latency_ms": 2546,
+  "cost_usd": 0.0002
+}

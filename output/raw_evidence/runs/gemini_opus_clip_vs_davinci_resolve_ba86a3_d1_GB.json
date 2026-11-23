@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in Great Britain, comparing **Opus Clip** and **DaVinci Resolve** is essentially comparing **speed-driven AI automation** against **high-end professional craftsmanship**. \n\nThey serve entirely different stages of the content creation pipeline. Here ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2044,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_davinci_resolve_ba86a3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to compare **Opus Clip** and **DaVinci Resolve**, you are looking at two fundamentally different beasts. One is an AI-powered automated repurposing tool designed for speed and volume, while the other is an industry-standard, Hollywood-grade post-production",
+      "cost_usd": 0.0002,
+      "latency_ms": 2185,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_davinci_resolve_ba86a3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_davinci_resolve_ba86a3_d1_GB.json"
+}

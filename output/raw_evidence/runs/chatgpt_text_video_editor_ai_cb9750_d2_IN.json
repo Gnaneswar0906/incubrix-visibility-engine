@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond as AI assistant, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in IN (India). Should tailor suggestions for Indian",
+      "cost_usd": 0.0002,
+      "latency_ms": 3099,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editor_ai_cb9750_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**AI\u2011Powered Text\u2011to\u2011Video Editing for Indian Creators**  \n*(Updated\u202f2024\u20112025)*  \n\nBelow is a practical toolkit and workflow you can adopt today, with a focus on AI\u2011driven \u201ctext\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3852,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editor_ai_cb9750_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_video_editor_ai_cb9750_d2_IN.json"
+}

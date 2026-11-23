@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto caption generator for video CapCut. Mention best software tools, workflow methods, key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, thorough, maybe include steps, pros/cons, pricing, integration with CapCut, etc.\n\nWe should ensure compliance: no disallowed content. It's fine.\n\nWe should cite sources: we can reference official websites, articles. Use proper citation style (maybe footnotes). Provide links.\n\nWe need to mention workflow: import video, auto-generate captions, edit, export, etc.\n\nAlso mention alternative tools like Rev",
+  "raw_payload": {
+    "id": "chatcmpl-55a7a54e-75b3-4125-8780-de1410807f62",
+    "object": "chat.completion",
+    "created": 1795376629,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto caption generator for video CapCut. Mention best software tools, workflow methods, key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be helpful, thorough, maybe include steps, pros/cons, pricing, integration with CapCut, etc.\n\nWe should ensure compliance: no disallowed content. It's fine.\n\nWe should cite sources: we can reference official websites, articles. Use proper citation style (maybe footnotes). Provide links.\n\nWe need to mention workflow: import video, auto-generate captions, edit, export, etc.\n\nAlso mention alternative tools like Rev"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367136308,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005407781,
+      "completion_tokens": 150,
+      "completion_time": 0.315330081,
+      "total_tokens": 286,
+      "total_time": 0.320737862,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82cjh82ewk8hxbn296vvtbt",
+      "seed": 1456515319
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3432,
+  "cost_usd": 0.0002
+}

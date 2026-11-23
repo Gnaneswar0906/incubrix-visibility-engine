@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down how to build an automated YouTube video upload pipeline using **n8n**, along with the best supporting tools in the modern creator stack.\n\nAutomating your YouTube workflow saves hours of manual exporting, tagging, and publishing",
+      "cost_usd": 0.0002,
+      "latency_ms": 4825,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_video_to_youtube_n8n_8d8243_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that automating your YouTube upload pipeline using **n8n** is one of the most efficient ways to scale a channel\u2014especially if you are producing short-form content (Shorts, Reels, TikToks) or programmatic long-form videos.\n\nHere i",
+      "cost_usd": 0.0002,
+      "latency_ms": 3007,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_video_to_youtube_n8n_8d8243_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_video_to_youtube_n8n_8d8243_d1_US.json"
+}

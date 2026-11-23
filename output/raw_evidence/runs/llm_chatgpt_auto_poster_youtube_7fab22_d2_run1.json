@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating high-quality, automated posters for YouTube is a critical part of your content workflow, as thumbnails drive up to **90% of your traffic**. While \"auto poster\" can refer to AI-generated static images or dynamic video intros/outros, the industry standard for *thumbnail* automation involves a mix of AI design tools, template-based editors, and video clipping software.\n\nHere are the best software tools, workflow methods, and key industry options tailored for a US-based content creator, along with authoritative context.\n\n### 1. Best Software Tools for Auto Thumbnail/Poster Generation\n\n#### **A. AI-Powered Static Thumbnail Generators**\nThese tools use AI to generate backgrounds, text layouts, and even face enhancements from a prompt or uploaded",
+  "raw_payload": {
+    "id": "chatcmpl-4fc22085-bc34-4b13-9bbf-80977a26279a",
+    "object": "chat.completion",
+    "created": 1795376683,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality, automated posters for YouTube is a critical part of your content workflow, as thumbnails drive up to **90% of your traffic**. While \"auto poster\" can refer to AI-generated static images or dynamic video intros/outros, the industry standard for *thumbnail* automation involves a mix of AI design tools, template-based editors, and video clipping software.\n\nHere are the best software tools, workflow methods, and key industry options tailored for a US-based content creator, along with authoritative context.\n\n### 1. Best Software Tools for Auto Thumbnail/Poster Generation\n\n#### **A. AI-Powered Static Thumbnail Generators**\nThese tools use AI to generate backgrounds, text layouts, and even face enhancements from a prompt or uploaded"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05306189,
+      "prompt_tokens": 75,
+      "prompt_time": 0.009451969,
+      "completion_tokens": 150,
+      "completion_time": 0.336033453,
+      "total_tokens": 225,
+      "total_time": 0.345485422
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82cm5zpedeacbzp4xgxdatk",
+      "seed": 1285952615
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1216,
+  "cost_usd": 0.0002
+}

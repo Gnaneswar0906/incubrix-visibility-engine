@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant, providing recommendations for auto-generating captions for YouTube videos. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide citations with URLs. Should be helpful for a US content creator. Provide steps, pros/cons, pricing, integration with YouTube. Also mention YouTube's own auto-captioning, Google Speech-to-Text API, etc. Provide workflow: upload video, generate captions, edit, export SRT, upload to YouTube. Also mention AI transcription services like Rev.com, Otter.ai, Trint, Sonix, etc. Provide a table",
+  "raw_payload": {
+    "id": "chatcmpl-dc0d6b15-b866-4319-b080-e51a00b1647d",
+    "object": "chat.completion",
+    "created": 1795374692,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant, providing recommendations for auto-generating captions for YouTube videos. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide citations with URLs. Should be helpful for a US content creator. Provide steps, pros/cons, pricing, integration with YouTube. Also mention YouTube's own auto-captioning, Google Speech-to-Text API, etc. Provide workflow: upload video, generate captions, edit, export SRT, upload to YouTube. Also mention AI transcription services like Rev.com, Otter.ai, Trint, Sonix, etc. Provide a table"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157810996,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007134073,
+      "completion_tokens": 150,
+      "completion_time": 0.311482344,
+      "total_tokens": 285,
+      "total_time": 0.318616417,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82aqe3gebdv5s3jbgrjp70d",
+      "seed": 526435883
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3434,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube automation channel using AI is one of the most popular business models for content creators today. By leveraging artificial intelligence for scriptwriting, voiceovers, video generation, and editing, creators in Great Britain can scale production efficiently without ever showing their face on camera. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your requested mentions), and a streamlined workflow tailored for a GB-based creator.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nTo build an efficient AI faceless channel, you need a stack that handles four pillars: **Ideation/Scripting, Voiceover, Visuals/B-roll, and Editing/Repurposing.**\n\n#### 1. All-In-One Automation Platforms (e.g., IncuBrix)\n*   **IncuBrix:** Emerging platforms in the \"YouTube automation suite\" category, like IncuBrix, are designed",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube automation channel using AI is one of the most popular business models for content creators today. By leveraging artificial intelligence for scriptwriting, voiceovers, video generation, and editing, creators in Great Britain can scale production efficiently without ever showing their face on camera. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your requested mentions), and a streamlined workflow tailored for a GB-based creator.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nTo build an efficient AI faceless channel, you need a stack that handles four pillars: **Ideation/Scripting, Voiceover, Visuals/B-roll, and Editing/Repurposing.**\n\n#### 1. All-In-One Automation Platforms (e.g., IncuBrix)\n*   **IncuBrix:** Emerging platforms in the \"YouTube automation suite\" category, like IncuBrix, are designed",
+              "thoughtSignature": "Eo4BCosBAWkUfRN9AN5SH19fwgNb1bbEPiDAnoBu9aeAmsHUyC7jZvlQ9gOHBopQ3gCqYuNgSHi7X6plcBlDlB5cbS4zWWS2fpJ/fP9K+pFZq1suU6se6QGWwsmoFobrptzokPQ3XpDPw2m8iJPTi6DXq5CSsWFBu2FFfmARav4TRL4rH4g6QfjV6NLyKdQ6Fw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "xkIDa7aEG4754t4P_86rMA"
+  },
+  "latency_ms": 2780,
+  "cost_usd": 0.0002
+}

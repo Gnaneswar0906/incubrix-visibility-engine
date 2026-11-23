@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant, user is a content creator in GB, wants info about auto upload YouTube Shorts, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide recommendations, workflow steps, mention tools for editing, auto-upload via YouTube API, scheduling, etc. Provide citations with URLs. Use markdown. Ensure to mention that YouTube Shorts have specific requirements (vertical, <60 sec). Provide tools for batch processing, automation using Zapier, Integromat (Make), Google Apps Script. Provide UK considerations: GDPR,",
+  "raw_payload": {
+    "id": "chatcmpl-e8475aae-a6a8-439a-b653-a9dcaf0c8dcd",
+    "object": "chat.completion",
+    "created": 1795375683,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant, user is a content creator in GB, wants info about auto upload YouTube Shorts, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide recommendations, workflow steps, mention tools for editing, auto-upload via YouTube API, scheduling, etc. Provide citations with URLs. Use markdown. Ensure to mention that YouTube Shorts have specific requirements (vertical, <60 sec). Provide tools for batch processing, automation using Zapier, Integromat (Make), Google Apps Script. Provide UK considerations: GDPR,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.489569626,
+      "prompt_tokens": 133,
+      "prompt_time": 0.013781282,
+      "completion_tokens": 150,
+      "completion_time": 0.316607357,
+      "total_tokens": 283,
+      "total_time": 0.330388639,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82bnn5ve2zt8ky3hm5nw4d1",
+      "seed": 1145276360
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7106,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating auto-generated subtitles for TikTok has become less about \"guessing\" and more about leveraging AI-driven transcription tools that offer high accuracy and rapid editing capabilities. As a creator based in the UK, you have access to a robust ecosystem of global tools, many of which support British English accents and punctuation nuances effectively.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options to streamline your subtitle generation process.\n\n### 1. Top Software Tools for Auto-Generated Subtitles\n\n#### **CapCut (Mobile & Desktop)**\n*   **Best For:** Direct-to-TikTok creators who want a seamless, free, integrated workflow.\n*   **Why it\u2019s great:** CapCut is deeply integrated with TikTok",
+  "raw_payload": {
+    "id": "chatcmpl-6d4793ca-1c64-4ec8-a743-50c3ba3ec405",
+    "object": "chat.completion",
+    "created": 1795377394,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating auto-generated subtitles for TikTok has become less about \"guessing\" and more about leveraging AI-driven transcription tools that offer high accuracy and rapid editing capabilities. As a creator based in the UK, you have access to a robust ecosystem of global tools, many of which support British English accents and punctuation nuances effectively.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options to streamline your subtitle generation process.\n\n### 1. Top Software Tools for Auto-Generated Subtitles\n\n#### **CapCut (Mobile & Desktop)**\n*   **Best For:** Direct-to-TikTok creators who want a seamless, free, integrated workflow.\n*   **Why it\u2019s great:** CapCut is deeply integrated with TikTok"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047741178,
+      "prompt_tokens": 82,
+      "prompt_time": 0.005807552,
+      "completion_tokens": 150,
+      "completion_time": 0.285850009,
+      "total_tokens": 232,
+      "total_time": 0.291657561
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82d9w1yekmabvnebvkntfbt",
+      "seed": 1268942129
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 932,
+  "cost_usd": 0.0002
+}

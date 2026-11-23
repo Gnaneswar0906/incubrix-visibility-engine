@@ -1,0 +1,55 @@
+{
+  "query": "where can i make a podcast for free",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://monica.im/en/ai-podcast",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "where can i make a podcast for free",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free AI Podcast Generator | Instant Podcast from Any Content",
+        "link": "https://monica.im/en/ai-podcast",
+        "displayedLink": "https://monica.im \u203a en \u203a ai-podcast",
+        "snippet": "Monica AI Podcast Generator turns your content into engaging audio stories. Create on iOS, Android, Windows, Mac, or web. Monica AI offers users free credits, ...",
+        "rating": 4.9,
+        "ratingCount": 17668,
+        "position": 1
+      },
+      {
+        "title": "Free AI Podcast Generator: Make a Podcast in Minutes",
+        "link": "https://www.wondercraft.ai/tools/ai-podcast-generator",
+        "displayedLink": "https://www.wondercraft.ai \u203a tools \u203a ai-podcast-generator",
+        "snippet": "Make a podcast with AI from a prompt, notes, a PDF or a URL. Pick lifelike voices, add music and publish. Free to start, no payment details needed.",
+        "rating": 4.9,
+        "ratingCount": 2557,
+        "position": 2
+      },
+      {
+        "title": "Podbean: Free Podcast hosting and Monetizing Platform",
+        "link": "https://www.podbean.com/",
+        "displayedLink": "https://www.podbean.com",
+        "snippet": "Podbean offers a free podcast hosting service. You can use Podbean Podcast App to record and publish a podcast for free.",
+        "position": 3
+      },
+      {
+        "title": "AI Podcast Generator \u2013 Turn Any Content into a Podcast Free",
+        "link": "https://notegpt.io/ai-podcast-generator",
+        "displayedLink": "https://notegpt.io \u203a ai-podcast-generator",
+        "snippet": "Transform a wide range of files into podcasts with ease. The AI Podcast Generator supports text documents, PDFs, websites, YouTube videos, and more.",
+        "rating": 4.9,
+        "ratingCount": 33471688,
+        "position": 4
+      }
+    ],
+    "credits": 1
+  }
+}

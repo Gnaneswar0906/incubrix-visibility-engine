@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is the best free video editor for beginners",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Best Free",
+  "raw_payload": {
+    "id": "chatcmpl-090d0b2e-7aa9-4729-b003-611079ddd045",
+    "object": "chat.completion",
+    "created": 1795376939,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Best Free",
+          "reasoning": "The user wants recommendation for best free video editor for beginners, mention software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to be mindful of location: content creator located in IN (India). Provide options that are available in India, possibly mention language support, offline vs online, etc. Provide authoritative sources: maybe from TechRadar, PCMag, CNET, etc. Must cite with links. Provide workflow steps. Provide brief overview of each tool, pros/cons, and recommendation. Also mention industry options. Provide citations. Ensure not to violate policy. Should be fine.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369525527,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005838333,
+      "completion_tokens": 150,
+      "completion_time": 0.31049681,
+      "total_tokens": 288,
+      "total_time": 0.316335143,
+      "completion_tokens_details": {
+        "reasoning_tokens": 139
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82cvzn9enzv6d7rg7p8p9t0",
+      "seed": 893766075
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3025,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**",
+      "cost_usd": 0.0002,
+      "latency_ms": 1752,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Turning a Full\u2011Length Podcast",
+      "cost_usd": 0.0002,
+      "latency_ms": 2225,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d2_US.json"
+}

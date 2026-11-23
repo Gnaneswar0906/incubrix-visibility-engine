@@ -1,0 +1,95 @@
+{
+  "query": "text video editing tutorial",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/features/add-text-to-video/",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text video editing tutorial",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Text To Video Online For Free",
+        "link": "https://www.canva.com/features/add-text-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-text-to-video",
+        "snippet": "Use Canva's free Add Text To Video Tool to easily edit videos with moving text, subtitles, and captions.",
+        "position": 1
+      },
+      {
+        "title": "Add Text to Video Online - Free Video Text Editor",
+        "link": "https://www.veed.io/tools/add-text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a add-text-to-video",
+        "snippet": "Create professional text overlays with our simple drag-and-drop interface. Type your text, extend clips on the timeline, and reposition the text on the canvas.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 2
+      },
+      {
+        "title": "Text Based Video Editing For Beginners 2026",
+        "link": "https://www.youtube.com/watch?v=1VN8ema1G30",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to use text based video editing with Riverside to save a ton of time in your post production process. 0:56 Text based editing tutorial",
+        "position": 3
+      },
+      {
+        "title": "How to Add Text to Your Video",
+        "link": "https://www.youtube.com/watch?v=D1UpBpLa91M",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, we'll show you how to easily add text to your video. Adding text to your video is a great way to demonstrate instructions",
+        "position": 4
+      },
+      {
+        "title": "How to add text to video",
+        "link": "https://www.adobe.com/learn/express/web/add-text-to-video",
+        "displayedLink": "https://www.adobe.com \u203a learn \u203a ... \u203a add-text-to-video",
+        "snippet": "From the Editor click the Text icon on the left panel. Click the Add your text button to start typing in the Editor. Move and size your text to fit in the box.",
+        "position": 5
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video By Editing Text",
+        "link": "https://www.kapwing.com/ai/text-based-video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a ai \u203a text-based-video-editor",
+        "snippet": "Easily edit video by editing text. With Kapwing's text-based video editor, remove any parts of your video by deleting text from the transcript in seconds.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video like a Doc",
+        "link": "https://vimeo.com/features/video-editor/text-based-video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a text-based-video-editor",
+        "snippet": "Vimeo's AI-powered text-based video editing tool identifies and lets you remove long pauses, accidental filler words like \u201cum,\u201d and other unwanted footage ...",
+        "position": 7
+      },
+      {
+        "title": "Add Text to Video Online for Free",
+        "link": "https://picsart.com/add-text-to-video/",
+        "displayedLink": "https://picsart.com \u203a add-text-to-video",
+        "snippet": "Open Picsart, select a video, and choose Text in the editing tools. Type your message, then resize and position it on the clip. Learn video editing basics.",
+        "position": 8
+      },
+      {
+        "title": "Text-Based Editing for Beginners \u2013 Save Hours on Edits",
+        "link": "https://www.youtube.com/watch?v=g6AuKyiR-MA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Want to learn text-based editing? In this video, Bridget O'Rourke will give you a text based editing tutorial for beginners, and you'll get\u00a0...",
+        "position": 9
+      },
+      {
+        "title": "Add text to video | Customize text and add effects",
+        "link": "https://clipchamp.com/en/add-text-to-video/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a add-text-to-video",
+        "snippet": "1. Choose the text tab in the toolbar \u00b7 2. Hover to preview a title or text style \u00b7 3. Drag and drop title above your video in the timeline \u00b7 4. Rewrite the text ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

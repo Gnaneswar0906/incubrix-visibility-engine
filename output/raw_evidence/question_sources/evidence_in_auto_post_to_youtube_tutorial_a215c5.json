@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=auto+post+to+youtube+tutorial",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "auto post to youtube tutorial",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:50:17.600995+00:00",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"auto post to youtube tutorial\",[],{\"k\":1}])"
+}

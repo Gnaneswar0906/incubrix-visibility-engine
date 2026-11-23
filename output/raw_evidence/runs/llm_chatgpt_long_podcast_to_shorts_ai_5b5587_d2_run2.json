@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for turning long podcasts into shorts using AI. Need to cite authoritative web sources if available. Provide a structured answer: overview, workflow steps, tools categories (transcription, AI summarization, video editing, automation), specific tools with pros/cons, pricing, integration, tips. Cite sources with links. Must be US content creator. Provide best practices.\n\nWe need to ensure no disallowed content. It's fine.\n\nWill include citations using footnotes or inline links. Provide references to official sites, reviews (e.g., TechRadar, PCMag). Use up-to-date info",
+  "raw_payload": {
+    "id": "chatcmpl-2e8c8ff2-de0d-4f5f-81a7-99937c79b3ed",
+    "object": "chat.completion",
+    "created": 1795376510,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript for turning long podcasts into shorts using AI. Need to cite authoritative web sources if available. Provide a structured answer: overview, workflow steps, tools categories (transcription, AI summarization, video editing, automation), specific tools with pros/cons, pricing, integration, tips. Cite sources with links. Must be US content creator. Provide best practices.\n\nWe need to ensure no disallowed content. It's fine.\n\nWill include citations using footnotes or inline links. Provide references to official sites, reviews (e.g., TechRadar, PCMag). Use up-to-date info"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053747122,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005636938,
+      "completion_tokens": 150,
+      "completion_time": 0.316100128,
+      "total_tokens": 284,
+      "total_time": 0.321737066,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82cexerecja5epx8tzq98md",
+      "seed": 663975921
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2178,
+  "cost_usd": 0.0002
+}

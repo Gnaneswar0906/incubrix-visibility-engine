@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking for an online auto-caption generator, your workflow needs to balance speed, platform-specific formatting (TikTok/Reels vs. YouTube), and accuracy for British accents and colloquialisms. \n\nHere is",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking for an online auto-caption generator, your workflow needs to balance speed, platform-specific formatting (TikTok/Reels vs. YouTube), and accuracy for British accents and colloquialisms. \n\nHere is"
+            },
+            {
+              "text": " a breakdown of the best software tools, key industry options (including those you mentioned), and a recommended production workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **CapCut (Best for Mobile & Fast Social Media Editing)**\n* **Overview:** Extremely popular among short-form creators. It offers robust, highly stylized auto-captions with rich text templates, animations, and emoji integrations.\n* **GB Context:** Excellent multilingual support, though heavily focused on fast-paced, TikTok-style engagement.\n* **Best For:** TikTok, Instagram Reels, and YouTube Shorts.\n\n#### **Descript (Best for Precision & Long-Form Editing)**\n* **Overview:** Descript approaches video editing through a text-based interface. If you delete a word in the transcript, it cuts the video. It features state-of-the-art AI transcription, \"Studio Sound\" (audio cleanup), and overdub capabilities.\n* **GB Context:**",
+              "thoughtSignature": "Eo4BCosBAWkUfRPWWe3GRrdqBmolR+5tgzPOD3GBibmSxiJNxcfJFJKsKMrfeZaxb2VV+Dg0z+W1x91s8onDXbdVIH7RZ1Ba3XvfwYY8b/bZL73YXx4+mWl/RTGoXkbgvs7kx22Egf8Pu2R/idBhnHVdeStvA1GCtSgVv3AR4yxAz7/LIMyiezR+yPCGlV63qg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 252,
+      "totalTokenCount": 316,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "DUIDa-7EJY7OmNMP7uv1kQE"
+  },
+  "latency_ms": 9899,
+  "cost_usd": 0.0002
+}

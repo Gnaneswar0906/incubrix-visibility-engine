@@ -1,0 +1,99 @@
+{
+  "query": "auto generate captions for video free ai",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/auto-subtitle-generator-online",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto generate captions for video free ai",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online",
+        "snippet": "Upload your video to the editor and click on Subtitles in the left menu. Select \u201cAuto Subtitle,\u201d choose a language, and the AI will auto-generate the subtitles.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.kapwing.com/subtitles",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 2
+      },
+      {
+        "title": "Add Subtitles to Video Online for Free",
+        "link": "https://www.canva.com/features/add-subtitles-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-subtitles-to-video",
+        "snippet": "You can put subtitles on a video using our video subtitle generator. It's completely free, and you can create subtitles from your video's speech in just seconds ...",
+        "position": 3
+      },
+      {
+        "title": "Free Auto Subtitle Generator \u2013 99% Accurate AI Captions",
+        "link": "https://maestra.ai/tools/subtitle-generator",
+        "displayedLink": "https://maestra.ai \u203a tools \u203a subtitle-generator",
+        "snippet": "Auto generate subtitles online in 125+ languages and add them to videos in seconds, then style and export them in any subtitling format. Try it free.",
+        "rating": 4.8,
+        "ratingCount": 19,
+        "position": 4
+      },
+      {
+        "title": "Add Captions to Videos Online for Free | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/add-caption",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a add-caption",
+        "snippet": "Add captions to videos quickly and easily using the Adobe Express subtitle generator. No experience required. automatically transcribes the audio in any video ...",
+        "position": 5
+      },
+      {
+        "title": "Free Video Caption Generator | AI Animated Subtitles & Captions",
+        "link": "https://www.choppity.com/tools/free-video-caption-generator/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-video-caption-generator",
+        "snippet": "Upload your MP4 or MOV, pick a caption style and transitions, and our AI automatically adds animated subtitles to your video.",
+        "position": 6
+      },
+      {
+        "title": "Auto Subtitle & Caption Generator",
+        "link": "https://www.happyscribe.com/subtitle-generator",
+        "displayedLink": "https://www.happyscribe.com \u203a subtitle-generator",
+        "snippet": "Free AI subtitle generator and auto caption generator. Caption any video in 150+ languages, edit and style it, then export SRT, VTT or burned-in MP4.",
+        "rating": 4.6,
+        "ratingCount": 1426,
+        "position": 7
+      },
+      {
+        "title": "AutoCaption \u2014 Add Captions to Your Videos in Seconds",
+        "link": "https://autocaption.io/",
+        "displayedLink": "https://autocaption.io",
+        "snippet": "AutoCaption is the AI caption generator for TikTok, Instagram & YouTube. Animated subtitles, emojis & translations in 100+ languages. Try free.",
+        "position": 8
+      },
+      {
+        "title": "Free AI Caption Generator",
+        "link": "https://www.heygen.com/tool/ai-captions",
+        "displayedLink": "https://www.heygen.com \u203a tool \u203a ai-captions",
+        "snippet": "AI caption generator creates accurate, time-synced captions you can edit, style, translate into 175+ languages, and export. Caption your video now.",
+        "position": 9
+      },
+      {
+        "title": "AutoSubtitles: Free AI Subtitle Generator & Auto Captions",
+        "link": "https://autosubtitles.com/",
+        "displayedLink": "https://autosubtitles.com",
+        "snippet": "Free AI subtitle generator for video. Get accurate subtitles and auto captions in seconds, choose from 28 caption styles, and export in your browser.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

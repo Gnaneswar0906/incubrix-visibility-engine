@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator located in India. They ask: \"camtasia text-based video editing\" and want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). They want citations from authoritative web sources. So we should provide a comprehensive answer, mention Camtasia and alternatives that are text-based video editing. Provide best software tools, workflow methods, and key industry options. Provide citations with URLs. Should be helpful for an Indian content creator.\n\nWe should mention Camtasia's features, then alternatives: Descript, CapCut, Opus Clip, IncuBrix. Also mention other text-to-video tools like",
+  "raw_payload": {
+    "id": "chatcmpl-d4d6d133-6e48-42bc-b26f-729cd7c592bc",
+    "object": "chat.completion",
+    "created": 1795376914,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator located in India. They ask: \"camtasia text-based video editing\" and want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). They want citations from authoritative web sources. So we should provide a comprehensive answer, mention Camtasia and alternatives that are text-based video editing. Provide best software tools, workflow methods, and key industry options. Provide citations with URLs. Should be helpful for an Indian content creator.\n\nWe should mention Camtasia's features, then alternatives: Descript, CapCut, Opus Clip, IncuBrix. Also mention other text-to-video tools like"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.256186524,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006736215,
+      "completion_tokens": 150,
+      "completion_time": 0.174582625,
+      "total_tokens": 286,
+      "total_time": 0.18131884,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_228717f27c",
+    "x_groq": {
+      "id": "req_01m82cv7y9ehm8b4hf9mzkrdkf",
+      "seed": 1933576990
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4402,
+  "cost_usd": 0.0002
+}

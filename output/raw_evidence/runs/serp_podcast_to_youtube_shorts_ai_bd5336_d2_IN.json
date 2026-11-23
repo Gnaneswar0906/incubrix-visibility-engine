@@ -1,0 +1,95 @@
+{
+  "query": "podcast to youtube shorts ai",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=FIbTNCEJ0p0",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast to youtube shorts ai",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How to Make Podcast Clips for YouTube Shorts with AI ...",
+        "link": "https://www.youtube.com/watch?v=FIbTNCEJ0p0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, I show how to get multiple short clips from a single podcast with one click using AI. The focus is on recording quality,\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "YouTube Shorts Maker - Create Shorts with AI",
+        "link": "https://podsqueeze.com/youtube-shorts-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a youtube-shorts-maker",
+        "snippet": "Turn podcast episodes and long-form video into YouTube Shorts with AI. Podsqueeze finds highlight moments, adds burned-in captions, and exports ...",
+        "date": "2 days ago",
+        "position": 2
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "Convert long-form podcast episodes into viral video clips for Instagram, Linkedin, TikTok, and YouTube Shorts using AI. Try for free",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 3
+      },
+      {
+        "title": "How to Make 10 VIRAL Shorts from 1 Podcast using AI",
+        "link": "https://www.youtube.com/watch?v=ZOIflHgGQVo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to Make 10 Shorts from 1 Podcast using AI Clips - Step by Step 00:00 How to Make Youtube Shorts from Podcast. VEED Clips AI",
+        "position": 4
+      },
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "OpusClip uses AI to pick the key moments from your podcast episodes and cut them into short clips, so you do not need advanced editing skills.",
+        "date": "11 Nov 2026",
+        "position": 5
+      },
+      {
+        "title": "Turn Podcast Episodes into YouTube Shorts - Clipping",
+        "link": "https://vidiq.com/features/clipping/podcast-to-youtube-shorts/",
+        "displayedLink": "https://vidiq.com \u203a features \u203a clipping \u203a podcast-to-youtube-shorts",
+        "snippet": "Transform your podcast into viral shorts in minutes AI-powered podcast clipping that actually finds the good moments.",
+        "position": 6
+      },
+      {
+        "title": "Free AI Podcast Clip Maker",
+        "link": "https://www.aivideocut.com/free-ai-podcast-clip-maker",
+        "displayedLink": "https://www.aivideocut.com \u203a free-ai-podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on YouTube Shorts, TikToks & Reels with our AI-powered free clip maker.",
+        "position": 7
+      },
+      {
+        "title": "How to Turn a Remote Podcast Into YouTube Shorts (2026 Guide)",
+        "link": "https://medium.com/@andrew_best/how-to-turn-a-remote-podcast-into-youtube-shorts-2026-guide-aa8228946f54",
+        "displayedLink": "https://medium.com \u203a @andrew_best \u203a how-to-turn-a-remote-podcas...",
+        "snippet": "The easiest way to record a clean double-ender podcast, clip the best moments, and turn them into vertical Shorts with AI subtitles.",
+        "position": 8
+      },
+      {
+        "title": "I Built an AI Tool That Turns Long Podcasts into Ready-to-Upload ...",
+        "link": "https://www.youtube.com/watch?v=lEFheG-GuFw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "I Built an AI Tool That Turns Long Podcasts into Ready-to-Upload Shorts.",
+        "position": 9
+      },
+      {
+        "title": "I built an AI tool that turns podcasts into YouTube Shorts automatically",
+        "link": "https://www.reddit.com/r/indiehackers/comments/1l8u4nu/i_built_an_ai_tool_that_turns_podcasts_into/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_built_an_ai_tool_that_tur...",
+        "snippet": "Built an AI that analyzes podcast episodes and automatically identifies clips with strong hooks, emotional peaks, or natural story arcs. Been ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

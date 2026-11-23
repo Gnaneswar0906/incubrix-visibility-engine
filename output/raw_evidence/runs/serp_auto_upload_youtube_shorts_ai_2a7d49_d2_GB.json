@@ -1,0 +1,102 @@
+{
+  "query": "auto upload youtube shorts ai",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://autoshorts.ai/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto upload youtube shorts ai",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AutoShorts.ai | #1 Faceless Video Generator for TikTok & YouTube",
+        "link": "https://autoshorts.ai/",
+        "displayedLink": "https://autoshorts.ai",
+        "snippet": "AutoShorts.ai automatically creates, schedules, and posts Faceless videos for you, on auto-pilot. Each video is unique and customized to your topic.",
+        "position": 1
+      },
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description,",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 2
+      },
+      {
+        "title": "YouTube Shorts Maker Free - Create Viral Shorts with AI",
+        "link": "https://wayin.ai/tools/youtube-shorts-maker/",
+        "displayedLink": "https://wayin.ai \u203a tools \u203a youtube-shorts-maker",
+        "snippet": "Make YouTube Shorts from long videos with AI using a free YouTube Shorts maker that generates 30+ engaging clips for YouTube, TikTok, and Instagram Reels.",
+        "position": 3
+      },
+      {
+        "title": "AI YouTube Shorts Maker",
+        "link": "https://www.canva.com/features/ai-shorts-maker/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a ai-shorts-maker",
+        "snippet": "Free AI Shorts Maker. Create engaging, high-quality short-form videos in just a few seconds with Canva's AI YouTube Shorts maker.",
+        "position": 4
+      },
+      {
+        "title": "YouTube Shorts Maker - Create Shorts Free with AI",
+        "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a youtube-shorts-maker",
+        "snippet": "Turn any video into YouTube Shorts instantly using our free AI tool. Try it now and get shorts in minutes, no credit card required.",
+        "position": 5
+      },
+      {
+        "title": "Auto Upload Videos and Shorts to YouTube",
+        "link": "https://dlvrit.com/youtube-auto-upload/",
+        "displayedLink": "https://dlvrit.com \u203a youtube-auto-upload",
+        "snippet": "Auto post videos and shorts to your YouTube channel. Post videos on Instagram, Facebook, or Tiktok and automatically share them to YouTube.",
+        "position": 6
+      },
+      {
+        "title": "Create a YouTube Shorts Automation Channel USING ONLY AI",
+        "link": "https://www.youtube.com/watch?v=8Q6hoBMecSA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Automate YouTube Shorts with cutting-edge AI ... Discover how to create a fully automatic YouTube Shorts channel using AI tools like ShortAI!",
+        "position": 7
+      },
+      {
+        "title": "I created a 100% automated youtube shorts channel using free AI tools and ...",
+        "link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cl6yoq/i_created_a_100_automated_youtube_shorts_channel/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_created_a_100_automated_y...",
+        "snippet": "I created a fully automated youtube channel that posts new videos everyday, using mostly free and open source AI tools.",
+        "sitelinks": [
+          {
+            "title": "I built a fully automated YouTube Shorts channel using AI ... - Redditr/SideProject\u00b72 comments\u00b71y",
+            "link": "https://www.reddit.com/r/SideProject/comments/1loc74k/i_built_a_fully_automated_youtube_shorts_channel/"
+          },
+          {
+            "title": "Automate shorts from videos : r/youtube - Redditr/youtube\u00b74 comments\u00b72y",
+            "link": "https://www.reddit.com/r/youtube/comments/18f2k44/automate_shorts_from_videos/"
+          }
+        ],
+        "position": 8
+      },
+      {
+        "title": "marvinvr/auto-yt-shorts: Automatically generate Youtube ...",
+        "link": "https://github.com/marvinvr/auto-yt-shorts",
+        "displayedLink": "https://github.com \u203a marvinvr \u203a auto-yt-shorts",
+        "snippet": "Auto-yt-shorts is an open-source project designed to automate the process of generating engaging short videos for platforms like YouTube and TikTok.",
+        "position": 9
+      },
+      {
+        "title": "I built a fully automated YouTube Shorts channel using AI\u2014here's a demo!",
+        "link": "https://www.reddit.com/r/contentcreation/comments/1lochoy/i_built_a_fully_automated_youtube_shorts_channel/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_built_a_fully_automated_y...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

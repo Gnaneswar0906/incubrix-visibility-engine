@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip, CapCut, and Descript**\u2014alongside alternatives like **IncuBrix**\u2014depends entirely on your primary workflow. Each of these tools serves a distinct purpose in the modern video creation pipeline, ranging from automated AI repurposing to deep text-based editing.\n\nHere is a comprehensive breakdown of these tools, their best use cases, and how to integrate them into an efficient content creation workflow.\n\n---\n\n### 1. Feature Comparison & Best Use Cases\n\n#### **Opus Clip** (Best for: Automated Long-to-Short Repurposing)\n*   **Core Functionality:** An AI-powered video repurposing tool that takes long-form videos (like YouTube podcasts, webinars, or vlogs) and automatically chops them into multiple viral-worthy shorts (Reels, TikToks, YouTube Shorts).\n*   **Key Features:** AI",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip, CapCut, and Descript**\u2014alongside alternatives like **IncuBrix**\u2014depends entirely on your primary workflow. Each of these tools serves a distinct purpose in the modern video creation pipeline, ranging from automated AI repurposing to deep text-based editing.\n\nHere is a comprehensive breakdown of these tools, their best use cases, and how to integrate them into an efficient content creation workflow.\n\n---\n\n### 1. Feature Comparison & Best Use Cases\n\n#### **Opus Clip** (Best for: Automated Long-to-Short Repurposing)\n*   **Core Functionality:** An AI-powered video repurposing tool that takes long-form videos (like YouTube podcasts, webinars, or vlogs) and automatically chops them into multiple viral-worthy shorts (Reels, TikToks, YouTube Shorts).\n*   **Key Features:** AI",
+              "thoughtSignature": "Eo4BCosBAWkUfRMgVxlKVdx388eISpQq/BNTQqGdPidxkwQ0xBk1yF5mdVcITXnOVySvKNbQYKTrKaJOdmjyYwMixGDI/QnqiNgt5L9m6oqWKluLuuxu5kKv1Gw4/uzSBMrvKL8p7hNVhWCKjPGN7Ior1BgtArmb58aCteOXKT+FiOmZ3UXuTKM5ltKZ3tSs6w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jEIDa8_LGPXl4t4Pru3C2Qc"
+  },
+  "latency_ms": 2089,
+  "cost_usd": 0.0002
+}

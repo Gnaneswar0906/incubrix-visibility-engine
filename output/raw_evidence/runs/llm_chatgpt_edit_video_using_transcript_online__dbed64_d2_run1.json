@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As an AI assistant based in the US, I understand how frustrating it can be when video editing tools that rely on transcripts fail to sync or process audio correctly. This is a common issue, often stemming from audio quality, file format incompatibility, or browser-based processing limits.\n\nBelow are the best software tools, workflow methods, and industry options to help you troubleshoot and optimize your transcript-based video editing workflow.\n\n### \ud83c\udfc6 Top Recommended Tools for Transcript-Based Editing\n\n#### 1. **Descript** (Industry Leader for Text-Based Video Editing)\n- **Why it\u2019s great**: Descript is the gold standard for editing video by editing text. It transcribes your audio, and you can delete words, sentences,",
+  "raw_payload": {
+    "id": "chatcmpl-16260b03-29a9-4f27-b9ec-a5cff41a7d0a",
+    "object": "chat.completion",
+    "created": 1795376553,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As an AI assistant based in the US, I understand how frustrating it can be when video editing tools that rely on transcripts fail to sync or process audio correctly. This is a common issue, often stemming from audio quality, file format incompatibility, or browser-based processing limits.\n\nBelow are the best software tools, workflow methods, and industry options to help you troubleshoot and optimize your transcript-based video editing workflow.\n\n### \ud83c\udfc6 Top Recommended Tools for Transcript-Based Editing\n\n#### 1. **Descript** (Industry Leader for Text-Based Video Editing)\n- **Why it\u2019s great**: Descript is the gold standard for editing video by editing text. It transcribes your audio, and you can delete words, sentences,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051367086,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005371584,
+      "completion_tokens": 150,
+      "completion_time": 0.28606508,
+      "total_tokens": 229,
+      "total_time": 0.291436664
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cg70fex8be68xnqcmn3d3",
+      "seed": 168729450
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1641,
+  "cost_usd": 0.0002
+}

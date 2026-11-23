@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a response: they are a content creator located in India (IN). They ask: \"how to edit podcast shorts. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a thorough answer: explain what podcast shorts are, why editing them is important, give recommended software tools (including those mentioned plus others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Audacity for audio, etc.), workflow steps (pre-production, clipping, adding captions, music, branding, export settings). Provide tips for Indian creators (e.g., local language subtitles",
+  "raw_payload": {
+    "id": "chatcmpl-e3af5869-79fe-4100-ad6b-431899d0da63",
+    "object": "chat.completion",
+    "created": 1795376873,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a response: they are a content creator located in India (IN). They ask: \"how to edit podcast shorts. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a thorough answer: explain what podcast shorts are, why editing them is important, give recommended software tools (including those mentioned plus others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Audacity for audio, etc.), workflow steps (pre-production, clipping, adding captions, music, branding, export settings). Provide tips for Indian creators (e.g., local language subtitles"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368690011,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005305437,
+      "completion_tokens": 150,
+      "completion_time": 0.312010664,
+      "total_tokens": 284,
+      "total_time": 0.317316101,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cszhweq5vjp6cvhpvass1",
+      "seed": 248649018
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3966,
+  "cost_usd": 0.0002
+}

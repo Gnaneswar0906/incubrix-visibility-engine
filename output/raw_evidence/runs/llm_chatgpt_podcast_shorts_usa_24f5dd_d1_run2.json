@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts usa",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator located in India (IN). Query: \"podcast shorts usa\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should provide a thorough answer: explain what podcast shorts are, why targeting USA audience, distribution platforms (YouTube Shorts, Instagram Reels, TikTok, Spotify Shorts?). Then list software tools: recording (Audacity, Adobe Audition, Riverside, Zencastr), editing (Descript, Adobe Premiere Pro, Final Cut Pro, CapCut, Opus Clip, IncuBrix?), AI tools",
+  "raw_payload": {
+    "id": "chatcmpl-85303077-e5c4-47a3-9c98-4c31829d8047",
+    "object": "chat.completion",
+    "created": 1795375083,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator located in India (IN). Query: \"podcast shorts usa\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe should provide a thorough answer: explain what podcast shorts are, why targeting USA audience, distribution platforms (YouTube Shorts, Instagram Reels, TikTok, Spotify Shorts?). Then list software tools: recording (Audacity, Adobe Audition, Riverside, Zencastr), editing (Descript, Adobe Premiere Pro, Final Cut Pro, CapCut, Opus Clip, IncuBrix?), AI tools"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155738849,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005437819,
+      "completion_tokens": 150,
+      "completion_time": 0.309972224,
+      "total_tokens": 282,
+      "total_time": 0.315410043,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82b3b5gejwrca1q56q99myf",
+      "seed": 282848836
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2798,
+  "cost_usd": 0.0002
+}

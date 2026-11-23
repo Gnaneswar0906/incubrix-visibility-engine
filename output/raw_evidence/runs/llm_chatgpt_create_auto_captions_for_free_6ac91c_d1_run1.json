@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-0ca1a29b-b901-4f57-bbe8-3011f476889e",
+    "object": "chat.completion",
+    "created": 1795375616,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator in GB. They want to create auto captions for free. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy. Provide info, no disallowed content. Provide citations. Should be helpful. Provide free options, mention limitations, workflow steps, mention paid upgrades. Provide links.\n\nWe can browse? We can't actually browse, but we can cite known sources like official websites, blogs, etc. Use generic citations. Provide a structured answer.\n\nLet's produce a final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15742555,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005582549,
+      "completion_tokens": 150,
+      "completion_time": 0.309236073,
+      "total_tokens": 284,
+      "total_time": 0.314818622,
+      "completion_tokens_details": {
+        "reasoning_tokens": 139
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82bkm57ey18a4t257y2tqhb",
+      "seed": 1475462405
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4366,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or munch",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Munch"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, choosing between **Opus Clip** and **Munch** depends heavily on your specific workflow, the platforms you target (TikTok, YouTube Shorts, Instagram Reels), and your budget. Both are industry-leading AI repurposing tools, but they cater to slightly different editing styles.\n\nHere is a comprehensive breakdown comparing Opus Clip and Munch, along with a look at alternative industry options, recommended workflows, and UK-specific considerations.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Munch\n\n#### **Opus Clip**\n*   **Best For:** Speed, volume, and automatic \"viral potential\" scoring.\n*   **How it works:** You drop in a long-form YouTube link (or upload a video), and its AI (Opus Clip 2.0) analyzes the content, extracts the most engaging hooks, and automatically turns them into polished, captioned short clips",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, choosing between **Opus Clip** and **Munch** depends heavily on your specific workflow, the platforms you target (TikTok, YouTube Shorts, Instagram Reels), and your budget. Both are industry-leading AI repurposing tools, but they cater to slightly different editing styles.\n\nHere is a comprehensive breakdown comparing Opus Clip and Munch, along with a look at alternative industry options, recommended workflows, and UK-specific considerations.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Munch\n\n#### **Opus Clip**\n*   **Best For:** Speed, volume, and automatic \"viral potential\" scoring.\n*   **How it works:** You drop in a long-form YouTube link (or upload a video), and its AI (Opus Clip 2.0) analyzes the content, extracts the most engaging hooks, and automatically turns them into polished, captioned short clips",
+              "thoughtSignature": "Eo4BCosBAWkUfRMW9c5lqKCy/0qaXiOiqdxxSacyke5JfuR5DaXMXQqhJT+3bKQStqPzZbVJE9N+IKRRH6yIVl1+Tawqpf/Nz/4RFoIVtdZ3U7SsKEkuODQYf2Je8pt1eU16bF3KBIMNM56WxT/5IkqoRP51hnq+UwN6LKYukNiv1AMgDKO8JnVh8e0agpsnHA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nEIDa9_9AtTNjuMP2tCUoA8"
+  },
+  "latency_ms": 2375,
+  "cost_usd": 0.0002
+}

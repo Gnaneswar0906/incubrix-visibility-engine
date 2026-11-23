@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Summary (for a creator in India)\n\n| Goal | Free / Freemium Tool | Key Strength | How to Use It",
+  "raw_payload": {
+    "id": "chatcmpl-13907208-a625-41d6-99e4-f624fd351c8a",
+    "object": "chat.completion",
+    "created": 1795376999,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Summary (for a creator in India)\n\n| Goal | Free / Freemium Tool | Key Strength | How to Use It",
+          "reasoning": "We need to answer query: \"auto generate captions for video free reddit\". The user is a content creator in India. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide recommendations. Should be helpful, include free options, mention Reddit threads maybe. Also mention workflow.\n\nWe must not violate policy. It's fine.\n\nWe need to cite sources, maybe use placeholder citations with URLs. Provide links. Provide steps.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04829716,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00566376,
+      "completion_tokens": 150,
+      "completion_time": 0.3141348,
+      "total_tokens": 286,
+      "total_time": 0.31979856,
+      "completion_tokens_details": {
+        "reasoning_tokens": 113
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82cxt8hegp9kwzqwcvfz0f9",
+      "seed": 937456227
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3294,
+  "cost_usd": 0.0002
+}

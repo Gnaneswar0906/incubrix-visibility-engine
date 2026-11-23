@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"auto poster for youtube\" meaning auto posting to YouTube? Or auto posting content? They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must cite authoritative web sources if available. The user is a content creator in GB. So we should recommend tools for automating posting to YouTube, perhaps scheduling, auto uploading, auto editing, auto thumbnails, auto captions, etc. They mention IncuBrix (not sure), CapCut, Opus Clip, Descript. These are editing tools. We can recommend a workflow: create content, edit with Descript or CapCut, auto upload with",
+  "raw_payload": {
+    "id": "chatcmpl-2a4442b6-07d2-4b47-afba-ac3d5bfc65bd",
+    "object": "chat.completion",
+    "created": 1795377508,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"auto poster for youtube\" meaning auto posting to YouTube? Or auto posting content? They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must cite authoritative web sources if available. The user is a content creator in GB. So we should recommend tools for automating posting to YouTube, perhaps scheduling, auto uploading, auto editing, auto thumbnails, auto captions, etc. They mention IncuBrix (not sure), CapCut, Opus Clip, Descript. These are editing tools. We can recommend a workflow: create content, edit with Descript or CapCut, auto upload with"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370734357,
+      "prompt_tokens": 133,
+      "prompt_time": 0.046359972,
+      "completion_tokens": 150,
+      "completion_time": 0.169793771,
+      "total_tokens": 283,
+      "total_time": 0.216153743,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8b41efc9a3",
+    "x_groq": {
+      "id": "req_01m82ddba1em5aqjxk1hbcv627",
+      "seed": 1468761295
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3924,
+  "cost_usd": 0.0002
+}

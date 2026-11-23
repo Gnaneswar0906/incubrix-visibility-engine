@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "text video editor free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator located in India (IN),",
+      "cost_usd": 0.0002,
+      "latency_ms": 2816,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_editor_free_768f5f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "As a content creator in India (IN) looking for free text-based video editors\u2014often referred to as AI script-to-video or text-driven timeline editors\u2014you have access to powerful tools that streamline editing by letting you edit video simply by editing text transcripts. \n\nHere is a breakdown of the be",
+      "cost_usd": 0.0002,
+      "latency_ms": 2323,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_editor_free_768f5f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_video_editor_free_768f5f_d1_IN.json"
+}

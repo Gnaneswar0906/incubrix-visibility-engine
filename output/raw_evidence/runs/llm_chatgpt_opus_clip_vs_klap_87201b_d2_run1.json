@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Klap"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Klap** (often referred to as Klap App or Klap AI) depends largely on your specific workflow, the type of content you produce, and how much manual control you want to exert over the final edit.\n\nBoth tools are AI-powered video clipping platforms designed to turn long-form video into short-form vertical clips for TikTok, Instagram Reels, and YouTube Shorts. However, they have distinct strengths.\n\n### Quick Comparison: Opus Clip vs. Klap\n\n| Feature | **Opus Clip** | **Klap** |\n| :--- | :--- | :--- |\n| **Primary Strength** | High-quality auto-edit",
+  "raw_payload": {
+    "id": "chatcmpl-e7b3ccca-8b19-496c-83dc-cfbbe488dbd0",
+    "object": "chat.completion",
+    "created": 1795376755,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Klap** (often referred to as Klap App or Klap AI) depends largely on your specific workflow, the type of content you produce, and how much manual control you want to exert over the final edit.\n\nBoth tools are AI-powered video clipping platforms designed to turn long-form video into short-form vertical clips for TikTok, Instagram Reels, and YouTube Shorts. However, they have distinct strengths.\n\n### Quick Comparison: Opus Clip vs. Klap\n\n| Feature | **Opus Clip** | **Klap** |\n| :--- | :--- | :--- |\n| **Primary Strength** | High-quality auto-edit"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.085464986,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006020304,
+      "completion_tokens": 150,
+      "completion_time": 0.286957773,
+      "total_tokens": 228,
+      "total_time": 0.292978077
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cpcjbebnbzp91qa8rg9sq",
+      "seed": 2044292252
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1064,
+  "cost_usd": 0.0002
+}

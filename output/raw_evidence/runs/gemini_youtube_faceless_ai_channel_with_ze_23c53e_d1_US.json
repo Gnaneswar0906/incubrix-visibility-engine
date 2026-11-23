@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-",
+      "cost_usd": 0.0002,
+      "latency_ms": 9007,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_faceless_ai_channel_with_ze_23c53e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-tier software tools and open-source AI models. As a content creator in the US, your biggest resource will be your time and strategic execution. \n\nBelow is a comprehensive guide to building a z",
+      "cost_usd": 0.0002,
+      "latency_ms": 7446,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_faceless_ai_channel_with_ze_23c53e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_faceless_ai_channel_with_ze_23c53e_d1_US.json"
+}

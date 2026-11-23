@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayon",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are likely looking for tools that balance **cost-effectiveness** (considering INR pricing models), **speed**, and **quality** for repurposing long-form content into short-form clips (Reels, Shorts, TikTok).\n\nHere\u2019s a detailed comparison of **Opus Clip** vs. **Crayon** (assuming you mean **Crane** or a lesser-known tool; however, in the AI clipping space, the primary competitors are **Opus Clip**, **Vizard**, **Vidyo.ai**, and **CapCut**). *Note: \"Crayon\" is not a widely recognized mainstream AI clipping tool. It\u2019s possible you meant **Crane.ai**",
+  "raw_payload": {
+    "id": "chatcmpl-b56a46e0-e10b-40fd-9b0f-18fa7552b8a2",
+    "object": "chat.completion",
+    "created": 1795375316,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are likely looking for tools that balance **cost-effectiveness** (considering INR pricing models), **speed**, and **quality** for repurposing long-form content into short-form clips (Reels, Shorts, TikTok).\n\nHere\u2019s a detailed comparison of **Opus Clip** vs. **Crayon** (assuming you mean **Crane** or a lesser-known tool; however, in the AI clipping space, the primary competitors are **Opus Clip**, **Vizard**, **Vidyo.ai**, and **CapCut**). *Note: \"Crayon\" is not a widely recognized mainstream AI clipping tool. It\u2019s possible you meant **Crane.ai**"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04756167,
+      "prompt_tokens": 78,
+      "prompt_time": 0.00537462,
+      "completion_tokens": 150,
+      "completion_time": 0.302871745,
+      "total_tokens": 228,
+      "total_time": 0.308246365
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82baf6rezy8nbgazgkamyqk",
+      "seed": 291744788
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 837,
+  "cost_usd": 0.0002
+}

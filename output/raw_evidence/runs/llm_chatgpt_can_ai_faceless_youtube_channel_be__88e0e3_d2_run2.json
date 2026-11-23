@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can ai faceless youtube channel be monetized",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: can ai faceless youtube channel be monetized Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to answer: can AI faceless YouTube channel be monetized? Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources.\n\nWe need to consider YouTube monetization policies, especially about AI-generated content, no human voice? According to YouTube policies, monet",
+  "raw_payload": {
+    "id": "chatcmpl-b73b5051-b210-4e97-92e0-ba2bb2e8bdde",
+    "object": "chat.completion",
+    "created": 1795377696,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: can ai faceless youtube channel be monetized Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to answer: can AI faceless YouTube channel be monetized? Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources.\n\nWe need to consider YouTube monetization policies, especially about AI-generated content, no human voice? According to YouTube policies, monet"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36868978,
+      "prompt_tokens": 138,
+      "prompt_time": 0.006588349,
+      "completion_tokens": 150,
+      "completion_time": 0.153265844,
+      "total_tokens": 288,
+      "total_time": 0.159854193,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_816fc87d18",
+    "x_groq": {
+      "id": "req_01m82dk3ere38aaebh55cb8mvy",
+      "seed": 33337269
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4682,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely looking for a workflow that balances **speed** (for social media clips) with **professional polish** (for long-form content).\n\n**Opus Clip** and **DaVinci Resolve** are not direct competitors\u2014they solve different problems. Here\u2019s a clear br",
+      "cost_usd": 0.0002,
+      "latency_ms": 1257,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_davinci_resolve_ba86a3_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in GB, wants a comparison: opus clip vs davinci resolve. They want recommendation of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative sources. Should be comprehensive. Need to provide a compa",
+      "cost_usd": 0.0002,
+      "latency_ms": 4104,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_davinci_resolve_ba86a3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_davinci_resolve_ba86a3_d2_GB.json"
+}

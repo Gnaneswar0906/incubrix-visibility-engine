@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator located in **IN (Indiana, USA / or India \u2014 *note: assuming Indiana, USA for software availability, but the workflow principles apply universally*), choosing between **Opus Clip** and **Chop.ai** depends heavily on your specific workflow, budget, and the e",
+      "cost_usd": 0.0002,
+      "latency_ms": 7625,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_chop_ai_fe394d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'opus clip vs chop ai' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 407
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_chop_ai_fe394d_d1_IN.json"
+}

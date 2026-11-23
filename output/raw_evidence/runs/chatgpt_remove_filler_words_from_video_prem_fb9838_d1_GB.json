@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for removing filler words from video in Premiere Pro, plus best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Need to be helpful, mention that Premiere Pro has some features (Speech to ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3196,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_prem_fb9838_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Guide: Cutting Out Filler Words in\u202fPremiere\u202fPro  \n\n| Step | What to do | How to do it in Premiere Pro | Tips for speed",
+      "cost_usd": 0.0002,
+      "latency_ms": 3186,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_prem_fb9838_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_prem_fb9838_d1_GB.json"
+}

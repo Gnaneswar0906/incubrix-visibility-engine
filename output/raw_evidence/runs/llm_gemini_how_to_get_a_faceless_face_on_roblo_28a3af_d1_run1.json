@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to get a faceless face on roblox",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in GB looking to jump on the massive Roblox trend of the \"faceless\" look (often using the headless illusion or minimalist avatar styles) and turn those clips into viral short-form content, you need the right tools and a streamlined workflow. \n\nAchieving a \"faceless\" avatar on Roblox is an in-game styling choice, but making that look pop in your videos requires specific editing software and AI tools. Here is your complete guide to mastering the faceless Roblox aesthetic and producing top-tier content for TikTok, YouTube Shorts, and Instagram Reels.\n\n---\n\n### Step 1: How to Get a \"Faceless\" Look on Roblox\nBefore editing, you need the avatar. True \"Headless Horseman\" packages are rare and expensive, but creators use several workarounds:\n*   **The Headless Illusion:** Wearing specific 3D layered clothing hoods or hair meshes (like the \"Pal Dun\" hair or black hoodie",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in GB looking to jump on the massive Roblox trend of the \"faceless\" look (often using the headless illusion or minimalist avatar styles) and turn those clips into viral short-form content, you need the right tools and a streamlined workflow. \n\nAchieving a \"faceless\" avatar on Roblox is an in-game styling choice, but making that look pop in your videos requires specific editing software and AI tools. Here is your complete guide to mastering the faceless Roblox aesthetic and producing top-tier content for TikTok, YouTube Shorts, and Instagram Reels.\n\n---\n\n### Step 1: How to Get a \"Faceless\" Look on Roblox\nBefore editing, you need the avatar. True \"Headless Horseman\" packages are rare and expensive, but creators use several workarounds:\n*   **The Headless Illusion:** Wearing specific 3D layered clothing hoods or hair meshes (like the \"Pal Dun\" hair or black hoodie",
+              "thoughtSignature": "Eo4BCosBAWkUfRMhO433afCpx9m6eNDsBzagVn433vsGPKmH/cV/ILG9rOEuTGxiiT57462pufexaFVY9m+tf67DFL7HGZNrDL30UO8v2t0VDJ5h4pg7GaeC3JP+Zi/kVa2j2G49ZHo6kW3qHD134OD5eLBkc7jx/ONu0sGjyra0mhhv386QNXEwGabGFQad7g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "00IDa6TULpyqjuMPmofTQQ"
+  },
+  "latency_ms": 7052,
+  "cost_usd": 0.0002
+}

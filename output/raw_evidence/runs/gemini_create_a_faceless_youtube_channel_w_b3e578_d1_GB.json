@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "create a faceless youtube channel with ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a faceless YouTube channel using AI is one of the most efficient ways to build a scalable content business in the UK. By leveraging generative AI, you can automate scriptwriting, voiceovers, video editing, and clip repurposing. \n\nHere is a comprehensive guide tailored for a UK-based content",
+      "cost_usd": 0.0002,
+      "latency_ms": 3471,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_a_faceless_youtube_channel_w_b3e578_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Building a faceless YouTube channel using AI is one of the most efficient ways to scale a content creation business in the UK. By leveraging AI for scriptwriting, voice synthesis, video editing, and repurposing, a single creator can produce professional-grade content in a fraction of the traditional",
+      "cost_usd": 0.0002,
+      "latency_ms": 2750,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_create_a_faceless_youtube_channel_w_b3e578_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_create_a_faceless_youtube_channel_w_b3e578_d1_GB.json"
+}

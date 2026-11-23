@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatic captions generator for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for automatic caption generators for free, for a content creator in GB. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide answer. Must comply with policy. No disallowed content. It's fine. Provide list of free caption generators, mention free tiers, features, pros/cons, workflow suggestions. Cite sources. Use markdown. Provide UK-specific considerations (e.g., GDPR, local accents). Provide citations with URLs. Ensure not to fabricate sources. Should we create citations? We can reference known sources like official websites, reviews from reputable sites (TechRadar, PCMag",
+  "raw_payload": {
+    "id": "chatcmpl-e07e0ff6-7ebd-4b47-8517-a8ef2ac9399a",
+    "object": "chat.completion",
+    "created": 1795375598,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for automatic caption generators for free, for a content creator in GB. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide answer. Must comply with policy. No disallowed content. It's fine. Provide list of free caption generators, mention free tiers, features, pros/cons, workflow suggestions. Cite sources. Use markdown. Provide UK-specific considerations (e.g., GDPR, local accents). Provide citations with URLs. Ensure not to fabricate sources. Should we create citations? We can reference known sources like official websites, reviews from reputable sites (TechRadar, PCMag"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.058056895,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006614395,
+      "completion_tokens": 150,
+      "completion_time": 0.313008225,
+      "total_tokens": 284,
+      "total_time": 0.31962262,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_05e76be18c",
+    "x_groq": {
+      "id": "req_01m82bk2j3e7cv3hv217b7hybf",
+      "seed": 336277452
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1959,
+  "cost_usd": 0.0002
+}

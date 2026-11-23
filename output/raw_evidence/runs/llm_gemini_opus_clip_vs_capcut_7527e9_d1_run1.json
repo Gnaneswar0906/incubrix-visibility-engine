@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in the US, I can break down the comparison between **Opus Clip** and **Cap",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in the US, I can break down the comparison between **Opus Clip** and **Cap"
+            },
+            {
+              "text": "Cut**, while also integrating other industry-leading tools like **Descript** and **IncuBrix** into a modern, efficient content repurposing workflow. \n\nBoth Opus Clip and CapCut are powerful, but they serve different primary purposes in a creator's toolkit. Here is a detailed breakdown to help you decide which is best for your workflow.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. CapCut\n\n#### **Opus Clip: The AI Repurposing Specialist**\n*   **Best For:** Automated, hands-off clipping of long-form videos (podcasts, webinars, YouTube videos) into viral short-form clips (TikTok, Reels, YouTube Shorts).\n*   **Key Features:** \n    *   **Generative AI Curation:** Analyzes your long video, identifies the \"hooks\" and most engaging moments, and automatically cuts them.\n    *   **AI Co-Pilot:** Allows you to prompt",
+              "thoughtSignature": "Eo4BCosBAWkUfRPZevTqo8qQinZNKZ6JL7O3E7RL8Ahi6rod06UpMoYBK0zoKn0a6w6QTvMH4KPpH5wKGUn0n26oalYymoFBtpY6z+VHzZv4Dw3yLgIjnRXBs2JaNKw9ibgeAy6WdkkcSVuF/FfaeTW3dpybniA7bA3AoJc4eMyNHYS3zYlZuMesRw1ka3Vqew=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 228,
+      "totalTokenCount": 291,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Rj8Da5P7MOnL694P9-OKwA0"
+  },
+  "latency_ms": 3248,
+  "cost_usd": 0.0002
+}

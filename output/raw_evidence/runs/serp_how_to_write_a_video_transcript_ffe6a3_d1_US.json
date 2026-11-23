@@ -1,0 +1,129 @@
+{
+  "query": "how to write a video transcript",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/features/video-to-text/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to write a video transcript",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Video to Text: Video Transcription Tool",
+        "link": "https://www.canva.com/features/video-to-text/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a video-to-text",
+        "snippet": "Get accurate text transcripts in minutes with Canva's video to text converter. Turn spoken content into captions for accessibility, design, or SEO.",
+        "position": 1
+      },
+      {
+        "title": "Create a Transcript from a Pre-recorded File",
+        "link": "https://news.microsoft.com/microsoft365forjournalists/learning-tools/700-2/",
+        "displayedLink": "https://news.microsoft.com \u203a microsoft365forjournalists \u203a learning-tools \u203a 700-2",
+        "snippet": "In this video, you'll learn how to create a transcript from an existing file (WAV, MP3, MP4, or M4a) by using Transcribe in Word on the web.",
+        "position": 2
+      },
+      {
+        "title": "Video to Text Converter \u2013 Transcribe Video to Text with AI",
+        "link": "https://www.happyscribe.com/video-to-text",
+        "displayedLink": "https://www.happyscribe.com \u203a video-to-text",
+        "snippet": "1. Upload your video. Import from your computer, YouTube, Zoom, Google Drive or Dropbox. \u00b7 2. Choose AI or human transcription. Use our AI video transcriber for ...",
+        "rating": 4.6,
+        "ratingCount": 1426,
+        "position": 3
+      },
+      {
+        "title": "Ultimate Guide to Creating a Transcript for Audio and Video Content",
+        "link": "https://www.youtube.com/watch?v=k3fCOgw861k",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Find out how to create a transcript and 7 reasons you should. Full ... Ultimate Guide to Creating a Transcript for Audio and Video Content.",
+        "position": 4
+      },
+      {
+        "title": "How to Write A Transcript of Audio or Video",
+        "link": "https://www.rev.com/resources/how-to-write-a-transcript-of-audio-or-video-transcription-writing-best-practices",
+        "displayedLink": "https://www.rev.com \u203a resources \u203a how-to-write-a-transcript-o...",
+        "snippet": "1. Listen before transcribing an interview or other recording 2. Transcribe a first draft 3. Edit your draft for accuracy 4. Format the ...",
+        "date": "Sep 11, 2024",
+        "position": 5
+      },
+      {
+        "title": "Transcribe video to text with AI",
+        "link": "https://www.adobe.com/products/premiere/speech-to-text.html",
+        "displayedLink": "https://www.adobe.com \u203a products \u203a premiere \u203a speech-to-text.html",
+        "snippet": "Use AI to automatically generate video transcripts, add captions or subtitles, translate captions with caption translation in Premiere (beta) app.",
+        "position": 6
+      },
+      {
+        "title": "How can I generate a transcript/.txt file from a video with no subtitles",
+        "link": "https://www.reddit.com/r/AskProgramming/comments/1aw87r3/how_can_i_generate_a_transcripttxt_file_from_a/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_can_i_generate_a_transc...",
+        "snippet": "Download the video. Upload it to YouTube as a private or unlisted video, and wait for the speech-to-text algorithm to generate the text for you.",
+        "position": 7
+      },
+      {
+        "title": "How to write a video transcript",
+        "link": "https://evernote.com/guides/write-a-video-transcript",
+        "displayedLink": "https://evernote.com \u203a guides \u203a write-a-video-transcript",
+        "snippet": "Transcribe the speech, name the speakers, add sounds that matter in brackets, describe important visuals for a descriptive transcript, then ...",
+        "date": "Nov 10, 2026",
+        "position": 8
+      },
+      {
+        "title": "Transcribe Video to Text - Free AI Video & Audio Transcription Tool ...",
+        "link": "https://videotranscriber.ai/",
+        "displayedLink": "https://videotranscriber.ai",
+        "snippet": "How to Use Video Transcriber AI \u00b7 Step 1: Upload a video or paste a link \u00b7 Step 2: Let AI transcribe your video \u00b7 Step 3: Copy, download, or share your transcript.",
+        "position": 9
+      },
+      {
+        "title": "How to Transcribe a Video to Text: 4 Ways",
+        "link": "https://www.docsie.io/video-to-text/how-to-transcribe-a-video/",
+        "displayedLink": "https://www.docsie.io \u203a video-to-text \u203a how-to-transcribe-a-video",
+        "snippet": "Get the video file, or a link to it. \u00b7 Upload it to a transcription tool, or play it and type. \u00b7 Wait for the transcript, with a time on each line if you can.",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "How do I write the transcript of a video?"
+      },
+      {
+        "question": "Can ChatGPT create a transcript from a video?"
+      },
+      {
+        "question": "What should a video transcript look like?"
+      },
+      {
+        "question": "What is the best tool to transcribe a video?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "How to write a video transcript free"
+      },
+      {
+        "query": "Transcribe video to text free"
+      },
+      {
+        "query": "How to write a video transcript online"
+      },
+      {
+        "query": "How to write a video transcript online free"
+      },
+      {
+        "query": "YouTube video to text converter online free"
+      },
+      {
+        "query": "Transcript generator from video"
+      }
+    ],
+    "credits": 1
+  }
+}

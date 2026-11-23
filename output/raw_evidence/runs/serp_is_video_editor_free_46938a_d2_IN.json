@@ -1,0 +1,99 @@
+{
+  "query": "is video editor free",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/video-editor/",
+  "competitors_named": "Veed.io, InVideo",
+  "raw_response": {
+    "searchParameters": {
+      "q": "is video editor free",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free Online Video Editor & Maker | Canva (Drag-and-drop)",
+        "link": "https://www.canva.com/video-editor/",
+        "displayedLink": "https://www.canva.com \u203a video-editor",
+        "snippet": "Try Canva's free online Video Editor. No credit card required. Powerful video editing, without the complexity. Just drop in your clips with a quick prompt, and ...",
+        "position": 1
+      },
+      {
+        "title": "Free Online Video Editor - Drag & Drop, Easy to Use",
+        "link": "https://www.veed.io/tools/video-editor",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a video-editor",
+        "snippet": "Create and edit videos online with AI \u2014 clean audio, auto-cut filler words and silences, add dynamic captions, and more. Free to start.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 2
+      },
+      {
+        "title": "Free Online Video Editor | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/editor",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a editor",
+        "snippet": "Can I edit a video online for free? Absolutely \u2014 Adobe Express is free to use. Make and edit as many videos as you'd like, no credit card required.",
+        "position": 3
+      },
+      {
+        "title": "Online Video Editor",
+        "link": "https://clideo.com/video-editor",
+        "displayedLink": "https://clideo.com \u203a video-editor",
+        "snippet": "A most user-friendly, easy-to-manage app, and all online, so there is no downloading or anything complicated - and most of it is FREE too!",
+        "position": 4
+      },
+      {
+        "title": "Online Video Editor \u2014 Free. AI-Powered. No-Downloads.",
+        "link": "https://www.kapwing.com/video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a video-editor",
+        "snippet": "Yes, anyone can start using Kapwing's online Video Editor for free. There are some limitations around features and video length for users on the Free plan,",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 5
+      },
+      {
+        "title": "Free Online Video Editor: Edit Videos Easily",
+        "link": "https://picsart.com/video-editor/",
+        "displayedLink": "https://picsart.com \u203a video-editor",
+        "snippet": "Edit videos online for free with a Video Editor designed for easy creation and everyday use. With no setup or learning curve, you can move from quick tweaks",
+        "rating": 4.9,
+        "ratingCount": 6942,
+        "position": 6
+      },
+      {
+        "title": "Free Online Video Editor",
+        "link": "https://invideo.io/make/online-video-editor/",
+        "displayedLink": "https://invideo.io \u203a make \u203a online-video-editor",
+        "snippet": "Is invideo's online video editor free? Yes. Every tool you use by hand is free: the timeline, cutting, trimming, arranging clips, text, and sharing a project.",
+        "position": 7
+      },
+      {
+        "title": "Best Free Video Editor in 2026",
+        "link": "https://www.youtube.com/watch?v=vDRHGg3e_hY",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Adobe Express video editor helps you create videos fast and free\u2014even if you're a complete beginner. it's a no watermark video editor for many\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for ...",
+        "link": "https://www.openshot.org/",
+        "displayedLink": "https://www.openshot.org",
+        "snippet": "OpenShot\u2122 is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software ...",
+        "position": 9
+      },
+      {
+        "title": "Free Video Editor - No Watermark Video Editing",
+        "link": "https://screenpal.com/video-editor",
+        "displayedLink": "https://screenpal.com \u203a video-editor",
+        "snippet": "Yes, you can edit videos for free on any device with ScreenPal, including Mac, Windows PC, Android, iOS iPhone/iPad, and Chromebook. We have different free ...",
+        "rating": 4.6,
+        "ratingCount": 10507,
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

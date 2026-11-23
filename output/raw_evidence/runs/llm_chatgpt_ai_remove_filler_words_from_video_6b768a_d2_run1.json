@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: ai remove filler words from video. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to provide recommendations for AI tools that remove filler words from video. Mention best software tools, workflow methods, key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative sources.\n\nWe should search for sources. Let's recall known tools: Descript has a filler word removal feature. CapCut is a mobile editor, but may have",
+  "raw_payload": {
+    "id": "chatcmpl-8a4533f4-25f5-426a-9286-e590ddd36347",
+    "object": "chat.completion",
+    "created": 1795377349,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: ai remove filler words from video. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nSo we need to provide recommendations for AI tools that remove filler words from video. Mention best software tools, workflow methods, key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative sources.\n\nWe should search for sources. Let's recall known tools: Descript has a filler word removal feature. CapCut is a mobile editor, but may have"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046749535,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006431465,
+      "completion_tokens": 150,
+      "completion_time": 0.152006533,
+      "total_tokens": 285,
+      "total_time": 0.158437998,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e99e93f2ac",
+    "x_groq": {
+      "id": "req_01m82d8gr8eq1ah7ekff0f9yrb",
+      "seed": 32534799
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5838,
+  "cost_usd": 0.0002
+}

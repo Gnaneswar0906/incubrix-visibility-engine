@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a podcast in India (IN) is an exciting venture, especially given the country's booming regional audio and video podcasting market. Whether you are aiming for Spotify, YouTube, or Apple Podcasts, having the right workflow and software stack is crucial. \n\nAs a content creator in India, your strategy should lean heavily toward **video-first podcasting** (often called vodcasting), as platforms like YouTube and Spotify in India heavily favor video content for discovery.\n\nHere is a comprehensive guide tailored for beginners, covering software tools, your production workflow, and key industry options.\n\n---\n\n### 1. The Ideal Podcast Workflow for Beginners\n\nA streamlined podcast workflow ensures consistency, which is the #1 key to growth. Follow these five stages:\n\n1. **Planning & Scripting:** Outline your episode, research guests (if any), and prepare a loose script or talking points. \n2. **Recording:** Capture high-quality audio and video. If",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Starting a podcast in India (IN) is an exciting venture, especially given the country's booming regional audio and video podcasting market. Whether you are aiming for Spotify, YouTube, or Apple Podcasts, having the right workflow and software stack is crucial. \n\nAs a content creator in India, your strategy should lean heavily toward **video-first podcasting** (often called vodcasting), as platforms like YouTube and Spotify in India heavily favor video content for discovery.\n\nHere is a comprehensive guide tailored for beginners, covering software tools, your production workflow, and key industry options.\n\n---\n\n### 1. The Ideal Podcast Workflow for Beginners\n\nA streamlined podcast workflow ensures consistency, which is the #1 key to growth. Follow these five stages:\n\n1. **Planning & Scripting:** Outline your episode, research guests (if any), and prepare a loose script or talking points. \n2. **Recording:** Capture high-quality audio and video. If",
+              "thoughtSignature": "Eo4BCosBAWkUfRPxN37wNid+yr2J78jo6PdF1HGKEHOgOjtLBPW0F4j2CWrH6rS0veqbsMaT/mdgCbFqOy/0KREghubFOpSLJdEJX/WutV/WobGL3xljhBafYcDP38DdMwko8s2R9MAeV7kuPvdsyd6mN7sE+SCzv0J0fCyeeKbNQ/4VxCxVCD+UqIvCVN8zaQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "-z8Da8mHBJLe694PopizgAE"
+  },
+  "latency_ms": 7080,
+  "cost_usd": 0.0002
+}

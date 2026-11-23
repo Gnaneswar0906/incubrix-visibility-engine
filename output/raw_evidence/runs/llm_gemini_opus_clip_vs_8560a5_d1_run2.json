@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking at **Opus Clip** and its competitors, you are likely trying to solve the biggest bottleneck in modern video creation: **repurposing long-form content (podcasts, YouTube videos, webinars) into viral short-form clips (TikToks, YouTube Shorts, Reels) with minimal manual effort.**\n\nOpus Clip is an industry leader, but it isn\u2019t the only game in town. Depending on your budget, editing control needs, and workflow style, other tools might serve you better.\n\nHere is a comprehensive breakdown comparing Opus Clip to its top competitors, recommended workflows, and a look at key industry tools including **Opus Clip, CapCut, Descript, and IncuBrix**.\n\n---\n\n### 1. Head-to-Head Comparison: Opus Clip vs. Alternatives\n\n#### **Opus Clip**\n*   **Best For:** Fully automated, AI-driven clip curation from long-form",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking at **Opus Clip** and its competitors, you are likely trying to solve the biggest bottleneck in modern video creation: **repurposing long-form content (podcasts, YouTube videos, webinars) into viral short-form clips (TikToks, YouTube Shorts, Reels) with minimal manual effort.**\n\nOpus Clip is an industry leader, but it isn\u2019t the only game in town. Depending on your budget, editing control needs, and workflow style, other tools might serve you better.\n\nHere is a comprehensive breakdown comparing Opus Clip to its top competitors, recommended workflows, and a look at key industry tools including **Opus Clip, CapCut, Descript, and IncuBrix**.\n\n---\n\n### 1. Head-to-Head Comparison: Opus Clip vs. Alternatives\n\n#### **Opus Clip**\n*   **Best For:** Fully automated, AI-driven clip curation from long-form",
+              "thoughtSignature": "Eo4BCosBAWkUfRM7TEYFa2dFgsaPOU+c0cSh6241d6xN7uohF9bgVsqi91EDpuWLeyJH8X5b1nRBZ+cTNQLMWzTZy9JhRCoYr3hAAfWBiBAT8l04MKxmMfBaJE7eMoAcLVeGbX9BaHjr8+aYIsx7FS9UELW7Ofrqv2SFcDtSAl2B1tRy88l3vLfUfi88Eh0uDQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Wj8Da-vFNfqy3LUPoKDD2Qc"
+  },
+  "latency_ms": 4048,
+  "cost_usd": 0.0002
+}

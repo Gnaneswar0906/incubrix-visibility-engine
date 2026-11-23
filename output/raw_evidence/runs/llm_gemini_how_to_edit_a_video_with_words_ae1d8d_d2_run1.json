@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to edit video using text\u2014often referred to as **text-based video editing**\u2014you have access to some of the most advanced AI-powered tools on the market. This workflow allows you to cut, delete, and rearrange video clips simply by editing a text transcript, much like editing a Word document.\n\nHere is a comprehensive guide to the best software tools, the standard workflow methods, and key industry options to streamline your content creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals (podcasting, short-form social media, or general video production), several industry-leading tools specialize in text-based editing:\n\n*   **Descript:** Widely considered the gold standard for text-based video and audio editing. It treats your recording as a text transcript; deleting a word in the text deletes it from the video timeline. It also features AI \"Studio Sound\"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to edit video using text\u2014often referred to as **text-based video editing**\u2014you have access to some of the most advanced AI-powered tools on the market. This workflow allows you to cut, delete, and rearrange video clips simply by editing a text transcript, much like editing a Word document.\n\nHere is a comprehensive guide to the best software tools, the standard workflow methods, and key industry options to streamline your content creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals (podcasting, short-form social media, or general video production), several industry-leading tools specialize in text-based editing:\n\n*   **Descript:** Widely considered the gold standard for text-based video and audio editing. It treats your recording as a text transcript; deleting a word in the text deletes it from the video timeline. It also features AI \"Studio Sound\"",
+              "thoughtSignature": "Eo4BCosBAWkUfROuEG4Yk+y3iKeVOk3TrjyTBw17uQdoIpIFL65g9fYs4vhlHw3W0qTrCIjYmD78x4+b+HO+RQcPTm6Ga9gbWOGzjaC5+u90Spf8Pq8jLYbqruPtt5TfF2VrVhgp1BqdKQ1YcZu75IM821eDmhICho93aIJl4JhMoSZ8Sf/vl0WlI47zQjH2GA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "l0UDa9uhMsaF694P3KiymQw"
+  },
+  "latency_ms": 1971,
+  "cost_usd": 0.0002
+}

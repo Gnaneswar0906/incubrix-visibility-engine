@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto caption generator for video Malayalam. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe mus",
+      "cost_usd": 0.0002,
+      "latency_ms": 2467,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_ma_08abd4_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Creating high-quality auto-captions for Malayalam content is a specific challenge because many standard AI tools are trained primarily on English, Hindi, or other major global languages. However, the landscape has improved significantly in 2024\u20132025.\n\nHere are the **best software tools, workflow met",
+      "cost_usd": 0.0002,
+      "latency_ms": 1303,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_ma_08abd4_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_ma_08abd4_d2_IN.json"
+}

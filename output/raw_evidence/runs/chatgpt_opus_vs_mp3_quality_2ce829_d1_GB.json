@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs mp3 quality",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the UK, you are asking about a classic trade-off in digital media: **file size/compatibility vs. audio fidelity**.\n\nHere\u2019s the breakdown, followed by recommended tools and workflows.\n\n### \ud83c\udfa7 Opus vs. MP3: Quality Comparison\n\n#### **Opus**\n- **What it is**: An open-sourc",
+      "cost_usd": 0.0002,
+      "latency_ms": 1172,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_vs_mp3_quality_2ce829_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants an answer: \"You are an AI assistant answering a query from a content creator located in GB. Query: opus vs mp3 quality. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources",
+      "cost_usd": 0.0002,
+      "latency_ms": 3330,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_vs_mp3_quality_2ce829_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_vs_mp3_quality_2ce829_d1_GB.json"
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native algorithm heavily favors videos with clear, dynamic captions because they improve accessibility and watch time. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow to get your subtitles looking professional and TikTok-ready.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want a mobile-first app, an all-in-one AI clipper, or desktop precision, here are the top industry-standard tools:\n\n*   **CapCut (The Mobile & Desktop Giant):** Owned by ByteDance (TikTok's parent company), CapCut is arguably the most popular tool for TikTok creators. Its **Auto Captions** feature is free, highly accurate, and offers trendy, animated text styles",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native algorithm heavily favors videos with clear, dynamic captions because they improve accessibility and watch time. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow to get your subtitles looking professional and TikTok-ready.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want a mobile-first app, an all-in-one AI clipper, or desktop precision, here are the top industry-standard tools:\n\n*   **CapCut (The Mobile & Desktop Giant):** Owned by ByteDance (TikTok's parent company), CapCut is arguably the most popular tool for TikTok creators. Its **Auto Captions** feature is free, highly accurate, and offers trendy, animated text styles",
+              "thoughtSignature": "Eo4BCosBAWkUfROjXQcjlqBUomtpp5HlK/ocSbCD5BxzTVMXkdh8XVWtuM6JYeb289qzxZ0cFsqMMbUJ6RFWPYAreKP4lzBzUgnerUS5fpsK96uoqYboxBdpmrxOisvFsiAjumdLrEOJU82Fb7Eo5L3iVh/x/swK54+blgsIBz0tX6MsLvshHv8JrCGnd21PlA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "7UEDa7fQMsvB694PpIOb2Q0"
+  },
+  "latency_ms": 2163,
+  "cost_usd": 0.0002
+}

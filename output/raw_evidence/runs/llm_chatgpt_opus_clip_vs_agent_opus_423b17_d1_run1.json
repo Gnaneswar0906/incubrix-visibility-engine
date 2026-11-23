@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs agent opus",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking to maximize efficiency by turning long-form content into viral short-form clips. The terms **\"Opus Clip\"** and **\"Agent Opus\"** can be confusing because they refer to two distinct concepts in the AI video editing space, often conflated due to naming similarities.\n\nHere\u2019s a clear breakdown, followed by recommendations and workflow methods.\n\n### 1. Clarifying the Terminology\n\n*   **Opus Clip (opus.pro)**: This is a **well-established, widely used AI-powered video repurposing tool**. It automatically ingests long-form videos (e.g., podcasts, YouTube streams) and uses AI to identify the most engaging moments, reframe them for vertical",
+  "raw_payload": {
+    "id": "chatcmpl-1e7f9f94-3be4-4784-86bd-093c8e8730ac",
+    "object": "chat.completion",
+    "created": 1795374949,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking to maximize efficiency by turning long-form content into viral short-form clips. The terms **\"Opus Clip\"** and **\"Agent Opus\"** can be confusing because they refer to two distinct concepts in the AI video editing space, often conflated due to naming similarities.\n\nHere\u2019s a clear breakdown, followed by recommendations and workflow methods.\n\n### 1. Clarifying the Terminology\n\n*   **Opus Clip (opus.pro)**: This is a **well-established, widely used AI-powered video repurposing tool**. It automatically ingests long-form videos (e.g., podcasts, YouTube streams) and uses AI to identify the most engaging moments, reframe them for vertical"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053758137,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005205443,
+      "completion_tokens": 150,
+      "completion_time": 0.31924574,
+      "total_tokens": 229,
+      "total_time": 0.324451183
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82az92ne1698097jzmsy9e8",
+      "seed": 386892566
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1469,
+  "cost_usd": 0.0002
+}

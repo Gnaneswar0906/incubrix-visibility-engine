@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Free\u202fText\u2011Based Video Editing Tools (202",
+      "cost_usd": 0.0002,
+      "latency_ms": 2033,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editor_free_506189_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Pick: Free Text\u2011Based Video Editors (2024)\n\n| Tool | Core \u201ctext\u2011to\u2011video\u201d features | Free tier limits |",
+      "cost_usd": 0.0002,
+      "latency_ms": 2959,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editor_free_506189_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editor_free_506189_d1_US.json"
+}

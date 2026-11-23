@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## ",
+  "raw_payload": {
+    "id": "chatcmpl-52bc01bc-7d1b-4031-a684-13e8a5c7144d",
+    "object": "chat.completion",
+    "created": 1795375853,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## ",
+          "reasoning": "The user wants recommendations for best AI apps for faceless YouTube channel. Provide software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is in GB, maybe mention UK-based resources, compliance with UK law, GDPR. Provide citations. Should not reveal internal policies. Provide helpful answer. Use markdown. Provide list of categories: script generation, voiceover, video editing, thumbnail generation, SEO. Provide workflow steps. Cite sources with links. Use footnotes. Ensure citations are credible (e.g., TechCrunch, The Verge, etc.). Provide disclaimer about usage rights."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157928729,
+      "prompt_tokens": 137,
+      "prompt_time": 0.00589583,
+      "completion_tokens": 150,
+      "completion_time": 0.308425941,
+      "total_tokens": 287,
+      "total_time": 0.314321771,
+      "completion_tokens_details": {
+        "reasoning_tokens": 140
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82btverer680q1cegt7cfvs",
+      "seed": 718721179
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3416,
+  "cost_usd": 0.0002
+}

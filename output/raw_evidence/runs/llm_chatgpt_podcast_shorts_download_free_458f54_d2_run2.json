@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating \"shorts\" (vertical, 15\u201360 second clips) from long-form podcasts is one of the most effective ways for GB-based creators to grow their audience on TikTok, Instagram Reels, and YouTube Shorts. Given the UK\u2019s strong podcasting scene and the need for efficient, high-quality repurposing, here\u2019s a curated guide to the best software, workflows, and tools available in 2024.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Opus Clip** (Best for AI-Automated Highlight Reels)\n- **Why it\u2019s great**: Specifically designed for podcasters and long-form video, Opus Clip uses AI to identify the most engaging moments, auto",
+  "raw_payload": {
+    "id": "chatcmpl-61dd7cb7-f607-4143-b701-bdedee98bc6c",
+    "object": "chat.completion",
+    "created": 1795377279,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating \"shorts\" (vertical, 15\u201360 second clips) from long-form podcasts is one of the most effective ways for GB-based creators to grow their audience on TikTok, Instagram Reels, and YouTube Shorts. Given the UK\u2019s strong podcasting scene and the need for efficient, high-quality repurposing, here\u2019s a curated guide to the best software, workflows, and tools available in 2024.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Opus Clip** (Best for AI-Automated Highlight Reels)\n- **Why it\u2019s great**: Specifically designed for podcasters and long-form video, Opus Clip uses AI to identify the most engaging moments, auto"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.20511336,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005356379,
+      "completion_tokens": 150,
+      "completion_time": 0.314313374,
+      "total_tokens": 226,
+      "total_time": 0.319669753
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d6btvebdbja672tv1qsbd",
+      "seed": 1925685177
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1966,
+  "cost_usd": 0.0002
+}

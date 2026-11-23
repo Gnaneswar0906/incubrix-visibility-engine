@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator free reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for free auto caption generator tools, referencing Reddit maybe, and mention workflow methods. Also mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations with links. Must be helpful for content creator in India (IN). Provide best software tools (free options) and workflow. Provide authoritative sources. Use markdown.\n\nWe must follow policy",
+  "raw_payload": {
+    "id": "chatcmpl-131c433c-2d20-48ef-b59b-3cbf8ab0245f",
+    "object": "chat.completion",
+    "created": 1795377011,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: auto caption generator free reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for free auto caption generator tools, referencing Reddit maybe, and mention workflow methods. Also mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide citations with links. Must be helpful for content creator in India (IN). Provide best software tools (free options) and workflow. Provide authoritative sources. Use markdown.\n\nWe must follow policy"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36859652,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005831467,
+      "completion_tokens": 150,
+      "completion_time": 0.309386393,
+      "total_tokens": 284,
+      "total_time": 0.31521786,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82cy6hme849b6e4mg5t766s",
+      "seed": 196290309
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3010,
+  "cost_usd": 0.0002
+}

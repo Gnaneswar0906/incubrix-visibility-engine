@@ -1,0 +1,95 @@
+{
+  "query": "auto caption generator for video vn app",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://vlognow.me/blog/features/auto-captions/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto caption generator for video vn app",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Auto Captions | VN Photo & Video Editor",
+        "link": "https://vlognow.me/blog/features/auto-captions/",
+        "displayedLink": "https://vlognow.me \u203a blog \u203a features \u203a auto-captions",
+        "snippet": "Automatically generate captions that transcribe your speech and sync with your video. Remove filler words like \u201cum\u201d and \u201cuh\u201d for cleaner, more concise subtitles ...",
+        "position": 1
+      },
+      {
+        "title": "How to Use the Auto Captions Feature",
+        "link": "https://www.youtube.com/watch?v=SkpiKinAusE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to Add Auto Caption in VN Video Editor App. Mari Mengedit\u202248K ... 7 Advanced Editing Tips in VN Video Editor | Keyframes, green screen, and\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a auto-caption",
+        "snippet": "Enhance their accessibility and appeal by using our free auto caption generator to detect speech in your videos and adding captions. Upload your video.",
+        "position": 3
+      },
+      {
+        "title": "How To Generate Auto Captions In Vn App | Video Me Captions Kaise Lagaye",
+        "link": "https://www.youtube.com/watch?v=qXR1DLgKYYg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "VN Auto Captions Tutorial | How To Generate Auto Captions In Vn App | Video Me Captions Kaise Lagaye. @kamillkz 8.3K likes 450K views 1y ago.",
+        "position": 4
+      },
+      {
+        "title": "How to Add Auto Captions in VN Video Editor",
+        "link": "https://www.youtube.com/watch?v=rg8777BoU38&vl=en",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Want to separate the sound from your video and edit it independently? In this tutorial, I'll walk you through how to extract audio from any\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Auto Subtitle & Caption Generator Online Free",
+        "link": "https://www.media.io/online-auto-subtitle-generator.html",
+        "displayedLink": "https://www.media.io \u203a online-auto-subtitle-genera...",
+        "snippet": "Need captions for your videos? Use Media.io's free AI subtitle generator to auto-add subtitles with up to 90% accuracy online.",
+        "position": 6
+      },
+      {
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.kapwing.com/subtitles",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 7
+      },
+      {
+        "title": "How to Add Auto Captions in VN Video Editor",
+        "link": "https://www.youtube.com/shorts/VeXvFkenR5I?vl=en",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a VeXvFkenR5I",
+        "position": 8
+      },
+      {
+        "title": "Free Video Caption Generator | AI Animated Subtitles & Captions",
+        "link": "https://www.choppity.com/tools/free-video-caption-generator/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-video-caption-generator",
+        "snippet": "AI adds captions automatically. Our speech-to-text AI transcribes the audio with 95%+ accuracy and burns time-synced captions straight into your video.",
+        "position": 9
+      },
+      {
+        "title": "VN Video Editor Auto Captions: Honest Review 2026",
+        "link": "https://blitzcutai.com/blog/vn-video-editor-auto-captions-review-2026",
+        "displayedLink": "https://blitzcutai.com \u203a blog \u203a vn-video-editor-auto-captio...",
+        "snippet": "Yes, VN Video Editor has auto captions. The feature lives under Text \u2192 Auto Captions, works on iOS, iPad, Android, and Mac, and core caption ...",
+        "date": "2 May 2026",
+        "rating": 4.3,
+        "ratingCount": 80,
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

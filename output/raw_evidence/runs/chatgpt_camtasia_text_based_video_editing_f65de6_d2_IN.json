@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator located in India. They ask: \"camtasia text-based video editing\" and want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). They want citations from authoritative web sources. So w",
+      "cost_usd": 0.0002,
+      "latency_ms": 4402,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_camtasia_text_based_video_editing_f65de6_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io",
+        "InVideo"
+      ],
+      "snippet": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to answer as an AI assistant for a content creator in India. Provide recommendations for text-based video editing, i.e., editing video using text ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3101,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_camtasia_text_based_video_editing_f65de6_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_camtasia_text_based_video_editing_f65de6_d2_IN.json"
+}

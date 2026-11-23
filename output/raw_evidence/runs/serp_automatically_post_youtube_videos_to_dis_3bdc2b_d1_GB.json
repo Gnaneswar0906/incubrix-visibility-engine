@@ -1,0 +1,95 @@
+{
+  "query": "automatically post youtube videos to discord server",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://discord.com/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "automatically post youtube videos to discord server",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Discord",
+        "link": "https://discord.com/",
+        "displayedLink": "https://discord.com",
+        "snippet": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+        "sitelinks": [
+          {
+            "title": "About Discord",
+            "link": "https://discord.com/company"
+          },
+          {
+            "title": "Download Discord to Talk ...",
+            "link": "https://discord.com/download"
+          },
+          {
+            "title": "Privacy Policy",
+            "link": "https://discord.com/privacy"
+          },
+          {
+            "title": "Marathon Official",
+            "link": "https://discord.com/invite/marathonthegame"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "Discord",
+        "link": "https://en.wikipedia.org/wiki/Discord",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Discord",
+        "snippet": "Discord partnered with YouTube to test a \"Watch Together\" feature, which allows Discord users to watch YouTube videos together.",
+        "position": 2
+      },
+      {
+        "title": "Discord",
+        "link": "https://x.com/discord",
+        "displayedLink": "https://x.com \u203a discord",
+        "snippet": "You can create bookmarks AND reminders on Discord! Bookmark a message to come back to later (like a video your friend linked) or remind ...",
+        "position": 3
+      },
+      {
+        "title": "Gaming and Extremism: The Extreme Right on Discord",
+        "link": "https://www.isdglobal.org/publication/gaming-and-extremism-the-extreme-right-on-discord/",
+        "displayedLink": "https://www.isdglobal.org \u203a publication \u203a gaming-and-extremism-the-ex...",
+        "snippet": "This briefing is part of ISD's Gaming and Extremism Series exploring the role online gaming plays in the strategy of far-right extremists in the UK and ...",
+        "position": 4
+      },
+      {
+        "title": "Discord is getting GPUI rewrite : r/rust",
+        "link": "https://www.reddit.com/r/rust/comments/1xnzn48/discord_is_getting_gpui_rewrite/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a discord_is_getting_gpui_rew...",
+        "snippet": "Structure the UI so you can put locally cached media up just a few vblanks after the process launches. Structure the server so it can return ...",
+        "position": 5
+      },
+      {
+        "title": "Discord \u2013 Talk, Play, Hang Out on Meta Quest",
+        "link": "https://www.meta.com/en-gb/experiences/discord-talk-play-hang-out/25956082250713643/?srsltid=AYCX9vKfwTXmhfZaFlcagto1IOI4C7yrS7PMuPhWs2sJFT0bfOLx6c3o",
+        "displayedLink": "https://www.meta.com \u203a en-gb \u203a ... \u203a 25956082250713643",
+        "snippet": "Discord is designed for gaming and great for just chilling with friends or building a community. Customise your own space and gather your friends to talk ...",
+        "position": 6
+      },
+      {
+        "title": "Tips for creating and growing a new Discord server",
+        "link": "https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10",
+        "displayedLink": "https://gist.github.com \u203a jagrosh \u203a 342324d7084c9ebdac2fa3d0cd7...",
+        "snippet": "Hello! I'm jagrosh#4824! I'm writing this guide to try to help new server owners set up and grow their servers, which is a commonly-requested topic.",
+        "position": 7
+      },
+      {
+        "title": "What Is Discord? A Parent's Guide to How It Actually Works",
+        "link": "https://www.youtube.com/watch?v=Fgk3_93OpAY",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "We'll cover what a server actually is, how channels and threads work, what DMs and voice in real life, and how to make sense of notifications,\u00a0...",
+        "position": 8
+      }
+    ],
+    "credits": 1
+  }
+}

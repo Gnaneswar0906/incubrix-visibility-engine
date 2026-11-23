@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ideas with ai free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! Creating a faceless YouTube channel is an excellent strategy for scaling content, and the current AI landscape makes this more accessible than ever. Since you are based in the UK, you have access to global tools, but it\u2019s worth noting that some tools have different pricing tiers or availability depending on region (though most major AI tools operate globally in GBP/USD).\n\nHere\u2019s a curated guide to the **best free or freemium AI tools**, **workflow methods**, and **key industry options** to help you launch a high-quality faceless channel.\n\n### 1. Recommended Software Tools (Free/Freemium Focus)\n\nWhile \"completely free forever\" AI tools are rare for high-end video generation, many offer generous free",
+  "raw_payload": {
+    "id": "chatcmpl-4679728a-6f0a-4c5d-b168-2184232a46cd",
+    "object": "chat.completion",
+    "created": 1795377617,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Creating a faceless YouTube channel is an excellent strategy for scaling content, and the current AI landscape makes this more accessible than ever. Since you are based in the UK, you have access to global tools, but it\u2019s worth noting that some tools have different pricing tiers or availability depending on region (though most major AI tools operate globally in GBP/USD).\n\nHere\u2019s a curated guide to the **best free or freemium AI tools**, **workflow methods**, and **key industry options** to help you launch a high-quality faceless channel.\n\n### 1. Recommended Software Tools (Free/Freemium Focus)\n\nWhile \"completely free forever\" AI tools are rare for high-end video generation, many offer generous free"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054313561,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005355508,
+      "completion_tokens": 150,
+      "completion_time": 0.303988513,
+      "total_tokens": 230,
+      "total_time": 0.309344021
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dgp9ve579wrhcqp0g651d",
+      "seed": 1112114024
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1875,
+  "cost_usd": 0.0002
+}

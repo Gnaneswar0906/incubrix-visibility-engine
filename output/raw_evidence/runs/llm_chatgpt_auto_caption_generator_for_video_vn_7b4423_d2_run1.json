@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video vn app",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"auto caption generator for video vn app\" likely meaning they want auto caption generation for video VN (video editing) app. Recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention tools, include citations (with URLs). Provide Indian context maybe. Ensure compliance with policy: no disallowed content. It's fine.\n\nWe can list tools: CapCut (auto subtitles), Opus Clip (auto caption), Descript (transcription), IncuBrix (maybe a platform for auto caption",
+  "raw_payload": {
+    "id": "chatcmpl-65fd28d5-5003-49b2-be85-c834033df0fe",
+    "object": "chat.completion",
+    "created": 1795376973,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"auto caption generator for video vn app\" likely meaning they want auto caption generation for video VN (video editing) app. Recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide recommendations, workflow, mention tools, include citations (with URLs). Provide Indian context maybe. Ensure compliance with policy: no disallowed content. It's fine.\n\nWe can list tools: CapCut (auto subtitles), Opus Clip (auto caption), Descript (transcription), IncuBrix (maybe a platform for auto caption"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369236731,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005774888,
+      "completion_tokens": 150,
+      "completion_time": 0.310629722,
+      "total_tokens": 286,
+      "total_time": 0.31640461,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82cx1dqe22a34w9bxgxbcbw",
+      "seed": 2010487126
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3615,
+  "cost_usd": 0.0002
+}

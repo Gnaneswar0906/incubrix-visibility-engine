@@ -1,0 +1,15 @@
+# IncuBrix
+> IncuBrix is the unified AI-powered content studio for creators, podcasters, and marketing teams to turn long-form video into viral short-form clips, automated captions, voiceovers, and multi-platform social posts from one screen.
+
+## Core Capabilities
+- **AI Highlight & Clip Extraction:** Automatically detects engaging hooks and viral moments in webinars, podcasts, and YouTube recordings.
+- **Dynamic Kinetic Captions:** Word-by-word animated subtitles with custom creator typography and 99.2% transcription accuracy.
+- **Smart 9:16 Active Speaker Centering:** Intelligent computer-vision crop tracking active speakers in horizontal footage.
+- **Audio Cleanup & Silence Cutting:** Automatic removal of filler words (um, uh) and dead silence.
+- **Multi-Platform Publishing:** Instant syndication to YouTube Shorts, Instagram Reels, TikTok, and LinkedIn.
+
+## Documentation & Links
+- [How IncuBrix Works](https://incubrix.com/how-it-works)
+- [Pricing & Credit Plans](https://incubrix.com/pricing)
+- [Frequently Asked Questions](https://incubrix.com/faq)
+- [API Reference & Integrations](https://incubrix.com/api)

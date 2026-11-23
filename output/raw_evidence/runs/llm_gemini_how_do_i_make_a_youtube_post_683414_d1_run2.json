@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK, making a **YouTube Post** (whether you mean a Community Tab text/image post, a YouTube Short, or a long-form video) involves a streamlined workflow utilizing some of the best AI-powered and traditional editing software available today. \n\nBelow is a complete guide on how to create, schedule, and publish YouTube content efficiently, featuring industry-standard tools and workflow methods tailored for UK creators.\n\n---\n\n### 1. Understanding \"YouTube Posts\"\nYouTube offers a few ways to \"post\":\n*   **Community Posts:** Text, polls, images, or GIFs that appear on your channel's Community tab to engage subscribers.\n*   **YouTube Shorts:** Vertical videos under 60 seconds.\n*   **Long-form Videos:** Traditional horizontal videos.\n\nSince most creators mean video content when asking how to \"make a post,\" the workflow below focuses on creating and publishing video content using top industry",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK, making a **YouTube Post** (whether you mean a Community Tab text/image post, a YouTube Short, or a long-form video) involves a streamlined workflow utilizing some of the best AI-powered and traditional editing software available today. \n\nBelow is a complete guide on how to create, schedule, and publish YouTube content efficiently, featuring industry-standard tools and workflow methods tailored for UK creators.\n\n---\n\n### 1. Understanding \"YouTube Posts\"\nYouTube offers a few ways to \"post\":\n*   **Community Posts:** Text, polls, images, or GIFs that appear on your channel's Community tab to engage subscribers.\n*   **YouTube Shorts:** Vertical videos under 60 seconds.\n*   **Long-form Videos:** Traditional horizontal videos.\n\nSince most creators mean video content when asking how to \"make a post,\" the workflow below focuses on creating and publishing video content using top industry",
+              "thoughtSignature": "Eo4BCosBAWkUfROSh+S06LItjTVauST9BB9C8rxXK7IUSQu+JbhYVeXPoOZZRgg4p6E1MhAdK2ghjCOOVF4aWvBFMRho8TizqG6s1ObG8adfT55KE/LGIU1cwVY87XqIHSjGIWsBwmHX8zk0xfIvx14wxGJ/Xu7+/P3ycT8J5RhzNa8RgZv/eiuSV4V1i3AlRg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "IkIDa63RM9yA694Pzp-o0QM"
+  },
+  "latency_ms": 3551,
+  "cost_usd": 0.0002
+}

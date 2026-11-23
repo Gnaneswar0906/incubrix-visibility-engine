@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflow methods, and industry-standard options for auto-generating YouTube subtitles. \n\nSubtitles (or closed captions) are no longer optional on YouTube; they are vital for audience retention, accessibility, and SEO. According to YouTube creator guidance, captions improve watch time by making content accessible to the deaf/hard-of-hearing, non-native English speakers, and viewers watching on mobile devices with the sound off.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you want a dedicated AI clip generator, a heavy-duty editor, or a quick mobile app, here are the top tools currently used by creators:\n\n#### 1. CapCut (Best for Dynamic, TikTok-Style Captions)\n*   **Overview:** Available as both a desktop/mobile app and a web-based tool, CapCut",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflow methods, and industry-standard options for auto-generating YouTube subtitles. \n\nSubtitles (or closed captions) are no longer optional on YouTube; they are vital for audience retention, accessibility, and SEO. According to YouTube creator guidance, captions improve watch time by making content accessible to the deaf/hard-of-hearing, non-native English speakers, and viewers watching on mobile devices with the sound off.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nDepending on whether you want a dedicated AI clip generator, a heavy-duty editor, or a quick mobile app, here are the top tools currently used by creators:\n\n#### 1. CapCut (Best for Dynamic, TikTok-Style Captions)\n*   **Overview:** Available as both a desktop/mobile app and a web-based tool, CapCut",
+              "thoughtSignature": "Eo4BCosBAWkUfRNBk425SUyuY7nHcqRAoMoZCv5jlE4lIMl/UIQGIww1OpwpI3UoTgt5pPA7rhYXDvz3T4YcRkM34lvKgVUEOykMEKEk81VxFTWs4ZEHtxjV8EzFWBRArKU2keVk+qqGahcEQkls6oDm06afSnfvKqxEhfClK6Po5t5RmZcwrVmVq5P7/GnVVA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iz4Da6iCH4C2z7sPtOHZiA8"
+  },
+  "latency_ms": 2994,
+  "cost_usd": 0.0002
+}

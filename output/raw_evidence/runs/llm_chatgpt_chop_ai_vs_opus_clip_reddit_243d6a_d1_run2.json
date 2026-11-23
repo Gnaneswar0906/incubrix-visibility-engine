@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "chop ai vs opus clip reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: chop ai vs opus clip reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendation of best software tools, workflow methods, mention key industry options. Provide citations (authoritative web sources). Should be helpful to a content creator in India (IN). Should discuss \"chop ai vs opus clip reddit\" \u2013 likely they are looking for comparison between Chop AI (maybe a video clipping tool) and Opus Clip, referencing Reddit discussions. Provide overview",
+  "raw_payload": {
+    "id": "chatcmpl-5943013a-3bc5-4b4a-9b74-60c0edc8195a",
+    "object": "chat.completion",
+    "created": 1795375327,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN. Query: chop ai vs opus clip reddit. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendation of best software tools, workflow methods, mention key industry options. Provide citations (authoritative web sources). Should be helpful to a content creator in India (IN). Should discuss \"chop ai vs opus clip reddit\" \u2013 likely they are looking for comparison between Chop AI (maybe a video clipping tool) and Opus Clip, referencing Reddit discussions. Provide overview"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317125909,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00529534,
+      "completion_tokens": 150,
+      "completion_time": 0.31153182,
+      "total_tokens": 285,
+      "total_time": 0.31682716,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82basp1etmthzhk0q0dc6gg",
+      "seed": 722872113
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2232,
+  "cost_usd": 0.0002
+}

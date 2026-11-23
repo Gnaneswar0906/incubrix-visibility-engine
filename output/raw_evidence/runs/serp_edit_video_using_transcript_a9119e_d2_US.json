@@ -1,0 +1,129 @@
+{
+  "query": "edit video using transcript",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/text-based-video-editing",
+  "competitors_named": "CapCut, Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "edit video using transcript",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text-Based Video Editing - Edit Videos With Text",
+        "link": "https://www.veed.io/tools/text-based-video-editing",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a text-based-video-editing",
+        "snippet": "Edit videos by modifying transcripts instead of timelines. Remove filler words, rearrange content, and create clips for social media in minutes, not hours.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Descript: AI Video & Audio Text-based Editor \u2014 Try Free",
+        "link": "https://www.descript.com/",
+        "displayedLink": "https://www.descript.com",
+        "snippet": "Descript is the AI video and audio editor that makes editing as easy as editing text. Record, transcribe, edit, and publish in one tool. Try it free.",
+        "position": 2
+      },
+      {
+        "title": "Editing videos USING the transcript : r/VideoEditing",
+        "link": "https://www.reddit.com/r/VideoEditing/comments/mg52er/editing_videos_using_the_transcript/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a editing_videos_using_the_tr...",
+        "snippet": "use the actual transcript to edit, delete, slice videos (i.e. user words to slice and delete). automatically add subtitles. create ...",
+        "position": 3
+      },
+      {
+        "title": "Edit video using generated transcript | Firefly",
+        "link": "https://helpx.adobe.com/firefly/web/firefly-video-editor/work-with-transcript/edit-video-using-generated-transcript.html",
+        "displayedLink": "https://helpx.adobe.com \u203a firefly \u203a ... \u203a edit-video-using-generated-...",
+        "snippet": "Learn how to edit your video by making changes directly in the transcript with Text-based editing. Try it in the app Use the video transcript ...",
+        "date": "Nov 10, 2026",
+        "position": 4
+      },
+      {
+        "title": "How to edit videos with AI transcript-based editing",
+        "link": "https://www.youtube.com/watch?v=My-t09vy5Co",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Watch this tutorial to learn how to easily trim lengthy footage, cut out filler words, and edit out mistakes with transcript-based editing.",
+        "position": 5
+      },
+      {
+        "title": "Transcript Editing: Simplify Video & Audio Edits",
+        "link": "https://www.capcut.com/tools/video-transcript-editing",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a video-transcript-editing",
+        "snippet": "CapCut offers a free online transcript editor. It allows users to transcribe and edit their audio and video content easily.",
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editing: How to Edit Video With Text - Easy Guide",
+        "link": "https://riverside.com/blog/how-to-edit-video-with-text",
+        "displayedLink": "https://riverside.com \u203a blog \u203a how-to-edit-video-with-text",
+        "snippet": "Just highlight and delete text in the transcript to cut tangents, create clips, or rearrange scenes.",
+        "date": "May 29, 2025",
+        "position": 7
+      },
+      {
+        "title": "Premiere Pro: Harness the Power of Text-based Editing with James ...",
+        "link": "https://www.youtube.com/watch?v=4IjOOlhWAGo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Join James Bonanno as he teachers you how to edit with text, remove unwanted pauses, and filler words all within one panel in Adobe",
+        "position": 8
+      },
+      {
+        "title": "Video to Text: Video Transcription Tool",
+        "link": "https://www.canva.com/features/video-to-text/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a video-to-text",
+        "snippet": "Get accurate text transcripts in minutes with Canva's video to text converter. Turn spoken content into captions for accessibility, design, or SEO.",
+        "position": 9
+      },
+      {
+        "title": "What app are creators using to edit videos by editing the transcript?",
+        "link": "https://www.reddit.com/r/VideoEditingTips/comments/1uteecv/what_app_are_creators_using_to_edit_videos_by/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a what_app_are_creators_using...",
+        "snippet": "I\u2019ve noticed a lot of Instagram creators have videos that are edited really tightly - almost like every sentence flows perfectly, with little pauses ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/VideoEditingTips/comments/1uteecv/comment/oz73cox/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/VideoEditingTips/comments/1uteecv/comment/owviglu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/VideoEditingTips/comments/1uteecv/what_app_are_creators_using_to_edit_videos_by/owvl295/"
+          }
+        ],
+        "position": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Edit video using transcript reddit"
+      },
+      {
+        "query": "Edit video using transcript free"
+      },
+      {
+        "query": "Edit video using transcript online free"
+      },
+      {
+        "query": "Edit video using transcript online"
+      },
+      {
+        "query": "Edit video using transcript app"
+      },
+      {
+        "query": "Transcript based editing CapCut"
+      }
+    ],
+    "credits": 1
+  }
+}

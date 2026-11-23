@@ -1,0 +1,85 @@
+{
+  "query": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=bHJ7EZ1vwHo",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts editing premiere pro",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "How To EDIT PODCASTS In SECONDS (Premiere Pro & Davinci ...",
+        "link": "https://www.youtube.com/watch?v=bHJ7EZ1vwHo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video I show you how to automatically edit a podcast in premiere pro (and Davinci Resolve) using the Autocut, Autopod, and Firecut\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "How to Edit a Video Podcast with Premiere Pro",
+        "link": "https://www.youtube.com/playlist?list=PL09Vo9li5mmsRDWylOhgb4JLqke87vtk7",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Learn more How to Edit a Video Podcast with Premiere Pro Home Shorts Library. Creating A Podcast Video with Text-Based Editing",
+        "position": 2
+      },
+      {
+        "title": "Viral Podcast Reel Editing in Premiere Pro | Minimal Text Animation Tutorial",
+        "link": "https://www.youtube.com/watch?v=w_Epv0DBAiE&vl=en-IN",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this Premiere Pro tutorial, I'll show you how to create a clean, minimal, viral-style podcast reel using animated text that appears word-by-\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "AutoPod | Automatic Podcast Editing for Premiere Pro",
+        "link": "https://www.autopod.fm/",
+        "displayedLink": "https://www.autopod.fm",
+        "snippet": "AutoPod is a set of Adobe Premiere Pro plug-ins that are designed for video podcast and video show editors. Edit multi-camera videos automatically, create ...",
+        "position": 4
+      },
+      {
+        "title": "Video Editing for Podcasters: Premiere Pro Edition",
+        "link": "https://www.youtube.com/watch?v=475ZqxOHTKQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Using Premiere Pro, he shows you, from start to finish, how to import footage, add graphics, enhance sound, edit, create social clips for\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Create engaging podcast videos with these expert tips",
+        "link": "https://www.adobe.com/in/creativecloud/video/discover/podcast-videos.html",
+        "displayedLink": "https://www.adobe.com \u203a in \u203a ... \u203a podcast-videos.html",
+        "snippet": "Capture the nuances of communication & spread your message with podcast videos. Learn how to create a podcast video & reach your audience.",
+        "position": 6
+      },
+      {
+        "title": "Edit Podcasts & Interviews in Premiere Pro (2026 Guide)",
+        "link": "https://cutback.video/blog/how-to-edit-interviews-podcasts-like-a-pro-an-essential-guide-for-beginners",
+        "displayedLink": "https://cutback.video \u203a blog \u203a how-to-edit-interviews-podc...",
+        "snippet": "Learn how to edit podcasts and interview videos inside Adobe Premiere Pro both manually and using AI tools, multicam workflows, and transcript-based editing.",
+        "position": 7
+      },
+      {
+        "title": "The Fastest Way to Edit Multi-Track Podcasts in Premiere Pro",
+        "link": "https://firecut.ai/blog/the-fastest-way-to-edit-multi-track-podcasts-in-premiere-pro/",
+        "displayedLink": "https://firecut.ai \u203a blog \u203a the-fastest-way-to-edit-mul...",
+        "snippet": "Manual Podcast Editing Workflow in Premiere Pro \u00b7 I. Setup and Sync \u00b7 II. The Initial Trimming and Cleaning (The 'Rough Cut') \u00b7 III. Mixing and ...",
+        "date": "12 Nov 2025",
+        "position": 8
+      },
+      {
+        "title": "Edit multi-cam podcasts faster with AutoCut",
+        "link": "https://www.autocut.com/en/autocutpodcast/",
+        "displayedLink": "https://www.autocut.com \u203a en \u203a autocutpodcast",
+        "snippet": "Edit podcasts for Premiere Pro & DaVinci in minutes. Detect speakers and automate multicamera cuts while keeping full control over camera timing, ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

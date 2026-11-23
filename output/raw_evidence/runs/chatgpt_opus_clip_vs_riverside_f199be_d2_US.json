@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Riverside"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Riverside"
+      ],
+      "snippet": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Riverside.fm** |\n|---------|---------------|------------------|\n| Primary purpose | AI\u2011driven short\u2011form video creation (auto\u2011highlight, captioning",
+      "cost_usd": 0.0002,
+      "latency_ms": 3818,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_riverside_f199be_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are likely looking to maximize your return on investment for video production, specifically regarding how to turn long-form content (like podcasts, webinars, or interviews) into short-form clips for platforms like TikTok, Instagram Reels, and YouTube Shorts",
+      "cost_usd": 0.0002,
+      "latency_ms": 2281,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_riverside_f199be_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_riverside_f199be_d2_US.json"
+}

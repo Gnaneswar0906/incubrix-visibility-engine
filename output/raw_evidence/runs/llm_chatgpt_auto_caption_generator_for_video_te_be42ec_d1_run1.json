@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto caption generator for video Telugu. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a list of tools, focusing on Telugu caption generation. Include AI-based auto transcription services supporting Telugu: Google Cloud Speech-to-Text, Azure Speech, IBM Watson, Rev.com, Trint, Sonix, Descript, Kapwing, Veed.io, Clipchamp, ClipScribe, etc. Also mention open source like Whisper (OpenAI) with Telugu model, and tools like Whisper AI, Whisper.cpp",
+  "raw_payload": {
+    "id": "chatcmpl-ac573b86-d70c-4648-9b93-cc1ad07628d2",
+    "object": "chat.completion",
+    "created": 1795375191,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto caption generator for video Telugu. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a list of tools, focusing on Telugu caption generation. Include AI-based auto transcription services supporting Telugu: Google Cloud Speech-to-Text, Azure Speech, IBM Watson, Rev.com, Trint, Sonix, Descript, Kapwing, Veed.io, Clipchamp, ClipScribe, etc. Also mention open source like Whisper (OpenAI) with Telugu model, and tools like Whisper AI, Whisper.cpp"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369336998,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006232401,
+      "completion_tokens": 150,
+      "completion_time": 0.31265458,
+      "total_tokens": 286,
+      "total_time": 0.318886981,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82b6mssepmsprny3pswv093",
+      "seed": 1014507335
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2992,
+  "cost_usd": 0.0002
+}

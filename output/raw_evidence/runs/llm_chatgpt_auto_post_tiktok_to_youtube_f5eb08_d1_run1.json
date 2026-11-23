@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [
+    "https://www.avcmedia.org/"
+  ],
+  "response_text": "To help you auto-post TikTok videos to YouTube, I recommend using a combination of software tools and workflow methods that allow for seamless content sharing between the two platforms. Here's a guide on the best tools and methods for your purpose:\n\n1. Video Conversion Software:\n   - Any Video Converter: This software can convert TikTok videos to the desired YouTube video format, ensuring smooth uploading to YouTube. (Source: https://www.avcmedia.org/)\n\n2. Cloud Storage and File Sharing Services:\n   - Google Drive or Dropbox: Store your TikTok videos and YouTube videos in these cloud storage services. This will enable easy sharing between the two platforms.\n",
+  "raw_payload": {
+    "id": "chatcmpl-70faaa05-5afb-4ad0-b046-a91d220227f5",
+    "object": "chat.completion",
+    "created": 1795374862,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "To help you auto-post TikTok videos to YouTube, I recommend using a combination of software tools and workflow methods that allow for seamless content sharing between the two platforms. Here's a guide on the best tools and methods for your purpose:\n\n1. Video Conversion Software:\n   - Any Video Converter: This software can convert TikTok videos to the desired YouTube video format, ensuring smooth uploading to YouTube. (Source: https://www.avcmedia.org/)\n\n2. Cloud Storage and File Sharing Services:\n   - Google Drive or Dropbox: Store your TikTok videos and YouTube videos in these cloud storage services. This will enable easy sharing between the two platforms.\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050300182,
+      "prompt_tokens": 80,
+      "prompt_time": 0.002807248,
+      "completion_tokens": 150,
+      "completion_time": 0.107120009,
+      "total_tokens": 230,
+      "total_time": 0.109927257
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82awm87e3s835az8bkgrqt7",
+      "seed": 1461915475
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 35104,
+  "cost_usd": 0.0002
+}

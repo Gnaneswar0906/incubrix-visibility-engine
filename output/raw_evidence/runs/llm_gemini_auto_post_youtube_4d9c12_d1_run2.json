@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to streamline your video production and publishing pipeline, automating your YouTube workflow can save you hours of manual labor each week. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014tailored to help you scale your channel efficiently.\n\n---\n\n### Part 1: Best Software Tools by Workflow Stage\n\nTo fully automate your YouTube workflow, you need tools that cover ideation, editing, repurposing, and scheduling.\n\n#### 1. Repurposing & Short-Form Automation (Opus Clip)\n* **What it does:** Opus Clip is a generative AI video tool that repurposes long-form videos into high-potential short-form clips (Shorts, Reels, TikToks) with a single click. \n* **Why use it:** It uses AI to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to streamline your video production and publishing pipeline, automating your YouTube workflow can save you hours of manual labor each week. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014tailored to help you scale your channel efficiently.\n\n---\n\n### Part 1: Best Software Tools by Workflow Stage\n\nTo fully automate your YouTube workflow, you need tools that cover ideation, editing, repurposing, and scheduling.\n\n#### 1. Repurposing & Short-Form Automation (Opus Clip)\n* **What it does:** Opus Clip is a generative AI video tool that repurposes long-form videos into high-potential short-form clips (Shorts, Reels, TikToks) with a single click. \n* **Why use it:** It uses AI to",
+              "thoughtSignature": "Eo4BCosBAWkUfROuPEnnRhq1elPgL1ei25uVLNe4UWua1T0Fm54H3siO2rZTwks/uyHTIUL2bqHQYjrcbFQlBd2ccB1/CjAm1IYlY3pqaZiQ3YLJCEAorjL9ifxhzE1G+823wlxZBB/F1nsVu6J/yD9Au+eQAKz+Y2C/PCaKd2xBMEtvFXswUkO5PA4//MJsHg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Mz8Da8CTGraz694P3KTO4A8"
+  },
+  "latency_ms": 2763,
+  "cost_usd": 0.0002
+}

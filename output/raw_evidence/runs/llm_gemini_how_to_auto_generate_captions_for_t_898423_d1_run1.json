@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating captions on TikTok is essential for maximizing reach, as many users watch videos on mute or rely on accessibility features. For a content creator based in Great Britain, utilizing a mix of native TikTok tools and AI-powered third-party software is the most efficient workflow to produce high-retention, stylized captions (often referred to as \"Alex Hormozi-style\" captions).\n\nHere is a comprehensive guide to the best software tools, key industry options, and a streamlined workflow tailored for your needs.\n\n---\n\n### Key Industry Options & Software Tools\n\n#### 1. CapCut (The Industry Standard for Mobile & Desktop)\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is arguably the most popular video editor for short-form content. Its auto-captions feature is robust, highly accurate, and supports British English (en-GB).\n*   **Best For:** Fast, stylish, kinetic word-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating captions on TikTok is essential for maximizing reach, as many users watch videos on mute or rely on accessibility features. For a content creator based in Great Britain, utilizing a mix of native TikTok tools and AI-powered third-party software is the most efficient workflow to produce high-retention, stylized captions (often referred to as \"Alex Hormozi-style\" captions).\n\nHere is a comprehensive guide to the best software tools, key industry options, and a streamlined workflow tailored for your needs.\n\n---\n\n### Key Industry Options & Software Tools\n\n#### 1. CapCut (The Industry Standard for Mobile & Desktop)\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is arguably the most popular video editor for short-form content. Its auto-captions feature is robust, highly accurate, and supports British English (en-GB).\n*   **Best For:** Fast, stylish, kinetic word-",
+              "thoughtSignature": "Eo4BCosBAWkUfROsCxCUaukh6f+Dpo635zk3uuZDaUs3IHa/3qSZXcX8wRjOfPGMJ2HaOXlV7QJ8L5TvI1shCb1f3nswUifKJjNUOGl0KXmWFGzKgMbRiTIKevY5IJLm6ZSPob+Erv692HIQDy4NH7Q+N9F0syAIkkmxEp+NkHHPHfmSPbJATU7WtNcUNqOPGQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "3UEDa4LqIrz1694P3e2L2A8"
+  },
+  "latency_ms": 2370,
+  "cost_usd": 0.0002
+}

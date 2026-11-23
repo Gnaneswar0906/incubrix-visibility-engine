@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to streamline their workflow and auto-post to YouTube, a combination of AI editing, clipping, and scheduling",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to streamline their workflow and auto-post to YouTube, a combination of AI editing, clipping, and scheduling"
+            },
+            {
+              "text": " tools is essential. Manually exporting from an editor, uploading to YouTube, and writing metadata wastes valuable time. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and an efficient automated workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **A. AI Repurposing & Clipping (For Shorts, Reels, & TikToks)**\n*   **Opus Clip:** An industry leader in generative AI video repurposing. It takes long-form talking-head videos, analyzes them for hooks and viral potential, and automatically chops them into multiple polished short-form clips complete with captions, emojis, and viral scores. \n*   **Descript:** An all-in-one audio/video editor that works primarily via text. You can edit your video simply by deleting text in a transcript. It includes powerful AI features like \"Studio Sound\" (removes background noise) and eye-contact correction,",
+              "thoughtSignature": "Eo4BCosBAWkUfRPbHwV5yTpDd6LUiwV125QhXH1eyeBL8MwGe6glPsfs7XNUxMKj2mgra6juNL35k7P+XnWXcresWR+O7vp/emOh69Ggq71Uzh54bfOK2B4hWIDqGoElZYAc+N2hfsOXc5vSalQJhy5IKM0AfcHDM8ttZLgyYN7O6OVi/3+MCtRNl5/42NlRMA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 233,
+      "totalTokenCount": 295,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uT4Da7nXLaO_juMPsYzOwAc"
+  },
+  "latency_ms": 7557,
+  "cost_usd": 0.0002
+}

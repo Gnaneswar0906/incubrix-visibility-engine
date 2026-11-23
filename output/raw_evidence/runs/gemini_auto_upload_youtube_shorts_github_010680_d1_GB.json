@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "For a content creator based in Great Britain looking to automate the upload of YouTube Shorts using GitHub, the ideal solution involves combining **AI-driven video repurposing tools** with a **headless automation workflow** hosted on GitHub Actions. \n\nHere is a comprehensive breakdown of the best so",
+      "cost_usd": 0.0002,
+      "latency_ms": 9154,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_youtube_shorts_github_010680_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto upload youtube shorts github' in GB, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 358
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_youtube_shorts_github_010680_d1_GB.json"
+}

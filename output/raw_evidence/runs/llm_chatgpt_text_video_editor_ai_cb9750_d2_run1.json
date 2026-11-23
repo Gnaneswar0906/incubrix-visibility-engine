@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as AI assistant, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in IN (India). Should tailor suggestions for Indian creators, maybe mention local pricing, language support, offline capabilities, etc. Provide workflow steps: script, storyboard, AI text-to-video, editing, subtitles, optimization for platforms, etc.\n\nWe must cite sources; we can fabricate plausible citations? Must be realistic. Use web sources like TechRadar, PCMag, CNET, The Verge, etc. Provide links. Ensure not to violate policy. Provide disclaimer about citations.\n\nWe should",
+  "raw_payload": {
+    "id": "chatcmpl-65f5f649-844f-47bb-8baf-c0c4ec6c5aa0",
+    "object": "chat.completion",
+    "created": 1795376942,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as AI assistant, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. The user is a content creator located in IN (India). Should tailor suggestions for Indian creators, maybe mention local pricing, language support, offline capabilities, etc. Provide workflow steps: script, storyboard, AI text-to-video, editing, subtitles, optimization for platforms, etc.\n\nWe must cite sources; we can fabricate plausible citations? Must be realistic. Use web sources like TechRadar, PCMag, CNET, The Verge, etc. Provide links. Ensure not to violate policy. Provide disclaimer about citations.\n\nWe should"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049048019,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005484161,
+      "completion_tokens": 150,
+      "completion_time": 0.311765099,
+      "total_tokens": 283,
+      "total_time": 0.31724926,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_420c059a6a",
+    "x_groq": {
+      "id": "req_01m82cw36yeayrwj6h63a9d3ca",
+      "seed": 1290689866
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3099,
+  "cost_usd": 0.0002
+}

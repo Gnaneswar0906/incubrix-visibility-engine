@@ -1,0 +1,37 @@
+{
+  "assistant": "chatgpt",
+  "question": "repurpose zoom webinar into linkedin video clips",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'repurpose zoom webinar into linkedin video clips' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 333
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'repurpose zoom webinar into linkedin video clips' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 333
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_repurpose_zoom_webinar_into_linkedi_d3fdd2_d1_US.json"
+}

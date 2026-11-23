@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=automate+short+form+content+creation",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "automate short form content creation",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:51:04.270162Z",
+  "extracted_count": 2,
+  "suggestions": [
+    "automate short form content creation",
+    "automate short form content creation and social interaction"
+  ],
+  "raw_response": "window.google.ac.h([\"automate short form content creation\",[[\"automate short form content creation\",33,[299],{\"a\":\"automate\\u0026nbsp;short\\u0026nbsp;form\\u0026nbsp;content\\u0026nbsp;\",\"b\":\"... creation\"}],[\"automate short form content creation and social interaction\",33,[299],{\"a\":\"automate\\u0026nbsp;short\\u0026nbsp;form\\u0026nbsp;content\\u0026nbsp;\",\"b\":\"... creation\\u0026nbsp;and\\u0026nbsp;social\\u0026nbsp;interaction\"}]],{\"k\":1}])"
+}

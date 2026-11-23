@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and high-quality output. While **InShot** is a fantastic, lightweight mobile app for quick edits, its native auto-captioning feature is basic and often requires manual tweaking for accuracy and styling.\n\nFor professional-grade auto-captioning that integrates well with InShot or works alongside it, here are the best software tools, workflow methods, and industry options, categorized by use case:\n\n### \ud83c\udfc6 Top-Specific Recommendations\n\n#### 1. **CapCut** (Best Direct Alternative & Workflow Companion)\n*   **Why it\u2019s great:** CapCut (by ByteDance) offers superior auto-captioning with high accuracy, customizable fonts, animations, and",
+  "raw_payload": {
+    "id": "chatcmpl-485d4819-fc1a-44b6-a18c-402c756665b6",
+    "object": "chat.completion",
+    "created": 1795376644,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and high-quality output. While **InShot** is a fantastic, lightweight mobile app for quick edits, its native auto-captioning feature is basic and often requires manual tweaking for accuracy and styling.\n\nFor professional-grade auto-captioning that integrates well with InShot or works alongside it, here are the best software tools, workflow methods, and industry options, categorized by use case:\n\n### \ud83c\udfc6 Top-Specific Recommendations\n\n#### 1. **CapCut** (Best Direct Alternative & Workflow Companion)\n*   **Why it\u2019s great:** CapCut (by ByteDance) offers superior auto-captioning with high accuracy, customizable fonts, animations, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051739494,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005563996,
+      "completion_tokens": 150,
+      "completion_time": 0.313720596,
+      "total_tokens": 229,
+      "total_time": 0.319284592
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ck0baeedbr4qeynfw7j9w",
+      "seed": 1428306871
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1000,
+  "cost_usd": 0.0002
+}

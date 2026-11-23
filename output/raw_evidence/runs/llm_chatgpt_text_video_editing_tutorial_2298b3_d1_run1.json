@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, presumably following policy. The user wants a tutorial on text video editing, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Provide recommendations, workflow steps, maybe comparison table. Also note location: IN (India). Could mention local considerations, pricing, language support. Must cite sources. Should we include URLs? Yes. Provide citations. Ensure no disallowed content. It's fine.\n\nWe need to be mindful of policy: no copyrighted text beyond 90 characters, but we can paraphrase. Provide citations with links. Use markdown. Provide steps.\n\nLet's",
+  "raw_payload": {
+    "id": "chatcmpl-e9a56239-90d5-46bd-bd68-d617b53858e5",
+    "object": "chat.completion",
+    "created": 1795375145,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, presumably following policy. The user wants a tutorial on text video editing, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Provide recommendations, workflow steps, maybe comparison table. Also note location: IN (India). Could mention local considerations, pricing, language support. Must cite sources. Should we include URLs? Yes. Provide citations. Ensure no disallowed content. It's fine.\n\nWe need to be mindful of policy: no copyrighted text beyond 90 characters, but we can paraphrase. Provide citations with links. Use markdown. Provide steps.\n\nLet's"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318274892,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005736277,
+      "completion_tokens": 150,
+      "completion_time": 0.31036879,
+      "total_tokens": 283,
+      "total_time": 0.316105067,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82b58cje418kqw20e484vn9",
+      "seed": 440617367
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2626,
+  "cost_usd": 0.0002
+}

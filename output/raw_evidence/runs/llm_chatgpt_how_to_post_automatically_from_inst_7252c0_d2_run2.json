@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. The user is a content creator in India (IN). They ask: \"how to post automatically from instagram to youtube\". Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies. No disallowed content. Provide info. Should we include any copyrighted text? No. Provide citations with URLs. Should we mention that direct auto-post from Instagram to YouTube is not natively supported; need to use third-party automation tools like Zapier, IFTTT, or use download and re-upload. Provide workflow: download Reel, edit, format,",
+  "raw_payload": {
+    "id": "chatcmpl-74ed4c70-7d02-40f3-a02d-271e8534df30",
+    "object": "chat.completion",
+    "created": 1795377065,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator in India (IN). They ask: \"how to post automatically from instagram to youtube\". Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies. No disallowed content. Provide info. Should we include any copyrighted text? No. Provide citations with URLs. Should we mention that direct auto-post from Instagram to YouTube is not natively supported; need to use third-party automation tools like Zapier, IFTTT, or use download and re-upload. Provide workflow: download Reel, edit, format,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369198306,
+      "prompt_tokens": 137,
+      "prompt_time": 0.00574294,
+      "completion_tokens": 150,
+      "completion_time": 0.315499153,
+      "total_tokens": 287,
+      "total_time": 0.321242093,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82cztz9emctc1a4y1vabrwc",
+      "seed": 7744590
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4420,
+  "cost_usd": 0.0002
+}

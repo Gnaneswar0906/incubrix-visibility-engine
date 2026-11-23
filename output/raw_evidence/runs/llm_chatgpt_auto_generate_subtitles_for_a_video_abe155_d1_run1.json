@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are in a prime position to leverage the latest advancements in automated subtitling. The current industry standard has shifted from manual typing to **AI-powered speech-to-text (STT)** tools that offer near-perfect accuracy, especially for clear audio in British English.\n\nHere\u2019s a curated guide to the best software, workflows, and industry options for auto-generating subtitles in 2024\u20132025.\n\n### \ud83c\udfc6 Top Recommended Tools by Use Case\n\n#### 1. **CapCut** (Best for Short-Form & Social Media)\n   - **Why it\u2019s great**: CapCut (by ByteDance) is the go-to for TikTok",
+  "raw_payload": {
+    "id": "chatcmpl-b46b534f-a50e-4748-8b9a-740704cef90c",
+    "object": "chat.completion",
+    "created": 1795375638,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are in a prime position to leverage the latest advancements in automated subtitling. The current industry standard has shifted from manual typing to **AI-powered speech-to-text (STT)** tools that offer near-perfect accuracy, especially for clear audio in British English.\n\nHere\u2019s a curated guide to the best software, workflows, and industry options for auto-generating subtitles in 2024\u20132025.\n\n### \ud83c\udfc6 Top Recommended Tools by Use Case\n\n#### 1. **CapCut** (Best for Short-Form & Social Media)\n   - **Why it\u2019s great**: CapCut (by ByteDance) is the go-to for TikTok"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054660972,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005079038,
+      "completion_tokens": 150,
+      "completion_time": 0.285812973,
+      "total_tokens": 228,
+      "total_time": 0.290892011
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bm9s0e2zvbrsm8df9wfjq",
+      "seed": 1743294804
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1111,
+  "cost_usd": 0.0002
+}

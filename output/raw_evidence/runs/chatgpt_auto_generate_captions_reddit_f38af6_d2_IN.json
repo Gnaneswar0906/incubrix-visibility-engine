@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user is a content creator in India, wants to auto generate captions for Reddit? Probably they want to generate captions for videos posted on Reddit? They ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite",
+      "cost_usd": 0.0002,
+      "latency_ms": 2728,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_reddit_f38af6_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a prime position to leverage automated captioning. The demand for short-form video (Reels, Shorts, TikTok) is massive in the Indian market, and accurate, engaging captions are critical for retention, especially for viewers who watch on mute or h",
+      "cost_usd": 0.0002,
+      "latency_ms": 1947,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_reddit_f38af6_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_reddit_f38af6_d2_IN.json"
+}

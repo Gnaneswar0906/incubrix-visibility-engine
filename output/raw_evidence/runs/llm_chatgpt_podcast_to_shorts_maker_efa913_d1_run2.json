@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, for \"podcast to shorts maker\". Provide best tools, workflow, mention industry options, cite authoritative web sources if available.\n\nWe need to answer as an AI assistant for a US content creator. Provide recommendations, workflow steps, mention tools, maybe alternatives like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Headliner, Clipchamp, Veed.io, etc. Provide citations with links.\n\nWe must comply with policy: no disallowed content. It's fine.\n\nWe should provide citations with proper formatting. Use footnotes or inline citations.\n\nWe must not fabricate sources",
+  "raw_payload": {
+    "id": "chatcmpl-ef4fc2bb-c983-45e6-b9b2-7fd8c6d456e5",
+    "object": "chat.completion",
+    "created": 1795374504,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, for \"podcast to shorts maker\". Provide best tools, workflow, mention industry options, cite authoritative web sources if available.\n\nWe need to answer as an AI assistant for a US content creator. Provide recommendations, workflow steps, mention tools, maybe alternatives like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Headliner, Clipchamp, Veed.io, etc. Provide citations with links.\n\nWe must comply with policy: no disallowed content. It's fine.\n\nWe should provide citations with proper formatting. Use footnotes or inline citations.\n\nWe must not fabricate sources"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369962211,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005762418,
+      "completion_tokens": 150,
+      "completion_time": 0.311572904,
+      "total_tokens": 283,
+      "total_time": 0.317335322,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82ahp8jeqr9t0kfw715zckx",
+      "seed": 397891467
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3007,
+  "cost_usd": 0.0002
+}

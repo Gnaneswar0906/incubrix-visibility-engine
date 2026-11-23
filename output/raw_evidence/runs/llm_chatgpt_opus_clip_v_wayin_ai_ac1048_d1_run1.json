@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip v wayin ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN.\" They ask: \"Query: opus clip v wayin ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations, workflow methods, mention key industry options including those. Provide citations (authoritative web sources). Must comply with policy. It's a normal request. Provide info about Opus Clip vs Wayin AI (maybe comparing). Provide workflow for short-form video creation. Cite sources like product websites, reviews, articles. Use proper citations format.\n\nWe should",
+  "raw_payload": {
+    "id": "chatcmpl-0171b34b-1846-40bc-a112-0b10dad5305a",
+    "object": "chat.completion",
+    "created": 1795375357,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"You are an AI assistant answering a query from a content creator located in IN.\" They ask: \"Query: opus clip v wayin ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations, workflow methods, mention key industry options including those. Provide citations (authoritative web sources). Must comply with policy. It's a normal request. Provide info about Opus Clip vs Wayin AI (maybe comparing). Provide workflow for short-form video creation. Cite sources like product websites, reviews, articles. Use proper citations format.\n\nWe should"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318545702,
+      "prompt_tokens": 135,
+      "prompt_time": 0.040598507,
+      "completion_tokens": 150,
+      "completion_time": 0.312193129,
+      "total_tokens": 285,
+      "total_time": 0.352791636,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82bbpfqentr0v4yqtyqgfmq",
+      "seed": 1786765751
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2445,
+  "cost_usd": 0.0002
+}

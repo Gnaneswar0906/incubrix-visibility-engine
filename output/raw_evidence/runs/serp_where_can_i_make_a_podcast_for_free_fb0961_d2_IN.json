@@ -1,0 +1,93 @@
+{
+  "query": "where can i make a podcast for free",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://monica.im/en/ai-podcast",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "where can i make a podcast for free",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free AI Podcast Generator | Instant Podcast from Any Content",
+        "link": "https://monica.im/en/ai-podcast",
+        "displayedLink": "https://monica.im \u203a en \u203a ai-podcast",
+        "snippet": "Transform web pages, YouTube videos, PDFs, and text into captivating podcasts instantly. Monica AI Podcast Generator turns your content into engaging audio ...",
+        "rating": 4.9,
+        "ratingCount": 17668,
+        "position": 1
+      },
+      {
+        "title": "Free AI Podcast Generator: Make a Podcast in Minutes",
+        "link": "https://www.wondercraft.ai/tools/ai-podcast-generator",
+        "displayedLink": "https://www.wondercraft.ai \u203a tools \u203a ai-podcast-generator",
+        "snippet": "Make a podcast with AI from a prompt, notes, a PDF or a URL. Pick lifelike voices, add music and publish. Free to start, no payment details needed.",
+        "rating": 4.9,
+        "ratingCount": 2557,
+        "position": 2
+      },
+      {
+        "title": "Podbean: Free Podcast hosting and Monetizing Platform",
+        "link": "https://www.podbean.com/",
+        "displayedLink": "https://www.podbean.com",
+        "snippet": "With Podbean you can start a podcast for free. Podbean offers a free podcast hosting service. You can use Podbean Podcast App to record and publish a podcast ...",
+        "position": 3
+      },
+      {
+        "title": "AI Podcast Generator \u2013 Turn Any Content into a Podcast Free",
+        "link": "https://notegpt.io/ai-podcast-generator",
+        "displayedLink": "https://notegpt.io \u203a ai-podcast-generator",
+        "snippet": "Transform a wide range of files into podcasts with ease. The AI Podcast Generator supports text documents, PDFs, websites, YouTube videos, and more.",
+        "rating": 4.9,
+        "ratingCount": 33471688,
+        "position": 4
+      },
+      {
+        "title": "Record a podcast",
+        "link": "https://podcast.adobe.com/en/record-your-podcast-for-free",
+        "displayedLink": "https://podcast.adobe.com \u203a en \u203a record-your-podcast-for-free",
+        "snippet": "Focus on your story, we'll take care of the rest \u00b7 Record audio and video in Adobe Podcast Studio for free \u00b7 Use cases \u00b7 Guides \u00b7 Resources.",
+        "position": 5
+      },
+      {
+        "title": "Podcast Maker Online | Easily Start a Podcast",
+        "link": "https://riverside.com/tools/podcast-maker",
+        "displayedLink": "https://riverside.com \u203a tools \u203a podcast-maker",
+        "snippet": "You can make a podcast free online with Riverside. With our free plan, you can record high-quality audio and video, edit with AI tools, and export your episode\u2014 ...",
+        "rating": 4.8,
+        "ratingCount": 1252,
+        "position": 6
+      },
+      {
+        "title": "AI Podcast Generator: Notes to Podcast",
+        "link": "https://www.studley.ai/podcast-maker",
+        "displayedLink": "https://www.studley.ai \u203a podcast-maker",
+        "snippet": "Turn notes, PDFs, and slides into a two-host podcast you can study on your commute or at the gym. The AI podcast generator built for students. Free to try.",
+        "position": 7
+      },
+      {
+        "title": "How to start a podcast: The creator's step-by-step guide",
+        "link": "https://creators.spotify.com/resources/start-a-podcast",
+        "displayedLink": "https://creators.spotify.com \u203a resources \u203a start-a-podcast",
+        "snippet": "Best of all, we've made Spotify for Creators free for everyone, all the time, so you can focus on your content while we handle distribution to ...",
+        "date": "16 Feb 2026",
+        "position": 8
+      },
+      {
+        "title": "AI Podcast Generator | Create Audio and Video Podcasts for Free",
+        "link": "https://www.heygen.com/en-in/tool/ai-podcast-generator",
+        "displayedLink": "https://www.heygen.com \u203a en-in \u203a tool \u203a ai-podcast-generator",
+        "snippet": "Create a podcast from text in minutes with HeyGen's free AI podcast generator. Turn any topic, URL or PDF into a video podcast presented by two lifelike AI ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

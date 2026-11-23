@@ -1,0 +1,86 @@
+{
+  "query": "podcast short and curly",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://open.spotify.com/show/3QCejw6dkDxD2KJTNcc54T",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast short and curly",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Short & Curly | Listen to the Podcast on Spotify",
+        "link": "https://open.spotify.com/show/3QCejw6dkDxD2KJTNcc54T",
+        "displayedLink": "https://open.spotify.com \u203a show \u203a 3QCejw6dkDxD2KJTNcc54T",
+        "snippet": "Short & Curly is the fun and educational ABC Kids and Family podcast that makes philosophy and ethics easy, entertaining, and thought-provoking.",
+        "position": 1
+      },
+      {
+        "title": "Short & Curly with Carl Smith and Molly Daniels and Eleanor Gordon-Smith",
+        "link": "https://www.abc.net.au/listen/programs/shortandcurly",
+        "displayedLink": "https://www.abc.net.au \u203a listen \u203a programs \u203a shortandcurly",
+        "snippet": "Short & Curly is the fun and educational ABC Kids and Family podcast that makes philosophy and ethics easy, entertaining, and thought-provoking.",
+        "position": 2
+      },
+      {
+        "title": "The Ethics of \"Getting Even\" | Short & Curly | ABC Big Kids",
+        "link": "https://www.youtube.com/watch?v=hdhMuNNlH90",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "SHORT & CURLY is a fast-paced fun-filled ethics podcast for kids. It asks curly questions about animals, technology, school, pop culture and\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "Stream Short & Curly | Listen to podcast episodes online for free on ...",
+        "link": "https://soundcloud.com/short-curly",
+        "displayedLink": "https://soundcloud.com \u203a short-curly",
+        "snippet": "SHORT & CURLY is a fast-paced fun-filled ethics podcast for kids and their parents, with questions and ideas to really get you thinking.",
+        "position": 4
+      },
+      {
+        "title": "Short & Curly | Podcast - Smalltalk.fm",
+        "link": "https://smalltalk.fm/pod/Short-and-Curly",
+        "displayedLink": "https://smalltalk.fm \u203a pod \u203a Short-and-Curly",
+        "snippet": "Short & Curly is the fun and educational ABC Kids and Family podcast that makes philosophy and ethics easy, entertaining, and thought-provoking.",
+        "position": 5
+      },
+      {
+        "title": "Short & Curly Bites (ABC)",
+        "link": "https://yoto.space/podcasts/post/short-curly-EuQqu2j8wmNL3gs",
+        "displayedLink": "https://yoto.space \u203a podcasts \u203a post \u203a short-curly-EuQqu2j8wmNL3gs",
+        "snippet": "A fast-paced fun-filled ethics podcast for kids and their parents that asks those curly questions. From banning lollies to trusting robots, and ...",
+        "date": "12 Mar 2025",
+        "position": 6
+      },
+      {
+        "title": "When Should You Stop Being Friends With Someone? | Short & Curly",
+        "link": "https://www.youtube.com/watch?v=mESSmapP7ns",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "SHORT & CURLY is a fast-paced fun-filled ethics podcast for kids and their parents, with questions and ideas to really get you thinking.",
+        "position": 7
+      },
+      {
+        "title": "Short & Curly - Parents' Guide & Podcast Review",
+        "link": "https://www.commonsensemedia.org/podcast-reviews/short-curly",
+        "displayedLink": "https://www.commonsensemedia.org \u203a podcast-reviews \u203a short-curly",
+        "snippet": "Short & Curly delicately unravels ethical questions for children and their families. The show does a remarkable job of introducing thoughtful ...",
+        "date": "2 Oct 2025",
+        "position": 8
+      },
+      {
+        "title": "Short & Curly",
+        "link": "https://www.iheart.com/podcast/256-short-curly-30966017/",
+        "displayedLink": "https://www.iheart.com \u203a podcast \u203a 256-short-curly-30966017",
+        "snippet": "Short & Curly is the fun and educational ABC Kids and Family podcast that makes philosophy and ethics easy, entertaining, and thought-provoking.",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

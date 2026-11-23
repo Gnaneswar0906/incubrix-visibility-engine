@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating the workflow from a local folder to YouTube is a great way to scale your output. However, it\u2019s important to clarify a key distinction: **YouTube does not have a native \"auto-upload from folder\" feature** due to copyright, quality control, and potential spam abuse.\n\nInstead, you need a **third-party automation tool** that monitors a folder and triggers an upload via the YouTube Data API. Here\u2019s a breakdown of the best software tools, workflow methods, and industry options:\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Folder-to-YouTube Auto-Upload\n\n#### 1. **TubeBuddy** (Browser Extension + API)\n   - **Best For",
+  "raw_payload": {
+    "id": "chatcmpl-206b46ff-36d0-4173-926e-eb050bbfc1a3",
+    "object": "chat.completion",
+    "created": 1795376671,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating the workflow from a local folder to YouTube is a great way to scale your output. However, it\u2019s important to clarify a key distinction: **YouTube does not have a native \"auto-upload from folder\" feature** due to copyright, quality control, and potential spam abuse.\n\nInstead, you need a **third-party automation tool** that monitors a folder and triggers an upload via the YouTube Data API. Here\u2019s a breakdown of the best software tools, workflow methods, and industry options:\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Folder-to-YouTube Auto-Upload\n\n#### 1. **TubeBuddy** (Browser Extension + API)\n   - **Best For"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049953477,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005219503,
+      "completion_tokens": 150,
+      "completion_time": 0.285862664,
+      "total_tokens": 228,
+      "total_time": 0.291082167
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82ckt1pee38jrjsmn6e86pz",
+      "seed": 1541446095
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1552,
+  "cost_usd": 0.0002
+}

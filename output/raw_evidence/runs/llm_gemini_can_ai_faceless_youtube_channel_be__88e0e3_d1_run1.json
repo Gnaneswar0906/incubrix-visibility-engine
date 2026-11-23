@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "can ai faceless youtube channel be monetized",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Yes",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "**Yes"
+            },
+            {
+              "text": ", a faceless YouTube channel can definitely be monetized.** \n\nAs a content creator in Great Britain, you are eligible to join the **YouTube Partner Program (YPP)** just like creators anywhere else, provided your channel meets the standard thresholds (1,000 subscribers and 4,000 valid public watch hours in the past 12 months, or 10 million valid public Shorts views in the last 90 days). \n\nYouTube\u2019s official monetization policies focus heavily on **originality, added value, and adherence to community guidelines** rather than whether a human face is on camera. According to Google\u2019s official YouTube Help documentation on the *Reused Content policy*, automated or AI-assisted content is allowed as long as it is not mass-produced \"spamtent\" and the creator adds significant original value through editing, commentary, unique scripts, or visual storytelling.\n\n---\n\n### Recommended Software Tools & Workflow Methods\n\nTo build a high-",
+              "thoughtSignature": "Eo4BCosBAWkUfROr7VbEPkPDbeEdlcAhweubWBYxwwad97fdOb+JZuuEcE0yI6Om+/n5u3Y2nfF4/5JsY/NoF7C9IbSbhTXnHZsOzXNQwXrFtNUyGdo2O9SiJOPH00K9oVfK1jmC52WMVTrvdUWCh//xsLlSGEQ86bfNRap+rI3SjCk0v2pMgz2cfo+H6wHS0g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 269,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "_kIDa6exNrD6g8UPqemv0Qk"
+  },
+  "latency_ms": 2465,
+  "cost_usd": 0.0002
+}

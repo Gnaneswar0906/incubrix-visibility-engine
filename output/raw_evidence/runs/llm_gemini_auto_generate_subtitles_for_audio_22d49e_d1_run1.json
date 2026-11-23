@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for audio",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK (GB), automating your subtitle workflow is one of the best ways to boost accessibility, viewer retention, and algorithmic reach across platforms like TikTok, Instagram Reels, YouTube Shorts, and long-form YouTube. \n\nHere is a comprehensive guide to the best software tools, industry options (including the ones you mentioned), and a recommended workflow tailored for a UK-based creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the content creation pipeline\u2014from quick, trendy short-form videos to deep, text-based editing for long-form content.\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Fast, highly engaging, trend-driven short-form captions.\n    *   *Why use it:* CapCut\u2019s \"Auto Captions\" feature is exceptionally accurate and offers hundreds of animated, dynamic text templates (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator based in the UK (GB), automating your subtitle workflow is one of the best ways to boost accessibility, viewer retention, and algorithmic reach across platforms like TikTok, Instagram Reels, YouTube Shorts, and long-form YouTube. \n\nHere is a comprehensive guide to the best software tools, industry options (including the ones you mentioned), and a recommended workflow tailored for a UK-based creator.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different parts of the content creation pipeline\u2014from quick, trendy short-form videos to deep, text-based editing for long-form content.\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Fast, highly engaging, trend-driven short-form captions.\n    *   *Why use it:* CapCut\u2019s \"Auto Captions\" feature is exceptionally accurate and offers hundreds of animated, dynamic text templates (",
+              "thoughtSignature": "Eo4BCosBAWkUfRNZHb/ThR6Dov2f0yKKJmv7a+UpI8JXHlOexJaHxSbY/hATRFE84T7uwr8e/mkCRFEcqfjL2ii5w3a2+aYuW8iFiLHtu75oGw+RWQtTZypE20fRM08OqxuiEc0OquHt6/ReF5r8LgnTkhWU89OCOIQbDknHycjJ558WQo5eN7YgvBHnzscoDQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "HkIDa8-DOb_cg8UP8qm5oAk"
+  },
+  "latency_ms": 3026,
+  "cost_usd": 0.0002
+}

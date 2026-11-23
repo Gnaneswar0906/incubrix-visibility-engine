@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"is video editor free\" and recommend best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India (IN). So we can tailor suggestions for Indian creators, mention free vs paid, features, etc. Provide citations with URLs. Must be mindful of policy: no copyrighted text beyond short excerpt. Provide citations as footnotes or inline. Provide a structured answer.\n\nWe need to ensure we don't violate any policy. It's fine. We'll list free video editors, mention those that have free tiers, mention paid options. Provide workflow steps:",
+  "raw_payload": {
+    "id": "chatcmpl-3a6745c3-1aac-43eb-9787-07893fb4d84c",
+    "object": "chat.completion",
+    "created": 1795376935,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"is video editor free\" and recommend best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India (IN). So we can tailor suggestions for Indian creators, mention free vs paid, features, etc. Provide citations with URLs. Must be mindful of policy: no copyrighted text beyond short excerpt. Provide citations as footnotes or inline. Provide a structured answer.\n\nWe need to ensure we don't violate any policy. It's fine. We'll list free video editors, mention those that have free tiers, mention paid options. Provide workflow steps:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369211204,
+      "prompt_tokens": 133,
+      "prompt_time": 0.019009065,
+      "completion_tokens": 150,
+      "completion_time": 0.312196211,
+      "total_tokens": 283,
+      "total_time": 0.331205276,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82cvvrpesy863kbvd8h6fsm",
+      "seed": 344895513
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2783,
+  "cost_usd": 0.0002
+}

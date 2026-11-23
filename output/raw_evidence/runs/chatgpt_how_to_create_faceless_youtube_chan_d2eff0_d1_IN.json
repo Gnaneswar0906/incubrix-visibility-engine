@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: how to create faceless YouTube channel using AI. Provide recommended software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources if available. The user is a content creator located in IN (India). P",
+      "cost_usd": 0.0002,
+      "latency_ms": 3005,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a faceless YouTube channel using AI is currently one of the most scalable content strategies, especially for creators looking to build an audience without showing their face. The key to success lies in a streamlined workflow that combines high-quality script generation, voice synthesis, and",
+      "cost_usd": 0.0002,
+      "latency_ms": 732,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_create_faceless_youtube_chan_d2eff0_d1_IN.json"
+}

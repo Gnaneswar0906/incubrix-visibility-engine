@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "create a monetizable ai faceless youtube channel",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 438
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'create a monetizable ai faceless youtube channel' in GB, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 443
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_create_a_monetizable_ai_faceless_yo_0cf397_d1_GB.json"
+}

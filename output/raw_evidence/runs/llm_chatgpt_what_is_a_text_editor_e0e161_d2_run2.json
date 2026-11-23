@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is a text editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"what is a text editor\" and recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. But those are video editing tools. The query: \"what is a text editor\". They might want a definition and recommendation of text editors for content creators in GB. They also want mention of key industry options like IncuBrix, CapCut, Opus Clip, Descript. Those are actually video editing tools, but maybe they want to mention them as part of workflow for content creators. Provide authoritative sources. Provide best software tools and workflow methods.\n\nWe need to cite authoritative web sources if available. So we can cite sources",
+  "raw_payload": {
+    "id": "chatcmpl-3c909b44-599d-43be-8401-ac318143ba03",
+    "object": "chat.completion",
+    "created": 1795377294,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"what is a text editor\" and recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. But those are video editing tools. The query: \"what is a text editor\". They might want a definition and recommendation of text editors for content creators in GB. They also want mention of key industry options like IncuBrix, CapCut, Opus Clip, Descript. Those are actually video editing tools, but maybe they want to mention them as part of workflow for content creators. Provide authoritative sources. Provide best software tools and workflow methods.\n\nWe need to cite authoritative web sources if available. So we can cite sources"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368108701,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006444216,
+      "completion_tokens": 150,
+      "completion_time": 0.152930108,
+      "total_tokens": 284,
+      "total_time": 0.159374324,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ed70b23331",
+    "x_groq": {
+      "id": "req_01m82d6v21egsshebgyb0hrawz",
+      "seed": 1648056386
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6137,
+  "cost_usd": 0.0002
+}

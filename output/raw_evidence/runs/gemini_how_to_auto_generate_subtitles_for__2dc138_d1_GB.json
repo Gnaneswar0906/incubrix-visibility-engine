@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating subtitles is one of the most efficient ways to boost viewer retention, improve accessibility, and cater to \"sound-off\" mobile viewing habits. As a content creator in Great Britain, you have access to a robust ecosystem of AI-driven tools ranging from simple mobile apps to professiona",
+      "cost_usd": 0.0002,
+      "latency_ms": 2275,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_subtitles_for__2dc138_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating subtitles is one of the most effective ways for UK content creators to boost engagement, accessibility, and watch time\u2014especially since a significant portion of social media video is consumed on mute. \n\nAs a creator based in Great Britain, your workflow will generally depend on your ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2488,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_subtitles_for__2dc138_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_subtitles_for__2dc138_d1_GB.json"
+}

@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video vn app",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto caption generator for video VN (maybe Vietnamese?) app. They are a content creator located in India (IN). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources i",
+      "cost_usd": 0.0002,
+      "latency_ms": 2904,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_vn_7b4423_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a creator based in India, you are in an excellent position to leverage some of the most cost-effective and powerful auto-caption tools available today. Since you specifically asked about **VN App** (VlogNow), I\u2019ll start with that and then expand to other industry-leading options that can i",
+      "cost_usd": 0.0002,
+      "latency_ms": 1164,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_vn_7b4423_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_vn_7b4423_d1_IN.json"
+}

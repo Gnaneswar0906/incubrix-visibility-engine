@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India looking to replicate or analyze the massive success of podcasts like *Figuring Out with Raj Shamani*, mastering the art of repurposing long-form podcast video into viral shorts (Reels, Shorts, TikToks) is essential. Raj Shamani\u2019s team is a prime example of how strategic clipping, high-retention editing, and rapid publishing can build massive personal brands.\n\nHere is a comprehensive guide tailored to your query, covering the best software tools, workflow methods, and industry benchmarks.\n\n---\n\n### 1. Best Software Tools for Podcast Shorts\n\nTo achieve the pacing and visual engagement seen in top Indian podcasts, you need a mix of AI automation and precise manual editors.\n\n*   **Opus Clip (AI-Powered):** \n    *   *What it does:* An industry leader in generative AI video clipping. You drop in a YouTube link of a long podcast, and Opus Clip\u2019s AI analyzes the",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India looking to replicate or analyze the massive success of podcasts like *Figuring Out with Raj Shamani*, mastering the art of repurposing long-form podcast video into viral shorts (Reels, Shorts, TikToks) is essential. Raj Shamani\u2019s team is a prime example of how strategic clipping, high-retention editing, and rapid publishing can build massive personal brands.\n\nHere is a comprehensive guide tailored to your query, covering the best software tools, workflow methods, and industry benchmarks.\n\n---\n\n### 1. Best Software Tools for Podcast Shorts\n\nTo achieve the pacing and visual engagement seen in top Indian podcasts, you need a mix of AI automation and precise manual editors.\n\n*   **Opus Clip (AI-Powered):** \n    *   *What it does:* An industry leader in generative AI video clipping. You drop in a YouTube link of a long podcast, and Opus Clip\u2019s AI analyzes the",
+              "thoughtSignature": "Eo4BCosBAWkUfROtBDJO+fXk3NqKobS201QaDmJdp7VrMSUYEgDukBFR3dI5b9Qe+598U3Q9+xSHoV0BLf8nSG535R9VPOqMBZGWFtfO2iX5dK5RoV/KJJG6AYtaGPf1Ge7NOtxxI1g/cn0VaHbYInvGFr/VcGOBM6Rng6UJ5pHTGW2oyFazMsuSId+e7CgS6A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "7z8Da7ygGfP2694Pz6Pw4A8"
+  },
+  "latency_ms": 2930,
+  "cost_usd": 0.0002
+}

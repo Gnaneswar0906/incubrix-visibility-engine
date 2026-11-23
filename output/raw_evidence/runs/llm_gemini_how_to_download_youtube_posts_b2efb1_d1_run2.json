@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), downloading YouTube posts, videos, or Shorts for repurposing and research is a common workflow. Whether you are archiving your own content or gathering inspiration for reels and shorts, here is a guide on how to download YouTube content, the best tools, and how industry-standard software fits into the workflow.\n\n*Note: Always ensure you have the rights to download and reuse content, respecting YouTube\u2019s Terms of Service and copyright laws.*\n\n---\n\n### 1. The Best Software Tools & Methods for Downloading\n\n#### **A. Dedicated Video Downloaders (Best for Raw Downloads)**\nIf your primary goal is to get the video file (`.mp4`) onto your local machine:\n*   **4K Video Downloader+:** Widely regarded as one of the most reliable tools for downloading high-resolution YouTube videos, playlists, and channels.\n*   **JDownloader 2:** A powerful",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), downloading YouTube posts, videos, or Shorts for repurposing and research is a common workflow. Whether you are archiving your own content or gathering inspiration for reels and shorts, here is a guide on how to download YouTube content, the best tools, and how industry-standard software fits into the workflow.\n\n*Note: Always ensure you have the rights to download and reuse content, respecting YouTube\u2019s Terms of Service and copyright laws.*\n\n---\n\n### 1. The Best Software Tools & Methods for Downloading\n\n#### **A. Dedicated Video Downloaders (Best for Raw Downloads)**\nIf your primary goal is to get the video file (`.mp4`) onto your local machine:\n*   **4K Video Downloader+:** Widely regarded as one of the most reliable tools for downloading high-resolution YouTube videos, playlists, and channels.\n*   **JDownloader 2:** A powerful",
+              "thoughtSignature": "Eo4BCosBAWkUfRP5z3iH9zuT0ODNKzUx6R8EV5S2I/UQOKLyf9xeK7mGavbH2L/1ljeK5F7Ci9Q0Q1fYfeDiZg6W/JAL+meleT5CEL4iYiLuRygrW6S5AmRdFq7RLhUDRoUzIMWdtyOpurF70AwlCvsJW2oCIeHhcqPw0GB19N5f9ZAWolkRPUF+q3mYWKirWg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1EADa9WiDISM694Pv9CK-Ak"
+  },
+  "latency_ms": 2204,
+  "cost_usd": 0.0002
+}

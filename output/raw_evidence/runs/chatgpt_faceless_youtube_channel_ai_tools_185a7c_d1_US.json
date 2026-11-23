@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tools",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Building a faceless YouTube channel in 2024 is one of the most accessible ways to generate passive income in the US, but it requires a streamlined, AI-powered workflow to remain competitive. The key is not just generating content, but assembling it efficiently.\n\nHere is a curated stack of the best s",
+      "cost_usd": 0.0002,
+      "latency_ms": 1406,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tools_185a7c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 AI\u2011Powered Toolkit & Workflow  \n*(Tailored for U.S. creators, with free\u2011or\u2011low\u2011cost options where possible)*  \n\n---\n\n## 1\ufe0f\u20e3",
+      "cost_usd": 0.0002,
+      "latency_ms": 3917,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_tools_185a7c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_tools_185a7c_d1_US.json"
+}

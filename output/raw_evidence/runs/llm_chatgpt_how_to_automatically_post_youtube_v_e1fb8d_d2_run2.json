@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide step-by-step guide, automation tools like Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, etc. Also mention YouTube's native sharing to Facebook. Provide details on how to set up. Provide citations with URLs. Use markdown. Provide best practices. Also note any region-specific considerations (India). Provide links to official docs. Ensure citations are credible (official",
+  "raw_payload": {
+    "id": "chatcmpl-3ce54833-85f6-4d3e-905c-8ab4c70304b6",
+    "object": "chat.completion",
+    "created": 1795377040,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide step-by-step guide, automation tools like Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, etc. Also mention YouTube's native sharing to Facebook. Provide details on how to set up. Provide citations with URLs. Use markdown. Provide best practices. Also note any region-specific considerations (India). Provide links to official docs. Ensure citations are credible (official"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283062218,
+      "prompt_tokens": 138,
+      "prompt_time": 0.014348541,
+      "completion_tokens": 150,
+      "completion_time": 0.311086656,
+      "total_tokens": 288,
+      "total_time": 0.325435197,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82cz2vzehtbeptr7gx8mv8m",
+      "seed": 479400889
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2982,
+  "cost_usd": 0.0002
+}

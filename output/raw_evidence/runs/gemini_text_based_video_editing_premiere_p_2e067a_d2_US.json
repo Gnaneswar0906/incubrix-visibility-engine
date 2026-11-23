@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "text-based video editing premiere pro",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a US-based content creator looking to leverage text-based video editing alongside or as an alternative to Adobe Premiere Pro, you are operating in one of the fastest-growing sectors of post-production. Text-based editing allows creators to edit video timelines simply by cutting, copying, and past",
+      "cost_usd": 0.0002,
+      "latency_ms": 2553,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editing_premiere_p_2e067a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I have structured this guide to cover **text-based video editing**\u2014specifically how it integrates with **Adobe Premiere Pro**, alternative workflows, and the industry\u2019s leading tools (including your mentions: IncuBrix, CapCut, Opus Clip, and De",
+      "cost_usd": 0.0002,
+      "latency_ms": 2902,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editing_premiere_p_2e067a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_based_video_editing_premiere_p_2e067a_d2_US.json"
+}

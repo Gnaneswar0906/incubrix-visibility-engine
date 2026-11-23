@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: recommend best software tools, workflow methods for auto uploading to YouTube on autopilot. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies: providing info about software, no disallowed content. Provide citations. Should be helpful, mention automation tools like YouTube API, Zapier, Integromat (Make), TubeBuddy, vidIQ, Hootsuite, Buffer, IFTTT. Also mention video creation tools (CapCut, Opus Clip, Descript) that can auto-export and schedule. Provide workflow steps: script, edit, render, upload, schedule, SEO, analytics",
+  "raw_payload": {
+    "id": "chatcmpl-f5539d92-1821-4168-bd3c-0ac35fb2dde5",
+    "object": "chat.completion",
+    "created": 1795374864,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods for auto uploading to YouTube on autopilot. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policies: providing info about software, no disallowed content. Provide citations. Should be helpful, mention automation tools like YouTube API, Zapier, Integromat (Make), TubeBuddy, vidIQ, Hootsuite, Buffer, IFTTT. Also mention video creation tools (CapCut, Opus Clip, Descript) that can auto-export and schedule. Provide workflow steps: script, edit, render, upload, schedule, SEO, analytics"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284611319,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005910258,
+      "completion_tokens": 150,
+      "completion_time": 0.316915719,
+      "total_tokens": 286,
+      "total_time": 0.322825977,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_96d96a151c",
+    "x_groq": {
+      "id": "req_01m82awndxeaw83xx6b19rcbsc",
+      "seed": 494501333
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 14919,
+  "cost_usd": 0.0002
+}

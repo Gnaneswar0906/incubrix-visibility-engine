@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto generating captions for a video, targeting a content creator in GB. Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: providing product recommendations is allowed as it's not disallowed. Must be factual, no disallowed content. Provide citations with URLs. Need to be helpful. Provide workflow steps. Use UK context maybe mention compliance with UK accessibility regulations (e.g., Ofcom, Equality Act). Provide citations. Ensure not to fabricate sources. Use known sources: e.g., Descript website, CapCut official, Opus Clip website, Incu",
+  "raw_payload": {
+    "id": "chatcmpl-c598d0b9-4f31-487b-8f71-2e6ab3e8167d",
+    "object": "chat.completion",
+    "created": 1795375631,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto generating captions for a video, targeting a content creator in GB. Need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: providing product recommendations is allowed as it's not disallowed. Must be factual, no disallowed content. Provide citations with URLs. Need to be helpful. Provide workflow steps. Use UK context maybe mention compliance with UK accessibility regulations (e.g., Ofcom, Equality Act). Provide citations. Ensure not to fabricate sources. Use known sources: e.g., Descript website, CapCut official, Opus Clip website, Incu"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154582122,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005755646,
+      "completion_tokens": 150,
+      "completion_time": 0.31148187,
+      "total_tokens": 285,
+      "total_time": 0.317237516,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82bm2gje2ft0jr6gpbdvmgv",
+      "seed": 90159443
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3255,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text video editor app",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in **India (IN)**, finding the right \"text video editor app\" depends heavily on whether you mean **editing video via text transcripts (AI-assisted editing)** or **adding stylized text/captions to videos** for platforms like Instagram Reels, YouTube Shorts, and long-form YouTube. \n\nThe Indian creator economy thrives on localized, fast-paced, and engaging content. Below is a breakdown of the best tools, a recommended workflow, and how key industry options fit your needs.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\n1. **Descript** *(Best for Text-Based Editing & Podcasting)*\n   * **What it does:** Allows you to edit video simply by editing a Word-style text transcript. Deleting a sentence in the transcript deletes it from the video. It also features AI eye-contact correction and studio-sound enhancement.\n   * **Relevance to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in **India (IN)**, finding the right \"text video editor app\" depends heavily on whether you mean **editing video via text transcripts (AI-assisted editing)** or **adding stylized text/captions to videos** for platforms like Instagram Reels, YouTube Shorts, and long-form YouTube. \n\nThe Indian creator economy thrives on localized, fast-paced, and engaging content. Below is a breakdown of the best tools, a recommended workflow, and how key industry options fit your needs.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\n1. **Descript** *(Best for Text-Based Editing & Podcasting)*\n   * **What it does:** Allows you to edit video simply by editing a Word-style text transcript. Deleting a sentence in the transcript deletes it from the video. It also features AI eye-contact correction and studio-sound enhancement.\n   * **Relevance to",
+              "thoughtSignature": "Eo4BCosBAWkUfRPK43wgEqS9e9SKWM0bwXQqLW3R0GVuo8u67vZy2wVnbQiiZl5p04y1lL8YdoQ+AuRPy/ZlsVG3xFLYUZcny0mKEt3+rvG4/iGrmFvSWIhZxo/RhotjonFTbVWwLemTleXIWujCzm9PrRb4SPADOV392O9X3ySXXEz3sXn4YOdyOS95nPV7UQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "QEADa9-RNK3N3LUPgbfI0Ac"
+  },
+  "latency_ms": 2627,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f Quick\u2011Turn Podcast\u2011Shorts Editing Kit  \n*(Designed for a U.S. content creator who wants to turn full\u2011length episodes into bite\u2011size, social\u2011media\u2011ready clips)*  \n\n| **Category** | **Tool / Service** | **Why It\u2019s",
+  "raw_payload": {
+    "id": "chatcmpl-2c970cf7-e2d5-4ee9-8172-af57242914ad",
+    "object": "chat.completion",
+    "created": 1795376515,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f Quick\u2011Turn Podcast\u2011Shorts Editing Kit  \n*(Designed for a U.S. content creator who wants to turn full\u2011length episodes into bite\u2011size, social\u2011media\u2011ready clips)*  \n\n| **Category** | **Tool / Service** | **Why It\u2019s",
+          "reasoning": "The user wants recommendations for podcast shorts edit: best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be US content creator. Provide tools, workflow steps, maybe hardware. Provide citations with links. Ensure compliance with policy: no disallowed content. Provide citations in proper format. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.520362918,
+      "prompt_tokens": 132,
+      "prompt_time": 0.04179912,
+      "completion_tokens": 150,
+      "completion_time": 0.310125261,
+      "total_tokens": 282,
+      "total_time": 0.351924381,
+      "completion_tokens_details": {
+        "reasoning_tokens": 83
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82cf1fre3e9f4c0787y2x1p",
+      "seed": 257579747
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2863,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to build a faceless youtube channel using ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel using AI is currently one of the most scalable ways to generate passive income or build a digital brand, especially for creators in India who want to start with low overhead. The key is not just using AI tools in isolation, but creating a **streamlined workflow** that combines scriptwriting, voiceover, visual generation, and editing.\n\nHere\u2019s a step-by-step guide, the best software stack, and an optimized workflow for 2024\u20132025.\n\n### \ud83d\udee0\ufe0f The Recommended AI Software Stack\n\n| Stage | Best Tools (Premium/Pro) | Best Tools (Free/Budget-Friendly) |\n|-------|---------------------------|-----------------------------------|\n| **1.",
+  "raw_payload": {
+    "id": "chatcmpl-1b1436ad-4943-4c32-9d0a-c964bae64e64",
+    "object": "chat.completion",
+    "created": 1795375420,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Building a faceless YouTube channel using AI is currently one of the most scalable ways to generate passive income or build a digital brand, especially for creators in India who want to start with low overhead. The key is not just using AI tools in isolation, but creating a **streamlined workflow** that combines scriptwriting, voiceover, visual generation, and editing.\n\nHere\u2019s a step-by-step guide, the best software stack, and an optimized workflow for 2024\u20132025.\n\n### \ud83d\udee0\ufe0f The Recommended AI Software Stack\n\n| Stage | Best Tools (Premium/Pro) | Best Tools (Free/Budget-Friendly) |\n|-------|---------------------------|-----------------------------------|\n| **1."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046817757,
+      "prompt_tokens": 82,
+      "prompt_time": 0.005415523,
+      "completion_tokens": 150,
+      "completion_time": 0.290878631,
+      "total_tokens": 232,
+      "total_time": 0.296294154
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bdmdfeb3aseehh2xr09mh",
+      "seed": 244822785
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1656,
+  "cost_usd": 0.0002
+}

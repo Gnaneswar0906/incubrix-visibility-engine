@@ -1,0 +1,126 @@
+{
+  "query": "how to auto post youtube shorts",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=8Q6hoBMecSA",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to auto post youtube shorts",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Create a YouTube Shorts Automation Channel USING ONLY AI",
+        "link": "https://www.youtube.com/watch?v=8Q6hoBMecSA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Discover how to create a fully automatic YouTube Shorts channel using AI tools like ShortAI! Learn how to schedule posts, customize scripts,\u00a0...",
+        "position": 1
+      },
+      {
+        "title": "Auto-post YouTube Shorts from Google Drive with OpenRouter AI ...",
+        "link": "https://n8n.io/workflows/11441-auto-post-youtube-shorts-from-google-drive-with-openrouter-ai-titles-and-descriptions/",
+        "displayedLink": "https://n8n.io \u203a workflows \u203a 11441-auto-post-youtube-sho...",
+        "snippet": "This workflow automatically uploads YouTube Shorts from a Google Drive folder. It picks one video at each run, generates a YouTube-optimized title, description, ...",
+        "rating": 4.6,
+        "ratingCount": 27,
+        "position": 2
+      },
+      {
+        "title": "How I automated repurposing YouTube videos to Shorts with ...",
+        "link": "https://www.reddit.com/r/n8n/comments/1k4njod/how_i_automated_repurposing_youtube_videos_to/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_i_automated_repurposing...",
+        "snippet": "How I automated repurposing YouTube videos to Shorts with custom captions & scheduling \u00b7 Activate the workflow. \u00b7 Use the n8n Form Trigger URL.",
+        "position": 3
+      },
+      {
+        "title": "How to Auto-Post YouTube Shorts with Tags & Description (Notion + Google ...",
+        "link": "https://www.youtube.com/watch?v=0mF2jzHRjpI",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this tutorial, we'll guide you through the process of auto-posting YouTube Shorts with tags and descriptions using Notion, Google Gemini,\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "YouTube Shorts Automation: Auto Upload and Schedule",
+        "link": "https://www.shortsync.app/automation/youtube-shorts",
+        "displayedLink": "https://www.shortsync.app \u203a automation \u203a youtube-shorts",
+        "snippet": "Automate YouTube Shorts uploads: schedule Shorts with titles, tags and playlists, bulk upload, and repost your Instagram Reels to Shorts. Free plan.",
+        "position": 5
+      },
+      {
+        "title": "How to easily auto-publish #shorts",
+        "link": "https://www.youtube.com/shorts/2mTkGK92rXU",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a 2mTkGK92rXU",
+        "position": 6
+      },
+      {
+        "title": "Auto Upload Videos and Shorts to YouTube",
+        "link": "https://dlvrit.com/youtube-auto-upload/",
+        "displayedLink": "https://dlvrit.com \u203a youtube-auto-upload",
+        "snippet": "Auto post videos and shorts to your YouTube channel. Post videos on Instagram, Facebook, or Tiktok and automatically share them to YouTube.",
+        "position": 7
+      },
+      {
+        "title": "I created a 100% automated youtube shorts channel using free AI tools and ...",
+        "link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cl6yoq/i_created_a_100_automated_youtube_shorts_channel/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a i_created_a_100_automated_y...",
+        "snippet": "I created a fully automated youtube channel that posts new videos everyday, using mostly free and open source AI tools.",
+        "position": 8
+      },
+      {
+        "title": "How to Auto-Post YouTube Shorts via API (with Scheduling)",
+        "link": "https://www.upload-post.com/how-to/auto-post-youtube-shorts/",
+        "displayedLink": "https://www.upload-post.com \u203a how-to \u203a auto-post-youtube-shorts",
+        "snippet": "Upload and schedule YouTube Shorts programmatically with the Upload-Post API. cURL, Python and n8n examples, batch uploads and cross-posting.",
+        "position": 9
+      },
+      {
+        "title": "How I Automated My YouTube Shorts Creation with AI Agents",
+        "link": "https://medium.com/@didierlacroix/how-i-automated-my-youtube-shorts-creation-with-ai-agents-4e31eeaa5c9a",
+        "displayedLink": "https://medium.com \u203a @didierlacroix \u203a how-i-automated-my-youtube-...",
+        "snippet": "So I built this neat little automation system that handles the whole video creation and posting process. In this article, I'll give you a high- ...",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Is there a way to automate YouTube Shorts?"
+      },
+      {
+        "question": "How to put YouTube Shorts on auto?"
+      },
+      {
+        "question": "How many views do you need on YouTube Shorts to make $1000?"
+      },
+      {
+        "question": "Can YouTube auto-generate Shorts?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "YouTube auto uploader"
+      },
+      {
+        "query": "YouTube Shorts uploader"
+      },
+      {
+        "query": "Automatic youtube shorts generator n8n"
+      },
+      {
+        "query": "Schedule YouTube Shorts"
+      },
+      {
+        "query": "Auto post TikTok to YouTube"
+      },
+      {
+        "query": "Rip off YouTube Shorts"
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+post+to+youtube+s",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto post to youtube s",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:18.695712+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto post youtube shorts",
+    "automatically post youtube shorts",
+    "auto upload youtube shorts",
+    "auto upload youtube shorts free",
+    "auto upload youtube shorts github",
+    "auto upload youtube shorts ai",
+    "can you schedule posts on youtube",
+    "how do i make a youtube post",
+    "can you auto repeat on youtube",
+    "how do i create a post on youtube"
+  ],
+  "raw_response": "[\"auto post to youtube s\",[\"auto post youtube shorts\",\"automatically post youtube shorts\",\"auto upload youtube shorts\",\"auto upload youtube shorts free\",\"auto upload youtube shorts github\",\"auto upload youtube shorts ai\",\"can you schedule posts on youtube\",\"how do i make a youtube post\",\"can you auto repeat on youtube\",\"how do i create a post on youtube\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

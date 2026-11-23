@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Below is a practical, step\u2011by\u2011step workflow you can adopt to",
+  "raw_payload": {
+    "id": "chatcmpl-9fdb4b26-055b-4bc9-98b5-9b0e5683e4eb",
+    "object": "chat.completion",
+    "created": 1795376615,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Below is a practical, step\u2011by\u2011step workflow you can adopt to",
+          "reasoning": "The user wants recommendations for auto-generating captions for video in CapCut. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a helpful answer. Provide overview, list of tools, pros/cons, workflow steps, integration with CapCut, and mention sources (like articles, official docs). Provide citations with URLs. Ensure no disallowed content. It's allowed. Provide citations as footnotes.\n\nWe need to be mindful of citation style. Provide maybe numbered references.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050967814,
+      "prompt_tokens": 136,
+      "prompt_time": 0.026701986,
+      "completion_tokens": 150,
+      "completion_time": 0.313649299,
+      "total_tokens": 286,
+      "total_time": 0.340351285,
+      "completion_tokens_details": {
+        "reasoning_tokens": 127
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b9a23305b9",
+    "x_groq": {
+      "id": "req_01m82cj3waeqxr9sf9eyd4rmn9",
+      "seed": 264600627
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2910,
+  "cost_usd": 0.0002
+}

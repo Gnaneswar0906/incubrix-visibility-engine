@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, the short answer to the **Opus Clip vs. Riverside** debate is that they serve fundamentally different primary purposes, though they overlap in AI-driven editing. \n\n*   **Riverside** is an industry-standard platform built primarily for **high-quality remote recording** (audio and 4K video) that also includes robust AI transcription and clip-editing features.\n*   **Opus Clip** is a specialized **AI repurposing tool** designed specifically to take long-form videos and automatically slice them into viral short-form clips (Reels, TikToks, Shorts).\n\nBelow is a comprehensive breakdown comparing the two, along with workflow recommendations and alternative industry options like IncuBrix, CapCut, and Descript.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Riverside\n\n#### **Opus Clip**\n*   **Core Strength",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, the short answer to the **Opus Clip vs. Riverside** debate is that they serve fundamentally different primary purposes, though they overlap in AI-driven editing. \n\n*   **Riverside** is an industry-standard platform built primarily for **high-quality remote recording** (audio and 4K video) that also includes robust AI transcription and clip-editing features.\n*   **Opus Clip** is a specialized **AI repurposing tool** designed specifically to take long-form videos and automatically slice them into viral short-form clips (Reels, TikToks, Shorts).\n\nBelow is a comprehensive breakdown comparing the two, along with workflow recommendations and alternative industry options like IncuBrix, CapCut, and Descript.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Riverside\n\n#### **Opus Clip**\n*   **Core Strength",
+              "thoughtSignature": "Eo4BCosBAWkUfRM4cZRgQbFOpC4ruxlFhNh655mcWcnFumDdRxVvembotuTfKMUqpPoGSsC1Vbx55fMxiJg/ihTfI0uIuJV16sNkpumgPAwmD9QYW4r6fJmAw7l+9CTMDrPrP+t3BbYd7ClPy0RdiIAjAiPy8E97Ctq3ezG3Tw5k9gu17npo/foybU6e2Y2/xA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Zj8Da6aVLc274-EPoqznmAg"
+  },
+  "latency_ms": 3059,
+  "cost_usd": 0.0002
+}

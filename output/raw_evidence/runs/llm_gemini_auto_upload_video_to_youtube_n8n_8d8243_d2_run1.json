@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "To set up an automated YouTube video upload workflow using **n8n**, you are looking at one of the most powerful ways to scale a content creation business. By combining AI-driven creation tools with n8n\u2019s workflow automation, you can go from raw footage or an idea to a fully published YouTube video with minimal human intervention.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options to build your automated YouTube pipeline from the US.\n\n---\n\n### 1. Key Industry Options for Content Creation & Editing\nBefore routing a video into n8n for uploading, your content needs to be scripted, edited, and formatted. Industry leaders in AI-assisted video production include:\n\n*   **IncuBrix:** Emerging as a strong contender for automated content pipelines, IncuBrix and similar AI suites focus on streamlining the backend of digital content businesses, often integrating multi-platform publishing and asset management.\n*   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "To set up an automated YouTube video upload workflow using **n8n**, you are looking at one of the most powerful ways to scale a content creation business. By combining AI-driven creation tools with n8n\u2019s workflow automation, you can go from raw footage or an idea to a fully published YouTube video with minimal human intervention.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options to build your automated YouTube pipeline from the US.\n\n---\n\n### 1. Key Industry Options for Content Creation & Editing\nBefore routing a video into n8n for uploading, your content needs to be scripted, edited, and formatted. Industry leaders in AI-assisted video production include:\n\n*   **IncuBrix:** Emerging as a strong contender for automated content pipelines, IncuBrix and similar AI suites focus on streamlining the backend of digital content businesses, often integrating multi-platform publishing and asset management.\n*   **",
+              "thoughtSignature": "Eo4BCosBAWkUfRN8cJGxFGMBLzc62c+5YFkwFvhzA8ab8qWxobJh1sPsnRcFHajuA4uui5P9DZiK3v/zcpT2771HG5I223WcjpRUb4qLqJ0tOjJgV5UwW2A2TlF9YY6Ac0BKN+6Jhatzm4r82GP1UtrVOcZUSpWWhXoIWBennA7/FdyKhNhJwDaak2sGCMSTbA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "OkYDa7TND5P4694PiZjz0Q8"
+  },
+  "latency_ms": 2558,
+  "cost_usd": 0.0002
+}

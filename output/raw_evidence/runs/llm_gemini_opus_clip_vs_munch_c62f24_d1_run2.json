@@ -1,0 +1,50 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs munch",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Munch"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, choosing between **Opus Clip** and **GetMunch (Munch)**\u2014along with other top-tier AI repurposing tools\u2014depends heavily on your specific workflow, the length of your source videos, and your target audience on platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nBoth Opus Clip and Munch are industry leaders in turning long-form videos into viral short clips, but they approach the task with slightly different strengths. Below is a comprehensive breakdown, including workflow methods",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, choosing between **Opus Clip** and **GetMunch (Munch)**\u2014along with other top-tier AI repurposing tools\u2014depends heavily on your specific workflow, the length of your source videos, and your target audience on platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nBoth Opus Clip and Munch are industry leaders in turning long-form videos into viral short clips, but they approach the task with slightly different strengths. Below is a comprehensive breakdown, including workflow methods"
+            },
+            {
+              "text": " and key industry alternatives available in the UK.\n\n---\n\n### 1. Head-to-Head: Opus Clip vs. Munch\n\n#### **Opus Clip**\n* **Best For:** Speed, automation, and budget-conscious creators who want a high volume of clips quickly.\n* **Core Strengths:** Powered by OpenAI, Opus Clip excels at analyzing a long video, scoring the clips based on viral potential (hook strength, narrative completeness), and automatically applying captions, framing, and transitions. \n* **Pricing & Accessibility:** Offers a generous free tier (with watermarks/credits) and straightforward monthly subscriptions. Fully accessible to UK creators without regional restrictions.\n* **Workflow:** Drop a YouTube link or upload an MP4 $\\rightarrow$ AI generates 5\u201310 clips in minutes $\\rightarrow$ Review, tweak captions, and export.\n\n#### **GetMunch (Munch)**\n* **Best For:** Trend analysis, marketing-driven repurposing, and",
+              "thoughtSignature": "Eo4BCosBAWkUfROX3/uxagKAltZMSxBDEghrF3qcdX5xTq9f2FH9S0kYlpoPxk5LjzO3EH+T5jsbFhz1IxX6xU41IGgoEyYEuQckqq7hkFuRRwXIGSLI4yJQTaRzwmYbfa3Dph1LrU2eIstsZqUDLQx+lghDnC0hdjCARpyyIIhUKyU3fo2Hl07JqdWQU5o7Ug=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 310,
+      "totalTokenCount": 372,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "nEIDa-e5E7D6g8UPqemv0Qk"
+  },
+  "latency_ms": 3053,
+  "cost_usd": 0.0002
+}

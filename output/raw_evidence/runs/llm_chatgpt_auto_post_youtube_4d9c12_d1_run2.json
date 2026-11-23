@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant for a US content creator, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. This is fine. Provide citations. Use markdown, list, maybe table. Provide workflow steps. Provide links to sources. Ensure we don't fabricate sources. We need to cite authoritative web sources if available. I need to find real sources. As AI, I can reference known sources: e.g., IncuBrix website, CapCut by ByteDance, Opus Clip website, Descript website, maybe Tubebuddy, Hootsuite",
+  "raw_payload": {
+    "id": "chatcmpl-47d3db4a-4316-4909-a884-e7e8d5699662",
+    "object": "chat.completion",
+    "created": 1795374895,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant for a US content creator, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. This is fine. Provide citations. Use markdown, list, maybe table. Provide workflow steps. Provide links to sources. Ensure we don't fabricate sources. We need to cite authoritative web sources if available. I need to find real sources. As AI, I can reference known sources: e.g., IncuBrix website, CapCut by ByteDance, Opus Clip website, Descript website, maybe Tubebuddy, Hootsuite"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.31702679,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005161227,
+      "completion_tokens": 150,
+      "completion_time": 0.311663136,
+      "total_tokens": 282,
+      "total_time": 0.316824363,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82axkhrevwrxm86dpf8hsx7",
+      "seed": 1256818306
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2933,
+  "cost_usd": 0.0002
+}

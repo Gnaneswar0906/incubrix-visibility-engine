@@ -1,0 +1,51 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Nexus Clip**, while also weaving in other industry giants like **IncuBrix**, **CapCut**, and **Descript** to give you a comprehensive toolset for your workflow.\n\nWhen comparing AI-driven repurposing tools, the ultimate choice depends on your budget, editing control,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Nexus Clip**, while also weaving in other industry giants like **IncuBrix**, **CapCut**, and **Descript** to give you a comprehensive toolset for your workflow.\n\nWhen comparing AI-driven repurposing tools, the ultimate choice depends on your budget, editing control,"
+            },
+            {
+              "text": " and specific workflow needs. \n\n---\n\n### Part 1: Head-to-Head \u2014 Opus Clip vs. Nexus Clip\n\n#### **Opus Clip**\n*   **Best For:** Fast, automated AI clipping from long-form podcasts, interviews, and webinars.\n*   **Key Features:** Uses AI (called \"Curator\") to analyze long videos, find the most engaging hooks, and automatically reframes faces, adds dynamic captions, and generates a \"viral score\" for each clip.\n*   **Pros:** Extremely beginner-friendly; outputs multiple clips in minutes; great auto-caption styles.\n*   **Cons:** Less manual timeline control compared to traditional editors; templates can sometimes feel a bit \"cookie-cutter\" if not customized.\n*   **Authoritative Context:** Recognized widely in the creator economy as an industry pioneer for generative AI video repurposing. (Source reference: *Creator Economy industry reviews and platforms like Product Hunt/Tubefilter",
+              "thoughtSignature": "Eo4BCosBAWkUfRNdOCN75IpumhHvstFtfCM1R1lXvGL7+zi1REBIhSZzgx5K7qj0DwY56pUP53qWRSPd5UPeM/BPrHMSwa0zLgNSs1aItQ5ewgOJD5H2i3Hc2JPh/JQyLMptUR7mQreEFKzMydxtceRwfRfybNtR8feU2thid9JVyiEwRjF8GB1PuWrZB1LhXw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 284,
+      "totalTokenCount": 347,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ez8Da8CMNp3-4-EPnNvvqQU"
+  },
+  "latency_ms": 6457,
+  "cost_usd": 0.0002
+}

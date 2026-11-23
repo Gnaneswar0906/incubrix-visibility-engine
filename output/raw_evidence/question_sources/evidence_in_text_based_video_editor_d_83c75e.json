@@ -1,0 +1,16 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=text+based+video+editor+d",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "text based video editor d",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:49:39.686275+00:00",
+  "extracted_count": 3,
+  "suggestions": [
+    "text based video editing davinci resolve",
+    "descript text based video editing",
+    "what is a text editor"
+  ],
+  "raw_response": "[\"text based video editor d\",[\"text based video editing davinci resolve\",\"descript text based video editing\",\"what is a text editor\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390]]}]"
+}

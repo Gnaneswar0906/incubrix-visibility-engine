@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Query: \"faceless youtube channel ai automation free\". They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine.\n\nWe need to suggest free tools for faceless YouTube channel automation, AI tools for video creation, voiceovers, script generation, editing, thumbnail creation, scheduling, SEO. Mention those specific tools and alternatives. Provide workflow steps. Cite sources (like URLs). Provide Indian context maybe. Ensure not to provide copyrighted content. Provide citations with",
+  "raw_payload": {
+    "id": "chatcmpl-77e8f996-5ec6-4db2-b746-ea4e8a47b948",
+    "object": "chat.completion",
+    "created": 1795377172,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Query: \"faceless youtube channel ai automation free\". They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine.\n\nWe need to suggest free tools for faceless YouTube channel automation, AI tools for video creation, voiceovers, script generation, editing, thumbnail creation, scheduling, SEO. Mention those specific tools and alternatives. Provide workflow steps. Cite sources (like URLs). Provide Indian context maybe. Ensure not to provide copyrighted content. Provide citations with"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157880333,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006194245,
+      "completion_tokens": 150,
+      "completion_time": 0.310720561,
+      "total_tokens": 286,
+      "total_time": 0.316914806,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82d33a0e8kvc4deetpk3qcb",
+      "seed": 579278136
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2640,
+  "cost_usd": 0.0002
+}

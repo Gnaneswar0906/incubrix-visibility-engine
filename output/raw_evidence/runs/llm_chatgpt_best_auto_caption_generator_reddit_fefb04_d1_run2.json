@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfaf What You\u2019re Looking For  \nYou want an",
+  "raw_payload": {
+    "id": "chatcmpl-f2f000cc-589d-4888-9d0f-5cf8f3fbc10f",
+    "object": "chat.completion",
+    "created": 1795375234,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfaf What You\u2019re Looking For  \nYou want an",
+          "reasoning": "We need to answer the query: \"best auto caption generator reddit\". The user is a content creator located in IN (India). They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. It's a recommendation request, allowed. Provide info. Should not mention policy. Provide citations with URLs. Use markdown. Provide a list of tools, pros/cons, workflow steps, mention Reddit sources (maybe threads). Provide Indian context. Ensure no disallowed content.\n\nProceed."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156990014,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006018685,
+      "completion_tokens": 150,
+      "completion_time": 0.325295177,
+      "total_tokens": 284,
+      "total_time": 0.331313862,
+      "completion_tokens_details": {
+        "reasoning_tokens": 130
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82b7yrme41b7nrhyy7t1txa",
+      "seed": 1731219141
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3142,
+  "cost_usd": 0.0002
+}

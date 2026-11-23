@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f Turning Full\u2011Length Podcasts into Snackable Shorts  \n**Goal:** Create 30\u2011 to 60\u2011second video clips that capture the most compelling moments of your podcast and are ready for TikTok,",
+  "raw_payload": {
+    "id": "chatcmpl-6efc7c8a-1737-4bdf-b05f-afb0beb8438f",
+    "object": "chat.completion",
+    "created": 1795374546,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f Turning Full\u2011Length Podcasts into Snackable Shorts  \n**Goal:** Create 30\u2011 to 60\u2011second video clips that capture the most compelling moments of your podcast and are ready for TikTok,",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations on software tools, workflow methods for editing podcast shorts in CapCut, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be within policy: no disallowed content. Provide citations with links. Should be helpful. Provide step-by-step workflow, best practices, tips. Also mention alternatives. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370181825,
+      "prompt_tokens": 135,
+      "prompt_time": 0.027478264,
+      "completion_tokens": 150,
+      "completion_time": 0.31362916,
+      "total_tokens": 285,
+      "total_time": 0.341107424,
+      "completion_tokens_details": {
+        "reasoning_tokens": 98
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82ajyfbeb8v2aq4z8h8m7ph",
+      "seed": 313779913
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4403,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai apps for faceless youtube channel",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Welcome to the world of AI-powered content creation tools! As a content creator focusing on a faceless channel, you'll greatly benefit from utilizing AI applications to enhance your videos, audio recordings, and overall production quality. I will outline some of the best software tools and workflow ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6843,
+      "cited_urls": [
+        "https://lumen5.com/"
+      ],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to provide recommendations for AI apps for faceless YouTube channel, mention best software tools, workflow methods, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. Provide concise but thorough answer. Use bullet points, mention workflow. Provide c",
+      "cost_usd": 0.0002,
+      "latency_ms": 7427,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_ai_apps_for_faceless_youtube_c_42ddf4_d2_GB.json"
+}

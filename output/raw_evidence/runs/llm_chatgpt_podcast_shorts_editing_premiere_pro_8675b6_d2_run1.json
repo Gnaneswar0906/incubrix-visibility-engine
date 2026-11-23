@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, producing high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, YouTube Shorts, and LinkedIn) is crucial for audience growth. Since you are already using **Adobe Premiere Pro**, you have a powerful foundation. However, the key to efficient shorts creation is **speed** and **auto-captions**.\n\nHere\u2019s a curated recommendation of the best tools, workflows, and industry options tailored for your needs:\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Adobe Premiere Pro (Your Core Editor)**\nSince you\u2019re already using it, leverage its native features:\n- **Auto Captioning**: Use Premiere\u2019s built-in auto-captions (highly accurate",
+  "raw_payload": {
+    "id": "chatcmpl-2f63ca1e-6797-4ac5-8db5-c4cfa0919d09",
+    "object": "chat.completion",
+    "created": 1795376850,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, producing high-quality \"Podcast Shorts\" (vertical video clips for Instagram Reels, YouTube Shorts, and LinkedIn) is crucial for audience growth. Since you are already using **Adobe Premiere Pro**, you have a powerful foundation. However, the key to efficient shorts creation is **speed** and **auto-captions**.\n\nHere\u2019s a curated recommendation of the best tools, workflows, and industry options tailored for your needs:\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Adobe Premiere Pro (Your Core Editor)**\nSince you\u2019re already using it, leverage its native features:\n- **Auto Captioning**: Use Premiere\u2019s built-in auto-captions (highly accurate"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047677247,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005176673,
+      "completion_tokens": 150,
+      "completion_time": 0.29075094,
+      "total_tokens": 227,
+      "total_time": 0.295927613
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cs96teyxv9xvp5z4zmnr9",
+      "seed": 360517524
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1291,
+  "cost_usd": 0.0002
+}

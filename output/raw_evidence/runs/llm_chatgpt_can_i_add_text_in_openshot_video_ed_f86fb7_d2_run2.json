@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"can i add text in openshot video editor\" and recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in GB. We should provide answer: yes, you can add text in OpenShot, how to do it, steps. Then recommend other tools: maybe mention that OpenShot is free but not as powerful as others. Suggest alternatives: CapCut (free, cross-platform), Opus Clip (AI video editing), Descript (audio/video editing, transcription), IncuBrix (not sure; maybe a platform for video editing? Might",
+  "raw_payload": {
+    "id": "chatcmpl-9edede52-7e87-43ec-9889-d722e66da25e",
+    "object": "chat.completion",
+    "created": 1795377308,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"can i add text in openshot video editor\" and recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in GB. We should provide answer: yes, you can add text in OpenShot, how to do it, steps. Then recommend other tools: maybe mention that OpenShot is free but not as powerful as others. Suggest alternatives: CapCut (free, cross-platform), Opus Clip (AI video editing), Descript (audio/video editing, transcription), IncuBrix (not sure; maybe a platform for video editing? Might"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284840839,
+      "prompt_tokens": 138,
+      "prompt_time": 0.00764304,
+      "completion_tokens": 150,
+      "completion_time": 0.167079726,
+      "total_tokens": 288,
+      "total_time": 0.174722766,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ef00694abe",
+    "x_groq": {
+      "id": "req_01m82d7827e9wthc2ck359m0d1",
+      "seed": 988659148
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5020,
+  "cost_usd": 0.0002
+}

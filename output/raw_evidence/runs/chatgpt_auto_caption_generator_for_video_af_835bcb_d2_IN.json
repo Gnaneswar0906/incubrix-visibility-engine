@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video after effects",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Caption",
+      "cost_usd": 0.0002,
+      "latency_ms": 3456,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_af_835bcb_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are likely looking for solutions that balance quality, cost-effectiveness, and ease of integration with Adobe After Effects. Since After Effects itself does not have a native, robust \"one-click\" auto-caption generator (it relies heavily on scripting or",
+      "cost_usd": 0.0002,
+      "latency_ms": 1940,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_af_835bcb_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_af_835bcb_d2_IN.json"
+}

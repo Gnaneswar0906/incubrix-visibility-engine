@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain (GB), I understand that",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain (GB), I understand that"
+            },
+            {
+              "text": " repurposing long-form podcast audio and video into engaging \"shorts\" (for TikTok, YouTube Shorts, and Instagram Reels) is one of the most effective growth strategies today. \n\nHere is a comprehensive guide tailored to your query, covering the best software tools, recommended workflows, and a breakdown of industry-leading options including the ones you mentioned.\n\n---\n\n### 1. Industry-Legendary AI Repurposing Tools\n*(Best for automated clipping, captioning, and resizing)*\n\n*   **Opus Clip:** Widely considered a gold standard for AI-driven podcast clipping. It analyzes your long-form video, identifies the most viral-worthy hooks, generates titles, and automatically reframes the speakers into a 9:16 vertical format with dynamic captions. \n*   **Descript:** Essential if you prefer an **edit-by-text** workflow. Descript allows you to edit your podcast audio/video just by editing a Word document. It also",
+              "thoughtSignature": "Eo4BCosBAWkUfRPKJJ5wo1ayZSv+qL7qpoCCRKYR4l5XGAzMNHgoJPxb4C4btUTodA3csLu8YOt/oVfYNkNxRlMc+ijR3dW0tJeQlmys94bQDcQu+9uxFadunPgwwkpjDcYibu/KdKS463e3afABQ3yVaslgi97IMSa3CibouqOqtWpF2q9ChVPVg5wfH+OcJA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 217,
+      "totalTokenCount": 279,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iUEDa_m3McqN694Pp-6HsQ0"
+  },
+  "latency_ms": 3554,
+  "cost_usd": 0.0002
+}

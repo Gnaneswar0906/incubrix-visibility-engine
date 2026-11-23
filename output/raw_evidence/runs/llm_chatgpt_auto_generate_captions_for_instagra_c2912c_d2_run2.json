@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Instagram Reels  \n*Tailored for U.S.",
+  "raw_payload": {
+    "id": "chatcmpl-dda6f1ba-9710-4182-9e6f-2eea3fbaced1",
+    "object": "chat.completion",
+    "created": 1795376602,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Instagram Reels  \n*Tailored for U.S.",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for auto generating captions for Instagram Reels. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: provide citations, no disallowed content. Provide a thorough answer. Use markdown, bullet points, sections.\n\nWe need to cite sources. I can reference known articles. Provide URLs. Use proper citation style. Also mention workflow: transcription, editing, syncing, exporting, uploading.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158686786,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005708133,
+      "completion_tokens": 150,
+      "completion_time": 0.308363204,
+      "total_tokens": 285,
+      "total_time": 0.314071337,
+      "completion_tokens_details": {
+        "reasoning_tokens": 124
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82chpzsezzvfm3hpcr0fqe4",
+      "seed": 112883708
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2542,
+  "cost_usd": 0.0002
+}

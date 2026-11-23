@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary\n| Goal | Best\u2011fit Tool(s) | Why It Works |\n|------|-----------------|--------------|\n| **All\u2011in\u2011one text\u2011driven video editing (scripts \u2192 cuts)** | **Descript** (screen",
+  "raw_payload": {
+    "id": "chatcmpl-75efa966-7817-4c2b-b6d5-fc1f421dcbc0",
+    "object": "chat.completion",
+    "created": 1795374657,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary\n| Goal | Best\u2011fit Tool(s) | Why It Works |\n|------|-----------------|--------------|\n| **All\u2011in\u2011one text\u2011driven video editing (scripts \u2192 cuts)** | **Descript** (screen",
+          "reasoning": "We need to answer as an AI assistant for a US content creator, recommending best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations to authoritative web sources if available. Should be helpful, organized, maybe bullet points, steps, workflow. Must comply with policy. No disallowed content. Provide citations with URLs. Should be concise but thorough. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369978509,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005394169,
+      "completion_tokens": 150,
+      "completion_time": 0.311457207,
+      "total_tokens": 285,
+      "total_time": 0.316851376,
+      "completion_tokens_details": {
+        "reasoning_tokens": 90
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82apb78ebjbrzpn8emgw6bg",
+      "seed": 1601970031
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5074,
+  "cost_usd": 0.0002
+}

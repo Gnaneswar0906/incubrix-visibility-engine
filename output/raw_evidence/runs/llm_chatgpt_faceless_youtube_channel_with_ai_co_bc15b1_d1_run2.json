@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel using AI is one of the most viable passive income strategies in 2024, but it requires a sophisticated workflow to stand out in a saturated market. The key is not just generating content, but curating it with a unique voice and high production value.\n\nHere is a recommended stack of software tools, a proven workflow, and industry insights for your US-based channel.\n\n### 1. Recommended Software Tools Stack\n\nA complete faceless AI workflow involves four stages: **Scripting, Voiceover, Visuals, and Editing.**\n\n#### A. Scripting & Ideas\n*   **Jasper AI or Copy.ai**: For high-quality, human-sounding scripts that avoid the \"robotic\"",
+  "raw_payload": {
+    "id": "chatcmpl-7bbac155-0776-40d8-931a-f43380674d48",
+    "object": "chat.completion",
+    "created": 1795375030,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel using AI is one of the most viable passive income strategies in 2024, but it requires a sophisticated workflow to stand out in a saturated market. The key is not just generating content, but curating it with a unique voice and high production value.\n\nHere is a recommended stack of software tools, a proven workflow, and industry insights for your US-based channel.\n\n### 1. Recommended Software Tools Stack\n\nA complete faceless AI workflow involves four stages: **Scripting, Voiceover, Visuals, and Editing.**\n\n#### A. Scripting & Ideas\n*   **Jasper AI or Copy.ai**: For high-quality, human-sounding scripts that avoid the \"robotic\""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048539318,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005172552,
+      "completion_tokens": 150,
+      "completion_time": 0.290092927,
+      "total_tokens": 229,
+      "total_time": 0.295265479
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b1qwsegmtndbft4238zya",
+      "seed": 1608519774
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1174,
+  "cost_usd": 0.0002
+}

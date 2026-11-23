@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=opus+clip+vs+a",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "opus clip vs a",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:59.203671+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "opus clip vs agent opus",
+    "opus clip vs vizard ai",
+    "opus clip vs crayo ai",
+    "opus clip vs captions ai",
+    "opus clip vs chop ai",
+    "opus clip v wayin ai",
+    "opus clip or vizard ai",
+    "opus game review",
+    "opus vs wav",
+    "opus vs opera"
+  ],
+  "raw_response": "[\"opus clip vs a\",[\"opus clip vs agent opus\",\"opus clip vs vizard ai\",\"opus clip vs crayo ai\",\"opus clip vs captions ai\",\"opus clip vs chop ai\",\"opus clip v wayin ai\",\"opus clip or vizard ai\",\"opus game review\",\"opus vs wav\",\"opus vs opera\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

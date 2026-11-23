@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: how to auto upload VODs to YouTube from Twitch, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nUser is a content creator located in IN (India). Provide steps, tools, possibly using Twitch API, Zapier, IFTTT, Streamlabs, Restream, etc. Also mention auto-download from Twitch, conversion, editing, upload to YouTube. Provide workflow.\n\nCite sources: need to provide URLs. Provide authoritative sources: Twitch support page, YouTube API docs, Zapier blog, Restream blog, etc.\n\nMake sure not to violate policy.",
+  "raw_payload": {
+    "id": "chatcmpl-19d9c0cd-c96b-4a6c-84c8-2af33d738685",
+    "object": "chat.completion",
+    "created": 1795377055,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: how to auto upload VODs to YouTube from Twitch, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nUser is a content creator located in IN (India). Provide steps, tools, possibly using Twitch API, Zapier, IFTTT, Streamlabs, Restream, etc. Also mention auto-download from Twitch, conversion, editing, upload to YouTube. Provide workflow.\n\nCite sources: need to provide URLs. Provide authoritative sources: Twitch support page, YouTube API docs, Zapier blog, Restream blog, etc.\n\nMake sure not to violate policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369039564,
+      "prompt_tokens": 139,
+      "prompt_time": 0.005495985,
+      "completion_tokens": 150,
+      "completion_time": 0.311099077,
+      "total_tokens": 289,
+      "total_time": 0.316595062,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82czhcje8jt6e85136k5tse",
+      "seed": 1686846996
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4017,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "opus vs mp3 quality",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the UK (GB) dealing with audio, video, and AI-driven repurposing workflows, understanding the difference between **Opus** and **MP3** is crucial for balancing file size, export speeds, and broadcast-grade quality. \n\nHere is a comprehensive comparison, workflow guide, and soft",
+      "cost_usd": 0.0002,
+      "latency_ms": 2589,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_vs_mp3_quality_2ce829_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'opus vs mp3 quality' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 351
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_vs_mp3_quality_2ce829_d1_GB.json"
+}

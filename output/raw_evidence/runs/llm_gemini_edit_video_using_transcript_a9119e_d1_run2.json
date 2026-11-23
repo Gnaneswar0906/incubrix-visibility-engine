@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For content creators in the US looking to edit video using transcripts\u2014a modern post-production technique often called **Text-Based Video Editing**\u2014the workflow has completely transformed. Instead of scrubbing through a timeline, you simply highlight, delete, or rearrange text in a word processor, and the video edits itself. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to help you scale your content creation.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals (long-form narrative, social media clipping, or all-in-one AI workflows), several standout tools dominate the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** \n    Descript pioneered mainstream text-based video editing. It treats your video transcript like a Google Doc. Deleting a word in the text deletes it from the video. It also features AI \"Studio Sound\"",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US looking to edit video using transcripts\u2014a modern post-production technique often called **Text-Based Video Editing**\u2014the workflow has completely transformed. Instead of scrubbing through a timeline, you simply highlight, delete, or rearrange text in a word processor, and the video edits itself. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and key industry options to help you scale your content creation.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals (long-form narrative, social media clipping, or all-in-one AI workflows), several standout tools dominate the market:\n\n*   **Descript (The Gold Standard for Text-Based Editing):** \n    Descript pioneered mainstream text-based video editing. It treats your video transcript like a Google Doc. Deleting a word in the text deletes it from the video. It also features AI \"Studio Sound\"",
+              "thoughtSignature": "Eo4BCosBAWkUfROECZme6J48cTQhqYrCL8nscKClN3mJ6EhnlVcus3GrVcf3yDl0sY4d9evRov44EC1qC6LOjxkbxrevuNKz1lvzk2yCTodI7G2WP1NQYSCifpJDN2VMuRRRqx5kdavBc5L8Cus8jDGNnJibcFwcPVxz+vDuRCmxf6+VNxf4OfF6Szm54IMZqg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1j0Da5mvHvit694PjoOO-QY"
+  },
+  "latency_ms": 2457,
+  "cost_usd": 0.0002
+}

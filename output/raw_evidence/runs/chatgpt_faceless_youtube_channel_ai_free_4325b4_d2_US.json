@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Faceless YouTube\u202fChannel \u2013 Free\u2011or\u2011Low\u2011Cost AI\u2011Powered Workflow**",
+      "cost_usd": 0.0002,
+      "latency_ms": 2207,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_free_4325b4_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free\u202fAI\u2011Powered Toolkit & Workflow  \n*(Tailored for a U.S. creator who wants to stay on budget while keeping production quality high)*  \n\n---\n\n### 1\ufe0f\u20e3",
+      "cost_usd": 0.0002,
+      "latency_ms": 3487,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_free_4325b4_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_free_4325b4_d2_US.json"
+}

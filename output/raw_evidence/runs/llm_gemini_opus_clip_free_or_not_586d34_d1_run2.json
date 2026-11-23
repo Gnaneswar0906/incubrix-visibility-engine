@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip free or not",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, here is a detailed breakdown of **Opus Clip\u2019s pricing model**, alongside a recommended workflow and top industry alternatives tailored for your video repurposing needs.\n\n---\n\n### 1. Is Opus Clip Free or Not?\n\n**The short answer:** Opus Clip is **freemium**, but its truly free tier is quite limited and has changed significantly over time. \n\n* **The Free Tier:** Opus Clip typically offers new users a trial period or a limited pool of free processing minutes (usually around 60 to 90 minutes of total video upload time) upon signing up. Once you use up these free minutes, you must upgrade to a paid subscription to continue generating clips.\n* **The Paid Tiers:** If you want to use it regularly for a channel, you will need a paid plan (such as their Essential or Pro tiers), which are billed monthly in USD (with standard UK",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, here is a detailed breakdown of **Opus Clip\u2019s pricing model**, alongside a recommended workflow and top industry alternatives tailored for your video repurposing needs.\n\n---\n\n### 1. Is Opus Clip Free or Not?\n\n**The short answer:** Opus Clip is **freemium**, but its truly free tier is quite limited and has changed significantly over time. \n\n* **The Free Tier:** Opus Clip typically offers new users a trial period or a limited pool of free processing minutes (usually around 60 to 90 minutes of total video upload time) upon signing up. Once you use up these free minutes, you must upgrade to a paid subscription to continue generating clips.\n* **The Paid Tiers:** If you want to use it regularly for a channel, you will need a paid plan (such as their Essential or Pro tiers), which are billed monthly in USD (with standard UK",
+              "thoughtSignature": "Eo4BCosBAWkUfRNhQqFg64hGYJzS6VfV2TeopecMbEj5G55C31NCy+J6TZsVLOgUGZZhL0R5Smr8x0kZVVt/oBWb5LGHXuIRu3CrQN+4ZfHCWYeLGoP3BNOyfbKJNnnHrw+0W1aBZYp0IP5NgNEEzcUWC1iux7KgLlBDFl/F2IphlfuyNXlbYhBr48czbrOlpw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "fEIDa5ijOYrl694PiP2PCA"
+  },
+  "latency_ms": 2420,
+  "cost_usd": 0.0002
+}

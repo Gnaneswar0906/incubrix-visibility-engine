@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai 1 hour course",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf93 One\u2011Hour \u201cFaceless YouTube Channel with AI\u201d Crash\u2011Course  \n",
+  "raw_payload": {
+    "id": "chatcmpl-a64f65e5-1d0f-4f89-b28b-fc58a50b52d9",
+    "object": "chat.completion",
+    "created": 1795377213,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf93 One\u2011Hour \u201cFaceless YouTube Channel with AI\u201d Crash\u2011Course  \n",
+          "reasoning": "We need to answer the query: how to start a faceless YouTube channel with AI 1 hour course. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide a structured answer, possibly outline a 1-hour course curriculum, tools, steps. Provide citations with links. Must be helpful. Provide references. Also note location IN (India) maybe suggest local considerations? Provide free/paid options. Ensure no copyrighted text. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.277279159,
+      "prompt_tokens": 143,
+      "prompt_time": 0.005445419,
+      "completion_tokens": 150,
+      "completion_time": 0.316979957,
+      "total_tokens": 293,
+      "total_time": 0.322425376,
+      "completion_tokens_details": {
+        "reasoning_tokens": 123
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f73454f048",
+    "x_groq": {
+      "id": "req_01m82d4bfgecevhk7q02g4bzf9",
+      "seed": 1373657908
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3295,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. The user is a content creator in GB (Great Britain). They ask: \"podcast shorts download free\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide info on how to download podcast shorts for free? Likely they want to create short clips from podcasts and download them, maybe to share on social media. Provide tools: free and paid, workflow steps, mention those tools, and cite sources.\n\nWe must ensure we comply with policy. The request is for software recommendations, not disallowed. Provide citations with URLs.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-a571f98a-c414-46d1-b3cc-ddd817688ddf",
+    "object": "chat.completion",
+    "created": 1795375491,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator in GB (Great Britain). They ask: \"podcast shorts download free\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide info on how to download podcast shorts for free? Likely they want to create short clips from podcasts and download them, maybe to share on social media. Provide tools: free and paid, workflow steps, mention those tools, and cite sources.\n\nWe must ensure we comply with policy. The request is for software recommendations, not disallowed. Provide citations with URLs.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157289782,
+      "prompt_tokens": 133,
+      "prompt_time": 0.042352967,
+      "completion_tokens": 150,
+      "completion_time": 0.313654588,
+      "total_tokens": 283,
+      "total_time": 0.356007555,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82bfskfemsvet69jze9paz7",
+      "seed": 621868928
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3106,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,19 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=gb&q=auto+post+to+tiktok",
+  "source_type": "YouTube Autocomplete",
+  "market": "GB",
+  "seed": "auto post to tiktok",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:37:04.729676+00:00",
+  "extracted_count": 6,
+  "suggestions": [
+    "auto post tiktok",
+    "auto post tiktok n8n",
+    "auto post highlights tiktok",
+    "auto post video tiktok",
+    "auto upload videos to tiktok",
+    "auto upload tiktok"
+  ],
+  "raw_response": "window.google.ac.h([\"auto post to tiktok\",[[\"auto post tiktok\",0,[22,30]],[\"auto post tiktok n8n\",0,[22,30]],[\"auto post highlights tiktok\",0,[22,30]],[\"auto post video tiktok\",0,[22,30]],[\"auto upload videos to tiktok\",0,[22,30]],[\"auto upload tiktok\",0,[22,30]]],{\"k\":1}])"
+}

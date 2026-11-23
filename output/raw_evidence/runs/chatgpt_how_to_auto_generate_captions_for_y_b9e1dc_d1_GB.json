@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for",
+      "cost_usd": 0.0002,
+      "latency_ms": 3031,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_y_b9e1dc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools for automating captioning. Since YouTube prioritises accessibility and SEO, accurate auto-generated captions are essential.\n\nHere are the best software tools, workflow methods, and key industry options to str",
+      "cost_usd": 0.0002,
+      "latency_ms": 1191,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_y_b9e1dc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_for_y_b9e1dc_d1_GB.json"
+}

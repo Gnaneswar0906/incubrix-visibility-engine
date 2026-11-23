@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Start Overview  \n| Goal | Free tool (or free tier) | How it works | Typical workflow step |\n|------|--------------------------|--------------|----------------------|\n| **Fully\u2011automated caption generation** | **YouTube Studio (auto\u2011captions)** \u2013 free for any uploaded video | Upload \u2192 \u201cSubti",
+      "cost_usd": 0.0002,
+      "latency_ms": 2939,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Generating Captions for Free \u2013 A Practical Guide for Indian Creators**  \n\nBelow is a curated list of the best **free** tools, a step\u2011by\u2011step workflow you can adopt, and a quick look at the most popular paid\u2011plus\u2011free options (IncuBrix",
+      "cost_usd": 0.0002,
+      "latency_ms": 3369,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_for_f_5ace8d_d1_IN.json"
+}

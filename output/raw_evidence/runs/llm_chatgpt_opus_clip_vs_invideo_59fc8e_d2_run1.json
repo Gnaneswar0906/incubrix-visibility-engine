@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs invideo",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "**Quick TL;DR**\n\n| Feature | **Opus\u202fClip** | **InVideo** |\n|---------|---------------|--------------|\n| Core strength",
+  "raw_payload": {
+    "id": "chatcmpl-c3f539bf-61dd-448d-95f4-8947489628d9",
+    "object": "chat.completion",
+    "created": 1795376772,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick TL;DR**\n\n| Feature | **Opus\u202fClip** | **InVideo** |\n|---------|---------------|--------------|\n| Core strength",
+          "reasoning": "The user wants a recommendation comparing Opus Clip vs InVideo, and also mention best software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide authoritative web sources citations. Must be US-based content creator. Provide thorough answer. Need to cite sources; can use known websites like TechRadar, PCMag, etc. Provide links. Ensure no disallowed content. Provide structured answer with comparison table, workflow suggestions, recommendations. Use citations in brackets with URLs. Provide final answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158333024,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005348835,
+      "completion_tokens": 150,
+      "completion_time": 0.313571227,
+      "total_tokens": 284,
+      "total_time": 0.318920062,
+      "completion_tokens_details": {
+        "reasoning_tokens": 111
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cpwmrecpvcm8yyr8v244w",
+      "seed": 396020570
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2477,
+  "cost_usd": 0.0002
+}

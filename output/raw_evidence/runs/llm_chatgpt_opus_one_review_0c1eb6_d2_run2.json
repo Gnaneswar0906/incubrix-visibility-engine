@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus one review",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in an excellent position to leverage AI-driven video tools that are increasingly becoming the standard for efficient, high-quality content production. The term **\"Opus One\"** does not correspond to a widely recognized, standalone software product in the current mainstream video editing or AI clipping ecosystem. It is possible there is some confusion with:\n\n1.  **Opus Clip** (a popular AI video repurposing tool)\n2.  **Opus** (the audio codec, unrelated to video editing)\n3.  A niche or newer tool not yet broadly documented in authoritative sources.\n\nGiven your query, I will assume you are interested in **AI-powered video editing and repurposing tools",
+  "raw_payload": {
+    "id": "chatcmpl-b2c863b7-0189-4374-931e-b5e6f6e17bdc",
+    "object": "chat.completion",
+    "created": 1795377123,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in an excellent position to leverage AI-driven video tools that are increasingly becoming the standard for efficient, high-quality content production. The term **\"Opus One\"** does not correspond to a widely recognized, standalone software product in the current mainstream video editing or AI clipping ecosystem. It is possible there is some confusion with:\n\n1.  **Opus Clip** (a popular AI video repurposing tool)\n2.  **Opus** (the audio codec, unrelated to video editing)\n3.  A niche or newer tool not yet broadly documented in authoritative sources.\n\nGiven your query, I will assume you are interested in **AI-powered video editing and repurposing tools"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046564998,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004966012,
+      "completion_tokens": 150,
+      "completion_time": 0.287904675,
+      "total_tokens": 226,
+      "total_time": 0.292870687
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d1m4wep7940zg9xqzt1k0",
+      "seed": 1252955115
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1622,
+  "cost_usd": 0.0002
+}

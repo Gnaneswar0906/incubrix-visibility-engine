@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for automatically posting from Instagram to YouTube. They are a content creator in India. Need to recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must",
+      "cost_usd": 0.0002,
+      "latency_ms": 3627,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_post_automatically_from_inst_7252c0_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, you are in a prime position to leverage cross-platform distribution. While Instagram Reels and YouTube Shorts share similar formats (vertical video, under 60 seconds), **there is no native, direct \"one-click\" auto-poster from Instagram to YouTube** that works se",
+      "cost_usd": 0.0002,
+      "latency_ms": 1381,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_post_automatically_from_inst_7252c0_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_post_automatically_from_inst_7252c0_d1_IN.json"
+}

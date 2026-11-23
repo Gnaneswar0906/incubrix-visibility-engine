@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel in",
+      "cost_usd": 0.0002,
+      "latency_ms": 2626,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_start_faceless_youtube_channel_with_a947a3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel in the UK using AI tools",
+      "cost_usd": 0.0002,
+      "latency_ms": 3271,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_start_faceless_youtube_channel_with_a947a3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_start_faceless_youtube_channel_with_a947a3_d1_GB.json"
+}

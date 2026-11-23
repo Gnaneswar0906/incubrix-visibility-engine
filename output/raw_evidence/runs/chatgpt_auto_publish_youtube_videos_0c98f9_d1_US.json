@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for auto publishing YouTube videos. They want citations from authoritative web sources if available. As ChatGPT, we can provide a thorough answer, citin",
+      "cost_usd": 0.0002,
+      "latency_ms": 4101,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_publish_youtube_videos_0c98f9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to automate or semi-automate the publishing of YouTube videos, the approach depends heavily on your content type (e.g., long-form Vlogs vs. Shorts/Reels) and your technical comfort level. There is no single \"magic button\" for completely hands-off publishing due",
+      "cost_usd": 0.0002,
+      "latency_ms": 1467,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_publish_youtube_videos_0c98f9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_publish_youtube_videos_0c98f9_d1_US.json"
+}

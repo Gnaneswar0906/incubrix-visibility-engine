@@ -1,0 +1,53 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "## Editing a Video Transcript \u2013 A Practical Guide for U.S. Content Creators  \n\nBelow is a step\u2011by\u2011step workflow, a comparison of the most popular tools (including **IncuBrix, CapCut, Opus\u202fClip, Descript**, and a few others),",
+  "raw_payload": {
+    "id": "chatcmpl-93b9e132-4c64-42cb-a5c4-c4390614576c",
+    "object": "chat.completion",
+    "created": 1795376543,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing a Video Transcript \u2013 A Practical Guide for U.S. Content Creators  \n\nBelow is a step\u2011by\u2011step workflow, a comparison of the most popular tools (including **IncuBrix, CapCut, Opus\u202fClip, Descript**, and a few others),",
+          "reasoning": "We need to answer as an AI assistant for a US content creator, giving recommendations for editing video transcript: software tools, workflow, key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine. Provide citations with links. Provide workflow steps. Provide best practices. Use markdown. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.055542011,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005044868,
+      "completion_tokens": 150,
+      "completion_time": 0.311724515,
+      "total_tokens": 284,
+      "total_time": 0.316769383,
+      "completion_tokens_details": {
+        "reasoning_tokens": 84
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4be3b0989",
+    "x_groq": {
+      "id": "req_01m82cfxjeejk9yp8b7re8d12x",
+      "seed": 883177084
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2199,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=cut+silence+from+video+ai",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "cut silence from video ai",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:48:35.094875Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"cut silence from video ai\",[],{\"k\":1}])"
+}

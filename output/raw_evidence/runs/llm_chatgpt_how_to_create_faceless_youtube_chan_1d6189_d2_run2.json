@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query. Provide recommendations for creating a faceless YouTube channel using AI for free. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India (IN). Provide guidance, steps, tools, free options, maybe mention free tiers, alternative open-source tools. Provide citations with URLs. Must not violate policy. Provide helpful answer.\n\nWe can include links to official sites, articles. Provide workflow: niche selection, script generation (ChatGPT, Jasper, etc.), text-to-speech (Google TTS, Microsoft Azure, etc.), video creation (P",
+  "raw_payload": {
+    "id": "chatcmpl-88ca9d57-48e5-46e9-95c9-64e03a168fb8",
+    "object": "chat.completion",
+    "created": 1795377195,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query. Provide recommendations for creating a faceless YouTube channel using AI for free. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in India (IN). Provide guidance, steps, tools, free options, maybe mention free tiers, alternative open-source tools. Provide citations with URLs. Must not violate policy. Provide helpful answer.\n\nWe can include links to official sites, articles. Provide workflow: niche selection, script generation (ChatGPT, Jasper, etc.), text-to-speech (Google TTS, Microsoft Azure, etc.), video creation (P"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369210359,
+      "prompt_tokens": 140,
+      "prompt_time": 0.00628554,
+      "completion_tokens": 150,
+      "completion_time": 0.309357225,
+      "total_tokens": 290,
+      "total_time": 0.315642765,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82d3smqexjbq6dq3wc0277k",
+      "seed": 313052912
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2727,
+  "cost_usd": 0.0002
+}

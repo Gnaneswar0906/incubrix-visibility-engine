@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are entering a space where \"auto-post\" can mean two very different things: **automating the scheduling/publishing process** (getting your video live on time) or **automating the creation/editing process** (turning raw footage into a finished product with minimal manual effort).\n\nBelow is a breakdown of the best software tools, workflow methods, and key industry options to streamline your YouTube workflow, categorized by function.\n\n### 1. Key Industry Tools & Software Recommendations\n\n#### A. AI-Powered Editing & Clipping (The \"Auto-Edit\" Layer)\nThese tools use AI to identify highlights, add captions, and reformat content. They are essential for rep",
+  "raw_payload": {
+    "id": "chatcmpl-0374675c-dd1c-42a9-9388-ba9c859cae45",
+    "object": "chat.completion",
+    "created": 1795374892,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are entering a space where \"auto-post\" can mean two very different things: **automating the scheduling/publishing process** (getting your video live on time) or **automating the creation/editing process** (turning raw footage into a finished product with minimal manual effort).\n\nBelow is a breakdown of the best software tools, workflow methods, and key industry options to streamline your YouTube workflow, categorized by function.\n\n### 1. Key Industry Tools & Software Recommendations\n\n#### A. AI-Powered Editing & Clipping (The \"Auto-Edit\" Layer)\nThese tools use AI to identify highlights, add captions, and reformat content. They are essential for rep"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048770298,
+      "prompt_tokens": 75,
+      "prompt_time": 0.005060082,
+      "completion_tokens": 150,
+      "completion_time": 0.285390721,
+      "total_tokens": 225,
+      "total_time": 0.290450803
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82axgzaevrbr1g9v564dx5j",
+      "seed": 1648827764
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3059,
+  "cost_usd": 0.0002
+}

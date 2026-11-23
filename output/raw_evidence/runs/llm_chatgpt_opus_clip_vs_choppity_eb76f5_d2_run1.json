@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs choppity",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking for tools that balance **affordability**, **AI efficiency**, and **platform compatibility** (YouTube, Instagram Reels, LinkedIn).\n\nLet\u2019s break down **Opus Clip vs. Choppity** and place them in the broader context of the current AI video clipping ecosystem.\n\n### \u2694\ufe0f Head-to-Head: Opus Clip vs. Choppity\n\n| Feature | **Opus Clip** | **Choppity** |\n| :--- | :--- | :--- |\n| **Core Strength** | Industry-leading AI scoring & virality prediction. | Simpler, faster, more budget-friendly clipping. |\n| **AI Quality",
+  "raw_payload": {
+    "id": "chatcmpl-c0b0517b-eb50-4acd-bf31-c84c8ca76507",
+    "object": "chat.completion",
+    "created": 1795377157,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking for tools that balance **affordability**, **AI efficiency**, and **platform compatibility** (YouTube, Instagram Reels, LinkedIn).\n\nLet\u2019s break down **Opus Clip vs. Choppity** and place them in the broader context of the current AI video clipping ecosystem.\n\n### \u2694\ufe0f Head-to-Head: Opus Clip vs. Choppity\n\n| Feature | **Opus Clip** | **Choppity** |\n| :--- | :--- | :--- |\n| **Core Strength** | Industry-leading AI scoring & virality prediction. | Simpler, faster, more budget-friendly clipping. |\n| **AI Quality"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054091031,
+      "prompt_tokens": 79,
+      "prompt_time": 0.007032399,
+      "completion_tokens": 150,
+      "completion_time": 0.305260465,
+      "total_tokens": 229,
+      "total_time": 0.312292864
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82d2n30e24bxegyb414410h",
+      "seed": 1286204515
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1251,
+  "cost_usd": 0.0002
+}

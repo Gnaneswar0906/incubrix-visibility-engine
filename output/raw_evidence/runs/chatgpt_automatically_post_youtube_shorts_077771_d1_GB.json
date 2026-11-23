@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating a fully automated pipeline for YouTube Shorts requires a blend of AI-powered editing, scheduling, and API integration, as YouTube does not natively support \"set-and-forget\" automatic posting from external files without an API bridge. However, you can build a highly efficient, semi-to-fully ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2849,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_automatically_post_youtube_shorts_077771_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, automating your YouTube Shorts workflow is a smart move to scale your channel without burning out. While full \"set and forget\" automation is rare due to YouTube\u2019s strict policies on spam and low-quality content, you can significantly streamline your workf",
+      "cost_usd": 0.0002,
+      "latency_ms": 3595,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_automatically_post_youtube_shorts_077771_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_automatically_post_youtube_shorts_077771_d1_GB.json"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts telugu",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, transitioning from long-form podcasts to short-form clips (Reels, Shorts, TikTok) is one of the most effective ways to grow your audience today. Since you are creating content in **Telugu**, you need tools that handle non-English languages well, specifically for **auto-captioning** and **visual editing**.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and industry options for creating Telugu podcast shorts.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **CapCut** (Best All-Rounder for Telugu)\n*   **Why it\u2019s great for Telugu:** CapCut has significantly improved its auto-captioning accuracy for Indian languages,",
+  "raw_payload": {
+    "id": "chatcmpl-5f6bbfb4-e257-4490-83c1-c79a0a24b5dd",
+    "object": "chat.completion",
+    "created": 1795375068,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, transitioning from long-form podcasts to short-form clips (Reels, Shorts, TikTok) is one of the most effective ways to grow your audience today. Since you are creating content in **Telugu**, you need tools that handle non-English languages well, specifically for **auto-captioning** and **visual editing**.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and industry options for creating Telugu podcast shorts.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **CapCut** (Best All-Rounder for Telugu)\n*   **Why it\u2019s great for Telugu:** CapCut has significantly improved its auto-captioning accuracy for Indian languages,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.052783601,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005296759,
+      "completion_tokens": 150,
+      "completion_time": 0.286780769,
+      "total_tokens": 226,
+      "total_time": 0.292077528
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b2x4zeekbdc4q0f3nwjf5",
+      "seed": 1951013865
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1227,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube channel in Hindi is one of the most scalable content creation business models today. Because the Hindi-speaking internet audience is massive and rapidly growing, automation and AI tools can help you produce high-retention videos efficiently without ever showing your face o",
+      "cost_usd": 0.0002,
+      "latency_ms": 3302,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_in_hindi_7f8c6d_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Welcome to the world of faceless YouTube automation! Operating a faceless channel in Hindi is one of the most lucrative and scalable niches today, covering topics from finance and history to motivation and true crime. \n\nGiven your location in **India (IN)**, your workflow needs to balance cost-effec",
+      "cost_usd": 0.0002,
+      "latency_ms": 2281,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_in_hindi_7f8c6d_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_in_hindi_7f8c6d_d1_IN.json"
+}

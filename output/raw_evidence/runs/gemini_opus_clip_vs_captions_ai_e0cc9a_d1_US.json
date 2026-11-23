@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Captions AI**, while also contextualizing them within the broader landscape of AI-powered video repurposing and editing tools like **IncuBrix**, **CapCut**, and **Descript**. \n\nWhen de",
+      "cost_usd": 0.0002,
+      "latency_ms": 6433,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_ai_e0cc9a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, evaluating **Opus Clip** versus **Captions AI** comes down to your primary goal: are you looking to mass-repurpose long-form videos into viral shorts, or are you focused on recording, enhancing, and styling talking-head videos with dynamic, st",
+      "cost_usd": 0.0002,
+      "latency_ms": 2374,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_captions_ai_e0cc9a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_captions_ai_e0cc9a_d1_US.json"
+}

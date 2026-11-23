@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to streamline, automate, and scale their YouTube channel, utilizing a robust tech stack is essential. The modern YouTube automation workflow covers everything from AI-assisted editing and clipping to automated scheduling and publishing. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow tailored for U.S.-based creators.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **Video Repurposing & Short-Form Clipping**\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos and automatically repurposes them into multiple viral short-form clips (for YouTube Shorts, TikTok, and Instagram Reels). It analyzes hooks, ranks clips by a virality score, and adds dynamic captions.\n*   **CapCut:** Hugely popular among creators for its ease of use, desktop app, and powerful mobile",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to streamline, automate, and scale their YouTube channel, utilizing a robust tech stack is essential. The modern YouTube automation workflow covers everything from AI-assisted editing and clipping to automated scheduling and publishing. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and a recommended workflow tailored for U.S.-based creators.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **Video Repurposing & Short-Form Clipping**\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos and automatically repurposes them into multiple viral short-form clips (for YouTube Shorts, TikTok, and Instagram Reels). It analyzes hooks, ranks clips by a virality score, and adds dynamic captions.\n*   **CapCut:** Hugely popular among creators for its ease of use, desktop app, and powerful mobile",
+              "thoughtSignature": "Eo4BCosBAWkUfRO5Wl+dLuqEhwGP7r7gdhkxx5jdTr6XWOp9bbq47YRq+9vlscpE+AH3hBdY44Pl2tIHxpFubLmFwoLL9wU64X22BJ/N1a/fpcR0Kr4hmITGX+dILSqDFCz6ObK+fkcvZb6Wz3ymW5igZZGpcsBvFAZllsj69jYhmSnTTErl+DhBIjdTa0Coqg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "MT8Da4WUFY-_juMP0qiwkAw"
+  },
+  "latency_ms": 3248,
+  "cost_usd": 0.0002
+}

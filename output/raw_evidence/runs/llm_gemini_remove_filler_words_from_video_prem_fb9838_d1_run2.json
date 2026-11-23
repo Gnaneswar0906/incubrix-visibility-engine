@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK, removing filler words (like \"um,\" \"uh,\" \"you know,\" and awkward pauses) is one of the most effective ways to tighten your pacing and boost viewer retention. While Adobe Premiere Pro has native tools, the fastest workflows often involve specialized AI-driven tools that integrate with Premiere or handle the process entirely outside of it.\n\nHere is a breakdown of the best software tools, key industry options, and recommended workflows for a UK-based creator.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\nDescript revolutionized the workflow of editing video by letting you edit video *like a Word document*. \n* **Key Feature:** It automatically transcribes your footage and detects filler words. With a single click, you can \"Remove filler words\" globally across your entire timeline.\n* **Premiere Integration:** You can export your cleaned script/timeline back out",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK, removing filler words (like \"um,\" \"uh,\" \"you know,\" and awkward pauses) is one of the most effective ways to tighten your pacing and boost viewer retention. While Adobe Premiere Pro has native tools, the fastest workflows often involve specialized AI-driven tools that integrate with Premiere or handle the process entirely outside of it.\n\nHere is a breakdown of the best software tools, key industry options, and recommended workflows for a UK-based creator.\n\n---\n\n### Key Industry Options\n\n#### 1. Descript (The Industry Standard for Text-Based Editing)\nDescript revolutionized the workflow of editing video by letting you edit video *like a Word document*. \n* **Key Feature:** It automatically transcribes your footage and detects filler words. With a single click, you can \"Remove filler words\" globally across your entire timeline.\n* **Premiere Integration:** You can export your cleaned script/timeline back out",
+              "thoughtSignature": "Eo4BCosBAWkUfRMc+tjpXkfYDN6yhBdTp4+yrUxWmDyf8P4GbTX2BjQ+NFWSB5xcSjM9jLhP7QO+qDeVAT6ApjnlMGPx4kpLU3ul6sidVzH8MnBrf5HeR/7RdnBxlmNqGcZhmfTQIEkmbwQGXa3b5x3U9YxLUAUbL/h53u1zIf9AvZBN4sbGrC1hH/r9zH7QBg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zEEDa4f9Ab3J1_oP6aW9yQY"
+  },
+  "latency_ms": 6473,
+  "cost_usd": 0.0002
+}

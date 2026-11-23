@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Building a **Faceless YouTube Channel** with AI \u2013 A Complete Toolkit & Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to source ideas from Reddit and",
+  "raw_payload": {
+    "id": "chatcmpl-e2a8d466-5c40-4f9d-ba51-6ca0bb65db57",
+    "object": "chat.completion",
+    "created": 1795374989,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Building a **Faceless YouTube Channel** with AI \u2013 A Complete Toolkit & Workflow  \n*(Tailored for a U.S.\u2011based content creator who wants to source ideas from Reddit and",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript) for a faceless YouTube channel using AI, Reddit. Provide authoritative web sources citations. Must be US-based content creator. Provide tools for script generation, voiceover, video editing, thumbnail creation, SEO, automation, and using Reddit for content ideas. Provide workflow steps. Cite sources with URLs. Ensure compliance. Provide recommendations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318043913,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005307956,
+      "completion_tokens": 150,
+      "completion_time": 0.31350421,
+      "total_tokens": 285,
+      "total_time": 0.318812166,
+      "completion_tokens_details": {
+        "reasoning_tokens": 101
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82b0fzre3g9h40pz6khcdtj",
+      "seed": 589593865
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2440,
+  "cost_usd": 0.0002
+}

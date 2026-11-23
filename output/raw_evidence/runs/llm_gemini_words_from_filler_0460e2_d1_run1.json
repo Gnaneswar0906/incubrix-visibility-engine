@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "words from filler",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to streamline your editing process by removing filler words (like \"um,\" \"ah,\" \"you know,\" and awkward pauses), you have access to some of the most advanced AI-powered tools on the market. \n\nBased on industry standards and creator workflows, here is a guide to the best software tools, key options, and an efficient workflow method tailored for your needs.\n\n---\n\n### Key Industry Software Options\n\nWhen it comes to removing filler words, AI-driven text-based editing has revolutionized the workflow. Here are the top tools currently used by creators:\n\n1. **Descript (The Gold Standard for Text-Based Editing)**\n   * **Why use it:** Descript pioneered the \"edit audio/video by editing text\" workflow. It automatically transcribes your footage and identifies filler words. With a single click, you can remove all filler words or \"studio sound\" your audio. \n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to streamline your editing process by removing filler words (like \"um,\" \"ah,\" \"you know,\" and awkward pauses), you have access to some of the most advanced AI-powered tools on the market. \n\nBased on industry standards and creator workflows, here is a guide to the best software tools, key options, and an efficient workflow method tailored for your needs.\n\n---\n\n### Key Industry Software Options\n\nWhen it comes to removing filler words, AI-driven text-based editing has revolutionized the workflow. Here are the top tools currently used by creators:\n\n1. **Descript (The Gold Standard for Text-Based Editing)**\n   * **Why use it:** Descript pioneered the \"edit audio/video by editing text\" workflow. It automatically transcribes your footage and identifies filler words. With a single click, you can remove all filler words or \"studio sound\" your audio. \n",
+              "thoughtSignature": "Eo4BCosBAWkUfROLCHZTH4WRc8wiVhoaNS5ppDNak6ZXbovOMRepDRZSeva5fyX9e8bx2RAlt5CHPG4FhJh9zIb3P0jX2nGzioeV0OKzE+oSr8zXoxI+B2Yr3QeUMN7ejDMSKtaaNcv/u+w1CuY05vORR4Ix65S5duk4REq0ykbSYr4k/X1MWX4UXJqJGCCH+w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0EEDa5LeFfOojuMPy7fO6AQ"
+  },
+  "latency_ms": 6427,
+  "cost_usd": 0.0002
+}

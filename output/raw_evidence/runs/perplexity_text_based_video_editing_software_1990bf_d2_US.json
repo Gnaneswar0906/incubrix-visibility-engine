@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "text based video editing software",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'text based video editing software' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 404
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'text based video editing software' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 456
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_text_based_video_editing_software_1990bf_d2_US.json"
+}

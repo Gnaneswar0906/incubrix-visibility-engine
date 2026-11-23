@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Generating Captions for Video \u2013 Free\u2011to\u2011Use Tools, Workflow, and Industry Options**  \n\nBelow is a quick\u2011start guide you can copy\u2011paste into a production checklist, plus a short comparison of the",
+  "raw_payload": {
+    "id": "chatcmpl-52de1b87-be4c-47c9-b8b7-029879a65168",
+    "object": "chat.completion",
+    "created": 1795376590,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Generating Captions for Video \u2013 Free\u2011to\u2011Use Tools, Workflow, and Industry Options**  \n\nBelow is a quick\u2011start guide you can copy\u2011paste into a production checklist, plus a short comparison of the",
+          "reasoning": "The user wants recommendations for auto-generate captions for video free. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful. Provide list of free tools, features, pros/cons, workflow steps. Provide citations with URLs. Need to be mindful of policy: can provide links, not copyrighted text. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.319592586,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007023323,
+      "completion_tokens": 150,
+      "completion_time": 0.311397751,
+      "total_tokens": 285,
+      "total_time": 0.318421074,
+      "completion_tokens_details": {
+        "reasoning_tokens": 96
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82chbf7eh9sk6j04e7wxyjm",
+      "seed": 1549467645
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3324,
+  "cost_usd": 0.0002
+}

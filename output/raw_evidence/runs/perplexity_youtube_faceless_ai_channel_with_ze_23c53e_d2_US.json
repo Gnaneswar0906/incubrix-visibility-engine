@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'youtube faceless ai channel with zero investment' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 342
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'youtube faceless ai channel with zero investment' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 477
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_youtube_faceless_ai_channel_with_ze_23c53e_d2_US.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They ask: \"what is text based video editing\". They want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy: Provide info, no disallowed content. It's fine.\n\nWe should explain what text based video editing is: editing videos using text scripts, AI, transcription, etc. Provide software list: Descript, Opus Clip, CapCut, IncuBrix (maybe less known), plus other tools like Adobe Premiere Pro (auto captions), Final Cut Pro",
+  "raw_payload": {
+    "id": "chatcmpl-002b1bb5-6465-458f-b8b9-52fe0d01f765",
+    "object": "chat.completion",
+    "created": 1795376924,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They ask: \"what is text based video editing\". They want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy: Provide info, no disallowed content. It's fine.\n\nWe should explain what text based video editing is: editing videos using text scripts, AI, transcription, etc. Provide software list: Descript, Opus Clip, CapCut, IncuBrix (maybe less known), plus other tools like Adobe Premiere Pro (auto captions), Final Cut Pro"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156152147,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005280801,
+      "completion_tokens": 150,
+      "completion_time": 0.31066999,
+      "total_tokens": 285,
+      "total_time": 0.315950791,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cvh5ceqgaq2yec54p8t9x",
+      "seed": 1608676494
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3335,
+  "cost_usd": 0.0002
+}

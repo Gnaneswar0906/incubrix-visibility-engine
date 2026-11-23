@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). They ask: \"is video editor free\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer: Are video editors free? Provide recommendations, mention free vs paid, workflow, mention those tools. Provide citations with URLs. Must be safe. No disallowed content. Provide helpful answer.\n\nWe should note that many video editors have free versions, with limitations. Provide list: DaVinci Resolve (free tier), HitFilm Express, Lightworks, Shotcut, OpenShot, iMovie (Mac), CapCut (",
+  "raw_payload": {
+    "id": "chatcmpl-398deec8-67f9-4699-acb9-bf58810210e7",
+    "object": "chat.completion",
+    "created": 1795375158,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). They ask: \"is video editor free\". They want recommendations of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer: Are video editors free? Provide recommendations, mention free vs paid, workflow, mention those tools. Provide citations with URLs. Must be safe. No disallowed content. Provide helpful answer.\n\nWe should note that many video editors have free versions, with limitations. Provide list: DaVinci Resolve (free tier), HitFilm Express, Lightworks, Shotcut, OpenShot, iMovie (Mac), CapCut ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155762814,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005751526,
+      "completion_tokens": 150,
+      "completion_time": 0.311954605,
+      "total_tokens": 283,
+      "total_time": 0.317706131,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82b5m9qex9rzbvjymt1yqyz",
+      "seed": 796982961
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2512,
+  "cost_usd": 0.0002
+}

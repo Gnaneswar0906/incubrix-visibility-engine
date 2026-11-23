@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 4366,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_auto_captions_for_free_6ac91c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, location GB, so maybe UK spelling? Provide recommendations for free auto captioning tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no copyrighte",
+      "cost_usd": 0.0002,
+      "latency_ms": 3990,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_auto_captions_for_free_6ac91c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_create_auto_captions_for_free_6ac91c_d1_GB.json"
+}

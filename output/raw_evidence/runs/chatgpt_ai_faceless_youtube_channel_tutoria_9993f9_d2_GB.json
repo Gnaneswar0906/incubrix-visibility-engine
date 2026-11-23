@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a high-quality, faceless YouTube channel in 2026 is less about \"hiding\" and more about leveraging AI to achieve a level of production value and efficiency that was previously impossible for solo creators. The landscape has shifted from simple text-to-speech and stock footage to **hyper-pers",
+      "cost_usd": 0.0002,
+      "latency_ms": 2709,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"ai faceless youtube channel tutorial 2026\" The user is a content creator located in GB. They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if availa",
+      "cost_usd": 0.0002,
+      "latency_ms": 6282,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d2_GB.json"
+}

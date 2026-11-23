@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create a faceless youtube channel using ai tools",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants advice on creating a faceless YouTube channel using AI tools. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide recommendations. Must comply with policy: no disallowed content. It's fine. Provide citations with URLs. Use markdown. Provide steps: niche selection, script generation, AI voice, video generation, editing, thumbnail, SEO, scheduling. Mention tools: ChatGPT, Jasper, Copy.ai for script; Synthesia, Pictory, D-ID, Runway, Veed.io for AI video; ElevenLabs, Murf.ai for voice; CapCut, Opus Clip",
+  "raw_payload": {
+    "id": "chatcmpl-8543203c-98c1-449b-b0f0-bf0d9e807696",
+    "object": "chat.completion",
+    "created": 1795377210,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants advice on creating a faceless YouTube channel using AI tools. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide recommendations. Must comply with policy: no disallowed content. It's fine. Provide citations with URLs. Use markdown. Provide steps: niche selection, script generation, AI voice, video generation, editing, thumbnail, SEO, scheduling. Mention tools: ChatGPT, Jasper, Copy.ai for script; Synthesia, Pictory, D-ID, Runway, Veed.io for AI video; ElevenLabs, Murf.ai for voice; CapCut, Opus Clip"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369324772,
+      "prompt_tokens": 140,
+      "prompt_time": 0.005664617,
+      "completion_tokens": 150,
+      "completion_time": 0.312693067,
+      "total_tokens": 290,
+      "total_time": 0.318357684,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82d48w7eztvbkjr0sqdh84f",
+      "seed": 280079049
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2715,
+  "cost_usd": 0.0002
+}

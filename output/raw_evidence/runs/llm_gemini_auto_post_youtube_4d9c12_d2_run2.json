@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " a content creator in the U.S. looking to streamline your video production and publishing pipeline, automating your YouTube workflow can save you dozens of hours each week. Automation generally spans three distinct phases: **AI-assisted editing/repurposing**, **scheduling/publishing**, and **management**. \n\nHere is a breakdown of the best software tools, key industry options (including your specified mentions), and a recommended workflow method to get your content auto-posting efficiently.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **AI Repurposing & Clipping (Shorts/Reels)**\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into 10+ viral shorts, reels, or TikToks with a single click. It features AI curation, auto-framing, and dynamic captions. According to creator economy reviews, it is one of the fastest ways to extract high-performing moments from podcasts or tutorials.\n",
+              "thoughtSignature": "Eo4BCosBAWkUfROkiiA3hstNeeRgXncX11PdKJY2HmK6tugWZUqWxpEMwWoPNM0mGQ5/0m3eRdOaTmdKdSPsSeI2Z5d0n+v7NIZ3ML+Sku0kNj52ISXVItiseeTwmIPOcyRwXaxJwp/LjbNEwBs3fpi/X32KwxGuADmZFmTwd0GpXbIFMt6zMIK9PE+uREEyOw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "PEYDa5-3ArbP1_oP68SP4Q8"
+  },
+  "latency_ms": 2592,
+  "cost_usd": 0.0002
+}

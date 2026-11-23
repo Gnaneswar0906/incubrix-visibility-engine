@@ -1,0 +1,107 @@
+{
+  "query": "can i add text in openshot video editor",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.openshot.org/static/files/user-guide/titles.html",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "can i add text in openshot video editor",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text & Titles \u2014 OpenShot Video Editor 4.1.0 documentation",
+        "link": "https://www.openshot.org/static/files/user-guide/titles.html",
+        "displayedLink": "https://www.openshot.org \u203a static \u203a ... \u203a titles.html",
+        "snippet": "Edit text directly in the preview \u00b7 Click Tt in the Timeline toolbar, choose Title \u2192 Text, or press Shift + T . A text clip is added at the playhead, above ...",
+        "position": 1
+      },
+      {
+        "title": "OpenShot Video Editor Tutorial: How to Add Text in OpenShot",
+        "link": "https://www.youtube.com/watch?v=oreNoauhViI",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Quick tutorial on how to add text in OpenShot. If you like this short video check out my other tutorials: \u25bb DaVinci Resolve Tutorials for\u00a0...",
+        "position": 2
+      },
+      {
+        "title": "How Do I add text? : r/OpenShot",
+        "link": "https://www.reddit.com/r/OpenShot/comments/18wf21h/how_do_i_add_text/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_do_i_add_text",
+        "snippet": "Absolutely, you can add text directly within OpenShot without needing to download or import text files from elsewhere. Here are the steps to add ...",
+        "sitelinks": [
+          {
+            "title": "Adding text in OpenShotr/OpenShot\u00b75 comments\u00b72y",
+            "link": "https://www.reddit.com/r/OpenShot/comments/1c9r9y6/adding_text_in_openshot/"
+          },
+          {
+            "title": "help me in adding text to video : r/OpenShotr/OpenShot\u00b74 comments\u00b72y",
+            "link": "https://www.reddit.com/r/OpenShot/comments/1asxdd4/help_me_in_adding_text_to_video/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "How Do I Add Text to a Video in OpenShot?",
+        "link": "https://support.openshot.org/support/solutions/articles/43000625551-how-do-i-add-text-to-a-video-in-openshot-",
+        "displayedLink": "https://support.openshot.org \u203a support \u203a ... \u203a 43000625551-how-do-i-add-te...",
+        "snippet": "You can select a template and fill in the fields such as File Name, text to display, Text Color, and Background Color. You can also change your ...",
+        "date": "26 Jul 2023",
+        "position": 4
+      },
+      {
+        "title": "How to Add Text | OpenShot Tutorial",
+        "link": "https://www.youtube.com/watch?v=HCrHzIAkJ38",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this tutorial, I will show you how to add text to your video or project in OpenShot. This is a beginner-friendly tutorial on video\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "OpenShot Video Editor Text Overlay: Titles and Tracks - Tribute Blog",
+        "link": "https://blog.tribute.co/openshot-video-editor-text-overlay/",
+        "displayedLink": "https://blog.tribute.co \u203a openshot-video-editor-text-...",
+        "snippet": "How do I add text to a video in OpenShot? Open the Title Editor from the Title menu, pick a template, set the words and colors, then save. The ...",
+        "date": "26 Oct 2026",
+        "position": 6
+      },
+      {
+        "title": "How to add titles and text to your videos with OpenShot",
+        "link": "https://www.youtube.com/watch?v=uv8xAkcstv4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, Rob from Project Sandbox will go over how to add titles and text to your OpenShot project. This video will show you where to\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "Adding text in OpenShot",
+        "link": "https://www.reddit.com/r/OpenShot/comments/1c9r9y6/adding_text_in_openshot/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a adding_text_in_openshot",
+        "sitelinks": [
+          {
+            "title": "How to add text in OpenShot?Techjockey\u00a0\u00b7\u00a02y",
+            "link": "https://www.techjockey.com/question/10447/how-to-add-text-in-openshot"
+          }
+        ],
+        "position": 8
+      },
+      {
+        "title": "How to add text in OpenShot?",
+        "link": "https://www.techjockey.com/question/10447/how-to-add-text-in-openshot",
+        "displayedLink": "https://www.techjockey.com \u203a question \u203a 10447 \u203a how-to-add-text-in-openshot",
+        "position": 9
+      },
+      {
+        "title": "How to Add Text in OpenShot Video Editor",
+        "link": "https://www.facebook.com/fb-answers/openshot-add-text/",
+        "displayedLink": "https://www.facebook.com \u203a fb-answers \u203a openshot-add-text",
+        "snippet": "To add text in OpenShot, you import or create a text clip and place it on a track above your video. You can drag the text clip to control when it appears and ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

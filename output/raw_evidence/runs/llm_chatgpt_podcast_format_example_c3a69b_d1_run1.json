@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast format example",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a response: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example (maybe structure) and recommend software tools, workflow methods, mention those key industry options, and cite sources. Provide UK context. Use authoritative web sources (like BBC, Podnews, etc.). Provide citations with URLs. Must comply with policy. No disallowed content. Provide helpful answer.\n\nLet's produce a structured answer: intro, example format (intro,",
+  "raw_payload": {
+    "id": "chatcmpl-7d6da9b7-4f04-4f56-8599-091ac25d31e7",
+    "object": "chat.completion",
+    "created": 1795375465,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a response: \"You are an AI assistant answering a query from a content creator located in GB. Query: podcast format example. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a podcast format example (maybe structure) and recommend software tools, workflow methods, mention those key industry options, and cite sources. Provide UK context. Use authoritative web sources (like BBC, Podnews, etc.). Provide citations with URLs. Must comply with policy. No disallowed content. Provide helpful answer.\n\nLet's produce a structured answer: intro, example format (intro,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317940146,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005282412,
+      "completion_tokens": 150,
+      "completion_time": 0.315374317,
+      "total_tokens": 282,
+      "total_time": 0.320656729,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82bf0ceeev9rzcwvx66eggx",
+      "seed": 1898148528
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2885,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts maker ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant"
+            },
+            {
+              "text": " helping a content creator in Great Britain, I have tailored this guide to the UK creator landscape\u2014keeping in mind local platform preferences, time-saving AI workflows, and the industry-standard tools currently dominating the market.\n\nTurning long-form podcast episodes into viral \"shorts\" (TikToks, Instagram Reels, and YouTube Shorts) is one of the most effective growth strategies for podcasters. Here is a breakdown of the best AI tools, a proven workflow, and an analysis of the top industry options.\n\n---\n\n### 1. Key Industry Options & Recommendations\n\n#### **Opus Clip** (Best for Automated Curation)\n*   **What it does:** An generative AI video clipping tool that repurposes long videos into high-potential shorts in one click. It analyzes your podcast, identifies the \"hooks,\" extracts the most compelling moments, adds captions, and scores them based on virality potential.\n*   **Why use it:** It drastically cuts down editing time. According to",
+              "thoughtSignature": "Eo4BCosBAWkUfROeR0M3phq1f3/CLmko7cSU6BvftueL2SYiAfePoRWD5ls9SITFiaR3HE5lBDwprQ9KPLbWFnyZMEGQBfXO6FUmTNwWajkVHgVIG32o7gltUKm7zjC1NarH9jX+geBHbogzRwCmjJgWkRiqJY/yCAOUztYogaiVTROwazO9OEn6aeIwCQZjzQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 204,
+      "totalTokenCount": 266,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "j0EDa9bHE4ne694PgtmzoAw"
+  },
+  "latency_ms": 7368,
+  "cost_usd": 0.0002
+}

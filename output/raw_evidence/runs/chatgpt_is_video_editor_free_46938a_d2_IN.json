@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "is video editor free",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in India, you are in a great position to leverage both powerful free tools and cost-effective paid solutions. The short answer to **\"is video editor free?\"** is **yes**, there are several high-quality video editors that are completely free or offer robust free tiers suffi",
+      "cost_usd": 0.0002,
+      "latency_ms": 1200,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_is_video_editor_free_46938a_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"is video editor free\" and recommend best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India (IN). So we can tail",
+      "cost_usd": 0.0002,
+      "latency_ms": 2783,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_is_video_editor_free_46938a_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_is_video_editor_free_46938a_d2_IN.json"
+}

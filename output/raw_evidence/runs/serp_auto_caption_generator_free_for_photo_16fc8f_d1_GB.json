@@ -1,0 +1,93 @@
+{
+  "query": "auto caption generator free for photo",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://pallyy.com/tools/image-caption-generator",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto caption generator free for photo",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Image Caption Generator: Captions from a Photo",
+        "link": "https://pallyy.com/tools/image-caption-generator",
+        "displayedLink": "https://pallyy.com \u203a tools \u203a image-caption-generator",
+        "snippet": "Turn any photo into a ready-to-post caption with free AI. Upload an image, generate caption ideas that add context and personality, and copy your favourite.",
+        "position": 1
+      },
+      {
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a auto-caption",
+        "snippet": "Enhance their accessibility and appeal by using our free auto caption generator to detect speech in your videos and adding captions.",
+        "position": 2
+      },
+      {
+        "title": "Image Caption Generator (Free Online Tool)",
+        "link": "https://imagecaptiongenerator.com/",
+        "displayedLink": "https://imagecaptiongenerator.com",
+        "snippet": "Image Caption Generator. Generate captions from images using AI free online. Free, no sign-up; 5 captions per image; Images are never stored.",
+        "position": 3
+      },
+      {
+        "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online",
+        "snippet": "Generate subtitles for your video and audio files in minutes. Generate videos, voices, avatars and images from a simple prompt. No filming, no studio - just ...",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 4
+      },
+      {
+        "title": "Free Video Caption Generator | AI Animated Subtitles & Captions",
+        "link": "https://www.choppity.com/tools/free-video-caption-generator/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a free-video-caption-generator",
+        "snippet": "Upload your MP4 or MOV, pick a caption style and transitions, and our AI automatically adds animated subtitles to your video. Download the finished MP4 or post ...",
+        "position": 5
+      },
+      {
+        "title": "Free Subtitle Generator \u2013 Auto Captions for Video, No Watermark",
+        "link": "https://wavespeed.ai/free-tools/subtitle-generator",
+        "displayedLink": "https://wavespeed.ai \u203a free-tools \u203a subtitle-generator",
+        "snippet": "Generate subtitles from speech automatically, free. Create clips from a prompt or an image with WaveSpeed AI, then add subtitles here for free.",
+        "position": 6
+      },
+      {
+        "title": "Captions: AI That Edits Like a Professional Editor",
+        "link": "https://captions.ai/",
+        "displayedLink": "https://captions.ai",
+        "snippet": "Pick a style, and Captions automatically cuts scenes, overlays B-roll and more. You can also use Captions to auto-generate captions or translated subtitles.",
+        "position": 7
+      },
+      {
+        "title": "Add Captions to Videos Online for Free | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/add-caption",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a add-caption",
+        "snippet": "Add captions to videos quickly and easily using the Adobe Express subtitle generator. No experience required. Make any graphic, icon, text, or image in your ...",
+        "position": 8
+      },
+      {
+        "title": "Free AI Caption Generator for Social Media [FREE TOOL]",
+        "link": "https://www.hootsuite.com/social-media-tools/ai-caption-generator-social-media?srsltid=AYCX9vKz7CKyYfLPO2l3SjSHeWMR158epkDtJ9lZDb7Hc_8FtbdL-z63",
+        "displayedLink": "https://www.hootsuite.com \u203a social-media-tools \u203a ai-caption-generator-social...",
+        "snippet": "Generate captions for Facebook, Instagram, Twitter, and LinkedIn in seconds with this free, ai-powered social media caption generator from Hootsuite.",
+        "position": 9
+      },
+      {
+        "title": "Auto subtitle generator online | Free in over 100 languages",
+        "link": "https://clipchamp.com/en/subtitle-generator/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a subtitle-generator",
+        "snippet": "Create video subtitles in real-time and easily edit your videos for social media, work and gaming for free with Clipchamp. Download your subtitle transcript ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto generate captions for video free online. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in US. We must comply with policy: we can provide info. No disallowed content. Provide citations. Since we can't browse the web, we can cite known sources like official sites, blogs, articles. Provide links. Provide a workflow. Mention free options, limitations, and paid upgrades. Provide tips for accuracy, editing, exporting. Also mention other tools like YouTube automatic captions, Vimeo, Otter.ai, Rev.com (but free?),",
+  "raw_payload": {
+    "id": "chatcmpl-477c204c-8004-48b5-b5d5-3d924c72f365",
+    "object": "chat.completion",
+    "created": 1795374680,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto generate captions for video free online. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in US. We must comply with policy: we can provide info. No disallowed content. Provide citations. Since we can't browse the web, we can cite known sources like official sites, blogs, articles. Provide links. Provide a workflow. Mention free options, limitations, and paid upgrades. Provide tips for accuracy, editing, exporting. Also mention other tools like YouTube automatic captions, Vimeo, Otter.ai, Rev.com (but free?),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36966143,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005801428,
+      "completion_tokens": 150,
+      "completion_time": 0.311049546,
+      "total_tokens": 286,
+      "total_time": 0.316850974,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82aq1bpe10b2scbztgxhfy8",
+      "seed": 1748987379
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3381,
+  "cost_usd": 0.0002
+}

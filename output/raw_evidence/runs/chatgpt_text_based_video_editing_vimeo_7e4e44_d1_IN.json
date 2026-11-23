@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing vimeo",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are in a prime position to leverage the rapidly growing \"text-based video editing\" market. This trend allows you to edit videos by editing a transcript, which significantly speeds up production workflows, especially for talking-head content, podcasts, ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1413,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_vimeo_7e4e44_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as ChatGPT, providing recommendations for text-based video editing for Vimeo, focusing on content creator in India (IN). Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if availab",
+      "cost_usd": 0.0002,
+      "latency_ms": 3712,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_vimeo_7e4e44_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_vimeo_7e4e44_d1_IN.json"
+}

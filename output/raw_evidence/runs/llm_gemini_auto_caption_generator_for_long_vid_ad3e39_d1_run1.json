@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. working with long-form videos (such as YouTube videos, podcasts, or webinars), generating accurate auto-captions for free (or with robust free tiers) is essential for boosting audience retention and accessibility. \n\nHere is a breakdown of the best software tools, key industry options you mentioned, and an efficient workflow method to streamline your editing process.\n\n---\n\n### Key Industry Options for Long-Form Auto-Captions\n\n#### 1. CapCut (Desktop & Mobile)\n*   **Best For:** Dynamic, engaging captions with animations and styling (popularized by TikTok/Reels/Shorts).\n*   **The \"Free\" Aspect:** CapCut\u2019s desktop app offers an exceptionally generous free tier with automatic caption generation. While certain advanced AI features or cloud storage are paid, the core auto-caption tool is free to use on desktop.\n*   **Pros:** Highly accurate speech-to",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. working with long-form videos (such as YouTube videos, podcasts, or webinars), generating accurate auto-captions for free (or with robust free tiers) is essential for boosting audience retention and accessibility. \n\nHere is a breakdown of the best software tools, key industry options you mentioned, and an efficient workflow method to streamline your editing process.\n\n---\n\n### Key Industry Options for Long-Form Auto-Captions\n\n#### 1. CapCut (Desktop & Mobile)\n*   **Best For:** Dynamic, engaging captions with animations and styling (popularized by TikTok/Reels/Shorts).\n*   **The \"Free\" Aspect:** CapCut\u2019s desktop app offers an exceptionally generous free tier with automatic caption generation. While certain advanced AI features or cloud storage are paid, the core auto-caption tool is free to use on desktop.\n*   **Pros:** Highly accurate speech-to",
+              "thoughtSignature": "Eo4BCosBAWkUfROV1vYhHrWJSXMBzXEZHaCbyfBp1XqeBHdI1Uw3/NjHCP+fLztK3KR9Ee+/N0l6JkLIR+tODf3HWnCGB9LoGFkbarWxL2UGFAYZ9sYX+TJ/XtD+/Ax0W9uNGbityom2jN39DbMfOAbLv8WAepk/6hhZqcazddnOb0VJDzBrCPGqH73X1sar1Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jT4Da_WnJ6zSqfkP88m82QY"
+  },
+  "latency_ms": 6375,
+  "cost_usd": 0.0002
+}

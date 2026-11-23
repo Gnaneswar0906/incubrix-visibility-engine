@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native auto-captions are great in a pinch, but third-party software offers superior styling, animations, and accuracy that significantly boost viewer retention.\n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow tailored for TikTok.\n\n---\n\n### 1. Key Industry Software Tools\n\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to auto-generate engaging subtitles for TikTok, you have access to some of the most advanced AI-driven video editing tools on the market. TikTok\u2019s native auto-captions are great in a pinch, but third-party software offers superior styling, animations, and accuracy that significantly boost viewer retention.\n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow tailored for TikTok.\n\n---\n\n### 1. Key Industry Software Tools\n\n"
+            },
+            {
+              "text": "#### **CapCut** (The TikTok Standard)\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is arguably the most popular tool for short-form video creation. Its \"Auto Captions\" feature is robust, free (with a robust paid tier), and deeply integrated with TikTok-style trends.\n*   **Best For:** Fast, heavily styled, dynamic word-by-word captions with",
+              "thoughtSignature": "Eo4BCosBAWkUfRNyPaIaSh3HseRtPH6+GgghaI40VFkjsiyYR8MQV/46n0qWup1fyqFsNFtaD4o7TCXLeN72GRY2TSWsQt2dB78so2JpSR62wUCYCEQpALlegjq+q1gM0sqbMVcE5XuAm4jXoPyvJGr4mpFFhv9aJgUHTxU1wt6jmCUXnd1aWiyFZhQWT2dogw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 197,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "8EEDa-2lA570694P6-zYwQo"
+  },
+  "latency_ms": 2932,
+  "cost_usd": 0.0002
+}

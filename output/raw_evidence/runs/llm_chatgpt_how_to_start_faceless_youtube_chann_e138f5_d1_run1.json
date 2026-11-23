@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start faceless youtube channel with ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for starting a faceless YouTube channel using AI, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to consider location: IN (India). Provide suggestions relevant to Indian creators, maybe mention local platforms, payment, language considerations. Provide steps: niche selection, content planning, script generation, AI voice, video creation, editing, thumbnail creation, SEO, uploading, promotion. Tools: AI script generators (ChatGPT, Jasper, Writesonic), AI voice (Murf, ElevenLabs, Play.ht), video generation (Pictory, Synthesia, InVideo, Op",
+  "raw_payload": {
+    "id": "chatcmpl-a753a1ae-6d9d-4e68-abaa-6778b626d1ff",
+    "object": "chat.completion",
+    "created": 1795375398,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for starting a faceless YouTube channel using AI, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to consider location: IN (India). Provide suggestions relevant to Indian creators, maybe mention local platforms, payment, language considerations. Provide steps: niche selection, content planning, script generation, AI voice, video creation, editing, thumbnail creation, SEO, uploading, promotion. Tools: AI script generators (ChatGPT, Jasper, Writesonic), AI voice (Murf, ElevenLabs, Play.ht), video generation (Pictory, Synthesia, InVideo, Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.248069435,
+      "prompt_tokens": 138,
+      "prompt_time": 0.042359124,
+      "completion_tokens": 150,
+      "completion_time": 0.311367902,
+      "total_tokens": 288,
+      "total_time": 0.353727026,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82bcyvpe2sapbvf197kjxk6",
+      "seed": 221181671
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1922,
+  "cost_usd": 0.0002
+}

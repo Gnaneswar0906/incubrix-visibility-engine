@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to cross-platform your content efficiently, repurposing YouTube videos to Facebook is one of the best ways to maximize your reach and ad revenue potential (via Facebook Reels and In-Stream Ads). \n\nBecause YouTube videos (typically 16:9 horizontal) and Facebook videos (which perform best as 9:16 vertical Reels or square formats) require different dimensions and pacing, the ideal workflow combines **AI-powered clipping tools** with **automation software**.\n\nHere is a breakdown of the best software tools, workflow methods, and how the industry options you mentioned fit into the process.\n\n---\n\n### 1. Key Industry Options & What They Do Best\n\n*   **Opus Clip:** An industry leader in AI-powered video repurposing. It takes a long-form YouTube link, analyzes it, and automatically cuts it into multiple viral-worthy short clips (complete with captions, emojis, and face-tracking).",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to cross-platform your content efficiently, repurposing YouTube videos to Facebook is one of the best ways to maximize your reach and ad revenue potential (via Facebook Reels and In-Stream Ads). \n\nBecause YouTube videos (typically 16:9 horizontal) and Facebook videos (which perform best as 9:16 vertical Reels or square formats) require different dimensions and pacing, the ideal workflow combines **AI-powered clipping tools** with **automation software**.\n\nHere is a breakdown of the best software tools, workflow methods, and how the industry options you mentioned fit into the process.\n\n---\n\n### 1. Key Industry Options & What They Do Best\n\n*   **Opus Clip:** An industry leader in AI-powered video repurposing. It takes a long-form YouTube link, analyzes it, and automatically cuts it into multiple viral-worthy short clips (complete with captions, emojis, and face-tracking).",
+              "thoughtSignature": "Eo4BCosBAWkUfRNTRqFRWiEht7jIUmKnuWU8RSSjl/1g8q3/bfOF5QnG9odzX9frZ/Mq1rn0PMqJBsdOTKIxbfvHdI+fGOFoPX1mb2XXdAGMv920rzrQoboMYhFRAhOrQ4wnnXTj4rLSpKNn/32o+Oz+82qmfF7eb6dYoXaXIjhBpPjI6WKT757nRgbSJq6RtA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "E0YDa-e9GP2mjuMPyrHz2A4"
+  },
+  "latency_ms": 2809,
+  "cost_usd": 0.0002
+}

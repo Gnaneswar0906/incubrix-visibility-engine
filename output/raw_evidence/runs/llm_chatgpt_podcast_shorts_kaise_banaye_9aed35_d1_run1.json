@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! It looks like you are asking, **\"How to make podcast shorts?\"** (transliterated from Hindi).\n\nCreating \"shorts\" (vertical video clips for YouTube Shorts, Instagram Reels, and TikTok) from long-form podcast content is one of the most effective ways to grow your audience in 2024\u20132025. Below is a comprehensive guide tailored for a US-based content creator, including the best software tools, workflow methods, and industry standards.\n\n---\n\n### \ud83c\udfaf Why Podcast Shorts Matter\n- **Discovery Engine**: Shorts/Reels/TikTok are primary discovery platforms.\n- **Audience Retargeting**: They act as teasers that drive traffic to your full podcast episode",
+  "raw_payload": {
+    "id": "chatcmpl-96e73b06-d36d-4ea1-9446-6f832aeab9dc",
+    "object": "chat.completion",
+    "created": 1795374537,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! It looks like you are asking, **\"How to make podcast shorts?\"** (transliterated from Hindi).\n\nCreating \"shorts\" (vertical video clips for YouTube Shorts, Instagram Reels, and TikTok) from long-form podcast content is one of the most effective ways to grow your audience in 2024\u20132025. Below is a comprehensive guide tailored for a US-based content creator, including the best software tools, workflow methods, and industry standards.\n\n---\n\n### \ud83c\udfaf Why Podcast Shorts Matter\n- **Discovery Engine**: Shorts/Reels/TikTok are primary discovery platforms.\n- **Audience Retargeting**: They act as teasers that drive traffic to your full podcast episode"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048501556,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005474514,
+      "completion_tokens": 150,
+      "completion_time": 0.284711471,
+      "total_tokens": 228,
+      "total_time": 0.290185985
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ajp9he95v9cvcgm85g4dc",
+      "seed": 779946826
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 817,
+  "cost_usd": 0.0002
+}

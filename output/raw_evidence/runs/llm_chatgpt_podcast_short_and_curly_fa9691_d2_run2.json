@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short and curly",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy. No disallowed content. Provide citations with links. Should be concise but thorough. Provide workflow steps. Mention UK-specific considerations perhaps. Provide citation style maybe footnotes or inline. Use markdown. Ensure not to fabricate sources; we can reference known sources like official websites, reviews from TechRadar, The Guardian, etc. Provide URLs.\n\nWe need to be mindful: IncuBrix? I'm not familiar; maybe it's a tool. Provide description. Ensure citations",
+  "raw_payload": {
+    "id": "chatcmpl-487ed0e6-786b-4d2d-960c-0c53c9bad279",
+    "object": "chat.completion",
+    "created": 1795377243,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (including IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy. No disallowed content. Provide citations with links. Should be concise but thorough. Provide workflow steps. Mention UK-specific considerations perhaps. Provide citation style maybe footnotes or inline. Use markdown. Ensure not to fabricate sources; we can reference known sources like official websites, reviews from TechRadar, The Guardian, etc. Provide URLs.\n\nWe need to be mindful: IncuBrix? I'm not familiar; maybe it's a tool. Provide description. Ensure citations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04901823,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00621815,
+      "completion_tokens": 150,
+      "completion_time": 0.348022647,
+      "total_tokens": 283,
+      "total_time": 0.354240797,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82d58jqe799p0zwpaaag9e1",
+      "seed": 433371606
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3569,
+  "cost_usd": 0.0002
+}

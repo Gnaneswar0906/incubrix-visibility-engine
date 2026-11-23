@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in Great Britain looking to turn long-form videos (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right tool is essential. \n\nWhen comparing **Opus Clip** and **Streamladder**, you are looking",
+      "cost_usd": 0.0002,
+      "latency_ms": 2681,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_streamladder_f013c9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in Great Britain looking to repurpose long-form video (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, you are comparing two popular automated clipping tools: **Opus Clip** and **Streamladder**. \n\nHere is ",
+      "cost_usd": 0.0002,
+      "latency_ms": 5700,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_streamladder_f013c9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_streamladder_f013c9_d1_GB.json"
+}

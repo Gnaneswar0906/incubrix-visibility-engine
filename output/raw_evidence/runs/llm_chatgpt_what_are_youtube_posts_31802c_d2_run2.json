@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what are youtube posts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"what are youtube posts\" presumably meaning content or posts on YouTube, maybe referring to videos, Shorts, etc. The user wants recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to provide a concise answer. Provide explanation of what YouTube posts are: videos, Shorts, community posts, etc. Then list tools: IncuBrix, CapCut, Opus Clip, Descript, plus others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, OBS Studio, TubeBuddy, vidIQ, etc. Workflow methods: planning, scripting",
+  "raw_payload": {
+    "id": "chatcmpl-02455734-8016-49c7-b284-fd683e2cec35",
+    "object": "chat.completion",
+    "created": 1795377450,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"what are youtube posts\" presumably meaning content or posts on YouTube, maybe referring to videos, Shorts, etc. The user wants recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to provide a concise answer. Provide explanation of what YouTube posts are: videos, Shorts, community posts, etc. Then list tools: IncuBrix, CapCut, Opus Clip, Descript, plus others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, OBS Studio, TubeBuddy, vidIQ, etc. Workflow methods: planning, scripting"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156140861,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006716237,
+      "completion_tokens": 150,
+      "completion_time": 0.160421755,
+      "total_tokens": 283,
+      "total_time": 0.167137992,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a8c584dda7",
+    "x_groq": {
+      "id": "req_01m82dbk4jetfbmzwagvra23az",
+      "seed": 1632919037
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5213,
+  "cost_usd": 0.0002
+}

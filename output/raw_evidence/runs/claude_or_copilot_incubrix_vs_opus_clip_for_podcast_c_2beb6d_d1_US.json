@@ -1,0 +1,39 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "incubrix vs opus clip for podcast clipping",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "InVideo",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'incubrix vs opus clip for podcast clipping' in US, popular recommendations include CapCut. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 383
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'incubrix vs opus clip for podcast clipping' in US, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 352
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_incubrix_vs_opus_clip_for_podcast_c_2beb6d_d1_US.json"
+}

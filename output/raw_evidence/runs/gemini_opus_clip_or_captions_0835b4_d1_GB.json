@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated efficiency (AI repurposing)** versus **creative control (manual or hybrid editing)**",
+      "cost_usd": 0.0002,
+      "latency_ms": 7625,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_or_captions_0835b4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator based in Great Britain, choosing between **Opus Clip** and **CapCut** (or alternative tools like Descript and IncuBrix) depends entirely on your primary goal: **automated AI-driven repurposing** versus **manual, highly creative precision editing**. \n\nBoth",
+      "cost_usd": 0.0002,
+      "latency_ms": 2094,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_or_captions_0835b4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_or_captions_0835b4_d1_GB.json"
+}

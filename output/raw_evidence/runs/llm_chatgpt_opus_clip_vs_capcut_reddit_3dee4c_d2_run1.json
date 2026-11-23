@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a fellow creator in India, you\u2019re asking about one of the most debated topics in the short-form video ecosystem right now. Since you are in **IN (India)**, we also need to consider factors like **internet speed, device compatibility, and cost sensitivity**, which are crucial when choosing between **Opus Clip** and **CapCut**.\n\n### Quick Verdict: Which is Better?\n\n| Feature | **Opus Clip** | **CapCut** |\n| :--- | :--- | :--- |\n| **Best For** | **Automation & Volume** (Repurposing long-form podcasts/webinars) | **Editing & Creativity** (Manual control, effects, trends) |\n| **AI Power",
+  "raw_payload": {
+    "id": "chatcmpl-797fc04e-3518-43ed-a7df-d4a685414896",
+    "object": "chat.completion",
+    "created": 1795377112,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a fellow creator in India, you\u2019re asking about one of the most debated topics in the short-form video ecosystem right now. Since you are in **IN (India)**, we also need to consider factors like **internet speed, device compatibility, and cost sensitivity**, which are crucial when choosing between **Opus Clip** and **CapCut**.\n\n### Quick Verdict: Which is Better?\n\n| Feature | **Opus Clip** | **CapCut** |\n| :--- | :--- | :--- |\n| **Best For** | **Automation & Volume** (Repurposing long-form podcasts/webinars) | **Editing & Creativity** (Manual control, effects, trends) |\n| **AI Power"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047654273,
+      "prompt_tokens": 79,
+      "prompt_time": 0.006551187,
+      "completion_tokens": 150,
+      "completion_time": 0.301093457,
+      "total_tokens": 229,
+      "total_time": 0.307644644
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82d18z1eamvzv5jsbgn6m7b",
+      "seed": 1045996665
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1340,
+  "cost_usd": 0.0002
+}

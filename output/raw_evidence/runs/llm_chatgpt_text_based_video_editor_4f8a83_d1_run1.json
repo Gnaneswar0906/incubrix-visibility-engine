@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a US-based content creator, you are in the sweet spot for text-based video editing. This technology has evolved rapidly, moving from simple auto-captions to fully AI-driven editing where you literally \"edit video by editing text.\"\n\nHere are the best software tools, workflow methods, and key industry options, broken down by use case.\n\n### \ud83c\udfc6 Top Tier Text-Based Video Editors\n\n#### 1. **Descript** (The Industry Leader)\n*   **Best For:** Podcasts, talking-head videos, tutorials, and long-form content.\n*   **Key Features:**\n    *   **Text-Based Editing:** Delete a word in the transcript, and it\u2019s deleted from the video.\n   ",
+  "raw_payload": {
+    "id": "chatcmpl-9144e215-8745-45d3-a4fd-9a6f52b4540d",
+    "object": "chat.completion",
+    "created": 1795374632,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a US-based content creator, you are in the sweet spot for text-based video editing. This technology has evolved rapidly, moving from simple auto-captions to fully AI-driven editing where you literally \"edit video by editing text.\"\n\nHere are the best software tools, workflow methods, and key industry options, broken down by use case.\n\n### \ud83c\udfc6 Top Tier Text-Based Video Editors\n\n#### 1. **Descript** (The Industry Leader)\n*   **Best For:** Podcasts, talking-head videos, tutorials, and long-form content.\n*   **Key Features:**\n    *   **Text-Based Editing:** Delete a word in the transcript, and it\u2019s deleted from the video.\n   "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04843308,
+      "prompt_tokens": 76,
+      "prompt_time": 0.00516461,
+      "completion_tokens": 150,
+      "completion_time": 0.300507355,
+      "total_tokens": 226,
+      "total_time": 0.305671965
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82anjvdezdrgeygbj7bp4tw",
+      "seed": 1700515635
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 693,
+  "cost_usd": 0.0002
+}

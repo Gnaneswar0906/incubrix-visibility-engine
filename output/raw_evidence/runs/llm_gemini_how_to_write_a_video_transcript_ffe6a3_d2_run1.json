@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Writing a professional video transcript is one of the most effective ways for U.S.-based content creators to boost accessibility, improve Search Engine Optimization (SEO) on platforms like YouTube,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Writing a professional video transcript is one of the most effective ways for U.S.-based content creators to boost accessibility, improve Search Engine Optimization (SEO) on platforms like YouTube,"
+            },
+            {
+              "text": " and repurpose long-form content into engaging short-form clips. \n\nHere is a comprehensive guide on how to write a video transcript, featuring the best software tools, a proven production workflow, and key industry options.\n\n---\n\n### Phase 1: The Ideal Workflow Method\n\nWriting a transcript from scratch for every video is time-consuming. Modern creators follow a **\"Hybrid Workflow\"** that combines AI automation with human editing for maximum efficiency and accuracy.\n\n1. **Record & Export:** Record your video and export the high-quality audio or video file.\n2. **AI Generation:** Run the file through an AI transcription tool to generate a rough draft (usually achieves 90\u201395% accuracy).\n3. **The Edit (Cleaning & Formatting):** \n   * **Remove fillers:** Cut out \"ums,\" \"ahs,\" and false starts unless they add conversational value.\n   * **Format for readability:** Break long paragraphs into shorter chunks.",
+              "thoughtSignature": "Eo4BCosBAWkUfROhC//zR6pGlAAeFzZpxWjCayslC/6e5Mg8k3EehK7Yh88Yq7EHoBcRd28tMbYvMpmWbAjiJ9l/y+M4JNF0O+ZFbIm/roVc/twp3EdTM3M0qud2yH4sZfplmEk5DCJWzWhNJ53Q0pXQ4wQB2oDdV6o3d53B49v0yZTVKFqcQ9eHyd18WmDfBg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 236,
+      "totalTokenCount": 300,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "oEUDa4DYD67Tz7sPqYbs0QU"
+  },
+  "latency_ms": 3190,
+  "cost_usd": 0.0002
+}

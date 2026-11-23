@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are likely looking for tools that balance **cost-effectiveness** with **high-quality output**, especially given the competitive landscape and the need to repurpose content efficiently across platforms like Instagram Reels, YouTube Shorts, and LinkedIn.\n\nHere is a detailed comparison of **Opus Clip** vs. **Chop AI**, along with recommendations for the best workflow and industry-standard alternatives.\n\n### \ud83c\udd9a Opus Clip vs. Chop AI: Head-to-Head\n\n| Feature | **Opus Clip** | **Chop AI** |\n| :--- | :--- | :--- |\n| **Core Strength** | AI-driven viral score, auto-captions, virality prediction |",
+  "raw_payload": {
+    "id": "chatcmpl-bdeec6cf-368f-4199-8054-92a41b4be105",
+    "object": "chat.completion",
+    "created": 1795377150,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are likely looking for tools that balance **cost-effectiveness** with **high-quality output**, especially given the competitive landscape and the need to repurpose content efficiently across platforms like Instagram Reels, YouTube Shorts, and LinkedIn.\n\nHere is a detailed comparison of **Opus Clip** vs. **Chop AI**, along with recommendations for the best workflow and industry-standard alternatives.\n\n### \ud83c\udd9a Opus Clip vs. Chop AI: Head-to-Head\n\n| Feature | **Opus Clip** | **Chop AI** |\n| :--- | :--- | :--- |\n| **Core Strength** | AI-driven viral score, auto-captions, virality prediction |"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05413688,
+      "prompt_tokens": 78,
+      "prompt_time": 0.00528727,
+      "completion_tokens": 150,
+      "completion_time": 0.292974654,
+      "total_tokens": 228,
+      "total_time": 0.298261924
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d2e47exdv6pj2wbt7yhn7",
+      "seed": 971245539
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 933,
+  "cost_usd": 0.0002
+}

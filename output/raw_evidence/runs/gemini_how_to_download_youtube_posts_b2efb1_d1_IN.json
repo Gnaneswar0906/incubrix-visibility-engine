@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how to download youtube posts' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 473
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in India (IN), downloading YouTube posts, videos, or Shorts for repurposing and research is a common workflow. Whether you are archiving your own content or gathering inspiration for reels and shorts, here is a guide on how to download YouTube content, th",
+      "cost_usd": 0.0002,
+      "latency_ms": 2204,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_download_youtube_posts_b2efb1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_download_youtube_posts_b2efb1_d1_IN.json"
+}

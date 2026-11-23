@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), navigating YouTube\u2019s auto-generated captions and enhancing them for better engagement, accessibility, and discoverability is a crucial part of your video production workflow. \n\nBased on creator discussions on communities like Reddit (r/NewTubers, r/VideoEditing, r/YouTube), relying *solely* on YouTube\u2019s native auto-captions is generally discouraged due to frequent errors in punctuation, terminology, and Hinglish or regional slang. Instead, creators use a mix of AI caption generators and editor suites.\n\nHere is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended workflow tailored for an Indian creator.\n\n---\n\n### Key Industry Options Mentioned by Creators\n\n1. **CapCut**\n   * **What it is:** A versatile video editor (mobile and desktop) with industry-leading auto-captions.\n   * **Reddit",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), navigating YouTube\u2019s auto-generated captions and enhancing them for better engagement, accessibility, and discoverability is a crucial part of your video production workflow. \n\nBased on creator discussions on communities like Reddit (r/NewTubers, r/VideoEditing, r/YouTube), relying *solely* on YouTube\u2019s native auto-captions is generally discouraged due to frequent errors in punctuation, terminology, and Hinglish or regional slang. Instead, creators use a mix of AI caption generators and editor suites.\n\nHere is a breakdown of the best software tools, key industry options (including the ones you mentioned), and a recommended workflow tailored for an Indian creator.\n\n---\n\n### Key Industry Options Mentioned by Creators\n\n1. **CapCut**\n   * **What it is:** A versatile video editor (mobile and desktop) with industry-leading auto-captions.\n   * **Reddit",
+              "thoughtSignature": "Eo4BCosBAWkUfRMfAck1UVMKQ6y/plGcjWVInIeWeifuFaxK+ZNqvrA6VYZCOXkljsrM3NaAOyOLfZHV/EMPlxZ/aIkhqUKT7852b24gvSX5HBmmagJM66KMD9b1NYgteUB6TpQBw592w0zeUKFrXrhqzNsNHnFEsQ5S0iapy/8sYYm5u9g/Gwrh0fxMyKNpQw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "d0ADa7ftL-Se3LUP6YnViAU"
+  },
+  "latency_ms": 2787,
+  "cost_usd": 0.0002
+}

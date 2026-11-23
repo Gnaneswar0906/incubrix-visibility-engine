@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you have access to some of the most powerful and cost-effective tools in the market. Auto-generating captions (subtitles) is no longer just a \"nice-to-have\" for accessibility; it\u2019s critical for engagement, as a significant portion of YouTube viewers watch with the sound off.\n\nHere\u2019s a curated guide on the best software, workflows, and industry options to streamline your captioning process.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Captions\n\n#### 1. **Descript** (Best for Text-Based Editing)\n*   **Why it\u2019s great:** You edit your video by editing the transcript. It uses AI to generate highly accurate captions, and you can fix",
+  "raw_payload": {
+    "id": "chatcmpl-c760dddb-740f-408f-94ab-5a9354881f0d",
+    "object": "chat.completion",
+    "created": 1795377034,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you have access to some of the most powerful and cost-effective tools in the market. Auto-generating captions (subtitles) is no longer just a \"nice-to-have\" for accessibility; it\u2019s critical for engagement, as a significant portion of YouTube viewers watch with the sound off.\n\nHere\u2019s a curated guide on the best software, workflows, and industry options to streamline your captioning process.\n\n### \ud83c\udfc6 Top Recommended Tools for Auto-Captions\n\n#### 1. **Descript** (Best for Text-Based Editing)\n*   **Why it\u2019s great:** You edit your video by editing the transcript. It uses AI to generate highly accurate captions, and you can fix"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054378039,
+      "prompt_tokens": 79,
+      "prompt_time": 0.006294401,
+      "completion_tokens": 150,
+      "completion_time": 0.304898019,
+      "total_tokens": 229,
+      "total_time": 0.31119242
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82cywnneznsk9xcwdrv5rvm",
+      "seed": 1855377536
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1084,
+  "cost_usd": 0.0002
+}

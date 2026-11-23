@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto translate video titles",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB, about \"youtube auto translate video titles\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide recommendations. Should be helpful, include workflow steps, mention YouTube's built-in translation features, third-party tools, automation via APIs, etc. Provide citations with URLs. Ensure no disallowed content. Provide a thorough answer.\n\nWe need to cite authoritative web sources. Use typical format: [1] etc. Provide links.\n\nWe must not claim to be a lawyer; it's not legal advice. It's fine.\n\nProceed",
+  "raw_payload": {
+    "id": "chatcmpl-4c35e96a-e68d-42ce-a568-03463909fa6a",
+    "object": "chat.completion",
+    "created": 1795375730,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB, about \"youtube auto translate video titles\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide recommendations. Should be helpful, include workflow steps, mention YouTube's built-in translation features, third-party tools, automation via APIs, etc. Provide citations with URLs. Ensure no disallowed content. Provide a thorough answer.\n\nWe need to cite authoritative web sources. Use typical format: [1] etc. Provide links.\n\nWe must not claim to be a lawyer; it's not legal advice. It's fine.\n\nProceed"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15686306,
+      "prompt_tokens": 134,
+      "prompt_time": 0.0051472,
+      "completion_tokens": 150,
+      "completion_time": 0.314446143,
+      "total_tokens": 284,
+      "total_time": 0.319593343,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82bq31vehwrvhkrj5fv0yaa",
+      "seed": 680777674
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2529,
+  "cost_usd": 0.0002
+}

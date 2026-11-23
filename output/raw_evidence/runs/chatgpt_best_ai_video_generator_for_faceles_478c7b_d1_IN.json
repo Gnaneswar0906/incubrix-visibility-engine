@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer: best AI video generator for faceless YouTube channel reddit. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations.\n\nWe need to produce a helpful answer. Should include: recommended AI video generat",
+      "cost_usd": 0.0002,
+      "latency_ms": 3266,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_video_generator_for_faceles_478c7b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best AI video generator for faceless YouTube channel, referencing Reddit. They want software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with polic",
+      "cost_usd": 0.0002,
+      "latency_ms": 2453,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_ai_video_generator_for_faceles_478c7b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_ai_video_generator_for_faceles_478c7b_d1_IN.json"
+}

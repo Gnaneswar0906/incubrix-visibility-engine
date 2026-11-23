@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For content creators in the US looking to edit video via text transcripts (often called **Text-Based Video Editing**), this workflow has become the industry standard for fast-paced content creation, podcasting, and social media repurposing. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of key industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Options\n\nDifferent tools serve different niches in the transcript-based editing ecosystem:\n\n*   **Descript (The Pioneer & Gold Standard):** Descript popularized the concept of editing video like a Word document. It offers powerful AI features like *Studio Sound* (which removes background noise), overdubbing (fixing audio via text generation), filler word removal, and seamless multitrack timeline editing. It is the go-to tool for podcasters and long-form creators.\n*",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US looking to edit video via text transcripts (often called **Text-Based Video Editing**), this workflow has become the industry standard for fast-paced content creation, podcasting, and social media repurposing. \n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of key industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Options\n\nDifferent tools serve different niches in the transcript-based editing ecosystem:\n\n*   **Descript (The Pioneer & Gold Standard):** Descript popularized the concept of editing video like a Word document. It offers powerful AI features like *Studio Sound* (which removes background noise), overdubbing (fixing audio via text generation), filler word removal, and seamless multitrack timeline editing. It is the go-to tool for podcasters and long-form creators.\n*",
+              "thoughtSignature": "Eo4BCosBAWkUfROxkAo2qh4kLs8GLBAiYrGx5gdMSiw2NdvqHevIu+KKu22VGWv/J0bHaUjvjapOo+3FNCwBDPojhzumIIxVnv3JoaqX5USJ1NJHDj+s+OK9/ocl4YMEmMkXEqM7CnA5U1iONj8wMX0f2V2pIQ35GIg6ayYQrIQbt5lmikaUgBVDtcxf7PwZUA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kEUDa8ehLpeD694Pt5u16Q8"
+  },
+  "latency_ms": 2476,
+  "cost_usd": 0.0002
+}

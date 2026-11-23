@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing final cut pro",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in India, leveraging text-based (or AI-driven) video editing can significantly speed up your workflow, especially when creating long-form content for YouTube and repurposing it into short-form content for Instagram Reels, YouTube Shorts, and Moj. \n\nWhile Final Cut P",
+      "cost_usd": 0.0002,
+      "latency_ms": 2767,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editing_final_cut__972bed_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'text based video editing final cut pro' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 341
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_based_video_editing_final_cut__972bed_d1_IN.json"
+}

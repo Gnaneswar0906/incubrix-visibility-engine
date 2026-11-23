@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto generating captions for video in Premiere Pro. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide citations with links. Provide workflow steps. Also mention Adobe's own auto caption feature, third-party plugins, and external services. Provide pros/cons. Provide tips for accuracy, editing, export. Provide resources. Use citations format maybe footnotes. Provide URLs. Ensure not to fabricate. I need to recall known sources: Adobe blog, Premiere Pro auto caption",
+  "raw_payload": {
+    "id": "chatcmpl-52f55941-ba8a-4c39-8e8e-5f2f370f0e39",
+    "object": "chat.completion",
+    "created": 1795376594,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for auto generating captions for video in Premiere Pro. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide citations with links. Provide workflow steps. Also mention Adobe's own auto caption feature, third-party plugins, and external services. Provide pros/cons. Provide tips for accuracy, editing, export. Provide resources. Use citations format maybe footnotes. Provide URLs. Ensure not to fabricate. I need to recall known sources: Adobe blog, Premiere Pro auto caption"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368814628,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00541241,
+      "completion_tokens": 150,
+      "completion_time": 0.311760589,
+      "total_tokens": 286,
+      "total_time": 0.317172999,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82chf57ew7rbjz1kkkq0ev5",
+      "seed": 34739480
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2525,
+  "cost_usd": 0.0002
+}

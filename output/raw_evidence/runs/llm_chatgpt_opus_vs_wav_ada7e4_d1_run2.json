@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus vs wav",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN). Query: \"opus vs wav\". Likely they want comparison of audio codecs Opus vs WAV, and recommendations for software tools, workflow, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Must cite authoritative web sources if available. Should be helpful, include best software tools, workflow methods, mention those tools. Provide citations. Use markdown. Provide comparison table of Opus vs WAV, pros/cons, use cases. Then suggest software for recording, editing, conversion, publishing. Mention Indian context maybe. Provide workflow steps: capture, edit, encode, compress, upload. Provide tools:",
+  "raw_payload": {
+    "id": "chatcmpl-51e5f5a4-02fd-4ceb-a26e-09b1c2cd5d99",
+    "object": "chat.completion",
+    "created": 1795375343,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN). Query: \"opus vs wav\". Likely they want comparison of audio codecs Opus vs WAV, and recommendations for software tools, workflow, key industry options like IncuBrix, CapCut, Opus Clip, Descript. Must cite authoritative web sources if available. Should be helpful, include best software tools, workflow methods, mention those tools. Provide citations. Use markdown. Provide comparison table of Opus vs WAV, pros/cons, use cases. Then suggest software for recording, editing, conversion, publishing. Mention Indian context maybe. Provide workflow steps: capture, edit, encode, compress, upload. Provide tools:"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36833603,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005773069,
+      "completion_tokens": 150,
+      "completion_time": 0.31054426,
+      "total_tokens": 282,
+      "total_time": 0.316317329,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82bb98geaeswc98hs8sezyz",
+      "seed": 1566864020
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2606,
+  "cost_usd": 0.0002
+}

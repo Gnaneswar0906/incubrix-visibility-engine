@@ -1,0 +1,118 @@
+{
+  "query": "where can i start a podcast for free",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://creators.spotify.com/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "where can i start a podcast for free",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Spotify for Creators: Tools to manage and grow your podcast",
+        "link": "https://creators.spotify.com/",
+        "displayedLink": "https://creators.spotify.com",
+        "snippet": "Get to know Spotify for Creators (formerly Spotify for Podcasters), the free audio and video podcasting platform of Spotify.",
+        "position": 1
+      },
+      {
+        "title": "Podbean: Free Podcast hosting and Monetizing Platform",
+        "link": "https://www.podbean.com/",
+        "displayedLink": "https://www.podbean.com",
+        "snippet": "Podbean offers a free podcast hosting service. You can use Podbean Podcast App to record and publish a podcast for free. Podbean also provides paid plans which ...",
+        "position": 2
+      },
+      {
+        "title": "Apple Podcasts for Creators",
+        "link": "https://podcasters.apple.com/",
+        "displayedLink": "https://podcasters.apple.com",
+        "snippet": "Get started with Apple Podcasts. Create, promote and manage your shows. Get inspired by other creators. And see how easy it is to make video podcasts.",
+        "position": 3
+      },
+      {
+        "title": "Can you create and publish a podcast for free?",
+        "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a can_you_create_and_publish_...",
+        "snippet": "Really interested in starting up a Podcast with a friend. We have loads of content ideas, and excited to try and get episodes recorded. Just not sure how ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/ld9wlcj/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/ld62p0x/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/oplycbk/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/ld663ev/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/ld8ev4b/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/mfuc22k/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1e37plb/can_you_create_and_publish_a_podcast_for_free/mf3v878/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "How to Start a Podcast: Complete Step-by-Step Guide [2026]",
+        "link": "https://www.buzzsprout.com/blog/how-to-start-a-podcast",
+        "displayedLink": "https://www.buzzsprout.com \u203a blog \u203a how-to-start-a-podcast",
+        "snippet": "How to Start a Podcast in 10 Steps. Develop a podcast concept; Choose your podcast format; Setup podcast equipment; Choose your podcast software ...",
+        "date": "2 Jan 2026",
+        "position": 5
+      },
+      {
+        "title": "How to Start a Podcast for FREE (Step-By-Step)",
+        "link": "https://www.youtube.com/watch?v=PBq-t9Rc9GU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "You can start podcasting for free with just 3 tools! Use Forever Free Plan give you the tools to do it all in one app.",
+        "position": 6
+      },
+      {
+        "title": "How to Start a Podcast for Free",
+        "link": "https://adventureandthegirl.com/2024/02/01/how-to-start-a-podcast-for-free/",
+        "displayedLink": "https://adventureandthegirl.com \u203a 2024 \u203a ... \u203a how-to-start-a-podcast-for-...",
+        "snippet": "If you're new to podcasting, I recommend hosting your podcast on Spotify for Podcasters. It's free to join and easy to get started by uploading ...",
+        "date": "1 Feb 2024",
+        "position": 7
+      },
+      {
+        "title": "Free AI Podcast Generator | Instant Podcast from Any Content",
+        "link": "https://monica.im/en/ai-podcast",
+        "displayedLink": "https://monica.im \u203a en \u203a ai-podcast",
+        "snippet": "Monica AI Podcast Generator turns your content into engaging audio stories. Get started for Free. Create on iOS, Android, Windows, Mac, or web \ud83d\udd04. Monica AI ...",
+        "rating": 4.9,
+        "ratingCount": 17668,
+        "position": 8
+      },
+      {
+        "title": "How to Create a Podcast on Spotify for Free",
+        "link": "https://www.youtube.com/watch?v=gMYH_kwUBs0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Create your podcast on Spotify for FREE in four simple steps. Veronica shows you how to set up Spotify for Creators, build your show assets\u00a0...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

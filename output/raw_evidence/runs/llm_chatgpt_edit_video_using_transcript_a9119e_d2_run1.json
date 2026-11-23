@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Editing Video\u202f\u2192\u202fTranscript\u202f\u2192\u202fFinal Cut  \n**A practical, cost\u2011effective workflow for U.S. content creators**\n\nBelow is a step\u2011by\u2011step workflow that lets you turn a raw recording into a polished video **by leveraging the transcript as the editing backbone**. ",
+  "raw_payload": {
+    "id": "chatcmpl-79b132a1-fbfa-4efe-9390-f81bf6d8b1ba",
+    "object": "chat.completion",
+    "created": 1795376525,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing Video\u202f\u2192\u202fTranscript\u202f\u2192\u202fFinal Cut  \n**A practical, cost\u2011effective workflow for U.S. content creators**\n\nBelow is a step\u2011by\u2011step workflow that lets you turn a raw recording into a polished video **by leveraging the transcript as the editing backbone**. ",
+          "reasoning": "The user wants recommendations for editing video using transcript. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be thorough. Provide workflow steps, pros/cons, pricing, integration, etc. Cite sources. Should be US-focused. Provide links. Ensure citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156156574,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005737586,
+      "completion_tokens": 150,
+      "completion_time": 0.309964491,
+      "total_tokens": 283,
+      "total_time": 0.315702077,
+      "completion_tokens_details": {
+        "reasoning_tokens": 82
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cfb9fey8abqt3nx3t4ky8",
+      "seed": 85736340
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2449,
+  "cost_usd": 0.0002
+}

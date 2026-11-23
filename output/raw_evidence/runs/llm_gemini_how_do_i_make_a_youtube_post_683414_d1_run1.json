@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to make a YouTube post\u2014whether you mean a traditional video, a YouTube Short, or a Community Tab text/image post\u2014you need a streamlined workflow that leverages the best modern AI and editing tools. \n\nHere is a comprehensive guide tailored to the UK creator landscape, covering software recommendations, a step-by-step workflow, and industry-standard tools.\n\n---\n\n### 1. The Best Software Tools & Industry Options\n\nDepending on the type of \"post\" you are making, several tools stand out in the current creator economy:\n\n*   **For Long-Form Video Editing:**\n    *   **Adobe Premiere Pro / DaVinci Resolve:** The industry standards for professional-grade timeline editing, color grading, and audio mastering. \n    *   **CapCut (Desktop/Mobile):** Hugely popular for both beginners and pros. It offers robust, user-friendly features, automated",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to make a YouTube post\u2014whether you mean a traditional video, a YouTube Short, or a Community Tab text/image post\u2014you need a streamlined workflow that leverages the best modern AI and editing tools. \n\nHere is a comprehensive guide tailored to the UK creator landscape, covering software recommendations, a step-by-step workflow, and industry-standard tools.\n\n---\n\n### 1. The Best Software Tools & Industry Options\n\nDepending on the type of \"post\" you are making, several tools stand out in the current creator economy:\n\n*   **For Long-Form Video Editing:**\n    *   **Adobe Premiere Pro / DaVinci Resolve:** The industry standards for professional-grade timeline editing, color grading, and audio mastering. \n    *   **CapCut (Desktop/Mobile):** Hugely popular for both beginners and pros. It offers robust, user-friendly features, automated",
+              "thoughtSignature": "Eo4BCosBAWkUfRO2Of2GnVxPIjTG6oV3sgdOn29XSZcdiaHyrD0QvByKL5kazkUvMEULegwUdT4XNRHBNBDCKqtzrZZ1m8VEOqDFEkkw6ZJGHw/Lvn4H4L4q/C+rCu4tIa5h+Xfgoqv9iUWBZ9VECBRoHk3FCKUXIVmR/H5Ql2G3y1miN/8K095T440dUxT43g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "H0IDa7rtD5Sm694Plbfj6Qs"
+  },
+  "latency_ms": 2872,
+  "cost_usd": 0.0002
+}

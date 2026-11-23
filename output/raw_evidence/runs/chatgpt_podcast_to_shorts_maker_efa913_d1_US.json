@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Turning a Podcast into YouTube Shorts (or TikTok/Reels) \u2013 A Complete Toolkit & Workflow  \n\nBelow is a **step\u2011by\u2011step workflow** that many U.S. creators use to turn long\u2011form audio/video podcasts into bite\u2011size, vertical \u201cshorts.\u201d  \nFor each stage I list the **best\u2011in\u2011class tools** (including",
+      "cost_usd": 0.0002,
+      "latency_ms": 7623,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_maker_efa913_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, for \"podcast to shorts maker\". Provide best tools, workflow, mention industry options, cite authoritative web sources if available.\n\nWe need to answer as ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3007,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_maker_efa913_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_maker_efa913_d1_US.json"
+}

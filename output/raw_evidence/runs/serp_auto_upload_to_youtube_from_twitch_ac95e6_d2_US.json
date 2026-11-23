@@ -1,0 +1,132 @@
+{
+  "query": "auto upload to youtube from twitch",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/Twitch/comments/8ctsud/is_there_a_way_to_autoexport_my_finished_twitch/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto upload to youtube from twitch",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Is there a way to auto-export my finished twitch stream video into ...",
+        "link": "https://www.reddit.com/r/Twitch/comments/8ctsud/is_there_a_way_to_autoexport_my_finished_twitch/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_a_way_to_autoexpor...",
+        "snippet": "Go to the video producer, click the 3 dots symbol, then click export.",
+        "sitelinks": [
+          {
+            "title": "Can I upload directly to Youtube from Twitch? - Redditr/Twitch\u00b730+ comments\u00b74y",
+            "link": "https://www.reddit.com/r/Twitch/comments/yltlbl/can_i_upload_directly_to_youtube_from_twitch/"
+          },
+          {
+            "title": "Is there a way to automatically upload my vods to youtube after i stop ...r/Twitch\u00b74 comments\u00b77y",
+            "link": "https://www.reddit.com/r/Twitch/comments/a681xv/is_there_a_way_to_automatically_upload_my_vods_to/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "On-Demand Content on Twitch",
+        "link": "https://help.twitch.tv/s/article/video-on-demand",
+        "displayedLink": "https://help.twitch.tv \u203a s \u203a article \u203a video-on-demand",
+        "snippet": "Once your accounts are connected, you can use the Export option to upload your videos to YouTube directly from Twitch without having to download them locally.",
+        "position": 2
+      },
+      {
+        "title": "jenslys/autovod: Automatically upload Twitch.tv / Kick.com streams ...",
+        "link": "https://github.com/jenslys/autovod",
+        "displayedLink": "https://github.com \u203a jenslys \u203a autovod",
+        "snippet": "Go to the Consent Screen section, setup an external application, fill in your information and add the user/s that are going to be using the app (Channel/s you ...",
+        "position": 3
+      },
+      {
+        "title": "Is there any way to automate the VOD export to YT?",
+        "link": "https://www.reddit.com/r/Twitch/comments/1v2d2ol/is_there_any_way_to_automate_the_vod_export_to_yt/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a is_there_any_way_to_automat...",
+        "position": 4
+      },
+      {
+        "title": "How to auto-export Twitch VODs to YouTube",
+        "link": "https://www.facebook.com/groups/2404621386681016/posts/2602288116914341/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 2602288116914341",
+        "position": 5
+      },
+      {
+        "title": "How to get video off twitch to upload to your YouTube channel?",
+        "link": "https://www.facebook.com/groups/twitchf4fpathtoaffiliate/posts/1080339624002859/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 1080339624002859",
+        "position": 6
+      },
+      {
+        "title": "How to Upload Twitch Streams to YouTube",
+        "link": "https://www.youtube.com/watch?v=QH8-8bPxYX8&vl=en-US",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to upload your Twitch streams to YouTube to reach a wider audience. This guide covers saving your past broadcasts, exporting or\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "How to Upload Videos on Youtube from Twitch (THE EASY WAY)",
+        "link": "https://www.youtube.com/watch?v=P26F7lZ6ucU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "//shop.cpawsmusic.com/StarterPack \u2713Today I show how to upload past Twitch broadcast streams and videos directly to Youtube from Twitch the\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Twitch YouTube Integration - Quick Connect",
+        "link": "https://zapier.com/apps/twitch/integrations/youtube",
+        "displayedLink": "https://zapier.com \u203a apps \u203a ... \u203a youtube",
+        "snippet": "We allow you to set up an automation where your completed Twitch broadcasts are automatically uploaded to your YouTube channel. This is done by linking your ...",
+        "position": 9
+      },
+      {
+        "title": "How to Upload Twitch Streams to YouTube",
+        "link": "https://www.youtube.com/watch?v=dWicToy53SQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to upload Twitch streams to YouTube. In this video I teach you how to upload your Twitch streams to your YouTube channel so you can have\u00a0...",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Can Twitch automatically upload videos to YouTube?"
+      },
+      {
+        "question": "How do I export from Twitch to YouTube?"
+      },
+      {
+        "question": "How long does it take to upload from Twitch to YouTube?"
+      },
+      {
+        "question": "Should I upload my Twitch VOD to YouTube?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Auto upload to youtube from twitch reddit"
+      },
+      {
+        "query": "Auto upload to youtube from twitch iphone"
+      },
+      {
+        "query": "How to export Twitch streams to YouTube on mobile"
+      },
+      {
+        "query": "How to save your Twitch streams on mobile"
+      },
+      {
+        "query": "How to upload Twitch VODs to YouTube"
+      },
+      {
+        "query": "How to view past Twitch streams on mobile"
+      }
+    ],
+    "credits": 1
+  }
+}

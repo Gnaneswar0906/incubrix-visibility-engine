@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating captions for video free. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, mention free options, workflow steps, maybe using YouTube automatic captions, etc. Provide citations with links. Ensure not violating policy. Provide citations in a format. Probably include bullet list. Provide workflow: upload video, generate captions, edit, export. Also mention open-source tools like Aegisub, FFmpeg, etc. Provide details on each tool's features, free tier, limitations.\n\nNeed to cite authoritative web sources. Use reputable sources like TechRadar, PCMag",
+  "raw_payload": {
+    "id": "chatcmpl-0e7e70ef-cfe5-4e22-a85f-89e9c4e63b63",
+    "object": "chat.completion",
+    "created": 1795374675,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating captions for video free. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, mention free options, workflow steps, maybe using YouTube automatic captions, etc. Provide citations with links. Ensure not violating policy. Provide citations in a format. Probably include bullet list. Provide workflow: upload video, generate captions, edit, export. Also mention open-source tools like Aegisub, FFmpeg, etc. Provide details on each tool's features, free tier, limitations.\n\nNeed to cite authoritative web sources. Use reputable sources like TechRadar, PCMag"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369191621,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005282818,
+      "completion_tokens": 150,
+      "completion_time": 0.311981795,
+      "total_tokens": 285,
+      "total_time": 0.317264613,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82apwyyee1vwy49cyn2a22j",
+      "seed": 147557698
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3525,
+  "cost_usd": 0.0002
+}

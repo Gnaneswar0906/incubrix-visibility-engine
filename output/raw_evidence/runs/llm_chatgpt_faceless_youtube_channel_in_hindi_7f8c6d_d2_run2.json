@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel in hindi",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac \u090f\u0915 \u201cFaceless\u201d (",
+  "raw_payload": {
+    "id": "chatcmpl-b0be4bbb-57aa-4b27-a612-80b640135496",
+    "object": "chat.completion",
+    "created": 1795377178,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac \u090f\u0915 \u201cFaceless\u201d (",
+          "reasoning": "The user wants recommendations for a faceless YouTube channel in Hindi. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond in Hindi (since they asked \"faceless youtube channel in hindi\") likely. Provide recommendations, workflow steps, tools for scriptwriting, voiceover, video editing, thumbnail creation, automation, SEO, etc. Cite sources with links.\n\nWe must comply with policy: no disallowed content. It's fine. Provide citations. Use markdown. Provide bullet points. Provide workflow.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.31649763,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005056509,
+      "completion_tokens": 150,
+      "completion_time": 0.315555854,
+      "total_tokens": 285,
+      "total_time": 0.320612363,
+      "completion_tokens_details": {
+        "reasoning_tokens": 133
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82d39kwe9gr4xqczyakanc0",
+      "seed": 1358568558
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2599,
+  "cost_usd": 0.0002
+}

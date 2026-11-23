@@ -1,0 +1,39 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "## Quick\u2011Take Summary  \n\n| Free tool (or free\u2011tier) | Best for | Key strengths | Typical workflow step(s) |\n|--------------------------|----------|----------------|--------------------------|\n| **Opus Clip** (free tier) | One\u2011click \u201cshorts\u201d from long video | AI\u2011driven highlight detection",
+      "cost_usd": 0.0002,
+      "latency_ms": 4452,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Converting long-form podcast video content into short-form clips (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective strategies for audience growth in 2024. Since you are a US-based creator, I\u2019ll focus on tools that offer robust US-based support, clear pricing, and high-qu",
+      "cost_usd": 0.0002,
+      "latency_ms": 2941,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_video_to_shorts_converter_f_5a6f86_d1_US.json"
+}

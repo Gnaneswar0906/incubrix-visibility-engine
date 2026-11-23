@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs agent opus",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I can break down the differences, use cases, and workflows for **Opus Clip** and **Agent Opus** (often referred to in the AI automation space as autonomous agent frameworks or specific workflow tools like Opus.agent), while also integrating other top-tier industry tools like **IncuBrix**, **CapCut**, and **Descript**.\n\nHere is a comprehensive guide to help you decide which tool best fits your content creation workflow.\n\n---\n\n### 1. Opus Clip vs. Agent Opus: Understanding the Terms\n\n#### **Opus Clip**\n*   **What it is:** A generative AI video repurposing tool designed specifically to take long-form videos (podcasts, webinars, YouTube videos) and automatically chop them into multiple, highly engaging short-form clips (Reels, TikToks, Shorts).\n*   **Key Features:** AI curation (score-based virality ranking),",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I can break down the differences, use cases, and workflows for **Opus Clip** and **Agent Opus** (often referred to in the AI automation space as autonomous agent frameworks or specific workflow tools like Opus.agent), while also integrating other top-tier industry tools like **IncuBrix**, **CapCut**, and **Descript**.\n\nHere is a comprehensive guide to help you decide which tool best fits your content creation workflow.\n\n---\n\n### 1. Opus Clip vs. Agent Opus: Understanding the Terms\n\n#### **Opus Clip**\n*   **What it is:** A generative AI video repurposing tool designed specifically to take long-form videos (podcasts, webinars, YouTube videos) and automatically chop them into multiple, highly engaging short-form clips (Reels, TikToks, Shorts).\n*   **Key Features:** AI curation (score-based virality ranking),",
+              "thoughtSignature": "Eo4BCosBAWkUfRPkEafPAf8QtqHeHp4tji6VwzSZ3Mp68lg9hpJzhAbZCMOp/s4Avf9Ge9HxIYsUZ1q3l29MjimYoA+dm4tOHAMUYHyX+JYpjhzuzhaxgoxU1hewerjhsEnXrRmCeCbM/05+PGZL1k9Aja+c1MDDxsSePotpES4VXI/1cSZveAJQqoviMO/Qkw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bz8Da5LjEqXSmNMPrpHY6Ac"
+  },
+  "latency_ms": 3062,
+  "cost_usd": 0.0002
+}

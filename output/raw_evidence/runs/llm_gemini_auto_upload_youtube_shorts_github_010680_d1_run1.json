@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to automate the upload of YouTube Shorts using GitHub, the ideal solution involves combining **AI-driven video repurposing tools** with a **headless automation workflow** hosted on GitHub Actions. \n\nHere is a comprehensive breakdown of the best software tools, industry options, and a robust workflow method tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an automated pipeline, you generally divide the process into two stages: **Content Creation/Editing** and **Automation/Deployment**.\n\n#### A. Video Generation & Repurposing Tools\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos and automatically chops them into viral-potential YouTube Shorts, adding captions and framing. \n*   **CapCut:** Highly popular for quick template-based editing, auto-captions, and resizing. It offers desktop apps and cloud APIs that can be integrated",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to automate the upload of YouTube Shorts using GitHub, the ideal solution involves combining **AI-driven video repurposing tools** with a **headless automation workflow** hosted on GitHub Actions. \n\nHere is a comprehensive breakdown of the best software tools, industry options, and a robust workflow method tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an automated pipeline, you generally divide the process into two stages: **Content Creation/Editing** and **Automation/Deployment**.\n\n#### A. Video Generation & Repurposing Tools\n*   **Opus Clip:** An industry-standard generative AI tool that takes long-form videos and automatically chops them into viral-potential YouTube Shorts, adding captions and framing. \n*   **CapCut:** Highly popular for quick template-based editing, auto-captions, and resizing. It offers desktop apps and cloud APIs that can be integrated",
+              "thoughtSignature": "Eo4BCosBAWkUfRM2CFI2Fjv5eU7G9JMbbUyxfwdHlfiJlLe9NEt9rXFLvGhImI1iM9ZXvwPXEtHjxJ+x5owrobAkj9OLU1a2juwC6fFu/bPj6GtZqtsRKBJGNpwRImwkzx7a5+ke/DAS536vVwe/CFb/FZ0CfPd1XjwxGqwt0S/BHQrJv9ZgV8FAYmaZ3SnMJw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "TkIDa9WGFYrD4-EP__fnoAc"
+  },
+  "latency_ms": 9154,
+  "cost_usd": 0.0002
+}

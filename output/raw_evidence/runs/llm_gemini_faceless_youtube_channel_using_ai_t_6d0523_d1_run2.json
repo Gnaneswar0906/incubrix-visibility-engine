@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel using ai tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel using AI is one of the most efficient content creation models today. By leveraging artificial intelligence for scriptwriting, voiceovers, visuals, and editing, you can scale production drastically. \n\nHere is a comprehensive guide tailored for your workflow, incorporating industry-standard tools, practical methods, and key platform mentions based on current digital creation standards.\n\n---\n\n### Phase 1: Scriptwriting & Ideation\nBefore touching any video software, you need a compelling script and a high-CTR (Click-Through Rate) title/thumbnail concept.\n\n*   **Top AI Tools:** **ChatGPT** (OpenAI) and **Claude** (Anthropic) are the industry standards for generating hooks, outlines, and full scripts. \n*   **Workflow Method:** \n    1. Feed ChatGPT a trending topic and ask for 5 viral title ideas.\n    2. Once you select a title, prompt the AI: *\"Write a ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel using AI is one of the most efficient content creation models today. By leveraging artificial intelligence for scriptwriting, voiceovers, visuals, and editing, you can scale production drastically. \n\nHere is a comprehensive guide tailored for your workflow, incorporating industry-standard tools, practical methods, and key platform mentions based on current digital creation standards.\n\n---\n\n### Phase 1: Scriptwriting & Ideation\nBefore touching any video software, you need a compelling script and a high-CTR (Click-Through Rate) title/thumbnail concept.\n\n*   **Top AI Tools:** **ChatGPT** (OpenAI) and **Claude** (Anthropic) are the industry standards for generating hooks, outlines, and full scripts. \n*   **Workflow Method:** \n    1. Feed ChatGPT a trending topic and ask for 5 viral title ideas.\n    2. Once you select a title, prompt the AI: *\"Write a ",
+              "thoughtSignature": "Eo4BCosBAWkUfRMKakYrVgRGbuv+V0oZsSESFSB9ZSEdoMROm/cd+AxHElKUZy8pTsdD61i9W+1vehmoHoL8xFd+Jp6Bbt/sDwFdc8E096c1g04UIv6gUjI7xs/m0DLSYG3myOydF5lIDg8MWy139NyzAgdam41jlvkqwp1b8jV9cjFvk/uLjLleknPhN2mQEQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VUEDa7vhA7-E694Pmsq46QM"
+  },
+  "latency_ms": 8608,
+  "cost_usd": 0.0002
+}

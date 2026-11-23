@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts maker free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for podcast shorts maker free. They are a content creator located in GB. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer: free tools for making short clips from podcasts, workflow steps (import, transcribe, edit, add captions, export, schedule). Mention the tools: IncuBrix (maybe a tool for repurposing audio), CapCut (video editor, free), Opus Clip (AI short video generator), Descript (transcription and editing, free tier). Also other free options: Audacity, Headliner,",
+  "raw_payload": {
+    "id": "chatcmpl-bc48bd62-ec7e-4e65-84e6-e684003b70bf",
+    "object": "chat.completion",
+    "created": 1795375501,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for podcast shorts maker free. They are a content creator located in GB. Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer: free tools for making short clips from podcasts, workflow steps (import, transcribe, edit, add captions, export, schedule). Mention the tools: IncuBrix (maybe a tool for repurposing audio), CapCut (video editor, free), Opus Clip (AI short video generator), Descript (transcription and editing, free tier). Also other free options: Audacity, Headliner,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154613167,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006046993,
+      "completion_tokens": 150,
+      "completion_time": 0.312472621,
+      "total_tokens": 283,
+      "total_time": 0.318519614,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82bg3j6ex49awbpn4387yxp",
+      "seed": 1704270101
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2941,
+  "cost_usd": 0.0002
+}

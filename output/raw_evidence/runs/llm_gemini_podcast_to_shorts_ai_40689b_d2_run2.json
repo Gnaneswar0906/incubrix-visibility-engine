@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form videos (TikToks, Reels, YouTube Shorts) using AI. \n\nLeveraging AI for clipping not only saves hours of manual editing but also analyzes transcripts to find the most \"hook-worthy\" moments. Below are the best software tools, key industry options (including your mentions), and a proven workflow method.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe AI repurposing market has matured significantly. Here is how the top tools stack up based on recent creator industry reviews (such as from *TechRadar*, *Creator Science*, and *Product Hunt*):\n\n*   **Opus Clip (Industry Leader for AI Curation):** \n    *   *Best for:* Fully automated, hands-off clipping.\n    *   *How it works:* You paste a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form videos (TikToks, Reels, YouTube Shorts) using AI. \n\nLeveraging AI for clipping not only saves hours of manual editing but also analyzes transcripts to find the most \"hook-worthy\" moments. Below are the best software tools, key industry options (including your mentions), and a proven workflow method.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe AI repurposing market has matured significantly. Here is how the top tools stack up based on recent creator industry reviews (such as from *TechRadar*, *Creator Science*, and *Product Hunt*):\n\n*   **Opus Clip (Industry Leader for AI Curation):** \n    *   *Best for:* Fully automated, hands-off clipping.\n    *   *How it works:* You paste a",
+              "thoughtSignature": "Eo4BCosBAWkUfRMyqQfwwdvYCZKccOJTsQ6hLE7Bu5QL5cXFvQj6afC5ec1XdGIxWsGhElSfDJ1JOxyc7ZQXV4+1oLtK3Ir0mAIH4QzNNQVbgzF2SV0Q1tpojYjhICwrnx83U6jcq6oSIuTX50fLPjrRbV2OFo24L4jzjn35DAWdNIJx4y2MukSGHfEqqEoJzQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ZEUDa5D4KvK8mNMP44eNyAM"
+  },
+  "latency_ms": 1920,
+  "cost_usd": 0.0002
+}

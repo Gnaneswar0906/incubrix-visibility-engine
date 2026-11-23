@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload twitch streams to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in India looking to scale your reach by repurposing long-form Twitch streams onto YouTube, automating this workflow is a game-changer. Given the time zone and regional differences, setting up an efficient, hands-off pipeline saves hours of manual downloading",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India looking to scale your reach by repurposing long-form Twitch streams onto YouTube, automating this workflow is a game-changer. Given the time zone and regional differences, setting up an efficient, hands-off pipeline saves hours of manual downloading"
+            },
+            {
+              "text": ", editing, and uploading. \n\nHere is a comprehensive guide to the best software tools, automated workflows, and industry-standard AI tools tailored for your needs.\n\n---\n\n### Phase 1: Automated Twitch-to-YouTube Transfer (The Core Pipeline)\n\nBefore editing clips, you need your full Twitch VOD (Video on Demand) or highlights moved to YouTube automatically.\n\n#### 1. Official Twitch-to-YouTube Export (Free & Native)\n*   **How it works:** Twitch allows you to directly export your past broadcasts to YouTube without downloading them to your local PC.\n*   **Workflow:** Go to your Twitch Creator Dashboard > Settings > Stream > turn on \"Store past broadcasts.\" Then, go to Content > Video Producer, click the three dots next to your stream, and select **Export**. \n*   **Pros:** 100% free, no bandwidth used on your local internet connection.\n*   **Cons:** Requires manual triggering",
+              "thoughtSignature": "Eo4BCosBAWkUfRM9Vo+kF43mEsAHJ3yK+59VFvy3ynWDb4kQkc/EJza2ZCAkHDehJDqUzsBhtYHI1CjBugqjrQeP0OfAmvB5TgSpn5rZfj4i+SDXBFwsFLQ9EGPdOMptApVZe/Khf+2ElNK+2CUt5/5y+I2bHRdqzw9y7NkDhQasLyPTQaiDeFP9WGsJCg6LhQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 253,
+      "totalTokenCount": 319,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "tUADa_v_CIm81_oP-c_aqQo"
+  },
+  "latency_ms": 3518,
+  "cost_usd": 0.0002
+}

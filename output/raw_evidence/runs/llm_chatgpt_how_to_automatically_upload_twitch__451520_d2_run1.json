@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically upload twitch vods to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in an excellent position to leverage automation. Twitch has a massive audience, but YouTube offers long-term SEO benefits and ad revenue potential. Manually downloading, editing, and uploading VODs is time-consuming, so automating this workflow is key to scaling your channel.\n\nHere\u2019s a comprehensive guide to **automatically uploading Twitch VODs to YouTube**, including the best software tools, workflow methods, and industry options.\n\n---\n\n### \ud83d\ude80 The Core Workflow: 3 Proven Methods\n\n#### **Method 1: Full Automation via API & Services (Best for \"Set & Forget\")**\nThis method uses services that automatically pull your latest Twitch VOD, trim it,",
+  "raw_payload": {
+    "id": "chatcmpl-f49a1320-5909-46b4-bd20-69b917a79d7c",
+    "object": "chat.completion",
+    "created": 1795377068,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in an excellent position to leverage automation. Twitch has a massive audience, but YouTube offers long-term SEO benefits and ad revenue potential. Manually downloading, editing, and uploading VODs is time-consuming, so automating this workflow is key to scaling your channel.\n\nHere\u2019s a comprehensive guide to **automatically uploading Twitch VODs to YouTube**, including the best software tools, workflow methods, and industry options.\n\n---\n\n### \ud83d\ude80 The Core Workflow: 3 Proven Methods\n\n#### **Method 1: Full Automation via API & Services (Best for \"Set & Forget\")**\nThis method uses services that automatically pull your latest Twitch VOD, trim it,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047676681,
+      "prompt_tokens": 81,
+      "prompt_time": 0.005489139,
+      "completion_tokens": 150,
+      "completion_time": 0.28950292,
+      "total_tokens": 231,
+      "total_time": 0.294992059
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82czyg4ec88exhk58be4x44",
+      "seed": 1378732197
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1415,
+  "cost_usd": 0.0002
+}

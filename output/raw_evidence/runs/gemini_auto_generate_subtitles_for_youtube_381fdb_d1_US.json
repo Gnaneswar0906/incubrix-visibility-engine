@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that automated captioning is no longer just an accessibility feature\u2014it is a critical driver of audience retention, search engine optimization (SEO), and cross-platform distribution (like YouTube Shorts). \n\nHere is a comprehensiv",
+      "cost_usd": 0.0002,
+      "latency_ms": 7931,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_for_youtube_381fdb_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflow methods, and industry-standard options for auto-generating YouTube subtitles. \n\nSubtitles (or closed captions) are no longer optional on YouTube; they are vital for audience retention, accessibility, a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2994,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_for_youtube_381fdb_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_subtitles_for_youtube_381fdb_d1_US.json"
+}

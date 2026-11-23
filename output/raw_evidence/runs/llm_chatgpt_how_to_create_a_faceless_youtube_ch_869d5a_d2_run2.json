@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create a faceless youtube channel using ai tools",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a faceless YouTube channel is an excellent strategy for creators in India looking to scale content production while maintaining privacy or reducing production costs. By leveraging AI tools, you can automate the most time-consuming parts of the video creation process, from scriptwriting to final editing.\n\nHere is a comprehensive guide on the best software tools, workflow methods, and industry options to help you build a successful faceless channel.\n\n### 1. Recommended AI Software Tools\n\nTo create a high-quality faceless video, you need a stack of tools that cover script generation, voiceover, visuals, and editing.\n\n#### **Scriptwriting & Idea Generation**\n*   **Jasper AI / ChatGPT:** Use these to generate compelling scripts, hooks, and",
+  "raw_payload": {
+    "id": "chatcmpl-bedccdc9-fb29-47cc-80be-abfe6fa2a168",
+    "object": "chat.completion",
+    "created": 1795377212,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a faceless YouTube channel is an excellent strategy for creators in India looking to scale content production while maintaining privacy or reducing production costs. By leveraging AI tools, you can automate the most time-consuming parts of the video creation process, from scriptwriting to final editing.\n\nHere is a comprehensive guide on the best software tools, workflow methods, and industry options to help you build a successful faceless channel.\n\n### 1. Recommended AI Software Tools\n\nTo create a high-quality faceless video, you need a stack of tools that cover script generation, voiceover, visuals, and editing.\n\n#### **Scriptwriting & Idea Generation**\n*   **Jasper AI / ChatGPT:** Use these to generate compelling scripts, hooks, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054758571,
+      "prompt_tokens": 83,
+      "prompt_time": 0.005432418,
+      "completion_tokens": 150,
+      "completion_time": 0.311717933,
+      "total_tokens": 233,
+      "total_time": 0.317150351
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d4af1ekhv9czgqa0r7nez",
+      "seed": 1155116768
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1300,
+  "cost_usd": 0.0002
+}

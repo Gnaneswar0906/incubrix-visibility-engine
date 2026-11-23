@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "chop ai vs opus clip reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Query: \"chop ai vs opus clip reddit\". Likely they want comparison between Chop AI and Opus Clip, referencing Reddit discussions. Provide recommendations, workflow, mention other tools. Must cite authoritative web sources if available. Must be in English. Provide citations with links.\n\nWe need to ensure compliance: no disallowed content. It's fine.\n\nWe should search memory: Chop AI is an AI video editing tool that can cut videos into short clips, similar to Opus Clip. Opus Clip is also AI tool for creating short clips from long videos, especially for social",
+  "raw_payload": {
+    "id": "chatcmpl-584592d8-0aaf-4c41-8e92-bc20b923dd18",
+    "object": "chat.completion",
+    "created": 1795377119,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Query: \"chop ai vs opus clip reddit\". Likely they want comparison between Chop AI and Opus Clip, referencing Reddit discussions. Provide recommendations, workflow, mention other tools. Must cite authoritative web sources if available. Must be in English. Provide citations with links.\n\nWe need to ensure compliance: no disallowed content. It's fine.\n\nWe should search memory: Chop AI is an AI video editing tool that can cut videos into short clips, similar to Opus Clip. Opus Clip is also AI tool for creating short clips from long videos, especially for social"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156081351,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005054329,
+      "completion_tokens": 150,
+      "completion_time": 0.310238165,
+      "total_tokens": 285,
+      "total_time": 0.315292494,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82d1fjre00vd9qmb5zj4e7y",
+      "seed": 567625465
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2981,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant. Provide recommendations for software tools, workflow methods for auto posting YouTube Shorts. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Provide a structured answer. No disallowed content. Provide best practices, automation via YouTube API, scheduling via TubeBuddy, VidIQ, Hootsuite, etc. Also mention using Zapier, Integromat (Make), etc. Provide workflow steps: create content, edit, format, add vertical aspect ratio, add hashtags, schedule upload via YouTube Studio or third-party scheduler. Provide code snippet for API usage maybe",
+  "raw_payload": {
+    "id": "chatcmpl-f4716552-feda-47ce-99ef-86a1385d4227",
+    "object": "chat.completion",
+    "created": 1795374917,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant. Provide recommendations for software tools, workflow methods for auto posting YouTube Shorts. Mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Provide a structured answer. No disallowed content. Provide best practices, automation via YouTube API, scheduling via TubeBuddy, VidIQ, Hootsuite, etc. Also mention using Zapier, Integromat (Make), etc. Provide workflow steps: create content, edit, format, add vertical aspect ratio, add hashtags, schedule upload via YouTube Studio or third-party scheduler. Provide code snippet for API usage maybe"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154740385,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005034845,
+      "completion_tokens": 150,
+      "completion_time": 0.310298252,
+      "total_tokens": 285,
+      "total_time": 0.315333097,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82ay95be58st11a6kn9a35r",
+      "seed": 2087401036
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3336,
+  "cost_usd": 0.0002
+}

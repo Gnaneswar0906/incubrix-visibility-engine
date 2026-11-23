@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, scaling your YouTube Shorts production is crucial for growth. Automating or semi-automating your workflow can save significant time while maintaining quality.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to help you aut",
+      "cost_usd": 0.0002,
+      "latency_ms": 1649,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_shorts_cc4c23_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator based in the US, automating your YouTube Shorts workflow is critical for scaling output without sacrificing quality. The \"best\" stack depends on whether you want to repurpose long-form content or create fully independent short-form videos.\n\nHere\u2019s a curated recommendation of top",
+      "cost_usd": 0.0002,
+      "latency_ms": 1730,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_shorts_cc4c23_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_shorts_cc4c23_d1_US.json"
+}

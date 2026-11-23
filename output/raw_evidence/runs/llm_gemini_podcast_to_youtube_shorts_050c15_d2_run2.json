@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an"
+            },
+            {
+              "text": " AI assistant helping a content creator in the US, here is a comprehensive guide on converting podcasts into viral YouTube Shorts, Reels, and TikToks. \n\nRepurposing long-form podcast audio and video into bite-sized clips is one of the most effective audience-growth strategies today. Below is a breakdown of the best AI tools, industry standards, and a proven workflow to streamline your process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven video clipping tools has exploded. Here is how the top options stack up, including the ones you mentioned:\n\n*   **Opus Clip (Industry Standard for AI Curation):** Opus Clip uses generative AI to analyze a long-form podcast, score the clips based on \"viral potential,\" and automatically extract them with hooks, captions, and reframing. According to reviews on creator economy platforms like *Creator Wizard* and *Tubefilter*, it is currently one of the fastest tools",
+              "thoughtSignature": "Eo4BCosBAWkUfRNvPGwEjf3Hj21VM+uZo4ZIiBKVQxJD0Hro6s3aG9rNoSdB2YFYKAM1v3ElHiEtMERU+IUT2TLfD/rthitrX2ZK0bFq806H10OP9dZXVU7zLH+cz03Ldjalx6UR9v8LgJuuGpaAK8LbdpBJ9ec7qq/ppnspVsT37rkCK6QF2OXrD2tI5YHKAQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hUUDa7fSDuz7v_gPjMOgwQ8"
+  },
+  "latency_ms": 10806,
+  "cost_usd": 0.0002
+}

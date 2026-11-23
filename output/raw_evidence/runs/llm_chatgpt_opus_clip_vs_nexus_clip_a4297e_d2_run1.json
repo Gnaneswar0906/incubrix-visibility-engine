@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Nexus\u202fClip** | Verdict for most U.S. creators |\n|---------|---------------",
+  "raw_payload": {
+    "id": "chatcmpl-7da6c45e-ed53-4a62-978a-017679ffae4e",
+    "object": "chat.completion",
+    "created": 1795376759,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Take\u2011away  \n\n| Feature | **Opus\u202fClip** | **Nexus\u202fClip** | Verdict for most U.S. creators |\n|---------|---------------",
+          "reasoning": "We need to answer query: \"opus clip vs nexus clip\" presumably comparing two video editing/AI tools. Also recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be for a content creator in US. Provide recommendation. Should be thorough, include workflow suggestions, pros/cons, pricing, features, integration, etc. Cite sources with URLs. Provide citations. Ensure not violating policy. Provide info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368892463,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005887146,
+      "completion_tokens": 150,
+      "completion_time": 0.310637127,
+      "total_tokens": 284,
+      "total_time": 0.316524273,
+      "completion_tokens_details": {
+        "reasoning_tokens": 107
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82cpg9new49y197ktc8e3ac",
+      "seed": 965463472
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2738,
+  "cost_usd": 0.0002
+}

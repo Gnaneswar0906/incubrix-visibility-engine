@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Long Podcast into Snack\u2011Size \u201cShorts\u201d \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus the **best AI\u2011powered tools** (including",
+  "raw_payload": {
+    "id": "chatcmpl-2fa8840e-a2f2-4ae0-96dc-cdc0969e2f1b",
+    "object": "chat.completion",
+    "created": 1795374522,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Long Podcast into Snack\u2011Size \u201cShorts\u201d \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow** plus the **best AI\u2011powered tools** (including",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Must be US content creator. Provide a thorough answer. Should include tools for turning long podcasts into short clips (shorts). Provide workflow steps: transcript, editing, AI summarization, thumbnail, SEO, distribution. Cite sources with links. Ensure compliance. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154307875,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005993975,
+      "completion_tokens": 150,
+      "completion_time": 0.315447345,
+      "total_tokens": 284,
+      "total_time": 0.32144132,
+      "completion_tokens_details": {
+        "reasoning_tokens": 96
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82aj7pme01r4jt1bsxkb8dg",
+      "seed": 1970693932
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1840,
+  "cost_usd": 0.0002
+}

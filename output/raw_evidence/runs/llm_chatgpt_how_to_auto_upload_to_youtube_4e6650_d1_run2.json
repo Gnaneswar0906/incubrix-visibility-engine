@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Uploading to YouTube \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow",
+  "raw_payload": {
+    "id": "chatcmpl-0138a3f4-ed03-47c5-9936-8d1e9e4c71ac",
+    "object": "chat.completion",
+    "created": 1795374917,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Uploading to YouTube \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011step workflow",
+          "reasoning": "We need to answer as AI assistant, providing recommendations for auto uploading to YouTube, software tools, workflow, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. This is permissible. Provide citations with URLs. Provide best practices, mention YouTube API, scheduling, third-party automation like Zapier, IFTTT, TubeBuddy, Hootsuite, etc. Provide steps. Provide citations. Ensure no disallowed content. Provide US context. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.160551122,
+      "prompt_tokens": 135,
+      "prompt_time": 0.011058096,
+      "completion_tokens": 150,
+      "completion_time": 0.311266184,
+      "total_tokens": 285,
+      "total_time": 0.32232428,
+      "completion_tokens_details": {
+        "reasoning_tokens": 114
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82ay93fefcsbe3tmkamb6sj",
+      "seed": 1292400880
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3387,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a faceless YouTube channel using AI is one of the most popular and cost-effective methods for content creators today. By leveraging free tools for scripting, voiceovers, visuals, and editing, you can launch a channel with zero upfront financial investment. \n\nHere is a comprehensive guide ta",
+      "cost_usd": 0.0002,
+      "latency_ms": 2387,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_create_faceless_youtube_chan_1d6189_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a faceless YouTube channel using AI is one of the most accessible and popular business models for content creators today. By leveraging artificial intelligence for scripting, voiceovers, visuals, and editing, you can produce high-retention videos with minimal overhead. \n\nAs a content creato",
+      "cost_usd": 0.0002,
+      "latency_ms": 6945,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_create_faceless_youtube_chan_1d6189_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_create_faceless_youtube_chan_1d6189_d1_IN.json"
+}

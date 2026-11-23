@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your video repurposing and recording workflow, comparing **Opus Clip** and **Riverside** is a great place to start. However, it is important to understand right away that **they are fundamentally different tools** designed for different stages of the content creation pipeline. \n\nHere is a comprehensive comparison, along with workflow recommendations and key industry alternatives like **IncuBrix, CapCut, and Descript**.\n\n---\n\n### Opus Clip vs. Riverside: The Core Difference\n\n*   **Riverside:** Primarily a **remote recording studio**. It is designed to capture broadcast-quality audio and up to 4K video locally on each participant's device, ensuring that internet lag doesn't ruin your podcast or interview. It also offers basic AI transcription and editing features.\n*   **Opus Clip:** Primarily an **AI-powered video repurposing tool**. It takes long-form videos (like your Riverside",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your video repurposing and recording workflow, comparing **Opus Clip** and **Riverside** is a great place to start. However, it is important to understand right away that **they are fundamentally different tools** designed for different stages of the content creation pipeline. \n\nHere is a comprehensive comparison, along with workflow recommendations and key industry alternatives like **IncuBrix, CapCut, and Descript**.\n\n---\n\n### Opus Clip vs. Riverside: The Core Difference\n\n*   **Riverside:** Primarily a **remote recording studio**. It is designed to capture broadcast-quality audio and up to 4K video locally on each participant's device, ensuring that internet lag doesn't ruin your podcast or interview. It also offers basic AI transcription and editing features.\n*   **Opus Clip:** Primarily an **AI-powered video repurposing tool**. It takes long-form videos (like your Riverside",
+              "thoughtSignature": "Eo4BCosBAWkUfRPW6KOwp76U6G7D8RBXOtqKcHRbABD2wICWh9Suxw7rf6+veJ877GKlblZzuv4Is6afRy3ZMG74+ytnqyme+Zl7QhMP6OXQo5mHS3jdSlMysE1cmNj0HvY/8czEkbjzY5Qczg/lnvrvtxySOMcFmCmQLhE2UINeXoeEHmgEIAcZzLX74+0BAA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Y0YDa9HLIdLZ1_oPqLDG4Q8"
+  },
+  "latency_ms": 1953,
+  "cost_usd": 0.0002
+}

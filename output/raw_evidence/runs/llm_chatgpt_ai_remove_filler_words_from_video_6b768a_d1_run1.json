@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai remove filler words from video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you\u2019re likely looking for efficient ways to streamline your post-production process. Removing filler words (like \"um,\" \"uh,\" \"like,\" and \"you know\") is one of the most common pain points in video editing.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options specifically tailored for AI-driven filler word removal.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (Best Overall for AI Editing)\nDescript is widely regarded as the gold standard for AI-assisted video editing. It transcribes your video and allows you to edit the text to edit the video.\n- **Key Feature:** Has a dedicated **\"",
+  "raw_payload": {
+    "id": "chatcmpl-c4163322-9ba9-435c-81d3-9f4d4a4e5196",
+    "object": "chat.completion",
+    "created": 1795375556,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you\u2019re likely looking for efficient ways to streamline your post-production process. Removing filler words (like \"um,\" \"uh,\" \"like,\" and \"you know\") is one of the most common pain points in video editing.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options specifically tailored for AI-driven filler word removal.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (Best Overall for AI Editing)\nDescript is widely regarded as the gold standard for AI-assisted video editing. It transcribes your video and allows you to edit the text to edit the video.\n- **Key Feature:** Has a dedicated **\""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047840201,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005536009,
+      "completion_tokens": 150,
+      "completion_time": 0.285519195,
+      "total_tokens": 228,
+      "total_time": 0.291055204
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bhst1es39brbw1kds1rbt",
+      "seed": 2081905911
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1650,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'youtube automation faceless youtube channel using ai free download' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 365
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'youtube automation faceless youtube channel using ai free download' in GB, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 384
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_youtube_automation_faceless_youtube_8eea31_d1_GB.json"
+}

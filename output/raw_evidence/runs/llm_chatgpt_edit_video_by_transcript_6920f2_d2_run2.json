@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant, providing recommendations for editing video by transcript, software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe and comply with policy. Provide citations with URLs. Provide recommendations for US content creator. Provide workflow steps. Provide brief description of each tool, pros/cons, pricing. Provide other tools like Adobe Premiere Pro with speech-to-text, Final Cut Pro, DaVinci Resolve, Veed.io, Otter.ai, etc. Provide workflow: transcript generation, import to editing, syncing, trimming, captions, export.\n\nWe need to cite sources: likely from official sites, Tech",
+  "raw_payload": {
+    "id": "chatcmpl-0f5991fa-7040-47b5-b375-142ee288db6f",
+    "object": "chat.completion",
+    "created": 1795376527,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant, providing recommendations for editing video by transcript, software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be safe and comply with policy. Provide citations with URLs. Provide recommendations for US content creator. Provide workflow steps. Provide brief description of each tool, pros/cons, pricing. Provide other tools like Adobe Premiere Pro with speech-to-text, Final Cut Pro, DaVinci Resolve, Veed.io, Otter.ai, etc. Provide workflow: transcript generation, import to editing, syncing, trimming, captions, export.\n\nWe need to cite sources: likely from official sites, Tech"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156884289,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005290101,
+      "completion_tokens": 150,
+      "completion_time": 0.309251287,
+      "total_tokens": 283,
+      "total_time": 0.314541388,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82cfdxre7h87fac575p4y48",
+      "seed": 1492027435
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2237,
+  "cost_usd": 0.0002
+}

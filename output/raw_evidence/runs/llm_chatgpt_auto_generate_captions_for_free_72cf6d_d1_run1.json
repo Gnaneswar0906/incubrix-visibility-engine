@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you have access to some of the most advanced and cost-effective AI tools available for video production. \"Auto-generating captions for free\" is a common need, but it\u2019s important to clarify that most tools offer **free tiers with limitations** (e.g., watermarks, resolution caps, or monthly credit limits) rather than unlimited free usage.\n\nBelow are the best software tools, workflow methods, and key industry options for auto-generating captions, tailored for a US-based creator.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Free (or Freemium) Auto-Captions\n\n#### 1. **CapCut** (Best Overall Free Option)\n- **Why it\u2019s top",
+  "raw_payload": {
+    "id": "chatcmpl-709fdf13-f5f9-4b32-97e0-a810ef78563c",
+    "object": "chat.completion",
+    "created": 1795374693,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you have access to some of the most advanced and cost-effective AI tools available for video production. \"Auto-generating captions for free\" is a common need, but it\u2019s important to clarify that most tools offer **free tiers with limitations** (e.g., watermarks, resolution caps, or monthly credit limits) rather than unlimited free usage.\n\nBelow are the best software tools, workflow methods, and key industry options for auto-generating captions, tailored for a US-based creator.\n\n---\n\n### \ud83c\udfc6 Top Recommended Tools for Free (or Freemium) Auto-Captions\n\n#### 1. **CapCut** (Best Overall Free Option)\n- **Why it\u2019s top"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047584728,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005267341,
+      "completion_tokens": 150,
+      "completion_time": 0.285975589,
+      "total_tokens": 227,
+      "total_time": 0.29124293
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82aqeq1e81r7pm7asmy2dzs",
+      "seed": 211555798
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1838,
+  "cost_usd": 0.0002
+}

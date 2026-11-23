@@ -1,0 +1,125 @@
+{
+  "query": "how to get free podcasts",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://pocketcasts.com/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to get free podcasts",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Pocket Casts: Listen to podcasts with the best free podcasting app - built ...",
+        "link": "https://pocketcasts.com/",
+        "displayedLink": "https://pocketcasts.com",
+        "snippet": "The world's most powerful podcast platform, now available for free. Easy to use. Our podcast player provides next-level listening, search and discovery tools.",
+        "position": 1
+      },
+      {
+        "title": "Apple Podcasts",
+        "link": "https://www.apple.com/apple-podcasts/",
+        "displayedLink": "https://www.apple.com \u203a apple-podcasts",
+        "snippet": "Apple Podcasts offers millions of shows completely free. And some publishers offer premium shows, episodes, and channels that can be purchased through a monthly ...",
+        "position": 2
+      },
+      {
+        "title": "Best place I can listen to free podcasts?",
+        "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a best_place_i_can_listen_to_...",
+        "snippet": "Where is the best place I can listen to free podcasts? I'll be taking a roadtrip soon and want to listen to something other than CD's and radio. I have ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdqhk97/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdr12jv/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdsr4lu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdr8uk2/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdrc3zu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdu0mnq/"
+          },
+          {
+            "title": "How can I download free podcasts please?r/podcasts\u00b710+ comments\u00b74mo",
+            "link": "https://www.reddit.com/r/podcasts/comments/1uwdosv/how_can_i_download_free_podcasts_please/"
+          },
+          {
+            "title": "What's the best free site to set up my podcast on so it reaches all ...r/podcasting\u00b740+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/podcasting/comments/1jp1jml/whats_the_best_free_site_to_set_up_my_podcast_on/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "GetPodcast | Listen to Podcasts for free",
+        "link": "https://getpodcast.com/",
+        "displayedLink": "https://getpodcast.com",
+        "snippet": "Get the whole world of podcasts with the free GetPodcast app. Subscribe to your favorite podcasts, listen to episodes offline and get thrilling recommendations.",
+        "position": 4
+      },
+      {
+        "title": "Podbean: Free Podcast hosting and Monetizing Platform",
+        "link": "https://www.podbean.com/",
+        "displayedLink": "https://www.podbean.com",
+        "snippet": "Podbean podcast hosting and monetizing platform helps you start a podcast. All the tools you need to create, promote and monetize your podcast.",
+        "position": 5
+      },
+      {
+        "title": "AntennaPod \u2013 The Open Podcast Player",
+        "link": "https://antennapod.org/",
+        "displayedLink": "https://antennapod.org",
+        "snippet": "With AntennaPod, you can download episodes and listen anywhere. You can even select podcasts that should be downloaded automatically.",
+        "position": 6
+      },
+      {
+        "title": "How to Listen to Free Podcasts - Thrive Blogging Community",
+        "link": "https://thrivetogether.blog/how-to-listen-to-free-podcasts/",
+        "displayedLink": "https://thrivetogether.blog \u203a how-to-listen-to-free-podcasts",
+        "snippet": "How to Listen to Free Podcasts \u00b7 1. Spotify \u00b7 2. iTunes \u00b7 3. Stitcher.",
+        "position": 7
+      },
+      {
+        "title": "Explore and Listen to Podcasts",
+        "link": "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J",
+        "displayedLink": "https://open.spotify.com \u203a genre \u203a 0JQ5DArNBzkmxXHCqFLx2J",
+        "snippet": "Explore and listen to podcasts on Spotify. Discover popular shows, curated selections and fresh recommendations, all in one place.",
+        "position": 8
+      },
+      {
+        "title": "Listen to the Best Podcasts & Shows Online, Free",
+        "link": "https://www.iheart.com/podcast/",
+        "displayedLink": "https://www.iheart.com \u203a podcast",
+        "snippet": "Listen to the latest episodes from top podcasts. Get news, sports & lifestyle info from your favorite personalities for free!",
+        "position": 9
+      },
+      {
+        "title": "Buzzsprout: Free Podcast Hosting",
+        "link": "https://www.buzzsprout.com/",
+        "displayedLink": "https://www.buzzsprout.com",
+        "snippet": "Start podcasting today with free podcast hosting from Buzzsprout, the easiest podcasting software for hosting, promoting, and tracking your podcast.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

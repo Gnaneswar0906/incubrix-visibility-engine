@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editor free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US, I have structured this guide to help you find the best free text-based (AI-powered) video editor, along with professional workflow strategies and a breakdown of current industry leaders.\n\nText-based video editing\u2014often called \"transcript-based editing\"\u2014allows you to edit video by deleting, rearranging, and modifying the transcribed text, which automatically edits the underlying video timeline. This is a massive time-saver for YouTubers, podcasters, and short-form creators.\n\n---\n\n### Part 1: Top Free Text-Based Video Editors (Industry Options)\n\nWhile many tools are moving behind paywalls, several leading platforms offer robust free tiers or generous trial periods.\n\n#### 1. Descript (The Industry Pioneer)\n*   **Overview:** Descript is widely considered the gold standard for text-based editing, podcasting, and screen recording. It treats audio and video editing like a Word",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US, I have structured this guide to help you find the best free text-based (AI-powered) video editor, along with professional workflow strategies and a breakdown of current industry leaders.\n\nText-based video editing\u2014often called \"transcript-based editing\"\u2014allows you to edit video by deleting, rearranging, and modifying the transcribed text, which automatically edits the underlying video timeline. This is a massive time-saver for YouTubers, podcasters, and short-form creators.\n\n---\n\n### Part 1: Top Free Text-Based Video Editors (Industry Options)\n\nWhile many tools are moving behind paywalls, several leading platforms offer robust free tiers or generous trial periods.\n\n#### 1. Descript (The Industry Pioneer)\n*   **Overview:** Descript is widely considered the gold standard for text-based editing, podcasting, and screen recording. It treats audio and video editing like a Word",
+              "thoughtSignature": "Eo4BCosBAWkUfRPjl2q26GSbLP0f8y7CzJ8CulrNSVnMsbIwNCoFESSlVyONYPix+miO4iEQOjY1L0mfFTU1ObtVnpu4xyvYMQw9K8RofBRXClPtjWea+179Uf7Fu/qZdPucJgTYwqdLgrYxsf4DsyugBAHvcmFiRTSKCuEkqKR1FlS3/TaahwbkzAh/wsu1yg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Lz4Da5ioIoSC3LUPtum5-Q4"
+  },
+  "latency_ms": 3964,
+  "cost_usd": 0.0002
+}

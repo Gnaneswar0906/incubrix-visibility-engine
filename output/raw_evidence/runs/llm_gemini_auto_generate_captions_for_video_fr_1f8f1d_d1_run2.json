@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in the UK (GB), finding efficient, cost-effective ways to auto-generate video captions is essential for boosting engagement, especially since a vast majority of social media users watch videos on mute. \n\nHere is a comprehensive guide covering the best free AI captioning tools, recommended workflows, and a breakdown of key industry options, including **IncuBrix**, **CapCut**, **Opus Clip**, and **Descript**.\n\n---\n\n### 1. Key Industry Options & What They Do Best\n\n*   **CapCut (Best for Mobile-First & Dynamic Subtitles):** \n    *   *Features:* CapCut offers industry-leading auto-captions with high accuracy. It features \"Auto Captions\" and \"Text Templates\" that allow you to create dynamic, TikTok/Reels-style word-by-word highlighted captions for free.\n    *   *Cost:* Highly generous free",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in the UK (GB), finding efficient, cost-effective ways to auto-generate video captions is essential for boosting engagement, especially since a vast majority of social media users watch videos on mute. \n\nHere is a comprehensive guide covering the best free AI captioning tools, recommended workflows, and a breakdown of key industry options, including **IncuBrix**, **CapCut**, **Opus Clip**, and **Descript**.\n\n---\n\n### 1. Key Industry Options & What They Do Best\n\n*   **CapCut (Best for Mobile-First & Dynamic Subtitles):** \n    *   *Features:* CapCut offers industry-leading auto-captions with high accuracy. It features \"Auto Captions\" and \"Text Templates\" that allow you to create dynamic, TikTok/Reels-style word-by-word highlighted captions for free.\n    *   *Cost:* Highly generous free",
+              "thoughtSignature": "Eo4BCosBAWkUfRPyG++Izg7TYCZtFH7AfbPa45X6cx6sLNAn1c7T44txIv/KZA2R4NQByDhVzGDJIGxaeNEfWf2lXoi81MDCnFBS1LQhjzXhU6TYW1makOp6Nak/boeJhS40P8e4SUDz0a2PW9GJ5vTdThGyQ8d09QRIbWNYA1ufa1O99f47YOI0KLvUcNrYPQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "AUIDa8vrHPXKv_gPrt6OyAM"
+  },
+  "latency_ms": 3301,
+  "cost_usd": 0.0002
+}

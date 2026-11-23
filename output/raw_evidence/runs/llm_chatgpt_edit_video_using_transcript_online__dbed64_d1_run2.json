@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to answer as an AI assistant for a US content creator. Provide suggestions for editing video using transcript online not working. Provide workflow steps. Provide citations (maybe with links). Must be safe. Provide info. Use markdown. Provide citations with footnotes. Provide URLs. Use reliable sources like official sites, reviews. Ensure not to hallucinate. I can reference known info. Provide brief description of each tool, pros/cons, pricing. Provide workflow: import video, generate transcript, edit text, export. Also troubleshooting tips if",
+  "raw_payload": {
+    "id": "chatcmpl-56d4dd48-947f-40d0-baa1-2703e185df76",
+    "object": "chat.completion",
+    "created": 1795374624,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Need to answer as an AI assistant for a US content creator. Provide suggestions for editing video using transcript online not working. Provide workflow steps. Provide citations (maybe with links). Must be safe. Provide info. Use markdown. Provide citations with footnotes. Provide URLs. Use reliable sources like official sites, reviews. Ensure not to hallucinate. I can reference known info. Provide brief description of each tool, pros/cons, pricing. Provide workflow: import video, generate transcript, edit text, export. Also troubleshooting tips if"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157241456,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005149233,
+      "completion_tokens": 150,
+      "completion_time": 0.311125168,
+      "total_tokens": 286,
+      "total_time": 0.316274401,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82anbg7ejg9y3jpxv32hgc6",
+      "seed": 1841078664
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3736,
+  "cost_usd": 0.0002
+}

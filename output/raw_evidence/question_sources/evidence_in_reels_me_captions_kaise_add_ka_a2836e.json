@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=reels+me+captions+kaise+add+kare",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "reels me captions kaise add kare",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:57:31.629686Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"reels me captions kaise add kare\",[],{\"k\":1,\"o\":\"reels me \\u003csc\\u003ecaption\\u003c\\/sc\\u003e kaise add kare\",\"p\":\"reels me \\u003cse\\u003ecaptions\\u003c\\/se\\u003e kaise add kare\"}])"
+}

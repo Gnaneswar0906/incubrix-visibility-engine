@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to podcast for beginners",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, venturing into podcasting is an excellent move. India has one of the fastest-growing digital audio audiences, and the barrier to entry has never been lower thanks to accessible software and cloud-based workflows.\n\nHere is a comprehensive guide to starting your podcast, tailored for beginners, with a focus on cost-effective and efficient tools.\n\n### 1. The Core Workflow: Keep It Simple\nFor beginners, the most common mistake is overcomplicating the workflow. Stick to this 4-step loop:\n1.  **Record** (Clean audio is non-negotiable).\n2.  **Edit** (Remove silences, mistakes, and noise).\n3.  **Master** (",
+  "raw_payload": {
+    "id": "chatcmpl-9fbad0f7-dfa6-4fbe-8dc8-3b8cafc2e517",
+    "object": "chat.completion",
+    "created": 1795375096,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, venturing into podcasting is an excellent move. India has one of the fastest-growing digital audio audiences, and the barrier to entry has never been lower thanks to accessible software and cloud-based workflows.\n\nHere is a comprehensive guide to starting your podcast, tailored for beginners, with a focus on cost-effective and efficient tools.\n\n### 1. The Core Workflow: Keep It Simple\nFor beginners, the most common mistake is overcomplicating the workflow. Stick to this 4-step loop:\n1.  **Record** (Clean audio is non-negotiable).\n2.  **Edit** (Remove silences, mistakes, and noise).\n3.  **Master** ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04830419,
+      "prompt_tokens": 77,
+      "prompt_time": 0.00530946,
+      "completion_tokens": 150,
+      "completion_time": 0.289571543,
+      "total_tokens": 227,
+      "total_time": 0.294881003
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b3qxwe3dbs52zvnz0jf9h",
+      "seed": 1144236954
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1006,
+  "cost_usd": 0.0002
+}

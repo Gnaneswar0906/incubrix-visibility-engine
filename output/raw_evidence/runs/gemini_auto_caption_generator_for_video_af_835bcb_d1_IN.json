@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video after effects",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in India (IN), I understand the need for fast, engaging, and localized video editing workflows. Generating auto-captions for After Effects (AE) has historically been a manual chore, but recent advancements in AI tools and plugins have revolutionized the p",
+      "cost_usd": 0.0002,
+      "latency_ms": 3848,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_af_835bcb_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'auto caption generator for video after effects' in IN, popular recommendations include Opus Clip, Munch, Klap. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 484
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_af_835bcb_d1_IN.json"
+}

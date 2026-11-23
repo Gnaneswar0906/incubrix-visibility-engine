@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai and make money",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Starting a faceless YouTube channel using AI is a highly viable strategy in 2024, especially for creators in India (IN) looking to scale globally or capture the growing domestic market. The key to success lies in **automation, quality control, and niche selection**.\n\nHere\u2019s a comprehensive guide on how to start, the best tools to use, and how to monetize.\n\n---\n\n### \ud83d\ude80 Step-by-Step Workflow: AI-Powered Faceless Channel\n\n#### 1. Niche Selection (Crucial for Monetization)\nChoose a niche with high search volume and low competition. Popular AI-friendly niches:\n- **Finance/Business:** Explainers, stock tips, crypto news.\n- **",
+  "raw_payload": {
+    "id": "chatcmpl-e7a343b5-6529-4e00-a571-6801a67abab2",
+    "object": "chat.completion",
+    "created": 1795377203,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Starting a faceless YouTube channel using AI is a highly viable strategy in 2024, especially for creators in India (IN) looking to scale globally or capture the growing domestic market. The key to success lies in **automation, quality control, and niche selection**.\n\nHere\u2019s a comprehensive guide on how to start, the best tools to use, and how to monetize.\n\n---\n\n### \ud83d\ude80 Step-by-Step Workflow: AI-Powered Faceless Channel\n\n#### 1. Niche Selection (Crucial for Monetization)\nChoose a niche with high search volume and low competition. Popular AI-friendly niches:\n- **Finance/Business:** Explainers, stock tips, crypto news.\n- **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047497717,
+      "prompt_tokens": 85,
+      "prompt_time": 0.005805753,
+      "completion_tokens": 150,
+      "completion_time": 0.308559806,
+      "total_tokens": 235,
+      "total_time": 0.314365559
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d42c5e4crwq1qgrxcqdc0",
+      "seed": 2031222754
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1590,
+  "cost_usd": 0.0002
+}

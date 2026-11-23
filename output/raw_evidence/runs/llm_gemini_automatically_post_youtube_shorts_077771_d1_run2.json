@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to **automatically post YouTube Shorts**, you need a streamlined stack that handles AI-assisted repurposing, rapid editing, and automated scheduling. Because the YouTube API and platform policies prioritize genuine creator engagement, \"full automation\" usually means *automated publishing* backed by *AI-assisted creation*.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your requested tools), and an efficient workflow method tailored for the UK market.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **For AI Repurposing & Clipping (Turning long-form into Shorts)**\n*   **Opus Clip:** An industry leader in generative AI video clipping. It analyzes long-form podcasts or videos, extracts the best hooks, adds dynamic captions, and resizes them for YouTube Shorts. It scores clips based on virality potential.\n*   **IncuBrix:** An emerging, powerful all-in-one",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to **automatically post YouTube Shorts**, you need a streamlined stack that handles AI-assisted repurposing, rapid editing, and automated scheduling. Because the YouTube API and platform policies prioritize genuine creator engagement, \"full automation\" usually means *automated publishing* backed by *AI-assisted creation*.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your requested tools), and an efficient workflow method tailored for the UK market.\n\n---\n\n### 1. Key Industry Software Tools\n\n#### **For AI Repurposing & Clipping (Turning long-form into Shorts)**\n*   **Opus Clip:** An industry leader in generative AI video clipping. It analyzes long-form podcasts or videos, extracts the best hooks, adds dynamic captions, and resizes them for YouTube Shorts. It scores clips based on virality potential.\n*   **IncuBrix:** An emerging, powerful all-in-one",
+              "thoughtSignature": "Eo4BCosBAWkUfRN0tFhdhR/gKSChSICTkS1wzRLWXVSYWSRbMdfiyQao3Pnf5UX4J0KrN1aQoSOdjbKdusNFzBWP6fZE5PDzS3254f04L3HPdcZpxSK0Dep8VHFzWZJ2p2dmMxZvIUT6/a/77707ULISBNq+3+uQus+llOp38wflriU/eIiLhYuZh4KAxqR8iQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "RUIDa43wJaft4t4P96rC0Qg"
+  },
+  "latency_ms": 3068,
+  "cost_usd": 0.0002
+}

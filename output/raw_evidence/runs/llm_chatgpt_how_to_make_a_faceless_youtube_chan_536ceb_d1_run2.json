@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to make a faceless youtube channel without ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to make a faceless YouTube channel without AI. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide steps, tools for video creation, voiceover (maybe using text-to-speech? but they said without AI, so maybe use human voice). Provide suggestions for scripting, recording, editing, royalty-free assets, channel branding, SEO, etc. Cite sources. Use citations with links. Provide a structured answer. Also note location IN (India) maybe mention Indian resources like local stock footage sites,",
+  "raw_payload": {
+    "id": "chatcmpl-06cfbf6b-d777-4070-a5c5-026fb8430ca1",
+    "object": "chat.completion",
+    "created": 1795375416,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to make a faceless YouTube channel without AI. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide steps, tools for video creation, voiceover (maybe using text-to-speech? but they said without AI, so maybe use human voice). Provide suggestions for scripting, recording, editing, royalty-free assets, channel branding, SEO, etc. Cite sources. Use citations with links. Provide a structured answer. Also note location IN (India) maybe mention Indian resources like local stock footage sites,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369279608,
+      "prompt_tokens": 139,
+      "prompt_time": 0.005956161,
+      "completion_tokens": 150,
+      "completion_time": 0.309271908,
+      "total_tokens": 289,
+      "total_time": 0.315228069,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82bdgdte3asbvq59rmzcn8n",
+      "seed": 741671776
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4184,
+  "cost_usd": 0.0002
+}

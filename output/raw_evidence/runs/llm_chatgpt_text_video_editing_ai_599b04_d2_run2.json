@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a great position to leverage AI for video editing. The AI video editing landscape has shifted from simple automation to sophisticated \"text-based\" editing, where you edit video by editing a transcript.\n\nHere is a curated guide to the best software tools, workflow methods, and industry standards for **Text-Based Video Editing with AI**, tailored for creators in India.\n\n### 1. Top AI Text-Based Video Editing Tools\n\nThese tools allow you to edit video by deleting or rearranging words in a text transcript. The video updates automatically.\n\n#### **A. Descript (Industry Leader for Text-Based Editing)**\n*   **Best For:** Podcasters, YouTubers, and",
+  "raw_payload": {
+    "id": "chatcmpl-8e6a977b-36d7-49a4-ac65-26d84824e375",
+    "object": "chat.completion",
+    "created": 1795376960,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a great position to leverage AI for video editing. The AI video editing landscape has shifted from simple automation to sophisticated \"text-based\" editing, where you edit video by editing a transcript.\n\nHere is a curated guide to the best software tools, workflow methods, and industry standards for **Text-Based Video Editing with AI**, tailored for creators in India.\n\n### 1. Top AI Text-Based Video Editing Tools\n\nThese tools allow you to edit video by deleting or rearranging words in a text transcript. The video updates automatically.\n\n#### **A. Descript (Industry Leader for Text-Based Editing)**\n*   **Best For:** Podcasters, YouTubers, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054577203,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004938036,
+      "completion_tokens": 150,
+      "completion_time": 0.288848732,
+      "total_tokens": 226,
+      "total_time": 0.293786768
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cwmncehhttmgcd7knc24m",
+      "seed": 2136226589
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1541,
+  "cost_usd": 0.0002
+}

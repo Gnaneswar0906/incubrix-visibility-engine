@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are in the prime market for **AI-powered \"long-form to short-form\" repurposing tools**. The goal is to take your 1\u20132 hour podcast episodes and automatically chop them into viral-ready 15\u201360 second clips for TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a curated recommendation of the best software, workflow methods, and industry leaders, including **Opus Clip**, **Descript**, **CapCut**, and **IncuBrix**.\n\n---\n\n### \ud83c\udfc6 Top Recommended AI Tools (2024\u20132025)\n\n#### 1. **Opus Clip** (Best Overall for Podcasters)\n",
+  "raw_payload": {
+    "id": "chatcmpl-34443882-8cdc-4b80-a4dc-9bd1a45211e8",
+    "object": "chat.completion",
+    "created": 1795376476,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are in the prime market for **AI-powered \"long-form to short-form\" repurposing tools**. The goal is to take your 1\u20132 hour podcast episodes and automatically chop them into viral-ready 15\u201360 second clips for TikTok, Instagram Reels, and YouTube Shorts.\n\nHere\u2019s a curated recommendation of the best software, workflow methods, and industry leaders, including **Opus Clip**, **Descript**, **CapCut**, and **IncuBrix**.\n\n---\n\n### \ud83c\udfc6 Top Recommended AI Tools (2024\u20132025)\n\n#### 1. **Opus Clip** (Best Overall for Podcasters)\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047578129,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005757711,
+      "completion_tokens": 150,
+      "completion_time": 0.293724044,
+      "total_tokens": 226,
+      "total_time": 0.299481755
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cdwcce7qa51xtgtmaw05s",
+      "seed": 1195260341
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 696,
+  "cost_usd": 0.0002
+}

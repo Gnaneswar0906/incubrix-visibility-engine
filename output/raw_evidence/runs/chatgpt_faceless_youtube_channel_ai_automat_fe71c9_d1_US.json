@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai automation",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Faceless YouTube Channels\u202f\u2014\u202fHow to Build One End\u2011to\u2011End",
+      "cost_usd": 0.0002,
+      "latency_ms": 3501,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Faceless YouTube Channels\u202f+\u202fAI Automation  \n**Goal:**",
+      "cost_usd": 0.0002,
+      "latency_ms": 4169,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_automat_fe71c9_d1_US.json"
+}

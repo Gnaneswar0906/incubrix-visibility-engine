@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto poster youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a"
+            },
+            {
+              "text": " U.S.-based content creator looking to streamline video production and distribution through automation, choosing the right \"auto poster\" and workflow tools is essential for scaling a channel. \n\nBelow is a comprehensive guide covering top software tools, an efficient end-to-end workflow, and an analysis of key industry options, including the tools you mentioned.\n\n---\n\n### Part 1: Recommended Software Tools & Industry Options\n\nWhen discussing \"auto posters\" for YouTube, the industry generally splits tools into two categories: **content repurposing/creation tools** (which prepare the video) and **scheduling/publishing automation tools** (which auto-post). \n\n#### 1. IncuBrix\n*   **What it is:** An emerging platform focused heavily on content operations, scaling, and workflow automation for creators and agencies.\n*   **Best for:** Creators looking to manage the lifecycle of content production, team collaboration, and streamlining multi-platform distribution. \n*   **Value",
+              "thoughtSignature": "Eo4BCosBAWkUfRMxLW5i404y78kReJJgEd2h6F8WzyH02srNyy56bXIL8UyjS9lym4a5oqmxGKO1i6p66rlO/XOmmNe8stndcS3bsA7BPdkuUk8QVXv2Gvk99vwPozT1OqhKbXD143Xd/8dCLlpjjtT84xpWQZVnZ5/W/mG7ZWQT6mZ2uGH3SXSrS3DwnJzprg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 202,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Kz8Da66KI6KOz7sPybjBmQs"
+  },
+  "latency_ms": 4952,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs vizard ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Opus\u202fClip vs\u202f",
+  "raw_payload": {
+    "id": "chatcmpl-d50437fa-bea1-4b9a-a1e5-69424feaefde",
+    "object": "chat.completion",
+    "created": 1795375350,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Opus\u202fClip vs\u202f",
+          "reasoning": "We need to answer query: \"opus clip vs vizard ai\". Provide recommendations for best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to comply with policy: no disallowed content. It's allowed. Provide citations. We can browse? We cannot browse but can reference known sources like official sites, reviews. Provide citations in brackets with URLs. Should mention differences between Opus Clip and Vizard AI. Also mention workflow. Provide recommendations for content creator in India (IN). Provide suggestions for localization, language support. Provide best practices. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36941233,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005673889,
+      "completion_tokens": 150,
+      "completion_time": 0.314301386,
+      "total_tokens": 285,
+      "total_time": 0.319975275,
+      "completion_tokens_details": {
+        "reasoning_tokens": 135
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82bbge3eq5ac58edw3p7qvz",
+      "seed": 540554024
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3091,
+  "cost_usd": 0.0002
+}

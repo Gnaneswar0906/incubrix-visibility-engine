@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video bangla",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, dialects, and the nuanced grammar of the language. However, AI-driven transcription and captioning tools have advanced s",
+      "cost_usd": 0.0002,
+      "latency_ms": 3416,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_ba_c59865_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the US targeting or producing content in **Bangla**, generating accurate auto-captions can be challenging due to the relative complexity of Bengali script, regional dialects, and the scarcity of well-trained ASR (Automatic Speech Recognition) models compared to English. \n\nHer",
+      "cost_usd": 0.0002,
+      "latency_ms": 9766,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_caption_generator_for_video_ba_c59865_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_caption_generator_for_video_ba_c59865_d1_US.json"
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation on auto-generating subtitles for a video, best software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note that user is a content creator located in GB (UK). Shoul",
+      "cost_usd": 0.0002,
+      "latency_ms": 2303,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__2dc138_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you have access to some of the most advanced and cost-effective tools for automated subtitling. Here\u2019s a breakdown of the best software, workflows, and industry options to streamline your process.\n\n### \ud83c\udfc6 Top Recommended Tools (2024\u20132025)\n\n#### 1. **CapCut",
+      "cost_usd": 0.0002,
+      "latency_ms": 1457,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_subtitles_for__2dc138_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_subtitles_for__2dc138_d1_GB.json"
+}

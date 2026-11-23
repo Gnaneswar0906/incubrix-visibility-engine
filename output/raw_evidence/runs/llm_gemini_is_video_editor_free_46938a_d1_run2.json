@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking to answer the question **\"Is video editor free?\"**, the short answer is: **Yes, absolutely.** The digital content landscape offers powerful free video editing tools that range from completely free open-source software to freemium models with robust free tiers. \n\nHowever, \"free\" often comes with tradeoffs, such as watermarks, export resolutions limits, or gated AI features. Below is a comprehensive guide to the best software tools, workflow methods, and key industry options tailored for Indian creators.\n\n---\n\n### Key Industry Options Mentioned\n\n#### 1. CapCut\n*   **Pricing:** Freemium (Very generous free tier).\n*   **Best For:** Social media creators (Reels, Shorts, TikTok-style edits).\n*   **Why use it:** CapCut has gained massive popularity in India due to its mobile-first and desktop ease of use. It features automated captions, trendy transitions",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking to answer the question **\"Is video editor free?\"**, the short answer is: **Yes, absolutely.** The digital content landscape offers powerful free video editing tools that range from completely free open-source software to freemium models with robust free tiers. \n\nHowever, \"free\" often comes with tradeoffs, such as watermarks, export resolutions limits, or gated AI features. Below is a comprehensive guide to the best software tools, workflow methods, and key industry options tailored for Indian creators.\n\n---\n\n### Key Industry Options Mentioned\n\n#### 1. CapCut\n*   **Pricing:** Freemium (Very generous free tier).\n*   **Best For:** Social media creators (Reels, Shorts, TikTok-style edits).\n*   **Why use it:** CapCut has gained massive popularity in India due to its mobile-first and desktop ease of use. It features automated captions, trendy transitions",
+              "thoughtSignature": "Eo4BCosBAWkUfRPjhZoV44QJmIeU9KTssM9U0OEU/wKLuU4UQ11JMxYfGv1m9hc8//wulgqWbcRWUsNRK8FbgvrapQQOJ5fEgSGqJ1LmrP8CUr5qm7NTE64wtMqzPTJvztEWwAnopzICAHRJjfhkJNXAq38EmszzGqt8dxEaHBKbIBxXc1fs8F19MJuGhtE3/A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "OUADa-DVO8Tj694PzIvj8Q8"
+  },
+  "latency_ms": 2121,
+  "cost_usd": 0.0002
+}

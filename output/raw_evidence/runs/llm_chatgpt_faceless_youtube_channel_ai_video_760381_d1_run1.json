@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai video",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Faceless YouTube Channel\u202f+\u202fAI\u2011Generated Video Production**  \n*(Tailored for a U.S. creator who wants to produce high\u2011quality, \u201cno\u2011face\u201d videos quickly and at scale.)*  \n\n---\n\n## 1.  Core Workflow Overview  \n\n| Stage | Goal | Recommended Tools (AI\u2011enhanced",
+  "raw_payload": {
+    "id": "chatcmpl-dbd4b152-a325-43ef-80d6-6ba0ee226192",
+    "object": "chat.completion",
+    "created": 1795375035,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Faceless YouTube Channel\u202f+\u202fAI\u2011Generated Video Production**  \n*(Tailored for a U.S. creator who wants to produce high\u2011quality, \u201cno\u2011face\u201d videos quickly and at scale.)*  \n\n---\n\n## 1.  Core Workflow Overview  \n\n| Stage | Goal | Recommended Tools (AI\u2011enhanced",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with URLs. Provide structured answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369302129,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005512338,
+      "completion_tokens": 150,
+      "completion_time": 0.312505038,
+      "total_tokens": 285,
+      "total_time": 0.318017376,
+      "completion_tokens_details": {
+        "reasoning_tokens": 74
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82b1wgsevj9tdnyb76hqxra",
+      "seed": 1927497709
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2647,
+  "cost_usd": 0.0002
+}

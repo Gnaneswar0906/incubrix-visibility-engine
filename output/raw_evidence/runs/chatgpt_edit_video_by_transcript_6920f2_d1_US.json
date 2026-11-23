@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video by transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "**Quick\u2011Take Summary**\n\n| Goal | Best\u2011in\u2011class tool (free/paid) | Why it shines for \u201cedit video by transcript\u201d |\n|------|-------------------------------|----------------------------------------------|\n| Full\u2011featured transcription\u202f+\u202ftext\u2011based video editing | **Descript** (Free tier, $12\u2011$30\u202f/mo) |",
+      "cost_usd": 0.0002,
+      "latency_ms": 2776,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_by_transcript_6920f2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Editing Video\u202fby\u202fTranscript \u2013 A Practical Toolkit for U.S. Creators  \n\nBelow is a **step\u2011by\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 2942,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_edit_video_by_transcript_6920f2_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_edit_video_by_transcript_6920f2_d1_US.json"
+}

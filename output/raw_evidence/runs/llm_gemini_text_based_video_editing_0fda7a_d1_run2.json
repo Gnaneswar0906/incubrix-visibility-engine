@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US looking to streamline your post-production workflow, text-based video editing (often called transcript-based editing) is a game-changer. It allows you to edit your video simply by highlighting, cutting, pasting, and deleting text in a transcript, just like editing a Google Doc or Word document.\n\nHere is a comprehensive breakdown of the best software tools, industry options, and a recommended workflow tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Descript (The Gold Standard for All-in-One Text Editing)**\n*   **Overview:** Descript pioneered mainstream text-based video editing. It transcribes your video, and any edits made to the text directly manipulate the timeline. \n*   **Standout Features:** *Overdub* (AI voice cloning to fix flubbed words without re-recording), *Studio Sound* (AI audio cleanup",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in the US looking to streamline your post-production workflow, text-based video editing (often called transcript-based editing) is a game-changer. It allows you to edit your video simply by highlighting, cutting, pasting, and deleting text in a transcript, just like editing a Google Doc or Word document.\n\nHere is a comprehensive breakdown of the best software tools, industry options, and a recommended workflow tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **Descript (The Gold Standard for All-in-One Text Editing)**\n*   **Overview:** Descript pioneered mainstream text-based video editing. It transcribes your video, and any edits made to the text directly manipulate the timeline. \n*   **Standout Features:** *Overdub* (AI voice cloning to fix flubbed words without re-recording), *Studio Sound* (AI audio cleanup",
+              "thoughtSignature": "Eo4BCosBAWkUfRNnW0+ByZnSWSLQlWLTeGVLfbbOSXRT4r3eKXikd4st6sE/5qFfalWfS05Tn4FN3kJSOWkKmUGNViHUcP8DKxDyR+b1iA3bNQfHukg7FTz9Pd60i4NREoR6kGywhK+QqWA4S0SE0YhoKjKJ+ZHqEsEZDLLGtDnFkFsT5NbZ//fsGOgELS90Xw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "RD4Da7apCIPEjuMPx4LD6Ao"
+  },
+  "latency_ms": 2696,
+  "cost_usd": 0.0002
+}

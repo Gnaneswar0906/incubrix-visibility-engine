@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "does youtube automatically add ads",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants an answer to a query: \"does youtube automatically add ads\". They also want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So answer should explain YouTube's",
+      "cost_usd": 0.0002,
+      "latency_ms": 2106,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_does_youtube_automatically_add_ads_86a0b6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: does YouTube automatically add ads? Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nUser is a content creator located in India. Should comply with p",
+      "cost_usd": 0.0002,
+      "latency_ms": 3137,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_does_youtube_automatically_add_ads_86a0b6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_does_youtube_automatically_add_ads_86a0b6_d1_IN.json"
+}

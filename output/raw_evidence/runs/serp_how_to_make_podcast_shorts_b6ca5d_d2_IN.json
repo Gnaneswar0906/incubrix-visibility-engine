@@ -1,0 +1,91 @@
+{
+  "query": "how to make podcast shorts",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to make podcast shorts",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "OpusClip turns full podcast episodes into short video clips for social media. Its AI Podcast Clip Generator finds the strongest moments in ...",
+        "date": "11 Nov 2026",
+        "position": 1
+      },
+      {
+        "title": "AI Podcast Clips Maker",
+        "link": "https://podsqueeze.com/podcast-clip-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on TikTok, Reels & YouTube shorts with Podsqueeze AI-Powered clip maker.",
+        "position": 2
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "1. Upload or import your podcast episode from Apple, YouTube, or a file. 2. Flowjin's AI analyzes your content and creates 10+ captioned clips. 3. Review clips ...",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 3
+      },
+      {
+        "title": "How I Create Dozens of Podcast Clips as a Solo Creator",
+        "link": "https://www.youtube.com/watch?v=nPgsuEh_dOA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "https://riverside.fm/?...) \u00b7 00:00 Introduction \u00b7 00:39 Make Clips Fast \u00b7 01:54 Add Visually Engaging Content \u00b7 02:42 AI Tools to Auto Edits \u00b7 03:07\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "AI Podcast Clip Generator",
+        "link": "https://vizard.ai/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://vizard.ai \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "Just upload your podcast episode, click \"Get AI clips\u201d and your hour-long podcast episodes will turn into attention-grabbing podcast snippets. No editing ...",
+        "position": 5
+      },
+      {
+        "title": "How to Make Podcast Clips for YouTube Shorts with AI ...",
+        "link": "https://www.youtube.com/watch?v=FIbTNCEJ0p0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to Make Podcast Clips for YouTube Shorts with AI Automatically (2026 Guide) \u00b7 Comments. 18. Been doing faceless podcast content for about 4\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "AI Podcast Clip Generator - Auto-Cut Videos",
+        "link": "https://www.veed.io/tools/auto-video-editor/ai-podcast-clip-generator",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-video-editor \u203a ai-podcast-clip-generator",
+        "snippet": "VEED's AI podcast generator is a tool that lets you turn long episodes into engaging short clips. Simply upload your video and customize details like caption ...",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 7
+      },
+      {
+        "title": "AI Podcast Clip Maker \u2014 Free",
+        "link": "https://www.kapwing.com/ai/clip-maker/podcast",
+        "displayedLink": "https://www.kapwing.com \u203a ai \u203a clip-maker \u203a podcast",
+        "snippet": "Instantly turn podcasts into short clips with Kapwing's AI Podcast Clip Maker. Create, convert, and download clips from podcast episodes for free.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 8
+      },
+      {
+        "title": "AI Podcast Clip Creator for Social Media",
+        "link": "https://www.heygen.com/en-in/tool/ai-podcast-clip",
+        "displayedLink": "https://www.heygen.com \u203a en-in \u203a tool \u203a ai-podcast-clip",
+        "snippet": "Transform lengthy episodes into captioned social media clips with HeyGen's AI podcast clip maker. Identify highlights, edit captions, resize and share with ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

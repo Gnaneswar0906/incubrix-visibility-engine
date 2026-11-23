@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut pro",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to the user query: \"opus clip vs capcut pro\" and recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe are a content creator in GB. They want comparison of Opus ",
+      "cost_usd": 0.0002,
+      "latency_ms": 9106,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_pro_e3fd05_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you are likely looking to maximise efficiency while maintaining high production value. Choosing between **Opus Clip** and **CapCut Pro** depends entirely on your primary goal: **automated repurposing** versus **manual creative control**.\n\nHere\u2019s a detailed brea",
+      "cost_usd": 0.0002,
+      "latency_ms": 1841,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_pro_e3fd05_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_capcut_pro_e3fd05_d2_GB.json"
+}

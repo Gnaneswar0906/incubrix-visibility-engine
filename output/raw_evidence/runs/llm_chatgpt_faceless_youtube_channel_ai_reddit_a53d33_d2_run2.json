@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Faceless YouTube Channels & AI \u2013 A Practical Toolkit (2024)**  \n\nBelow",
+  "raw_payload": {
+    "id": "chatcmpl-148a5dbb-0e63-4d9c-adc3-1003d82a2ac8",
+    "object": "chat.completion",
+    "created": 1795376786,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Faceless YouTube Channels & AI \u2013 A Practical Toolkit (2024)**  \n\nBelow",
+          "reasoning": "We need to respond as an AI assistant for a US content creator. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no copyrighted text beyond 90 characters. Provide citations with URLs. Provide a thorough answer. Should be helpful, include workflow steps for faceless YouTube channel using AI and Reddit content. Provide tools for script generation, voice synthesis, video editing, thumbnail creation, SEO, automation. Cite sources like blogs, reviews. Let's draft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15869899,
+      "prompt_tokens": 135,
+      "prompt_time": 0.03643828,
+      "completion_tokens": 150,
+      "completion_time": 0.312474018,
+      "total_tokens": 285,
+      "total_time": 0.348912298,
+      "completion_tokens_details": {
+        "reasoning_tokens": 124
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cqaf4eaesg7r9rc9b8hf8",
+      "seed": 1621995456
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3443,
+  "cost_usd": 0.0002
+}

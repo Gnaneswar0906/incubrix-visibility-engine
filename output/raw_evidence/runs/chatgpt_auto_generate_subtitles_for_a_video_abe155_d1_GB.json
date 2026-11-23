@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are in a prime position to leverage the latest advancements in automated subtitling. The current industry standard has shifted from manual typing to **AI-powered speech-to-text (STT)** tools that offer near-perfect accuracy, especially for clear audio",
+      "cost_usd": 0.0002,
+      "latency_ms": 1111,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_for_a_video_abe155_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto-generating subtitles for a video, targeting a content creator in GB (Great Britain). They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available.\n\nWe ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3164,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_for_a_video_abe155_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_subtitles_for_a_video_abe155_d1_GB.json"
+}

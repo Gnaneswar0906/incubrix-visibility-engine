@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=auto+post+to+youtube",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "auto post to youtube",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:50:07.946026+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto post to youtube",
+    "automatically post to youtube",
+    "auto post youtube to facebook",
+    "auto upload to youtube",
+    "auto upload to youtube from folder",
+    "auto upload to youtube on autopilot",
+    "auto upload to youtube from twitch",
+    "auto post tiktok to youtube",
+    "auto post youtube shorts",
+    "auto post youtube videos"
+  ],
+  "raw_response": "[\"auto post to youtube\",[\"auto post to youtube\",\"automatically post to youtube\",\"auto post youtube to facebook\",\"auto upload to youtube\",\"auto upload to youtube from folder\",\"auto upload to youtube on autopilot\",\"auto upload to youtube from twitch\",\"auto post tiktok to youtube\",\"auto post youtube shorts\",\"auto post youtube videos\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

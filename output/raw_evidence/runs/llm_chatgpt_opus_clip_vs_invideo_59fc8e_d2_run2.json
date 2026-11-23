@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs invideo",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation comparing Opus Clip vs InVideo, and also mention best software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be US-based content creator. Provide authoritative web sources.\n\nWe need to follow policy: no disallowed content. It's fine. Provide citations with links. Use markdown. Provide a structured answer: overview, comparison Opus Clip vs InVideo, workflow suggestions, other tools, recommendation.\n\nCite sources: need to find web sources. We can reference official sites, reviews from reputable sites (TechRadar, PCMag, etc). Provide citations in brackets with URLs.\n\nWe must not fabricate sources; but we",
+  "raw_payload": {
+    "id": "chatcmpl-6b528755-d924-4207-9827-74efb8f1d756",
+    "object": "chat.completion",
+    "created": 1795376775,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation comparing Opus Clip vs InVideo, and also mention best software tools, workflow methods, and key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be US-based content creator. Provide authoritative web sources.\n\nWe need to follow policy: no disallowed content. It's fine. Provide citations with links. Use markdown. Provide a structured answer: overview, comparison Opus Clip vs InVideo, workflow suggestions, other tools, recommendation.\n\nCite sources: need to find web sources. We can reference official sites, reviews from reputable sites (TechRadar, PCMag, etc). Provide citations in brackets with URLs.\n\nWe must not fabricate sources; but we"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157814735,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005516285,
+      "completion_tokens": 150,
+      "completion_time": 0.313722749,
+      "total_tokens": 284,
+      "total_time": 0.319239034,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82cq062e2wvb8ney8enp52s",
+      "seed": 618334103
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3624,
+  "cost_usd": 0.0002
+}

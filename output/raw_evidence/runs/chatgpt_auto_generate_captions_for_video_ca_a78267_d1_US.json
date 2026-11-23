@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video capcut",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "## Auto\u2011Generating Captions for CapCut Videos  \n*(A practical workflow for U.S. creators \u2013",
+      "cost_usd": 0.0002,
+      "latency_ms": 4196,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_ca_a78267_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re looking to streamline your production workflow by leveraging AI for captioning. Since you specifically mentioned **CapCut**, it\u2019s worth noting that it is already a top-tier choice for this specific task, but combining it with other specialized tools can ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1872,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_ca_a78267_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_ca_a78267_d1_US.json"
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast video to shorts with ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "InVideo",
+    "Munch",
+    "Submagic",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Cited",
+      "competitors": [
+        "Veed.io",
+        "InVideo",
+        "Submagic"
+      ],
+      "snippet": "For 'podcast video to shorts with ai' in US, popular recommendations include Veed.io, InVideo, Submagic. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 352
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast video to shorts with ai' in US, popular recommendations include Munch. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 449
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_video_to_shorts_with_ai_9af836_d2_US.json"
+}

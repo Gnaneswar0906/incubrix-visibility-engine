@@ -1,0 +1,51 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut vs descript",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to streamline your video repurposing and editing workflow, choosing between **Opus Clip**, **CapCut**, and **Descript** depends entirely on your primary goal: AI-driven clipping, trendy social-first editing, or text-based long-form podcast/video editing. \n\nBelow is a comprehensive comparison, workflow recommendations, and industry alternatives tailored to your needs.\n\n---",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to streamline your video repurposing and editing workflow, choosing between **Opus Clip**, **CapCut**, and **Descript** depends entirely on your primary goal: AI-driven clipping, trendy social-first editing, or text-based long-form podcast/video editing. \n\nBelow is a comprehensive comparison, workflow recommendations, and industry alternatives tailored to your needs.\n\n---"
+            },
+            {
+              "text": "\n\n### 1. The Big Three Compared\n\n#### **Opus Clip**\n* **Best For:** Automated long-form-to-shorts repurposing (podcasts, webinars, YouTube videos).\n* **How it works:** You drop in a YouTube link or upload a long video. Its AI (Curator) analyzes the content, scores clips based on hooks and virality potential, and automatically generates multiple short-form clips with captions, emojis, and reframing.\n* **GB Context & Pricing:** Operates globally via cloud processing; prices are listed in USD, but easily purchased via standard UK credit/debit cards or PayPal. \n* **Pros:** Massive time-saver; excellent AI curation; auto-reframing works well.\n* **Cons:** Less granular control over manual timeline edits compared to traditional editors.\n\n#### **CapCut (Desktop/Mobile)**\n* **Best For:** Fast, trendy, highly engaging short-form editing with",
+              "thoughtSignature": "Eo4BCosBAWkUfRMQsw2agOLVU5jAx98n3pI3p+KnCQi+e1ukhGhtVe6/nlxeOug2SqFWLyDApk6rk28WcMWsylobmFXWZkafmBqoM42N4EgufESwxybX/i250KorM1jd1kM1B8pgkqK1khOkZSKXwTyLYKnE+gIQclzCLAt+Kq8UcFZF6JX/K4FunM5eiU75gw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 288,
+      "totalTokenCount": 353,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iUIDa6zIOMKumNMP7K2YgAs"
+  },
+  "latency_ms": 2531,
+  "cost_usd": 0.0002
+}

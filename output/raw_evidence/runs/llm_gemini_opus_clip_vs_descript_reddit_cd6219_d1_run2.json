@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs descript reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking to repurpose long-form videos into viral short-form content (Reels, Shorts, TikToks), comparing **Opus Clip** and **Descript** is a great place to start. Reddit communities (like r/NewTubers, r/VideoEditing, and r/ContentCreators) frequently discuss these tools. \n\nHere is a breakdown of Opus Clip vs. Descript, Reddit\u2019s general consensus, alternative tools, and a recommended workflow for creators in India.\n\n---\n\n### 1. Opus Clip vs. Descript: The Reddit Consensus\n\nAccording to discussions across Reddit, creators generally view these two tools as serving different primary purposes:\n\n*   **Opus Clip (The AI Repurposing Specialist):**\n    *   **What it does:** It is a generative AI video tool that takes a long-form video (like a podcast, tutorial, or vlog) and automatically slices",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking to repurpose long-form videos into viral short-form content (Reels, Shorts, TikToks), comparing **Opus Clip** and **Descript** is a great place to start. Reddit communities (like r/NewTubers, r/VideoEditing, and r/ContentCreators) frequently discuss these tools. \n\nHere is a breakdown of Opus Clip vs. Descript, Reddit\u2019s general consensus, alternative tools, and a recommended workflow for creators in India.\n\n---\n\n### 1. Opus Clip vs. Descript: The Reddit Consensus\n\nAccording to discussions across Reddit, creators generally view these two tools as serving different primary purposes:\n\n*   **Opus Clip (The AI Repurposing Specialist):**\n    *   **What it does:** It is a generative AI video tool that takes a long-form video (like a podcast, tutorial, or vlog) and automatically slices",
+              "thoughtSignature": "Eo4BCosBAWkUfRM342jVGAMyTrZs80MNYAa8KcHTWxwKZdgH/hQjsq5ZSGP7qDmGYIX9d78Tn4CKMLlJPet1fcQr6x15QhAlcoRMW7pyGtZqpa/DCI41raL+B0XkSDQDq2L/F1kMou2hwbE2PZ2Xt59mREWlXgKLhHt583f0bvaJuvChj/e7AJ6jvsdt4Unl8w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4kADa7_yBK71694Pg7eqyQ8"
+  },
+  "latency_ms": 2082,
+  "cost_usd": 0.0002
+}

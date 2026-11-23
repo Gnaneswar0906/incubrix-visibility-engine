@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai usa",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator located in India (IN). Query: \"faceless youtube channel ai usa\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policies. This is not disallowed. Provide recommendations, citing sources. Should be helpful. Provide workflow for faceless YouTube channel using AI tools, maybe voiceovers, video creation, editing, thumbnails, etc. Include tools like Pictory, Synthesia, Lumen5, Runway, D-ID, etc. Also mention IncuBrix (maybe a platform",
+  "raw_payload": {
+    "id": "chatcmpl-a37ffbb3-adb2-4820-b377-31c45936f183",
+    "object": "chat.completion",
+    "created": 1795377165,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator located in India (IN). Query: \"faceless youtube channel ai usa\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policies. This is not disallowed. Provide recommendations, citing sources. Should be helpful. Provide workflow for faceless YouTube channel using AI tools, maybe voiceovers, video creation, editing, thumbnails, etc. Include tools like Pictory, Synthesia, Lumen5, Runway, D-ID, etc. Also mention IncuBrix (maybe a platform"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158629849,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005164021,
+      "completion_tokens": 150,
+      "completion_time": 0.314545899,
+      "total_tokens": 285,
+      "total_time": 0.31970992,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82d2ws0efsr3haw21583nq2",
+      "seed": 1519727573
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2900,
+  "cost_usd": 0.0002
+}

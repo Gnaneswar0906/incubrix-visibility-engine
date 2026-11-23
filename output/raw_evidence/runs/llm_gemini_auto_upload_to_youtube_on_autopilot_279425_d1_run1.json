@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to achieve a truly automated \"hands-off\" YouTube workflow\u2014often referred to as faceless automation or programmatic publishing\u2014leveraging the right stack of AI tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and a battle-tested workflow to get your channel running on autopilot.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nTo build an end-to-end automated pipeline, you need tools that handle four",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to achieve a truly automated \"hands-off\" YouTube workflow\u2014often referred to as faceless automation or programmatic publishing\u2014leveraging the right stack of AI tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and a battle-tested workflow to get your channel running on autopilot.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nTo build an end-to-end automated pipeline, you need tools that handle four"
+            },
+            {
+              "text": " distinct stages: **Ideation/Scripting, Editing/Repurposing, Video Generation, and Scheduling/Publishing.**\n\n#### **Content Repurposing & Clipping**\n*   **Opus Clip:** An industry standard for generative AI video clipping. It takes long-form podcasts, Vlogs, or tutorials and automatically reframes them, adds captions, and chops them into viral short-form clips optimized for YouTube Shorts. \n*   **Descript:** Essential for text-based video editing. If you prefer to edit your videos by simply editing a text transcript, Descript\u2019s AI \"Studio Sound\" and filler-word removal streamline the refinement process before publishing.\n*   **CapCut:** Highly popular for automated captioning, dynamic text templates, and quick batch-editing. Its desktop and web versions feature robust AI script-to-video capabilities.\n\n#### **All-in-One Automation & Faceless Channel Platforms**\n*   **IncuBrix",
+              "thoughtSignature": "Eo4BCosBAWkUfRNXYjKCtj3uYBjWxHgb8yc9YE4LO5ctG1L89hbd0g88tKNEHKghZjb9RwJYFFgBImOLE2v+I5ixN4Z0bbqU0H9j5pLCWyQHto5+EiaxwhBGhxbkLHFr4/59C+d8zr9ozfIvPw1oR+CWfv684sUv2RvDGqOBBxd6XW5WFNYQBChvKATF81vXxw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 310,
+      "totalTokenCount": 374,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Ez8Da6XNFOSnz7sP1-PZAQ"
+  },
+  "latency_ms": 9674,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts generator",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating high-quality short-form video content from podcast episodes has become a standard part of modern content marketing strategies. As a creator in the US, you have access to a robust ecosystem of AI-driven tools that can automate the clipping, captioning, and reformatting process.\n\nBelow is a breakdown of the best software tools, recommended workflows, and key industry options for generating shorts from podcasts.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Opus Clip** (Best for AI-Powered Automation)\nOpus Clip is currently one of the most popular AI-powered repurposing tools. It uses AI to identify the most engaging moments in your long-form content, automatically adds captions, and reframes the video for vertical formats (",
+  "raw_payload": {
+    "id": "chatcmpl-d6de037c-e8f2-4d0a-8179-4b575f2f961e",
+    "object": "chat.completion",
+    "created": 1795374495,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality short-form video content from podcast episodes has become a standard part of modern content marketing strategies. As a creator in the US, you have access to a robust ecosystem of AI-driven tools that can automate the clipping, captioning, and reformatting process.\n\nBelow is a breakdown of the best software tools, recommended workflows, and key industry options for generating shorts from podcasts.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Opus Clip** (Best for AI-Powered Automation)\nOpus Clip is currently one of the most popular AI-powered repurposing tools. It uses AI to identify the most engaging moments in your long-form content, automatically adds captions, and reframes the video for vertical formats ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.235623444,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005408415,
+      "completion_tokens": 150,
+      "completion_time": 0.332607563,
+      "total_tokens": 226,
+      "total_time": 0.338015978
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ahdfye29rmyq2ks098aqx",
+      "seed": 262750634
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1877,
+  "cost_usd": 0.0002
+}

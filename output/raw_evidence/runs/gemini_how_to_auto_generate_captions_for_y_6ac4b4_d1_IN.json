@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to \"sound-off\" mobile viewers. As a content creator in India, your workflow needs to balance **speed, regional language accuracy (especially Hinglish/Hindi/English mix",
+      "cost_usd": 0.0002,
+      "latency_ms": 8335,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_captions_for_y_6ac4b4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Auto-generating captions for YouTube is one of the most effective ways to boost audience retention, improve accessibility, and cater to viewers who watch videos on mute. For content creators in **India (IN)**, the workflow needs to be fast, accurate (especially for Hindi-English mixed content, commo",
+      "cost_usd": 0.0002,
+      "latency_ms": 2915,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_auto_generate_captions_for_y_6ac4b4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_auto_generate_captions_for_y_6ac4b4_d1_IN.json"
+}

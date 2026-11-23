@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=cut+silence+from+video",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "cut silence from video",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:31:00.476901+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "cut silence from video",
+    "cut silence from video free",
+    "cut silence from video capcut",
+    "cut silence from video meaning",
+    "cut silence from video online",
+    "remove silence from video",
+    "remove silence from video online free",
+    "remove silence from video free",
+    "remove silence from video capcut",
+    "remove silence from video premiere pro"
+  ],
+  "raw_response": "[\"cut silence from video\",[\"cut silence from video\",\"cut silence from video free\",\"cut silence from video capcut\",\"cut silence from video meaning\",\"cut silence from video online\",\"remove silence from video\",\"remove silence from video online free\",\"remove silence from video free\",\"remove silence from video capcut\",\"remove silence from video premiere pro\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

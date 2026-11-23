@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to convert long-form podcast episodes into viral short-form videos (TikToks, Instagram Reels, YouTube Shorts), you have access to some of the most advanced AI-powered tools on the market. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and a proven workflow method to streamline your repurposing strategy.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is dominated by AI tools that automatically transcribe, identify engaging hooks, crop video for vertical formats, and add captions. \n\n#### 1. Opus Clip (AI-Powered Repurposing Leader)\n*   **Best For:** Automated, hands-off clipping and virality scoring.\n*   **Key Features:** Opus Clip uses AI to analyze your long-form video, extract the most engaging standalone hooks, and compile them into ready-to-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to convert long-form podcast episodes into viral short-form videos (TikToks, Instagram Reels, YouTube Shorts), you have access to some of the most advanced AI-powered tools on the market. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified tools), and a proven workflow method to streamline your repurposing strategy.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe podcast-to-shorts landscape is dominated by AI tools that automatically transcribe, identify engaging hooks, crop video for vertical formats, and add captions. \n\n#### 1. Opus Clip (AI-Powered Repurposing Leader)\n*   **Best For:** Automated, hands-off clipping and virality scoring.\n*   **Key Features:** Opus Clip uses AI to analyze your long-form video, extract the most engaging standalone hooks, and compile them into ready-to-",
+              "thoughtSignature": "Eo4BCosBAWkUfRNcRvwN9vequS1Vz57ih6E62BEY0RsA9TtDAkCcAHugPUcsdQViUZ93H8OKdZk13cefilVx981hGMY/wsT9AGHLCgvlKWvKrLh+lbHmX6NFw3RbiGtLdmiuehGQ3//Uu2P7DO7G3Jz3UvCEcsZV48I389hrGyoSuGWE/nuQZY3zAta9WJw3AA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iz0Da5zuL5KxmNMPyO-VYA"
+  },
+  "latency_ms": 2584,
+  "cost_usd": 0.0002
+}

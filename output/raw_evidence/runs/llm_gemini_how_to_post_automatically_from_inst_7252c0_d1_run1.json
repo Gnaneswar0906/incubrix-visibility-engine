@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to scale your reach by repurposing short-form content, cross-posting from Instagram Reels to YouTube Shorts is one of the most efficient growth strategies. Because Instagram Reels and YouTube Shorts share a nearly identical vertical format (9:16) and short-form attention-span optimization, you can automate this pipeline to save hours of manual downloading and uploading.\n\nHere is a comprehensive guide detailing the best software tools, automated workflow methods, and industry-standard software options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Tools\n\nTo build an automated or semi-automated pipeline, creators typically rely on a mix of AI editing tools and automation platforms.\n\n*   **IncuBrix:** An emerging all-in-one content repurposing and scheduling ecosystem that helps creators manage multi-platform distribution. It is particularly useful for streamlining the workflow of taking content from one platform and formatting/scheduling it",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to scale your reach by repurposing short-form content, cross-posting from Instagram Reels to YouTube Shorts is one of the most efficient growth strategies. Because Instagram Reels and YouTube Shorts share a nearly identical vertical format (9:16) and short-form attention-span optimization, you can automate this pipeline to save hours of manual downloading and uploading.\n\nHere is a comprehensive guide detailing the best software tools, automated workflow methods, and industry-standard software options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Tools\n\nTo build an automated or semi-automated pipeline, creators typically rely on a mix of AI editing tools and automation platforms.\n\n*   **IncuBrix:** An emerging all-in-one content repurposing and scheduling ecosystem that helps creators manage multi-platform distribution. It is particularly useful for streamlining the workflow of taking content from one platform and formatting/scheduling it",
+              "thoughtSignature": "Eo4BCosBAWkUfRPtZZIdmHKM7JKuO6fJgd3ZCP5s5eH5GDLCT1LFW0oETxUnQLWCDYtEbrzDycJDoNKoKdt2C341eZOPGTTUoar7MRZcSbPePfwHNlCQKk/bfIBysWzxj6eRlbogC89U2NI1x3Oc1AWwJedOe+Ak3+6WLnvRGp1ec4t4Ob8osy8Xn5boc6XlTA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "r0ADa8eQDsH5juMP47XliQk"
+  },
+  "latency_ms": 2897,
+  "cost_usd": 0.0002
+}

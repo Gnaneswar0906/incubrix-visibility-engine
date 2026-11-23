@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to write a video transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, you know that a transcript isn\u2019t just for accessibility\u2014it\u2019s a powerful SEO asset, a content repurposing engine, and a way to engage text-based audiences. Here\u2019s a streamlined, professional approach to writing (or generating) high-quality video transcripts, alo",
+      "cost_usd": 0.0002,
+      "latency_ms": 27831,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_write_a_video_transcript_ffe6a3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, you\u2019re in a great position to leverage some of the most advanced AI-driven tools available for video transcription. Writing a high-quality video transcript is no longer just about typing out every word; it\u2019s about efficiency, editing by text, and repurposing co",
+      "cost_usd": 0.0002,
+      "latency_ms": 6683,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_write_a_video_transcript_ffe6a3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_write_a_video_transcript_ffe6a3_d1_US.json"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in a great position to leverage both powerful free tools and cost-effective paid solutions. The short answer to **\"is video editor free?\"** is **yes**, there are several high-quality video editors that are completely free or offer robust free tiers sufficient for professional-grade content creation.\n\nHere\u2019s a curated recommendation of the best software tools, workflow methods, and key industry options tailored for creators in India:\n\n### \ud83c\udfc6 Top Free & Freemium Video Editors\n\n#### 1. **CapCut** (Best All-Rounder for Social Media)\n- **Why it\u2019s great**: CapCut is currently the go-to tool for TikTok, Instagram Reels, and YouTube Shorts creators. It\u2019s",
+  "raw_payload": {
+    "id": "chatcmpl-32d10f03-31d3-4125-ae60-a2fcc904cedb",
+    "object": "chat.completion",
+    "created": 1795376932,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in a great position to leverage both powerful free tools and cost-effective paid solutions. The short answer to **\"is video editor free?\"** is **yes**, there are several high-quality video editors that are completely free or offer robust free tiers sufficient for professional-grade content creation.\n\nHere\u2019s a curated recommendation of the best software tools, workflow methods, and key industry options tailored for creators in India:\n\n### \ud83c\udfc6 Top Free & Freemium Video Editors\n\n#### 1. **CapCut** (Best All-Rounder for Social Media)\n- **Why it\u2019s great**: CapCut is currently the go-to tool for TikTok, Instagram Reels, and YouTube Shorts creators. It\u2019s"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047515373,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004985217,
+      "completion_tokens": 150,
+      "completion_time": 0.286185085,
+      "total_tokens": 226,
+      "total_time": 0.291170302
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cvsd2et2vs2rk116eg7t3",
+      "seed": 579985330
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1200,
+  "cost_usd": 0.0002
+}

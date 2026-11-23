@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i create a post on youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful YouTube post (video) requires a structured workflow that moves from concept to publication. As a content creator based in the UK, you have access to a robust ecosystem of tools that can streamline this process. Below is a recommended workflow, curated software options, and key industry players to consider.\n\n### **1. Recommended Workflow: The 4-Stage Pipeline**\n\nA consistent workflow ensures efficiency and quality. Here\u2019s a proven 4-stage method:\n\n#### **Stage 1: Pre-Production (Planning)**\n- **Define your hook**: The first 5\u201315 seconds must grab attention.\n- **Script or outline**: Even bullet points help structure your narrative.\n- **Shot list**: Plan angles, B",
+  "raw_payload": {
+    "id": "chatcmpl-d057a0b4-6f32-4905-b09b-6e5218874d78",
+    "object": "chat.completion",
+    "created": 1795377441,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful YouTube post (video) requires a structured workflow that moves from concept to publication. As a content creator based in the UK, you have access to a robust ecosystem of tools that can streamline this process. Below is a recommended workflow, curated software options, and key industry players to consider.\n\n### **1. Recommended Workflow: The 4-Stage Pipeline**\n\nA consistent workflow ensures efficiency and quality. Here\u2019s a proven 4-stage method:\n\n#### **Stage 1: Pre-Production (Planning)**\n- **Define your hook**: The first 5\u201315 seconds must grab attention.\n- **Script or outline**: Even bullet points help structure your narrative.\n- **Shot list**: Plan angles, B"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.226102756,
+      "prompt_tokens": 80,
+      "prompt_time": 0.006846572,
+      "completion_tokens": 150,
+      "completion_time": 0.299690989,
+      "total_tokens": 230,
+      "total_time": 0.306537561
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82db9z0ew1r9vdzadcabcqr",
+      "seed": 918096786
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1599,
+  "cost_usd": 0.0002
+}

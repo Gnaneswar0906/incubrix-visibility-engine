@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to discord",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post youtube videos to discord' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 494
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post youtube videos to discord' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 458
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_youtube_videos_to_discord_cfd6e1_d2_IN.json"
+}

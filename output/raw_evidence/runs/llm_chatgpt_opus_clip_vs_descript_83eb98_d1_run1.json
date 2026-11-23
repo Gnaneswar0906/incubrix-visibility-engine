@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary  \n\n| Feature | **Opus\u202fClip** | **Descript** | When to Choose |\n|---------|--------------|--------------|----------------|\n| **Core purpose** | AI\u2011driven short\u2011form video creation",
+  "raw_payload": {
+    "id": "chatcmpl-cb4fb705-5b93-4a12-90f4-a8ab3e454c11",
+    "object": "chat.completion",
+    "created": 1795374918,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary  \n\n| Feature | **Opus\u202fClip** | **Descript** | When to Choose |\n|---------|--------------|--------------|----------------|\n| **Core purpose** | AI\u2011driven short\u2011form video creation",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendation comparing Opus Clip vs Descript, also mention other tools like IncuBrix, CapCut, etc. Provide workflow methods, key industry options. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide summary, pros/cons, use cases. Provide workflow suggestions. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054364571,
+      "prompt_tokens": 133,
+      "prompt_time": 0.027549289,
+      "completion_tokens": 150,
+      "completion_time": 0.309763839,
+      "total_tokens": 283,
+      "total_time": 0.337313128,
+      "completion_tokens_details": {
+        "reasoning_tokens": 93
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5e2577217c",
+    "x_groq": {
+      "id": "req_01m82ayawqemm9crwgxdvpv9ec",
+      "seed": 1546293395
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3740,
+  "cost_usd": 0.0002
+}

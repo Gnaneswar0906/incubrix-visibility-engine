@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=turn+youtube+video+into",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "turn youtube video into",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:30:29.602267+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "turn youtube video into transcript",
+    "turn youtube video into audio",
+    "turn youtube video into notes",
+    "turn youtube video into audio mp4",
+    "turn youtube video into shorts",
+    "turn youtube video into transcript instantly",
+    "turn youtube video into text",
+    "turn youtube video into pdf",
+    "turn youtube video into ringtone",
+    "turn youtube video into shorts free"
+  ],
+  "raw_response": "[\"turn youtube video into\",[\"turn youtube video into transcript\",\"turn youtube video into audio\",\"turn youtube video into notes\",\"turn youtube video into audio mp4\",\"turn youtube video into shorts\",\"turn youtube video into transcript instantly\",\"turn youtube video into text\",\"turn youtube video into pdf\",\"turn youtube video into ringtone\",\"turn youtube video into shorts free\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[512],[512],[512],[512],[512],[512],[512]]}]"
+}

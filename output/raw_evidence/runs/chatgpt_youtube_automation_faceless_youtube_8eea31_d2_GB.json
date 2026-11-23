@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"youtube automation faceless youtube channel using ai free download\". The user wants recommendations for best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. The user is a content",
+      "cost_usd": 0.0002,
+      "latency_ms": 6998,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_8eea31_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user is a content creator located in GB, wants a faceless YouTube channel using AI, free download. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to produce a hel",
+      "cost_usd": 0.0002,
+      "latency_ms": 5829,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_8eea31_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_automation_faceless_youtube_8eea31_d2_GB.json"
+}

@@ -1,0 +1,114 @@
+{
+  "query": "opus vs wav",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/audioengineering/comments/1iknhf9/audio_formats_opus_vs_mp3_vs_wav/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus vs wav",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Audio Formats: OPUS vs MP3 vs WAV? : r/audioengineering",
+        "link": "https://www.reddit.com/r/audioengineering/comments/1iknhf9/audio_formats_opus_vs_mp3_vs_wav/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a audio_formats_opus_vs_mp3_v...",
+        "snippet": "MP3 has been about 5x more efficient than WAV while OPUS is 8x more efficient. WAV is lossless MP3 and opus are both lossy - ie they lose ...",
+        "sitelinks": [
+          {
+            "title": "What audio format do you use for music and sounds and why?r/gamedev\u00b740+ comments\u00b74y",
+            "link": "https://www.reddit.com/r/gamedev/comments/xan55b/what_audio_format_do_you_use_for_music_and_sounds/"
+          },
+          {
+            "title": "Formatos de audio: \u00bfOPUS vs MP3 vs WAV? : r/audioengineeringr/audioengineering\u00b710+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/audioengineering/comments/1iknhf9/audio_formats_opus_vs_mp3_vs_wav/?tl=es-419"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "OPUS to WAV Converter",
+        "link": "https://cloudconvert.com/opus-to-wav",
+        "displayedLink": "https://cloudconvert.com \u203a opus-to-wav",
+        "snippet": "WAV is an audio file that is associated with Microsoft Windows. WAV files are comparatively larger than MP3 files. It is mostly used to create music files in ...",
+        "position": 2
+      },
+      {
+        "title": "wav vs opus: speech-to-text transcript quality",
+        "link": "https://stackoverflow.com/questions/37018868/wav-vs-opus-speech-to-text-transcript-quality",
+        "displayedLink": "https://stackoverflow.com \u203a questions \u203a 37018868 \u203a wav-vs-opus-speech-to-text-...",
+        "snippet": "I am using IBM Watson's speech-to-text service to generate transcripts for few telephony audio files (8kHz). I have tried both wav and opus versions of ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://stackoverflow.com/a/37035361"
+          },
+          {
+            "title": "More",
+            "link": "https://stackoverflow.com/a/37034008"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Best audio format: MP3, AAC, WAV, FLAC, or Opus?",
+        "link": "https://transloadit.com/blog/2024/03/understanding-different-audio-formats/",
+        "displayedLink": "https://transloadit.com \u203a blog \u203a ... \u203a understanding-different-aud...",
+        "snippet": "WAV for editing, and Opus for bandwidth-efficient speech and real-time audio. Opus is a modern lossy codec designed for both speech and music. ...",
+        "date": "25 Mar 2024",
+        "position": 4
+      },
+      {
+        "title": "Part 1. OGG Vorbis vs Opus vs WAV vs FLAC vs MP3 quality comparison test ...",
+        "link": "https://www.youtube.com/watch?v=XCHwrnlWpNc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "OGG Vorbis vs Opus vs WAV vs FLAC vs MP3 quality comparison test for stems and source files render. Opus, the Swiss Army Knife of Audio Codecs",
+        "position": 5
+      },
+      {
+        "title": "Opus (audio format)",
+        "link": "https://en.wikipedia.org/wiki/Opus_(audio_format)",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Opus_(audio_format)",
+        "snippet": "The first is an uncompressed WAV file, and the third is an Opus file encoded at 16 kbit/s. Opus shows superior quality",
+        "position": 6
+      },
+      {
+        "title": "The Differences Between Audio Formats: MP3, FLAC, WAV & More",
+        "link": "https://www.lalal.ai/blog/difference-between-audio-formats-mp3-flac-wav-aiff-m4a-ogg/",
+        "displayedLink": "https://www.lalal.ai \u203a blog \u203a difference-between-audio-fo...",
+        "snippet": "WAV (Waveform Audio File Format) is the gold standard in studio recording. Opus (low-latency audio) Bitrate range Variable (typically 45\u2013500 ...",
+        "date": "3 Jun 2026",
+        "position": 7
+      },
+      {
+        "title": "OPUS to WAV Converter - FreeConvert.com",
+        "link": "https://www.freeconvert.com/opus-to-wav",
+        "displayedLink": "https://www.freeconvert.com \u203a opus-to-wav",
+        "snippet": "Convert OPUS to WAV online, for free. Simply upload your OPUS files and click the convert button. You can also batch convert OPUS to WAV format. Opus is an ...",
+        "position": 8
+      },
+      {
+        "title": "Every Audio Format Explained (MP3, WAV, FLAC & More)",
+        "link": "https://www.youtube.com/watch?v=yWyVyPj7pr8",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "What you'll learn: MP3 vs WAV \u2014 what's the real difference? Lossy vs Lossless audio explained simply Which format gives the best sound\u00a0...",
+        "position": 9
+      },
+      {
+        "title": "Audio Codecs Compared - MP3, AAC, AC3, WAV, WMA, and Opus",
+        "link": "https://ottverse.com/mp3-aac-ac3-wav-wma-opus-audio-codecs-differences/",
+        "displayedLink": "https://ottverse.com \u203a mp3-aac-ac3-wav-wma-opus-au...",
+        "snippet": "In this article, we look at the differences between MP3, AAC, AC3, WAV, WMA, and Opus - what are these audio codecs, their use-cases, ...",
+        "date": "28 Jan 2021",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

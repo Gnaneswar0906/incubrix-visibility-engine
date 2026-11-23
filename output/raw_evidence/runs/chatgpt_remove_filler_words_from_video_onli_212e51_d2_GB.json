@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video online free",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator located in GB, asking: \"remove filler words from video online free\". They want recommendations of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. So we need to g",
+      "cost_usd": 0.0002,
+      "latency_ms": 5267,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_onli_212e51_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! Removing filler words (\"um,\" \"uh,\" \"like,\" \"you know\") is one of the most effective ways to tighten your content, improve retention, and make your videos appear more professional.\n\nSince you are looking for **online**, **free**, and **best** tools, here is a curated breakdown of the top optio",
+      "cost_usd": 0.0002,
+      "latency_ms": 1529,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_filler_words_from_video_onli_212e51_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_filler_words_from_video_onli_212e51_d2_GB.json"
+}

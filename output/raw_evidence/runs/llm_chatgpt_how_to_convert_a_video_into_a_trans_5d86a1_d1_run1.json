@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting video to text is now a standard part of the content creation workflow, whether you\u2019re making subtitles for accessibility, repurposing long-form content into blog posts, or generating text-based marketing assets.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options tailored for a US-based content creator.\n\n### \ud83c\udfc6 Top Software Tools for Video-to-Text\n\n#### 1. **Descript** (Best Overall for Creators)\n- **Why it\u2019s top-tier:** Descript treats video editing like text editing. You transcribe your video, then edit the text to automatically cut the video. It\u2019s the gold standard for podcasters and YouTubers.\n- **Key Features:**\n",
+  "raw_payload": {
+    "id": "chatcmpl-03e53f10-33bf-4547-b186-24ae23c9051e",
+    "object": "chat.completion",
+    "created": 1795374566,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting video to text is now a standard part of the content creation workflow, whether you\u2019re making subtitles for accessibility, repurposing long-form content into blog posts, or generating text-based marketing assets.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options tailored for a US-based content creator.\n\n### \ud83c\udfc6 Top Software Tools for Video-to-Text\n\n#### 1. **Descript** (Best Overall for Creators)\n- **Why it\u2019s top-tier:** Descript treats video editing like text editing. You transcribe your video, then edit the text to automatically cut the video. It\u2019s the gold standard for podcasters and YouTubers.\n- **Key Features:**\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047947218,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005243222,
+      "completion_tokens": 150,
+      "completion_time": 0.287958018,
+      "total_tokens": 230,
+      "total_time": 0.29320124
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82akjhnebg88kq5n0yrg98m",
+      "seed": 25612140
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 9181,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=descript+vs",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "descript vs",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:31:59.331209+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "descript vs riverside",
+    "descript vs capcut",
+    "descript vs opus clip",
+    "descript vs davinci resolve",
+    "descript vs loom",
+    "descript vs",
+    "descript vs elevenlabs",
+    "descript vs riverside for podcast",
+    "descript vs heygen",
+    "descript vs veed"
+  ],
+  "raw_response": "[\"descript vs\",[\"descript vs riverside\",\"descript vs capcut\",\"descript vs opus clip\",\"descript vs davinci resolve\",\"descript vs loom\",\"descript vs\",\"descript vs elevenlabs\",\"descript vs riverside for podcast\",\"descript vs heygen\",\"descript vs veed\"],[],{\"google:suggestsubtypes\":[[512],[512],[512],[512],[512],[512],[512],[512],[512],[512]]}]"
+}

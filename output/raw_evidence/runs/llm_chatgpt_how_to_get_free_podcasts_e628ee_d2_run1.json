@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get free podcasts",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query from a content creator located in India (IN). The user asks: \"how to get free podcasts\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy. This is a legitimate request for info about free podcasts and tools. No disallowed content. Provide recommendations, mention tools, workflow, cite sources. Should we provide links? Yes. Provide citations with URLs. Ensure not to misrepresent. Also note that some tools may have free tiers. Provide steps to find free podcasts (platforms like Spotify, Apple Podcasts, Google",
+  "raw_payload": {
+    "id": "chatcmpl-dc3080f5-66e3-4573-a31c-63b30ee15ffa",
+    "object": "chat.completion",
+    "created": 1795376893,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query from a content creator located in India (IN). The user asks: \"how to get free podcasts\". They want recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy. This is a legitimate request for info about free podcasts and tools. No disallowed content. Provide recommendations, mention tools, workflow, cite sources. Should we provide links? Yes. Provide citations with URLs. Ensure not to misrepresent. Also note that some tools may have free tiers. Provide steps to find free podcasts (platforms like Spotify, Apple Podcasts, Google"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157788972,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006043167,
+      "completion_tokens": 150,
+      "completion_time": 0.311573315,
+      "total_tokens": 284,
+      "total_time": 0.317616482,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82ctjs4e9t92s77czypxgmj",
+      "seed": 1470977877
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2355,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a faceless youtube channel with ai using invideo",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation for creating a faceless YouTube channel with AI using InVideo. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide thorough answer. Cite sources: can reference web sources. I need to fabricate citations? Should be plausible but not fabricated. Use known sources like InVideo website, CapCut official, Descript blog, etc. Provide links. Also note GB location maybe mention UK copyright laws. Provide workflow steps: script generation (ChatGPT, Jasper), voiceover (ElevenLabs, Murf AI),",
+  "raw_payload": {
+    "id": "chatcmpl-e3b1d9df-bf7d-4411-91ae-eb4750fecc7c",
+    "object": "chat.completion",
+    "created": 1795375844,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation for creating a faceless YouTube channel with AI using InVideo. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's fine. Provide thorough answer. Cite sources: can reference web sources. I need to fabricate citations? Should be plausible but not fabricated. Use known sources like InVideo website, CapCut official, Descript blog, etc. Provide links. Also note GB location maybe mention UK copyright laws. Provide workflow steps: script generation (ChatGPT, Jasper), voiceover (ElevenLabs, Murf AI),"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36790773,
+      "prompt_tokens": 140,
+      "prompt_time": 0.007832869,
+      "completion_tokens": 150,
+      "completion_time": 0.310625633,
+      "total_tokens": 290,
+      "total_time": 0.318458502,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82btjbnevp8s4vcmx9nxmz7",
+      "seed": 2003275932
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4055,
+  "cost_usd": 0.0002
+}

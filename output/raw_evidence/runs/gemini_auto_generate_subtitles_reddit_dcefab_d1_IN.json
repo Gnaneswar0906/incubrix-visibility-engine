@@ -1,0 +1,43 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant catering to content creators in **IN (India)**, I understand that creating engaging, subtitled videos is crucial for social media growth\u2014especially since a significant portion of Indian audiences consume video content on mobile devices with the sound off. Furthermore, Indian creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 7865,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_subtitles_reddit_dcefab_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto generate subtitles reddit' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 444
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_subtitles_reddit_dcefab_d1_IN.json"
+}

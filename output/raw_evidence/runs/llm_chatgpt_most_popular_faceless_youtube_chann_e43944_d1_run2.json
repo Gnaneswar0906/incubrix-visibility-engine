@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel from India requires a blend of strategic niche selection, efficient workflow automation, and the right software stack. Since you are located in **IN (India)**, I have tailored these recommendations to consider local cost-efficiency, internet bandwidth optimization, and popular niches that perform well globally while being accessible for Indian creators.\n\n### 1. Most Popular & Profitable Faceless Niches (2024\u20132025)\nBefore diving into tools, align your content with high-demand formats:\n- **Top 10/Top 5 Lists**: \"Top 10 Engineering Wonders,\" \"Top 5 Luxury Cars.\"\n- **Explainer/Educational**: Finance, tech reviews,",
+  "raw_payload": {
+    "id": "chatcmpl-f1ad28f7-bb04-4484-8379-cc69c4acd17c",
+    "object": "chat.completion",
+    "created": 1795375393,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel from India requires a blend of strategic niche selection, efficient workflow automation, and the right software stack. Since you are located in **IN (India)**, I have tailored these recommendations to consider local cost-efficiency, internet bandwidth optimization, and popular niches that perform well globally while being accessible for Indian creators.\n\n### 1. Most Popular & Profitable Faceless Niches (2024\u20132025)\nBefore diving into tools, align your content with high-demand formats:\n- **Top 10/Top 5 Lists**: \"Top 10 Engineering Wonders,\" \"Top 5 Luxury Cars.\"\n- **Explainer/Educational**: Finance, tech reviews,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048014385,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005119685,
+      "completion_tokens": 150,
+      "completion_time": 0.28591667,
+      "total_tokens": 228,
+      "total_time": 0.291036355
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bcteqeckrmszpev974v2f",
+      "seed": 1180013950
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1037,
+  "cost_usd": 0.0002
+}

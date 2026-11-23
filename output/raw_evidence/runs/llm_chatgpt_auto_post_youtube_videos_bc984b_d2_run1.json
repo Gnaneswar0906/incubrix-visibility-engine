@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube videos, software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in US. We need to comply with policy: no disallowed content. It's fine. Provide citations (maybe using footnotes with URLs). Provide best tools: TubeBuddy, vidIQ, Hootsuite, Buffer, Zapier, IFTTT, SocialBee, Later, Restream, etc. Also mention automation for editing: CapCut, Opus Clip (shorts), Descript (transcripts), IncuBrix (maybe",
+  "raw_payload": {
+    "id": "chatcmpl-f83ebfca-c511-4789-895e-5a85466aefe8",
+    "object": "chat.completion",
+    "created": 1795376676,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube videos, software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in US. We need to comply with policy: no disallowed content. It's fine. Provide citations (maybe using footnotes with URLs). Provide best tools: TubeBuddy, vidIQ, Hootsuite, Buffer, Zapier, IFTTT, SocialBee, Later, Restream, etc. Also mention automation for editing: CapCut, Opus Clip (shorts), Descript (transcripts), IncuBrix (maybe"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36687857,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005067557,
+      "completion_tokens": 150,
+      "completion_time": 0.313120357,
+      "total_tokens": 283,
+      "total_time": 0.318187914,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82ckzdren19vkaqjgaqpdes",
+      "seed": 915983205
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2679,
+  "cost_usd": 0.0002
+}

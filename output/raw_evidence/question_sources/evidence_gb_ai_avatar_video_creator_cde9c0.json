@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=ai+avatar+video+creator",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "ai avatar video creator",
+  "cluster": "Cluster 6: Creator growth, script-to-video, and AI avatars",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:39:06.773613+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "ai avatar video creator",
+    "ai avatar video creator free",
+    "ai avatar video generator",
+    "ai avatar video generator free",
+    "ai avatar video generator free online",
+    "ai avatar video generator free unlimited",
+    "ai avatar video maker",
+    "ai avatar video generator free without watermark",
+    "ai avatar video generator free download",
+    "ai avatar video generator with lip sync"
+  ],
+  "raw_response": "[\"ai avatar video creator\",[\"ai avatar video creator\",\"ai avatar video creator free\",\"ai avatar video generator\",\"ai avatar video generator free\",\"ai avatar video generator free online\",\"ai avatar video generator free unlimited\",\"ai avatar video maker\",\"ai avatar video generator free without watermark\",\"ai avatar video generator free download\",\"ai avatar video generator with lip sync\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

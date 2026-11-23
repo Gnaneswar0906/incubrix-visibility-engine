@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a successful faceless YouTube channel in 2026 requires a shift from simple \"stock footage + AI voiceover\" formats to more sophisticated, narrative-driven, and visually dynamic content. The audience in 2026 is highly sophisticated and expects high production value, even when no human face is on screen.\n\nHere\u2019s a comprehensive guide to building a faceless channel in 2026, focusing on the best tools, workflows, and industry standards.\n\n### 1. The 2026 Faceless YouTube Workflow\n\nThe modern workflow is no longer linear. It\u2019s an iterative, AI-assisted pipeline:\n\n1.  **Niche & Concept Validation**: Use AI trend analysis tools to identify underserved",
+  "raw_payload": {
+    "id": "chatcmpl-cc07e2c8-33dd-4ee1-81e5-0431028eb631",
+    "object": "chat.completion",
+    "created": 1795375799,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a successful faceless YouTube channel in 2026 requires a shift from simple \"stock footage + AI voiceover\" formats to more sophisticated, narrative-driven, and visually dynamic content. The audience in 2026 is highly sophisticated and expects high production value, even when no human face is on screen.\n\nHere\u2019s a comprehensive guide to building a faceless channel in 2026, focusing on the best tools, workflows, and industry standards.\n\n### 1. The 2026 Faceless YouTube Workflow\n\nThe modern workflow is no longer linear. It\u2019s an iterative, AI-assisted pipeline:\n\n1.  **Niche & Concept Validation**: Use AI trend analysis tools to identify underserved"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054654546,
+      "prompt_tokens": 83,
+      "prompt_time": 0.005438754,
+      "completion_tokens": 150,
+      "completion_time": 0.285539427,
+      "total_tokens": 233,
+      "total_time": 0.290978181
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bs7aqex6a0j2rf2cgtf7d",
+      "seed": 1964884663
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1526,
+  "cost_usd": 0.0002
+}

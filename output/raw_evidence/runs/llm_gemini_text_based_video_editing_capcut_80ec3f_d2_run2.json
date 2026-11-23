@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing capcut",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to leverage text-based video editing (frequently called \"transcript-based editing\"), you are tapping into one of the fastest-growing workflows in digital media. This technology allows you to edit video footage simply by deleting, copying, or rearranging text in an automated transcript, radically speeding up the post-production process.\n\nBelow is an overview of the best software tools, a recommended production workflow, and a breakdown of key industry options, including **CapCut**, **Descript**, **Opus Clip**, and **IncuBrix**.\n\n---\n\n### Key Industry Options\n\n#### 1. CapCut (Best for Mobile-First & Social Media Captioning)\n* **Overview:** Developed by ByteDance (the parent company of TikTok), CapCut is heavily favored by social media creators for its aggressive feature rollout, ease of use, and massive library of templates and trendy auto-captions.\n* **Text-Based Features",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to leverage text-based video editing (frequently called \"transcript-based editing\"), you are tapping into one of the fastest-growing workflows in digital media. This technology allows you to edit video footage simply by deleting, copying, or rearranging text in an automated transcript, radically speeding up the post-production process.\n\nBelow is an overview of the best software tools, a recommended production workflow, and a breakdown of key industry options, including **CapCut**, **Descript**, **Opus Clip**, and **IncuBrix**.\n\n---\n\n### Key Industry Options\n\n#### 1. CapCut (Best for Mobile-First & Social Media Captioning)\n* **Overview:** Developed by ByteDance (the parent company of TikTok), CapCut is heavily favored by social media creators for its aggressive feature rollout, ease of use, and massive library of templates and trendy auto-captions.\n* **Text-Based Features",
+              "thoughtSignature": "Eo4BCosBAWkUfRNqt/UTiP/mSLmUjrJiJwOm96SshoLKREjhRgj2/lAh785mVudhMrxRbU8msMpeFDzxpf2ub0PN+RPJSQQIMNq46R+agU8JQ92C6ibaGTWRuEfq2pAcCCr+BRkKpyXqJ0lMQIWufLpmTYrgiUL57lLLKE9vvCpnH4UZWq9uXQU2ySl9bDFO9g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "yEUDa6vqHNSh3LUPmIyn2As"
+  },
+  "latency_ms": 2912,
+  "cost_usd": 0.0002
+}

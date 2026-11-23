@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating an \"auto poster\" for YouTube typically involves two distinct workflows depending on your definition:\n1.  **Automated Thumbnail/Poster Generation:** Creating static, eye-catching images automatically based on video content.\n2.  **Auto-Generated Short-Form Clips:** Using AI to automatically cut long-form videos into vertical, captioned \"posters\" (clips) for YouTube Shorts, TikTok, and Instagram Reels.\n\nGiven the tools you mentioned (Opus Clip, CapCut, Descript, IncuBrix), you are likely interested in **AI-powered video clipping and editing workflows** that generate shareable content automatically. Here\u2019s a breakdown of the best software tools, workflow methods, and industry options for a US-based",
+  "raw_payload": {
+    "id": "chatcmpl-aa71620a-6feb-45d0-b4c8-09686e344233",
+    "object": "chat.completion",
+    "created": 1795374887,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating an \"auto poster\" for YouTube typically involves two distinct workflows depending on your definition:\n1.  **Automated Thumbnail/Poster Generation:** Creating static, eye-catching images automatically based on video content.\n2.  **Auto-Generated Short-Form Clips:** Using AI to automatically cut long-form videos into vertical, captioned \"posters\" (clips) for YouTube Shorts, TikTok, and Instagram Reels.\n\nGiven the tools you mentioned (Opus Clip, CapCut, Descript, IncuBrix), you are likely interested in **AI-powered video clipping and editing workflows** that generate shareable content automatically. Here\u2019s a breakdown of the best software tools, workflow methods, and industry options for a US-based"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054648566,
+      "prompt_tokens": 75,
+      "prompt_time": 0.004921504,
+      "completion_tokens": 150,
+      "completion_time": 0.285359457,
+      "total_tokens": 225,
+      "total_time": 0.290280961
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82axbymekms2sws4c4mvc74",
+      "seed": 1039801324
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1903,
+  "cost_usd": 0.0002
+}

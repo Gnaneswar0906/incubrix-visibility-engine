@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto generate captions for instagram' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 399
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best software tools, key industry options, and an optimized workflow for auto-generating Instagram captions and video subtitles.\n\nIn the fast-paced world of U.S. social media, accessibility and en",
+      "cost_usd": 0.0002,
+      "latency_ms": 5082,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_instagra_6d38e9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_instagra_6d38e9_d1_US.json"
+}

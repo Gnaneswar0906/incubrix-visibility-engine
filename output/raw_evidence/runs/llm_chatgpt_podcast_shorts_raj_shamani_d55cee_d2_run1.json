@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript) for \"podcast shorts raj shamani\". Likely they want to create short clips from podcasts featuring Raj Shamani, a known Indian entrepreneur and speaker. They are a content creator in India. Need to recommend tools, workflow, mention key industry options, and cite authoritative web sources if available. Must obey policy: no disallowed content. It's fine. Provide citations with URLs. Should be helpful. Provide step-by-step workflow: source audio, transcript, editing, adding captions, branding, exporting for platforms (YouTube Shorts, Instagram Reels, TikTok",
+  "raw_payload": {
+    "id": "chatcmpl-eedef235-aa82-4c6f-8805-849010e3985f",
+    "object": "chat.completion",
+    "created": 1795376865,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript) for \"podcast shorts raj shamani\". Likely they want to create short clips from podcasts featuring Raj Shamani, a known Indian entrepreneur and speaker. They are a content creator in India. Need to recommend tools, workflow, mention key industry options, and cite authoritative web sources if available. Must obey policy: no disallowed content. It's fine. Provide citations with URLs. Should be helpful. Provide step-by-step workflow: source audio, transcript, editing, adding captions, branding, exporting for platforms (YouTube Shorts, Instagram Reels, TikTok"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369867316,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005743163,
+      "completion_tokens": 150,
+      "completion_time": 0.309967976,
+      "total_tokens": 284,
+      "total_time": 0.315711139,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82csr0cee9rmbgaqqf37tmy",
+      "seed": 132620191
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3169,
+  "cost_usd": 0.0002
+}

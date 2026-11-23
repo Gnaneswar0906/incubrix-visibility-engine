@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai faceless youtube channel tutorial 2026",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant, user is a content creator in GB, wants tutorial for faceless YouTube channel in 2026. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3325,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in 2026 requires a shift from simple \"stock footage + AI voiceover\" formats to more sophisticated, narrative-driven, and visually dynamic content. The audience in 2026 is highly sophisticated and expects high production value, even when no human face is",
+      "cost_usd": 0.0002,
+      "latency_ms": 1526,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_ai_faceless_youtube_channel_tutoria_9993f9_d1_GB.json"
+}

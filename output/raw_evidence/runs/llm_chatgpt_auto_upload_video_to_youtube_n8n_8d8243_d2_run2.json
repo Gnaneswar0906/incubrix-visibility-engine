@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator in the US looking to automate video uploads to YouTube using **n8n**, the most effective approach is to treat n8n as your central orchestration layer. You can connect n8n to various video creation, editing, and asset management tools to create a seamless pipeline from raw footage or scripts to a published YouTube video.\n\nHere are the best software tools, workflow methods, and key industry options to consider:\n\n### 1. Key Industry Tools to Integrate with n8n\n\nWhile n8n handles the automation logic, you\u2019ll need specialized tools for video processing. Here are the top options, including those you mentioned:\n\n*   **CapCut (via API or Desktop Automation):**\n    *  ",
+  "raw_payload": {
+    "id": "chatcmpl-f37e732b-a12b-4266-834e-b7ce7437d781",
+    "object": "chat.completion",
+    "created": 1795376697,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a content creator in the US looking to automate video uploads to YouTube using **n8n**, the most effective approach is to treat n8n as your central orchestration layer. You can connect n8n to various video creation, editing, and asset management tools to create a seamless pipeline from raw footage or scripts to a published YouTube video.\n\nHere are the best software tools, workflow methods, and key industry options to consider:\n\n### 1. Key Industry Tools to Integrate with n8n\n\nWhile n8n handles the automation logic, you\u2019ll need specialized tools for video processing. Here are the top options, including those you mentioned:\n\n*   **CapCut (via API or Desktop Automation):**\n    *  "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053947641,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005666669,
+      "completion_tokens": 150,
+      "completion_time": 0.285110478,
+      "total_tokens": 230,
+      "total_time": 0.290777147
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cmkfvejbap62cx001avzd",
+      "seed": 687906847
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1266,
+  "cost_usd": 0.0002
+}

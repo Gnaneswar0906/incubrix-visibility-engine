@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in India looking to replicate or analyze the massive success of podcasts like *Figuring Out with Raj Shamani*, mastering the art of repurposing long-form podcast video into viral shorts (Reels, Shorts, TikToks) is essential. Raj Shamani\u2019s team is a prime example of how strategic",
+      "cost_usd": 0.0002,
+      "latency_ms": 2930,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_raj_shamani_d55cee_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in India looking to replicate or scale the podcast-shorts success of creators like Raj Shamani, you need a mix of AI-driven curation tools and precision editing software. Raj Shamani\u2019s content style relies heavily on high-retention hooks, clean aesthetic subtitles (dynamic capti",
+      "cost_usd": 0.0002,
+      "latency_ms": 1894,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_raj_shamani_d55cee_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_raj_shamani_d55cee_d1_IN.json"
+}

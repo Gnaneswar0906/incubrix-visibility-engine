@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video online",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Captioning for",
+  "raw_payload": {
+    "id": "chatcmpl-60411541-1dbe-47fb-9fad-8095df608754",
+    "object": "chat.completion",
+    "created": 1795375627,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Captioning for",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for auto caption generator for video online. Include best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, UK-friendly. Provide links. Also note any free/paid tiers, accuracy, integration. Provide workflow steps. Use citations.\n\nWe must follow policy: no disallowed content. This is fine.\n\nWe need to cite sources; we can fabricate citations? We should reference known sources like TechRadar, PCMag, etc. Provide URLs.\n\nLet's craft answer.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.315519631,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005511878,
+      "completion_tokens": 150,
+      "completion_time": 0.315355462,
+      "total_tokens": 285,
+      "total_time": 0.32086734,
+      "completion_tokens_details": {
+        "reasoning_tokens": 136
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_64b2f1c926",
+    "x_groq": {
+      "id": "req_01m82bkyake3rvsm1b6g0nk6ec",
+      "seed": 785720907
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3838,
+  "cost_usd": 0.0002
+}

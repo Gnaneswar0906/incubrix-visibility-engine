@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "can you schedule posts on youtube",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in GB (Great Britain). Provide recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful, include sche",
+      "cost_usd": 0.0002,
+      "latency_ms": 2528,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_you_schedule_posts_on_youtube_434477_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator based in the UK, you have several reliable options for scheduling YouTube posts. The \"best\" tool depends on whether you prioritize native integration, AI-powered repurposing, or simple calendar management.\n\nHere are the top recommendations, categorized by use case, along ",
+      "cost_usd": 0.0002,
+      "latency_ms": 888,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_can_you_schedule_posts_on_youtube_434477_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_can_you_schedule_posts_on_youtube_434477_d1_GB.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Below is a **step\u2011by\u2011step workflow** that many successful faceless\u2011YouTube creators use today, together with the **best AI\u2011powered tools** for each stage.  \nI\u2019ve highlighted the most popular options (including the ones you mentioned) and added a few \u201cmust\u2011have\u201d alternatives that consistently rank high in reviews, creator surveys,",
+  "raw_payload": {
+    "id": "chatcmpl-64a848c3-e98d-4eb8-8328-a8eda63d2c45",
+    "object": "chat.completion",
+    "created": 1795376787,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Below is a **step\u2011by\u2011step workflow** that many successful faceless\u2011YouTube creators use today, together with the **best AI\u2011powered tools** for each stage.  \nI\u2019ve highlighted the most popular options (including the ones you mentioned) and added a few \u201cmust\u2011have\u201d alternatives that consistently rank high in reviews, creator surveys,",
+          "reasoning": "We need to answer as an AI assistant. Provide recommendations for faceless YouTube channel AI prompt: software tools, workflow, key industry options, citing authoritative web sources. Should be helpful for content creator in US. Provide citations with links. Must not violate policy. It's fine. Provide structured answer. Use bullet points, sections. Provide references."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368990137,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005315869,
+      "completion_tokens": 150,
+      "completion_time": 0.311904392,
+      "total_tokens": 285,
+      "total_time": 0.317220261,
+      "completion_tokens_details": {
+        "reasoning_tokens": 70
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82cqb19ex2sfpcx1mty0408",
+      "seed": 1773713521
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3397,
+  "cost_usd": 0.0002
+}

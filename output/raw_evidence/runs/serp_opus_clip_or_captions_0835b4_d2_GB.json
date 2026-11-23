@@ -1,0 +1,98 @@
+{
+  "query": "opus clip or captions",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.opus.pro/tools/opusclip-captions",
+  "competitors_named": "Opus Clip, Submagic",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus clip or captions",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OpusClip Captions - Free & Fast Captioning Tool",
+        "link": "https://www.opus.pro/tools/opusclip-captions",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a opusclip-captions",
+        "snippet": "OpusClip adds AI captions to your short videos, using caption styles popularized by well-known content creators. The Free plan includes AI captions and exports ...",
+        "position": 1
+      },
+      {
+        "title": "OpusClip - AI-powered Video Repurposing",
+        "link": "https://clip.opus.pro/captions",
+        "displayedLink": "https://clip.opus.pro \u203a captions",
+        "snippet": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. OpusClip Captions - Caption your shorts like ...",
+        "position": 2
+      },
+      {
+        "title": "Opus Clip vs. Captions: Which One Is Better? \u2702\ufe0f",
+        "link": "https://www.youtube.com/watch?v=-JLZwWxz_tQ",
+        "displayedLink": "730+ views  \u00b7  12 months ago",
+        "snippet": "Choosing between Opus Clip and Captions in 2025? This US-focused breakdown compares accuracy, auto-captions, templates, AI editing speed, and ...",
+        "date": "12 months ago",
+        "position": 3
+      },
+      {
+        "title": "Is opus the best tool I can use for generating clips?",
+        "link": "https://www.google.com/goto?url=CAESoQEBxCJF15G8sefGeQSAY_FSSnqcglWw2jGsYGEj7XaCMdbWIb1jPSWi7SQ9BwpTI9tYbdhylkaZHMkTTd9OHciTl4R_eeq_AC1fuFHgKzLrrybhFqFyH4d3hZuwgHjwe4HcHqxeUifLG_Ii__LaWWUT116UUCO40HdAkSzSbO9LMKqYWmC4jsn_WF_dlKvjt9_vhKG7a3-5SBmdIoyDzXRbXg&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "20+ comments  \u00b7  1 year ago",
+        "snippet": "Planning to start podcasting or doing long form streaming content I just want a good AI to generate clips because I honestly don\u2019t have the other ...",
+        "date": "1 year ago",
+        "position": 4
+      },
+      {
+        "title": "Best Captions AI - Animated Captions in 1 Click",
+        "link": "https://www.google.com/goto?url=CAESWgHEIkXXoqNRWh45AyWugYZ6KailHkHLYSeimfvq_RXna9ttJ5oe0oDKgUoNmpl2FvofjziSjaC0hM8LF9COnxMFSm_Q-PclpuexwivImjFQQOScfaLpE9otfA&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "https://www.opus.pro \u203a captions",
+        "snippet": "Add eye-catching animated captions with our free captions app. 99% accuracy, 20+ languages. Perfect for TikTok, YouTube Shorts & Reels.",
+        "position": 5
+      },
+      {
+        "title": "How to use Opus Clip for Captions",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXr6ekOIBW6kZM9lJ6O0RPq6h-AJbaMW97peVrDbwnkY3_cnKnc2yOb4obKwMa37Eezf78Y_uM5ZEqB-SIJlVaYturPF3hZIfdJp0JmsP2KSoluTe_MK8sYdHTyJC4ExYVc6qx&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "1.4K+ views  \u00b7  2 years ago",
+        "snippet": "Opus Clip is a great tool to use for creating caption. The tool uses AI video editing to add captions to your videos.",
+        "date": "2 years ago",
+        "position": 6
+      },
+      {
+        "title": "Opus Clip vs Submagic: A Detailed Comparison",
+        "link": "https://www.google.com/goto?url=CAESagHEIkXX-P1tl3cbGOOjAqGNNFmAEEb-tVnnGqL77aLxjdj0Guymt-naTt4tdyP2jDTL9aUX7BHNWeQT-G84TTsQV9lNmmGaSZBP_jISN5rhTwNMtjM8wdFtHczB0C2DWLleAn3hw6ctYEE&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "https://coursiv.io \u203a Blog",
+        "snippet": "Opus Clip is the stronger fit when your main job is finding moments in long videos and turning them into platform-ready shorts. Submagic is a ...",
+        "date": "Jul 20, 2026",
+        "position": 7
+      },
+      {
+        "title": "Change or Remove Captions",
+        "link": "https://www.google.com/goto?url=CAESbwHEIkXXUYiBL0SEeGHthvCh9dobxjx7nZXZuS3JqKZgK2ugtGPqZA4wqxLK7aylTHPFURxhZAA0EfTZiFHjpDcvEDwuwBFqHbMqBtYBTs32ziHNadgAtmdtsBdsFzmB6txq6UqQcNPjYeaGW1NwvA&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "https://help.opus.pro \u203a docs \u203a article \u203a change-captions",
+        "snippet": "To edit captions, select a specific word/sentence and then click the Edit button. there unfortunately isn't a way for OpusClip to remove them. The only way to ...",
+        "position": 8
+      },
+      {
+        "title": "Comprehensive Review of Opus Clip AI and Its Alternatives",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXdzK7ehHPC2ifs9GU306HgoEwPquZ_X1CR_7QG-r46VIsMlkaZaT-KhrqJUzGpW65NBsI3fewAKsf6jpY75fAFbdNomSEqDrt_MrcXMyIhRyRtEOlvuI1_t_lFS73vN9cysvnLCSoMmG22UYYrszOgVp0&gsessionid=AxedOCF4lI3FgXNaGsPWnKQK0qI4fAsVnhmJy7SxEiVH8bsrhQ6rlg",
+        "displayedLink": "https://creatify.ai \u203a Blog \u203a Comparison",
+        "snippet": "Opus Clip's core features. It generates automated captions. Opus Clip's AI generates captions for your videos autoamtically. Captions in your ...",
+        "date": "Dec 8, 2024",
+        "rating": 4.8,
+        "ratingCount": 1808,
+        "position": 9
+      },
+      {
+        "title": "OpusClip: #1 AI video clipping and editing tool",
+        "link": "https://www.opus.pro/",
+        "displayedLink": "https://www.opus.pro",
+        "snippet": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. We help 20M+ creators create and grow ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

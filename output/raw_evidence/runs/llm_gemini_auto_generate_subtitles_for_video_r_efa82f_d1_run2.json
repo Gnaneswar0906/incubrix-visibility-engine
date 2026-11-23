@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate subtitles for video reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to auto-generate subtitles for Reddit videos (typically short-form, high-engagement content meant for platforms like Reddit\u2019s native video player, YouTube Shorts, or Instagram Reels), you need tools that excel at speed, engaging styles (like the popular Alex Hormozi style), and Indian-accent English or regional language recognition. \n\nBased on industry standards and creator discussions across communities like r/VideoEditing and r/NewTubers, here is a comprehensive breakdown of the best software tools, a recommended workflow, and an analysis of key industry options.\n\n---\n\n### Part 1: Key Industry Options & Recommendations\n\n#### 1. CapCut (Best Overall for Mobile & Trendy Subtitles)\n*   **Overview:** CapCut dominates short-form video editing due to its robust, free \"Auto Captions\" feature. \n*   **Why it fits Reddit content:** It offers templates with dynamic",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to auto-generate subtitles for Reddit videos (typically short-form, high-engagement content meant for platforms like Reddit\u2019s native video player, YouTube Shorts, or Instagram Reels), you need tools that excel at speed, engaging styles (like the popular Alex Hormozi style), and Indian-accent English or regional language recognition. \n\nBased on industry standards and creator discussions across communities like r/VideoEditing and r/NewTubers, here is a comprehensive breakdown of the best software tools, a recommended workflow, and an analysis of key industry options.\n\n---\n\n### Part 1: Key Industry Options & Recommendations\n\n#### 1. CapCut (Best Overall for Mobile & Trendy Subtitles)\n*   **Overview:** CapCut dominates short-form video editing due to its robust, free \"Auto Captions\" feature. \n*   **Why it fits Reddit content:** It offers templates with dynamic",
+              "thoughtSignature": "Eo4BCosBAWkUfRPqD/AU8q3I+zkbrJE5TwLLzPQa1dJdiWiUe/hluxyAqnoJO+qoTI3iAJQHzci3CqS6/UYsuNwMHGVoX8+SKqj+eAAsDT6qff0GdgvI7Orp8yZpeeMY0F8DjEziARdiJlMqF0a8mQM/TXbHxg6Vfj0Tl3McOQwH+Mjt0unDfdUBlyUtV8TcNA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "dkADa4j-Aeqy694P-dnEuAM"
+  },
+  "latency_ms": 7787,
+  "cost_usd": 0.0002
+}

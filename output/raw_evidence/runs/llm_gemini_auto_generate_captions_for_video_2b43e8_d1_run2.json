@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the U.S. looking to auto-generate captions for video, the right choice depends on your specific workflow\u2014whether you are editing short-form TikToks/Reels, long-form YouTube videos, or managing a high-volume content pipeline. \n\nHere is a breakdown of the best software tools, industry options, and a recommended workflow to maximize your efficiency.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nThe automated captioning landscape is heavily driven by AI speech-to-text technology. Depending on your needs, the top tools in the industry include:\n\n*   **CapCut (Best for Short-Form & Viral Styling):** \n    *   *Overview:* Extremely popular among creators on TikTok, Instagram Reels, and YouTube Shorts. It offers \"Auto Captions\" that recognize speech and generate animated, karaoke-style word highlighting.\n    *   *Pros:* Free tier is robust",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the U.S. looking to auto-generate captions for video, the right choice depends on your specific workflow\u2014whether you are editing short-form TikToks/Reels, long-form YouTube videos, or managing a high-volume content pipeline. \n\nHere is a breakdown of the best software tools, industry options, and a recommended workflow to maximize your efficiency.\n\n---\n\n### 1. Key Industry Options & Best Software Tools\n\nThe automated captioning landscape is heavily driven by AI speech-to-text technology. Depending on your needs, the top tools in the industry include:\n\n*   **CapCut (Best for Short-Form & Viral Styling):** \n    *   *Overview:* Extremely popular among creators on TikTok, Instagram Reels, and YouTube Shorts. It offers \"Auto Captions\" that recognize speech and generate animated, karaoke-style word highlighting.\n    *   *Pros:* Free tier is robust",
+              "thoughtSignature": "Eo4BCosBAWkUfROo5IP1l9JkdboVOkndy7GKh4hCsJaDyXZ4UvAQ4vBZhvKNXQDJBbAUqkWr8Mqvm9S+u3y6aE4bT0Sf3NSSxCSTi4I2vXd6mZIpTgV3SlJkNUtKP/OOEfhQOrUdN20JAsYyUp3f9dbWbkW7t9GuDHmXcUI/Gcb7vmV00bLjJYUnG3PA9gonrg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VT4Da-XrOIPEjuMPx4LD6Ao"
+  },
+  "latency_ms": 6531,
+  "cost_usd": 0.0002
+}

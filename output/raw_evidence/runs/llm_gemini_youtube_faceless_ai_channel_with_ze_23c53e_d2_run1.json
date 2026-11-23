@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel with **zero upfront financial investment** is entirely possible by leveraging free software tiers, open-source AI tools, and efficient workflow automation. As a US-based creator, you have access to a robust ecosystem of web-based tools that allow you to script, voice, edit, and clip videos without spending a dime.\n\nHere is a comprehensive guide to setting up your workflow, utilizing industry-standard tools (including those in your query), and leveraging free resources.\n\n---\n\n### 1. The Zero-Investment Software Stack\n\nTo run a faceless channel, you need tools for five key stages: Scripting, Voiceover, Visuals/Editing, Repurposing, and Thumbnails. \n\n#### A. Scripting & Idea Generation\n*   **ChatGPT (Free Tier) / Claude (Free Tier):** Use these LLMs for niche research, video idea generation, and full scriptwriting. \n    *   *",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel with **zero upfront financial investment** is entirely possible by leveraging free software tiers, open-source AI tools, and efficient workflow automation. As a US-based creator, you have access to a robust ecosystem of web-based tools that allow you to script, voice, edit, and clip videos without spending a dime.\n\nHere is a comprehensive guide to setting up your workflow, utilizing industry-standard tools (including those in your query), and leveraging free resources.\n\n---\n\n### 1. The Zero-Investment Software Stack\n\nTo run a faceless channel, you need tools for five key stages: Scripting, Voiceover, Visuals/Editing, Repurposing, and Thumbnails. \n\n#### A. Scripting & Idea Generation\n*   **ChatGPT (Free Tier) / Claude (Free Tier):** Use these LLMs for niche research, video idea generation, and full scriptwriting. \n    *   *",
+              "thoughtSignature": "Eo4BCosBAWkUfRMG2iwG0rsStp/1UDlDoUur38G10zAwsw5Usc4MHVwNHfY+1ASbIyzq8peRUf6hJDfdgvpFk66XXfqsR9S2raMsL7mmJkxfsTvPWMK+vyQYO2tiapA4SZ89PqVcEAH75wcJ7s5KV61KfVpiCN54XVu2PEv8g5Tr4jZD4HtDHIYHyAfGUATeOA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qkYDa7vZPMazz7sP5oG8gQs"
+  },
+  "latency_ms": 2315,
+  "cost_usd": 0.0002
+}

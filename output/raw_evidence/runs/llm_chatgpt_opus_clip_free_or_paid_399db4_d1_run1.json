@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip free or paid",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are in a strategic position to leverage cost-effective yet powerful tools. Regarding your specific question about **Opus Clip**, here is the detailed breakdown of its pricing model, followed by recommendations for the best software and workflows tailored for the Indian market.\n\n### 1. Opus Clip: Free or Paid?\n\n**Opus Clip is a freemium tool.** It is **not completely free**, but it offers a limited free tier that allows you to test the platform without a credit card.\n\n*   **Free Tier (Starter):**\n    *   Allows **60 minutes** of video processing per month.\n    *   Includes basic AI clipping features.\n    *  ",
+  "raw_payload": {
+    "id": "chatcmpl-5c26d19e-9820-419e-9470-4e65cab679d8",
+    "object": "chat.completion",
+    "created": 1795375339,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are in a strategic position to leverage cost-effective yet powerful tools. Regarding your specific question about **Opus Clip**, here is the detailed breakdown of its pricing model, followed by recommendations for the best software and workflows tailored for the Indian market.\n\n### 1. Opus Clip: Free or Paid?\n\n**Opus Clip is a freemium tool.** It is **not completely free**, but it offers a limited free tier that allows you to test the platform without a credit card.\n\n*   **Free Tier (Starter):**\n    *   Allows **60 minutes** of video processing per month.\n    *   Includes basic AI clipping features.\n    *  "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.239332375,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006259723,
+      "completion_tokens": 150,
+      "completion_time": 0.307696062,
+      "total_tokens": 228,
+      "total_time": 0.313955785
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bb5qce19s804w8hft17cw",
+      "seed": 1883873185
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1029,
+  "cost_usd": 0.0002
+}

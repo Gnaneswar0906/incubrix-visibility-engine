@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the UK (GB) looking to compare **Opus Clip** and **DaVinci Resolve**, you are looking at two fundamentally different beasts. One is an AI-powered automated repurposing tool designed for speed and volume, while the other is an industry-standard, Hollywood-grade post-production suite offering absolute control over editing, color, and audio. \n\nHere is a comprehensive breakdown to help you decide which tool\u2014or combination of tools\u2014best fits your workflow.\n\n---\n\n### 1. Opus Clip: The Automated Repurposing Machine\n\n**Opus Clip** is a generative AI video tool designed specifically to take long-form videos (like podcasts, tutorials, or streams) and automatically chop them into multiple viral short-form clips (Reels, TikToks, Shorts).\n\n*   **Best For:** Creators who prioritize output volume, speed, and hands-off editing for short-form platforms.\n*   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the UK (GB) looking to compare **Opus Clip** and **DaVinci Resolve**, you are looking at two fundamentally different beasts. One is an AI-powered automated repurposing tool designed for speed and volume, while the other is an industry-standard, Hollywood-grade post-production suite offering absolute control over editing, color, and audio. \n\nHere is a comprehensive breakdown to help you decide which tool\u2014or combination of tools\u2014best fits your workflow.\n\n---\n\n### 1. Opus Clip: The Automated Repurposing Machine\n\n**Opus Clip** is a generative AI video tool designed specifically to take long-form videos (like podcasts, tutorials, or streams) and automatically chop them into multiple viral short-form clips (Reels, TikToks, Shorts).\n\n*   **Best For:** Creators who prioritize output volume, speed, and hands-off editing for short-form platforms.\n*   **",
+              "thoughtSignature": "Eo4BCosBAWkUfRNhFB5T+IrZBKICw9/aTSVxRe9Wx3QQovOcG+dRXt9k4hoDWjNmdK33XkWgQQFjIjbuk6t/iq6YwRpjG6zrACYRYa6idV9DgMFNts0c3fOmdj7Y9kjqpqCE+fdUehtEdj3d1aH2a6GkFOUVl3YcBxWNbbQTdRZ5Crvyr2GTrF/AgRiyeyHqHg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "hkIDa8nxN-XCg8UPr_aJqAQ"
+  },
+  "latency_ms": 2185,
+  "cost_usd": 0.0002
+}

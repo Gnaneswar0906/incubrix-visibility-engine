@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, automating your YouTube Shorts workflow is a fantastic way to scale your output without sacrificing quality. Since you're in GB, please keep in mind that YouTube\u2019s Terms of Service (ToS) generally prohibit fully automated, low-effort content. However, **semi-automated workflows** (where you curate/edit locally and upload via API) are standard practice for efficiency.\n\nHere\u2019s a curated guide to the best tools, workflows, and industry options for automating YouTube Shorts uploads via GitHub, with a focus on reliability and quality.\n\n---\n\n### \ud83d\ude80 Recommended Workflow: Semi-Automated Upload via GitHub Actions\n\nThe most robust method is to use **GitHub Actions** as a",
+  "raw_payload": {
+    "id": "chatcmpl-d51e70e8-09e5-4a79-b454-0f96d5544bc4",
+    "object": "chat.completion",
+    "created": 1795377460,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, automating your YouTube Shorts workflow is a fantastic way to scale your output without sacrificing quality. Since you're in GB, please keep in mind that YouTube\u2019s Terms of Service (ToS) generally prohibit fully automated, low-effort content. However, **semi-automated workflows** (where you curate/edit locally and upload via API) are standard practice for efficiency.\n\nHere\u2019s a curated guide to the best tools, workflows, and industry options for automating YouTube Shorts uploads via GitHub, with a focus on reliability and quality.\n\n---\n\n### \ud83d\ude80 Recommended Workflow: Semi-Automated Upload via GitHub Actions\n\nThe most robust method is to use **GitHub Actions** as a"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.04731941,
+      "prompt_tokens": 77,
+      "prompt_time": 0.00539726,
+      "completion_tokens": 150,
+      "completion_time": 0.284845725,
+      "total_tokens": 227,
+      "total_time": 0.290242985
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82dbx0verpb4bva49mw6e9c",
+      "seed": 1054664935
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2012,
+  "cost_usd": 0.0002
+}

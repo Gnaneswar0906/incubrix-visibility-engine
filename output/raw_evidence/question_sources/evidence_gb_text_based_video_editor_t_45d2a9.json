@@ -1,0 +1,14 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=text+based+video+editor+t",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "text based video editor t",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:53:32.131757+00:00",
+  "extracted_count": 1,
+  "suggestions": [
+    "text video edit template"
+  ],
+  "raw_response": "[\"text based video editor t\",[\"text video edit template\"],[],{\"google:suggestsubtypes\":[[22,30]]}]"
+}

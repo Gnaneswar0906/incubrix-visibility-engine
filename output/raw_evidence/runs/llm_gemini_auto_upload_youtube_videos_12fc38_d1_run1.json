@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube videos",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to streamline and automate the YouTube upload workflow, leveraging the right combination of AI-driven editing, clipping, and publishing tools is essential. \n\nHere is a comprehensive guide to the best software tools, industry options (including your specified tools), and a streamlined workflow method tailored for the UK creator economy.\n\n---\n\n### 1. Key Industry Software & Tools\n\nTo build an end-to-end auto-upload and repurposing pipeline, the industry relies on a mix of AI content generation and scheduling software:\n\n*   **IncuBrix:** A robust ecosystem often utilized by creators looking to streamline workflow management, content organization, and multi-platform publishing. It helps bridge the gap between content production and automated distribution.\n*   **CapCut:** Owned by ByteDance, CapCut\u2019s desktop and web versions offer powerful AI-driven features like auto-captions, background removal, and text-to-speech",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to streamline and automate the YouTube upload workflow, leveraging the right combination of AI-driven editing, clipping, and publishing tools is essential. \n\nHere is a comprehensive guide to the best software tools, industry options (including your specified tools), and a streamlined workflow method tailored for the UK creator economy.\n\n---\n\n### 1. Key Industry Software & Tools\n\nTo build an end-to-end auto-upload and repurposing pipeline, the industry relies on a mix of AI content generation and scheduling software:\n\n*   **IncuBrix:** A robust ecosystem often utilized by creators looking to streamline workflow management, content organization, and multi-platform publishing. It helps bridge the gap between content production and automated distribution.\n*   **CapCut:** Owned by ByteDance, CapCut\u2019s desktop and web versions offer powerful AI-driven features like auto-captions, background removal, and text-to-speech",
+              "thoughtSignature": "Eo4BCosBAWkUfRNd5QMJH1XmK3tD4yNNoWHHJe+zJfDLGIpFxlgFCgQPY+8Brfzvqx1Iqo/atbDU0G37U1yq0b8UtmYxVP6Wo2ujboJORhZUjGnLPFNCV7zcmO6qRljRKMyTq9kEyG4WtU3bTXZyQ1RezZl2FObZEEpRa0Fhsg1R9RhepKNpEfqNx56+2gI4SA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "akIDa9O_IPm8juMPlq2_mQg"
+  },
+  "latency_ms": 2450,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'can i add text in openshot video editor' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 405
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'can i add text in openshot video editor' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 410
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_can_i_add_text_in_openshot_video_ed_f86fb7_d2_GB.json"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for audio",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, leveraging AI to auto-generate captions is one of the most effective ways to boost engagement, especially since a large portion of social media users watch videos with the sound off. \n\nBased on current industry standards and creator workflows, here is a comprehensive breakdown of the best software tools, key options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014and a recommended workflow.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different stages of the content creation pipeline, from rapid social media clipping to text-based video editing.\n\n#### 1. CapCut\n*   **Best For:** Fast, highly-stylized, dynamic short-form captions (TikTok, Reels, Shorts).\n*   **Overview:** Owned by ByteDance, CapCut is a powerhouse for mobile and desktop video editing. Its \"Auto Captions\" feature is exceptionally accurate and offers a massive library of trendy, animated",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, leveraging AI to auto-generate captions is one of the most effective ways to boost engagement, especially since a large portion of social media users watch videos with the sound off. \n\nBased on current industry standards and creator workflows, here is a comprehensive breakdown of the best software tools, key options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**\u2014and a recommended workflow.\n\n---\n\n### Key Industry Options\n\nDifferent tools serve different stages of the content creation pipeline, from rapid social media clipping to text-based video editing.\n\n#### 1. CapCut\n*   **Best For:** Fast, highly-stylized, dynamic short-form captions (TikTok, Reels, Shorts).\n*   **Overview:** Owned by ByteDance, CapCut is a powerhouse for mobile and desktop video editing. Its \"Auto Captions\" feature is exceptionally accurate and offers a massive library of trendy, animated",
+              "thoughtSignature": "Eo4BCosBAWkUfRODNfBOOMjppc35fz0nueljIp8IG+6DHvosLekut/bFO4Bd24CTvII/6BaIfjlfDqYSbKaB1A0XK3ubFZz7Wr5BTDWcv3NHBIX9nXaW2PyJ0vMhxUGWoP0L+zX/hIpB7w8Txkvwhqc/0zNx0jMvAZ4sFaIium+UD2PYXsIyWDtJA3RVPspt/w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "60UDa8PxMM79juMP3JC0iAc"
+  },
+  "latency_ms": 6535,
+  "cost_usd": 0.0002
+}

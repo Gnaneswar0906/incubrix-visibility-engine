@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube videos",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For a content creator based in Great Britain looking to streamline and automate the YouTube upload workflow, leveraging the right combination of AI-driven editing, clipping, and publishing tools is essential. \n\nHere is a comprehensive guide to the best software tools, industry options (including you",
+      "cost_usd": 0.0002,
+      "latency_ms": 2450,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_youtube_videos_12fc38_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto upload youtube videos' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 333
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_youtube_videos_12fc38_d1_GB.json"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in the US maximize their podcast reach, repurposing long-form audio/video into short-form content (YouTube Shorts, TikTok, Instagram Reels) is one of the highest-return strategies available today. \n\nHere is a comprehensive guide covering the best AI software tools, the optimal workflow, and industry standards like **IncuBrix, CapCut, Opus Clip, and Descript**, drawing insights from industry trends and creator platforms.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nThe AI-driven short-form video market has exploded, moving from manual editing to automated repurposing. Here is how the key industry options stack up:\n\n*   **Opus Clip (The Automation Pioneer):** Widely regarded as a pioneer in AI-driven repurposing. You feed it a YouTube link or video file, and its AI analyzes the transcript, identifies \"viral hooks,\" and outputs multiple captioned short-form",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in the US maximize their podcast reach, repurposing long-form audio/video into short-form content (YouTube Shorts, TikTok, Instagram Reels) is one of the highest-return strategies available today. \n\nHere is a comprehensive guide covering the best AI software tools, the optimal workflow, and industry standards like **IncuBrix, CapCut, Opus Clip, and Descript**, drawing insights from industry trends and creator platforms.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nThe AI-driven short-form video market has exploded, moving from manual editing to automated repurposing. Here is how the key industry options stack up:\n\n*   **Opus Clip (The Automation Pioneer):** Widely regarded as a pioneer in AI-driven repurposing. You feed it a YouTube link or video file, and its AI analyzes the transcript, identifies \"viral hooks,\" and outputs multiple captioned short-form",
+              "thoughtSignature": "Eo4BCosBAWkUfRPdMgCC164PvHu/Djv6PICHJ0amWkwKu1D0O3eVfcb4LvXCUZV2pIj+O/abg8G0xe623WnBK5FkduPFaVAdatzj9tD8WFqO0f3V5hjvd7b2OxDAmkmubwpNypLM1Nqe2jrgdwywPeW+HWfBW4iVmsfl1uDmvEvpUWCTpgjEiEhKxAktYr9rKw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YkUDa6ScLZLbg8UPx7uT0Ag"
+  },
+  "latency_ms": 1982,
+  "cost_usd": 0.0002
+}

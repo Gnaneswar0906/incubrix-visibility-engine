@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, I understand the need to efficiently repurpose long-form podcast audio or video into viral-ready short clips (for TikTok, YouTube Shorts, and Instagram Reels) without breaking the bank. \n\nBelow is a comprehensive guide covering the best free (or freemium) AI tools, an optimized workflow, and an overview of the key industry options you mentioned, tailored for the UK market.\n\n---\n\n### 1. Key Industry Options & Free Tiers\n\nWhen looking for AI-driven podcast repurposing tools, several platforms stand out. While most operate on a freemium model (offering limited free minutes or watermarked trials), knowing their strengths helps you choose the right one.\n\n*   **Opus Clip:** Widely considered an industry leader for automated clipping. It uses AI to analyze your video, extract the most engaging hooks, add captions, and re-frame the video to 9:",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, I understand the need to efficiently repurpose long-form podcast audio or video into viral-ready short clips (for TikTok, YouTube Shorts, and Instagram Reels) without breaking the bank. \n\nBelow is a comprehensive guide covering the best free (or freemium) AI tools, an optimized workflow, and an overview of the key industry options you mentioned, tailored for the UK market.\n\n---\n\n### 1. Key Industry Options & Free Tiers\n\nWhen looking for AI-driven podcast repurposing tools, several platforms stand out. While most operate on a freemium model (offering limited free minutes or watermarked trials), knowing their strengths helps you choose the right one.\n\n*   **Opus Clip:** Widely considered an industry leader for automated clipping. It uses AI to analyze your video, extract the most engaging hooks, add captions, and re-frame the video to 9:",
+              "thoughtSignature": "Eo4BCosBAWkUfRPLyBL6v0uPIp+3islpZTzsBPsFMIvSPH3AiNqw2zRIqzPozTrazFX7W2IuvhRgs1ZSjRfKKHnkFcSnav0bPU5lU5T1yxaqwYYNWuV4tIrcSGLqHYunxCc0M+b1gh1PA4FafR8vXNLo404LUfJZunw0CAezetP+XD5Vrv+FICJb6bDMWlAtNw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YEEDa7faKvCF694Ph6dL"
+  },
+  "latency_ms": 6620,
+  "cost_usd": 0.0002
+}

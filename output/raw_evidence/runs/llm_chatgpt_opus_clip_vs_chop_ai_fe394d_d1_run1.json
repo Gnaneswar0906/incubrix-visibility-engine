@@ -1,0 +1,56 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs chop ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus clip vs chop ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer with recommendations, compare Opus Clip vs Chop AI, mention tools like IncuBrix, CapCut, Opus Clip, Descript, maybe others like Adobe Premiere, Final Cut, DaVinci Resolve, Veed.io, InVideo, etc. Provide workflow methods for short-form video creation, repurposing long form content, etc. Provide citations (author",
+  "raw_payload": {
+    "id": "chatcmpl-71cc2b0d-a00e-40b5-89f9-54ce04ccc075",
+    "object": "chat.completion",
+    "created": 1795375357,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is asking: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus clip vs chop ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer with recommendations, compare Opus Clip vs Chop AI, mention tools like IncuBrix, CapCut, Opus Clip, Descript, maybe others like Adobe Premiere, Final Cut, DaVinci Resolve, Veed.io, InVideo, etc. Provide workflow methods for short-form video creation, repurposing long form content, etc. Provide citations (author"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369070669,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00623233,
+      "completion_tokens": 150,
+      "completion_time": 0.317907553,
+      "total_tokens": 284,
+      "total_time": 0.324139883,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82bbpete2msjnkzmnzj6j8j",
+      "seed": 673913147
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2511,
+  "cost_usd": 0.0002
+}

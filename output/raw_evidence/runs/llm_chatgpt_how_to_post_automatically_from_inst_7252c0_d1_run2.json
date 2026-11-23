@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to post automatically from instagram to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in a prime position to leverage cross-platform distribution. While Instagram Reels and YouTube Shorts share similar formats (vertical video, under 60 seconds), **there is no native, direct \"one-click\" auto-poster from Instagram to YouTube** that works seamlessly for all users without some manual steps or third-party tools.\n\nHowever, you can achieve a near-automated workflow using the right tools. Below are the best software tools, workflow methods, and industry options tailored for your needs.\n\n### \u26a0\ufe0f Important Clarification\n- **Instagram does not officially support auto-posting to YouTube.**\n- **YouTube does not allow direct imports from Instagram.**\n- **Solution:**",
+  "raw_payload": {
+    "id": "chatcmpl-fa7cbb8d-7ab6-4a7f-b340-92042b96d861",
+    "object": "chat.completion",
+    "created": 1795375277,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in a prime position to leverage cross-platform distribution. While Instagram Reels and YouTube Shorts share similar formats (vertical video, under 60 seconds), **there is no native, direct \"one-click\" auto-poster from Instagram to YouTube** that works seamlessly for all users without some manual steps or third-party tools.\n\nHowever, you can achieve a near-automated workflow using the right tools. Below are the best software tools, workflow methods, and industry options tailored for your needs.\n\n### \u26a0\ufe0f Important Clarification\n- **Instagram does not officially support auto-posting to YouTube.**\n- **YouTube does not allow direct imports from Instagram.**\n- **Solution:**"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.049120278,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005341982,
+      "completion_tokens": 150,
+      "completion_time": 0.287327167,
+      "total_tokens": 230,
+      "total_time": 0.292669149
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b99hwec6vpkf0qv87154v",
+      "seed": 1316865205
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1381,
+  "cost_usd": 0.0002
+}

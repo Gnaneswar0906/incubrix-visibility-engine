@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating subtitles is one of the most efficient ways to boost viewer retention, improve accessibility, and cater to \"sound-off\" mobile viewing habits. As a content creator in Great Britain, you have access to a robust ecosystem of AI-driven tools ranging from simple mobile apps to professional desktop suites and automated clipping engines.\n\nHere is a comprehensive guide to the best software tools, industry options, and a recommended workflow for auto-generating subtitles.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your platform (YouTube, TikTok, Instagram Reels, or long-form documentary/podcasting) and your budget, several standout tools dominate the industry:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Fast-paced social media content (TikTok, Reels, Shorts).\n    *   *Why use it:* CapCut features industry-leading auto-captions with heavily stylized, animated templates (",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating subtitles is one of the most efficient ways to boost viewer retention, improve accessibility, and cater to \"sound-off\" mobile viewing habits. As a content creator in Great Britain, you have access to a robust ecosystem of AI-driven tools ranging from simple mobile apps to professional desktop suites and automated clipping engines.\n\nHere is a comprehensive guide to the best software tools, industry options, and a recommended workflow for auto-generating subtitles.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your platform (YouTube, TikTok, Instagram Reels, or long-form documentary/podcasting) and your budget, several standout tools dominate the industry:\n\n*   **CapCut (Desktop & Mobile):** \n    *   *Best for:* Fast-paced social media content (TikTok, Reels, Shorts).\n    *   *Why use it:* CapCut features industry-leading auto-captions with heavily stylized, animated templates (",
+              "thoughtSignature": "Eo4BCosBAWkUfRNCih9XOiwGEh1L4R7hGarXy5Fb3b3NMJY8xUJ92WclK5josBzVf1ozt7EBzV04uQDZ3vn9ZBej72ckpgv02VUPrxtuKcgxSlb3bfsyJ614V/1WMtDeixTqbnJVdNgzsiMVwa/V3W7isLb1lRo0911Tt/3xUHw3ow4XXf+zSX4hlOVfVB2CSw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "4UEDa9LeOeuU3LUPqfDQqAI"
+  },
+  "latency_ms": 2275,
+  "cost_usd": 0.0002
+}

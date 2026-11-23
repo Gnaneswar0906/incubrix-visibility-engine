@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow for video premieres, automating captions in Adobe Premiere Pro\u2014and leveraging external AI tools\u2014is one of the best ways to boost viewer retention (especially since a huge percentage of social and platform video is consumed on mobile with the sound off). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to stay strictly inside the Adobe ecosystem or leverage specialized external AI, here are the top tools currently used by professional creators:\n\n*   **Adobe Premiere Pro (Native Speech-to-Text):** \n    *   *Best for:* Seamless, in-timeline editing without exporting files.\n    *   *Why use it:* Adobe\u2019s built-in AI (powered by Adobe Sensei) generates transcripts directly from your timeline audio with high accuracy",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow for video premieres, automating captions in Adobe Premiere Pro\u2014and leveraging external AI tools\u2014is one of the best ways to boost viewer retention (especially since a huge percentage of social and platform video is consumed on mobile with the sound off). \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-leading options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on whether you want to stay strictly inside the Adobe ecosystem or leverage specialized external AI, here are the top tools currently used by professional creators:\n\n*   **Adobe Premiere Pro (Native Speech-to-Text):** \n    *   *Best for:* Seamless, in-timeline editing without exporting files.\n    *   *Why use it:* Adobe\u2019s built-in AI (powered by Adobe Sensei) generates transcripts directly from your timeline audio with high accuracy",
+              "thoughtSignature": "Eo4BCosBAWkUfRNnLzR5qqhsE7f4vRTs6XKsN7ae47sdkYx753wpjJj9aPzKntDUPFgzrQUA6/JdO4J8p/gbexbt9c24tSw+OS9GSrAleYgLQ7DA+12hiWk42o/iQqldAHdWqAyHtK0JVmdwhEUYOUD4FWh2hhCEfYq1iid7Qk7xPSGyBwAvM1abWwdgsYLq4Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1kUDa7XDA8WujuMPtOGfmQ4"
+  },
+  "latency_ms": 2650,
+  "cost_usd": 0.0002
+}

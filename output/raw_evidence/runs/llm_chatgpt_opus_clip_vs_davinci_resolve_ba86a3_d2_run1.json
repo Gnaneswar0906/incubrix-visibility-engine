@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs davinci resolve",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are likely looking for a workflow that balances **speed** (for social media clips) with **professional polish** (for long-form content).\n\n**Opus Clip** and **DaVinci Resolve** are not direct competitors\u2014they solve different problems. Here\u2019s a clear breakdown to help you choose the best tools and workflow for your needs.\n\n### 1. Core Difference: AI Clipping vs. Professional Editing\n*   **Opus Clip**: An **AI-powered clipping tool**. It takes long-form video (podcasts, streams, interviews) and automatically cuts it into short, viral-ready clips for TikTok, Reels, and Shorts. It adds captions, resizes, and",
+  "raw_payload": {
+    "id": "chatcmpl-6782bc53-fb6c-44a4-b04f-b67884231789",
+    "object": "chat.completion",
+    "created": 1795377521,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are likely looking for a workflow that balances **speed** (for social media clips) with **professional polish** (for long-form content).\n\n**Opus Clip** and **DaVinci Resolve** are not direct competitors\u2014they solve different problems. Here\u2019s a clear breakdown to help you choose the best tools and workflow for your needs.\n\n### 1. Core Difference: AI Clipping vs. Professional Editing\n*   **Opus Clip**: An **AI-powered clipping tool**. It takes long-form video (podcasts, streams, interviews) and automatically cuts it into short, viral-ready clips for TikTok, Reels, and Shorts. It adds captions, resizes, and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.061488881,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005822259,
+      "completion_tokens": 150,
+      "completion_time": 0.285170493,
+      "total_tokens": 229,
+      "total_time": 0.290992752
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ddrmsevyvr536ryha5169",
+      "seed": 436303210
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1257,
+  "cost_usd": 0.0002
+}

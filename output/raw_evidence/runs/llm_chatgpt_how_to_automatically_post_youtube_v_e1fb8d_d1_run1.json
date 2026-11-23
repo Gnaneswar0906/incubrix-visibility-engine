@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide steps for automatically posting YouTube videos to a Facebook page. Tools: Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, Zoho Social, etc. Also mention native Facebook crossposting via Creator Studio or Meta Business Suite. Provide workflow: set up YouTube RSS feed, use Zapier to trigger posting. Use video clipping tools (CapCut, Opus Clip",
+  "raw_payload": {
+    "id": "chatcmpl-fab68623-0e1a-4a3d-96d3-140e62ff9c26",
+    "object": "chat.completion",
+    "created": 1795375255,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide steps for automatically posting YouTube videos to a Facebook page. Tools: Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, Zoho Social, etc. Also mention native Facebook crossposting via Creator Studio or Meta Business Suite. Provide workflow: set up YouTube RSS feed, use Zapier to trigger posting. Use video clipping tools (CapCut, Opus Clip"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156478546,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005443774,
+      "completion_tokens": 150,
+      "completion_time": 0.31348973,
+      "total_tokens": 288,
+      "total_time": 0.318933504,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b8ke6e9vrtyys0qzg8p2k",
+      "seed": 290666770
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4609,
+  "cost_usd": 0.0002
+}

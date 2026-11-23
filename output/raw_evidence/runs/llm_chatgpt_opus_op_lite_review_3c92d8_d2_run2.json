@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus op lite review",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! Based on your query and your location in the UK, it seems you are looking for a review and recommendation of **Opus Clip** (often referred to in search terms as \"Opus Lite\" or just \"Opus,\" but the primary product is **Opus Clip**) and its place in the current video editing workflow.\n\nNote: There is no widely recognized standalone software called \"Opus Op Lite.\" It is highly likely you are referring to **Opus Clip**, an AI-powered video repurposing tool, or possibly confusing it with **Opus for Windows** (which is an audio plugin, not a video editor). Given the context of content creation and mentions of CapCut, Descript, and IncuBrix",
+  "raw_payload": {
+    "id": "chatcmpl-8af6c28f-26e4-410f-8414-eeb653e87484",
+    "object": "chat.completion",
+    "created": 1795377539,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Based on your query and your location in the UK, it seems you are looking for a review and recommendation of **Opus Clip** (often referred to in search terms as \"Opus Lite\" or just \"Opus,\" but the primary product is **Opus Clip**) and its place in the current video editing workflow.\n\nNote: There is no widely recognized standalone software called \"Opus Op Lite.\" It is highly likely you are referring to **Opus Clip**, an AI-powered video repurposing tool, or possibly confusing it with **Opus for Windows** (which is an audio plugin, not a video editor). Given the context of content creation and mentions of CapCut, Descript, and IncuBrix"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048269931,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005290539,
+      "completion_tokens": 150,
+      "completion_time": 0.291137493,
+      "total_tokens": 227,
+      "total_time": 0.296428032
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dea2we18vp39nvchg0wkh",
+      "seed": 722625232
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1951,
+  "cost_usd": 0.0002
+}

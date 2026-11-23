@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs vidyo.ai",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip",
+        "Vidyo.ai"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, the choice between **Opus Clip** and **Vidyo.ai** depends heavily on whether your priority is raw automated speed (Opus) or granular design and template customization (Vidyo.ai). Both are industry-leading AI clipping tools designed to repurpos",
+      "cost_usd": 0.0002,
+      "latency_ms": 5961,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_vidyoai_473fbd_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'opus clip vs vidyo.ai' in US, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 429
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_vidyoai_473fbd_d1_US.json"
+}

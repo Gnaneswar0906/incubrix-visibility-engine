@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "can i add text in openshot video editor",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Yes, absolutely.** You can easily add text to videos in OpenShot Video Editor. OpenShot features a built-in title editor that allows you to create static text, lower thirds, and credits, as well as advanced 3D animated titles using Blender integration. \n\nAs a content creator in the UK (GB), you mi",
+      "cost_usd": 0.0002,
+      "latency_ms": 3017,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_can_i_add_text_in_openshot_video_ed_f86fb7_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Yes, you can easily add text in OpenShot Video Editor.** \n\nAs a content creator in Great Britain, you will find OpenShot to be a free, open-source, and beginner-friendly option for basic titling. However, depending on your workflow and content goals, you might also want to explore more advanced in",
+      "cost_usd": 0.0002,
+      "latency_ms": 2301,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_can_i_add_text_in_openshot_video_ed_f86fb7_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_can_i_add_text_in_openshot_video_ed_f86fb7_d1_GB.json"
+}

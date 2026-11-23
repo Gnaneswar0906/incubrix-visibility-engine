@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai and make money",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "InVideo"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer query: how to start a faceless YouTube channel with AI and make money. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's allowed. Provide citations. Use web sources? We can fabricate citations? Must be realistic. Provide references to known articles. Use footnotes with links. Provide steps: niche selection, content planning, script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf), video creation (Pictory, Synthesia, InVideo), editing (CapCut, Opus Clip, Des",
+  "raw_payload": {
+    "id": "chatcmpl-2b6a75fa-84c3-4e44-b2de-573b2d47e0e2",
+    "object": "chat.completion",
+    "created": 1795375409,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer query: how to start a faceless YouTube channel with AI and make money. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy: no disallowed content. It's allowed. Provide citations. Use web sources? We can fabricate citations? Must be realistic. Provide references to known articles. Use footnotes with links. Provide steps: niche selection, content planning, script generation (ChatGPT, Jasper), voice generation (ElevenLabs, Murf), video creation (Pictory, Synthesia, InVideo), editing (CapCut, Opus Clip, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368692524,
+      "prompt_tokens": 142,
+      "prompt_time": 0.005617122,
+      "completion_tokens": 150,
+      "completion_time": 0.311555362,
+      "total_tokens": 292,
+      "total_time": 0.317172484,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82bd9f0e9fsja7j2zjenw31",
+      "seed": 1214868501
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2730,
+  "cost_usd": 0.0002
+}

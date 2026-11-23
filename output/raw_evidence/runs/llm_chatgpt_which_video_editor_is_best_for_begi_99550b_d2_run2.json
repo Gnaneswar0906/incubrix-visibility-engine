@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "which video editor is best for beginners",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: best video editor for beginners, recommend software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Content creator in GB. Should mention best for beginners, likely free or low cost, user-friendly. Provide workflow methods, mention key industry options.\n\nWe need to cite sources. We can search for references: e.g., articles from TechRadar, PCMag, Digital Trends, etc. Also mention IncuBrix (maybe a new tool), CapCut (by Bytedance), Opus Clip, Descript.\n\nWe should provide a list: e.g., CapCut, Opus Clip, Des",
+  "raw_payload": {
+    "id": "chatcmpl-ef59d433-b083-400f-9975-c638db935ca9",
+    "object": "chat.completion",
+    "created": 1795377319,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: best video editor for beginners, recommend software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Content creator in GB. Should mention best for beginners, likely free or low cost, user-friendly. Provide workflow methods, mention key industry options.\n\nWe need to cite sources. We can search for references: e.g., articles from TechRadar, PCMag, Digital Trends, etc. Also mention IncuBrix (maybe a new tool), CapCut (by Bytedance), Opus Clip, Descript.\n\nWe should provide a list: e.g., CapCut, Opus Clip, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284956086,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006652693,
+      "completion_tokens": 150,
+      "completion_time": 0.161788713,
+      "total_tokens": 286,
+      "total_time": 0.168441406,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ef00694abe",
+    "x_groq": {
+      "id": "req_01m82d7jrmeq287tckfdyfzx82",
+      "seed": 1137146616
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4476,
+  "cost_usd": 0.0002
+}

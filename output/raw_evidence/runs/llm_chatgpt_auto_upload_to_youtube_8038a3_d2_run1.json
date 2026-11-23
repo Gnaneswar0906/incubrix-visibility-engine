@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Overview  \n| Goal | Recommended Tool(s) | Why It\u2019s Helpful | How to Connect It to YouTube |\n|------",
+  "raw_payload": {
+    "id": "chatcmpl-955a87b7-4900-45a0-aee6-745b26946f97",
+    "object": "chat.completion",
+    "created": 1795376660,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Overview  \n| Goal | Recommended Tool(s) | Why It\u2019s Helpful | How to Connect It to YouTube |\n|------",
+          "reasoning": "The user wants recommendations for auto upload to YouTube, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to be helpful, US-based content creator. Provide software tools for editing, automation, scheduling, uploading. Mention YouTube API, third-party services like TubeBuddy, VidIQ, Hootsuite, Zapier, IFTTT. Provide workflow steps. Cite sources with URLs. Must ensure compliance. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283900899,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00504362,
+      "completion_tokens": 150,
+      "completion_time": 0.312448333,
+      "total_tokens": 283,
+      "total_time": 0.317491953,
+      "completion_tokens_details": {
+        "reasoning_tokens": 113
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_854fa9be4c",
+    "x_groq": {
+      "id": "req_01m82ckf4kesrtfzcdbmq13zds",
+      "seed": 98638306
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2770,
+  "cost_usd": 0.0002
+}

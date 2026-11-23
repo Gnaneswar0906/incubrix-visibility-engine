@@ -1,0 +1,41 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'podcast to youtube shorts' in US, popular recommendations include InVideo. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 425
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: podcast to youtube shorts Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if av",
+      "cost_usd": 0.0002,
+      "latency_ms": 1785,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_claude_or_copilot_podcast_to_youtube_shorts_050c15_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_podcast_to_youtube_shorts_050c15_d1_US.json"
+}

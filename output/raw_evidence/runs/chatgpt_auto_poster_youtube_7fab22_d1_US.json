@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto poster youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Creating an \"auto poster\" for YouTube typically involves two distinct workflows depending on your definition:\n1.  **Automated Thumbnail/Poster Generation:** Creating static, eye-catching images automatically based on video content.\n2.  **Auto-Generated Short-Form Clips:** Using AI to automatically c",
+      "cost_usd": 0.0002,
+      "latency_ms": 1903,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_poster_youtube_7fab22_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Creating automated posters for YouTube is a critical step in maintaining a consistent brand identity and improving Click-Through Rates (CTR). While there is no single \"one-click\" tool that perfectly handles every aspect of thumbnail generation without human input, a hybrid workflow combining AI gene",
+      "cost_usd": 0.0002,
+      "latency_ms": 1472,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_poster_youtube_7fab22_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_poster_youtube_7fab22_d1_US.json"
+}

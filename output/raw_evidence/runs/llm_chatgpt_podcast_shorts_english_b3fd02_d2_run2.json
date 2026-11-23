@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts english",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for a content creator in GB (Great Britain) about \"podcast shorts english\". They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer: define podcast shorts (short clips from longer podcasts, for social media). Recommend tools for recording, editing audio, generating video shorts, adding captions, etc. Include workflow steps: planning, clipping, transcription, editing, adding visuals, branding, exporting, scheduling. Mention tools: Audacity, Adobe Audition, Hindenburg, Descript (audio editing + transcription), Riverside.fm (recording remote), Squad",
+  "raw_payload": {
+    "id": "chatcmpl-634290b3-6c5c-4d94-9c40-8246cafabe39",
+    "object": "chat.completion",
+    "created": 1795377230,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for a content creator in GB (Great Britain) about \"podcast shorts english\". They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to give a thorough answer: define podcast shorts (short clips from longer podcasts, for social media). Recommend tools for recording, editing audio, generating video shorts, adding captions, etc. Include workflow steps: planning, clipping, transcription, editing, adding visuals, branding, exporting, scheduling. Mention tools: Audacity, Adobe Audition, Hindenburg, Descript (audio editing + transcription), Riverside.fm (recording remote), Squad"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157988889,
+      "prompt_tokens": 132,
+      "prompt_time": 0.00537497,
+      "completion_tokens": 150,
+      "completion_time": 0.309335116,
+      "total_tokens": 282,
+      "total_time": 0.314710086,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82d4vz1errbk3td0e7nr4z8",
+      "seed": 389088294
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2400,
+  "cost_usd": 0.0002
+}

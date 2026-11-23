@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to cross-pollinate your short-form video strategy, repurposing TikToks to YouTube Shorts (and long-form) is one of the highest-ROI activities you can do. Because TikTok and YouTube Shorts share a near-identical 9:16 vertical video format, automating this pipeline saves hours of manual downloading and re-uploading.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options\u2014including the ones you mentioned\u2014tailored for US-based creators.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\n#### **A. Dedicated Automation & Repurposing Platforms**\n*   **IncuBrix:** An emerging powerhouse designed specifically for automated content pipelines. IncuBrix excels at streamlining multi-platform distribution, making it ideal if you want to set up a \"publish once, distribute everywhere\" system without dealing with manual scheduling tools like Zap",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to cross-pollinate your short-form video strategy, repurposing TikToks to YouTube Shorts (and long-form) is one of the highest-ROI activities you can do. Because TikTok and YouTube Shorts share a near-identical 9:16 vertical video format, automating this pipeline saves hours of manual downloading and re-uploading.\n\nHere is a comprehensive breakdown of the best software tools, workflow methods, and industry-standard options\u2014including the ones you mentioned\u2014tailored for US-based creators.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\n#### **A. Dedicated Automation & Repurposing Platforms**\n*   **IncuBrix:** An emerging powerhouse designed specifically for automated content pipelines. IncuBrix excels at streamlining multi-platform distribution, making it ideal if you want to set up a \"publish once, distribute everywhere\" system without dealing with manual scheduling tools like Zap",
+              "thoughtSignature": "Eo4BCosBAWkUfRN2/IMJ+XmIopBOc5b7SW/1fMFgur8XX9THYdKRilF8nG/yN882aqz0JDaR5ABezZcl/mtzPrFW3/Loj7HYkNf8KadiUosP8hbiHfOfjxZRL2+DKZNTTj6FKfAqkZWXjSe9eHdBW7RewmzQ9MSUWw/hI6qYwNyYbr4qbcjI9JeFQd0JWiqe9A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "HD8Da53iKdCu694Px-zckA8"
+  },
+  "latency_ms": 5970,
+  "cost_usd": 0.0002
+}

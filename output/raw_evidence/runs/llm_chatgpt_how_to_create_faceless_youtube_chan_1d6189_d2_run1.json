@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to create faceless youtube channel using ai for free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for creating a faceless YouTube channel using AI for free. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also user is in India (IN). Should consider free tools, possibly Indian context. Provide step-by-step workflow, content ideas, AI tools for script, voice, video, editing, thumbnails. Cite sources with links. Must comply with policy: no disallowed content. This is fine.\n\nWe need to provide citations. Use bracketed citations with URLs. Provide authoritative sources like blogs, official sites. Provide free tiers. Provide recommendations.\n\nLet's craft answer.",
+  "raw_payload": {
+    "id": "chatcmpl-f74d512c-ca33-436f-859e-196a42e879f0",
+    "object": "chat.completion",
+    "created": 1795377192,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for creating a faceless YouTube channel using AI for free. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also user is in India (IN). Should consider free tools, possibly Indian context. Provide step-by-step workflow, content ideas, AI tools for script, voice, video, editing, thumbnails. Cite sources with links. Must comply with policy: no disallowed content. This is fine.\n\nWe need to provide citations. Use bracketed citations with URLs. Provide authoritative sources like blogs, official sites. Provide free tiers. Provide recommendations.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.321342916,
+      "prompt_tokens": 140,
+      "prompt_time": 0.039631303,
+      "completion_tokens": 150,
+      "completion_time": 0.310971101,
+      "total_tokens": 290,
+      "total_time": 0.350602404,
+      "completion_tokens_details": {
+        "reasoning_tokens": 144
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82d3pzbemkvnzhccvxsfcnf",
+      "seed": 482806580
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3417,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus one review",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in India (IN), I\u2019ve structured this guide to focus on your query\u2014specifically a review of **Opus Clip** (often associated with \"Opus One\" in the AI video repurposing space)\u2014while placing it within the context of the broader modern content creation toolkit. \n\nSince you are creating content tailored for audiences (potentially in India and globally), balancing automated AI tools with localized workflows is key to maximizing reach on platforms like YouTube Shorts, Instagram Reels, and LinkedIn.\n\n---\n\n### Part 1: Opus Clip Review (The AI Video Repurposing Tool)\n\n**What is it?**  \nOpus Clip is a generative AI video tool that takes long-form videos (like podcasts, webinars, or tutorials) and automatically chops them down into multiple viral, bite-sized short clips. \n\n#### **Key Features & How It Works:**\n1. **AI Curation (Curator Score",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in India (IN), I\u2019ve structured this guide to focus on your query\u2014specifically a review of **Opus Clip** (often associated with \"Opus One\" in the AI video repurposing space)\u2014while placing it within the context of the broader modern content creation toolkit. \n\nSince you are creating content tailored for audiences (potentially in India and globally), balancing automated AI tools with localized workflows is key to maximizing reach on platforms like YouTube Shorts, Instagram Reels, and LinkedIn.\n\n---\n\n### Part 1: Opus Clip Review (The AI Video Repurposing Tool)\n\n**What is it?**  \nOpus Clip is a generative AI video tool that takes long-form videos (like podcasts, webinars, or tutorials) and automatically chops them down into multiple viral, bite-sized short clips. \n\n#### **Key Features & How It Works:**\n1. **AI Curation (Curator Score",
+              "thoughtSignature": "Eo4BCosBAWkUfROellO0jiZTrXv22KWgM/EjMQ4oCXOj3SJVA7Igl4KLs35i3TuZ8uhidwkGvtWc5mjYssfOh89FcdbPAnjmlR8eGQto55GTeIlEerbgdEWZ3pfz3Jf5bsc8x8Oa1In9I1jGZ3V82uODj6iUCPr2M2pyXJx9DxPjvlOVhyD2OE7uEzL9ZaBAuQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "5EADa5m1Moqdz7sPrcqxkAY"
+  },
+  "latency_ms": 2572,
+  "cost_usd": 0.0002
+}

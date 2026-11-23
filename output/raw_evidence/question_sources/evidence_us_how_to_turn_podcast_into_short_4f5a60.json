@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=how+to+turn+podcast+into+shorts",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "how to turn podcast into shorts",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:48:30.834184Z",
+  "extracted_count": 5,
+  "suggestions": [
+    "how to convert podcast into shorts",
+    "turn podcast into shorts",
+    "turn podcast into shorts ai",
+    "how to shoot a podcast",
+    "how to start a podcast"
+  ],
+  "raw_response": "[\"how to turn podcast into shorts\",[\"how to convert podcast into shorts\",\"turn podcast into shorts\",\"turn podcast into shorts ai\",\"how to shoot a podcast\",\"how to start a podcast\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[512,650,390],[512,650,390]]}]"
+}

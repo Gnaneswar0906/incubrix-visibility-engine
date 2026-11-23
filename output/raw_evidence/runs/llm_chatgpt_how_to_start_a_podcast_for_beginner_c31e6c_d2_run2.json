@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a podcast for beginners",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: how to start a podcast for beginners. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in IN (India). Should tailor to Indian context maybe. Provide step-by-step guide, hardware, planning, recording, editing, publishing, promotion, analytics. Provide software tools: Audacity, Adobe Audition, GarageBand, Reaper, Descript, Opus Clip, CapCut (for video podcasts), IncuBrix (maybe a platform?), Anchor (now Spotify for Podcasters), Podbean, Buzzsprout, etc. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-58901480-613b-4471-87d0-d223c0ceead1",
+    "object": "chat.completion",
+    "created": 1795376882,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: how to start a podcast for beginners. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in IN (India). Should tailor to Indian context maybe. Provide step-by-step guide, hardware, planning, recording, editing, publishing, promotion, analytics. Provide software tools: Audacity, Adobe Audition, GarageBand, Reaper, Descript, Opus Clip, CapCut (for video podcasts), IncuBrix (maybe a platform?), Anchor (now Spotify for Podcasters), Podbean, Buzzsprout, etc. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369630391,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005258866,
+      "completion_tokens": 150,
+      "completion_time": 0.318051206,
+      "total_tokens": 286,
+      "total_time": 0.323310072,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82ct7nqeej8a0aqq2270qb5",
+      "seed": 596814936
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2416,
+  "cost_usd": 0.0002
+}

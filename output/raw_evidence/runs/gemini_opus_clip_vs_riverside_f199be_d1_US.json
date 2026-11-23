@@ -1,0 +1,45 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'opus clip vs riverside' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 373
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Riverside"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, the short answer to the **Opus Clip vs. Riverside** debate is that they serve fundamentally different primary purposes, though they overlap in AI-driven editing. \n\n*   **Riverside** is an industry-standard platform built primarily for **high-q",
+      "cost_usd": 0.0002,
+      "latency_ms": 3059,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_riverside_f199be_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_riverside_f199be_d1_US.json"
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that converting long-form podcasts into viral short-form clips (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies in digital media today. AI-driven repurposing tools have revolutionized this workflow, cutting editing time from hours to minutes.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and an optimized workflow method.\n\n---\n\n### Part 1: Key Industry Options & Software Recommendations\n\n#### 1. Opus Clip (The AI Automation Leader)\n*   **Best For:** Fully automated, hands-off clipping.\n*   **Key Features:** Opus Clip uses advanced AI to analyze your long video, identify the most hook-driven, standalone segments, and automatically generates multiple shorts. It adds dynamic captions, scores the clips based on viral potential, and crops speakers using face-tracking. \n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that converting long-form podcasts into viral short-form clips (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies in digital media today. AI-driven repurposing tools have revolutionized this workflow, cutting editing time from hours to minutes.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and an optimized workflow method.\n\n---\n\n### Part 1: Key Industry Options & Software Recommendations\n\n#### 1. Opus Clip (The AI Automation Leader)\n*   **Best For:** Fully automated, hands-off clipping.\n*   **Key Features:** Opus Clip uses advanced AI to analyze your long video, identify the most hook-driven, standalone segments, and automatically generates multiple shorts. It adds dynamic captions, scores the clips based on viral potential, and crops speakers using face-tracking. \n",
+              "thoughtSignature": "Eo4BCosBAWkUfRM++O5/NIGg3W1kVl27Mm2zMg/KVewiY2Bp+eqHm/z1vAaFHgzaHl/sHdCx12pqyK1wn7plNVFT5HpwBAO29c9+6Ec8TWhRsxJSGEHO96mcRZ2PWsdQG2vG/cIQMlmkzNbkVwmuqxA/mTh8ECqaVj1INrk6acnWqRKgSU2+pOR+Ss3lOg7p1Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "g0UDa6GpHb-D3LUPp6jZgQw"
+  },
+  "latency_ms": 2511,
+  "cost_usd": 0.0002
+}

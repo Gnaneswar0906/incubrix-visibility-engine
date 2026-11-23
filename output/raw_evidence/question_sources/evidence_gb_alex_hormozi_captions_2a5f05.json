@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=alex+hormozi+captions",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "alex hormozi captions",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:35:35.335075+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "alex hormozi captions",
+    "alex hormozi captions style",
+    "alex hormozi captions capcut",
+    "alex hormozi captions font",
+    "alex hormozi captions premiere pro",
+    "alex hormozi captions ai",
+    "alex hormozi quotes",
+    "alex hormozi subtitles",
+    "alex hormozi quotes confidence",
+    "alex hormozi quotes about success"
+  ],
+  "raw_response": "[\"alex hormozi captions\",[\"alex hormozi captions\",\"alex hormozi captions style\",\"alex hormozi captions capcut\",\"alex hormozi captions font\",\"alex hormozi captions premiere pro\",\"alex hormozi captions ai\",\"alex hormozi quotes\",\"alex hormozi subtitles\",\"alex hormozi quotes confidence\",\"alex hormozi quotes about success\"],[],{\"google:suggestsubtypes\":[[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

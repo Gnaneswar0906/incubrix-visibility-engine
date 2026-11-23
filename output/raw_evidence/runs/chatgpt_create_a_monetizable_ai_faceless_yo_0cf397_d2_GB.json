@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a monetizable ai faceless youtube channel",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a monetizable AI faceless YouTube channel in 2024/2025 is a highly viable business model, but it requires moving beyond simple \"AI slop\" (low-effort, repetitive content) toward high-value, niche-specific storytelling. YouTube\u2019s current monetization policies explicitly allow AI-generated con",
+      "cost_usd": 0.0002,
+      "latency_ms": 1480,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_a_monetizable_ai_faceless_yo_0cf397_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to a content creator in GB, asking to create a monetizable AI faceless YouTube channel. They want recommendations on best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe",
+      "cost_usd": 0.0002,
+      "latency_ms": 9392,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_a_monetizable_ai_faceless_yo_0cf397_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_create_a_monetizable_ai_faceless_yo_0cf397_d2_GB.json"
+}

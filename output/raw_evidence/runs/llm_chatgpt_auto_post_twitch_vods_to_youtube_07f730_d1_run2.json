@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto posting Twitch VODs to YouTube, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond with recommendations, workflow, tools. Provide citations (like links). Must be appropriate. No disallowed content. Provide UK context maybe. Use markdown.\n\nWe can cite sources: maybe Twitch's API docs, YouTube API, Zapier, Streamlabs, Restream, etc. Also mention tools like OBS, Streamladder, etc. Provide step-by-step workflow.\n\nWe need to ensure we don't provide copyrighted content. Just recommendations.\n\nWe should include citations with",
+  "raw_payload": {
+    "id": "chatcmpl-a89c5d7b-b925-4696-8a48-a1175f3b8790",
+    "object": "chat.completion",
+    "created": 1795375713,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto posting Twitch VODs to YouTube, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to respond with recommendations, workflow, tools. Provide citations (like links). Must be appropriate. No disallowed content. Provide UK context maybe. Use markdown.\n\nWe can cite sources: maybe Twitch's API docs, YouTube API, Zapier, Streamlabs, Restream, etc. Also mention tools like OBS, Streamladder, etc. Provide step-by-step workflow.\n\nWe need to ensure we don't provide copyrighted content. Just recommendations.\n\nWe should include citations with"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369146048,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006247089,
+      "completion_tokens": 150,
+      "completion_time": 0.31330381,
+      "total_tokens": 286,
+      "total_time": 0.319550899,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82bpjq0et7rckcf32ce5nfj",
+      "seed": 1345868212
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3227,
+  "cost_usd": 0.0002
+}

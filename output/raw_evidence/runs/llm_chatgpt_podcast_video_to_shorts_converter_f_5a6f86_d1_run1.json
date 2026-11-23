@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary  \n\n| Free tool (or free\u2011tier) | Best for | Key strengths | Typical workflow step(s) |\n|--------------------------|----------|----------------|--------------------------|\n| **Opus Clip** (free tier) | One\u2011click \u201cshorts\u201d from long video | AI\u2011driven highlight detection",
+  "raw_payload": {
+    "id": "chatcmpl-e3c2e7a5-4d19-4256-822d-a980147fcd28",
+    "object": "chat.completion",
+    "created": 1795374508,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary  \n\n| Free tool (or free\u2011tier) | Best for | Key strengths | Typical workflow step(s) |\n|--------------------------|----------|----------------|--------------------------|\n| **Opus Clip** (free tier) | One\u2011click \u201cshorts\u201d from long video | AI\u2011driven highlight detection",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Must be free tools. Provide workflow steps. Cite authoritative web sources (like blogs, reviews, official sites). Use proper citation format. Provide context for US content creator. Let's produce answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.366684552,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005931035,
+      "completion_tokens": 150,
+      "completion_time": 0.311661394,
+      "total_tokens": 285,
+      "total_time": 0.317592429,
+      "completion_tokens_details": {
+        "reasoning_tokens": 75
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82aht85e7yt5wmwx0g0sz6g",
+      "seed": 1798131157
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4452,
+  "cost_usd": 0.0002
+}

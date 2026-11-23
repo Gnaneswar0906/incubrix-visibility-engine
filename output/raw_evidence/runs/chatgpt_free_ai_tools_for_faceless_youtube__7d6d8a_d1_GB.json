@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Free AI\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3535,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in 2024 relies heavily on leveraging AI to streamline production, maintain consistency, and scale output. Since you are based in the UK (GB), it is worth noting that all the tools recommended below are globally accessible and support GBP billing, with n",
+      "cost_usd": 0.0002,
+      "latency_ms": 1933,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_free_ai_tools_for_faceless_youtube__7d6d8a_d1_GB.json"
+}

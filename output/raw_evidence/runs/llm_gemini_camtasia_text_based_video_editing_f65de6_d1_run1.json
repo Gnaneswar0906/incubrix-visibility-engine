@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "camtasia text-based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in **India (IN)** looking to harness text-based video editing\u2014a game-changing workflow where you edit video simply by editing a text transcript\u2014navigating the right tools and methods is essential for maximizing both local monetization and international reach. \n\nHere is a comprehensive breakdown of the best software tools, recommended workflows, and key industry options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nWhile Camtasia offers traditional timeline editing with some captioning features, true text-based video editing (where deleting a word in the script deletes it from the video) is dominated by specialized AI tools.\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered AI text-based editing. It automatically transcribes video, allowing you to edit audio and video by manipulating text. It also features \"Studio Sound\" (which cleans up amateur microphone audio) and AI eye-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in **India (IN)** looking to harness text-based video editing\u2014a game-changing workflow where you edit video simply by editing a text transcript\u2014navigating the right tools and methods is essential for maximizing both local monetization and international reach. \n\nHere is a comprehensive breakdown of the best software tools, recommended workflows, and key industry options tailored to your needs.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nWhile Camtasia offers traditional timeline editing with some captioning features, true text-based video editing (where deleting a word in the script deletes it from the video) is dominated by specialized AI tools.\n\n*   **Descript (The Gold Standard for Text-Based Editing):** Descript pioneered AI text-based editing. It automatically transcribes video, allowing you to edit audio and video by manipulating text. It also features \"Studio Sound\" (which cleans up amateur microphone audio) and AI eye-",
+              "thoughtSignature": "Eo4BCosBAWkUfRNwvV2uXotLPW8XRUUH/A6sK7QWA8UITfX/j0MsAiH3K1sxeD0pvN7R44UItSZwpgIfNvoElzSHPvTrh3U81b11NA4Puwv1YS3qugriO+SFiSUe/RiPqfYK/INT3Auhyzy35Kxs0ysn5Gvu76N63mAdvijbJ2Xj6hWkC47pEmOpXgO3/ysVyQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "JUADa4CJEbz1694P3e2L2A8"
+  },
+  "latency_ms": 6750,
+  "cost_usd": 0.0002
+}

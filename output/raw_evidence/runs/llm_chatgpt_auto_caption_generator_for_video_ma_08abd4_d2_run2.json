@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating high-quality auto-captions for Malayalam content is a specific challenge because many standard AI tools are trained primarily on English, Hindi, or other major global languages. However, the landscape has improved significantly in 2024\u20132025.\n\nHere are the **best software tools, workflow methods, and industry options** tailored for a content creator in India (IN) producing Malayalam content.\n\n### \ud83c\udfc6 Top Recommended Tools for Malayalam Auto-Captions\n\n#### 1. **CapCut (Desktop & Mobile)** \u2013 *Best Free/Value Option*\n   - **Why it works**: CapCut has significantly improved its multilingual support, including Indian languages. It supports **Auto Captions in Malay",
+  "raw_payload": {
+    "id": "chatcmpl-c7500189-8427-46fe-9664-c1311a048544",
+    "object": "chat.completion",
+    "created": 1795376986,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality auto-captions for Malayalam content is a specific challenge because many standard AI tools are trained primarily on English, Hindi, or other major global languages. However, the landscape has improved significantly in 2024\u20132025.\n\nHere are the **best software tools, workflow methods, and industry options** tailored for a content creator in India (IN) producing Malayalam content.\n\n### \ud83c\udfc6 Top Recommended Tools for Malayalam Auto-Captions\n\n#### 1. **CapCut (Desktop & Mobile)** \u2013 *Best Free/Value Option*\n   - **Why it works**: CapCut has significantly improved its multilingual support, including Indian languages. It supports **Auto Captions in Malay"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047851778,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005235522,
+      "completion_tokens": 150,
+      "completion_time": 0.321419772,
+      "total_tokens": 230,
+      "total_time": 0.326655294
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cxdjqemsr6ekq01bbqhd7",
+      "seed": 710925773
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1303,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policies: no disallowed content. It's a recommendation. Provide citations with URLs. Use markdown. Provide workflow steps. Also maybe mention AI tools for voice, video generation, script writing, thumbnail creation, SEO. Provide links to official sites or reputable sources. Provide citations in brackets. Ensure not to fabricate sources. We can use known sources: e.g., TechRadar, PCMag, etc. Provide citations as footnotes or inline with brackets. Use placeholder citations? Should",
+  "raw_payload": {
+    "id": "chatcmpl-b000c7fb-6a1f-46fa-a24e-8a0715b51fa2",
+    "object": "chat.completion",
+    "created": 1795376815,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policies: no disallowed content. It's a recommendation. Provide citations with URLs. Use markdown. Provide workflow steps. Also maybe mention AI tools for voice, video generation, script writing, thumbnail creation, SEO. Provide links to official sites or reputable sources. Provide citations in brackets. Ensure not to fabricate sources. We can use known sources: e.g., TechRadar, PCMag, etc. Provide citations as footnotes or inline with brackets. Use placeholder citations? Should"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316626894,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005402243,
+      "completion_tokens": 150,
+      "completion_time": 0.310256536,
+      "total_tokens": 286,
+      "total_time": 0.315658779,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82cr6qkeqg81yp27fbcyjap",
+      "seed": 283208482
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2799,
+  "cost_usd": 0.0002
+}

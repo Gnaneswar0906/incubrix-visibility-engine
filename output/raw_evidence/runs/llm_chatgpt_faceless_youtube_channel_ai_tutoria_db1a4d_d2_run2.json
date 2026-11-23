@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN) who wants faceless YouTube channel AI tutorial. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy. No disallowed content. Provide citations. Use markdown. Provide workflow steps, tools for script, voiceover, video creation, editing, AI enhancements, thumbnail creation, SEO. Include Indian context (language, pricing, local availability). Provide links to sources. Use citations like [1]. Provide references list.\n\nWe must ensure not to fabricate sources. We can cite known sources: official websites,",
+  "raw_payload": {
+    "id": "chatcmpl-f8f8ed46-049a-4370-8932-f6894568a235",
+    "object": "chat.completion",
+    "created": 1795377222,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN) who wants faceless YouTube channel AI tutorial. Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy. No disallowed content. Provide citations. Use markdown. Provide workflow steps, tools for script, voiceover, video creation, editing, AI enhancements, thumbnail creation, SEO. Include Indian context (language, pricing, local availability). Provide links to sources. Use citations like [1]. Provide references list.\n\nWe must ensure not to fabricate sources. We can cite known sources: official websites,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369749793,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005377186,
+      "completion_tokens": 150,
+      "completion_time": 0.315239723,
+      "total_tokens": 285,
+      "total_time": 0.320616909,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82d4me6e50b9kc8pw02emme",
+      "seed": 640938738
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3630,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto post youtube shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer user query: how to auto post youtube shorts. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. It's allowed. Provide citations with links. Provide steps, automation, scheduling, tools like TubeBuddy, Hootsuite, Later, Zapier, IFTTT, YouTube API, etc. Also mention that YouTube Shorts can be uploaded via YouTube Studio, mobile app, but for automation need to use YouTube Data API v3 with proper authentication, or third-party platforms. Provide workflow: script, edit, format vertical, add #shorts, schedule",
+  "raw_payload": {
+    "id": "chatcmpl-3ef10461-9d4d-4f2f-a231-62ea81cc540d",
+    "object": "chat.completion",
+    "created": 1795376712,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer user query: how to auto post youtube shorts. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. It's allowed. Provide citations with links. Provide steps, automation, scheduling, tools like TubeBuddy, Hootsuite, Later, Zapier, IFTTT, YouTube API, etc. Also mention that YouTube Shorts can be uploaded via YouTube Studio, mobile app, but for automation need to use YouTube Data API v3 with proper authentication, or third-party platforms. Provide workflow: script, edit, format vertical, add #shorts, schedule"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156081996,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005008793,
+      "completion_tokens": 150,
+      "completion_time": 0.308019918,
+      "total_tokens": 285,
+      "total_time": 0.313028711,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_69334c0be3",
+    "x_groq": {
+      "id": "req_01m82cn25semkvx5cb75bvxykz",
+      "seed": 215553593
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2727,
+  "cost_usd": 0.0002
+}

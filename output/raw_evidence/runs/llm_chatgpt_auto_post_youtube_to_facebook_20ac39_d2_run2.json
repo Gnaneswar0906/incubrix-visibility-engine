@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto posting YouTube to Facebook, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be US-based. Provide authoritative web sources. Should be helpful. Need to cite sources with links. Provide workflow: using IFTTT, Zapier, Buffer, Hootsuite, etc. Also mention native cross-posting via Facebook's Creator Studio? Actually Facebook (Meta) allows linking YouTube videos via posting link, but auto posting maybe via third-party. Provide steps. Also mention video editing tools like CapCut, Opus Clip, Descript for repurposing. IncuBrix? Not sure",
+  "raw_payload": {
+    "id": "chatcmpl-dddc889f-dcc1-40c6-aa03-4e9ec585a9d8",
+    "object": "chat.completion",
+    "created": 1795376658,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto posting YouTube to Facebook, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be US-based. Provide authoritative web sources. Should be helpful. Need to cite sources with links. Provide workflow: using IFTTT, Zapier, Buffer, Hootsuite, etc. Also mention native cross-posting via Facebook's Creator Studio? Actually Facebook (Meta) allows linking YouTube videos via posting link, but auto posting maybe via third-party. Provide steps. Also mention video editing tools like CapCut, Opus Clip, Descript for repurposing. IncuBrix? Not sure"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157230781,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005514518,
+      "completion_tokens": 150,
+      "completion_time": 0.310544217,
+      "total_tokens": 284,
+      "total_time": 0.316058735,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82ckd7qeambsrn0ng5xa0b2",
+      "seed": 1002321981
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2357,
+  "cost_usd": 0.0002
+}

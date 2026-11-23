@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel without ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running"
+            },
+            {
+              "text": " a faceless YouTube channel without relying on AI tools (or minimizing AI strictly to automation rather than generative content like ChatGPT scripts or Midjourney art) is entirely possible and often results in higher audience trust and better monetization approval from YouTube. This approach relies on authentic stock footage, real human voiceovers (or your own), and traditional editing techniques.\n\nHere is a comprehensive guide tailored for a US-based content creator, covering software tools, a streamlined workflow, and an analysis of industry options including the ones you mentioned.\n\n---\n\n### Industry Options Analysis (Your Mentioned Tools)\n\nBefore diving into the workflow, it is important to evaluate how your requested industry tools fit into a *non-AI* framework:\n\n1. **CapCut:** Excellent for non-AI editing. While CapCut offers AI features (like auto-captions and text-to-speech), its core timeline, keyframing, transition, and sound design tools are industry-standard for fast-paced, retention",
+              "thoughtSignature": "Eo4BCosBAWkUfROOSbv2iYpEzJnN9VaL18U8ru44dvRxdoK9fkFl2ar3d0Az+4G1ma5pT0kp89BxxCx9gnbbiL/O4yBFlyX+Phvmgj3BLDJ6j5JuVGLJOmK+K/cbqpOveFXbKN5byAwUu5Ff81HNlRx86esa8aXN57IOyteLzBlY4WMSmT9MjSVRfAgbsD11ig=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 265,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "vT8Da7bnCoCw0r4PqazV2AI"
+  },
+  "latency_ms": 8578,
+  "cost_usd": 0.0002
+}

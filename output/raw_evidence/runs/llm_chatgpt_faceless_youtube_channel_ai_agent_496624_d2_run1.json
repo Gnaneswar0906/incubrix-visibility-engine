@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai agent",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Building a **Faceless YouTube Channel** with AI \u2013 Tools",
+  "raw_payload": {
+    "id": "chatcmpl-053a5be4-3bff-4e84-b492-62e7cfe38535",
+    "object": "chat.completion",
+    "created": 1795376830,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Building a **Faceless YouTube Channel** with AI \u2013 Tools",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, thorough. Should include AI agents for faceless YouTube channels (e.g., text-to-speech, avatar generation, video editing automation). Provide workflow steps, tools for script writing, voice generation, video creation, editing, thumbnail, SEO, automation. Cite sources with links. Ensure no disallowed content. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.287629522,
+      "prompt_tokens": 135,
+      "prompt_time": 0.028411927,
+      "completion_tokens": 150,
+      "completion_time": 0.317502399,
+      "total_tokens": 285,
+      "total_time": 0.345914326,
+      "completion_tokens_details": {
+        "reasoning_tokens": 126
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_49bfac06f1",
+    "x_groq": {
+      "id": "req_01m82crn2kes2rm65mqhjkevzz",
+      "seed": 1029086410
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2527,
+  "cost_usd": 0.0002
+}

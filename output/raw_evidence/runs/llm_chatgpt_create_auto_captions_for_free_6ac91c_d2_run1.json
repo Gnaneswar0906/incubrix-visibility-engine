@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "create auto captions for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"create auto captions for free\". Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. So we should mention UK-friendly options, maybe free tiers, mention limitations, how to use them. Provide workflow: uploading video, auto-caption, editing, exporting. Provide references: maybe to official websites, reviews, tech articles. Provide citations. Use up-to-date info. Let's search memory: IncuBrix? I think it's a startup? CapCut is a video editor by ByteDance. Opus Clip is a video editing tool. Des",
+  "raw_payload": {
+    "id": "chatcmpl-e6d72728-b2d5-4bce-ae5e-a82439686623",
+    "object": "chat.completion",
+    "created": 1795377410,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"create auto captions for free\". Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator located in GB. So we should mention UK-friendly options, maybe free tiers, mention limitations, how to use them. Provide workflow: uploading video, auto-caption, editing, exporting. Provide references: maybe to official websites, reviews, tech articles. Provide citations. Use up-to-date info. Let's search memory: IncuBrix? I think it's a startup? CapCut is a video editor by ByteDance. Opus Clip is a video editing tool. Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367392509,
+      "prompt_tokens": 134,
+      "prompt_time": 0.007492229,
+      "completion_tokens": 150,
+      "completion_time": 0.154464926,
+      "total_tokens": 284,
+      "total_time": 0.161957155,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5979a0e1b7",
+    "x_groq": {
+      "id": "req_01m82dabs8e2vtxa2am1k8ch37",
+      "seed": 1667994912
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4678,
+  "cost_usd": 0.0002
+}

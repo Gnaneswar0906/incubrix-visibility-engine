@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to streamline production",
+      "cost_usd": 0.0002,
+      "latency_ms": 7191,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_to_youtube_8038a3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in the United States looking to automate the video upload process to YouTube, leveraging the right mix of AI-powered editing suites, repurposing tools, and automation platforms is essential. \n\nHere is a comprehensive guide to the best software tools, key industry options ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2883,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_to_youtube_8038a3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_to_youtube_8038a3_d1_US.json"
+}

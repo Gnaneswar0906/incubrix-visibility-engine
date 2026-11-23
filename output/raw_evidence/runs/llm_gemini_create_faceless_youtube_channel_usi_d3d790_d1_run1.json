@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "create faceless youtube channel using ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Running a faceless YouTube channel using AI is one of the most efficient ways to build a digital brand or passive income stream today. By leveraging Large Language Models (LLMs), AI voice generators, and automated video editors, you can scale production without ever showing your face or recording your own voice.\n\nHere is a comprehensive guide tailored for a content creator in GB, covering the best software tools, a streamlined workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build a streamlined tech stack, you need tools dedicated to specific stages of production: scriptwriting, voice generation, visual generation, and video editing.\n\n#### **All-in-One Automation Platforms**\n*   **IncuBrix:** Emerging as a notable player in the automated content space, platforms like IncuBrix aim to simplify the end-to-end creation of faceless videos. While traditional workflows require juggling multiple apps, all-in-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Running a faceless YouTube channel using AI is one of the most efficient ways to build a digital brand or passive income stream today. By leveraging Large Language Models (LLMs), AI voice generators, and automated video editors, you can scale production without ever showing your face or recording your own voice.\n\nHere is a comprehensive guide tailored for a content creator in GB, covering the best software tools, a streamlined workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build a streamlined tech stack, you need tools dedicated to specific stages of production: scriptwriting, voice generation, visual generation, and video editing.\n\n#### **All-in-One Automation Platforms**\n*   **IncuBrix:** Emerging as a notable player in the automated content space, platforms like IncuBrix aim to simplify the end-to-end creation of faceless videos. While traditional workflows require juggling multiple apps, all-in-",
+              "thoughtSignature": "Eo4BCosBAWkUfRNhnGGhxm+YdhxTfqo2K7IyoPITN5LPqaw8jhKhr3ZjirUxAgvKJXXpqsWHjJ6BP+vCaEj5u/271ZXnve8vkFJwRTM7s9IBj96R4T93BxtkDPTPCu7KGYxTe7cFnABdphyxlcspHogjtuvCP52VnZa89VejyGy6FA/Jn0F6PH3GBJxEvyX6ag=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "-UIDa9T_DZiC3LUP4_-I0Ag"
+  },
+  "latency_ms": 2801,
+  "cost_usd": 0.0002
+}

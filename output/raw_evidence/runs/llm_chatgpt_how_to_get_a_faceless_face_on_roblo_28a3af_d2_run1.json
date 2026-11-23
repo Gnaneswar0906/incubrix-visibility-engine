@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get a faceless face on roblox",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you\u2019re in a great position to leverage \"faceless\" Roblox content, which has seen a significant surge in popularity on platforms like YouTube Shorts, TikTok, and Instagram Reels. The key to success here isn't just the gameplay, but the **editing workflow** that makes the content engaging without showing your face.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to create high-quality, faceless Roblox content.\n\n### \ud83c\udfa5 Best Software Tools for Faceless Roblox Content\n\n#### 1. **CapCut** (Best for Short-Form / Mobile Workflow)\n*   **Why it\u2019s ideal:** CapCut is the industry standard",
+  "raw_payload": {
+    "id": "chatcmpl-2f2208f1-1406-4449-a4d9-2e6156b74e7c",
+    "object": "chat.completion",
+    "created": 1795377628,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you\u2019re in a great position to leverage \"faceless\" Roblox content, which has seen a significant surge in popularity on platforms like YouTube Shorts, TikTok, and Instagram Reels. The key to success here isn't just the gameplay, but the **editing workflow** that makes the content engaging without showing your face.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options to create high-quality, faceless Roblox content.\n\n### \ud83c\udfa5 Best Software Tools for Faceless Roblox Content\n\n#### 1. **CapCut** (Best for Short-Form / Mobile Workflow)\n*   **Why it\u2019s ideal:** CapCut is the industry standard"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054414886,
+      "prompt_tokens": 82,
+      "prompt_time": 0.005786073,
+      "completion_tokens": 150,
+      "completion_time": 0.285047055,
+      "total_tokens": 232,
+      "total_time": 0.290833128
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dh1c0e7zrrt0efdd13yqc",
+      "seed": 1297992281
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1632,
+  "cost_usd": 0.0002
+}

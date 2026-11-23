@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India, query: most popular faceless YouTube channels, recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply w",
+      "cost_usd": 0.0002,
+      "latency_ms": 2346,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_most_popular_faceless_youtube_chann_e43944_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel from India requires a blend of strategic niche selection, efficient workflow automation, and the right software stack. Since you are located in **IN (India)**, I have tailored these recommendations to consider local cost-efficiency, internet bandwidth o",
+      "cost_usd": 0.0002,
+      "latency_ms": 1037,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_most_popular_faceless_youtube_chann_e43944_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_most_popular_faceless_youtube_chann_e43944_d1_IN.json"
+}

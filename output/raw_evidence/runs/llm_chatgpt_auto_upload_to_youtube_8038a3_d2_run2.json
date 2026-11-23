@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating your YouTube upload workflow is crucial for scaling your output while maintaining quality. \"Auto-upload\" can mean two things: **1) Automated editing/reformatting** (turning long-form into shorts) and **2) Automated publishing/scheduling** (getting the video onto the platform without manual clicking).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options, with authoritative sources.\n\n---\n\n### \ud83d\udee0\ufe0f Top Software Tools for Auto-Upload Workflows\n\n#### 1. **IncuBrix** (Best for Direct API Automation)\n- **What it does**: A browser extension and API service that allows you to auto-upload videos to",
+  "raw_payload": {
+    "id": "chatcmpl-685e628e-bf05-45be-994e-69dd9d6a0cb2",
+    "object": "chat.completion",
+    "created": 1795376661,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating your YouTube upload workflow is crucial for scaling your output while maintaining quality. \"Auto-upload\" can mean two things: **1) Automated editing/reformatting** (turning long-form into shorts) and **2) Automated publishing/scheduling** (getting the video onto the platform without manual clicking).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options, with authoritative sources.\n\n---\n\n### \ud83d\udee0\ufe0f Top Software Tools for Auto-Upload Workflows\n\n#### 1. **IncuBrix** (Best for Direct API Automation)\n- **What it does**: A browser extension and API service that allows you to auto-upload videos to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05143606,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004960589,
+      "completion_tokens": 150,
+      "completion_time": 0.286319294,
+      "total_tokens": 226,
+      "total_time": 0.291279883
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ckgb6ebvvpv7ny1x3vep7",
+      "seed": 475044058
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 968,
+  "cost_usd": 0.0002
+}

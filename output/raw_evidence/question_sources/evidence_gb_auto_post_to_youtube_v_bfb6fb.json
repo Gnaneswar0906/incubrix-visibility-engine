@@ -1,0 +1,21 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+post+to+youtube+v",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto post to youtube v",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:55:27.055782+00:00",
+  "extracted_count": 8,
+  "suggestions": [
+    "auto post youtube videos",
+    "auto upload youtube videos",
+    "automatically upload youtube videos",
+    "auto post youtube videos to discord",
+    "auto post youtube videos to facebook page",
+    "automatically post youtube videos to discord server",
+    "auto post twitch vods to youtube",
+    "youtube auto translate video titles"
+  ],
+  "raw_response": "[\"auto post to youtube v\",[\"auto post youtube videos\",\"auto upload youtube videos\",\"automatically upload youtube videos\",\"auto post youtube videos to discord\",\"auto post youtube videos to facebook page\",\"automatically post youtube videos to discord server\",\"auto post twitch vods to youtube\",\"youtube auto translate video titles\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[512,650,390]]}]"
+}

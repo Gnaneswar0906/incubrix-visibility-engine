@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for tiktok",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for TikTok \u2013 A Practical Guide for GB Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that lets you turn a",
+  "raw_payload": {
+    "id": "chatcmpl-b49a1622-b77d-4362-b979-b5c155dd14c2",
+    "object": "chat.completion",
+    "created": 1795375580,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for TikTok \u2013 A Practical Guide for GB Creators  \n\nBelow is a **step\u2011by\u2011step workflow** that lets you turn a",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should follow policy: no disallowed content. Provide citations with links. Should be helpful. Also note UK considerations like accessibility regulations. Provide step-by-step workflow. Provide pros/cons. Provide links to official sites or reputable articles. Provide citations in a format. Let's produce answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.283688531,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005512836,
+      "completion_tokens": 150,
+      "completion_time": 0.313355105,
+      "total_tokens": 287,
+      "total_time": 0.318867941,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_47082602e2",
+    "x_groq": {
+      "id": "req_01m82bjgs1e8x9a5vbm9k5c8ec",
+      "seed": 221117293
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2756,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,130 @@
+{
+  "query": "text based video editing davinci resolve",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/watch?v=qd2_CY8Ajpk",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text based video editing davinci resolve",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Edit 10x Faster in DaVinci Resolve with Text-Based Editing",
+        "link": "https://www.youtube.com/watch?v=qd2_CY8Ajpk",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "My new 100% DaVinci Resolve channel: / @davincidojo Want to LEARN to edit videos in Resolve? Go here: https://bit.ly/resolve.",
+        "position": 1
+      },
+      {
+        "title": "View topic - Text-based Editing - Step by Step Guide? - Blackmagic Forum",
+        "link": "https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=194255",
+        "displayedLink": "https://forum.blackmagicdesign.com \u203a viewtopic.php",
+        "snippet": "1. Select a source clip / timeline \u00b7 2. Use the Transcribe button (or menu) to generate a transcription \u00b7 3. Edit the transcription \u00b7 4. Create a ...",
+        "date": "Dec 27, 2023",
+        "position": 2
+      },
+      {
+        "title": "Anyway to make text thats made out of videos/clips?",
+        "link": "https://www.reddit.com/r/davinciresolve/comments/1svlsd0/anyway_to_make_text_thats_made_out_of_videosclips/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a anyway_to_make_text_thats_m...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/davinciresolve/comments/1svlsd0/anyway_to_make_text_thats_made_out_of_videosclips/oi97ked/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/davinciresolve/comments/1svlsd0/comment/oicnms0/"
+          },
+          {
+            "title": "Video in Text Effect in DaVinci Resolve | Filmmaking ForumStudent Filmmakers Forums\u00a0\u00b7\u00a06y",
+            "link": "https://www.studentfilmmakersforums.com/threads/video-in-text-effect-in-davinci-resolve.52726/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Video in Text Effect in DaVinci Resolve | Filmmaking Forum",
+        "link": "https://www.studentfilmmakersforums.com/threads/video-in-text-effect-in-davinci-resolve.52726/",
+        "displayedLink": "https://www.studentfilmmakersforums.com \u203a threads \u203a video-in-text-effect-in-dav...",
+        "position": 4
+      },
+      {
+        "title": "Text based editing sucks on Davinci Resolve - or am I missing something?",
+        "link": "https://www.reddit.com/r/davinciresolve/comments/1fsjzda/text_based_editing_sucks_on_davinci_resolve_or_am/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a text_based_editing_sucks_on...",
+        "snippet": "Resolve really prefers that you build the timeline from clips, rather than edit the timeline down. So for text-based, it's easier to have the ...",
+        "sitelinks": [
+          {
+            "title": "How do I add text? : r/davinciresolve - Redditr/davinciresolve\u00b740+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/davinciresolve/comments/1izffqf/how_do_i_add_text/"
+          },
+          {
+            "title": "I built a text-based-editing plugin for DaVinci Resolve after getting tired ...r/davinciresolve\u00b720+ comments\u00b75mo",
+            "link": "https://www.reddit.com/r/davinciresolve/comments/1tp9tmo/i_built_a_textbasedediting_plugin_for_davinci/"
+          }
+        ],
+        "position": 5
+      },
+      {
+        "title": "Using the Text Based Editor in DaVinci Resolve",
+        "link": "https://www.youtube.com/watch?v=VYAIF5epBuQ",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Using the Text Based Editor in DaVinci Resolve. @SUALVI 10 likes 1.5K ... How to Edit Better Videos With Text! | Davinci Resolve. Dylan\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "DaVinci Resolve Text-Based Editing: Studio Guide",
+        "link": "https://blitzcutai.com/blog/davinci-resolve-text-based-editing",
+        "displayedLink": "https://blitzcutai.com \u203a blog \u203a davinci-resolve-text-based-...",
+        "snippet": "DaVinci Resolve text-based editing lets you assemble clips or change an existing timeline by selecting spoken words in a transcript, and it ...",
+        "date": "5 days ago",
+        "rating": 4.3,
+        "ratingCount": 80,
+        "position": 7
+      },
+      {
+        "title": "10 FREE Text Presets for DaVinci Resolve!",
+        "link": "https://www.youtube.com/watch?v=zM-DrwRPgSU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Film Look WITHOUT Plugins? Cinematic Color Grading in DaVinci Resolve + Free LUT Giveaway. Mediabee Color Lab \u00b7 27K views ; Surprise Dashcam\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Text-Based Editing Using Transcription",
+        "link": "https://dvresolve.com/tutorial/text-based-editing-using-transcription/",
+        "displayedLink": "https://dvresolve.com \u203a tutorial \u203a text-based-editing-using-tr...",
+        "position": 9
+      },
+      {
+        "title": "Free DaVinci Resolve templates & macros for commercial use",
+        "link": "https://www.motionelements.com/free/davinci-resolve-templates?srsltid=AYCX9vKVczREr-0AVCNilq4Swtw6ESvofrkMvS8dUQDVjy5GvjDT2aS3",
+        "displayedLink": "https://www.motionelements.com \u203a free \u203a davinci-resolve-templates",
+        "snippet": "Download free DaVinci Resolve for commercial use from our AI-driven marketplace with over 26 million royalty-free stock videos, templates & music.",
+        "position": 10
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Text based editing DaVinci Resolve"
+      },
+      {
+        "query": "DaVinci Resolve text-based editing free"
+      },
+      {
+        "query": "Text-based editing DaVinci Resolve 20"
+      },
+      {
+        "query": "Text based editing Final Cut Pro"
+      }
+    ],
+    "credits": 1
+  }
+}

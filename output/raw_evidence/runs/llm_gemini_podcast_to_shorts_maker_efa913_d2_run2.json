@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best software tools, key industry options, and an optimized workflow to turn long-form podcast episodes into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe landscape for AI-driven repurposing tools has exploded. Here is how the top platforms\u2014including your mentions\u2014compare:\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n*   **What it does:** An AI-powered generative video clipping tool that takes a long-form video, analyzes it for hooks, cohesive narratives, and viral potential, and automatically chops it into multiple shorts complete with captions and virality scores.\n*   **Best for:** Creators who want hands-off curation. According to reviews on creator economy platforms like *Creator Wizard* and *VidIQ*, Opus",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best software tools, key industry options, and an optimized workflow to turn long-form podcast episodes into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe landscape for AI-driven repurposing tools has exploded. Here is how the top platforms\u2014including your mentions\u2014compare:\n\n#### 1. Opus Clip (The Industry Standard for AI Curation)\n*   **What it does:** An AI-powered generative video clipping tool that takes a long-form video, analyzes it for hooks, cohesive narratives, and viral potential, and automatically chops it into multiple shorts complete with captions and virality scores.\n*   **Best for:** Creators who want hands-off curation. According to reviews on creator economy platforms like *Creator Wizard* and *VidIQ*, Opus",
+              "thoughtSignature": "Eo4BCosBAWkUfRPNKcmM8FIgobugsADzNXdnUGypSiirZ19h1YGykaISIMRIj+x1/tg2aYPc6nhSfF3zeakSN5G4EjlUfPabIV4k7UZi1nfhL8h+ugOaCyqXWxdWXZ4dJ928ERd6ugzV2hmaK3thDx+5zLt4E6yta0ddutdfLW+/1eRCwz3F9tizZ7gkKaE6bg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "c0UDa9jaH9Se3LUP45jwiQ8"
+  },
+  "latency_ms": 2121,
+  "cost_usd": 0.0002
+}

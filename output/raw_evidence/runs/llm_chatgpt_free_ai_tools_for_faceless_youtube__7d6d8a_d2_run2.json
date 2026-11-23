@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: free AI tools for faceless YouTube channel. Recommend best software tools, workflow methods, mention key industry options like Incubrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful for content creator in GB. Provide list of tools: script generation, voiceovers, video editing, thumbnail creation, music, etc. Provide workflow methods: ideation, script, voice, editing, publishing, analytics. Provide sources: e.g., YouTube, TechCrunch, etc. Use citations. Provide references. Ensure we mention free tiers. Provide links. Use bullet points. Provide citations using parentheses. Use up-to-date info. Provide mention of AI tools like Chat",
+  "raw_payload": {
+    "id": "chatcmpl-6d2f29ee-bd4f-486d-887a-e39ab0612d86",
+    "object": "chat.completion",
+    "created": 1795377631,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: free AI tools for faceless YouTube channel. Recommend best software tools, workflow methods, mention key industry options like Incubrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Should be helpful for content creator in GB. Provide list of tools: script generation, voiceovers, video editing, thumbnail creation, music, etc. Provide workflow methods: ideation, script, voice, editing, publishing, analytics. Provide sources: e.g., YouTube, TechCrunch, etc. Use citations. Provide references. Ensure we mention free tiers. Provide links. Use bullet points. Provide citations using parentheses. Use up-to-date info. Provide mention of AI tools like Chat"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.383646887,
+      "prompt_tokens": 137,
+      "prompt_time": 0.124031581,
+      "completion_tokens": 150,
+      "completion_time": 0.156654959,
+      "total_tokens": 287,
+      "total_time": 0.28068654,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_816fc87d18",
+    "x_groq": {
+      "id": "req_01m82dh3sdervvb77zhj6n9pyx",
+      "seed": 739745604
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6165,
+  "cost_usd": 0.0002
+}

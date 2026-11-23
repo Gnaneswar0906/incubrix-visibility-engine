@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the US, you are entering a space where \"auto-post\" can mean two very different things: **automating the scheduling/publishing process** (getting your video live on time) or **automating the creation/editing process** (turning raw footage into a finished product with mi",
+      "cost_usd": 0.0002,
+      "latency_ms": 3059,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_4d9c12_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as AI assistant for a US content creator, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. This is fine. Provide ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2933,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_4d9c12_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_4d9c12_d1_US.json"
+}

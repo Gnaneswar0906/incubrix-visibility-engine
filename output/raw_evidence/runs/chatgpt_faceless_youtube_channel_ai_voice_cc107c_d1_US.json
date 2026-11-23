@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai voice",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Faceless YouTube Channels\u202f+\u202fAI\u2011Generated Voice: A Practical Toolkit & Workflow**  \n*(Tailored for a U.S.\u2013based content creator)*  \n\n---\n\n## 1\ufe0f\u20e3  Core Workflow Overview\n\n| Stage | Goal | Recommended Tools (Free / Paid) | Why It\u2019s Useful |\n|-------|------",
+      "cost_usd": 0.0002,
+      "latency_ms": 3221,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_voice_cc107c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udf99\ufe0f Building a **Faceless YouTube Channel** with AI Voice  \n*(A practical toolkit & workflow for U.S. creators)*  \n\n---\n\n### 1\ufe0f\u20e3  Core Workflow Overview  \n\n| Step | What you do | Recommended Tools | Why it works",
+      "cost_usd": 0.0002,
+      "latency_ms": 3138,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_voice_cc107c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_voice_cc107c_d1_US.json"
+}

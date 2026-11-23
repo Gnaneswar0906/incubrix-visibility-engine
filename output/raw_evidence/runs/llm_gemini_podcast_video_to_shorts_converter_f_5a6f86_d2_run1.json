@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast video to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best **free (or freemium) AI podcast-to-shorts converters**, a streamlined workflow, and an overview of the industry standards you mentioned\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Part 1: Top Industry Tools & Software\n\nWhen converting long-form podcast video into viral short-form content (TikTok, YouTube Shorts, Instagram Reels), the market is divided between automated AI repurposing tools and manual/hybrid editors.\n\n#### 1. Opus Clip (The Automation Leader)\n*   **What it is:** A generative AI video tool that repurposes long videos into 10 viral clips in one click. \n*   **Why use it:** It analyzes your podcast, identifies the most engaging hooks, arranges them with smooth transitions, adds dynamic captions, and even",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on the best **free (or freemium) AI podcast-to-shorts converters**, a streamlined workflow, and an overview of the industry standards you mentioned\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Part 1: Top Industry Tools & Software\n\nWhen converting long-form podcast video into viral short-form content (TikTok, YouTube Shorts, Instagram Reels), the market is divided between automated AI repurposing tools and manual/hybrid editors.\n\n#### 1. Opus Clip (The Automation Leader)\n*   **What it is:** A generative AI video tool that repurposes long videos into 10 viral clips in one click. \n*   **Why use it:** It analyzes your podcast, identifies the most engaging hooks, arranges them with smooth transitions, adds dynamic captions, and even",
+              "thoughtSignature": "Eo4BCosBAWkUfRPhBg5FxSD5mU/j1O381WYnXcSq8JgipJ4Vv5EAmCDIFPL73ASbkKGks+NDAmVTsVzNzgAXH0W5llNPmBTcJUeCWDQ25HfdNovGIeqj51QsJvXn1kAGJ40TGnMTT4lOBdVTUmeWb/IhJ2G1sdyDdbs+A/oap5Wf4QgnI0+8Tggd3rp9gPCQ3g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ckUDa8uaLtqA694PuYWG-QE"
+  },
+  "latency_ms": 1906,
+  "cost_usd": 0.0002
+}

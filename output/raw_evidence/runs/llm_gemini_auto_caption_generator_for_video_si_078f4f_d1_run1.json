@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India (IN) looking to produce or localize video content with Sinhala auto-captions, navigating the right tools can significantly boost your engagement on platforms like YouTube Shorts, Instagram Reels, and TikTok. \n\nWhile AI captioning for major global languages (English, Hindi, Spanish) is ubiquitous, Sinhala (\u0dc3\u0dd2\u0d82\u0dc4\u0dbd) requires tools with robust non-Latin script rendering and accurate Indic-language speech recognition.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and a recommended workflow tailored for creators.\n\n---\n\n### Part 1: Evaluating Key Industry Options for Sinhala\n\n#### 1. CapCut (Best for Mobile & Quick Social Shorts)\n*   **Sinhala Support:** CapCut has improved its multilingual auto-caption feature. While its direct auto-transcription for Sinhala can sometimes struggle with colloquial dialects (spoken vs. written Sinhala), it",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India (IN) looking to produce or localize video content with Sinhala auto-captions, navigating the right tools can significantly boost your engagement on platforms like YouTube Shorts, Instagram Reels, and TikTok. \n\nWhile AI captioning for major global languages (English, Hindi, Spanish) is ubiquitous, Sinhala (\u0dc3\u0dd2\u0d82\u0dc4\u0dbd) requires tools with robust non-Latin script rendering and accurate Indic-language speech recognition.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and a recommended workflow tailored for creators.\n\n---\n\n### Part 1: Evaluating Key Industry Options for Sinhala\n\n#### 1. CapCut (Best for Mobile & Quick Social Shorts)\n*   **Sinhala Support:** CapCut has improved its multilingual auto-caption feature. While its direct auto-transcription for Sinhala can sometimes struggle with colloquial dialects (spoken vs. written Sinhala), it",
+              "thoughtSignature": "Eo4BCosBAWkUfRN0JlPwSmyv3Yu6/vqXtSwW1KGlP98idY6S7sHflWobU3Kv2QNFGaG4zYilgtx7+cuZEOtS1IfKPaVtT7pu5T86EmMHspLEmMHqSMWc93VGVHwnSFi4iXj7ptcJDtzzKwIR/NGDYLLxKbWPAlG/x9mL2m+ZXwgov2TUh4kfmJI4VQB3ztwceg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ZEADa9qyK4Dfg8UPnOOtuAg"
+  },
+  "latency_ms": 2831,
+  "cost_usd": 0.0002
+}

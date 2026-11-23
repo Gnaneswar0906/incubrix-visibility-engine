@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "does youtube automatically add ads",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India (IN). Query: \"does youtube automatically add ads\". They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer about YouTube's automatic ad insertion: YouTube does not automatically add ads to all videos; creators must be in YPP, have monetization enabled, meet criteria, etc. YouTube may place ads on videos that are not monetized if they have \"AdSense for video\"? Actually YouTube's policies: If a channel is not in YPP, YouTube may still place limited ads on videos but revenue",
+  "raw_payload": {
+    "id": "chatcmpl-5f8cce65-dc01-4222-ab77-b3063d9117a9",
+    "object": "chat.completion",
+    "created": 1795377083,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India (IN). Query: \"does youtube automatically add ads\". They also want recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer about YouTube's automatic ad insertion: YouTube does not automatically add ads to all videos; creators must be in YPP, have monetization enabled, meet criteria, etc. YouTube may place ads on videos that are not monetized if they have \"AdSense for video\"? Actually YouTube's policies: If a channel is not in YPP, YouTube may still place limited ads on videos but revenue"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369236448,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006164591,
+      "completion_tokens": 150,
+      "completion_time": 0.314964679,
+      "total_tokens": 284,
+      "total_time": 0.32112927,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82d0c2bevtvra77rvdjs31p",
+      "seed": 1513806530
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2767,
+  "cost_usd": 0.0002
+}

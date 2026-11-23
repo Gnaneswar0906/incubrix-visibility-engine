@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, dealing with long-form video (like podcasts, webinars, or tutorials) can be overwhelming when it comes to captions. The good news is that the landscape for free and freemium auto-captions has improved dramatically.\n\nHere are the best software tools, workflow me",
+      "cost_usd": 0.0002,
+      "latency_ms": 2307,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_long_vid_ad3e39_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick\u2011Pick List \u2013 Free (or \u201cfree\u2011tier\u201d) Auto\u2011Caption Tools for Long\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3697,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_long_vid_ad3e39_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_long_vid_ad3e39_d1_US.json"
+}

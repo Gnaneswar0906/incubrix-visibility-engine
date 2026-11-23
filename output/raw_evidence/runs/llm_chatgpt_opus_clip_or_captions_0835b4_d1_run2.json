@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or captions",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Also note the user is a content creator located in GB (Great Britain). So maybe mention UK-specific considerations, pricing in GBP, compliance with GDPR, etc. Provide a structured answer: overview, criteria, tool recommendations, workflow steps, comparison table, links to sources. Need to cite sources: use web references, maybe from official sites, reviews (TechRadar, PCMag, The Verge, etc). Provide citations in brackets with URLs. Ensure not to fabricate. I need to be careful: I can provide plausible citations but",
+  "raw_payload": {
+    "id": "chatcmpl-fb5e4fe2-0fd1-4007-908a-839f03292d25",
+    "object": "chat.completion",
+    "created": 1795375748,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Also note the user is a content creator located in GB (Great Britain). So maybe mention UK-specific considerations, pricing in GBP, compliance with GDPR, etc. Provide a structured answer: overview, criteria, tool recommendations, workflow steps, comparison table, links to sources. Need to cite sources: use web references, maybe from official sites, reviews (TechRadar, PCMag, The Verge, etc). Provide citations in brackets with URLs. Ensure not to fabricate. I need to be careful: I can provide plausible citations but"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.286898905,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006472475,
+      "completion_tokens": 150,
+      "completion_time": 0.313973268,
+      "total_tokens": 283,
+      "total_time": 0.320445743,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_47082602e2",
+    "x_groq": {
+      "id": "req_01m82bqmbje1p9emjce4zhhg9b",
+      "seed": 1249970573
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2680,
+  "cost_usd": 0.0002
+}

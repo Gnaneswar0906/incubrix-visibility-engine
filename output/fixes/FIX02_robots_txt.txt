@@ -1,0 +1,25 @@
+# IncuBrix robots.txt - Optimized for SEO, AEO & GEO
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/internal/
+
+# Explicitly Allow AI Assistant Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemaps & LLMs Context
+Sitemap: https://incubrix.com/sitemap.xml
+# llms.txt standard for AI search engines: https://incubrix.com/llms.txt

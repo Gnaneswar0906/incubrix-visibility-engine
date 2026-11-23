@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that converting long-form podcasts into vertical shorts (TikTok, Instagram Reels, YouTube Shorts) is one of the most effective organic growth strategies today. \n\nHere is a comprehensive breakdown of the best AI tools, industry options (including the ones you mentioned), and an optimized workflow to streamline your content creation process.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing is booming. Based on industry standards and creator consensus, here is how the top tools compare:\n\n#### 1. Opus Clip (The Industry Standard for Automated Curation)\n*   **Best For:** Fully automated, AI-driven clip generation from long-form video.\n*   **How it works:** You paste a YouTube link or upload a file. Opus\u2019s AI analyzes the transcript, identifies \"hooks\" and viral-worthy moments, crops",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that converting long-form podcasts into vertical shorts (TikTok, Instagram Reels, YouTube Shorts) is one of the most effective organic growth strategies today. \n\nHere is a comprehensive breakdown of the best AI tools, industry options (including the ones you mentioned), and an optimized workflow to streamline your content creation process.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing is booming. Based on industry standards and creator consensus, here is how the top tools compare:\n\n#### 1. Opus Clip (The Industry Standard for Automated Curation)\n*   **Best For:** Fully automated, AI-driven clip generation from long-form video.\n*   **How it works:** You paste a YouTube link or upload a file. Opus\u2019s AI analyzes the transcript, identifies \"hooks\" and viral-worthy moments, crops",
+              "thoughtSignature": "Eo4BCosBAWkUfROFRScl40beIHIjzOrFeoyFH/2bH9x/JKLMAnsVzduhNZMgU6hr6kB4KkjpfELxhDJesoZuzP0qHokuYRK/xWYXUCOgk2auKmqqwhQOOp/vE1EZOV7xVUawkz4R9Id7GNoklqvISpKlugso/CuRLDlH2Ld6fjqV5+Yp/X5az1UGI8YBFRmjUw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jT0Da4T2CdnA4-EPz5zcoAw"
+  },
+  "latency_ms": 2505,
+  "cost_usd": 0.0002
+}

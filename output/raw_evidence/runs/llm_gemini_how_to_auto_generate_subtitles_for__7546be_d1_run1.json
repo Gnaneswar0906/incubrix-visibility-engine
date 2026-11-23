@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto generate subtitles for a video free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Auto-generating video subtitles for free has become essential for content creators in the UK, especially given that a significant percentage of social media users watch videos with the sound off. \n\nAs a content creator in GB, your goal is likely to find a tool that offers high accuracy (especially for British English slang, regional accents, and colloquialisms), speed, and free or freemium export options.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options\u2014including the ones you mentioned\u2014tailored for free use.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **CapCut (Best for Mobile & Desktop - Free)**\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut offers one of the most powerful **free** auto-captioning engines on the market. \n*   **Pros:** Highly accurate speech-to-text, massive library of dynamic animated caption",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-generating video subtitles for free has become essential for content creators in the UK, especially given that a significant percentage of social media users watch videos with the sound off. \n\nAs a content creator in GB, your goal is likely to find a tool that offers high accuracy (especially for British English slang, regional accents, and colloquialisms), speed, and free or freemium export options.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options\u2014including the ones you mentioned\u2014tailored for free use.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **CapCut (Best for Mobile & Desktop - Free)**\n*   **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut offers one of the most powerful **free** auto-captioning engines on the market. \n*   **Pros:** Highly accurate speech-to-text, massive library of dynamic animated caption",
+              "thoughtSignature": "Eo4BCosBAWkUfRPdKE5i7hCcdLALVToC437tAQXCIpLcgMFOvu1taFN6RMrfJmbNLn54L+Y9VD2+8O+VQmTC5kJFq0YHkOXBouMgoE9sivd5/1GC6/jxhA4PlZeZEmkFztb8PHHRsx7e9uB+oNEJJGyHComD1mgtMWjNlpjLdXI26vQHYyziBGbU2/Gonr6a1Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 67,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 67
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "60EDa9K8Hc6pz7sP8IT8-As"
+  },
+  "latency_ms": 6009,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=auto+generate+captions+for+a",
+  "source_type": "Google Autocomplete",
+  "market": "GB",
+  "seed": "auto generate captions for a",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:54:10.164291+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto generate captions for a video",
+    "auto generate captions for audio",
+    "auto generate subtitles for a video",
+    "auto generate subtitles for audio",
+    "auto captions generator for after effects",
+    "auto caption generator for audio free",
+    "auto generate captions for video app",
+    "auto generate captions adobe premiere pro",
+    "auto generate captions ai",
+    "auto generate captions adobe express"
+  ],
+  "raw_response": "[\"auto generate captions for a\",[\"auto generate captions for a video\",\"auto generate captions for audio\",\"auto generate subtitles for a video\",\"auto generate subtitles for audio\",\"auto captions generator for after effects\",\"auto caption generator for audio free\",\"auto generate captions for video app\",\"auto generate captions adobe premiere pro\",\"auto generate captions ai\",\"auto generate captions adobe express\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

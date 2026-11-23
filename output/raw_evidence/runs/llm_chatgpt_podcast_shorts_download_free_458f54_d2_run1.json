@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Free, Download\u2011Ready Shorts**  \n*(Tailored for a GB\u2011based content creator)*  \n\n---\n\n## 1. What \u201cPodcast Shorts\u201d Are & Why",
+  "raw_payload": {
+    "id": "chatcmpl-ab63b6ba-144f-43e2-b30c-35fb901bf39d",
+    "object": "chat.completion",
+    "created": 1795377277,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Free, Download\u2011Ready Shorts**  \n*(Tailored for a GB\u2011based content creator)*  \n\n---\n\n## 1. What \u201cPodcast Shorts\u201d Are & Why",
+          "reasoning": "The user wants recommendations for software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for \"podcast shorts download free\". Likely they want to create short clips from podcasts and download them for free. Provide best tools, workflow, mention those options, and cite authoritative sources. Must be safe, no disallowed content. Provide UK context perhaps. Provide citations with URLs. Provide steps. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368880948,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005396988,
+      "completion_tokens": 150,
+      "completion_time": 0.31031263,
+      "total_tokens": 283,
+      "total_time": 0.315709618,
+      "completion_tokens_details": {
+        "reasoning_tokens": 97
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82d69qqextbmgcdyxfyjev5",
+      "seed": 1613622671
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3965,
+  "cost_usd": 0.0002
+}

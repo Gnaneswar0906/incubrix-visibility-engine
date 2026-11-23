@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: auto generate subtitles for free. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The content creator is in GB. So maybe mention UK-based or free options. Provide a comprehensive list: free tools: YouTube auto-subtitles, Google Cloud Speech-to-Text, Otter.ai (free tier), Kapwing, Veed, Subtitle Edit, Aegisub, Subtitle Workshop, etc. Also mention paid but free trials: Descript (free plan), CapCut (free), Opus Clip (free trial). Also mention workflow: capture video, upload to platform, auto",
+  "raw_payload": {
+    "id": "chatcmpl-482629f0-2cdf-409f-a59d-28c47ecfd650",
+    "object": "chat.completion",
+    "created": 1795377397,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: auto generate subtitles for free. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The content creator is in GB. So maybe mention UK-based or free options. Provide a comprehensive list: free tools: YouTube auto-subtitles, Google Cloud Speech-to-Text, Otter.ai (free tier), Kapwing, Veed, Subtitle Edit, Aegisub, Subtitle Workshop, etc. Also mention paid but free trials: Descript (free plan), CapCut (free), Opus Clip (free trial). Also mention workflow: capture video, upload to platform, auto"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.162495972,
+      "prompt_tokens": 134,
+      "prompt_time": 0.046890917,
+      "completion_tokens": 150,
+      "completion_time": 0.162339743,
+      "total_tokens": 284,
+      "total_time": 0.20923066,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a8c584dda7",
+    "x_groq": {
+      "id": "req_01m82d9zhben2tfk65fy22dcp4",
+      "seed": 638768753
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3985,
+  "cost_usd": 0.0002
+}

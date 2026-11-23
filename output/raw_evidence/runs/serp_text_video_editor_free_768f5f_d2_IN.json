@@ -1,0 +1,97 @@
+{
+  "query": "text video editor free",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.canva.com/features/add-text-to-video/",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text video editor free",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Add Text To Video Online For Free",
+        "link": "https://www.canva.com/features/add-text-to-video/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a add-text-to-video",
+        "snippet": "With our free online video editor, you can add a title, caption, or description to your video easily. Upload the clip and add the text. Move and adjust the ...",
+        "position": 1
+      },
+      {
+        "title": "Add Text to Video Online - Free Video Text Editor",
+        "link": "https://www.veed.io/tools/add-text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a add-text-to-video",
+        "snippet": "Use VEED's text overlay tool online\u2014no software download needed. Just type or paste your text, then customize the font, color, size, and transparency. Adjust ...",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 2
+      },
+      {
+        "title": "Online Video Editor",
+        "link": "https://clideo.com/video-editor",
+        "displayedLink": "https://clideo.com \u203a video-editor",
+        "snippet": "Our editor comes with all the features necessary to create a great video \u2014 add any text to your project, and personalize it! You can change font, size, boldness ...",
+        "position": 3
+      },
+      {
+        "title": "Free Online Video Editor | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/editor",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a editor",
+        "snippet": "The Adobe Express free video editor helps you easily create your own professional and custom videos in minutes, no design skills needed.",
+        "position": 4
+      },
+      {
+        "title": "Text to video AI software",
+        "link": "https://pictory.ai/text-to-video",
+        "displayedLink": "https://pictory.ai \u203a text-to-video",
+        "snippet": "Pictory's text to video AI turns a script, article or notes into a finished video with visuals, AI voiceover and captions. Edit it online like a document.",
+        "rating": 4.6,
+        "ratingCount": 81,
+        "position": 5
+      },
+      {
+        "title": "Add Text to Video Online for Free",
+        "link": "https://picsart.com/add-text-to-video/",
+        "displayedLink": "https://picsart.com \u203a add-text-to-video",
+        "snippet": "Add text to video online with the Picsart video text editor. Pick a text style, set fonts, colors, and timing, or generate AI video with the words built in.",
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editor - Edit Video by Editing Text Free",
+        "link": "https://www.choppity.com/tools/text-based-video-editor-tool/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a text-based-video-editor-tool",
+        "snippet": "Edit videos by editing text. Delete words from the transcript to cut them from the video. Add B-roll at any point. Free text-based video editing tool.",
+        "position": 7
+      },
+      {
+        "title": "Free Text to Video AI Generator",
+        "link": "https://www.renderforest.com/text-to-video-ai",
+        "displayedLink": "https://www.renderforest.com \u203a text-to-video-ai",
+        "snippet": "Turn text into video with AI: paste a prompt or a full script, get scenes with voiceover and music, then edit and export. Start free, no credit card.",
+        "position": 8
+      },
+      {
+        "title": "Online Video Editor \u2014 Free. AI-Powered. No-Downloads.",
+        "link": "https://www.kapwing.com/video-editor",
+        "displayedLink": "https://www.kapwing.com \u203a video-editor",
+        "snippet": "Edit videos for free in your browser with Kapwing. AI-powered trimming, subtitles, effects, and more. Export in 4k HD with no watermark on Pro.",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 9
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video like a Doc",
+        "link": "https://vimeo.com/features/video-editor/text-based-video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a text-based-video-editor",
+        "snippet": "Vimeo's AI-powered text-based video editing tool identifies and lets you remove long pauses, accidental filler words like \u201cum,\u201d and other unwanted footage ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

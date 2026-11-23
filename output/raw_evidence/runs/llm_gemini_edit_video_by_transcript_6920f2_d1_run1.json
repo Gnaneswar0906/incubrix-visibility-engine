@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For content creators in the US, **text-based video editing** (also known as editing video by transcript) has revolutionized post-production. Instead of endlessly scrubbing through a timeline, you simply highlight, delete, or rearrange text in a transcript, and the video updates automatically.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to help you streamline your video creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals\u2014whether it\u2019s deep-dive editing, rapid repurposing, or automated AI clipping\u2014several industry leaders stand out:\n\n*   **Descript (The Gold Standard for Transcript Editing):**\n    *   *Best For:* Full-featured podcast and",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US, **text-based video editing** (also known as editing video by transcript) has revolutionized post-production. Instead of endlessly scrubbing through a timeline, you simply highlight, delete, or rearrange text in a transcript, and the video updates automatically.\n\nHere is a comprehensive guide to the best software tools, workflow methods, and key industry options to help you streamline your video creation process.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDepending on your specific goals\u2014whether it\u2019s deep-dive editing, rapid repurposing, or automated AI clipping\u2014several industry leaders stand out:\n\n*   **Descript (The Gold Standard for Transcript Editing):**\n    *   *Best For:* Full-featured podcast and"
+            },
+            {
+              "text": " video editing, overdubbing, and content creation.\n    *   *Why use it:* Descript pioneered modern text-based video editing. It treats your video file like a text document. You can cut filler words (\"ums,\" \"ahs\") with a single click, correct transcript errors, and even use AI voice cloning (Overdub) to fix misspoken words without re-recording.\n    *   *Industry Context:* According to industry reviews on platforms like *PCMag* and *TechRadar*, Descript remains the most robust tool for creators whose primary focus is spoken-word content, interviews, and talking-head videos.\n*   **CapCut (Best for Social Media & Quick Captions):**\n    *   *Best For:* TikTok, Instagram Reels, and YouTube Shorts creators.\n    *   *Why use it:* Owned by ByteDance, CapCut offers incredible web and desktop transcript-based editing features. Its auto-captions are industry-",
+              "thoughtSignature": "Eo4BCosBAWkUfROjb6aWFKuOq6iIzySXOtibf0J9JTFsXeLMZE1bJsAIafUdAqgu9KC12volMqLyfoJbOVrqRS+PpxysKJbipWeYLrgYCXsjsmRhYoD/TYdX1TkHm5zB+lor1UyD9isI0P2lOB7cfnnyZ8gLQ7W/zITxnmkISglXnEtkmh2V+4hkftfDHsPRPg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 356,
+      "totalTokenCount": 418,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1j0Da8byB_mR3LUPmoyn4QU"
+  },
+  "latency_ms": 3271,
+  "cost_usd": 0.0002
+}

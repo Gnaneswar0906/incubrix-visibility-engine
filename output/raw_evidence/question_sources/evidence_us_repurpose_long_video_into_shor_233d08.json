@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=repurpose+long+video+into+shorts",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "repurpose long video into shorts",
+  "cluster": "Cluster 1: AI video repurposing & long-to-short clipping",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:48:29.175657Z",
+  "extracted_count": 2,
+  "suggestions": [
+    "repurpose long videos into youtube shorts",
+    "how to convert long video into short video"
+  ],
+  "raw_response": "[\"repurpose long video into shorts\",[\"repurpose long videos into youtube shorts\",\"how to convert long video into short video\"],[],{\"google:suggestsubtypes\":[[22,30],[512,650,390]]}]"
+}

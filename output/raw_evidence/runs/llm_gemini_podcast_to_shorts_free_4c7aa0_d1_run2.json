@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form clips (TikToks, Reels, YouTube Shorts) using free or freemium tools, industry benchmarks, and an efficient workflow.\n\n---\n\n### 1. Top Software Tools (Free & Freemium Options)\n\nWhen looking to automate podcast repurposing, several industry-leading tools stand out:\n\n*   **Opus Clip (Freemium):** Widely considered the gold standard for AI-driven podcast clipping. It analyzes long-form video, identifies \"hook-worthy\" moments, adds dynamic captions, and arranges them into vertical formats. \n    *   *Free Tier:* Typically offers a set amount of free processing minutes per month (e.g., 60 minutes), making it great for creators testing the waters.\n*   **CapCut (Free / Desktop & Mobile",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I\u2019ve put together a comprehensive guide on turning long-form podcasts into viral short-form clips (TikToks, Reels, YouTube Shorts) using free or freemium tools, industry benchmarks, and an efficient workflow.\n\n---\n\n### 1. Top Software Tools (Free & Freemium Options)\n\nWhen looking to automate podcast repurposing, several industry-leading tools stand out:\n\n*   **Opus Clip (Freemium):** Widely considered the gold standard for AI-driven podcast clipping. It analyzes long-form video, identifies \"hook-worthy\" moments, adds dynamic captions, and arranges them into vertical formats. \n    *   *Free Tier:* Typically offers a set amount of free processing minutes per month (e.g., 60 minutes), making it great for creators testing the waters.\n*   **CapCut (Free / Desktop & Mobile",
+              "thoughtSignature": "Eo4BCosBAWkUfRNHRbsHlDpc6JNURfMy++bsKlO43Ka5dulrFUJsfrVA+ScVOI87CRop1z2fdRajeTMqxG640DPfCY3LhrQibcLL/KzMbBxj2WQuiy4lzFNm2Ivb97AufzekiZAw2HXW4w0745h+ykvyIDxAsyMUQg6j2Xsj4t4MzE6JdREd/U+0Hwu9wHVMgQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kD0Da8vvArCxz7sP5dKbsA0"
+  },
+  "latency_ms": 2825,
+  "cost_usd": 0.0002
+}

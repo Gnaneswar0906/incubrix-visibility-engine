@@ -1,0 +1,74 @@
+{
+  "query": "podcast shorts telugu",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.youtube.com/c/thinktelugupodcast",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts telugu",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Think Telugu Podcast",
+        "link": "https://www.youtube.com/c/thinktelugupodcast",
+        "displayedLink": "https://www.youtube.com \u203a c \u203a thinktelugupodcast",
+        "snippet": "Shorts Library Think Telugu Podcast. When Drinking Becomes Culture: Why Can't We Question It? Is Hope Good or Bad? Buy Things We Don't Need",
+        "position": 1
+      },
+      {
+        "title": "Andhrawaali - Telugu Podcasts",
+        "link": "https://podcasts.apple.com/in/podcast/andhrawaali-telugu-podcasts/id1513738232",
+        "displayedLink": "https://podcasts.apple.com \u203a in \u203a ... \u203a id1513738232",
+        "snippet": "My podcast is all about to enrich morals and ethics with the help of telugu stories. Short story Here is the short. Telugu Short Stories Fiction Fiction",
+        "position": 2
+      },
+      {
+        "title": "Best Lines from the Podcast | Telugu Podcast | #shorts",
+        "link": "https://www.youtube.com/shorts/OfKNpW_eeVg",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a OfKNpW_eeVg",
+        "position": 3
+      },
+      {
+        "title": "Telugu Podcast Shorts",
+        "link": "https://m.youtube.com/playlist?list=PLjNyjqhGam3yjWOJ4fb5euhAFBf6ac8SK",
+        "displayedLink": "https://m.youtube.com \u203a playlist",
+        "snippet": "Learn more Telugu Podcast Shorts Home. Play all Chandrababu's Biggest Failure Strategy 887 views",
+        "position": 4
+      },
+      {
+        "title": "No solution for daily wear products\u203c | Telugu Podcast | #shorts",
+        "link": "https://www.youtube.com/shorts/3MksxAyeI1U",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a 3MksxAyeI1U",
+        "position": 5
+      },
+      {
+        "title": "34 Best Telugu Podcasts to Listen to in 2026",
+        "link": "https://podcast.feedspot.com/telugu_podcasts/",
+        "displayedLink": "https://podcast.feedspot.com \u203a telugu_podcasts",
+        "snippet": "Best Telugu Podcasts to Listen to \u22c5 1. Telugu Bytes \u22c5 2. Point Entante [Telugu] \u22c5 3. KiranPrabha Telugu Talk Shows \u22c5 4. The Tollywood Project [Telugu] ...",
+        "position": 6
+      },
+      {
+        "title": "ThyGap Podcast (Telugu)",
+        "link": "https://open.spotify.com/show/22cPpqkXAPYTSdKwIfifms",
+        "displayedLink": "https://open.spotify.com \u203a show \u203a 22cPpqkXAPYTSdKwIfifms",
+        "snippet": "Listen to ThyGap Podcast (Telugu) on Spotify. A comedy podcast in Telugu from the Hyderabad based ThyGap, who also have a podcast in English, however, ...",
+        "position": 7
+      },
+      {
+        "title": "Telugu Podcast | #shorts #telugushorts",
+        "link": "https://m.youtube.com/shorts/KPexIKz824w",
+        "displayedLink": "https://m.youtube.com \u203a shorts \u203a KPexIKz824w",
+        "position": 8
+      }
+    ],
+    "credits": 1
+  }
+}

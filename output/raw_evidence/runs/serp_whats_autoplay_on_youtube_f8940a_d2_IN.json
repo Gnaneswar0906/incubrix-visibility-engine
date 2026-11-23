@@ -1,0 +1,124 @@
+{
+  "query": "what's autoplay on youtube",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6327615?hl=en",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what's autoplay on youtube",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Autoplay videos - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6327615?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6327615",
+        "snippet": "The Autoplay feature on YouTube makes it easier to decide what to watch next. When Autoplay is on, another related video will automatically play after a video ...",
+        "position": 1
+      },
+      {
+        "title": "The Autoplay feature on YouTube makes it easier to decide what ...",
+        "link": "https://www.youtube.com/shorts/XvPXzCxgmlE",
+        "displayedLink": "https://www.youtube.com \u203a shorts \u203a XvPXzCxgmlE",
+        "position": 2
+      },
+      {
+        "title": "How to Turn On Autoplay on YouTube App [Guide]",
+        "link": "https://www.youtube.com/watch?v=UqauNAufWPg",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "When autoplay is activated, YouTube automatically plays a related video once the current one finishes, keeping your content flowing\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "what is this thing for/what does it do? : r/youtube",
+        "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a what_is_this_thing_forwhat_...",
+        "snippet": "That's autoplay. Basically, it controls whether or not another related video plays automatically after the one you're watching ends. It's nice ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lkljd/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lhfe6/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lcznj/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lqvbs/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lvcmr/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9lw4gw/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9m6yz0/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9ma18k/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1rpixpb/what_is_this_thing_forwhat_does_it_do/o9mc393/"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "title": "How to Autoplay Videos on YouTube",
+        "link": "https://www.youtube.com/watch?v=Wkr2n5Fs_NA",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "The Autoplay feature on YouTube makes it easier to decide what to watch next. After you watch a YouTube video, we'll automatically play\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Autoplay Definition - YouTube Explained",
+        "link": "https://www.tella.com/definition/autoplay",
+        "displayedLink": "https://www.tella.com \u203a definition \u203a autoplay",
+        "snippet": "Autoplay in YouTube is a feature that automatically plays a suggested video immediately after the completion of the video you are currently watching.",
+        "position": 6
+      },
+      {
+        "title": "YouTube Autoplay Feature - How YouTube Works",
+        "link": "https://archives.greenairnews.com/www.youtube.com/howyoutubeworks/user-settings/autoplay/index.html",
+        "displayedLink": "https://archives.greenairnews.com \u203a www.youtube.com \u203a ... \u203a index.html",
+        "snippet": "The Autoplay feature on YouTube keeps videos playing without you having to select a new video when the video you're watching finishes.",
+        "position": 7
+      },
+      {
+        "title": "What Is YouTube Autoplay",
+        "link": "https://www.facebook.com/fb-answers/what-is-youtube-autoplay/",
+        "displayedLink": "https://www.facebook.com \u203a fb-answers \u203a what-is-youtube-autoplay",
+        "snippet": "YouTube autoplay is the feature that automatically plays the next video after the one you're watching, often based on similar content or your watch history.",
+        "position": 8
+      },
+      {
+        "title": "How to enable and disable Autoplay on YouTube",
+        "link": "https://www.indiatoday.in/information/story/how-to-enable-and-disable-autoplay-on-youtube-2377837-2023-05-11",
+        "displayedLink": "https://www.indiatoday.in \u203a information \u203a story \u203a how-to-enable-and-disable-a...",
+        "snippet": "The Autoplay feature automatically plays another related video after a video ends. Toward the end of a video, the player will display what's ...",
+        "date": "11 May 2023",
+        "rating": 4.1,
+        "ratingCount": 17500,
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

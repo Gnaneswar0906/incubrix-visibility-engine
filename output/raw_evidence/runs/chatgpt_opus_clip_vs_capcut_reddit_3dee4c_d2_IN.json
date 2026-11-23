@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a fellow creator in India, you\u2019re asking about one of the most debated topics in the short-form video ecosystem right now. Since you are in **IN (India)**, we also need to consider factors like **internet speed, device compatibility, and cost sensitivity**, which are crucial when choosing ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1340,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_reddit_3dee4c_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: opus clip vs capcut reddit Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if availa",
+      "cost_usd": 0.0002,
+      "latency_ms": 2580,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_capcut_reddit_3dee4c_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_capcut_reddit_3dee4c_d2_IN.json"
+}

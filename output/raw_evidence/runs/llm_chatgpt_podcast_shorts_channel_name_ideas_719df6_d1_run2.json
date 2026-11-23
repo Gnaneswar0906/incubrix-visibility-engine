@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f  Podcast\u2011Shorts Channel Name Ideas  \n*(Tailored for a UK\u2011based creator \u2013 short, memorable, and SEO\u2011friendly)*  \n\n| # | Name",
+  "raw_payload": {
+    "id": "chatcmpl-3ceb88d4-8d67-4437-81a2-ce5bae0281da",
+    "object": "chat.completion",
+    "created": 1795375472,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f  Podcast\u2011Shorts Channel Name Ideas  \n*(Tailored for a UK\u2011based creator \u2013 short, memorable, and SEO\u2011friendly)*  \n\n| # | Name",
+          "reasoning": "We need to answer as an AI assistant, for a content creator in GB, providing podcast shorts channel name ideas, and recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide suggestions, tools, workflow, citations. Use markdown. Provide citations with URLs. Ensure no copyrighted text beyond short quotes. Provide channel name ideas. Also note UK considerations? Provide relevant info."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317441513,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006867354,
+      "completion_tokens": 150,
+      "completion_time": 0.313003736,
+      "total_tokens": 284,
+      "total_time": 0.31987109,
+      "completion_tokens_details": {
+        "reasoning_tokens": 105
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82bf7hfey299m3w6hwcj6ek",
+      "seed": 1573419440
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3620,
+  "cost_usd": 0.0002
+}

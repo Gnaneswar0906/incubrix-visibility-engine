@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'podcast to shorts ai free' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 392
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that repurposing long-form podcast episodes into short-form videos (TikToks, Instagram Reels, and YouTube Shorts) is currently one of the most effective organic growth strategies. \n\nBelow is a breakdown of the best **free** (or f",
+      "cost_usd": 0.0002,
+      "latency_ms": 2141,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_ai_free_9ed498_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_shorts_ai_free_9ed498_d2_US.json"
+}

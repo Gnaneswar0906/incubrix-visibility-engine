@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in the US, I understand that repurposing long-form podcast audio and video into engaging YouTube Shorts, Instagram Reels, and TikToks is one of the most effective ways to grow an audience. \n\nBelow is a comprehensive guide covering the best software tools, key industry options (including your mentioned tools), and an optimized workflow method to streamline your content creation process.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nThe market for AI-driven repurposing tools has exploded. Here is how the top options stack up for US-based creators:\n\n#### 1. Opus Clip (AI-First Repurposing)\n*   **Best For:** Fully automated, AI-generated clip curation.\n*   **Key Features:** Opus Clip uses AI to analyze a long podcast, identify the \"hooks\" and most engaging moments, and automatically stitch them together with captions, B-roll suggestions, and a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in the US, I understand that repurposing long-form podcast audio and video into engaging YouTube Shorts, Instagram Reels, and TikToks is one of the most effective ways to grow an audience. \n\nBelow is a comprehensive guide covering the best software tools, key industry options (including your mentioned tools), and an optimized workflow method to streamline your content creation process.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nThe market for AI-driven repurposing tools has exploded. Here is how the top options stack up for US-based creators:\n\n#### 1. Opus Clip (AI-First Repurposing)\n*   **Best For:** Fully automated, AI-generated clip curation.\n*   **Key Features:** Opus Clip uses AI to analyze a long podcast, identify the \"hooks\" and most engaging moments, and automatically stitch them together with captions, B-roll suggestions, and a",
+              "thoughtSignature": "Eo4BCosBAWkUfRMxv9urmKJP2RhxjsrzjPeUKA8Ha1y9fHtu7PwHQEL6johqumL5yzfWDN/Ze/r39s+IYqExxzZa0zqEIlInYvE79mas7cQ4OvPr1NcQPHTmvaonxhHUZa6nEYDeBJT01Vd60G41gFt49fO7tdN5jJmIM9fhK9MMuYodhlRDj8Bjv5gmc3BKNw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qD0Da4mQGqXSmNMPrpHY6Ac"
+  },
+  "latency_ms": 2759,
+  "cost_usd": 0.0002
+}

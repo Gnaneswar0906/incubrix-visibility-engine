@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts maker ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Must cite authoritative web sources if available. Also note the user is a content creator located in GB (Great Britain). So maybe mention UK-specific considerations, licensing, GDPR compliance, pricing in GBP, etc. Provide recommendations for making podcast shorts (short video clips from podcasts). Include AI tools for transcription, editing, clipping, adding subtitles, etc. Provide workflow steps: transcript generation, highlight detection, clip extraction, visual enhancement, captioning, branding, export. Mention tools: Descript (transcript-based editing, Overdub, video), Op",
+  "raw_payload": {
+    "id": "chatcmpl-bbb0c755-53ec-4901-89d0-bff254a18d82",
+    "object": "chat.completion",
+    "created": 1795377289,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Must cite authoritative web sources if available. Also note the user is a content creator located in GB (Great Britain). So maybe mention UK-specific considerations, licensing, GDPR compliance, pricing in GBP, etc. Provide recommendations for making podcast shorts (short video clips from podcasts). Include AI tools for transcription, editing, clipping, adding subtitles, etc. Provide workflow steps: transcript generation, highlight detection, clip extraction, visual enhancement, captioning, branding, export. Mention tools: Descript (transcript-based editing, Overdub, video), Op"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053811169,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005533581,
+      "completion_tokens": 150,
+      "completion_time": 0.312264624,
+      "total_tokens": 283,
+      "total_time": 0.317798205,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_7a4ab09ae4",
+    "x_groq": {
+      "id": "req_01m82d6ny5ezjb8nk9600w0bbf",
+      "seed": 936811318
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2605,
+  "cost_usd": 0.0002
+}

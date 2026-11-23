@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "start a faceless youtube channel with ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for starting a faceless YouTube channel using AI, targeting a content creator in GB. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no disallowed content. This is allowed. Provide citations. Use markdown. Provide steps, tools categories: script generation (ChatGPT, Jasper), voice synthesis (ElevenLabs, Murf AI, Uberduck), video creation (Pictory, Synthesia, Opus Clip, CapCut), editing (Descript, DaVinci Resolve), thumbnail creation (Canva, Adobe Express), SEO (TubeBuddy",
+  "raw_payload": {
+    "id": "chatcmpl-d6b7f9f7-7c4a-4f7c-afb9-09f99f3fb27f",
+    "object": "chat.completion",
+    "created": 1795375831,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for starting a faceless YouTube channel using AI, targeting a content creator in GB. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: no disallowed content. This is allowed. Provide citations. Use markdown. Provide steps, tools categories: script generation (ChatGPT, Jasper), voice synthesis (ElevenLabs, Murf AI, Uberduck), video creation (Pictory, Synthesia, Opus Clip, CapCut), editing (Descript, DaVinci Resolve), thumbnail creation (Canva, Adobe Express), SEO (TubeBuddy"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15810042,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006616239,
+      "completion_tokens": 150,
+      "completion_time": 0.310302235,
+      "total_tokens": 287,
+      "total_time": 0.316918474,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5a93aea882",
+    "x_groq": {
+      "id": "req_01m82bt5qke10r81ykens4c61v",
+      "seed": 478046702
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4287,
+  "cost_usd": 0.0002
+}

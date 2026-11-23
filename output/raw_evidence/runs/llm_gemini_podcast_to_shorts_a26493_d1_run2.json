@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As"
+            },
+            {
+              "text": " a content creator in the U.S. looking to convert long-form podcasts into viral short-form videos (TikToks, Instagram Reels, YouTube Shorts), you have access to some of the most advanced AI-driven tools on the market. \n\nTo help you build an efficient pipeline, here is a comprehensive guide covering the best software tools, recommended workflows, and a breakdown of industry leaders including **Opus Clip, CapCut, Descript,** and **IncuBrix**.\n\n---\n\n### 1. Key Industry Software Options\n\n#### **Opus Clip** (The Automated AI Pioneer)\n* **What it is:** A generative AI video repurposing tool that turns long videos into shorts in one click.\n* **Key Features:** It uses AI to analyze your podcast, identify the most engaging hooks, stitch together contextually relevant clips, add auto-captions, and score the clips based on viral potential.\n* **Best For:** Creators who want a completely",
+              "thoughtSignature": "Eo4BCosBAWkUfRNJDTiSKoHdxLrvomf1UQ6lLIgOhiPObFXj24mloBwyDFPBgad1Jpz9J8fTjGeDpnOH7WJATj1QQpBJBSEwlrek6Jlupl0UWO8mfIB/KSH28zwVdK0wkQTBCcNF6iXcxdGlR2jI4AkxrLlhsKVHLjM08VcbIw1ZOZCRntGppIN7ea0GnbwjaA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 201,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jT0Da-P3NIrsz7sP28viwA4"
+  },
+  "latency_ms": 2359,
+  "cost_usd": 0.0002
+}

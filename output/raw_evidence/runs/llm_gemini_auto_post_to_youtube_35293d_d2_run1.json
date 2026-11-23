@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the United States looking to automate the YouTube publishing workflow\u2014from editing",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the United States looking to automate the YouTube publishing workflow\u2014from editing"
+            },
+            {
+              "text": " and clipping to scheduling and auto-posting\u2014leveraging the right stack of tools is essential. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry options to streamline your YouTube automation.\n\n---\n\n### 1. Key Industry Options & Tool Recommendations\n\nDepending on what stage of the creation process you want to automate (editing, repurposing, or scheduling), several industry-leading tools stand out:\n\n*   **CapCut (Desktop & Mobile):** Excellent for auto-captioning, removing filler words, and quick template-based editing. While CapCut is primarily an editor, its integration with TikTok and YouTube makes exporting seamless, though direct, fully automated hands-off scheduling is usually handled by companion tools.\n*   **Opus Clip:** A generative AI video repurposing tool that turns long-form videos into viral short-form clips (YouTube Shorts, TikTok, Reels) with a single click. It automatically detects hooks, resizes the video",
+              "thoughtSignature": "Eo4BCosBAWkUfRNfnAOJM1m2XfdkFF/L+JaQEmrEbIjsyX60K0DNdoc18y1RUCS8OPZkW9dVhHC7b6YvXFLIs1rydEp5aoeT3u4jlBZdWrkw6W469DIk+LZoQuqrnOnS+bw6otVmQ+Tk3yUYJ8HXj+pnneRNBxMJKAASuadgwyWcLjyYMatrpnOpXpfm4lIb0Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 219,
+      "totalTokenCount": 281,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "DkYDa5jJNJ-O3LUP_8OuwQY"
+  },
+  "latency_ms": 9068,
+  "cost_usd": 0.0002
+}

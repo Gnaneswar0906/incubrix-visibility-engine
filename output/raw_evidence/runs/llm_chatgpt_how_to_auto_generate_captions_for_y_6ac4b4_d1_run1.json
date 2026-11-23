@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you're in a great position to leverage AI-driven automation to scale your production. Auto-generating captions is no longer just a \"nice-to-have\" for accessibility; it\u2019s a critical component for retention, SEO, and reaching non-native English speaking audiences effectively.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for auto-generating YouTube captions, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s top-tier:** Descript doesn\u2019t just generate captions; it lets you **edit your video by editing the text transcript**. If you delete",
+  "raw_payload": {
+    "id": "chatcmpl-6e0b27a8-a3e4-493b-a219-629e9ff1cb09",
+    "object": "chat.completion",
+    "created": 1795375248,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you're in a great position to leverage AI-driven automation to scale your production. Auto-generating captions is no longer just a \"nice-to-have\" for accessibility; it\u2019s a critical component for retention, SEO, and reaching non-native English speaking audiences effectively.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for auto-generating YouTube captions, tailored for efficiency and quality.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s top-tier:** Descript doesn\u2019t just generate captions; it lets you **edit your video by editing the text transcript**. If you delete"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.171145229,
+      "prompt_tokens": 79,
+      "prompt_time": 0.00618773,
+      "completion_tokens": 150,
+      "completion_time": 0.294788654,
+      "total_tokens": 229,
+      "total_time": 0.300976384
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82b8d21ecw88n4mq2xw8ny2",
+      "seed": 1759818947
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1591,
+  "cost_usd": 0.0002
+}

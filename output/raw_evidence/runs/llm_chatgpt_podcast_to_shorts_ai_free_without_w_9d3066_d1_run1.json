@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai free without watermark",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast audio into short-form video clips (Reels, TikToks, Shorts) is currently the most effective growth hack for audio creators. While \"100% free with no watermark and unlimited exports\" is rare in the SaaS world, several tools offer robust free tiers or specific no-watermark features if you follow certain workflows.\n\nHere\u2019s a breakdown of the best tools, industry options, and a recommended workflow for a US-based creator, focusing on **cost-efficiency** and **watermark avoidance**.\n\n### 1. Top AI-Powered Tools for Podcast-to-Shorts\n\n#### **Opus Clip** (Industry Leader in AI Curation)\n- **Why it\u2019s top-tier**: Uses AI",
+  "raw_payload": {
+    "id": "chatcmpl-412ee10e-d860-48f7-bd81-19530d472a57",
+    "object": "chat.completion",
+    "created": 1795374473,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast audio into short-form video clips (Reels, TikToks, Shorts) is currently the most effective growth hack for audio creators. While \"100% free with no watermark and unlimited exports\" is rare in the SaaS world, several tools offer robust free tiers or specific no-watermark features if you follow certain workflows.\n\nHere\u2019s a breakdown of the best tools, industry options, and a recommended workflow for a US-based creator, focusing on **cost-efficiency** and **watermark avoidance**.\n\n### 1. Top AI-Powered Tools for Podcast-to-Shorts\n\n#### **Opus Clip** (Industry Leader in AI Curation)\n- **Why it\u2019s top-tier**: Uses AI"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048533768,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005713001,
+      "completion_tokens": 150,
+      "completion_time": 0.285192813,
+      "total_tokens": 229,
+      "total_time": 0.290905814
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82agqsee0pvwkr1cspfxfm4",
+      "seed": 1397450076
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1083,
+  "cost_usd": 0.0002
+}

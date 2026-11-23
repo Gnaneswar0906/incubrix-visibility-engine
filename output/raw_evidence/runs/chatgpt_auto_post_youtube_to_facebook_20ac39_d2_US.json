@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Quick\u2011Start Answer (TL;DR)**  \n| Goal | Recommended Tool(s) | How It Works (One\u2011Line) |\n|------|----------------------|--------------------------|\n| **Fully automated \u201cYouTube\u202f\u2192\u202fFacebook Page\u201d posting** | **Zapier**\u202f+\u202fYouTube trigger \u2192 Facebook Page action",
+      "cost_usd": 0.0002,
+      "latency_ms": 2275,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_to_facebook_20ac39_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto posting YouTube to Facebook, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be US-based. Provide authoritative web sources. Should be helpful. Need to cite sources with li",
+      "cost_usd": 0.0002,
+      "latency_ms": 2357,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_to_facebook_20ac39_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_to_facebook_20ac39_d2_US.json"
+}

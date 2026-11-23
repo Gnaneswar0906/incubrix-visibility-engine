@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "is video editor free",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India, the short answer to **\"Is a video editor free?\"** is **yes and no**. \n\nWhile there are many genuinely free video editors available, the industry standard for professional work usually operates on a freemium model (free basic features with paid upgrades) or a subscription model. Furthermore, the definition of a \"video editor\" has expanded to include AI-powered clipping tools, script-to-video tools, and collaborative cloud platforms.\n\nHere is a comprehensive breakdown of the best software tools, industry options (including your specified mentions), and a recommended workflow for creators in India.\n\n---\n\n### 1. Key Industry Options & Pricing Models\n\n#### **CapCut** *(Great for Short-Form / Mobile / Quick Edits)*\n*   **Is it free?** Yes, it offers a very robust free tier on both mobile and desktop, though advanced AI features require a \"CapCut Pro\" subscription.\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India, the short answer to **\"Is a video editor free?\"** is **yes and no**. \n\nWhile there are many genuinely free video editors available, the industry standard for professional work usually operates on a freemium model (free basic features with paid upgrades) or a subscription model. Furthermore, the definition of a \"video editor\" has expanded to include AI-powered clipping tools, script-to-video tools, and collaborative cloud platforms.\n\nHere is a comprehensive breakdown of the best software tools, industry options (including your specified mentions), and a recommended workflow for creators in India.\n\n---\n\n### 1. Key Industry Options & Pricing Models\n\n#### **CapCut** *(Great for Short-Form / Mobile / Quick Edits)*\n*   **Is it free?** Yes, it offers a very robust free tier on both mobile and desktop, though advanced AI features require a \"CapCut Pro\" subscription.\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRNMHsgaHjLb1k6h+vFaeMfqykleHsMxAbWmOCTnMAAfxtYCfiZ96Kq4QDS6y2TV8sbvT3rKhiQlJ1fNGTmfEuphoMStVKXvfpzqt6ihH2lnPu/wa1/rxSn45+lGKXm6MndXKe58ZaFUKBVLOHAbDqfp9dQSiyVarO90GzuC0/Mr/m46HoAGpw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "N0ADa-mvLrr3694Pi_DC8Q8"
+  },
+  "latency_ms": 2220,
+  "cost_usd": 0.0002
+}

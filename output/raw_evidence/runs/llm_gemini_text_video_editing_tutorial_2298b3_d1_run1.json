@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India (IN) looking to dive into text-based video editing\u2014where you edit videos simply by editing transcripts",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India (IN) looking to dive into text-based video editing\u2014where you edit videos simply by editing transcripts"
+            },
+            {
+              "text": "\u2014you are in a fantastic position to streamline your workflow. Text-based editing has revolutionized content creation, especially for long-form YouTubers, podcasters, and short-form creators targeting Instagram Reels and YouTube Shorts.\n\nHere is a comprehensive guide tailored to your query, featuring the best software tools, recommended workflows, and key industry options.\n\n---\n\n### 1. Key Industry Software Tools for Text-Based Video Editing\n\nWhen looking at tools that utilize text-to-video editing, several industry leaders stand out, each serving a slightly different niche:\n\n*   **Descript:** Widely considered the gold standard for text-based video editing. It transcribes your audio automatically, allowing you to cut, copy, paste, and delete text just like a Word document to edit the corresponding video. It also features AI voice cloning (Overdub) and studio-quality sound enhancement (*Studio Sound*).\n*   **CapCut:** Extremely popular among Indian creators for short-form",
+              "thoughtSignature": "Eo4BCosBAWkUfRMbJJYPYbpyemFq3z4datHRYMrptEzmsCs2AQNY/FooziKZ4GFLnET1p/Ad62wg5CwRHKyAngCn/Gj7qaBAidJOolVXrE+/Ma+QV3wsndJ1Nfz5/gJFciCMXMyA9ogUDZgkpuv7nQWC9+vukqKaQD6FyQzcHtvXyhooskjhgHRbriLg6C21GQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 229,
+      "totalTokenCount": 291,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "LEADa4GJIO6W0r4P4sDMoQc"
+  },
+  "latency_ms": 3075,
+  "cost_usd": 0.0002
+}

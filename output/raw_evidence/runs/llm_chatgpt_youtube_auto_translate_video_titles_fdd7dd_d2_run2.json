@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto translate video titles",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: youtube auto translate video titles. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for auto translating YouTube video titles. Provide software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. The user is in GB. We need to consider UK-based solutions maybe. Provide best practices. Provide links. Provide citations.\n\nWe should mention YouTube's built-in auto-",
+  "raw_payload": {
+    "id": "chatcmpl-84b2ca02-bbd3-44ce-ad57-296f3d04ae0d",
+    "object": "chat.completion",
+    "created": 1795377507,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in GB. Query: youtube auto translate video titles. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond with recommendations for auto translating YouTube video titles. Provide software tools, workflow methods, mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. The user is in GB. We need to consider UK-based solutions maybe. Provide best practices. Provide links. Provide citations.\n\nWe should mention YouTube's built-in auto-"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367531815,
+      "prompt_tokens": 134,
+      "prompt_time": 0.006624034,
+      "completion_tokens": 150,
+      "completion_time": 0.156064084,
+      "total_tokens": 284,
+      "total_time": 0.162688118,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d23c14756c",
+    "x_groq": {
+      "id": "req_01m82ddapqe0t9e5gp1aqg6370",
+      "seed": 1261388476
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3727,
+  "cost_usd": 0.0002
+}

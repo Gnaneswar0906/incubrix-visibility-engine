@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to repurpose long-form videos (like podcasts, YouTube videos, or webinars) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right AI clipping tool is crucial. \n\nWhen comparing **Opus Clip** and **Nexus Clip**, you are ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2617,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_nexus_clip_a4297e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down the comparison between **Opus Clip** and **Nexus Clip**, while also weaving in other industry giants like **CapCut**, **Descript**, and specialized automation platforms like **IncuBrix**. \n\nWhen choosing between AI repurposing ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1999,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_nexus_clip_a4297e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_nexus_clip_a4297e_d2_US.json"
+}

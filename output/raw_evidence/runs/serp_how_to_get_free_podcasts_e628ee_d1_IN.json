@@ -1,0 +1,118 @@
+{
+  "query": "how to get free podcasts",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://getpodcast.com/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to get free podcasts",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "GetPodcast | Listen to Podcasts for free",
+        "link": "https://getpodcast.com/",
+        "displayedLink": "https://getpodcast.com",
+        "snippet": "Get the whole world of podcasts with the free GetPodcast app. Subscribe to your favorite podcasts, listen to episodes offline and get thrilling recommendations.",
+        "position": 1
+      },
+      {
+        "title": "Best place I can listen to free podcasts?",
+        "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a best_place_i_can_listen_to_...",
+        "snippet": "Where is the best place I can listen to free podcasts? I'll be taking a roadtrip soon and want to listen to something other than CD's and radio. I have ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdqhk97/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdr12jv/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdsr4lu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdr8uk2/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdrc3zu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcast/comments/psmbnk/best_place_i_can_listen_to_free_podcasts/hdu0mnq/"
+          },
+          {
+            "title": "What platform do you use to listen to podcasts and why? - Redditr/podcasts\u00b7120+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/podcasts/comments/1fppv6d/what_platform_do_you_use_to_listen_to_podcasts/"
+          },
+          {
+            "title": "Where to download podcasts for offline listening? (Preferably for free ...r/podcasts\u00b720+ comments\u00b78y",
+            "link": "https://www.reddit.com/r/podcasts/comments/8ok2qp/where_to_download_podcasts_for_offline_listening/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Listen to free podcasts",
+        "link": "https://www.deezer.com/en/channels/podcasts",
+        "displayedLink": "https://www.deezer.com \u203a en \u203a channels \u203a podcasts",
+        "snippet": "Deezer is not only music! Discover more than 160000 podcasts including original creations & more.",
+        "position": 3
+      },
+      {
+        "title": "How to Listen to Free Podcasts - Thrive Blogging Community",
+        "link": "https://thrivetogether.blog/how-to-listen-to-free-podcasts/",
+        "displayedLink": "https://thrivetogether.blog \u203a how-to-listen-to-free-podcasts",
+        "snippet": "How to Listen to Free Podcasts \u00b7 1. Spotify \u00b7 2. iTunes \u00b7 3. Stitcher.",
+        "position": 4
+      },
+      {
+        "title": "Apple Podcasts - Apple (IN)",
+        "link": "https://www.apple.com/in/apple-podcasts/",
+        "displayedLink": "https://www.apple.com \u203a in \u203a apple-podcasts",
+        "snippet": "Apple Podcasts offers millions of shows completely free. And some publishers offer premium shows, episodes and channels that can be purchased through a monthly ...",
+        "position": 5
+      },
+      {
+        "title": "RSS.com: Free Podcast Hosting \u2013 Unlimited Episodes & Audio",
+        "link": "https://rss.com/",
+        "displayedLink": "https://rss.com",
+        "snippet": "Start your podcast free with RSS.com! Unlimited episodes, RSS feed, analytics, and tools to grow and monetize your show.",
+        "position": 6
+      },
+      {
+        "title": "600 Best Free Podcasts Added",
+        "link": "https://www.learnoutloud.com/Content/Topic-Pages/600-Best-Free-Podcasts-Added/172",
+        "displayedLink": "https://www.learnoutloud.com \u203a Content \u203a ... \u203a 172",
+        "snippet": "We have just added 600 new podcasts to the LearnOutLoud.com Podcast Directory! We searched all over the Web to find the best podcasts you can learn from in ...",
+        "position": 7
+      },
+      {
+        "title": "Pocket Casts: Listen to podcasts with the best free podcasting app - built ...",
+        "link": "https://pocketcasts.com/",
+        "displayedLink": "https://pocketcasts.com",
+        "snippet": "The world's most powerful podcast platform, now available for free. Easy to use. Our podcast player provides next-level listening, search and discovery tools.",
+        "position": 8
+      },
+      {
+        "title": "Streaming, Downloading, and Listening to Podcasts - Digital Media ...",
+        "link": "https://libwww.freelibrary.org/explore/guide/streaming-downloading-and-listening-to-podcasts",
+        "displayedLink": "https://libwww.freelibrary.org \u203a explore \u203a guide \u203a streaming-downloading-and-l...",
+        "snippet": "Just click on the catalog link and once you are on the catalog records page, you can listen to or download that podcast directly from our catalog. Additionally, ...",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

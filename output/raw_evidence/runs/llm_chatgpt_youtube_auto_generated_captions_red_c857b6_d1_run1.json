@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto generated captions reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN) about youtube auto generated captions reddit. They likely want info on auto-generated captions, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide recommendations, workflow, mention Reddit threads perhaps. Must be helpful. Provide citations with URLs. Provide steps. Also note that auto-generated captions on YouTube are limited; can improve with tools. Provide options for editing, generating captions, translation, etc. Provide workflow: download auto captions, edit in Descript, use CapCut for video editing, use Opus Clip for short clips, use Inc",
+  "raw_payload": {
+    "id": "chatcmpl-88e393df-8ab5-461a-ac5c-e77f82154f10",
+    "object": "chat.completion",
+    "created": 1795375221,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for a content creator in India (IN) about youtube auto generated captions reddit. They likely want info on auto-generated captions, tools, workflow, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide recommendations, workflow, mention Reddit threads perhaps. Must be helpful. Provide citations with URLs. Provide steps. Also note that auto-generated captions on YouTube are limited; can improve with tools. Provide options for editing, generating captions, translation, etc. Provide workflow: download auto captions, edit in Descript, use CapCut for video editing, use Opus Clip for short clips, use Inc"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157350686,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005691233,
+      "completion_tokens": 150,
+      "completion_time": 0.308037515,
+      "total_tokens": 284,
+      "total_time": 0.313728748,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82b7jm0exvszwxdd4d9hn70",
+      "seed": 30830277
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4135,
+  "cost_usd": 0.0002
+}

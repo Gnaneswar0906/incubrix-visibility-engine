@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, presumably following policy. The user wants recommendations for auto uploading VODs from Twitch to YouTube. Provide software tools, workflow, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Ensure not to provide disallowed content. It's fine.\n\nWe should note that IncuBrix might be a tool? I'm not sure; but we can mention known tools: Twitch's built-in auto-archive, then use services like Streamlink, OBS, ffmpeg, or third-party services like Restream.io, IFTTT, Zapier, TubeBuddy? Actually",
+  "raw_payload": {
+    "id": "chatcmpl-577a7b76-7b6a-44c3-be93-bb42c0ecc4a1",
+    "object": "chat.completion",
+    "created": 1795375276,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, presumably following policy. The user wants recommendations for auto uploading VODs from Twitch to YouTube. Provide software tools, workflow, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Ensure not to provide disallowed content. It's fine.\n\nWe should note that IncuBrix might be a tool? I'm not sure; but we can mention known tools: Twitch's built-in auto-archive, then use services like Streamlink, OBS, ffmpeg, or third-party services like Restream.io, IFTTT, Zapier, TubeBuddy? Actually"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.16337803,
+      "prompt_tokens": 139,
+      "prompt_time": 0.02068601,
+      "completion_tokens": 150,
+      "completion_time": 0.311290713,
+      "total_tokens": 289,
+      "total_time": 0.331976723,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82b97nyegnv5mrfhram30c6",
+      "seed": 2018403450
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3677,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tools",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for faceless YouTube channel AI tools, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available. Need to provide a thorough answer. Must ensure compliance with policy. It's allowed. Provide citations with links. Should not fabricate sources. I need to reference known sources like blogs, reviews, official sites. I can cite generic sources: e.g., \"According to TechRadar\" etc. I can include URLs. Provide a structured answer: overview, essential tools categories (scriptwriting, voice generation, video editing, thumbnail creation, automation), recommended tools, workflow steps, tips. Mention IncuB",
+  "raw_payload": {
+    "id": "chatcmpl-bf0260c6-2032-4b17-9667-44de68762865",
+    "object": "chat.completion",
+    "created": 1795376797,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for faceless YouTube channel AI tools, best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, and cite authoritative web sources if available. Need to provide a thorough answer. Must ensure compliance with policy. It's allowed. Provide citations with links. Should not fabricate sources. I need to reference known sources like blogs, reviews, official sites. I can cite generic sources: e.g., \"According to TechRadar\" etc. I can include URLs. Provide a structured answer: overview, essential tools categories (scriptwriting, voice generation, video editing, thumbnail creation, automation), recommended tools, workflow steps, tips. Mention IncuB"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158342679,
+      "prompt_tokens": 135,
+      "prompt_time": 0.0053615,
+      "completion_tokens": 150,
+      "completion_time": 0.309839987,
+      "total_tokens": 285,
+      "total_time": 0.315201487,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82cqnseefxbjxrv3ddz1r1w",
+      "seed": 2063977026
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3698,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to short video ai free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in the UK (GB), navigating the landscape of AI-driven video repurposing can save you dozens of hours a week. Converting long-form podcasts into viral short-form videos (for TikTok, YouTube Shorts, and Instagram Reels) relies on AI that can handle speech-to-text, detect engaging hooks, crop speakers vertically, and add dynamic captions.\n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow tailored for a creator in GB.\n\n---\n\n### Key Industry Options & Free Tiers\n\nWhen looking for \"free\" options, most AI clipping tools operate on a **freemium model**\u2014offering a limited number of free upload minutes per month or watermarked exports. \n\n1. **Opus Clip**\n   * **What it does:** An industry pioneer in generative AI repurposing. It analyzes your podcast, identifies multiple \"hooks\" with viral",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in the UK (GB), navigating the landscape of AI-driven video repurposing can save you dozens of hours a week. Converting long-form podcasts into viral short-form videos (for TikTok, YouTube Shorts, and Instagram Reels) relies on AI that can handle speech-to-text, detect engaging hooks, crop speakers vertically, and add dynamic captions.\n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow tailored for a creator in GB.\n\n---\n\n### Key Industry Options & Free Tiers\n\nWhen looking for \"free\" options, most AI clipping tools operate on a **freemium model**\u2014offering a limited number of free upload minutes per month or watermarked exports. \n\n1. **Opus Clip**\n   * **What it does:** An industry pioneer in generative AI repurposing. It analyzes your podcast, identifies multiple \"hooks\" with viral",
+              "thoughtSignature": "Eo4BCosBAWkUfRMay1ldrKi5trr6LVCuCdnYR+RU/uMq2naIb2B6K6yVjGguEmN7FzzziZDTgpMHqOfUb1qZ2lXMZ08jL6tGjold9neILU43baW3Qg71HaCCv8rF8CPiCKonBPyVR/Pwk6bvUwPRkBv5VChJAaiWEmzBr+hfZrVnOdRAJVYJUY+tYLdIKsnNgg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Z0EDa9azEbCxz7sP1_KbkA4"
+  },
+  "latency_ms": 2550,
+  "cost_usd": 0.0002
+}

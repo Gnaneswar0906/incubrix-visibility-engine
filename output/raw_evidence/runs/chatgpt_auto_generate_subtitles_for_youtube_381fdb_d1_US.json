@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a US-based content creator looking to automate or streamline the subtitle generation process for YouTube, the landscape has shifted significantly in the last two years. The \"best\" tool often depends on whether you prioritize **speed**, **editing precision**, or **multi-platform repurposing**.\n\nH",
+      "cost_usd": 0.0002,
+      "latency_ms": 1409,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_for_youtube_381fdb_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Subtitles for YouTube \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical, step\u2011by\u2011step workflow you can adopt today, plus a curated list of the **best\u2011in",
+      "cost_usd": 0.0002,
+      "latency_ms": 3310,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_subtitles_for_youtube_381fdb_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_subtitles_for_youtube_381fdb_d1_US.json"
+}

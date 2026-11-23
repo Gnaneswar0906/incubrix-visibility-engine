@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S. looking to streamline your workflow with auto-posting and AI-driven video production, leveraging the right stack of tools can save you hours every week. \n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and an efficient workflow method to automate your YouTube channel.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo build a robust auto-posting and content creation pipeline, tools are generally divided into three categories: **AI Repurposing & Editing**, **Transcription & Refinement**, and **Scheduling & Auto-Posting**.\n\n#### 1. AI Repurposing & Short-Creation (Crucial for YouTube Shorts)\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into viral short clips (for YouTube Shorts, TikTok, and Reels) in one click. It analyzes your content,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S. looking to streamline your workflow with auto-posting and AI-driven video production, leveraging the right stack of tools can save you hours every week. \n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and an efficient workflow method to automate your YouTube channel.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nTo build a robust auto-posting and content creation pipeline, tools are generally divided into three categories: **AI Repurposing & Editing**, **Transcription & Refinement**, and **Scheduling & Auto-Posting**.\n\n#### 1. AI Repurposing & Short-Creation (Crucial for YouTube Shorts)\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into viral short clips (for YouTube Shorts, TikTok, and Reels) in one click. It analyzes your content,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMAngRqYxr/H2Xox/JCrkNVRkphBTtbJpr+qBvNYQnUXm/MxBt9c8LVinXv50BtVOa5imZ8Hx7Z5pDTYwtywu9UvNd3V8AyVW0khL0JTbf0rcq81ilrvF9QBZCyALIF+7GXJWawVpWkJV94mq11zYmuogk0YK/vLU4Www2xIUgI0M8O+uNujw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "OkYDa-eIBsqN694Pp-6HsQ0"
+  },
+  "latency_ms": 2005,
+  "cost_usd": 0.0002
+}

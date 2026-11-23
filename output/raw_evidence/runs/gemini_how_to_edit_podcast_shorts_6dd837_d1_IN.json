@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in India looking to edit podcast shorts (reels, TikToks, and YouTube Shorts), you have access to a booming ecosystem of AI-driven tools and traditional editors. Editing podcast shorts efficiently requires balancing **automation** (to find the best clips and format them) with **c",
+      "cost_usd": 0.0002,
+      "latency_ms": 2688,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_podcast_shorts_6dd837_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator located in **IN (India)**, editing podcast shorts (reels, YouTube shorts, and TikToks) requires a mix of speed, engagement, and localized understanding (such as adding Hinglish captions or regional language",
+      "cost_usd": 0.0002,
+      "latency_ms": 6877,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_podcast_shorts_6dd837_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_podcast_shorts_6dd837_d1_IN.json"
+}

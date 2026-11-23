@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs riverside",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US, comparing Opus Clip vs Riverside, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must not violate policy. Provide citations. Use markdown. Provide comparison, pros/cons, use cases. Provide workflow suggestions. Provide links. Use authoritative sources like official sites, reviews from TechCrunch, CNET, etc.\n\nMake sure to mention that Riverside is a remote video recording platform, while Opus Clip is AI short-form video generator. Provide recommendations based on needs: long-form podcasts vs short clips.\n\nProvide a table comparison. Provide workflow",
+  "raw_payload": {
+    "id": "chatcmpl-dee06153-56f2-4b8d-80c2-27901d64e0ba",
+    "object": "chat.completion",
+    "created": 1795374941,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US, comparing Opus Clip vs Riverside, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must not violate policy. Provide citations. Use markdown. Provide comparison, pros/cons, use cases. Provide workflow suggestions. Provide links. Use authoritative sources like official sites, reviews from TechCrunch, CNET, etc.\n\nMake sure to mention that Riverside is a remote video recording platform, while Opus Clip is AI short-form video generator. Provide recommendations based on needs: long-form podcasts vs short clips.\n\nProvide a table comparison. Provide workflow"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.380948531,
+      "prompt_tokens": 134,
+      "prompt_time": 0.010205468,
+      "completion_tokens": 150,
+      "completion_time": 0.312467335,
+      "total_tokens": 284,
+      "total_time": 0.322672803,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82az0qtenjbz4s61tgg01tj",
+      "seed": 873014359
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4076,
+  "cost_usd": 0.0002
+}

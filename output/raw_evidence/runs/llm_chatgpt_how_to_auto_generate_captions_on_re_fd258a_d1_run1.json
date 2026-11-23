@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto generating captions on reels (likely Instagram Reels). They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to answer as an AI assistant for a content creator located in GB. Should provide recommendations, workflow steps, mention tools, maybe pricing, pros/cons, integration with Instagram, and citations (with URLs). Use UK spelling? Probably British English. Provide citations using footnotes or inline. Provide authoritative sources like official websites, blogs, reviews.\n\nWe need to ensure we comply with policy: no disallowed content. This is fine. Provide citations.\n\nWe must not fabricate sources",
+  "raw_payload": {
+    "id": "chatcmpl-9621d807-012a-476f-8149-3aec07eb9960",
+    "object": "chat.completion",
+    "created": 1795375567,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto generating captions on reels (likely Instagram Reels). They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Need to answer as an AI assistant for a content creator located in GB. Should provide recommendations, workflow steps, mention tools, maybe pricing, pros/cons, integration with Instagram, and citations (with URLs). Use UK spelling? Probably British English. Provide citations using footnotes or inline. Provide authoritative sources like official websites, blogs, reviews.\n\nWe need to ensure we comply with policy: no disallowed content. This is fine. Provide citations.\n\nWe must not fabricate sources"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367995553,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006176256,
+      "completion_tokens": 150,
+      "completion_time": 0.307625756,
+      "total_tokens": 286,
+      "total_time": 0.313802012,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82bj3fdemgt9f5xnhwvgh29",
+      "seed": 1928469011
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2758,
+  "cost_usd": 0.0002
+}

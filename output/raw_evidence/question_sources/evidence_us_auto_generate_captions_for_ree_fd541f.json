@@ -1,0 +1,20 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=auto+generate+captions+for+reels",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "auto generate captions for reels",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:48:50.412157Z",
+  "extracted_count": 7,
+  "suggestions": [
+    "auto generated captions for reels",
+    "auto generate captions for instagram reels",
+    "free auto caption generator for reels",
+    "caption for car reels",
+    "how to auto generate captions",
+    "how to auto generate captions on instagram",
+    "how to get auto generated captions on instagram"
+  ],
+  "raw_response": "[\"auto generate captions for reels\",[\"auto generated captions for reels\",\"auto generate captions for instagram reels\",\"free auto caption generator for reels\",\"caption for car reels\",\"how to auto generate captions\",\"how to auto generate captions on instagram\",\"how to get auto generated captions on instagram\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

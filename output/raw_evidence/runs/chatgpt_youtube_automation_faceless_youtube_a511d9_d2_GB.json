@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in the UK, you are well-positioned to tap into the \"faceless\" or \"AI-automated\" YouTube niche. The key to success here is not just generating content, but maintaining high retention and authenticity to satisfy YouTube\u2019s evolving guidelines on synthetic media and spam.\n\nHe",
+      "cost_usd": 0.0002,
+      "latency_ms": 1672,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_a511d9_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer a query: \"You are an AI assistant answering a query from a content creator located in GB. Query: youtube automation faceless youtube channel using ai. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descrip",
+      "cost_usd": 0.0002,
+      "latency_ms": 5616,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_a511d9_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_automation_faceless_youtube_a511d9_d2_GB.json"
+}

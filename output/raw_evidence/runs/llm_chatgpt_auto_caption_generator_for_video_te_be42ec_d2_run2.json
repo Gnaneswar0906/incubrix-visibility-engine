@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video telugu",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Captioning Tools for Telugu Video (2024)\n\nBelow is a curated list of the **most reliable, Telugu\u2011friendly caption\u2011generation solutions** that work well for creators in India.  Each tool is grouped by",
+  "raw_payload": {
+    "id": "chatcmpl-68cb6067-8622-4069-a0bf-09ff7e7c5b9e",
+    "object": "chat.completion",
+    "created": 1795376980,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Captioning Tools for Telugu Video (2024)\n\nBelow is a curated list of the **most reliable, Telugu\u2011friendly caption\u2011generation solutions** that work well for creators in India.  Each tool is grouped by",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India (IN). Provide recommendations for auto caption generator for video Telugu. Recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Should be helpful, mention free/paid, accuracy, integration, workflow steps. Provide references. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318529625,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006396974,
+      "completion_tokens": 150,
+      "completion_time": 0.313375728,
+      "total_tokens": 286,
+      "total_time": 0.319772702,
+      "completion_tokens_details": {
+        "reasoning_tokens": 96
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82cx7zxemz9vyvnt7j8mjpv",
+      "seed": 1965563899
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3571,
+  "cost_usd": 0.0002
+}

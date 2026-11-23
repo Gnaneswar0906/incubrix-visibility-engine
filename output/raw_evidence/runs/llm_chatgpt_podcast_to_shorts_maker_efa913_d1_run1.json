@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Podcast into YouTube Shorts (or TikTok/Reels) \u2013 A Complete Toolkit & Workflow  \n\nBelow is a **step\u2011by\u2011step workflow** that many U.S. creators use to turn long\u2011form audio/video podcasts into bite\u2011size, vertical \u201cshorts.\u201d  \nFor each stage I list the **best\u2011in\u2011class tools** (including",
+  "raw_payload": {
+    "id": "chatcmpl-45d3d028-d20f-4943-b547-1da56443de0f",
+    "object": "chat.completion",
+    "created": 1795374501,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Podcast into YouTube Shorts (or TikTok/Reels) \u2013 A Complete Toolkit & Workflow  \n\nBelow is a **step\u2011by\u2011step workflow** that many U.S. creators use to turn long\u2011form audio/video podcasts into bite\u2011size, vertical \u201cshorts.\u201d  \nFor each stage I list the **best\u2011in\u2011class tools** (including",
+          "reasoning": "The user wants recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Provide a comprehensive answer. Must follow policy: no disallowed content. It's fine. Provide citations with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369674317,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005094402,
+      "completion_tokens": 150,
+      "completion_time": 0.316742419,
+      "total_tokens": 283,
+      "total_time": 0.321836821,
+      "completion_tokens_details": {
+        "reasoning_tokens": 67
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82ahk6vehw9msvjdfdkpecy",
+      "seed": 1223982479
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7623,
+  "cost_usd": 0.0002
+}

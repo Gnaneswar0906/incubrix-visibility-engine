@@ -1,0 +1,95 @@
+{
+  "query": "remove words from a video",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://vmake.ai/delete-text-from-video",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "remove words from a video",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free AI Tool to Remove Text from Video Online",
+        "link": "https://vmake.ai/delete-text-from-video",
+        "displayedLink": "https://vmake.ai \u203a delete-text-from-video",
+        "snippet": "How to remove text from video in 3 steps \u00b7 Step 1. Upload your video \u00b7 Step 2. Select the text you want to remove \u00b7 Step 3. Download and keep editing.",
+        "rating": 4.5,
+        "ratingCount": 3872,
+        "position": 1
+      },
+      {
+        "title": "Remove Text from Video Cleanly",
+        "link": "https://wink.ai/remove-text-from-video",
+        "displayedLink": "https://wink.ai \u203a remove-text-from-video",
+        "snippet": "Remove text from video free with Wink. AI erases subtitles, captions and overlays cleanly, restoring the natural background. No skills needed.",
+        "position": 2
+      },
+      {
+        "title": "Remove Text From Video Online Free (With Al)",
+        "link": "https://www.fotor.com/remove-watermark-from-video/text/",
+        "displayedLink": "https://www.fotor.com \u203a remove-watermark-from-video \u203a text",
+        "snippet": "Use this AI-powered tool to remove text from video online. It supports MP4, MOV, WebM and M4V. Delete watermarks, captions, subtitles and any unwanted parts ...",
+        "position": 3
+      },
+      {
+        "title": "AI Text Remover - Remove Text & Watermark from Video",
+        "link": "https://removetextfromvideo.com/",
+        "displayedLink": "https://removetextfromvideo.com",
+        "snippet": "The best AI tool to remove text from video. Easily remove subtitles and captions from any video automatically. High quality, no blur, and 100% free.",
+        "position": 4
+      },
+      {
+        "title": "Remove Text from Video | Zawa (formerly X-Design )",
+        "link": "https://zawa.ai/remove-text-from-video",
+        "displayedLink": "https://zawa.ai \u203a remove-text-from-video",
+        "snippet": "How to Remove Text From Videos Online for Free \u00b7 Step 1. Upload Your Video \u00b7 Step 2. Choose a Removal Mode \u00b7 Step 3. Preview and Download. Preview the ...",
+        "position": 5
+      },
+      {
+        "title": "Remover.video - AI Text & Watermark Remover | Free Editor",
+        "link": "https://remover.video/",
+        "displayedLink": "https://remover.video",
+        "snippet": "Professional AI-powered tool to remove text, watermark and logos from videos online. Free video editor supporting TikTok, Instagram and all social media ...",
+        "position": 6
+      },
+      {
+        "title": "How To Remove Text From Video On Mobile (EASY & FAST!)",
+        "link": "https://www.youtube.com/watch?v=aG8B8MB8l2I",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, we show you How To Remove Text From Video On Mobile. It is really easy to do, and you can learn to do it in just a few minutes\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "Remove Text from Video \u2014 AI Online Tool",
+        "link": "https://happycapy.ai/tools/remove-text-from-video",
+        "displayedLink": "https://happycapy.ai \u203a tools \u203a remove-text-from-video",
+        "snippet": "Upload the video clip containing the text, captions, watermark, or logo you want removed. Works with common video formats including MP4, MOV, and more.",
+        "position": 8
+      },
+      {
+        "title": "Remove Text from Video Online Free | AI Video Text Remover",
+        "link": "https://removefrom.video/",
+        "displayedLink": "https://removefrom.video",
+        "snippet": "Remove text from video online free with an AI video text remover. Erase words, captions, subtitles and titles from the full video without blur. Try it free.",
+        "position": 9
+      },
+      {
+        "title": "Remove Text from Video",
+        "link": "https://www.veed.io/tools/remove-watermark-from-video/remove-text-from-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a remove-watermark-from-video \u203a remove-text-from-video",
+        "snippet": "Free online video text remover. Remove words, captions, and watermarks from a video by cropping them out or covering them with logos, stickers, or shapes.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

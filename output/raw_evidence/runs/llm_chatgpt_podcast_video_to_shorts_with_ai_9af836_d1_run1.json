@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast video to shorts with ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Podcast\u202fVideo into You\u2011Tube Shorts (or TikTok/Reels) with AI  \n*Tailored for a U",
+  "raw_payload": {
+    "id": "chatcmpl-ea17c15c-472d-4c9a-9d18-b6122c0270ca",
+    "object": "chat.completion",
+    "created": 1795374524,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Podcast\u202fVideo into You\u2011Tube Shorts (or TikTok/Reels) with AI  \n*Tailored for a U",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. It's fine.\n\nWe should give a structured answer: overview, workflow steps, tool recommendations (AI-powered video editing, transcription, clipping, formatting), compare features, pricing, pros/cons. Provide citations with URLs. Use markdown. Provide best practices.\n\nLet's craft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.517958863,
+      "prompt_tokens": 135,
+      "prompt_time": 0.037042115,
+      "completion_tokens": 150,
+      "completion_time": 0.314004967,
+      "total_tokens": 285,
+      "total_time": 0.351047082,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82aj90texpt92kcqbcenxdf",
+      "seed": 1871257184
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2373,
+  "cost_usd": 0.0002
+}

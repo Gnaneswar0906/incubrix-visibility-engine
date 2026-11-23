@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs munch",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip",
+    "Munch"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019re likely looking to maximise efficiency while maintaining high production value. The comparison between **Opus Clip** and **Munch** is a classic \"shorts-first\" AI editing showdown. Both are AI-powered tools designed to repurpose long-form video (podcasts, webinars, YouTube vlogs) into viral-ready short-form content (TikTok, Reels, Shorts).\n\nHere\u2019s a detailed, authoritative breakdown to help you choose, along with recommended workflows and industry alternatives.\n\n---\n\n### \ud83d\udd0d Head-to-Head: Opus Clip vs. Munch\n\n| Feature | **Opus Clip** | **Munch** |\n| :--- | :---",
+  "raw_payload": {
+    "id": "chatcmpl-ef1ddaee-b269-4241-b3f7-2d3b5de19477",
+    "object": "chat.completion",
+    "created": 1795377549,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019re likely looking to maximise efficiency while maintaining high production value. The comparison between **Opus Clip** and **Munch** is a classic \"shorts-first\" AI editing showdown. Both are AI-powered tools designed to repurpose long-form video (podcasts, webinars, YouTube vlogs) into viral-ready short-form content (TikTok, Reels, Shorts).\n\nHere\u2019s a detailed, authoritative breakdown to help you choose, along with recommended workflows and industry alternatives.\n\n---\n\n### \ud83d\udd0d Head-to-Head: Opus Clip vs. Munch\n\n| Feature | **Opus Clip** | **Munch** |\n| :--- | :---"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054415357,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005042743,
+      "completion_tokens": 150,
+      "completion_time": 0.291143922,
+      "total_tokens": 227,
+      "total_time": 0.296186665
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82dekd1e2mrp2d55q44wmqw",
+      "seed": 2010846982
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3010,
+  "cost_usd": 0.0002
+}

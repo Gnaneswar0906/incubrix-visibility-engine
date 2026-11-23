@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video online free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to a query: remove filler words from video online free. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (UK). They want to remove filler words from video online for free. So we need to recommend tools that can do that, free or have free tiers, online. Provide workflow methods, mention key industry options, and cite sources.\n\nWe need to cite authoritative web sources. We can use sources like TechRadar, PCMag, G2, etc. Also mention open-source tools like Auphonic, or free services like Kapwing,",
+  "raw_payload": {
+    "id": "chatcmpl-75264a4f-0e90-40ca-addf-b817cdf5035b",
+    "object": "chat.completion",
+    "created": 1795375549,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to a query: remove filler words from video online free. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (UK). They want to remove filler words from video online for free. So we need to recommend tools that can do that, free or have free tiers, online. Provide workflow methods, mention key industry options, and cite sources.\n\nWe need to cite authoritative web sources. We can use sources like TechRadar, PCMag, G2, etc. Also mention open-source tools like Auphonic, or free services like Kapwing,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.154261364,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007771306,
+      "completion_tokens": 150,
+      "completion_time": 0.159573882,
+      "total_tokens": 286,
+      "total_time": 0.167345188,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a8c584dda7",
+    "x_groq": {
+      "id": "req_01m82bhjhtevqaf4qptm7w12gq",
+      "seed": 129700267
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4680,
+  "cost_usd": 0.0002
+}

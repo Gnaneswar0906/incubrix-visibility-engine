@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, automating your Twitch-to-YouTube workflow is a great way to maximize your reach without burning out. Since you are looking for the \"best\" tools and methods, I\u2019ll break this down into **three main approaches** ranging from fully automated (hands-off) to semi-automated (higher quality editing).\n\n### \ud83d\ude80 Key Consideration for Indian Creators\n*   **Latency & Cost:** Ensure your hosting location (if using cloud-based tools) is close to your server for faster uploads.\n*   **Data Costs:** Uploading large VODs (4K) can consume significant data. Consider compressing locally before upload if your internet is metered.\n*  ",
+  "raw_payload": {
+    "id": "chatcmpl-8f371812-4e54-4ddb-93cd-6826a0c58584",
+    "object": "chat.completion",
+    "created": 1795377058,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, automating your Twitch-to-YouTube workflow is a great way to maximize your reach without burning out. Since you are looking for the \"best\" tools and methods, I\u2019ll break this down into **three main approaches** ranging from fully automated (hands-off) to semi-automated (higher quality editing).\n\n### \ud83d\ude80 Key Consideration for Indian Creators\n*   **Latency & Cost:** Ensure your hosting location (if using cloud-based tools) is close to your server for faster uploads.\n*   **Data Costs:** Uploading large VODs (4K) can consume significant data. Consider compressing locally before upload if your internet is metered.\n*  "
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046191833,
+      "prompt_tokens": 82,
+      "prompt_time": 0.005581157,
+      "completion_tokens": 150,
+      "completion_time": 0.28583429,
+      "total_tokens": 232,
+      "total_time": 0.291415447
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82czmbrefwrtqywxw9d5xsn",
+      "seed": 1501527359
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2682,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free\u202fAI\u2011Powered Toolkit & Workflow  \n*(Tailored for a U.S. creator who wants to stay on budget while keeping production quality high)*  \n\n---\n\n### 1\ufe0f\u20e3",
+  "raw_payload": {
+    "id": "chatcmpl-9d8a36f5-fac8-419f-b46c-46c946094bc1",
+    "object": "chat.completion",
+    "created": 1795376806,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfa5 Building a **Faceless YouTube Channel** \u2013 Free\u202fAI\u2011Powered Toolkit & Workflow  \n*(Tailored for a U.S. creator who wants to stay on budget while keeping production quality high)*  \n\n---\n\n### 1\ufe0f\u20e3",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide info for a faceless YouTube channel using AI free tools. Must be US-based content creator. Provide recommendations, workflow, mention free AI options. Cite sources with links. Should be helpful. Ensure not to violate policy. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369500079,
+      "prompt_tokens": 135,
+      "prompt_time": 0.0074292,
+      "completion_tokens": 150,
+      "completion_time": 0.312360853,
+      "total_tokens": 285,
+      "total_time": 0.319790053,
+      "completion_tokens_details": {
+        "reasoning_tokens": 93
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82cqy49e8f8jetxha7rmp17",
+      "seed": 1147393919
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3487,
+  "cost_usd": 0.0002
+}

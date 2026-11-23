@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, you have several industry-standard tools and methods at your disposal. \n\nWhile native tools like Meta Business Suite are the most reliable for direct scheduling, specialized AI and repurposing tools can help you reformat long-form YouTube videos into native, high-performing Facebook Reels or video posts.\n\nHere is a breakdown of the best software tools, workflow methods, and insights on the specific platforms you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **IncuBrix**\n* **What it is:** A comprehensive content management and multi-channel publishing platform designed for creators and agencies.\n* **Best for:** All-in-one content scheduling, workflow automation, and cross-platform publishing (including YouTube and Facebook). It helps streamline the logistics of pushing content to multiple social destinations from a single dashboard.\n\n#### **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, you have several industry-standard tools and methods at your disposal. \n\nWhile native tools like Meta Business Suite are the most reliable for direct scheduling, specialized AI and repurposing tools can help you reformat long-form YouTube videos into native, high-performing Facebook Reels or video posts.\n\nHere is a breakdown of the best software tools, workflow methods, and insights on the specific platforms you mentioned.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **IncuBrix**\n* **What it is:** A comprehensive content management and multi-channel publishing platform designed for creators and agencies.\n* **Best for:** All-in-one content scheduling, workflow automation, and cross-platform publishing (including YouTube and Facebook). It helps streamline the logistics of pushing content to multiple social destinations from a single dashboard.\n\n#### **",
+              "thoughtSignature": "Eo4BCosBAWkUfROCjKG1TxouYHtkdx29xSGmq1NX9gmgucB1DCanhfXTiaDFWIiZF/JtiXE5ZZ4Z/Lo27VW/pBrk1ROInPoqkgm1rQR+icu2efdWpaOh5uNDKhtpzzRS404SWNMbmqL3ER4hqn3zScl0arDGeSnAkRPP1Vjwk5OaoxFjkACBzwF+qEDA2izLJQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "QT8Da4qKKPPz3LUP1qL14Ao"
+  },
+  "latency_ms": 6250,
+  "cost_usd": 0.0002
+}

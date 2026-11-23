@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from twitch",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, automating the workflow from Twitch to YouTube is a strategic move to maximize reach across platforms. Since Twitch and YouTube have different ecosystems (live interaction vs. search/algorithm), the goal is usually **clipping highlights** or **repurposing VODs** rather than a direct 1:1 live stream mirror (which YouTube doesn't natively support as a \"source\" for Twitch).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for **auto-uploading or semi-automating** Twitch content to YouTube.\n\n### \ud83d\ude80 Key Clarification\n- **True \"Auto-Upload\"**: There is no official API that lets you live-stream",
+  "raw_payload": {
+    "id": "chatcmpl-3d790a6f-2c16-4808-8550-cf3526bbd40a",
+    "object": "chat.completion",
+    "created": 1795374865,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, automating the workflow from Twitch to YouTube is a strategic move to maximize reach across platforms. Since Twitch and YouTube have different ecosystems (live interaction vs. search/algorithm), the goal is usually **clipping highlights** or **repurposing VODs** rather than a direct 1:1 live stream mirror (which YouTube doesn't natively support as a \"source\" for Twitch).\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industry options for **auto-uploading or semi-automating** Twitch content to YouTube.\n\n### \ud83d\ude80 Key Clarification\n- **True \"Auto-Upload\"**: There is no official API that lets you live-stream"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053644425,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005098994,
+      "completion_tokens": 150,
+      "completion_time": 0.304895119,
+      "total_tokens": 228,
+      "total_time": 0.309994113
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82awpage2map6cem1hb9sra",
+      "seed": 1885063536
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1851,
+  "cost_usd": 0.0002
+}

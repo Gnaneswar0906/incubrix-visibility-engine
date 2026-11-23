@@ -1,0 +1,99 @@
+{
+  "query": "text video editor ai",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/ai-video/text-to-video",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text video editor ai",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text to Video AI - Generate, Refine & Export",
+        "link": "https://www.veed.io/tools/ai-video/text-to-video",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a ai-video \u203a text-to-video",
+        "snippet": "Type text prompts to create talking head videos and short-form content. Generate, refine, and export all in one AI video creation platform.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Text to video AI software",
+        "link": "https://pictory.ai/text-to-video",
+        "displayedLink": "https://pictory.ai \u203a text-to-video",
+        "snippet": "Pictory's text to video AI turns a script, article or notes into a finished video with visuals, AI voiceover and captions. Edit it online like a document.",
+        "rating": 4.6,
+        "ratingCount": 81,
+        "position": 2
+      },
+      {
+        "title": "AI Video Generator: Text to Video AI Tool",
+        "link": "https://www.canva.com/features/ai-video-generator/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a ai-video-generator",
+        "snippet": "Use Canva AI's Create a Video Clip to instantly generate an AI-powered video from text\u2014complete with synchronized audio, including dialogue and sound effects.",
+        "position": 3
+      },
+      {
+        "title": "Free Text to Video AI Generator",
+        "link": "https://www.renderforest.com/text-to-video-ai",
+        "displayedLink": "https://www.renderforest.com \u203a text-to-video-ai",
+        "snippet": "Turn text into video with AI: paste a prompt or a full script, get scenes with voiceover and music, then edit and export. Start free, no credit card.",
+        "position": 4
+      },
+      {
+        "title": "Vmaker AI - Create & Edit Videos in Minutes with AI",
+        "link": "https://www.vmaker.com/",
+        "displayedLink": "https://www.vmaker.com",
+        "snippet": "Vmaker AI turns your raw videos into publish-ready videos. It comes with a full stack video editing suite that helps you tell your story aesthetically. Start ...",
+        "position": 5
+      },
+      {
+        "title": "Free AI Video Generator - Adobe Firefly India",
+        "link": "https://www.adobe.com/in/products/firefly/features/ai-video-generator.html",
+        "displayedLink": "https://www.adobe.com \u203a in \u203a ... \u203a ai-video-generator.html",
+        "snippet": "Adobe Firefly makes it fast and easy to turn text prompts and reference images into high-quality, AI generated videos \u2014 no complex skills or tools required.",
+        "position": 6
+      },
+      {
+        "title": "AI Video Generator - Create Videos from Text with 85 AI Models",
+        "link": "https://picsart.com/ai-video-generator/",
+        "displayedLink": "https://picsart.com \u203a ai-video-generator",
+        "snippet": "Turn text into video with Picsart's AI Video Generator. Access 85 AI video models, reference inputs, and full creative control. Generate in minutes.",
+        "position": 7
+      },
+      {
+        "title": "AI Video Editing Software | Edit Video by Typing",
+        "link": "https://www.descript.com/video-editing",
+        "displayedLink": "https://www.descript.com \u203a video-editing",
+        "snippet": "AI video editing software that lets you edit by editing text. Add captions, clean audio, cut filler words, and publish pro videos in minutes.",
+        "rating": 4.6,
+        "ratingCount": 936,
+        "position": 8
+      },
+      {
+        "title": "Free Text to Video AI - Generate Video From Text",
+        "link": "https://fliki.ai/features/text-to-video",
+        "displayedLink": "https://fliki.ai \u203a features \u203a text-to-video",
+        "snippet": "Everything you need to turn text into video. Fliki is the most complete text-to-video AI: script, voice, visuals, captions, and music in one workspace.",
+        "rating": 4.8,
+        "ratingCount": 5775,
+        "position": 9
+      },
+      {
+        "title": "AI Text to Video Generator \u2014 Create Videos from Prompts Free",
+        "link": "https://www.vidu.com/ai-text-to-video",
+        "displayedLink": "https://www.vidu.com \u203a ai-text-to-video",
+        "snippet": "Generate high-quality AI videos from text prompts in seconds. Describe your scene, choose your style, and let Vidu bring your ideas to life. Try free now.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

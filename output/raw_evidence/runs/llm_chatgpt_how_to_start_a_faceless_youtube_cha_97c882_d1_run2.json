@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to start a faceless youtube channel with ai 1 hour course",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"how to start a faceless youtube channel with ai 1 hour course\". Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in India (IN). Must comply with policy. It's a request for advice on creating a faceless YouTube channel using AI, and a 1 hour course outline. Provide recommendations, workflow, tools, citations. No disallowed content. Provide citations with URLs. Must be helpful. Should include steps, timeline, content creation pipeline, AI tools for script, voice, video, editing, thumbnails, SEO,",
+  "raw_payload": {
+    "id": "chatcmpl-cad62ffa-5fef-4fe7-8439-9ea28d01369a",
+    "object": "chat.completion",
+    "created": 1795375420,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"how to start a faceless youtube channel with ai 1 hour course\". Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. The user is a content creator located in India (IN). Must comply with policy. It's a request for advice on creating a faceless YouTube channel using AI, and a 1 hour course outline. Provide recommendations, workflow, tools, citations. No disallowed content. Provide citations with URLs. Must be helpful. Should include steps, timeline, content creation pipeline, AI tools for script, voice, video, editing, thumbnails, SEO,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.333456163,
+      "prompt_tokens": 143,
+      "prompt_time": 0.012538086,
+      "completion_tokens": 150,
+      "completion_time": 0.312208174,
+      "total_tokens": 293,
+      "total_time": 0.32474626,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82bdm73ep1v216hfpgkchxt",
+      "seed": 1887418771
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4050,
+  "cost_usd": 0.0002
+}

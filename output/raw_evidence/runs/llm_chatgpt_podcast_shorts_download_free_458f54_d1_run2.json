@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating high-quality \"podcast shorts\" (vertical video clips for TikTok, Instagram Reels, and YouTube Shorts) from long-form audio or video content is a crucial growth strategy in 2024. Since you are based in the UK, you will have access to the full suite of global digital tools, many of which offer generous free tiers or \"freemium\" models suitable for solo creators.\n\nBelow are the best software tools, workflow methods, and key industry options for downloading and creating podcast shorts for free.\n\n### 1. Key Industry Software Tools (Free/Freemium Options)\n\nWhile fully \"free forever\" professional software is rare, the following tools offer robust free tiers that are sufficient for most individual creators.",
+  "raw_payload": {
+    "id": "chatcmpl-8b42db2d-1480-46cb-9481-4c7b45128599",
+    "object": "chat.completion",
+    "created": 1795375492,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating high-quality \"podcast shorts\" (vertical video clips for TikTok, Instagram Reels, and YouTube Shorts) from long-form audio or video content is a crucial growth strategy in 2024. Since you are based in the UK, you will have access to the full suite of global digital tools, many of which offer generous free tiers or \"freemium\" models suitable for solo creators.\n\nBelow are the best software tools, workflow methods, and key industry options for downloading and creating podcast shorts for free.\n\n### 1. Key Industry Software Tools (Free/Freemium Options)\n\nWhile fully \"free forever\" professional software is rare, the following tools offer robust free tiers that are sufficient for most individual creators."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051331523,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005147737,
+      "completion_tokens": 150,
+      "completion_time": 0.291111501,
+      "total_tokens": 226,
+      "total_time": 0.296259238
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bfv3vexcrnppgwtnf4r28",
+      "seed": 674921249
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1390,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (often referred to as transcript-based editing) has revolutionized digital content creation. It allows creators to edit video timelines simply by highlighting, deleting, or rearranging words in a transcript\u2014just like editing a Google Doc or Word document. \n\nHere is a comprehensive breakdown of the best software tools, industry options, and a recommended workflow method for U.S. creators.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\n#### 1. Descript\n* **Best For:** Overall podcast and video editing, long-form content, and deep AI voice features.\n* **Overview:** Widely considered the gold standard for text-based editing, Descript pioneered the concept for mainstream creators. It automatically generates a text transcript, allowing you to cut filler words (\"um,\" \"uh\"), edit out mistakes by deleting text, and even",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (often referred to as transcript-based editing) has revolutionized digital content creation. It allows creators to edit video timelines simply by highlighting, deleting, or rearranging words in a transcript\u2014just like editing a Google Doc or Word document. \n\nHere is a comprehensive breakdown of the best software tools, industry options, and a recommended workflow method for U.S. creators.\n\n---\n\n### Key Industry Options for Text-Based Video Editing\n\n#### 1. Descript\n* **Best For:** Overall podcast and video editing, long-form content, and deep AI voice features.\n* **Overview:** Widely considered the gold standard for text-based editing, Descript pioneered the concept for mainstream creators. It automatically generates a text transcript, allowing you to cut filler words (\"um,\" \"uh\"), edit out mistakes by deleting text, and even",
+              "thoughtSignature": "Eo4BCosBAWkUfRP75r1ytwyZnRlyopxHRyGktQjYGFncDPbRaZrabInRAT+099VM3gDIbA/9VxqvZLxwJiPLs+2gCMHa/XI6hRYZctBaEFE48HeKfE3iaGxVkpxVKJctvV/lNPAhsqiusoBLvaUSLLuHl99mRyq+MMU8yQBJExl7omOVPY7qchQ/vHZySuB+GQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Oj4Da9XFMpfm694PgozR0A8"
+  },
+  "latency_ms": 2327,
+  "cost_usd": 0.0002
+}

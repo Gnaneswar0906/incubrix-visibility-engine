@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel with **zero upfront investment** is entirely possible by leveraging free-"
+            },
+            {
+              "text": "tier software, open-source AI tools, and free stock asset platforms. \n\nFor a US-based content creator, the primary hurdle isn't capital\u2014it's time management and avoiding copyright pitfalls. Below is a recommended blueprint covering the best free software tools, an optimized workflow, and an evaluation of key industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Part 1: The Zero-Investment Software Stack\n\nTo run a channel from script to upload without spending a dime, utilize these free-tier or open-source tools:\n\n1. **Scriptwriting & Ideation:** **ChatGPT (Free)** or **Claude (Free)**. Use them for niche research, video outlining, and full script generation.\n2. **Voiceover / Text-to-Speech (TTS):** **ElevenLabs (Free Tier)** offers high-quality, hyper-realistic AI voices (though watch out for character limits on",
+              "thoughtSignature": "Eo4BCosBAWkUfRMlJo91ZORkDAT+lACCMEueLLA8K+7c8OdxDe/OLgG/X11PQhs6Dcpmf/5yjPHg5iK5pEqLF7tmSfxFEzc8L36vYUBzVq0ijhDrUhs4VM8FztAb22HMsOCDaE/+bqbSalVM6Ujpj5qCvcHmWzN1RVxenDD9HI9NW+mCja0hE8Wp/MQvEx3XVg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 219,
+      "totalTokenCount": 285,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "rz8Da57xIZLbg8UP17uT0Ag"
+  },
+  "latency_ms": 9007,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India (IN) looking to scale your short-form video presence (YouTube Shorts, Instagram Reels, TikTok), choosing between **Opus Clip** and **Crayo AI** depends entirely on your content style, editing experience, and budget. \n\nHere is a comprehensive comparison tailored for the Indian creator ecosystem, including a breakdown of the tools, an efficient workflow method, and industry alternatives like IncuBrix, CapCut, and Descript.\n\n---\n\n### Part 1: Opus Clip vs. Crayo AI\n\n#### **Opus Clip**\n* **Best For:** Long-form podcasters, educators, and talking-head video creators who want automated, context-aware clipping.\n* **How it works:** You drop in a YouTube link or upload a long video (up to 3 hours). Its AI (OpenAI-powered) analyzes the video, identifies the most engaging hooks, arranges them into standalone viral clips",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India (IN) looking to scale your short-form video presence (YouTube Shorts, Instagram Reels, TikTok), choosing between **Opus Clip** and **Crayo AI** depends entirely on your content style, editing experience, and budget. \n\nHere is a comprehensive comparison tailored for the Indian creator ecosystem, including a breakdown of the tools, an efficient workflow method, and industry alternatives like IncuBrix, CapCut, and Descript.\n\n---\n\n### Part 1: Opus Clip vs. Crayo AI\n\n#### **Opus Clip**\n* **Best For:** Long-form podcasters, educators, and talking-head video creators who want automated, context-aware clipping.\n* **How it works:** You drop in a YouTube link or upload a long video (up to 3 hours). Its AI (OpenAI-powered) analyzes the video, identifies the most engaging hooks, arranges them into standalone viral clips",
+              "thoughtSignature": "Eo4BCosBAWkUfRMeMnAeJh5lfiUJ/JrV8yM22gfXNULn7dcuq9CEYMPxx7840WSOJz56qbNxRHVdM1NpftQOu7HVQawupBkfnyB3BHfEYokwKOzWhI78UinHUv+sCANF8qVIHLmJGHrBJn37pHErmaUEpwEdYldX1tC4lmBxlp2+gB5x6yRUl64ZfPYhxI9A+w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "3UADa_6HCdTEg8UPsuvV-Qs"
+  },
+  "latency_ms": 1880,
+  "cost_usd": 0.0002
+}

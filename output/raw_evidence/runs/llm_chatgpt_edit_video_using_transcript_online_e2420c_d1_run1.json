@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "edit video using transcript online",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Editing Video\u202f\u2192\u202fTranscript\u202fOnline: 2024\u2011Ready Toolkit  \n*(Compiled for a U.S.\u2011",
+  "raw_payload": {
+    "id": "chatcmpl-17615978-124f-4276-9857-d64b09fa597c",
+    "object": "chat.completion",
+    "created": 1795374616,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Editing Video\u202f\u2192\u202fTranscript\u202fOnline: 2024\u2011Ready Toolkit  \n*(Compiled for a U.S.\u2011",
+          "reasoning": "The user wants recommendations for editing video using transcript online. They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a helpful answer, presumably with links and citations. Must comply with policies: no disallowed content. It's fine. Provide list of tools, description, workflow steps, pros/cons, pricing, etc. Cite sources like official sites, tech reviews, etc. Use citations in brackets with URLs. Provide a structured answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369796805,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005652734,
+      "completion_tokens": 150,
+      "completion_time": 0.31168052,
+      "total_tokens": 284,
+      "total_time": 0.317333254,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82an3qne3fsgkw1h6wbks8y",
+      "seed": 1703770028
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3309,
+  "cost_usd": 0.0002
+}

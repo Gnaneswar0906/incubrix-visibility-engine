@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'auto generate captions for instagram reels' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 383
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As an AI assistant serving a content creator in the US, I can help you streamline your video production workflow. Adding auto-generated captions to Instagram Reels is no longer just an accessibility feature\u2014it is a critical engagement strategy, as a large percentage of users watch videos with the so",
+      "cost_usd": 0.0002,
+      "latency_ms": 3005,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_instagra_c2912c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_instagra_c2912c_d1_US.json"
+}

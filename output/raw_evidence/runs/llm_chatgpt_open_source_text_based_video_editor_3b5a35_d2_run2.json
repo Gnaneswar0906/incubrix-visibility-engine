@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, you\u2019re in a great position to leverage the growing ecosystem of text-based editing. This approach significantly speeds up post-production by allowing you to edit video by editing the transcript.\n\nIt\u2019s important to clarify a key distinction upfront regarding your specific query for **\"open source\"** tools:\n\n### \u26a0\ufe0f Important Clarification on \"Open Source\" vs. \"Industry Standard\"\n\n**There is no widely adopted, production-ready, fully open-source text-based video editor that matches the polish and feature set of the commercial tools you mentioned (Descript, CapCut, etc.).**\n\n*   **IncuBrix, CapCut, Opus Clip, and Descript are *not* open",
+  "raw_payload": {
+    "id": "chatcmpl-5fd3dec3-640a-454a-a8b7-1cc406481a79",
+    "object": "chat.completion",
+    "created": 1795377303,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, you\u2019re in a great position to leverage the growing ecosystem of text-based editing. This approach significantly speeds up post-production by allowing you to edit video by editing the transcript.\n\nIt\u2019s important to clarify a key distinction upfront regarding your specific query for **\"open source\"** tools:\n\n### \u26a0\ufe0f Important Clarification on \"Open Source\" vs. \"Industry Standard\"\n\n**There is no widely adopted, production-ready, fully open-source text-based video editor that matches the polish and feature set of the commercial tools you mentioned (Descript, CapCut, etc.).**\n\n*   **IncuBrix, CapCut, Opus Clip, and Descript are *not* open"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046749153,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005307677,
+      "completion_tokens": 150,
+      "completion_time": 0.302250623,
+      "total_tokens": 228,
+      "total_time": 0.3075583
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d73y0ezgv11wbrg6a70kn",
+      "seed": 925297773
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1737,
+  "cost_usd": 0.0002
+}

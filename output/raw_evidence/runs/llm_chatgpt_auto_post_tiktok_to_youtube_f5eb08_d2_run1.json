@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for auto posting TikTok to YouTube, including best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Provide workflow steps. Mention automation platforms like Zapier, Integromat (Make), IFTTT, etc. Also mention native tools? TikTok doesn't have direct auto-publish to YouTube; need to download and reupload. Use tools that download TikTok videos, edit, add watermark removal, format for YouTube, schedule upload. Provide best tools",
+  "raw_payload": {
+    "id": "chatcmpl-bbf16072-cb26-4fff-abfa-f15b26968a41",
+    "object": "chat.completion",
+    "created": 1795376676,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto posting TikTok to YouTube, including best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Provide workflow steps. Mention automation platforms like Zapier, Integromat (Make), IFTTT, etc. Also mention native tools? TikTok doesn't have direct auto-publish to YouTube; need to download and reupload. Use tools that download TikTok videos, edit, add watermark removal, format for YouTube, schedule upload. Provide best tools"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369613163,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005624096,
+      "completion_tokens": 150,
+      "completion_time": 0.311786579,
+      "total_tokens": 285,
+      "total_time": 0.317410675,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82ckyjvejwazbg9913bmheh",
+      "seed": 1269235564
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2694,
+  "cost_usd": 0.0002
+}

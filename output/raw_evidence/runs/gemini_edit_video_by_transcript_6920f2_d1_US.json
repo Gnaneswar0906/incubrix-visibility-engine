@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "edit video by transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For content creators in the US, **text-based video editing** (also known as editing video by transcript) has revolutionized post-production. Instead of endlessly scrubbing through a timeline, you simply highlight, delete, or rearrange text in a transcript, and the video updates automatically.\n\nHere ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3271,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_by_transcript_6920f2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For a US-based content creator looking to edit video via transcript (often called **text-based video editing**), you have access to some of the most advanced AI-driven tools on the market. This workflow allows you filler-word removal, rapid rough cuts, and repurposing long-form content simply by hig",
+      "cost_usd": 0.0002,
+      "latency_ms": 3371,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_by_transcript_6920f2_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_edit_video_by_transcript_6920f2_d1_US.json"
+}

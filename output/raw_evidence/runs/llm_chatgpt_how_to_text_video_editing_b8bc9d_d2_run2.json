@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are in a prime position to leverage both global industry standards and cost-effective, powerful tools tailored for high-volume or specific niche content. \"Text video editing\" can refer to two main workflows: **text-based editing** (editing video by editing the transcript, like in Descript) or **AI-driven text-to-video/clip generation** (turning long scripts or videos into short clips).\n\nBelow are the best software tools, workflow methods, and key industry options for 2024\u20132025, optimized for creators in India.\n\n### \ud83c\udfc6 Top Software Recommendations\n\n#### 1. **Descript** \u2013 *Best for Text-Based Editing & AI Voice*\n",
+  "raw_payload": {
+    "id": "chatcmpl-22574807-1a25-4e6f-8d3a-729cf322472a",
+    "object": "chat.completion",
+    "created": 1795376914,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are in a prime position to leverage both global industry standards and cost-effective, powerful tools tailored for high-volume or specific niche content. \"Text video editing\" can refer to two main workflows: **text-based editing** (editing video by editing the transcript, like in Descript) or **AI-driven text-to-video/clip generation** (turning long scripts or videos into short clips).\n\nBelow are the best software tools, workflow methods, and key industry options for 2024\u20132025, optimized for creators in India.\n\n### \ud83c\udfc6 Top Software Recommendations\n\n#### 1. **Descript** \u2013 *Best for Text-Based Editing & AI Voice*\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046462887,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005237973,
+      "completion_tokens": 150,
+      "completion_time": 0.305568111,
+      "total_tokens": 227,
+      "total_time": 0.310806084
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82cv7sqek7agx1wnsn0teb1",
+      "seed": 471608855
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1220,
+  "cost_usd": 0.0002
+}

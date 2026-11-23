@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove words from a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"remove words from a video\". Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. The user is a content creator in GB (UK). Should provide recommendations, wor",
+      "cost_usd": 0.0002,
+      "latency_ms": 3318,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_words_from_a_video_8bbc80_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you likely need efficient ways to edit dialogue, remove filler words (like \"um,\" \"uh,\" \"you know\"), or cut out specific segments quickly.\n\nBelow are the best software tools, workflow methods, and industry options for removing words from video, tailored fo",
+      "cost_usd": 0.0002,
+      "latency_ms": 1317,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_remove_words_from_a_video_8bbc80_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_remove_words_from_a_video_8bbc80_d1_GB.json"
+}

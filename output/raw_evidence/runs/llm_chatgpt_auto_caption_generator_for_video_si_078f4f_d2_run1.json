@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto caption generator for video Sinhala. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy: providing software recommendations is allowed. Must ensure no disallowed content. Provide citations. Use markdown.\n\nWe should search memory: Sinhala auto captioning tools. Options: YouTube automatic captions supports Sinhala? YouTube auto captions support many languages including Sinhala. Also tools like Kapwing, VEED, Rev.com, Trint, Sonix, Happy Scribe, Amara. Specific for Sinhala: Google Speech-to",
+  "raw_payload": {
+    "id": "chatcmpl-f3f21a0b-2f54-49fd-ab94-d8f8aeb27729",
+    "object": "chat.completion",
+    "created": 1795376986,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto caption generator for video Sinhala. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to comply with policy: providing software recommendations is allowed. Must ensure no disallowed content. Provide citations. Use markdown.\n\nWe should search memory: Sinhala auto captioning tools. Options: YouTube automatic captions supports Sinhala? YouTube auto captions support many languages including Sinhala. Also tools like Kapwing, VEED, Rev.com, Trint, Sonix, Happy Scribe, Amara. Specific for Sinhala: Google Speech-to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317729733,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005741926,
+      "completion_tokens": 150,
+      "completion_time": 0.317491148,
+      "total_tokens": 286,
+      "total_time": 0.323233074,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_02b0d31eca",
+    "x_groq": {
+      "id": "req_01m82cxdx7ek3vaneqpk0y6992",
+      "seed": 469611941
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2877,
+  "cost_usd": 0.0002
+}

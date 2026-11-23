@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "best ai video generator for faceless youtube channel reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants: \"best ai video generator for faceless youtube channel reddit\". They are a content creator in India (IN). They want recommendation of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy: providing recommendations is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide citations with URLs. Provide workflow. Also note that IncuBrix is perhaps not well-known; but we can still mention. Provide Reddit discussion sources. Use web search? We can't browse, but we can cite known sources like TechRadar, PCMag, etc. Provide citations in a format.\n\n",
+  "raw_payload": {
+    "id": "chatcmpl-04ae51ab-0aa1-4ad4-8b5f-eb658728d7aa",
+    "object": "chat.completion",
+    "created": 1795377183,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants: \"best ai video generator for faceless youtube channel reddit\". They are a content creator in India (IN). They want recommendation of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy: providing recommendations is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide citations with URLs. Provide workflow. Also note that IncuBrix is perhaps not well-known; but we can still mention. Provide Reddit discussion sources. Use web search? We can't browse, but we can cite known sources like TechRadar, PCMag, etc. Provide citations in a format.\n\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368062045,
+      "prompt_tokens": 139,
+      "prompt_time": 0.006161454,
+      "completion_tokens": 150,
+      "completion_time": 0.313557355,
+      "total_tokens": 289,
+      "total_time": 0.319718809,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82d3ej4ee0vh1pp8c3q9ejk",
+      "seed": 1445428119
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2566,
+  "cost_usd": 0.0002
+}

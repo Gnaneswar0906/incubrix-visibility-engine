@@ -1,0 +1,88 @@
+{
+  "query": "what video editor is the best",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://en.wikipedia.org/wiki/Video",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what video editor is the best",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Video",
+        "link": "https://en.wikipedia.org/wiki/Video",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Video",
+        "snippet": "Video is an electronic medium used for the recording, copying, playback, transmitting, and display of moving visual images and pictures, with or without ...",
+        "position": 1
+      },
+      {
+        "title": "Testing your video",
+        "link": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061836",
+        "displayedLink": "https://support.zoom.com \u203a hc \u203a en \u203a article",
+        "snippet": "You can manually test your video camera with Zoom before joining a meeting\u2014or during a meeting\u2014to ensure that the camera is working properly.",
+        "position": 2
+      },
+      {
+        "title": "Sabrina Carpenter - Manchild (Official Video)",
+        "link": "https://www.youtube.com/watch?v=aSugSGCC12I",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Music video by Sabrina Carpenter performing Manchild (Official Video).\u00a9 2025 Island Records, a division of UMG Recordings, Inc.",
+        "position": 3
+      },
+      {
+        "title": "Video surveillance (including guidance for organisations using ...",
+        "link": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/",
+        "displayedLink": "https://ico.org.uk \u203a for-organisations \u203a ... \u203a guidance-on-video-surveilla...",
+        "snippet": "We have developed this guidance to help organisations in the public and private sector, who use video surveillance systems to collect and process personal data.",
+        "position": 4
+      },
+      {
+        "title": "eVisa support videos",
+        "link": "https://www.gov.uk/government/collections/evisa-support-videos",
+        "displayedLink": "https://www.gov.uk \u203a government \u203a collections \u203a evisa-support-videos",
+        "snippet": "A series of 'how to' videos to help you access and use your eVisa, as well as updating and recovering your UKVI account.",
+        "date": "18 Feb 2025",
+        "position": 5
+      },
+      {
+        "title": "the music video for wrapped im gold is out now! we shot this in the middle of ...",
+        "link": "https://www.instagram.com/reel/De1L5rFxGf8/?hl=en",
+        "displayedLink": "https://www.instagram.com \u203a reel \u203a De1L5rFxGf8",
+        "position": 6
+      },
+      {
+        "title": "Videos about how to use the NHS App",
+        "link": "https://www.nhs.uk/nhs-app/help/videos/",
+        "displayedLink": "https://www.nhs.uk \u203a nhs-app \u203a help \u203a videos",
+        "snippet": "Watch videos about how to download and use the NHS App. Includes British Sign Language (BSL) and transcripts.",
+        "position": 7
+      },
+      {
+        "title": "Weather forecast video",
+        "link": "https://weather.metoffice.gov.uk/videos",
+        "displayedLink": "https://weather.metoffice.gov.uk \u203a videos",
+        "position": 8
+      },
+      {
+        "title": "Happy 10 year anniversary to Rockabye  We found our original ...",
+        "link": "https://www.instagram.com/p/DexPFWMEUo8/?hl=en-gb",
+        "displayedLink": "https://www.instagram.com \u203a p \u203a DexPFWMEUo8",
+        "position": 9
+      },
+      {
+        "title": "Summary of the Book of Job | Watch an Overview Video",
+        "link": "https://bibleproject.com/videos/job/",
+        "displayedLink": "https://bibleproject.com \u203a videos \u203a job",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

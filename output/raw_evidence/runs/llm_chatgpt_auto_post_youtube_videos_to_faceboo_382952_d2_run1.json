@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube videos to Facebook page. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. This is fine. Provide citations with URLs. Should be helpful. Also note that auto-posting from YouTube to Facebook may have restrictions due to API changes; can use third-party automation like Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, etc. Also mention native cross-posting using Facebook's \"Share to\" but not fully automatic. Provide workflow steps.\n\nLet's",
+  "raw_payload": {
+    "id": "chatcmpl-17853e06-7444-40d6-a40d-3d6553de4687",
+    "object": "chat.completion",
+    "created": 1795376701,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube videos to Facebook page. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must follow policy: no disallowed content. This is fine. Provide citations with URLs. Should be helpful. Also note that auto-posting from YouTube to Facebook may have restrictions due to API changes; can use third-party automation like Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, etc. Also mention native cross-posting using Facebook's \"Share to\" but not fully automatic. Provide workflow steps.\n\nLet's"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15510008,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005374799,
+      "completion_tokens": 150,
+      "completion_time": 0.311992673,
+      "total_tokens": 286,
+      "total_time": 0.317367472,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82cmqk3expvr26pw797gxyv",
+      "seed": 677664146
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2338,
+  "cost_usd": 0.0002
+}

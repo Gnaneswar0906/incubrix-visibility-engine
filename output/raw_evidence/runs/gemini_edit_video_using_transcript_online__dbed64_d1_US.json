@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US dealing with the",
+      "cost_usd": 0.0002,
+      "latency_ms": 4196,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_using_transcript_online__dbed64_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "When text-based video editing (editing video by deleting or rearranging text in a transcript) stops working, it is usually due to one of three issues: **cloud-sync lag, browser memory limitations, or corrupted transcription alignment.** \n\nAs a content creator in the US, dealing with this frustrating",
+      "cost_usd": 0.0002,
+      "latency_ms": 6150,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_edit_video_using_transcript_online__dbed64_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_edit_video_using_transcript_online__dbed64_d1_US.json"
+}

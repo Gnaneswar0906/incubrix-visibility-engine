@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "open source text based video editor",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! Creating video content using text-based editing is a powerful workflow, especially for content creators in the UK who may be looking for cost-effective, flexible, and scriptable solutions.\n\nWhile strictly \"text-only\" video editors (where you never touch a timeline) are rare for full-fledged professional use, the industry has shifted towards **AI-powered text-based editing** and **script-driven compositing**. Below are the best tools, workflows, and industry options tailored to your needs.\n\n### \ud83c\udfc6 Top Recommendations for Text-Based Video Editing\n\n#### 1. **Descript** (Industry Leader in Text-Based Editing)\n- **Why it\u2019s top-tier**: Descript is the gold standard for text-based video editing. You trans",
+  "raw_payload": {
+    "id": "chatcmpl-2b60b56c-a7e0-4eb4-b74f-a445cdae7a57",
+    "object": "chat.completion",
+    "created": 1795375515,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! Creating video content using text-based editing is a powerful workflow, especially for content creators in the UK who may be looking for cost-effective, flexible, and scriptable solutions.\n\nWhile strictly \"text-only\" video editors (where you never touch a timeline) are rare for full-fledged professional use, the industry has shifted towards **AI-powered text-based editing** and **script-driven compositing**. Below are the best tools, workflows, and industry options tailored to your needs.\n\n### \ud83c\udfc6 Top Recommendations for Text-Based Video Editing\n\n#### 1. **Descript** (Industry Leader in Text-Based Editing)\n- **Why it\u2019s top-tier**: Descript is the gold standard for text-based video editing. You trans"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053832305,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005221815,
+      "completion_tokens": 150,
+      "completion_time": 0.290184694,
+      "total_tokens": 228,
+      "total_time": 0.295406509
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bgh8we0gr7akwpzhpr40t",
+      "seed": 1946591401
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1309,
+  "cost_usd": 0.0002
+}

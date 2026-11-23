@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "how to make a faceless youtube channel without ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Munch",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to make a faceless youtube channel without ai' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 485
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'how to make a faceless youtube channel without ai' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 474
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_make_a_faceless_youtube_chan_536ceb_d1_IN.json"
+}

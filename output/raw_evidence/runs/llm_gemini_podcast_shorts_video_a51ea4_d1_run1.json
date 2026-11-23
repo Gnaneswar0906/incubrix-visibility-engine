@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in GB looking to turn long-form podcast audio or video into engaging short-form content (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an efficient workflow tailored for the UK market.\n\n---\n\n### 1. Key Industry Software Options\n\nThe landscape for AI podcast repurposing is dominated by automated clipping tools and traditional precision editors. \n\n#### **A. Dedicated AI Clipping Tools (The Best for Speed)**\n*   **Opus Clip:** One of the market leaders. It uses AI to analyze your long video, identify the most \"hookable\" and viral moments, automatically add dynamic captions, and crop the speaker to the center. According to industry reviews on platforms like *Creator Wizard* and *Vidpros*, Opus is favored for its",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in GB looking to turn long-form podcast audio or video into engaging short-form content (for TikTok, YouTube Shorts, and Instagram Reels), you have access to some of the most advanced AI-driven tools on the market. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned tools), and an efficient workflow tailored for the UK market.\n\n---\n\n### 1. Key Industry Software Options\n\nThe landscape for AI podcast repurposing is dominated by automated clipping tools and traditional precision editors. \n\n#### **A. Dedicated AI Clipping Tools (The Best for Speed)**\n*   **Opus Clip:** One of the market leaders. It uses AI to analyze your long video, identify the most \"hookable\" and viral moments, automatically add dynamic captions, and crop the speaker to the center. According to industry reviews on platforms like *Creator Wizard* and *Vidpros*, Opus is favored for its",
+              "thoughtSignature": "Eo4BCosBAWkUfROwqX9FxEOt+XlzzGqyC9ZsMIedMovDvw/kwzxv9BTogxeiNCJoQ1xZnZSXJWdgwN4eS4+GasG6nj9/0wzvppbhVDu1yElryT96pv8InKBQom8yES8PCJcns27D+AwIp7lS9F5Ki+bI9dDh3MxZ5PYPd2PSuM14uu9MtVp4pyIY5ckuVCxl2Q=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "VEEDa728HsDq694Pm-bAqA8"
+  },
+  "latency_ms": 9406,
+  "cost_usd": 0.0002
+}

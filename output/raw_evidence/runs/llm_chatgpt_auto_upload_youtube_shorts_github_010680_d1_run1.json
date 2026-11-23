@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts github",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK, automating your YouTube Shorts workflow is an excellent way to scale your output without burning out. Since YouTube has strict policies against low-effort automated content, the \"best\" approach isn't just one tool, but a **hybrid workflow** that uses AI for editing and GitHub for scheduling/publishing.\n\nHere\u2019s a recommended stack and workflow, focusing on **quality control** and **compliance** with YouTube\u2019s guidelines.\n\n### \ud83c\udfc6 Recommended Tool Stack\n\n#### 1. AI Video Editing & Repurposing (The \"Content\" Layer)\nThese tools create the actual Short from long-form content or raw clips.\n\n*   **Opus Clip** (Top Recommendation for",
+  "raw_payload": {
+    "id": "chatcmpl-669bbd26-9b65-4855-9c81-d4d99bd2bd36",
+    "object": "chat.completion",
+    "created": 1795375686,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the UK, automating your YouTube Shorts workflow is an excellent way to scale your output without burning out. Since YouTube has strict policies against low-effort automated content, the \"best\" approach isn't just one tool, but a **hybrid workflow** that uses AI for editing and GitHub for scheduling/publishing.\n\nHere\u2019s a recommended stack and workflow, focusing on **quality control** and **compliance** with YouTube\u2019s guidelines.\n\n### \ud83c\udfc6 Recommended Tool Stack\n\n#### 1. AI Video Editing & Repurposing (The \"Content\" Layer)\nThese tools create the actual Short from long-form content or raw clips.\n\n*   **Opus Clip** (Top Recommendation for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054462294,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005241366,
+      "completion_tokens": 150,
+      "completion_time": 0.307460058,
+      "total_tokens": 227,
+      "total_time": 0.312701424
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82bnrwxeq48c0zq8f0mzqn1",
+      "seed": 1476447565
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1768,
+  "cost_usd": 0.0002
+}

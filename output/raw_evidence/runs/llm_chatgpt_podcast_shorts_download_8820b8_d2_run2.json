@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts download",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no copyrighted text. Provide citations with links. Provide UK context perhaps. Provide steps for creating podcast shorts (short clips from longer episodes). Tools for extraction, editing, transcription, AI summarization, publishing. Mention free/paid options. Provide workflow: ingest audio, transcript, select highlights, generate video with waveforms, captions, branding, export. Provide suggestions for hosting/publishing: YouTube Shorts, Instagram Reels, TikTok, Spotify video podcasts.",
+  "raw_payload": {
+    "id": "chatcmpl-e303fe3d-20d6-4115-8a64-634759aec8fa",
+    "object": "chat.completion",
+    "created": 1795377271,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB. Provide recommendations for software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no copyrighted text. Provide citations with links. Provide UK context perhaps. Provide steps for creating podcast shorts (short clips from longer episodes). Tools for extraction, editing, transcription, AI summarization, publishing. Mention free/paid options. Provide workflow: ingest audio, transcript, select highlights, generate video with waveforms, captions, branding, export. Provide suggestions for hosting/publishing: YouTube Shorts, Instagram Reels, TikTok, Spotify video podcasts."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157267076,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005382584,
+      "completion_tokens": 150,
+      "completion_time": 0.310002729,
+      "total_tokens": 282,
+      "total_time": 0.315385313,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82d64ege9yvygdvz9ptrssj",
+      "seed": 1438945729
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3863,
+  "cost_usd": 0.0002
+}

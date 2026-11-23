@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udf99\ufe0f Quick\u2011Turn Podcast\u2011Shorts Editing Kit  \n*(Designed for a U.S. content creator who wants to turn full\u2011length episodes into bite\u2011size, social\u2011media\u2011ready clips)*  \n\n| **Category** | **Tool / Service** | **Why It\u2019s",
+      "cost_usd": 0.0002,
+      "latency_ms": 2863,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_edit_75b13e_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating high-quality \"shorts\" (vertical video clips for TikTok, Instagram Reels, and YouTube Shorts) from long-form podcast episodes has become a critical growth strategy. The goal is to automate or streamline the process of identifying viral moments, adding captions, resizing, and enhancing audio.",
+      "cost_usd": 0.0002,
+      "latency_ms": 1369,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_shorts_edit_75b13e_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_shorts_edit_75b13e_d2_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Instagram Reels  \n*Designed for a U.S.\u2011based content creator who wants fast",
+  "raw_payload": {
+    "id": "chatcmpl-466343ff-0987-4bb7-9d3e-6e9283fdafd9",
+    "object": "chat.completion",
+    "created": 1795374687,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Instagram Reels  \n*Designed for a U.S.\u2011based content creator who wants fast",
+          "reasoning": "We need to answer as AI assistant, presumably following policy. Provide recommendations for auto-generating captions for Instagram reels. Mention software tools, workflow methods, key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide citations. Must be helpful. No disallowed content. Provide links. Use markdown maybe.\n\nWe need to ensure citations are in proper format. Since we cannot browse, we can provide typical sources like official websites, articles from reputable tech sites. Provide citations like [1] etc.\n\nWill comply."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317507846,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005834483,
+      "completion_tokens": 150,
+      "completion_time": 0.309608351,
+      "total_tokens": 285,
+      "total_time": 0.315442834,
+      "completion_tokens_details": {
+        "reasoning_tokens": 117
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8ea50c0161",
+    "x_groq": {
+      "id": "req_01m82aq8r1ezpsxe9xyet7knw6",
+      "seed": 906483190
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3178,
+  "cost_usd": 0.0002
+}

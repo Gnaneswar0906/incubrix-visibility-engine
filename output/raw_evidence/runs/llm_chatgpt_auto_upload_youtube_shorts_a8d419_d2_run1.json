@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## How to Auto\u2011Upload",
+  "raw_payload": {
+    "id": "chatcmpl-f17470b0-ba53-48e0-9f6a-53c450d449f3",
+    "object": "chat.completion",
+    "created": 1795377455,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## How to Auto\u2011Upload",
+          "reasoning": "We need to answer a query: \"auto upload youtube shorts\". Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative web sources if available. The user is a content creator in GB. Should provide a clear answer. Use citations. Provide a list of tools and workflow methods. Also mention key industry options. Provide citations. Need to browse? We cannot browse, but we can use knowledge up to 2024. Provide citations from known websites: YouTube help, TechCrunch, etc. Provide citations with links. Use markdown. Provide explanation. Let's produce answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284432484,
+      "prompt_tokens": 133,
+      "prompt_time": 0.007615216,
+      "completion_tokens": 150,
+      "completion_time": 0.156336112,
+      "total_tokens": 283,
+      "total_time": 0.163951328,
+      "completion_tokens_details": {
+        "reasoning_tokens": 136
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_565badff47",
+    "x_groq": {
+      "id": "req_01m82dbqqgerbbaexrsez5xg9x",
+      "seed": 1529333679
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4131,
+  "cost_usd": 0.0002
+}

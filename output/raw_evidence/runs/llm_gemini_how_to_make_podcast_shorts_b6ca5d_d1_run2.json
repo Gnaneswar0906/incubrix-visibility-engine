@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to make podcast shorts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Creating podcast shorts (vertical video clips optimized for YouTube Shorts, TikTok, and Instagram Reels) is one of the most effective ways to grow your podcast audience. As a content creator in India (IN), your workflow needs to balance **automation** (to save time), **regional localization** (handling Hinglish, English, or regional Indian languages), and **affordability**.\n\nHere is a comprehensive guide to making podcast shorts, covering the best software tools, a step-by-step workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven short-form video repurposing has exploded. Here is how the top tools compare:\n\n#### **A. Opus Clip (AI-Powered Auto-Clipper)**\n*   **What it does:** Uses AI to analyze long-form podcast video, finds the \"viral hooks,\" and automatically chops them into multiple 30-to-60",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Creating podcast shorts (vertical video clips optimized for YouTube Shorts, TikTok, and Instagram Reels) is one of the most effective ways to grow your podcast audience. As a content creator in India (IN), your workflow needs to balance **automation** (to save time), **regional localization** (handling Hinglish, English, or regional Indian languages), and **affordability**.\n\nHere is a comprehensive guide to making podcast shorts, covering the best software tools, a step-by-step workflow, and key industry options.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nThe market for AI-driven short-form video repurposing has exploded. Here is how the top tools compare:\n\n#### **A. Opus Clip (AI-Powered Auto-Clipper)**\n*   **What it does:** Uses AI to analyze long-form podcast video, finds the \"viral hooks,\" and automatically chops them into multiple 30-to-60",
+              "thoughtSignature": "Eo4BCosBAWkUfRMxFgi90bDuvzApqFxsR8kdnkpl/40EwedNcn8AYZbUHCYCmKgwHlf9ctElZ1EmtaA0CREsckOydw9mgFOl9QYNfsIlyN5LWXDblPeFsJ+MsS8oPBZCOMU/aMy05W4F4kOj1RopxNg936rwoaV+VD4ts3JMnJaY2Yti976D/lt/ssIj+KnP5g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "-D8Da636BPK8mNMP44eNyAM"
+  },
+  "latency_ms": 2773,
+  "cost_usd": 0.0002
+}

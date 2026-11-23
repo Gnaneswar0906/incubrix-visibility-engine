@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Posting You",
+  "raw_payload": {
+    "id": "chatcmpl-19229dbf-20a4-4d23-96db-b3c5f422118c",
+    "object": "chat.completion",
+    "created": 1795374779,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Posting You",
+          "reasoning": "We need to answer as an AI assistant, providing recommendations for auto posting YouTube to Facebook. Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies: no disallowed content, safe. Provide citations with URLs. Should be helpful for US content creator. Provide steps, pros/cons, pricing, automation options (IFTTT, Zapier, Hootsuite, Buffer). Also mention YouTube API, Facebook API, cross-posting. Provide workflow. Provide citations. Use markdown. Provide disclaimer about terms of service. Provide references."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054309055,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005122674,
+      "completion_tokens": 150,
+      "completion_time": 0.313559843,
+      "total_tokens": 284,
+      "total_time": 0.318682517,
+      "completion_tokens_details": {
+        "reasoning_tokens": 137
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82at2txebz96zjmf77arnm3",
+      "seed": 217709976
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2738,
+  "cost_usd": 0.0002
+}

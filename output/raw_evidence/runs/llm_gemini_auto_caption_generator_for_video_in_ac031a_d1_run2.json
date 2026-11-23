@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping"
+            },
+            {
+              "text": " a content creator in the US, I understand that adding fast, accurate, and engaging auto-captions is one of the most effective ways to boost watch time and accessibility on platforms like TikTok, Instagram Reels, and YouTube Shorts. \n\nWhile **InShot** is a fantastic mobile editor for trimming, filters, and basic text, its native auto-captioning features can sometimes feel limited compared to dedicated AI-driven workflows. Below is a breakdown of the best tools, software, and workflows to achieve professional auto-captions, incorporating industry standards like **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **CapCut (Best for Mobile-First, Stylized Captions)**\n* **Overview:** Owned by ByteDance (TikTok\u2019s parent company), CapCut is the closest mobile alternative and workflow companion to InShot. Its auto-caption tool is robust, highly accurate, and offers",
+              "thoughtSignature": "Eo4BCosBAWkUfRMuQAoX+ufPv8kcznKOz7tgXSmGf/1wweQOx3bcS0LkW3l9IROyj/3Sm1jbBt9XqOMmGZbtuEuvmwO0OkdSHj7sKkp02KYgvdnjT+OZG4LPK/3BTKHxPrEIn+ZLnv7npz1clOHcUMxuwn+yERnbT57stJQB+OWI6QD+OM+1kD7no8u4fz7Jrg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 205,
+      "totalTokenCount": 270,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "vT4Da8WEPNfLv_gPjeyJ2Qk"
+  },
+  "latency_ms": 3933,
+  "cost_usd": 0.0002
+}

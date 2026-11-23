@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfac Quick\u2011Start Text\u2011Video Editing Guide for Indian Creators  \n\nBelow is a compact, step\u2011by\u2011step workflow plus a curated list of the **most useful tools** (free, low\u2011cost, and professional) that let you",
+  "raw_payload": {
+    "id": "chatcmpl-5d340bb8-ec54-4dfc-b9c7-0e9b4059a957",
+    "object": "chat.completion",
+    "created": 1795376928,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfac Quick\u2011Start Text\u2011Video Editing Guide for Indian Creators  \n\nBelow is a compact, step\u2011by\u2011step workflow plus a curated list of the **most useful tools** (free, low\u2011cost, and professional) that let you",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Provide recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. Provide citations. Use markdown. Provide workflow steps. Possibly include free vs paid, Indian context. Provide URLs. Ensure not to provide disallowed content. It's fine."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15646523,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00526945,
+      "completion_tokens": 150,
+      "completion_time": 0.312018791,
+      "total_tokens": 283,
+      "total_time": 0.317288241,
+      "completion_tokens_details": {
+        "reasoning_tokens": 91
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82cvnkxek3tjpbxd4en4vn1",
+      "seed": 734456120
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2912,
+  "cost_usd": 0.0002
+}

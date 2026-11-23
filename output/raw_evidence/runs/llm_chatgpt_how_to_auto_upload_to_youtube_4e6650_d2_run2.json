@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: we can provide info, no disallowed content. Provide citations with URLs. Provide workflow steps. Provide note about YouTube API and automation, possibly using YouTube Studio, Google APIs, Zapier, IFTTT. Provide best practices. Provide links to official docs. Provide mention of terms of service. Provide safety. Provide step-by-step guide.\n\nWe need to cite authoritative web sources. Use footnotes with URLs. Provide suggestions.\n\nWe should ensure",
+  "raw_payload": {
+    "id": "chatcmpl-a2064a15-2460-4de6-a51b-3bc858196ad4",
+    "object": "chat.completion",
+    "created": 1795376715,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: we can provide info, no disallowed content. Provide citations with URLs. Provide workflow steps. Provide note about YouTube API and automation, possibly using YouTube Studio, Google APIs, Zapier, IFTTT. Provide best practices. Provide links to official docs. Provide mention of terms of service. Provide safety. Provide step-by-step guide.\n\nWe need to cite authoritative web sources. Use footnotes with URLs. Provide suggestions.\n\nWe should ensure"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156614035,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006076505,
+      "completion_tokens": 150,
+      "completion_time": 0.311597014,
+      "total_tokens": 285,
+      "total_time": 0.317673519,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82cn4z2etgbyfxy3e0q2vbw",
+      "seed": 1145179722
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4059,
+  "cost_usd": 0.0002
+}

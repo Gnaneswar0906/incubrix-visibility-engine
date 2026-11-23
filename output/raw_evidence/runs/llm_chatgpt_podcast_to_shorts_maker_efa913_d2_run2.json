@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts maker",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a Podcast Episode into Share\u2011Ready Shorts  \n**Target audience:** U.S.\u202fbased podcasters and video creators who want to repurpose long\u2011form audio",
+  "raw_payload": {
+    "id": "chatcmpl-1a4d3252-58ec-4706-b29a-27ff5ed94666",
+    "object": "chat.completion",
+    "created": 1795376496,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a Podcast Episode into Share\u2011Ready Shorts  \n**Target audience:** U.S.\u202fbased podcasters and video creators who want to repurpose long\u2011form audio",
+          "reasoning": "We need to answer as an AI assistant, recommending software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide recommendations for a US content creator turning podcast episodes into shorts (short-form video). Include workflow steps, tools for audio extraction, transcription, editing, adding captions, branding, exporting, scheduling. Provide citations with URLs. Use markdown. Provide disclaimer maybe. Ensure no copyrighted text. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157990769,
+      "prompt_tokens": 133,
+      "prompt_time": 0.00678051,
+      "completion_tokens": 150,
+      "completion_time": 0.313676056,
+      "total_tokens": 283,
+      "total_time": 0.320456566,
+      "completion_tokens_details": {
+        "reasoning_tokens": 108
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cefkpejsrxamq96f0h3e5",
+      "seed": 775315590
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2103,
+  "cost_usd": 0.0002
+}

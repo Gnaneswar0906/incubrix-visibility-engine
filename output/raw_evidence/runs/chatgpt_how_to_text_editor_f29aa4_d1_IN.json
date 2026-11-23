@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text editor",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nI",
+      "cost_usd": 0.0002,
+      "latency_ms": 2794,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_editor_f29aa4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond to a query from a content creator located in India (IN). The query: \"how to text editor\". Likely they want guidance on text editing for content creation? They also ask to recommend best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, O",
+      "cost_usd": 0.0002,
+      "latency_ms": 2580,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_text_editor_f29aa4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_text_editor_f29aa4_d1_IN.json"
+}

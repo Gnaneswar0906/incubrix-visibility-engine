@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Converting video to text is now a standard part of the content creation workflow, whether you\u2019re making subtitles for accessibility, repurposing long-form content into blog posts, or generating text-based marketing assets.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and industr",
+      "cost_usd": 0.0002,
+      "latency_ms": 9181,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_convert_a_video_into_a_trans_5d86a1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Converting video to text is a cornerstone task for content creators, whether you're generating blog posts from podcasts, creating subtitles for social media, or repurposing long-form content into short clips. The \"best\" tool depends heavily on your specific workflow\u2014do you need raw text, or do you n",
+      "cost_usd": 0.0002,
+      "latency_ms": 27432,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_convert_a_video_into_a_trans_5d86a1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_convert_a_video_into_a_trans_5d86a1_d1_US.json"
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Converting long-form podcast content into short-form vertical videos (for TikTok, Instagram Reels, and YouTube Shorts) is currently one of the most effective strategies for audience growth. Given that you are based in the US, you have access to the full suite of leading AI-driven tools that handle transcription, clipping, and auto-captioning.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and industry-leading options to help you maximize your content distribution.\n\n### Top Recommended Software Tools\n\n#### 1. Opus Clip (Best for AI-Driven Automation)\nOpus Clip is widely regarded as one of the most user-friendly tools for this specific task. It uses AI to analyze your podcast video, identify the most engaging clips,",
+  "raw_payload": {
+    "id": "chatcmpl-de5e1653-47fe-4e75-91d9-735b48264042",
+    "object": "chat.completion",
+    "created": 1795376488,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Converting long-form podcast content into short-form vertical videos (for TikTok, Instagram Reels, and YouTube Shorts) is currently one of the most effective strategies for audience growth. Given that you are based in the US, you have access to the full suite of leading AI-driven tools that handle transcription, clipping, and auto-captioning.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and industry-leading options to help you maximize your content distribution.\n\n### Top Recommended Software Tools\n\n#### 1. Opus Clip (Best for AI-Driven Automation)\nOpus Clip is widely regarded as one of the most user-friendly tools for this specific task. It uses AI to analyze your podcast video, identify the most engaging clips,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.063621121,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005359739,
+      "completion_tokens": 150,
+      "completion_time": 0.312245499,
+      "total_tokens": 226,
+      "total_time": 0.317605238
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82ce7nvetb8x97zhnrchnt3",
+      "seed": 143428323
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1029,
+  "cost_usd": 0.0002
+}

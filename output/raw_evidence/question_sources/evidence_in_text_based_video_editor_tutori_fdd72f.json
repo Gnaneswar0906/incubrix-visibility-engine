@@ -1,0 +1,14 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=in&q=text+based+video+editor+tutorial",
+  "source_type": "YouTube Autocomplete",
+  "market": "IN",
+  "seed": "text based video editor tutorial",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:49:24.739069+00:00",
+  "extracted_count": 1,
+  "suggestions": [
+    "text video editing tutorial"
+  ],
+  "raw_response": "window.google.ac.h([\"text based video editor tutorial\",[[\"text video editing tutorial\",0,[22,30]]],{\"k\":1}])"
+}

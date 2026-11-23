@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai tools",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel in 2024 is one of the most accessible ways to generate passive income in the US, but it requires a streamlined, AI-powered workflow to remain competitive. The key is not just generating content, but assembling it efficiently.\n\nHere is a curated stack of the best software tools, workflow methods, and industry options for launching and scaling a faceless channel.\n\n### 1. The Core AI Tool Stack\n\n#### **Scriptwriting & Research**\n*   **Jasper AI / Copy.ai**: Best for generating engaging hooks, channel descriptions, and full scripts. Jasper\u2019s \u201cLong-Form\u201d mode is particularly useful for YouTube scripts that require a narrative arc.\n*   **Perplexity AI",
+  "raw_payload": {
+    "id": "chatcmpl-7fb1865a-e8b8-4b44-bf7a-17095b606295",
+    "object": "chat.completion",
+    "created": 1795375004,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Building a faceless YouTube channel in 2024 is one of the most accessible ways to generate passive income in the US, but it requires a streamlined, AI-powered workflow to remain competitive. The key is not just generating content, but assembling it efficiently.\n\nHere is a curated stack of the best software tools, workflow methods, and industry options for launching and scaling a faceless channel.\n\n### 1. The Core AI Tool Stack\n\n#### **Scriptwriting & Research**\n*   **Jasper AI / Copy.ai**: Best for generating engaging hooks, channel descriptions, and full scripts. Jasper\u2019s \u201cLong-Form\u201d mode is particularly useful for YouTube scripts that require a narrative arc.\n*   **Perplexity AI"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048771267,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005083443,
+      "completion_tokens": 150,
+      "completion_time": 0.284675439,
+      "total_tokens": 228,
+      "total_time": 0.289758882
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82b0yrqeqzta9a9fyzp0vwr",
+      "seed": 1524410427
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1406,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For a content creator based in the United States looking to automate the YouTube publishing workflow\u2014from video creation to final upload\u2014leveraging the right suite of tools and automation platforms is essential. \n\nBased on current industry standards, authoritative creator ecosystems, and software ca",
+      "cost_usd": 0.0002,
+      "latency_ms": 2327,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_automatically_post_to_youtube_39218b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'automatically post to youtube' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 485
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_automatically_post_to_youtube_39218b_d1_US.json"
+}

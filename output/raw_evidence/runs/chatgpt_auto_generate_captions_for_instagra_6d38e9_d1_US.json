@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "Veed.io"
+      ],
+      "snippet": "The user wants recommendations for auto-generating captions for Instagram, including best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must be helpful, US creator. Provide list, pro",
+      "cost_usd": 0.0002,
+      "latency_ms": 5218,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_6d38e9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Creating auto-generated captions for Instagram is a critical part of modern content workflows, especially for accessibility and engagement. Here\u2019s a breakdown of the best software tools, recommended workflows, and key industry options tailored for a US-based content creator.\n\n### \ud83c\udfc6 Top Software Tool",
+      "cost_usd": 0.0002,
+      "latency_ms": 2914,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_6d38e9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_instagra_6d38e9_d1_US.json"
+}

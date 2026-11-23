@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "is opus better than m4a",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Short answer:**  \nOpus is generally considered the",
+  "raw_payload": {
+    "id": "chatcmpl-88a0b3c4-a439-4123-af14-8221641e5afd",
+    "object": "chat.completion",
+    "created": 1795375769,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Short answer:**  \nOpus is generally considered the",
+          "reasoning": "We need to answer query: \"is opus better than m4a\". Also recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must be for a content creator located in GB. Provide answer. Must follow policy: no disallowed content. Provide citations. We can cite sources like Wikipedia, official docs, etc. Provide balanced view. Also mention legal considerations (e.g., licensing). Provide workflow suggestions. Use proper citations with URLs. Provide a recommendation. Ensure we don't claim medical etc. It's fine.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051185743,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005876396,
+      "completion_tokens": 150,
+      "completion_time": 0.314224349,
+      "total_tokens": 286,
+      "total_time": 0.320100745,
+      "completion_tokens_details": {
+        "reasoning_tokens": 131
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82br9wceesa5gvkbhwvrg96",
+      "seed": 12010793
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2310,
+  "cost_usd": 0.0002
+}

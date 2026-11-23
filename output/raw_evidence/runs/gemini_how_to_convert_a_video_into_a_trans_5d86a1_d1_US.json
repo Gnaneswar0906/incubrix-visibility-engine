@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to convert a video into a transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost SEO, make content accessible, and serve as the raw material for repurposing long-form videos into blogs, newsletters, and social media clips. \n\nHere is a comprehensive guide detailing the b",
+      "cost_usd": 0.0002,
+      "latency_ms": 7721,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_convert_a_video_into_a_trans_5d86a1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Converting a video into a transcript is an essential workflow for US-based content creators. Transcripts boost accessibility, improve SEO for platforms like YouTube and blogs, and make it easy to repurpose long-form video into social media clips, newsletters, and tweets. \n\nHere is a comprehensive gu",
+      "cost_usd": 0.0002,
+      "latency_ms": 8381,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_convert_a_video_into_a_trans_5d86a1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_convert_a_video_into_a_trans_5d86a1_d1_US.json"
+}

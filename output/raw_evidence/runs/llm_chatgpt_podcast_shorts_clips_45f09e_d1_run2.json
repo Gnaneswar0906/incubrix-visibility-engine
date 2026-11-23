@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts clips",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Snackable Shorts  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good",
+  "raw_payload": {
+    "id": "chatcmpl-fc3d2687-a3b2-43ba-abd0-64017536c18c",
+    "object": "chat.completion",
+    "created": 1795375481,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Guide \u2013 Turning Full\u2011Length Podcasts into Snackable Shorts  \n\n| Goal | Recommended Tool(s) | Why It\u2019s a Good",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). They also want citations of authoritative web sources if available. Need to be helpful, mention tools for creating short clips from podcasts, workflow steps, maybe transcription, editing, adding captions, formatting for platforms (YouTube Shorts, Instagram Reels, TikTok). Provide recommendations, pros/cons, pricing, integration. Provide citations with links. Must be safe. No disallowed content. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15840796,
+      "prompt_tokens": 132,
+      "prompt_time": 0.005010299,
+      "completion_tokens": 150,
+      "completion_time": 0.317103742,
+      "total_tokens": 282,
+      "total_time": 0.322114041,
+      "completion_tokens_details": {
+        "reasoning_tokens": 113
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_27194a498a",
+    "x_groq": {
+      "id": "req_01m82bfgcvecrvb75b1dkjjqz7",
+      "seed": 1146727093
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3226,
+  "cost_usd": 0.0002
+}

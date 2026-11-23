@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are likely looking for a balance between high-end professional editing and the rapidly growing need to repurpose long-form content into short-form vertical videos for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe question of **Opus Clip vs. Premiere Pro** is not really an \"either/or\" situation in today\u2019s industry. They serve fundamentally different purposes, and the most efficient workflow often involves using **both** (or similar complementary tools).\n\nHere\u2019s a detailed breakdown, recommended workflows, and key industry options.\n\n### 1. Core Differences: Opus Clip vs. Premiere Pro\n\n| Feature | **Opus Clip** (AI-Powered) | **Adobe Premiere",
+  "raw_payload": {
+    "id": "chatcmpl-e1f7e14b-afd7-4665-9d41-c5b493726c4e",
+    "object": "chat.completion",
+    "created": 1795375777,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are likely looking for a balance between high-end professional editing and the rapidly growing need to repurpose long-form content into short-form vertical videos for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe question of **Opus Clip vs. Premiere Pro** is not really an \"either/or\" situation in today\u2019s industry. They serve fundamentally different purposes, and the most efficient workflow often involves using **both** (or similar complementary tools).\n\nHere\u2019s a detailed breakdown, recommended workflows, and key industry options.\n\n### 1. Core Differences: Opus Clip vs. Premiere Pro\n\n| Feature | **Opus Clip** (AI-Powered) | **Adobe Premiere"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051195805,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005310955,
+      "completion_tokens": 150,
+      "completion_time": 0.284853013,
+      "total_tokens": 228,
+      "total_time": 0.290163968
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82brhkbejmrvbgn1tmddxm7",
+      "seed": 1303347062
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1061,
+  "cost_usd": 0.0002
+}

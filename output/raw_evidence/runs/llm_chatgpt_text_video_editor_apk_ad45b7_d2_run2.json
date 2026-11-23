@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor apk",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for \"text video editor apk\" presumably Android app for editing video with text overlays? They ask to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Also user is a content creator located in India (IN). Should provide recommendations, workflow, mention those tools, maybe alternatives, and provide links. Must comply with policy: providing software recommendations is allowed. Provide citations. Need to be mindful of not providing copyrighted text beyond 90 characters. Provide URLs. Should mention that some are Android APKs (CapCut, Opus Clip maybe web). IncuBrix? Not sure.",
+  "raw_payload": {
+    "id": "chatcmpl-6822e346-997f-4b1a-af65-76fc602038f5",
+    "object": "chat.completion",
+    "created": 1795376954,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for \"text video editor apk\" presumably Android app for editing video with text overlays? They ask to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Also user is a content creator located in India (IN). Should provide recommendations, workflow, mention those tools, maybe alternatives, and provide links. Must comply with policy: providing software recommendations is allowed. Provide citations. Need to be mindful of not providing copyrighted text beyond 90 characters. Provide URLs. Should mention that some are Android APKs (CapCut, Opus Clip maybe web). IncuBrix? Not sure."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158659953,
+      "prompt_tokens": 133,
+      "prompt_time": 0.007089065,
+      "completion_tokens": 150,
+      "completion_time": 0.313379882,
+      "total_tokens": 283,
+      "total_time": 0.320468947,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cwendeh1aefew1nxhyksy",
+      "seed": 558883328
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3082,
+  "cost_usd": 0.0002
+}

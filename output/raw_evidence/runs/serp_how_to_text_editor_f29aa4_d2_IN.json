@@ -1,0 +1,96 @@
+{
+  "query": "how to text editor",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://texteditor.co/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to text editor",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text Editor - Free online text, code, and markdown editor",
+        "link": "https://texteditor.co/",
+        "displayedLink": "https://texteditor.co",
+        "snippet": "Text Editor is a free app for creating, opening, and editing text, Markdown (MD), and code files on your computer and in Google Drive.",
+        "position": 1
+      },
+      {
+        "title": "What I Learned From Building a Text Editor From Scratch | by Brendan",
+        "link": "https://medium.com/@brendandagys_91079/what-i-learned-from-building-a-text-editor-from-scratch-deea53fffc79",
+        "displayedLink": "https://medium.com \u203a @brendandagys_91079 \u203a what-i-learned-from-buildin...",
+        "snippet": "A text editor is a program that is used to create, view, and edit text files. Some examples include NotePad (Windows), TextEdit (Mac), Vim, nano ...",
+        "position": 2
+      },
+      {
+        "title": "Edit text in your image with Canva's Grab Text",
+        "link": "https://www.canva.com/features/edit-text-in-image/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a edit-text-in-image",
+        "snippet": "To edit the text on the picture, select Edit from the toolbar. Go to Tools, click See all, then select Grab Text. Click on the text you want to edit or select ...",
+        "position": 3
+      },
+      {
+        "title": "Writing a Text Editor - Computerphile",
+        "link": "https://www.youtube.com/watch?v=g2hiVp6oPZc",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Writing a text editor can't be that hard can it? Surely just a case of shifting around a bunch of ASCII characters? Dr Steve Bagley is based at\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "Text editor",
+        "link": "https://en.wikipedia.org/wiki/Text_editor",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a Text_editor",
+        "snippet": "A text editor is interactive software that allows a user to edit plain text. Well known text editors include Vim, Emacs and Notepad. Editors like Mousepad, ...",
+        "position": 5
+      },
+      {
+        "title": "Writing my own text editor, and daily-driving it",
+        "link": "https://blog.jsbarretto.com/post/text-editor",
+        "displayedLink": "https://blog.jsbarretto.com \u203a post \u203a text-editor",
+        "snippet": "Implement it in terms of word-wise cursor movement, selection of the range between the start and end position, and then deletion. When you get ...",
+        "date": "10 Mar 2026",
+        "position": 6
+      },
+      {
+        "title": "Text Editor - Google Workspace Marketplace",
+        "link": "https://workspace.google.com/marketplace/app/text_editor/591525900269",
+        "displayedLink": "https://workspace.google.com \u203a marketplace \u203a ... \u203a 591525900269",
+        "snippet": "Text Editor\u2122 is a free app that allows you to create, open, and edit text files on your computer and Google Drive\u2122. All standard text editor ...",
+        "date": "17 Jan 2025",
+        "rating": 3.5,
+        "ratingCount": 1455,
+        "position": 7
+      },
+      {
+        "title": "What is a Text Editor? A complete guide on choosing one",
+        "link": "https://www.ultraedit.com/blog/what-is-a-text-editor-guide/",
+        "displayedLink": "https://www.ultraedit.com \u203a blog \u203a what-is-a-text-editor-guide",
+        "snippet": "A text editor is a type of software used to create and modify plain text files. Think of it as a digital notepad for code, config files, ...",
+        "date": "23 Apr 2026",
+        "position": 8
+      },
+      {
+        "title": "Build Your Own Text Editor",
+        "link": "https://viewsourcecode.org/snaptoken/kilo/",
+        "displayedLink": "https://viewsourcecode.org \u203a snaptoken \u203a kilo",
+        "snippet": "This booklet walks you through building the editor in 184 steps. Each step, you'll add, change, or remove a few lines of code. Most steps, you'll be able to ...",
+        "position": 9
+      },
+      {
+        "title": "Text Editor - an overview | ScienceDirect Topics",
+        "link": "https://www.sciencedirect.com/topics/engineering/text-editor",
+        "displayedLink": "https://www.sciencedirect.com \u203a topics \u203a engineering \u203a text-editor",
+        "snippet": "A text editor is defined as a program that allows users to create or edit program and text files without embedding word formatting characters.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

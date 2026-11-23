@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video sinhala",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Captioning\u202fSinhala\u202fVideos \u2013 Tools, Workflow & Industry Picks  \n\nBelow is a practical \u201ctool\u2011and\u2011",
+      "cost_usd": 0.0002,
+      "latency_ms": 3122,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_si_078f4f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in India, you might be surprised to know that **Sinhala** (the primary language of Sri Lanka) is **not natively supported** by most mainstream AI auto-captioning tools, including the major global platforms.\n\nHowever, there are effective **workarounds and specialized workf",
+      "cost_usd": 0.0002,
+      "latency_ms": 1281,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_si_078f4f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_si_078f4f_d1_IN.json"
+}

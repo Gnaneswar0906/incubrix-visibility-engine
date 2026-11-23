@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to youtube shorts",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant answering a query from a US content creator. Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Should be helpful, detailed. Provide steps: extracting audio, creating short clips, adding captions, vertical format, etc. Mention free vs paid, AI features, integration. Provide workflow: podcast audio -> transcript -> select highlights -> edit -> add visuals -> export vertical 9:16 -> upload to YouTube Shorts.\n\nCite sources: maybe official sites, blogs, articles. Use proper citation style: maybe footnotes",
+  "raw_payload": {
+    "id": "chatcmpl-fe007d40-e590-42fb-948f-5f0d6d7c270f",
+    "object": "chat.completion",
+    "created": 1795374526,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant answering a query from a US content creator. Provide recommendations for software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies. Provide citations with links. Should be helpful, detailed. Provide steps: extracting audio, creating short clips, adding captions, vertical format, etc. Mention free vs paid, AI features, integration. Provide workflow: podcast audio -> transcript -> select highlights -> edit -> add visuals -> export vertical 9:16 -> upload to YouTube Shorts.\n\nCite sources: maybe official sites, blogs, articles. Use proper citation style: maybe footnotes"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318764187,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005068232,
+      "completion_tokens": 150,
+      "completion_time": 0.312462684,
+      "total_tokens": 283,
+      "total_time": 0.317530916,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82ajazvep3ve5q5vg08nmvp",
+      "seed": 1485895768
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2054,
+  "cost_usd": 0.0002
+}

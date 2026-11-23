@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that repurposing long-form podcast episodes into short-form videos (TikToks, Instagram Reels, and YouTube Shorts) is currently one of the most effective organic growth strategies. \n\nBelow is a breakdown of the best **free** (or freemium) AI tools, an efficient workflow method, and an analysis of the key industry options you mentioned, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Pricing (Focusing on Free Tiers)\n\n#### **Opus Clip**\n*   **What it is:** A generative AI video repurposing tool that turns long videos into viral shorts in one click. It uses AI to analyze your podcast, identify the \"hooks\" and most engaging segments, add captions, and format them for vertical video.\n*   **Cost/Free Tier:**",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that repurposing long-form podcast episodes into short-form videos (TikToks, Instagram Reels, and YouTube Shorts) is currently one of the most effective organic growth strategies. \n\nBelow is a breakdown of the best **free** (or freemium) AI tools, an efficient workflow method, and an analysis of the key industry options you mentioned, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Options & Pricing (Focusing on Free Tiers)\n\n#### **Opus Clip**\n*   **What it is:** A generative AI video repurposing tool that turns long videos into viral shorts in one click. It uses AI to analyze your podcast, identify the \"hooks\" and most engaging segments, add captions, and format them for vertical video.\n*   **Cost/Free Tier:**",
+              "thoughtSignature": "Eo4BCosBAWkUfRPKple3X0iQqfkkz+QpXVAKXpnC/DlqE8mdMihdQUkTa2u/mFo3gKFkIaUmrjq+DWvxQFIB7n1xT29WFAeypN9SzLN+op2kr6whIewgZilG8Hh45V1LGV347d6/VObqrtzAtRkuD1fdCxmlq/Dl+k0NCZLENAeU2GhJpbs2+gKbUhu0kPLtdQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "Z0UDa7SRAbi1z7sPi42BkQ4"
+  },
+  "latency_ms": 2141,
+  "cost_usd": 0.0002
+}

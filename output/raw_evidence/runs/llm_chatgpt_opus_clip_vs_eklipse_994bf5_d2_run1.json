@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs eklipse",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) comparing Opus Clip vs Eklipse. Need to answer as AI assistant, presumably providing a comparison between Opus Clip and Eklipse, recommending tools, workflow. Need to cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Should be thorough.\n\nWe need to know what \"Eklipse\" is - likely a video editing/AI tool? Might be \"Eklipse AI\"? Search memory: There's \"Eklipse AI\" for video summarization? Not sure. We'll assume it's a video editing AI platform similar to",
+  "raw_payload": {
+    "id": "chatcmpl-55748a1d-e40c-4925-843a-6da6aceb3012",
+    "object": "chat.completion",
+    "created": 1795376741,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) comparing Opus Clip vs Eklipse. Need to answer as AI assistant, presumably providing a comparison between Opus Clip and Eklipse, recommending tools, workflow. Need to cite authoritative web sources if available. Must comply with policy. Provide citations with URLs. Should be thorough.\n\nWe need to know what \"Eklipse\" is - likely a video editing/AI tool? Might be \"Eklipse AI\"? Search memory: There's \"Eklipse AI\" for video summarization? Not sure. We'll assume it's a video editing AI platform similar to"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317376307,
+      "prompt_tokens": 135,
+      "prompt_time": 0.00505216,
+      "completion_tokens": 150,
+      "completion_time": 0.31503077,
+      "total_tokens": 285,
+      "total_time": 0.32008293,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82cny9re9ssbat008drzhsh",
+      "seed": 150008976
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2741,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Creating a YouTube post (often referred to as a \"Community Post\" or a standard video upload) is a core part of building an audience on the platform. Since you are based in the UK, you may also want to consider specific privacy settings or localisation aspects, but the core workflow remains global.\n\nBelow is a recommended workflow, software stack, and key industry tools to streamline your content creation process.\n\n### 1. Clarify the Type of \"Post\"\nYouTube uses \"post\" in two main ways:\n*   **Video Upload:** The standard long-form or Short video.\n*   **Community Post:** A text, image, poll, or GIF post visible to subscribers (requires 500+ subscribers).",
+  "raw_payload": {
+    "id": "chatcmpl-f740169c-44b6-4ed8-b361-f2758ab23f52",
+    "object": "chat.completion",
+    "created": 1795375645,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Creating a YouTube post (often referred to as a \"Community Post\" or a standard video upload) is a core part of building an audience on the platform. Since you are based in the UK, you may also want to consider specific privacy settings or localisation aspects, but the core workflow remains global.\n\nBelow is a recommended workflow, software stack, and key industry tools to streamline your content creation process.\n\n### 1. Clarify the Type of \"Post\"\nYouTube uses \"post\" in two main ways:\n*   **Video Upload:** The standard long-form or Short video.\n*   **Community Post:** A text, image, poll, or GIF post visible to subscribers (requires 500+ subscribers)."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048135006,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005269093,
+      "completion_tokens": 150,
+      "completion_time": 0.287951986,
+      "total_tokens": 229,
+      "total_time": 0.293221079
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bmgxreh692t9a10s3nam7",
+      "seed": 1782019477
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1821,
+  "cost_usd": 0.0002
+}

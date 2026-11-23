@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs submagic",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Submagic"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: opus clip vs submagic Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs Submagic, recommend best software tools, workflow methods, mention key industry options, and cite sources. Must comply with policy. Provide citations with links. Provide thorough answer.\n\nWe must not violate any policy. It's allowed. Provide citations. Use markdown. Provide a comparison table, discuss use cases, workflow suggestions, mention other tools. Cite sources like product pages,",
+  "raw_payload": {
+    "id": "chatcmpl-40dac2ee-69e0-42a1-9250-60446f140a93",
+    "object": "chat.completion",
+    "created": 1795376741,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: opus clip vs submagic Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to compare Opus Clip vs Submagic, recommend best software tools, workflow methods, mention key industry options, and cite sources. Must comply with policy. Provide citations with links. Provide thorough answer.\n\nWe must not violate any policy. It's allowed. Provide citations. Use markdown. Provide a comparison table, discuss use cases, workflow suggestions, mention other tools. Cite sources like product pages,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156023255,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005110995,
+      "completion_tokens": 150,
+      "completion_time": 0.318333088,
+      "total_tokens": 284,
+      "total_time": 0.323444083,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82cnyaaem49v3yns75fs5p3",
+      "seed": 709858011
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2533,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai reddit",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale or start a **faceless YouTube channel using AI**, leveraging the right software stack and workflow is essential for efficiency, viewer retention, and monetization. \n\nBased on discussions and consensus across Reddit communities like r/NewTubers, r/PartneredYoutube, and r/ArtificialInteligence, building a faceless channel has evolved from a tedious manual process into a streamlined pipeline heavily augmented by generative AI.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a step-by-step workflow tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **All-in-One Automation & Scaling: IncuBrix**\n* **What it is:** IncuBrix is part of a growing ecosystem of all-in-one platforms designed to handle multiple facets of content creation. \n* **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale or start a **faceless YouTube channel using AI**, leveraging the right software stack and workflow is essential for efficiency, viewer retention, and monetization. \n\nBased on discussions and consensus across Reddit communities like r/NewTubers, r/PartneredYoutube, and r/ArtificialInteligence, building a faceless channel has evolved from a tedious manual process into a streamlined pipeline heavily augmented by generative AI.\n\nHere is a comprehensive breakdown of the best software tools, key industry options (including the ones you mentioned), and a step-by-step workflow tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **All-in-One Automation & Scaling: IncuBrix**\n* **What it is:** IncuBrix is part of a growing ecosystem of all-in-one platforms designed to handle multiple facets of content creation. \n* **",
+              "thoughtSignature": "Eo4BCosBAWkUfRNQXodHyaYMkXGV6SJbYKDMDndR3IW8NH0cUOZ1AJRnLo3oEelzyafZy2LEfubawR0aa2AumZFbcM8E+4ttgzbjMMuxNtTQu115e3zI1FZNVhL5BlfT99Sn2K5wxynNRlP++Lgcstbhp/CqZQlZRoh31cYhmfPPOJUb5Iao180ZnVRJz4pr1A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "k0YDa9zxNoSy694P9fmH0Q8"
+  },
+  "latency_ms": 2654,
+  "cost_usd": 0.0002
+}

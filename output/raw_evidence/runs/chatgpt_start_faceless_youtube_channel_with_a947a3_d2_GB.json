@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel in 2024/2025 is a highly viable strategy, particularly for creators in the UK (GB) where the market is saturated with high-quality content but underserved by niche-specific, efficiency-driven automation. The rise of advanced LLMs like ChatGPT and DeepSeek allows f",
+      "cost_usd": 0.0002,
+      "latency_ms": 1720,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_faceless_youtube_channel_with_a947a3_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "We need to answer as an AI assistant, providing recommendations for starting a faceless YouTube channel using AI tools like ChatGPT, DeepSeek. Include software tools, workflow methods, mention industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. M",
+      "cost_usd": 0.0002,
+      "latency_ms": 4193,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_faceless_youtube_channel_with_a947a3_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_start_faceless_youtube_channel_with_a947a3_d2_GB.json"
+}

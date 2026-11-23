@@ -1,0 +1,107 @@
+{
+  "query": "how to download youtube posts",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://tubepilot.ai/tools/youtube-community-post-image-downloader/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "how to download youtube posts",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Youtube Community Post Image Downloader",
+        "link": "https://tubepilot.ai/tools/youtube-community-post-image-downloader/",
+        "displayedLink": "https://tubepilot.ai \u203a tools \u203a youtube-community-post-imag...",
+        "snippet": "Download high-quality images from YouTube community posts easily. This free tool helps you get clear and professional visuals quickly.",
+        "position": 1
+      },
+      {
+        "title": "Download YouTube Community Post In High Quality",
+        "link": "https://www.yt-thumbnail-downloaders.com/communitypost",
+        "displayedLink": "https://www.yt-thumbnail-downloaders.com \u203a communitypost",
+        "snippet": "Download full community posts including text, images, polls, and media from any YouTube channel. 100% Free & Secure. Unlimited downloads with no signup required ...",
+        "position": 2
+      },
+      {
+        "title": "YouTube Community Post Image Downloader",
+        "link": "https://theytcommentfinder.com/yt-community-post-image-downloader",
+        "displayedLink": "https://theytcommentfinder.com \u203a yt-community-post-image-dow...",
+        "snippet": "Use our free tool to view and download images from any YouTube Community Post. Simply paste the post URL to fetch high-quality images instantly. Extract Images.",
+        "position": 3
+      },
+      {
+        "title": "How to Save YouTube Image Posts - Download Community Posts",
+        "link": "https://www.youtube.com/watch?v=WIQPMJDUYR0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "... How to download images from YouTube \u2014 Android and PC ... How to Save YouTube Image Posts - Download Community Posts - Quick and Easy Steps.",
+        "position": 4
+      },
+      {
+        "title": "Download All Images on YouTube",
+        "link": "https://imageyoutube.com/",
+        "displayedLink": "https://imageyoutube.com",
+        "snippet": "Enter the URL: Copy the URL of the YouTube video or channel and paste it into the tool's input field. \u00b7 Select the Image Type: Choose the image type you need to ...",
+        "position": 5
+      },
+      {
+        "title": "YouTube Community Post Image Downloader",
+        "link": "https://www.freethumbnaildownload.com/community",
+        "displayedLink": "https://www.freethumbnaildownload.com \u203a community",
+        "snippet": "No information is available for this page.",
+        "sitelinks": [
+          {
+            "title": "Learn why",
+            "link": "https://support.google.com/webmasters/answer/7489871?hl=en"
+          }
+        ],
+        "position": 6
+      },
+      {
+        "title": "Download Images From YouTube Community Posts",
+        "link": "https://apify.com/lurkapi/youtube-community-posts-scraper/examples/download-images-from-youtube-community-posts",
+        "displayedLink": "https://apify.com \u203a lurkapi \u203a ... \u203a download-images-from-youtub...",
+        "snippet": "How it works \u00b7 Sign up on Apify or log in \u00b7 Start the \"Download Images From YouTube Community Posts\" task \u00b7 Receive the \"Download Images From YouTube Community ...",
+        "position": 7
+      },
+      {
+        "title": "YouTube Post Image Downloader - Thumbnail Grabber",
+        "link": "https://thumbnail-grabber.com/tools/youtube-community-image-downloader",
+        "displayedLink": "https://thumbnail-grabber.com \u203a tools \u203a youtube-community-image-dow...",
+        "snippet": "Download images from any public YouTube post or community post. Paste the post link, preview every picture and save each one in up to 1920px.",
+        "position": 8
+      },
+      {
+        "title": "How to download YouTube Community post images in Android",
+        "link": "https://www.youtube.com/watch?v=BNtchO2mwIU",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to download YouTube Community post images in Android. @MrBalu2258239 likes15K views4 years ago more. Subscribe. Comments.",
+        "position": 9
+      },
+      {
+        "title": "How do I download a full image from a YouTube post?",
+        "link": "https://www.reddit.com/r/youtube/comments/1r24hec/how_do_i_download_a_full_image_from_a_youtube_post/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_do_i_download_a_full_im...",
+        "snippet": "How do I download a full image from a YouTube post? I can view the full image in the mobile app, but everywhere else I only see the cropped version.",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1r24hec/comment/o74izkf/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtube/comments/1r24hec/comment/o84dw6r/"
+          }
+        ],
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

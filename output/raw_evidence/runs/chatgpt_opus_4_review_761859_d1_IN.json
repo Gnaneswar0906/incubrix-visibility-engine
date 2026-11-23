@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus 4 review",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a content creator in India (IN). Provide a review of \"opus 4\". Likely refers to Opus 4 video editing or maybe Opus 4 audio? Could be \"Opus 4\" a software? Actually Opus Clip is a tool. Opus 4 might be a product? Could be \"Opus 4\" as a video editing AI tool? Le",
+      "cost_usd": 0.0002,
+      "latency_ms": 2357,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_4_review_761859_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India (IN). They ask: \"opus 4 review\". They want recommendation of best software tools, workflow methods, mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide a review of Opus 4",
+      "cost_usd": 0.0002,
+      "latency_ms": 1774,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_4_review_761859_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_4_review_761859_d1_IN.json"
+}

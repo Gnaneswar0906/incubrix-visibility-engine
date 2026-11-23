@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast short and curly",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are in a prime position to leverage the current boom in short-form video content. \"Short and curly\" is a great mnemonic for the two dominant formats: **Shorts** (vertical video for YouTube/TikTok/Reels) and **Curly** (a colloquial term often used in editing circles for \"curated,\" \"clipped,\" or highly edited micro-content).\n\nHere is a curated recommendation of the best software tools, workflow methods, and industry options to streamline your podcast-to-short-form pipeline, keeping UK-specific considerations (like VAT, hosting, and audience trends) in mind.\n\n### 1. Top Software Tools for Podcast-to-Shorts\n\n####",
+  "raw_payload": {
+    "id": "chatcmpl-58791fa4-de9c-4837-8d30-c1881d16dbc1",
+    "object": "chat.completion",
+    "created": 1795375460,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are in a prime position to leverage the current boom in short-form video content. \"Short and curly\" is a great mnemonic for the two dominant formats: **Shorts** (vertical video for YouTube/TikTok/Reels) and **Curly** (a colloquial term often used in editing circles for \"curated,\" \"clipped,\" or highly edited micro-content).\n\nHere is a curated recommendation of the best software tools, workflow methods, and industry options to streamline your podcast-to-short-form pipeline, keeping UK-specific considerations (like VAT, hosting, and audience trends) in mind.\n\n### 1. Top Software Tools for Podcast-to-Shorts\n\n####"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.075439462,
+      "prompt_tokens": 76,
+      "prompt_time": 0.005518438,
+      "completion_tokens": 150,
+      "completion_time": 0.306084277,
+      "total_tokens": 226,
+      "total_time": 0.311602715
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bevb4ehbvn859x00m7ach",
+      "seed": 72477089
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1298,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit podcast shorts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator located in **IN (India)**, editing podcast shorts (reels, YouTube shorts, and TikToks) requires a mix of speed, engagement, and localized understanding (such as adding Hinglish captions or regional language",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator located in **IN (India)**, editing podcast shorts (reels, YouTube shorts, and TikToks) requires a mix of speed, engagement, and localized understanding (such as adding Hinglish captions or regional language"
+            },
+            {
+              "text": " support). \n\nHere is a comprehensive guide on the best software tools, a proven workflow, and industry options to help you turn long-form podcast episodes into viral short-form clips.\n\n---\n\n### 1. Best Software & AI Tools for Podcast Shorts\n\nThe market is split between **fully automated AI clippers** (which do the heavy lifting for you) and **manual/semi-automated editors** (which give you creative control). \n\n*   **Opus Clip:** One of the industry standards for automated repurposing. It uses AI to analyze your long-form podcast, identify the most engaging hooks, crop the speaker, and automatically generate captions with virality scores. *(Great for hands-off clipping).*\n*   **CapCut:** The undisputed king of mobile and desktop short-form editing. It features auto-captions, dynamic text templates, background removal, and smart reframing. Its desktop version is robust enough for advanced edits while remaining extremely user",
+              "thoughtSignature": "Eo4BCosBAWkUfRPOd6r1h6BcvPQ9P6nUu9NvAEmCAeiw7UcQtMCTRYIDSHrWPiTFK91de9Eb5t+D3ReDpR8vaX1ze/1+Qp7lsS5ipYRvs2aMYLwFVVT5rzOBwWrT4MRYXXcJOo3M8h2DOh4zz1F6oJrZpQiSg2EdtbZzlHpiQu5OWVb3T7cGC93x/87iBTJ1Nw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 251,
+      "totalTokenCount": 314,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "9z8Da9_2Drz1694P3e2L2A8"
+  },
+  "latency_ms": 6877,
+  "cost_usd": 0.0002
+}

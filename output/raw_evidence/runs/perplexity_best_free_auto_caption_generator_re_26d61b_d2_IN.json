@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "best free auto caption generator reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'best free auto caption generator reddit' in IN, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 326
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'best free auto caption generator reddit' in IN, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 401
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_best_free_auto_caption_generator_re_26d61b_d2_IN.json"
+}

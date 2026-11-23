@@ -1,0 +1,41 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'auto upload youtube shorts' in GB, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 489
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For a content creator based in Great Britain looking to streamline and automate the process of creating and publishing YouTube Shorts, the key lies in combining **AI-driven content repurposing** with **reliable scheduling and auto-upload tools**. \n\nHere is a breakdown of the best software tools, a r",
+      "cost_usd": 0.0002,
+      "latency_ms": 10167,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_youtube_shorts_a8d419_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_youtube_shorts_a8d419_d1_GB.json"
+}

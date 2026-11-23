@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udf99\ufe0f Turning Full\u2011Length Podcasts into Snackable \u201cShorts\u201d  \n**Goal",
+  "raw_payload": {
+    "id": "chatcmpl-a33f5008-0d2f-488e-8427-f322347d1d86",
+    "object": "chat.completion",
+    "created": 1795375078,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udf99\ufe0f Turning Full\u2011Length Podcasts into Snackable \u201cShorts\u201d  \n**Goal",
+          "reasoning": "We need to respond as an AI assistant for a content creator located in India. Provide recommendations for software tools, workflow methods for editing podcast shorts using Premiere Pro, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, detailed, maybe include steps, tips, resources, cost, Indian context, etc. Also must obey policy: no disallowed content. This is fine.\n\nWe need to cite sources, maybe using footnotes or links. Provide best practices. Also mention alternatives for quick shorts.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369357467,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00526491,
+      "completion_tokens": 150,
+      "completion_time": 0.310108353,
+      "total_tokens": 284,
+      "total_time": 0.315373263,
+      "completion_tokens_details": {
+        "reasoning_tokens": 123
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82b3627ea39y9eredx1ydrd",
+      "seed": 1879520482
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3644,
+  "cost_usd": 0.0002
+}

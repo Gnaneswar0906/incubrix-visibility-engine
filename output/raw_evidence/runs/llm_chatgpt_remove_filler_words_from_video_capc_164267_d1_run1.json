@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video capcut",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick answer",
+  "raw_payload": {
+    "id": "chatcmpl-2ab4443f-ee32-4b25-bbd4-8c1cf249599c",
+    "object": "chat.completion",
+    "created": 1795375545,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick answer",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in GB. Query: remove filler words from video capcut Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to answer with recommendations, workflow, mention tools, cite sources. Use UK English maybe. Provide authoritative sources (like official docs, blogs). Provide steps for CapCut and other tools. Provide workflow suggestions. Use bullet points. Cite sources with links.\n\nWe must ensure compliance with policy: no disallowed content. It's fine.\n\nProceed."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370156706,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005587373,
+      "completion_tokens": 150,
+      "completion_time": 0.315010066,
+      "total_tokens": 286,
+      "total_time": 0.320597439,
+      "completion_tokens_details": {
+        "reasoning_tokens": 139
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c868cf1eaa",
+    "x_groq": {
+      "id": "req_01m82bheyhe2tbfyjrbts2xtw7",
+      "seed": 1349189954
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3272,
+  "cost_usd": 0.0002
+}

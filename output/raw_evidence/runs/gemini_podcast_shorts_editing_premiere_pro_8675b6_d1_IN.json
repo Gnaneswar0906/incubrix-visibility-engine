@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts editing premiere pro",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in India, leveraging the right mix of AI automation and professional editing tools is the best way to scale your podcast shorts workflow. Adobe Premiere Pro remains the industry gold standard for manual, high-end finishing, but combining it with AI tools can save yo",
+      "cost_usd": 0.0002,
+      "latency_ms": 2343,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_editing_premiere_pro_8675b6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in India looking to produce high-performing podcast shorts (Reels, YouTube Shorts, and TikToks) using Adobe Premiere Pro alongside specialized AI tools, here is a comprehensive guide to the best software, industry options, and an optimized workflow.\n\n---\n\n### 1. Key Industry Opt",
+      "cost_usd": 0.0002,
+      "latency_ms": 2506,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_shorts_editing_premiere_pro_8675b6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_shorts_editing_premiere_pro_8675b6_d1_IN.json"
+}

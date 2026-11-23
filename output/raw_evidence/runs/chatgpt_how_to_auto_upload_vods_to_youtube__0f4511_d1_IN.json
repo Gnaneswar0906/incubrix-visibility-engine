@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India, automating the transfer of your Twitch VODs to YouTube is a great way to maximize your reach without doubling your editing workload. Since manual downloading and re-uploading can be tedious, here are the best software tools and workflow methods to streamline thi",
+      "cost_usd": 0.0002,
+      "latency_ms": 1711,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_upload_vods_to_youtube__0f4511_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant, presumably following policy. The user wants recommendations for auto uploading VODs from Twitch to YouTube. Provide software tools, workflow, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3677,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_upload_vods_to_youtube__0f4511_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_upload_vods_to_youtube__0f4511_d1_IN.json"
+}

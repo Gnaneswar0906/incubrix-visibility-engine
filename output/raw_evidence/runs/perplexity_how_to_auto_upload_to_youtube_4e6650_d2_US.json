@@ -1,0 +1,37 @@
+{
+  "assistant": "perplexity",
+  "question": "how to auto upload to youtube",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Munch",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to auto upload to youtube' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 476
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'how to auto upload to youtube' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 495
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_to_auto_upload_to_youtube_4e6650_d2_US.json"
+}

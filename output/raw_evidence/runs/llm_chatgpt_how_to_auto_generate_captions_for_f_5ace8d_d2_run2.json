@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto-generating captions for free. They are a content creator located in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies: It's allowed to provide info. Provide citations with URLs. Should not fabricate sources. I need to find known sources: maybe YouTube automatic captions, Google Docs voice typing, Otter.ai free tier, Kapwing, VEED, Clipchamp, etc. Provide workflow: upload video, auto-transcribe, edit, export SRT, embed. Provide free options. Mention that some tools have free tiers with limits. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-6077134a-10f4-4370-bdfd-1c703c546b37",
+    "object": "chat.completion",
+    "created": 1795377037,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto-generating captions for free. They are a content creator located in India (IN). Provide best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policies: It's allowed to provide info. Provide citations with URLs. Should not fabricate sources. I need to find known sources: maybe YouTube automatic captions, Google Docs voice typing, Otter.ai free tier, Kapwing, VEED, Clipchamp, etc. Provide workflow: upload video, auto-transcribe, edit, export SRT, embed. Provide free options. Mention that some tools have free tiers with limits. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36964556,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006165259,
+      "completion_tokens": 150,
+      "completion_time": 0.307248628,
+      "total_tokens": 286,
+      "total_time": 0.313413887,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9241e9962b",
+    "x_groq": {
+      "id": "req_01m82cyz0yenn9jaqkdahv43kp",
+      "seed": 1929786657
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3542,
+  "cost_usd": 0.0002
+}

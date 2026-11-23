@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Auto\u2011Generating Captions for YouTube \u2013 A Practical Guide for Indian Creators**\n\nBelow is a step\u2011by\u2011step workflow you can adopt, plus a curated list of the most popular tools (including the ones",
+  "raw_payload": {
+    "id": "chatcmpl-bf54045d-4726-4775-8b19-71a5f3d5b5ee",
+    "object": "chat.completion",
+    "created": 1795377033,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Auto\u2011Generating Captions for YouTube \u2013 A Practical Guide for Indian Creators**\n\nBelow is a step\u2011by\u2011step workflow you can adopt, plus a curated list of the most popular tools (including the ones",
+          "reasoning": "The user is a content creator in India, wants how to auto generate captions for YouTube. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies. It's allowed to provide info about software and citation. Provide suggestions, steps, workflow. Provide citations with URLs. Provide Indian context maybe. Ensure no disallowed content. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.05345221,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00540143,
+      "completion_tokens": 150,
+      "completion_time": 0.311272619,
+      "total_tokens": 286,
+      "total_time": 0.316674049,
+      "completion_tokens_details": {
+        "reasoning_tokens": 98
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a4be3b0989",
+    "x_groq": {
+      "id": "req_01m82cyvkme7yrnxjjt8dcfmsb",
+      "seed": 246762931
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3782,
+  "cost_usd": 0.0002
+}

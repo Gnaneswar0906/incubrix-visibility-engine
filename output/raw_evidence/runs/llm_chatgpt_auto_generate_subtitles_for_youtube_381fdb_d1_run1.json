@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to automate or streamline the subtitle generation process for YouTube, the landscape has shifted significantly in the last two years. The \"best\" tool often depends on whether you prioritize **speed**, **editing precision**, or **multi-platform repurposing**.\n\nHere\u2019s a curated breakdown of the top software tools, workflow methods, and industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (Best for Precision + Editing)\nDescript is widely regarded as the gold standard for creators who want to edit video by editing text.\n- **Why it\u2019s great**: It transcribes your video automatically with high accuracy. You can edit subtitles by",
+  "raw_payload": {
+    "id": "chatcmpl-035aeaeb-2d9d-4a01-8112-09c0eb635fb0",
+    "object": "chat.completion",
+    "created": 1795374719,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "For a US-based content creator looking to automate or streamline the subtitle generation process for YouTube, the landscape has shifted significantly in the last two years. The \"best\" tool often depends on whether you prioritize **speed**, **editing precision**, or **multi-platform repurposing**.\n\nHere\u2019s a curated breakdown of the top software tools, workflow methods, and industry options, including the specific tools you mentioned.\n\n### \ud83c\udfc6 Top Recommended Software Tools\n\n#### 1. **Descript** (Best for Precision + Editing)\nDescript is widely regarded as the gold standard for creators who want to edit video by editing text.\n- **Why it\u2019s great**: It transcribes your video automatically with high accuracy. You can edit subtitles by"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048550314,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005233506,
+      "completion_tokens": 150,
+      "completion_time": 0.286241554,
+      "total_tokens": 228,
+      "total_time": 0.29147506
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ar7x7ecxv5w8c0mm3vsa7",
+      "seed": 679461379
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1409,
+  "cost_usd": 0.0002
+}

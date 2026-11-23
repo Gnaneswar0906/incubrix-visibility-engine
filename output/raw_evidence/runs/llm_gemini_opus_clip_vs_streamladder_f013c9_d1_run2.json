@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to repurpose long-form video (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, you are comparing two popular automated clipping tools: **Opus Clip** and **Streamladder**. \n\nHere is a comprehensive breakdown of how they compare, the best workflows, and alternative industry options tailored to your needs.\n\n---\n\n### 1. Opus Clip vs. Streamladder: Head-to-Head\n\n#### **Opus Clip**\n*   **What it is:** An AI-powered generative video tool that automatically parses long-form videos, finds the most engaging hooks, trims them, adds captions, and formats them for vertical video.\n*   **Best for:** Creators who want **hands-off AI curation**. Opus Clip evaluates your video for \"viral potential,\" scores the clips, adds emojis, highlights keywords, and even includes a \"seamless",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to repurpose long-form video (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, you are comparing two popular automated clipping tools: **Opus Clip** and **Streamladder**. \n\nHere is a comprehensive breakdown of how they compare, the best workflows, and alternative industry options tailored to your needs.\n\n---\n\n### 1. Opus Clip vs. Streamladder: Head-to-Head\n\n#### **Opus Clip**\n*   **What it is:** An AI-powered generative video tool that automatically parses long-form videos, finds the most engaging hooks, trims them, adds captions, and formats them for vertical video.\n*   **Best for:** Creators who want **hands-off AI curation**. Opus Clip evaluates your video for \"viral potential,\" scores the clips, adds emojis, highlights keywords, and even includes a \"seamless",
+              "thoughtSignature": "Eo4BCosBAWkUfRNqsr21ZujNybHsVcAzwig4dizSmXXEbcFTWtLMewRhfXdcPSgco/NUO9LB5rWSFEd/UbwzEaQNcqCOLE9JYD1WpMJItt+DipTR9Wa5CgdLTR2bPxSRhNFsBS9Gr5A+mvGJolGDERe8ZT2nghh2w+6uR52QoZ4o/rVyINfw33tuw8EYK1kUpg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "t0IDa8irH9edz7sP_NmI2Qs"
+  },
+  "latency_ms": 5700,
+  "cost_usd": 0.0002
+}

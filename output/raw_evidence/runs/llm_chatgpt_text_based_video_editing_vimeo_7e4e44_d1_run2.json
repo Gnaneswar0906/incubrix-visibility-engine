@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing vimeo",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as ChatGPT, providing recommendations for text-based video editing for Vimeo, focusing on content creator in India (IN). Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide steps for workflow: script writing, text overlay, subtitles, etc. Also mention integration with Vimeo (upload, SEO). Provide recommendations for free/paid, OS compatibility. Provide sources: maybe from official sites, reviews like TechRadar, PCMag, etc. Provide citations. Use footnotes or inline links.",
+  "raw_payload": {
+    "id": "chatcmpl-b237220a-811e-4676-9202-2a4891710686",
+    "object": "chat.completion",
+    "created": 1795375126,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as ChatGPT, providing recommendations for text-based video editing for Vimeo, focusing on content creator in India (IN). Include best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide steps for workflow: script writing, text overlay, subtitles, etc. Also mention integration with Vimeo (upload, SEO). Provide recommendations for free/paid, OS compatibility. Provide sources: maybe from official sites, reviews like TechRadar, PCMag, etc. Provide citations. Use footnotes or inline links."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 1.035686527,
+      "prompt_tokens": 135,
+      "prompt_time": 0.02632589,
+      "completion_tokens": 150,
+      "completion_time": 0.314288001,
+      "total_tokens": 285,
+      "total_time": 0.340613891,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82b4mcceha90tgemwyrxdyh",
+      "seed": 271592948
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3712,
+  "cost_usd": 0.0002
+}

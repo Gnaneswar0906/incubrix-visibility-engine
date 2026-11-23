@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=best+ai+caption+generator+for+tiktok",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "best ai caption generator for tiktok",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:49:30.005764Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Max retries exceeded with url: /complete/search?client=youtube&ds=yt&hl=en&gl=us&q=best+ai+caption+generator+for+tiktok (Caused by ConnectTimeoutError(<HTTPSConnection(host='suggestqueries.google.com', port=443) at 0x1fd54a66270>, 'Connection to suggestqueries.google.com timed out. (connect timeout=8)'))\"}"
+}

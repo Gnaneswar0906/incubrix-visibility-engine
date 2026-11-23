@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip or munch",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick Recommendation\u202f\u2014\u202fBest All\u2011Round Tool for Short\u2011Form Video  \n\n| Rank | Tool",
+  "raw_payload": {
+    "id": "chatcmpl-e65e05cc-8b1d-4477-a79f-4248213d35d8",
+    "object": "chat.completion",
+    "created": 1795375771,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Recommendation\u202f\u2014\u202fBest All\u2011Round Tool for Short\u2011Form Video  \n\n| Rank | Tool",
+          "reasoning": "We need to answer as an AI assistant for a content creator in GB (United Kingdom). Provide recommendations for software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy. It's a recommendation question, not disallowed. Provide citations with URLs. Use markdown. Provide workflow steps. Ensure mention of UK-specific considerations (e.g., GDPR, licensing). Provide pros/cons. Provide citations. Use up-to-date info as of knowledge cutoff 2024-06. Provide links."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369239741,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006948638,
+      "completion_tokens": 150,
+      "completion_time": 0.309896397,
+      "total_tokens": 283,
+      "total_time": 0.316845035,
+      "completion_tokens_details": {
+        "reasoning_tokens": 121
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82brapfemn9m1wje880ya64",
+      "seed": 1166308741
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2508,
+  "cost_usd": 0.0002
+}

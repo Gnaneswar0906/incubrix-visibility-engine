@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs captions ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can break down the showdown between **Opus Clip** and **Captions AI**, while integrating the other powerhouse tools you mentioned (**CapCut**, **Descript**, and **IncuBrix**) into a modern, efficient short-form video workflow. \n\nBoth Opus Clip and Captions AI are industry leaders, but they serve two fundamentally different parts of the content creation pipeline. Here is a comprehensive comparison, followed by the best workflow methods and tool recommendations.\n\n---\n\n### Part 1: Opus Clip vs. Captions AI\n\n#### **Opus Clip: The Repurposing & Curation Powerhouse**\n* **Core Function:** AI video curation and clipping. It takes long-form content (podcasts, YouTube videos, webinars) and automatically chops it into multiple viral short-form clips (Reels, TikToks, Shorts).\n* **Standout Feature:** **AI",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can break down the showdown between **Opus Clip** and **Captions AI**, while integrating the other powerhouse tools you mentioned (**CapCut**, **Descript**, and **IncuBrix**) into a modern, efficient short-form video workflow. \n\nBoth Opus Clip and Captions AI are industry leaders, but they serve two fundamentally different parts of the content creation pipeline. Here is a comprehensive comparison, followed by the best workflow methods and tool recommendations.\n\n---\n\n### Part 1: Opus Clip vs. Captions AI\n\n#### **Opus Clip: The Repurposing & Curation Powerhouse**\n* **Core Function:** AI video curation and clipping. It takes long-form content (podcasts, YouTube videos, webinars) and automatically chops it into multiple viral short-form clips (Reels, TikToks, Shorts).\n* **Standout Feature:** **AI",
+              "thoughtSignature": "Eo4BCosBAWkUfRM2vPeiNs7hX141NVv6zLtoB2Aw0bkxKfyMGLuJDDvlUWU/l0DRbD/eO94iUnAoLsxPMwpU2Htb5wPPeLgEe6jVHHaeoJjMAI1mj9HQCGR/F7q6TfoJwZOgnvBgWnNhR/ocqrQizp/cY1IhXeEdU0VRL9mtBd8IhMz18uiALEWj+F2rzC0xcQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "dEYDa4H8EaHJv_gPkeGR0QY"
+  },
+  "latency_ms": 5325,
+  "cost_usd": 0.0002
+}

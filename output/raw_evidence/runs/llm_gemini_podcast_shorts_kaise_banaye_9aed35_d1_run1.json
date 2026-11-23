@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts kaise banaye",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hey there! As a content creator in the US looking to scale your podcast using short-form video (Reels, TikTok, YouTube Shorts), you are in the right place. Repurposing long-form audio/video into viral shorts is one of the highest-ROI strategies today. \n\nHere is a complete guide on **how to create podcast shorts**, featuring the best software tools, a proven workflow, and industry standards to make your content pop.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on whether you want an automated AI workflow or hands-on manual control, here are the top tools available for US-based creators:\n\n*   **Opus Clip (Industry Leader for AI Clipping):** \n    *   *What it does:* An AI-powered video repurposing tool that takes a long-form podcast URL (like YouTube) or an uploaded file, analyzes it, and automatically cuts it into 10+",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hey there! As a content creator in the US looking to scale your podcast using short-form video (Reels, TikTok, YouTube Shorts), you are in the right place. Repurposing long-form audio/video into viral shorts is one of the highest-ROI strategies today. \n\nHere is a complete guide on **how to create podcast shorts**, featuring the best software tools, a proven workflow, and industry standards to make your content pop.\n\n---\n\n### 1. Best Software Tools & Industry Options\n\nDepending on whether you want an automated AI workflow or hands-on manual control, here are the top tools available for US-based creators:\n\n*   **Opus Clip (Industry Leader for AI Clipping):** \n    *   *What it does:* An AI-powered video repurposing tool that takes a long-form podcast URL (like YouTube) or an uploaded file, analyzes it, and automatically cuts it into 10+",
+              "thoughtSignature": "Eo4BCosBAWkUfROwnQ+jsKRuR2bSKcsALaehpjuqz/OPyVfJUnDMWzXnC62nFa3DsBJjQ6SjJ1rdHIXyit5xJaD2Q0p1AflAQ6tQ+Kn76uvqyGyl/V29i36R+n/J+KLH4gYL+uQRL/slHzLNvPTETXCBYymN+7uup2JvZDMpYk8mEXbHtk11qjfBWGYrW7GAKQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zz0Da6noA6uVz7sPr9yKiAY"
+  },
+  "latency_ms": 3660,
+  "cost_usd": 0.0002
+}

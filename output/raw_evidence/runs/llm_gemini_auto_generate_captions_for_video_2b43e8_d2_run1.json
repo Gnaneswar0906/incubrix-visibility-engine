@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For content creators in the US looking to streamline their post-production, auto-generating video captions is one of the highest-return investments of time. AI-driven transcription and captioning tools not only save hours of manual typing but also boost viewer retention\u2014crucial given that up to 85% of social media videos are watched on mute (according to industry studies by platforms like Facebook and Verizon).\n\nBelow is a comprehensive guide covering the best software tools, key industry options (including your specified tools), and an efficient workflow method tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the creator economy\u2014from short-form viral clips to long-form podcast editing.\n\n*   **CapCut**\n    *   *Best For:* Short-form content (TikTok, Reels, YouTube Shorts) and free/accessible mobile and desktop editing.\n    *   *Features:* Offers exceptionally",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For content creators in the US looking to streamline their post-production, auto-generating video captions is one of the highest-return investments of time. AI-driven transcription and captioning tools not only save hours of manual typing but also boost viewer retention\u2014crucial given that up to 85% of social media videos are watched on mute (according to industry studies by platforms like Facebook and Verizon).\n\nBelow is a comprehensive guide covering the best software tools, key industry options (including your specified tools), and an efficient workflow method tailored for US-based creators.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nDifferent tools serve different niches in the creator economy\u2014from short-form viral clips to long-form podcast editing.\n\n*   **CapCut**\n    *   *Best For:* Short-form content (TikTok, Reels, YouTube Shorts) and free/accessible mobile and desktop editing.\n    *   *Features:* Offers exceptionally",
+              "thoughtSignature": "Eo4BCosBAWkUfROg4t+eT7zle24oFueHzaZHjyzajYLDwsUop3g0rqR4RREL6wSWyo6+o0dBerhVEhBynsRZWdCV6vSIqQ9r/UB2LIyU1VaTVgCr3aDpza0B1+smftIeHLxBfAIczmt+ka2nUlyIT/xw5Sv3JRRwPGPiuDH1Wf15GZ1YaYDN0EhbN6sk1TB/uw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zkUDa830C5qyz7sPwq6s8Qw"
+  },
+  "latency_ms": 2558,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,52 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "**Opus\u202fClip vs\u202fCapCut \u2013 What Redditors Are Saying (and What Works Best for a Creator in India)**  \n\n| Feature | **Opus\u202fClip** | **CapCut** | Typical Reddit sentiment* |\n|---------|--------------|-----------|---------------------------|\n| **Core",
+  "raw_payload": {
+    "id": "chatcmpl-e37017f0-3012-49c9-a5e7-e87eaea15962",
+    "object": "chat.completion",
+    "created": 1795375324,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Opus\u202fClip vs\u202fCapCut \u2013 What Redditors Are Saying (and What Works Best for a Creator in India)**  \n\n| Feature | **Opus\u202fClip** | **CapCut** | Typical Reddit sentiment* |\n|---------|--------------|-----------|---------------------------|\n| **Core",
+          "reasoning": "The user wants answer: recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide info on Opus Clip vs CapCut from Reddit perspective. Provide citations. Must comply with policy. Provide authoritative sources. Should mention Indian context maybe. Provide workflow. Use citations with URLs. Ensure no disallowed content. Provide recommendations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317731928,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005277831,
+      "completion_tokens": 150,
+      "completion_time": 0.311031411,
+      "total_tokens": 285,
+      "total_time": 0.316309242,
+      "completion_tokens_details": {
+        "reasoning_tokens": 82
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82bapz8e6j8cbhvgck1yjcb",
+      "seed": 475149967
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1938,
+  "cost_usd": 0.0002
+}

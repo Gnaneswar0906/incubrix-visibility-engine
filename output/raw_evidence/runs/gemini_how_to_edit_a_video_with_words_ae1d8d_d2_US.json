@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As a content creator in the US looking to edit video using text\u2014often referred to as **text-based video editing**\u2014you have access to some of the most advanced AI-powered tools on the market. This workflow allows you to cut, delete, and rearrange video clips simply by editing a text transcript, much ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1971,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_a_video_with_words_ae1d8d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As a content creator in the U.S., editing videos using text (often called **text-based video editing** or **transcript-based editing**) is one of the most efficient ways to produce content for YouTube, TikTok, Reels, and podcasts. Instead of scrubbing through a timeline and trimming clips manually, ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2242,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_how_to_edit_a_video_with_words_ae1d8d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_edit_a_video_with_words_ae1d8d_d2_US.json"
+}

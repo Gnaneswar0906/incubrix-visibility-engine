@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in India, you're in a great position to leverage AI-driven automation to scale your production. Auto-generating captions is no longer just a \"nice-to-have\" for accessibility; it\u2019s a critical component for retention, SEO, and reaching non-native English speaking audiences ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1591,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_y_6ac4b4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant. The user is a content creator in India. They ask: \"how to auto generate captions for youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if",
+      "cost_usd": 0.0002,
+      "latency_ms": 4204,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_auto_generate_captions_for_y_6ac4b4_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_auto_generate_captions_for_y_6ac4b4_d1_IN.json"
+}

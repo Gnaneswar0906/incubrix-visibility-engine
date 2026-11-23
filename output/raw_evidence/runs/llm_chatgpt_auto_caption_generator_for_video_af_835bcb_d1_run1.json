@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video after effects",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be from authoritative web sources. Provide recommendations for auto caption generator for video after effects. Likely use Adobe After Effects with plugins or external tools that generate captions and import. Tools: Adobe Sensei, Auto-Subtitle plugins, Captioning services like Rev, Temi, Trint, Kapwing, Veed.io, etc. Also mention AI tools: Opus Clip (auto summarization), Descript (transcription and captioning), CapCut (auto subtitles), IncuBrix (maybe a tool for captioning?). Provide workflow: export",
+  "raw_payload": {
+    "id": "chatcmpl-1fdeefaf-cd61-4b69-9c89-87f8193826c2",
+    "object": "chat.completion",
+    "created": 1795375190,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must be from authoritative web sources. Provide recommendations for auto caption generator for video after effects. Likely use Adobe After Effects with plugins or external tools that generate captions and import. Tools: Adobe Sensei, Auto-Subtitle plugins, Captioning services like Rev, Temi, Trint, Kapwing, Veed.io, etc. Also mention AI tools: Opus Clip (auto summarization), Descript (transcription and captioning), CapCut (auto subtitles), IncuBrix (maybe a tool for captioning?). Provide workflow: export"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157018737,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005541493,
+      "completion_tokens": 150,
+      "completion_time": 0.309884221,
+      "total_tokens": 286,
+      "total_time": 0.315425714,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82b6kk1e8svxrep38wvyw1a",
+      "seed": 1805391778
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2665,
+  "cost_usd": 0.0002
+}

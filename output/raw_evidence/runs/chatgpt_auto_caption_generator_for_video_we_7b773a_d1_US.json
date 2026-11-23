@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re looking for ways to streamline the production of auto-generated captions for your video content. Captions are crucial for accessibility, SEO, and viewer engagement (especially in short-form content where many users watch on mute).\n\nBelow is a curated rec",
+      "cost_usd": 0.0002,
+      "latency_ms": 7631,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_we_7b773a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re likely looking for tools that balance speed, accuracy, and ease of integration into your existing workflow. \"Auto captioning\" has evolved significantly, moving from simple text overlays to full transcription, translation, and even repurposing.\n\nHere\u2019s a ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1776,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_we_7b773a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_we_7b773a_d1_US.json"
+}

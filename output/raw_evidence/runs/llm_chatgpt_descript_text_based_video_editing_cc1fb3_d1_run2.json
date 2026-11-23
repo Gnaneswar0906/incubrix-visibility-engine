@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "descript text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: descript text based video editing Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations, workflow methods, mention key industry options including those listed. Provide citations with URLs. Should be helpful for a content creator in India (IN). Provide details about text-based video editing (like using transcripts to edit). Provide best software tools, workflow steps, maybe integration with other tools, pricing, language support, etc. Provide citations from authoritative sources (e.g., official websites,",
+  "raw_payload": {
+    "id": "chatcmpl-e8b948b3-bd5b-4ade-9e14-c31a223920fe",
+    "object": "chat.completion",
+    "created": 1795375184,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: descript text based video editing Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations, workflow methods, mention key industry options including those listed. Provide citations with URLs. Should be helpful for a content creator in India (IN). Provide details about text-based video editing (like using transcripts to edit). Provide best software tools, workflow steps, maybe integration with other tools, pricing, language support, etc. Provide citations from authoritative sources (e.g., official websites,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368638462,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005025505,
+      "completion_tokens": 150,
+      "completion_time": 0.314459962,
+      "total_tokens": 284,
+      "total_time": 0.319485467,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82b6dpnet7t0kwksx9sgcdg",
+      "seed": 1717531478
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2733,
+  "cost_usd": 0.0002
+}

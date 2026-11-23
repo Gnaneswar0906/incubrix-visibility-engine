@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts editing in capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to turn long-form podcast episodes into engaging short-form content (Reels, TikToks, YouTube Shorts), you have access to some of the most powerful AI-driven and traditional editing tools on the market. \n\nHere is a comprehensive guide to podcast shorts editing, focusing on CapCut, alongside other industry leaders like **Opus Clip, Descript,** and **IncuBrix**, complete with recommended workflows and software comparisons.\n\n---\n\n### 1. Industry Software Options & Where They Fit\n\nTo build an efficient podcast shorts pipeline, it helps to understand what each major tool does best:\n\n*   **CapCut (Desktop & Mobile):** *The King of Manual & Trendy Styling.* CapCut is globally popular for its precise timeline control, massive library of auto-captions, dynamic text animations, and trending visual effects. While it has AI features (like auto-reframe and auto-captions",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to turn long-form podcast episodes into engaging short-form content (Reels, TikToks, YouTube Shorts), you have access to some of the most powerful AI-driven and traditional editing tools on the market. \n\nHere is a comprehensive guide to podcast shorts editing, focusing on CapCut, alongside other industry leaders like **Opus Clip, Descript,** and **IncuBrix**, complete with recommended workflows and software comparisons.\n\n---\n\n### 1. Industry Software Options & Where They Fit\n\nTo build an efficient podcast shorts pipeline, it helps to understand what each major tool does best:\n\n*   **CapCut (Desktop & Mobile):** *The King of Manual & Trendy Styling.* CapCut is globally popular for its precise timeline control, massive library of auto-captions, dynamic text animations, and trending visual effects. While it has AI features (like auto-reframe and auto-captions",
+              "thoughtSignature": "Eo4BCosBAWkUfRMQn/v8XJ6hVDmDXXHbPrLSaQWtV9j7qIuv7OLAAwsbiPByaELSCPla5MhUfb9nRpvp85/lgMuCiLKMKWYaze37bwvb8i8SlZpvHqLZQGhsPKizFCtxWM1TPaX+tUWa5oFwZFzD5Giw4P9crlaRnkyxapYLUKRK1UClhC9fAX5p8/IyXhe+mA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "1T0Da8bIOq7Lv_gP89SA-A4"
+  },
+  "latency_ms": 2242,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free ai",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto generate captions for video free AI. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a helpful answer. Provide a list of software tools that can auto generate captions for free, mention workflow methods, and mention key industry options. Cite authoritative web sources.\n\nWe should provide references like Wikipedia, TechCrunch, or official websites. Also maybe mention that free tier limitations exist. Provide workflow suggestions: upload video, auto caption, edit, export, sync. Provide best tools: YouTube auto captions (free), Kapwing, Otter.ai free tier, Des",
+  "raw_payload": {
+    "id": "chatcmpl-dd6f0842-d28c-49ad-b32d-90d9ab85f52e",
+    "object": "chat.completion",
+    "created": 1795377404,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto generate captions for video free AI. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to produce a helpful answer. Provide a list of software tools that can auto generate captions for free, mention workflow methods, and mention key industry options. Cite authoritative web sources.\n\nWe should provide references like Wikipedia, TechCrunch, or official websites. Also maybe mention that free tier limitations exist. Provide workflow suggestions: upload video, auto caption, edit, export, sync. Provide best tools: YouTube auto captions (free), Kapwing, Otter.ai free tier, Des"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367701884,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007688675,
+      "completion_tokens": 150,
+      "completion_time": 0.155064095,
+      "total_tokens": 286,
+      "total_time": 0.16275277,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5979a0e1b7",
+    "x_groq": {
+      "id": "req_01m82da5r3efra9p60azc7s8br",
+      "seed": 253051638
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4834,
+  "cost_usd": 0.0002
+}

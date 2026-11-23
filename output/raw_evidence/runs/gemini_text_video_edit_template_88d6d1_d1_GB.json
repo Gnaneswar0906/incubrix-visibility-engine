@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "text video edit template",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "For a content creator based in the UK (GB) looking to leverage text-to-video editing templates and automated workflows, the current creator economy ecosystem relies heavily on AI-driven text-based editing, automated repurposing, and template-heavy platforms. \n\nHere is a comprehensive breakdown of th",
+      "cost_usd": 0.0002,
+      "latency_ms": 6475,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_edit_template_88d6d1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "As a content creator based in Great Britain, leveraging AI-powered text-based video editing templates and automated repurposing tools can dramatically streamline your workflow, especially if you are producing content for platforms like TikTok, Instagram Reels, YouTube Shorts, or long-form YouTube vi",
+      "cost_usd": 0.0002,
+      "latency_ms": 5443,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_edit_template_88d6d1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_video_edit_template_88d6d1_d1_GB.json"
+}

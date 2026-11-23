@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video malayalam",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for auto caption generator for video Malayalam. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy: providing info is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide citations with links. Provide suggestions for Malayalam language support.\n\nWe can mention tools: YouTube automatic captions, Google\u2019s Speech-to-Text API, Rev.com, Kapwing, VEED, Zubtitle, Subtitle Edit, etc. Also mention open-source like Aegisub, FFmpeg.\n\nWorkflow: upload video, generate",
+  "raw_payload": {
+    "id": "chatcmpl-c5023069-21e2-4e8e-a167-77968143ac3e",
+    "object": "chat.completion",
+    "created": 1795376984,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for auto caption generator for video Malayalam. They are a content creator in India (IN). Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe must comply with policy: providing info is allowed. Need to ensure no copyrighted text beyond short excerpt. Provide citations with links. Provide suggestions for Malayalam language support.\n\nWe can mention tools: YouTube automatic captions, Google\u2019s Speech-to-Text API, Rev.com, Kapwing, VEED, Zubtitle, Subtitle Edit, etc. Also mention open-source like Aegisub, FFmpeg.\n\nWorkflow: upload video, generate"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158071261,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005769199,
+      "completion_tokens": 150,
+      "completion_time": 0.311346121,
+      "total_tokens": 287,
+      "total_time": 0.31711532,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82cxc6jebd8xwf1kcpztkj4",
+      "seed": 474626590
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2467,
+  "cost_usd": 0.0002
+}

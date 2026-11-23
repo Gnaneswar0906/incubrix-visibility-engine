@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations from authoritative sources if available. The user is a content creator in US. They ask: \"faceless youtube channel ai shorts\". So they want to produce AI",
+      "cost_usd": 0.0002,
+      "latency_ms": 4161,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_shorts_28da69_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Creating a successful faceless YouTube Shorts channel using AI in 2024\u20132025 is highly viable, but success depends less on \"one magic tool\" and more on a **streamlined, repeatable workflow**. Below is a curated guide to the best software tools, proven workflow methods, and key industry options, tailo",
+      "cost_usd": 0.0002,
+      "latency_ms": 1080,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_shorts_28da69_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_shorts_28da69_d2_US.json"
+}

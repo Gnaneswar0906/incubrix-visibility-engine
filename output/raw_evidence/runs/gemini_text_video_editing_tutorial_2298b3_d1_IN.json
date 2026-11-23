@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "text video editing tutorial",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hello! As a content creator in India (IN) looking to dive into text-based video editing\u2014where you edit videos simply by editing transcripts",
+      "cost_usd": 0.0002,
+      "latency_ms": 3075,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_editing_tutorial_2298b3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As a content creator in India (IN) looking to dive into text-based video editing, you are tapping into one of the fastest-growing trends in digital media. Text-based video editing allows you to edit your videos simply by editing a text transcript\u2014deleting a paragraph of text automatically cuts the c",
+      "cost_usd": 0.0002,
+      "latency_ms": 5696,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_video_editing_tutorial_2298b3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_video_editing_tutorial_2298b3_d1_IN.json"
+}

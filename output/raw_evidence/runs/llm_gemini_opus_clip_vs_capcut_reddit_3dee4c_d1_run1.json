@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator based in **India (IN)**, navigating the landscape of AI-driven video repurposing can be overwhelming. When looking at real-world creator sentiment\u2014specifically discussions on platforms like **Reddit (r/NewTubers, r/VideoEditing, r/ContentCreators)**\u2014creators frequently weigh **Opus Clip** against **CapCut**. \n\nHere is a comprehensive breakdown comparing Opus Clip and CapCut, along with workflow methods, industry alternatives (including Descript and IncuBrix), and considerations tailored for creators in India.\n\n---\n\n### 1. Reddit Consensus: Opus Clip vs. CapCut\n\nBased on numerous Reddit threads discussing short-form repurposing tools, the community generally divides these tools by their primary strengths:\n\n*   **Opus Clip (The \"Hands-Off\" AI Autopilot):** \n    *   *Reddit Sentiment:* Creators praise Opus Clip for its ability to take a",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator based in **India (IN)**, navigating the landscape of AI-driven video repurposing can be overwhelming. When looking at real-world creator sentiment\u2014specifically discussions on platforms like **Reddit (r/NewTubers, r/VideoEditing, r/ContentCreators)**\u2014creators frequently weigh **Opus Clip** against **CapCut**. \n\nHere is a comprehensive breakdown comparing Opus Clip and CapCut, along with workflow methods, industry alternatives (including Descript and IncuBrix), and considerations tailored for creators in India.\n\n---\n\n### 1. Reddit Consensus: Opus Clip vs. CapCut\n\nBased on numerous Reddit threads discussing short-form repurposing tools, the community generally divides these tools by their primary strengths:\n\n*   **Opus Clip (The \"Hands-Off\" AI Autopilot):** \n    *   *Reddit Sentiment:* Creators praise Opus Clip for its ability to take a",
+              "thoughtSignature": "Eo4BCosBAWkUfRO6XGEmh2cfeaJd+nipfiBpkExBFRPp7nQUu634H26tyI6Gy0kZoZ6dQv3eWK/kTnxh/PS4y4e0RbzaFcbI7l9JZCNDg4sgN8oFbHnV3GPjO1+/Uc8vremh+21gFjxixsyNmCf0L4+2bHO3N/GPtVDmtgbu6ZsacU4RY/CmnvMPh1RPlZ0kCg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "30ADa5emLIbQz7sPmrfC2Qo"
+  },
+  "latency_ms": 2153,
+  "cost_usd": 0.0002
+}

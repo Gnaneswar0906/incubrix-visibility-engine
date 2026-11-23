@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts maker free",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant catering to a content creator in Great Britain (GB), I understand the need to maximize output while minimizing costs\u2014",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant catering to a content creator in Great Britain (GB), I understand the need to maximize output while minimizing costs\u2014"
+            },
+            {
+              "text": "especially given the currency conversion challenges and VAT considerations of using US-centric software. \n\nHere is a comprehensive guide to the best **free podcast shorts makers**, recommended software tools, efficient workflows, and key industry options available to you.\n\n---\n\n### 1. Key Industry Options & Free Tiers\n\nWhen looking for tools to turn long-form podcast audio or video into viral vertical shorts (TikTok, YouTube Shorts, Instagram Reels), the market is divided into AI-automation tools and traditional manual editors.\n\n*   **Opus Clip (Industry Standard for AI Repurposing):** \n    *   *What it is:* A generative AI video tool that automatically curates the best hooks from a long podcast, adds captions, and reframes the video to 9:16.\n    *   *Free Option:* Opus Clip offers a free trial/tier that gives creators a set number of processing minutes per month (typically around 60 minutes of upload time). ",
+              "thoughtSignature": "Eo4BCosBAWkUfROvDmWb1xunn0FXIQqwZ7MaIVNvIT3DQixca8MeN3YNKCHCeWExrfqJZy66oa+yJUpQRP4h+FdDlug6RDpiNNAN6FVqZ6zcc6agRb7E/b95c5YBt9TN/1j+70V/FL19o4uzmRKXhpoIV6qkeQWv5iLNaStUmOkEAaZAWnJhsPsvlU5feIPSJw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 226,
+      "totalTokenCount": 288,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "lkEDa4KEKq7Lv_gP89SA-A4"
+  },
+  "latency_ms": 2697,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video capcut",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are in a great position to leverage several powerful tools for auto-captioning. Since you specifically mentioned **CapCut**, I\u2019ll start there but also provide a broader ecosystem of tools that can enhance your workflow, including those you mentioned (IncuBrix, Opus Clip, Descript) and other industry standards.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options for auto-caption generation in video.\n\n### \ud83c\udfc6 Top Recommendation: CapCut (For Your Specific Query)\n\n**CapCut** is currently one of the most popular and user-friendly tools for video editing with robust auto-captioning features.\n\n- **Why it\u2019s great:**\n",
+  "raw_payload": {
+    "id": "chatcmpl-0a14682b-6f21-44ca-9201-aa79a91fb9dc",
+    "object": "chat.completion",
+    "created": 1795376626,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are in a great position to leverage several powerful tools for auto-captioning. Since you specifically mentioned **CapCut**, I\u2019ll start there but also provide a broader ecosystem of tools that can enhance your workflow, including those you mentioned (IncuBrix, Opus Clip, Descript) and other industry standards.\n\nHere\u2019s a breakdown of the best software tools, workflow methods, and key industry options for auto-caption generation in video.\n\n### \ud83c\udfc6 Top Recommendation: CapCut (For Your Specific Query)\n\n**CapCut** is currently one of the most popular and user-friendly tools for video editing with robust auto-captioning features.\n\n- **Why it\u2019s great:**\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048169774,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005168186,
+      "completion_tokens": 150,
+      "completion_time": 0.285335108,
+      "total_tokens": 229,
+      "total_time": 0.290503294
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82cje82esqs3qh6d6krnykq",
+      "seed": 1182193955
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1208,
+  "cost_usd": 0.0002
+}

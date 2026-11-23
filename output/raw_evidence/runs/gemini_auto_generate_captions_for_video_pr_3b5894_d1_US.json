@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your workflow for video premieres in Adobe Premiere Pro, leveraging AI for captioning is a game-changer. Manual transcription is a thing of the past; today\u2019s AI tools can generate, style, and burn-in captions in a fraction of the time. \n\nHere is a",
+      "cost_usd": 0.0002,
+      "latency_ms": 5857,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_pr_3b5894_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US looking to streamline your video editing workflow, auto-generating captions for a YouTube Premiere, TikTok, or Instagram Reel is one of the highest-return tasks you can automate. \n\nBelow is a comprehensive guide covering the best software tools, workflow methods, and k",
+      "cost_usd": 0.0002,
+      "latency_ms": 2473,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_pr_3b5894_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_pr_3b5894_d1_US.json"
+}

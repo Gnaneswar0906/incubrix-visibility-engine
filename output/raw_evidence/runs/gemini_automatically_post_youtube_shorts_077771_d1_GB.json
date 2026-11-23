@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "automatically post youtube shorts",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the UK (GB) looking to streamline your channel growth, automating the creation and posting of YouTube Shorts is one of the most effective ways to build consistency. Automation generally involves three phases: **AI Repurposing/Editing**, **Captioning/Polishing**, and **Automat",
+      "cost_usd": 0.0002,
+      "latency_ms": 11068,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_automatically_post_youtube_shorts_077771_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in Great Britain looking to **automatically post YouTube Shorts**, you need a streamlined stack that handles AI-assisted repurposing, rapid editing, and automated scheduling. Because the YouTube API and platform policies prioritize genuine creator engagement, \"full automation\" u",
+      "cost_usd": 0.0002,
+      "latency_ms": 3068,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_automatically_post_youtube_shorts_077771_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_automatically_post_youtube_shorts_077771_d1_GB.json"
+}

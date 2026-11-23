@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "edit video using transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (editing video by editing a transcript) has become the gold standard for streamlining content creation, particularly for talking-head videos, podcasts, tutorials, and short-form clips. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow to get you started.\n\n---\n\n### 1. Key Industry Options & Tools\n\nThe market for transcript-based video editing tools generally splits into two categories: **All-in-one AI Editors** (best for deep editing and repurposing) and **Quick/Social-First Editors** (best for automated captions and trending templates).\n\n*   **Descript (The Gold Standard for Deep Editing):**\n    *   *What it does:* Descript pioneered the \"edit video like a text document\" workflow. It transcribes your video, and deleting",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I can confirm that **text-based video editing** (editing video by editing a transcript) has become the gold standard for streamlining content creation, particularly for talking-head videos, podcasts, tutorials, and short-form clips. \n\nHere is a comprehensive guide to the best software tools, key industry options, and an optimized workflow to get you started.\n\n---\n\n### 1. Key Industry Options & Tools\n\nThe market for transcript-based video editing tools generally splits into two categories: **All-in-one AI Editors** (best for deep editing and repurposing) and **Quick/Social-First Editors** (best for automated captions and trending templates).\n\n*   **Descript (The Gold Standard for Deep Editing):**\n    *   *What it does:* Descript pioneered the \"edit video like a text document\" workflow. It transcribes your video, and deleting",
+              "thoughtSignature": "Eo4BCosBAWkUfRP73sd280lC13oivZ/jBRgpUlF+vEhZbBCAH3HSqhfv1EwRAj1nFw5O1GmeI8e3bMR35eW9uFFc/DBMmXCxP9q8g4yM7Ups8IG8uCcc4bg3RYC32CY3FSqAYhZfGXZwBpDS6fMvFGvhV1sFLPlfdPK5OfVBmV1EN+Qc0c5UgiDruwODe/hUrw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "kkUDa8TGOauVz7sPr9yKiAY"
+  },
+  "latency_ms": 2643,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video inshot",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, finding the right auto-caption tool is crucial for maximizing engagement, especially since most viewers watch videos on mute initially. Since you specifically mentioned **InShot**, it\u2019s important to clarify that while InShot has basic text tools, it is **not** a primary auto-caption generator for long-form or high-accuracy video editing. It\u2019s best used for short-form social media clips (Reels, TikTok, Shorts) with simple manual or limited auto-text features.\n\nFor robust, accurate, and scalable auto-captioning, here are the best software tools, workflow methods, and industry options, tailored for US-based creators:\n\n### \ud83c\udfc6 Top Recommended Auto-Caption Tools\n\n#### 1. **",
+  "raw_payload": {
+    "id": "chatcmpl-b40667c4-fed9-4015-9a98-bcba44e42b4e",
+    "object": "chat.completion",
+    "created": 1795374769,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, finding the right auto-caption tool is crucial for maximizing engagement, especially since most viewers watch videos on mute initially. Since you specifically mentioned **InShot**, it\u2019s important to clarify that while InShot has basic text tools, it is **not** a primary auto-caption generator for long-form or high-accuracy video editing. It\u2019s best used for short-form social media clips (Reels, TikTok, Shorts) with simple manual or limited auto-text features.\n\nFor robust, accurate, and scalable auto-captioning, here are the best software tools, workflow methods, and industry options, tailored for US-based creators:\n\n### \ud83c\udfc6 Top Recommended Auto-Caption Tools\n\n#### 1. **"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.055584805,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005464435,
+      "completion_tokens": 150,
+      "completion_time": 0.292093747,
+      "total_tokens": 229,
+      "total_time": 0.297558182
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82asrvdeyxb2ptrcsj8ehtk",
+      "seed": 133096867
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1845,
+  "cost_usd": 0.0002
+}

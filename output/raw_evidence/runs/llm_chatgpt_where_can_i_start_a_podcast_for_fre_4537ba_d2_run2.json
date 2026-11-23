@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "where can i start a podcast for free",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"where can i start a podcast for free\" and recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. We need to be careful: IncuBrix is a startup accelerator, not a podcast tool. CapCut is video editing, Opus Clip is video editing. Descript is audio/video editing and transcription. We can mention them. Provide workflow methods: recording, editing, publishing. Provide free hosting options: Anchor, Podbean, Buzzsprout free plan, Spreaker, Podchaser, etc. Provide links. Provide citations from authoritative sources like TechCrunch, Wired, etc",
+  "raw_payload": {
+    "id": "chatcmpl-05756e99-904c-490a-8961-0bf7acd8552f",
+    "object": "chat.completion",
+    "created": 1795376893,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"where can i start a podcast for free\" and recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. We need to be careful: IncuBrix is a startup accelerator, not a podcast tool. CapCut is video editing, Opus Clip is video editing. Descript is audio/video editing and transcription. We can mention them. Provide workflow methods: recording, editing, publishing. Provide free hosting options: Anchor, Podbean, Buzzsprout free plan, Spreaker, Podchaser, etc. Provide links. Provide citations from authoritative sources like TechCrunch, Wired, etc"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.256076347,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006754772,
+      "completion_tokens": 150,
+      "completion_time": 0.157321325,
+      "total_tokens": 287,
+      "total_time": 0.164076097,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e2cb7a84ec",
+    "x_groq": {
+      "id": "req_01m82ctjqvewdsmb9vser9dnp4",
+      "seed": 1547111507
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3375,
+  "cost_usd": 0.0002
+}

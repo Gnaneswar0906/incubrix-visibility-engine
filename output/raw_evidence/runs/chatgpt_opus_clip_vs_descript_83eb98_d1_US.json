@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs descript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "## Quick\u2011Take Summary  \n\n| Feature | **Opus\u202fClip** | **Descript** | When to Choose |\n|---------|--------------|--------------|----------------|\n| **Core purpose** | AI\u2011driven short\u2011form video creation",
+      "cost_usd": 0.0002,
+      "latency_ms": 3740,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_descript_83eb98_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation comparing Opus Clip vs Descript, and recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be appropriate. Provide a thorough answer.\n\nWe need to ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3186,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_descript_83eb98_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_descript_83eb98_d1_US.json"
+}

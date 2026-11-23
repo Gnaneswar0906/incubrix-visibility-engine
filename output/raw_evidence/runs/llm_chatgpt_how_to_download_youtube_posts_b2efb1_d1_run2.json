@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to download youtube posts",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"how to download youtube posts\". The user is a content creator located in IN (India). They ask to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. The user asks how to download YouTube posts. This is about downloading content from YouTube. According to policy, providing instructions that facilitate copyright infringement is disallowed. However, providing instructions for downloading one's own content is allowed. The user didn't specify if they own the content. They just ask \"how to download youtube posts\". This could be for legitimate purposes like personal use or arch",
+  "raw_payload": {
+    "id": "chatcmpl-b27d435c-8f89-440d-a78c-7f83ec636e39",
+    "object": "chat.completion",
+    "created": 1795375312,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"how to download youtube posts\". The user is a content creator located in IN (India). They ask to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to comply with policy. The user asks how to download YouTube posts. This is about downloading content from YouTube. According to policy, providing instructions that facilitate copyright infringement is disallowed. However, providing instructions for downloading one's own content is allowed. The user didn't specify if they own the content. They just ask \"how to download youtube posts\". This could be for legitimate purposes like personal use or arch"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.165455362,
+      "prompt_tokens": 134,
+      "prompt_time": 0.041958267,
+      "completion_tokens": 150,
+      "completion_time": 0.309401739,
+      "total_tokens": 284,
+      "total_time": 0.351360006,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82baapnef9adbjaq3ex7c8b",
+      "seed": 1126523546
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2234,
+  "cost_usd": 0.0002
+}

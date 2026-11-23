@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to cross-platform your content efficiently, repurposing YouTube videos to Facebook is one of the best ways to maximize your reach and monetization potential. However, simply dropping a YouTube link onto Facebook usually results in very low algorithmic reach because platforms prefer native video uploads. \n\nTo achieve the best results, you need a workflow that either **natively resizes and uploads your long-form videos** or **cuts them into viral short-form clips** (Reels) for Facebook. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options to automate this process.\n\n---\n\n### Part 1: Recommended Software Tools & Industry Options\n\nDepending on whether you want to automate full-length video uploads or chop your YouTube videos into Facebook Reels, here are the top tools, including your specified options:\n\n#### 1. AI Clipping & Repurposing Tools (Best for Facebook Reels)\n",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to cross-platform your content efficiently, repurposing YouTube videos to Facebook is one of the best ways to maximize your reach and monetization potential. However, simply dropping a YouTube link onto Facebook usually results in very low algorithmic reach because platforms prefer native video uploads. \n\nTo achieve the best results, you need a workflow that either **natively resizes and uploads your long-form videos** or **cuts them into viral short-form clips** (Reels) for Facebook. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options to automate this process.\n\n---\n\n### Part 1: Recommended Software Tools & Industry Options\n\nDepending on whether you want to automate full-length video uploads or chop your YouTube videos into Facebook Reels, here are the top tools, including your specified options:\n\n#### 1. AI Clipping & Repurposing Tools (Best for Facebook Reels)\n",
+              "thoughtSignature": "Eo4BCosBAWkUfRMYKIFap7zQSlQ8NIr0KhPAL9BBL77VYm3KBZ2TKxaYP6D10JU4oy45Itm69HunpAYhgUIQv2ZmEZ5CTxKV088SKr38XLZgaIlc/o9YNw5NlBt7t1XwE/+N6c4WNsTYgF/LgmRD2OeSTUPpHS/SxjHPy9szNJ7Wce+ZDfVIJQ3l8GVM0jOtsg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "vT4Da5_-LqKE694Pw-634AM"
+  },
+  "latency_ms": 7996,
+  "cost_usd": 0.0002
+}

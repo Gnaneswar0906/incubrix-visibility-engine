@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Faceless YouTube\u2011Channel AI Toolkit (2024)\n\nBelow is a **complete, end",
+  "raw_payload": {
+    "id": "chatcmpl-3f03fa61-0d89-4edd-b573-6fc12e98de7d",
+    "object": "chat.completion",
+    "created": 1795374995,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Faceless YouTube\u2011Channel AI Toolkit (2024)\n\nBelow is a **complete, end",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: no disallowed content. This is fine. Provide citations with links. Use markdown. Provide workflow steps for faceless YouTube channel using AI. Mention tools for script generation, voice synthesis, video editing, thumbnail creation, SEO, analytics. Provide references. Ensure not to provide copyrighted text beyond fair use. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.322749157,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006024822,
+      "completion_tokens": 150,
+      "completion_time": 0.311086716,
+      "total_tokens": 285,
+      "total_time": 0.317111538,
+      "completion_tokens_details": {
+        "reasoning_tokens": 122
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82b0mzke5gbrwrxh17507mj",
+      "seed": 1238571534
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1923,
+  "cost_usd": 0.0002
+}

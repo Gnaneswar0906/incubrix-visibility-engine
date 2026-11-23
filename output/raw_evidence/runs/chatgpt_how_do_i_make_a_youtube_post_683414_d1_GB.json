@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants an answer: how to make a YouTube post (presumably a video post). They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 4123,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_do_i_make_a_youtube_post_683414_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a YouTube post (often referred to as a \"Community Post\" or a standard video upload) is a core part of building an audience on the platform. Since you are based in the UK, you may also want to consider specific privacy settings or localisation aspects, but the core workflow remains global.\n\n",
+      "cost_usd": 0.0002,
+      "latency_ms": 1821,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_do_i_make_a_youtube_post_683414_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_do_i_make_a_youtube_post_683414_d1_GB.json"
+}

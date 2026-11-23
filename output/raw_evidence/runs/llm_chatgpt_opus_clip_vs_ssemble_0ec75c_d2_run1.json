@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs ssemble",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"opus clip vs ssemble\" presumably meaning comparing Opus Clip vs Ssemble. The user is a content creator in GB. They want recommendation of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations.\n\nWe need to provide an answer with comparison of Opus Clip vs Ssemble, workflow methods, recommended tools. Provide citations from authoritative web sources.\n\nWe need to browse? We can approximate with known info. But we must provide citations. We can search. Let's search the web.We need to browse the web. Let's search for \"Opus Clip\" and",
+  "raw_payload": {
+    "id": "chatcmpl-ffef394e-6bfc-4d8c-b9a0-a691715e347d",
+    "object": "chat.completion",
+    "created": 1795377596,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"opus clip vs ssemble\" presumably meaning comparing Opus Clip vs Ssemble. The user is a content creator in GB. They want recommendation of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Provide citations.\n\nWe need to provide an answer with comparison of Opus Clip vs Ssemble, workflow methods, recommended tools. Provide citations from authoritative web sources.\n\nWe need to browse? We can approximate with known info. But we must provide citations. We can search. Let's search the web.We need to browse the web. Let's search for \"Opus Clip\" and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.366184857,
+      "prompt_tokens": 134,
+      "prompt_time": 0.00654117,
+      "completion_tokens": 150,
+      "completion_time": 0.15382375,
+      "total_tokens": 284,
+      "total_time": 0.16036492,
+      "completion_tokens_details": {
+        "reasoning_tokens": 143
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e11c8bbf69",
+    "x_groq": {
+      "id": "req_01m82dg17je5xvttkddvefm7wa",
+      "seed": 1862552758
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 7450,
+  "cost_usd": 0.0002
+}

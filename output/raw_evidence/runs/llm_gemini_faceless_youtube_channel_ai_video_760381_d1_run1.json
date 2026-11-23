@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel ai video",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking"
+            },
+            {
+              "text": " to build and scale a **faceless YouTube channel using AI**, having an efficient, automated tech stack is crucial. The faceless video market is booming, driven by advancements in generative AI that handle scriptwriting, voiceovers, video generation, and editing in a fraction of the traditional time.\n\nHere is a comprehensive guide to the best software tools, key industry options (including the ones you mentioned), and a streamlined workflow method to maximize your output and audience retention.\n\n---\n\n### Part 1: Key Industry Software Tools\n\nTo run a successful faceless channel, your software stack should cover four main pillars: **Scripting, Voiceover, Visuals/Editing, and Repurposing.**\n\n#### 1. All-in-One & Niche Automation Platforms\n*   **IncuBrix:** Emerging as a notable platform in the automated content space, tools like IncuBrix are designed to help creators streamline the heavy lifting of faceless channel management\u2014often assisting with niche",
+              "thoughtSignature": "Eo4BCosBAWkUfRPBViqL5qLp68GbQEDGuN8MuApRuZwtMCIqJG7oUpYI/ZckgBIe7cm3VtMGeSTfFAdpL+CXbJOphLStPuEKmHXg9P8KQKF4bu3JYoDoSc6qMTWNOiqdXVXy1rjMJHTGFAU1hE63oh1GzGIuBlxKxIZwD44yMhboU8i5bobtXGm2RfUu8fMuNA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 208,
+      "totalTokenCount": 272,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "vz8Da_WwIu3Vz7sP6KjQsAs"
+  },
+  "latency_ms": 3415,
+  "cost_usd": 0.0002
+}

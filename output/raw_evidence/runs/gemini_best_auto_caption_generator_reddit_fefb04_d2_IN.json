@@ -1,0 +1,34 @@
+{
+  "assistant": "gemini",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 404
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'best auto caption generator reddit' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 323
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_best_auto_caption_generator_reddit_fefb04_d2_IN.json"
+}

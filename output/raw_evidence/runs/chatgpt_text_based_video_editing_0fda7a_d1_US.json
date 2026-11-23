@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Text\u2011Based Video Editing \u2013 A Quick\u2011Start Guide for U.S. Creators  \n\nBelow is a **concise, actionable toolkit** that blends the most popular \u201ctext\u2011to\u2011video\u201d platforms with a solid workflow you can start using",
+      "cost_usd": 0.0002,
+      "latency_ms": 2575,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_0fda7a_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83d\udcf9 Text\u2011Based Video Editing \u2013 The \u201cWrite\u2011First, Cut\u2011Later\u201d Playbook  \n\nIf you spend",
+      "cost_usd": 0.0002,
+      "latency_ms": 5131,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_0fda7a_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_0fda7a_d1_US.json"
+}

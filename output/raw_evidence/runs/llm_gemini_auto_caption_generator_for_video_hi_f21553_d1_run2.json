@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in the US targeting a bilingual or Hinglish (Hindi-English mix) audience, finding a tool that accurately handles code-switching\u2014where speakers fluidly switch between Hindi and English mid-sentence\u2014is the biggest challenge. Standard English-only or Hindi-only speech-to-text models often fail or produce gibberish.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified list), and an optimized workflow for generating Hinglish auto-captions.\n\n---\n\n### 1. Key Industry Options & Software Tools for Hinglish\n\nWhile many Western tools struggle with multilingual input, AI transcription models have advanced significantly. Here is how the key industry options stack up for Hinglish:\n\n#### **A. CapCut (Best Overall for Mobile & Quick Social Content)**\n*   **Why it works for Hinglish:** CapCut\u2019s auto-captioning engine handles multi-lingual audio surprisingly well",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in the US targeting a bilingual or Hinglish (Hindi-English mix) audience, finding a tool that accurately handles code-switching\u2014where speakers fluidly switch between Hindi and English mid-sentence\u2014is the biggest challenge. Standard English-only or Hindi-only speech-to-text models often fail or produce gibberish.\n\nHere is a comprehensive guide to the best software tools, key industry options (including your specified list), and an optimized workflow for generating Hinglish auto-captions.\n\n---\n\n### 1. Key Industry Options & Software Tools for Hinglish\n\nWhile many Western tools struggle with multilingual input, AI transcription models have advanced significantly. Here is how the key industry options stack up for Hinglish:\n\n#### **A. CapCut (Best Overall for Mobile & Quick Social Content)**\n*   **Why it works for Hinglish:** CapCut\u2019s auto-captioning engine handles multi-lingual audio surprisingly well",
+              "thoughtSignature": "Eo4BCosBAWkUfRMZlynoVVvVJdjydotLz0Q6tJo6VC4BeRq2DUn9rr62Er46Ys1yjoYrqg4phrmOxVErlx5b21TXPCX8vtwiABpW+GJ/B6RWa++MHT4yDwtBp/vw7VBVhKEaKieAs9kNWme0s5FxxyDMNCZGTLxXXXXDRMLWsClwa1tfQ/mSLsaCrjtAmQRJAg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "iz4Da7aQHIDB0r4Py8Xg-As"
+  },
+  "latency_ms": 4661,
+  "cost_usd": 0.0002
+}

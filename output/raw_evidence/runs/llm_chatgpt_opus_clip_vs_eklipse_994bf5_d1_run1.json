@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs eklipse",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Quick Take**\n\n| Feature | **Opus\u202fClip** | **Eklipse** |\n|---------|---------------|--------------|\n| Primary use | AI\u2011driven short\u2011form video creation (auto\u2011cut, highlight reels, captions) | AI\u2011assisted video summar",
+  "raw_payload": {
+    "id": "chatcmpl-02977622-ffe1-4b37-afbb-b55d33b5aea8",
+    "object": "chat.completion",
+    "created": 1795374944,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Quick Take**\n\n| Feature | **Opus\u202fClip** | **Eklipse** |\n|---------|---------------|--------------|\n| Primary use | AI\u2011driven short\u2011form video creation (auto\u2011cut, highlight reels, captions) | AI\u2011assisted video summar",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide comparison of Opus Clip vs Eklipse, recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Provide a thorough answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369072476,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005044913,
+      "completion_tokens": 150,
+      "completion_time": 0.31241248,
+      "total_tokens": 285,
+      "total_time": 0.317457393,
+      "completion_tokens_details": {
+        "reasoning_tokens": 85
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82az3swe6nvhhqtcy0dh0je",
+      "seed": 143970266
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3771,
+  "cost_usd": 0.0002
+}

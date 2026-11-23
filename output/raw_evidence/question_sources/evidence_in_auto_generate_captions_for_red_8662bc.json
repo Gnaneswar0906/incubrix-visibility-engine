@@ -1,0 +1,19 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=auto+generate+captions+for+reddit",
+  "source_type": "Community Search Suggest",
+  "market": "IN",
+  "seed": "auto generate captions for reddit",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:49:46.154604+00:00",
+  "extracted_count": 6,
+  "suggestions": [
+    "auto generate captions reddit",
+    "auto generate captions for video free reddit",
+    "auto generate subtitles for video reddit",
+    "auto generate subtitles reddit",
+    "youtube auto generated captions reddit",
+    "auto caption generator free reddit"
+  ],
+  "raw_response": "[\"auto generate captions for reddit\",[\"auto generate captions reddit\",\"auto generate captions for video free reddit\",\"auto generate subtitles for video reddit\",\"auto generate subtitles reddit\",\"youtube auto generated captions reddit\",\"auto caption generator free reddit\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

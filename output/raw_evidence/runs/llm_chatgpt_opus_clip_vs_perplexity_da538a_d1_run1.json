@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs perplexity",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are likely looking to optimize your workflow for speed and quality. The comparison between **Opus Clip** and **Perplexity** is actually a comparison between two fundamentally different categories of tools: **AI Video Repurposing** vs. **AI Research/Answer Engine**.\n\nHere\u2019s a breakdown of how they differ, which one you should use (or if you should use both), and how they fit into a broader creator workflow.\n\n### 1. Core Functionality: Opus Clip vs. Perplexity\n\n| Feature | **Opus Clip** | **Perplexity AI** |\n| :--- | :--- | :--- |\n| **Primary Use** |",
+  "raw_payload": {
+    "id": "chatcmpl-bfba3e79-4ca8-4b4d-81b1-305e42de84e5",
+    "object": "chat.completion",
+    "created": 1795374940,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are likely looking to optimize your workflow for speed and quality. The comparison between **Opus Clip** and **Perplexity** is actually a comparison between two fundamentally different categories of tools: **AI Video Repurposing** vs. **AI Research/Answer Engine**.\n\nHere\u2019s a breakdown of how they differ, which one you should use (or if you should use both), and how they fit into a broader creator workflow.\n\n### 1. Core Functionality: Opus Clip vs. Perplexity\n\n| Feature | **Opus Clip** | **Perplexity AI** |\n| :--- | :--- | :--- |\n| **Primary Use** |"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050006715,
+      "prompt_tokens": 78,
+      "prompt_time": 0.006129575,
+      "completion_tokens": 150,
+      "completion_time": 0.301905707,
+      "total_tokens": 228,
+      "total_time": 0.308035282
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4560dae850",
+    "x_groq": {
+      "id": "req_01m82ayzvgetxr85cj6eqg1krr",
+      "seed": 225357365
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1593,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, you are in the sweet spot for AI video tooling. The market has matured significantly, and \"auto-generating captions\" is no longer just a nice-to-have feature\u2014it\u2019s a standard workflow for boosting engagement (especially for sound-off viewers on social media) and accessibility compliance.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options, tailored for professional content creation.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s top-tier:** Descript revolutionized video editing by letting you edit video by editing the transcript. Its",
+  "raw_payload": {
+    "id": "chatcmpl-bfb0b748-420f-4544-a603-3c2d49f99fd5",
+    "object": "chat.completion",
+    "created": 1795374673,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, you are in the sweet spot for AI video tooling. The market has matured significantly, and \"auto-generating captions\" is no longer just a nice-to-have feature\u2014it\u2019s a standard workflow for boosting engagement (especially for sound-off viewers on social media) and accessibility compliance.\n\nHere\u2019s a breakdown of the best software tools, recommended workflows, and key industry options, tailored for professional content creation.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s top-tier:** Descript revolutionized video editing by letting you edit video by editing the transcript. Its"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053239971,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005238779,
+      "completion_tokens": 150,
+      "completion_time": 0.310585908,
+      "total_tokens": 227,
+      "total_time": 0.315824687
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82apv7rexgttcxs5vfy4nfr",
+      "seed": 799020278
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1550,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts raj shamani",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations with authoritative web sources if available. The user is a content creator located in IN (India). Query: \"podcast shorts raj shamani\". Likely they want to create short clips from a podcast featuring Raj Shamani (a well-known Indian entrepreneur/influencer). Provide recommendations for tools to create short clips, workflow steps, mention those tools, and cite sources.\n\nWe need to follow policy: no disallowed content. Provide citations with URLs. Use proper formatting. Provide actionable steps. Possibly include Indian context (e.g., local",
+  "raw_payload": {
+    "id": "chatcmpl-af11a0ae-f6d4-4a0a-94e7-9fc4ff7b4a57",
+    "object": "chat.completion",
+    "created": 1795376868,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant, recommending best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations with authoritative web sources if available. The user is a content creator located in IN (India). Query: \"podcast shorts raj shamani\". Likely they want to create short clips from a podcast featuring Raj Shamani (a well-known Indian entrepreneur/influencer). Provide recommendations for tools to create short clips, workflow steps, mention those tools, and cite sources.\n\nWe need to follow policy: no disallowed content. Provide citations with URLs. Use proper formatting. Provide actionable steps. Possibly include Indian context (e.g., local"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157987023,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005020286,
+      "completion_tokens": 150,
+      "completion_time": 0.30849359,
+      "total_tokens": 284,
+      "total_time": 0.313513876,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a655021f7d",
+    "x_groq": {
+      "id": "req_01m82cstk7eq1t3026j3p555e5",
+      "seed": 582073648
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2430,
+  "cost_usd": 0.0002
+}

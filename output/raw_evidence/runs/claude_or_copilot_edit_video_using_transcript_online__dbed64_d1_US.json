@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "edit video using transcript online not working",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "InVideo",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 359
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'edit video using transcript online not working' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 344
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_edit_video_using_transcript_online__dbed64_d1_US.json"
+}

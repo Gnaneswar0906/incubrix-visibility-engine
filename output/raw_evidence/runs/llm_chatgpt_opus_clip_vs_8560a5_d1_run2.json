@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "It looks like your query was cut off after \"opus clip vs,\" but based on the context of comparing video editing tools for content creators in the US, you are likely looking for a comparison between **Opus Clip** and its primary competitors for **repurposing long-form video into short-form vertical clips** (TikTok, Reels, Shorts).\n\nHere\u2019s a detailed breakdown of the best software tools, workflow methods, and industry options to help you choose the right solution.\n\n---\n\n### \ud83c\udfc6 Top Tools for AI-Powered Short-Form Video Creation\n\n#### 1. **Opus Clip**\n- **Best For**: Automated, high-volume clipping with strong AI curation.\n- **Key Features**:\n",
+  "raw_payload": {
+    "id": "chatcmpl-32603cf6-54ec-47aa-aba7-cd1ded4e8a3e",
+    "object": "chat.completion",
+    "created": 1795374932,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "It looks like your query was cut off after \"opus clip vs,\" but based on the context of comparing video editing tools for content creators in the US, you are likely looking for a comparison between **Opus Clip** and its primary competitors for **repurposing long-form video into short-form vertical clips** (TikTok, Reels, Shorts).\n\nHere\u2019s a detailed breakdown of the best software tools, workflow methods, and industry options to help you choose the right solution.\n\n---\n\n### \ud83c\udfc6 Top Tools for AI-Powered Short-Form Video Creation\n\n#### 1. **Opus Clip**\n- **Best For**: Automated, high-volume clipping with strong AI curation.\n- **Key Features**:\n"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.051580515,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004943204,
+      "completion_tokens": 150,
+      "completion_time": 0.292581817,
+      "total_tokens": 226,
+      "total_time": 0.297525021
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82ayrf6e8gv08ss456bfvp9",
+      "seed": 289816146
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3028,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to get a faceless face on roblox",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer user query: \"how to get a faceless face on roblox\". They want software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Must be safe, no disallowed content. Provide instructions on customizing avatars, using Roblox Studio, uploading custom meshes, using free tools like Blender, etc. Also mention video editing tools for faceless videos? Possibly they want to create a faceless avatar for content creation. Provide steps: using Roblox avatar editor, uploading custom face decal, using transparent PNG, using mesh.\n\nAlso mention software: Blender for 3D modeling, Photoshop/GIMP for textures, Roblox",
+  "raw_payload": {
+    "id": "chatcmpl-0c590e57-e8d5-46f7-8988-da4042a42600",
+    "object": "chat.completion",
+    "created": 1795375826,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer user query: \"how to get a faceless face on roblox\". They want software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Must be safe, no disallowed content. Provide instructions on customizing avatars, using Roblox Studio, uploading custom meshes, using free tools like Blender, etc. Also mention video editing tools for faceless videos? Possibly they want to create a faceless avatar for content creation. Provide steps: using Roblox avatar editor, uploading custom face decal, using transparent PNG, using mesh.\n\nAlso mention software: Blender for 3D modeling, Photoshop/GIMP for textures, Roblox"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157469891,
+      "prompt_tokens": 139,
+      "prompt_time": 0.006292239,
+      "completion_tokens": 150,
+      "completion_time": 0.311547001,
+      "total_tokens": 289,
+      "total_time": 0.31783924,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82bt187epmsxaq1fzdxbxtm",
+      "seed": 1415472450
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4098,
+  "cost_usd": 0.0002
+}

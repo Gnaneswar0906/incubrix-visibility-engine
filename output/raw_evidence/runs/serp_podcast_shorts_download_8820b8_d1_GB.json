@@ -1,0 +1,94 @@
+{
+  "query": "podcast shorts download",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.pexels.com/search/videos/podcast/",
+  "competitors_named": "Klap",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts download",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Free Podcast Videos",
+        "link": "https://www.pexels.com/search/videos/podcast/",
+        "displayedLink": "https://www.pexels.com \u203a search \u203a videos \u203a podcast",
+        "snippet": "Download and use 4701+ Podcast stock videos for free. \u2713 Thousands of new 4k videos every day \u2713 Completely Free to Use \u2713 High-quality HD videos and clips ...",
+        "position": 1
+      },
+      {
+        "title": "Podcast Clips",
+        "link": "https://www.youtube.com/playlist?list=PLNlNx9Di_AxtJxspZXri75ujIyKbIaCc2",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Podcast Clips \u00b7 Awareness vs Action | Sahil Bloom X Rich Roll \u00b7 How do we feel as good as possible for as long as possible? \u00b7 David Goggins On The Joy In Suffering.",
+        "position": 2
+      },
+      {
+        "title": "How to Turn a Remote Podcast Into YouTube Shorts (2026 Guide)",
+        "link": "https://medium.com/@andrew_best/how-to-turn-a-remote-podcast-into-youtube-shorts-2026-guide-aa8228946f54",
+        "displayedLink": "https://medium.com \u203a @andrew_best \u203a how-to-turn-a-remote-podcas...",
+        "snippet": "The easiest way to record a clean double-ender podcast, clip the best moments, and turn them into vertical Shorts with AI subtitles.",
+        "position": 3
+      },
+      {
+        "title": "YouTube Shorts Maker - Create Shorts with AI",
+        "link": "https://podsqueeze.com/youtube-shorts-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a youtube-shorts-maker",
+        "snippet": "Turn podcast episodes and long-form video into YouTube Shorts with AI. Podsqueeze finds highlight moments, adds burned-in captions, and exports ...",
+        "date": "2 days ago",
+        "position": 4
+      },
+      {
+        "title": "Fame Clips",
+        "link": "https://www.fame.so/clips",
+        "displayedLink": "https://www.fame.so \u203a clips",
+        "snippet": "Viral clips for. B2B podcasts. Professionally edited in 72 hours, from $50 a clip. Ideal for B2B businesses who podcast and are looking to go viral, boost ...",
+        "position": 5
+      },
+      {
+        "title": "1454 Podcast Clip Stock Video Footage - 4K and HD Video Clips",
+        "link": "https://www.shutterstock.com/video/search/podcast-clip",
+        "displayedLink": "https://www.shutterstock.com \u203a video \u203a search \u203a podcast-clip",
+        "snippet": "Podcast Clip royalty-free stock footage. 1,454 podcast clip royalty-free stock videos, including high-quality 4K footage and HD video clips for download.",
+        "position": 6
+      },
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "Create engaging podcast clips effortlessly with OpusClip's AI Podcast Clip Generator. Ideal for social media, try it free, no credit card ...",
+        "date": "11 Nov 2026",
+        "position": 7
+      },
+      {
+        "title": "Free AI Podcast Clip Maker",
+        "link": "https://www.aivideocut.com/free-ai-podcast-clip-maker",
+        "displayedLink": "https://www.aivideocut.com \u203a free-ai-podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on YouTube Shorts, TikToks & Reels with our AI-powered free clip maker. Choose your file ...",
+        "position": 8
+      },
+      {
+        "title": "Free Podcast Videos: 4K & HD | No Watermark | Download Now",
+        "link": "https://mixkit.co/free-stock-video/podcast/?page=2",
+        "displayedLink": "https://mixkit.co \u203a free-stock-video \u203a podcast",
+        "snippet": "Choose from 66 Royalty-Free Podcast videos for your next video project. 4K & HD clips without watermark. Download for free now!",
+        "date": "3 Oct 2022",
+        "position": 9
+      },
+      {
+        "title": "Podcast Clip Maker \u2014 Free AI Tool for Video Podcasts",
+        "link": "https://klap.app/tools/podcast-clip-maker",
+        "displayedLink": "https://klap.app \u203a tools \u203a podcast-clip-maker",
+        "snippet": "AI podcast clip maker for video podcasts. Turn 2-hour episodes into 20+ viral clips in minutes. Multi-host layouts. Free to try.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

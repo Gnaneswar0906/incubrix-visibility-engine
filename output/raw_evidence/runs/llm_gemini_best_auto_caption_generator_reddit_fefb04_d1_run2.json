@@ -1,0 +1,49 @@
+{
+  "assistant": "gemini",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in India (IN) looking to streamline video editing and boost engagement with accurate captions, Reddit communities (like r/NewTubers, r/VideoEditing, and r/ContentCreators) consistently highlight a few standout tools. Indian creators often juggle multi-lingual audiences (Hinglish, regional languages, or accented English), making automated captioning a critical part of the workflow.\n\nBased on collective Reddit sentiment and industry standards, here is a comprehensive breakdown of the best auto-caption software, workflow methods, and how the major players compare.\n\n---\n\n### 1. Top Industry Options & Reddit Consensus\n\n#### **CapCut** (Best Overall for Short-Form / Mobile-First)\n* **What",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in India (IN) looking to streamline video editing and boost engagement with accurate captions, Reddit communities (like r/NewTubers, r/VideoEditing, and r/ContentCreators) consistently highlight a few standout tools. Indian creators often juggle multi-lingual audiences (Hinglish, regional languages, or accented English), making automated captioning a critical part of the workflow.\n\nBased on collective Reddit sentiment and industry standards, here is a comprehensive breakdown of the best auto-caption software, workflow methods, and how the major players compare.\n\n---\n\n### 1. Top Industry Options & Reddit Consensus\n\n#### **CapCut** (Best Overall for Short-Form / Mobile-First)\n* **What"
+            },
+            {
+              "text": " it is:** A robust video editor available on mobile (iOS/Android) and desktop, famous for its viral, dynamic caption templates (similar to Alex Hormozi-style subtitles).\n* **Reddit Verdict:** Highly recommended for TikTok, Instagram Reels, and YouTube Shorts. Creators love its \"Auto Captions\" feature because it is free, highly accurate, and offers eye-catching word-by-word highlighting.\n* **Localization note for IN:** CapCut\u2019s desktop version handles English very well, but you",
+              "thoughtSignature": "Eo4BCosBAWkUfROAmCLZM+0KmP3R9JJdWNf32Q/QTlTCS3LI2ntM4zPoljnj0jhcUC43LhJm/RMkohBJdEMped/9Bu+1AZ8FAXYXj7C72RmNLsfxYHKos2sc//EMQryrDrzgJvnirwtYpExs/nm7CWWC8rMl6XNUeUvMPsFRQ6HmuqFbDOG8RDcMsWiznAubgg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 254,
+      "totalTokenCount": 317,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "h0ADa8GdDJ2PjuMPw8zA-A0"
+  },
+  "latency_ms": 2990,
+  "cost_usd": 0.0002
+}

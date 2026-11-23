@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast shorts video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Riverside"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for a content creator in GB (Great Britain) about \"podcast shorts video\". They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a helpful answer, referencing sources. Use citations. Since we cannot browse, we can cite known sources like official websites, articles from reputable publications (e.g., The Guardian, TechCrunch, Wired, etc.). Provide a workflow: recording, editing, clipping, adding captions, exporting for platforms like YouTube Shorts, Instagram Reels, TikTok.\n\nMention tools: Audacity, Adobe Audition, Descript, Riverside.fm",
+  "raw_payload": {
+    "id": "chatcmpl-c98c4732-32ba-411d-9bbe-622528fac501",
+    "object": "chat.completion",
+    "created": 1795375443,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for a content creator in GB (Great Britain) about \"podcast shorts video\". They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe need to provide a helpful answer, referencing sources. Use citations. Since we cannot browse, we can cite known sources like official websites, articles from reputable publications (e.g., The Guardian, TechCrunch, Wired, etc.). Provide a workflow: recording, editing, clipping, adding captions, exporting for platforms like YouTube Shorts, Instagram Reels, TikTok.\n\nMention tools: Audacity, Adobe Audition, Descript, Riverside.fm"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368104347,
+      "prompt_tokens": 132,
+      "prompt_time": 0.006325649,
+      "completion_tokens": 150,
+      "completion_time": 0.309950297,
+      "total_tokens": 282,
+      "total_time": 0.316275946,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82beaf4exm8cxwbetx52w3n",
+      "seed": 901720967
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4008,
+  "cost_usd": 0.0002
+}

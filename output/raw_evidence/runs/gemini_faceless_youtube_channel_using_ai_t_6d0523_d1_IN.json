@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel using ai tutorial",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'faceless youtube channel using ai tutorial' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 480
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Running a faceless YouTube channel using AI is one of the most efficient content creation models today. By leveraging artificial intelligence for scriptwriting, voiceovers, visuals, and editing, you can scale production drastically. \n\nHere is a comprehensive guide tailored for your workflow, incorpo",
+      "cost_usd": 0.0002,
+      "latency_ms": 8608,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_faceless_youtube_channel_using_ai_t_6d0523_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_faceless_youtube_channel_using_ai_t_6d0523_d1_IN.json"
+}

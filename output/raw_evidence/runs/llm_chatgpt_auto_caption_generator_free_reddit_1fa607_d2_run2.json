@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator free reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## \ud83c\udfa4 Auto",
+  "raw_payload": {
+    "id": "chatcmpl-d7804034-eb62-457f-bb6a-7ddfe195ce5d",
+    "object": "chat.completion",
+    "created": 1795377014,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## \ud83c\udfa4 Auto",
+          "reasoning": "The user wants recommendations for auto caption generator free reddit, likely they are looking for free tools to generate captions, maybe for videos, and they want suggestions, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available. Provide recommendations, workflow, mention free options, maybe Reddit threads. Provide citations (like URLs). Should be helpful to content creator in India (IN). Provide list, pros/cons, steps. Use markdown. Provide citations with footnotes. Ensure no disallowed content. It's fine.\n\nWe need to include citations. Use brackets with numbers and list references.\n\nLet's produce answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.157659611,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005838898,
+      "completion_tokens": 150,
+      "completion_time": 0.311261573,
+      "total_tokens": 284,
+      "total_time": 0.317100471,
+      "completion_tokens_details": {
+        "reasoning_tokens": 138
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c15aa9c1b7",
+    "x_groq": {
+      "id": "req_01m82cy9adexsbhh1spzmbs1ww",
+      "seed": 307491632
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2624,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,90 @@
+{
+  "query": "text based video editing vimeo",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://vimeo.com/features/video-editor/text-based-video-editor",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "text based video editing vimeo",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text-Based Video Editor: Edit Video like a Doc",
+        "link": "https://vimeo.com/features/video-editor/text-based-video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a text-based-video-editor",
+        "snippet": "Vimeo's text-based editor is a tool designed to use the video's AI-generated transcript as a way for you to select text and delete its corresponding video clip.",
+        "position": 1
+      },
+      {
+        "title": "How do I use the text-based video ...",
+        "link": "https://help.vimeo.com/hc/en-us/articles/16367006563089-How-do-I-use-the-text-based-video-editor",
+        "displayedLink": "https://help.vimeo.com \u203a hc \u203a ... \u203a 16367006563089-How-do-I-use...",
+        "snippet": "To use text-based video editing in the video editor: Select the Transcript button above the Timeline. Select the Transcribe button next to the video clips",
+        "position": 2
+      },
+      {
+        "title": "Vimeo Text-Based AI Video Editor Review: Is It Better Than Kapwing?",
+        "link": "https://www.youtube.com/watch?v=1bSoK8WNas8",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "In this video, we'll dive into the world of text-based AI video editing with a comprehensive review of Vimeo's offering.",
+        "position": 3
+      },
+      {
+        "title": "One-take video creation",
+        "link": "https://vimeo.com/campaigns/one-take-video",
+        "displayedLink": "https://vimeo.com \u203a campaigns \u203a one-take-video",
+        "snippet": "One-take video creation. Create wow-worthy content in minutes with an AI-powered script generator, teleprompter, and a new way to edit video by editing text.",
+        "position": 4
+      },
+      {
+        "title": "Best Online Video Editor & Maker",
+        "link": "https://vimeo.com/features/video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor",
+        "snippet": "Work smarter with Vimeo's AI tools. Use the text\u2011based editor to remove filler words, silences, or unwanted sections by editing transcript text. Clean up audio ...",
+        "position": 5
+      },
+      {
+        "title": "Vimeo Help Center",
+        "link": "https://help.vimeo.com/hc/en-us/articles/12426766391185-How-do-I-add-and-edit-text-in-the-editor",
+        "displayedLink": "https://help.vimeo.com \u203a hc \u203a ... \u203a 12426766391185-How-do-I-add...",
+        "snippet": "Text can be added to your video in the video editor. To add text: Select the Text button from the left-side panel. or select + Add text to add a blank text box.",
+        "position": 6
+      },
+      {
+        "title": "Editing video is easy and fast with our AI-powered text-based editor | Vimeo",
+        "link": "https://www.linkedin.com/posts/vimeo_editing-video-is-easy-and-fast-with-our-ai-powered-activity-7125132242720370688-NvgW",
+        "displayedLink": "https://www.linkedin.com \u203a posts \u203a vimeo_editing-video-is-easy...",
+        "position": 7
+      },
+      {
+        "title": "free video maker",
+        "link": "https://vimeo.com/create",
+        "displayedLink": "https://vimeo.com \u203a create",
+        "snippet": "Easily trim videos, apply your branding, and use text-based video editing to streamline your workflow and turnaround polished content quickly.",
+        "position": 8
+      },
+      {
+        "title": "Switching to.. VIMEO?!",
+        "link": "https://www.youtube.com/watch?v=-Gm10kaSXGE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "You can now edit videos on Vimeo now Shout out to Vimeo for sponsoring! Try out the editor - https://vimeo.com/feat.",
+        "position": 9
+      },
+      {
+        "title": "Add Text to Video Online: Custom ...",
+        "link": "https://vimeo.com/features/video-editor/add-text-to-video",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a add-text-to-video",
+        "snippet": "Add text to your videos online. Customize the font, size, color, transparency, and timing. Free text overlays for Mac, Windows, iPhone, and more.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

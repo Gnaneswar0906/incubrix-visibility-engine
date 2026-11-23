@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "what is a text editor",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the UK, you likely encounter the term \"text editor\" in two distinct contexts: **visual code editors** (for building websites/apps) and **plain text editors** (for writing manuscripts, scripts, or coding).\n\nGiven your request to include tools like **CapCut**, **Opus Cli",
+      "cost_usd": 0.0002,
+      "latency_ms": 1189,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_a_text_editor_e0e161_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: what is a text editor, recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Actually those are video editing tools, not text editors. The user might want to know about text editors but mention these tools? Perh",
+      "cost_usd": 0.0002,
+      "latency_ms": 3746,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_what_is_a_text_editor_e0e161_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_what_is_a_text_editor_e0e161_d1_GB.json"
+}

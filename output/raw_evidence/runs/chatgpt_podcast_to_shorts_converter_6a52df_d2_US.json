@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form vertical videos (for TikTok, Instagram Reels, and YouTube Shorts) is currently one of the most effective strategies for audience growth. Given that you are based in the US, you have access to the full suite of leading AI-driven tools that handle t",
+      "cost_usd": 0.0002,
+      "latency_ms": 1029,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_converter_6a52df_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form videos (for TikTok, Instagram Reels, and YouTube Shorts) is one of the most effective growth strategies currently. The best approach combines **AI-driven clipping tools** for speed with **manual editing** for quality.\n\nHere are the best software t",
+      "cost_usd": 0.0002,
+      "latency_ms": 1381,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_converter_6a52df_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_converter_6a52df_d2_US.json"
+}

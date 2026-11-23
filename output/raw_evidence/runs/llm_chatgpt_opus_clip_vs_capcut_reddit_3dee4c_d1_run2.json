@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs capcut reddit",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in India. Query: \"opus clip vs capcut reddit\". They want recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy: Provide info, no disallowed content. Provide citations with URLs. Use markdown. Should include summary of Reddit discussion comparisons. Provide workflow suggestions. Mention Indian context (e.g., local storage, internet). Provide pros/cons of each tool. Provide recommended workflow: script, capture, edit, AI tools, export, distribution. Also mention other industry options like Adobe Premiere, Final Cut, Da",
+  "raw_payload": {
+    "id": "chatcmpl-4ff1c8cf-d922-4e15-acab-bb57cc3fa651",
+    "object": "chat.completion",
+    "created": 1795375326,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in India. Query: \"opus clip vs capcut reddit\". They want recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy: Provide info, no disallowed content. Provide citations with URLs. Use markdown. Should include summary of Reddit discussion comparisons. Provide workflow suggestions. Mention Indian context (e.g., local storage, internet). Provide pros/cons of each tool. Provide recommended workflow: script, capture, edit, AI tools, export, distribution. Also mention other industry options like Adobe Premiere, Final Cut, Da"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.050409279,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005372271,
+      "completion_tokens": 150,
+      "completion_time": 0.453063919,
+      "total_tokens": 285,
+      "total_time": 0.45843619,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4de1d6a1ee",
+    "x_groq": {
+      "id": "req_01m82bas6pez3tqm89qvr6qfgt",
+      "seed": 961420234
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2125,
+  "cost_usd": 0.0002
+}

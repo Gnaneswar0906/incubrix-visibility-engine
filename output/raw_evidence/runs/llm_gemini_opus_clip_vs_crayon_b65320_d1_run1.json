@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs crayon",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, choosing the right AI-driven video repurposing tool can save you hours of editing time, helping you turn long-form YouTube videos, podcasts, or webinars into viral short-form clips for YouTube Shorts, Instagram Reels, and TikTok. \n\nLet\u2019s break down the comparison between **Opus Clip** and **Craiyon** (clarifying a common mix-up), review other top industry tools, and map out a localized workflow for the Indian market.\n\n---\n\n### 1. Clarification: Opus Clip vs. Craiyon\n*   **Opus Clip:** This is an industry-leading generative AI video tool designed specifically to repurpose long-form videos into high-potential short clips. It analyzes the hook, extracts cohesive segments, adds dynamic captions, and scores clips based on virality.\n*   **Craiyon (formerly DALL-E mini):** This is an **AI image generator**,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in India, choosing the right AI-driven video repurposing tool can save you hours of editing time, helping you turn long-form YouTube videos, podcasts, or webinars into viral short-form clips for YouTube Shorts, Instagram Reels, and TikTok. \n\nLet\u2019s break down the comparison between **Opus Clip** and **Craiyon** (clarifying a common mix-up), review other top industry tools, and map out a localized workflow for the Indian market.\n\n---\n\n### 1. Clarification: Opus Clip vs. Craiyon\n*   **Opus Clip:** This is an industry-leading generative AI video tool designed specifically to repurpose long-form videos into high-potential short clips. It analyzes the hook, extracts cohesive segments, adds dynamic captions, and scores clips based on virality.\n*   **Craiyon (formerly DALL-E mini):** This is an **AI image generator**,",
+              "thoughtSignature": "Eo4BCosBAWkUfRPqYoy5XI7vCCStghTBnxYGOfsCUofTw+V7WR1mxjy7RXdkayhk+IoKmyAvegxT/nTl910xrVhEjm6Q1wsw3c//w4S0Y73WFKPaT/PDLPTeFklhnlEQjeXfQuhy+X/XBHIgDK329ipyACohx6NQrw885dbFE5jfgv3MNMP/kWZsKYtOq4pteQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2EADa7nSGq37jNAP3M7GuAw"
+  },
+  "latency_ms": 3206,
+  "cost_usd": 0.0002
+}

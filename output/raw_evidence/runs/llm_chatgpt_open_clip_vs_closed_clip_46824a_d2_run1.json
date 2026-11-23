@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "open clip vs closed clip",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: \"open clip vs closed clip\" presumably refers to video editing clip types? Might be about \"Open clip\" vs \"Closed clip\" in video editing context. The user wants best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Provide authoritative web sources. Provide recommendation. Should be helpful to a content creator in GB. Let's craft an answer.\n\nWe need to explain what open clip vs closed clip means: open clip refers to a clip that starts or ends at an arbitrary point, not aligned to a cut point; closed clip is trimmed at both ends to a specific duration or start/stop. Provide workflow: open",
+  "raw_payload": {
+    "id": "chatcmpl-28f03e34-c9d2-40c8-804e-75c1c6492983",
+    "object": "chat.completion",
+    "created": 1795377524,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: \"open clip vs closed clip\" presumably refers to video editing clip types? Might be about \"Open clip\" vs \"Closed clip\" in video editing context. The user wants best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations. Provide authoritative web sources. Provide recommendation. Should be helpful to a content creator in GB. Let's craft an answer.\n\nWe need to explain what open clip vs closed clip means: open clip refers to a clip that starts or ends at an arbitrary point, not aligned to a cut point; closed clip is trimmed at both ends to a specific duration or start/stop. Provide workflow: open"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.263380012,
+      "prompt_tokens": 134,
+      "prompt_time": 0.084250117,
+      "completion_tokens": 150,
+      "completion_time": 0.17904425,
+      "total_tokens": 284,
+      "total_time": 0.263294367,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_3023a70d60",
+    "x_groq": {
+      "id": "req_01m82ddva0evk9wqp12vefknp8",
+      "seed": 306418703
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4132,
+  "cost_usd": 0.0002
+}

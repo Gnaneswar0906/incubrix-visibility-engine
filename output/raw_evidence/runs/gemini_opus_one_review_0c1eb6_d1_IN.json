@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "opus one review",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in India (IN), I\u2019ve structured this guide to focus on your query\u2014specifically a review of **Opus Clip** (often associated with \"Opus One\" in the AI video repurposing space)\u2014while placing it within the context of the broader modern content creation toolkit",
+      "cost_usd": 0.0002,
+      "latency_ms": 2572,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_one_review_0c1eb6_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As",
+      "cost_usd": 0.0002,
+      "latency_ms": 6982,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_one_review_0c1eb6_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_one_review_0c1eb6_d1_IN.json"
+}

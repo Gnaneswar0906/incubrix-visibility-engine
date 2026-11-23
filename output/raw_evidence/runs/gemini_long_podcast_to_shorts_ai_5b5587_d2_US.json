@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "long podcast to shorts ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'long podcast to shorts ai' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 396
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I can confirm that converting long-form podcasts into viral short-form clips (TikToks, Reels, YouTube Shorts) is one of the most effective growth strategies in digital media today. AI-driven repurposing tools have revolutionized this workflow,",
+      "cost_usd": 0.0002,
+      "latency_ms": 2511,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_long_podcast_to_shorts_ai_5b5587_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_long_podcast_to_shorts_ai_5b5587_d2_US.json"
+}

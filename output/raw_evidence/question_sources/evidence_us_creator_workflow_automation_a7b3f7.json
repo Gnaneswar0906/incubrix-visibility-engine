@@ -1,0 +1,15 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=us&q=creator+workflow+automation",
+  "source_type": "YouTube Autocomplete",
+  "market": "US",
+  "seed": "creator workflow automation",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:28:58.146571+00:00",
+  "extracted_count": 2,
+  "suggestions": [
+    "creator workflow automation",
+    "creator workflow automation software"
+  ],
+  "raw_response": "window.google.ac.h([\"creator workflow automation\",[[\"creator workflow automation\",33,[299],{\"a\":\"creator\\u0026nbsp;workflow\\u0026nbsp;\",\"b\":\"... automation\"}],[\"creator workflow automation software\",33,[299],{\"a\":\"creator\\u0026nbsp;workflow\\u0026nbsp;\",\"b\":\"... automation\\u0026nbsp;software\"}]],{\"k\":1}])"
+}

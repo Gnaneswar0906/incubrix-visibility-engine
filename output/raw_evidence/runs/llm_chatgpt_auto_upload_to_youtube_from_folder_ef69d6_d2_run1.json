@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube from folder",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Start Summary\n| Goal | Recommended Tool(s) | How to Set It Up (in\u202f\u2248\u202f5\u202fsteps) | Cost* |\n|------|",
+  "raw_payload": {
+    "id": "chatcmpl-7a3b240f-b95e-41d1-8d71-fe7aa63c3001",
+    "object": "chat.completion",
+    "created": 1795376669,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Start Summary\n| Goal | Recommended Tool(s) | How to Set It Up (in\u202f\u2248\u202f5\u202fsteps) | Cost* |\n|------|",
+          "reasoning": "We need to respond as an AI assistant, recommending best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide citations from authoritative web sources. Must be helpful to US content creator. Should include auto upload from folder to YouTube. Provide steps, tools, scripts, possible using YouTube API, FFmpeg, etc. Provide links. Cite sources. Use proper citation style. Ensure no disallowed content. Provide actionable recommendations.\n\nLet's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.370329466,
+      "prompt_tokens": 135,
+      "prompt_time": 0.007928013,
+      "completion_tokens": 150,
+      "completion_time": 0.313548939,
+      "total_tokens": 285,
+      "total_time": 0.321476952,
+      "completion_tokens_details": {
+        "reasoning_tokens": 107
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82ckr5he0r84gf5g5zxy2wf",
+      "seed": 535242847
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4036,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video premiere pro",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you are in a good position to leverage both global AI tools and robust local workflows. Removing filler words (like \"um,\" \"uh,\" \"like,\" \"you know\") is crucial for tightening your narrative, but doing it manually in Premiere Pro is tedious.\n\nHere are the best software tools, workflow methods, and industry options to streamline this process, tailored for a professional workflow.\n\n### \ud83c\udfc6 Top Recommendation: Descript\n**Descript** is currently the industry standard for text-based video editing. It is the most direct answer to your query.\n\n*   **How it works:** You import your video, and Descript transcribes it. It then **automatically detects",
+  "raw_payload": {
+    "id": "chatcmpl-e01bcd59-654f-4775-ad3a-458218f3a91c",
+    "object": "chat.completion",
+    "created": 1795377350,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you are in a good position to leverage both global AI tools and robust local workflows. Removing filler words (like \"um,\" \"uh,\" \"like,\" \"you know\") is crucial for tightening your narrative, but doing it manually in Premiere Pro is tedious.\n\nHere are the best software tools, workflow methods, and industry options to streamline this process, tailored for a professional workflow.\n\n### \ud83c\udfc6 Top Recommendation: Descript\n**Descript** is currently the industry standard for text-based video editing. It is the most direct answer to your query.\n\n*   **How it works:** You import your video, and Descript transcribes it. It then **automatically detects"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.046293664,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005376636,
+      "completion_tokens": 150,
+      "completion_time": 0.292299477,
+      "total_tokens": 229,
+      "total_time": 0.297676113
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d8hf4e2er57efevmry2vd",
+      "seed": 367605149
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1440,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick Take\u2011away  \n\n| Feature | **",
+  "raw_payload": {
+    "id": "chatcmpl-af31960f-2741-4e6a-bf75-fd7e58e2c90e",
+    "object": "chat.completion",
+    "created": 1795375318,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick Take\u2011away  \n\n| Feature | **",
+          "reasoning": "The user wants recommendation on \"opus clip vs crayo ai\". They are a content creator located in India (IN). They want best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide a comparative analysis of Opus Clip vs Crayo AI, discuss features, pricing, use cases, pros/cons, then recommend workflow and other tools. Provide citations with links. Use markdown. Provide disclaimer about checking latest pricing. Ensure not to violate any policy."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047452441,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005416719,
+      "completion_tokens": 150,
+      "completion_time": 0.318326584,
+      "total_tokens": 285,
+      "total_time": 0.323743303,
+      "completion_tokens_details": {
+        "reasoning_tokens": 132
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_d577f40f11",
+    "x_groq": {
+      "id": "req_01m82bahbsezc98rhzr1y8e1ma",
+      "seed": 1825546559
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2545,
+  "cost_usd": 0.0002
+}

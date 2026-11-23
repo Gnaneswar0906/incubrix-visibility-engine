@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US, editing your video transcripts is one of the most efficient ways to streamline your post-production workflow. Whether you are creating YouTube videos, TikToks, or long-form podcasts, editing text is vastly faster than scrubbing through a timeline. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned platforms), and a proven workflow method for editing video transcripts.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nDepending on your specific goals\u2014whether it\u2019s precise text-based video editing, rapid repurposing, or automated captioning\u2014here are the top tools on the market:\n\n1. **Descript (The Gold Standard for Text-Based Editing)**\n   * **Best For:** Long-form video creators, podcasters, and documentary editors.\n   * **Why use it:** Descript pioneered \"text-based video editing.\" When you delete a paragraph from",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US, editing your video transcripts is one of the most efficient ways to streamline your post-production workflow. Whether you are creating YouTube videos, TikToks, or long-form podcasts, editing text is vastly faster than scrubbing through a timeline. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned platforms), and a proven workflow method for editing video transcripts.\n\n---\n\n### Part 1: Best Software Tools & Industry Options\n\nDepending on your specific goals\u2014whether it\u2019s precise text-based video editing, rapid repurposing, or automated captioning\u2014here are the top tools on the market:\n\n1. **Descript (The Gold Standard for Text-Based Editing)**\n   * **Best For:** Long-form video creators, podcasters, and documentary editors.\n   * **Why use it:** Descript pioneered \"text-based video editing.\" When you delete a paragraph from",
+              "thoughtSignature": "Eo4BCosBAWkUfRNa2SQ1MyjXwEg7LGoyiHPfw8RjGv+1wYmtGU20Oxsw6txCIJGumwcLd7wyCCG8/VlZpgNG17wY/Ijn89rnKYmLh7DRqgLZXbCyXJ4iBav26sOl05J3npjc8Jryw8Ij8cOnCv7Qk9QwBS+aGFilfww5pH+JorPLqyahjzhmBy54gkPUyRtaWw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "GT4Da_6rJvOojuMPy7fO6AQ"
+  },
+  "latency_ms": 6396,
+  "cost_usd": 0.0002
+}

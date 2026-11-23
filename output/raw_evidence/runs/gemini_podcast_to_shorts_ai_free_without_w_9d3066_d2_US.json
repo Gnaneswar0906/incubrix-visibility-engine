@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai free without watermark",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Munch",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast to shorts ai free without watermark' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 363
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'podcast to shorts ai free without watermark' in US, popular recommendations include Munch. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 485
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_shorts_ai_free_without_w_9d3066_d2_US.json"
+}

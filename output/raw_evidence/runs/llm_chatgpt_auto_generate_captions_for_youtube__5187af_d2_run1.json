@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for youtube video",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as AI assistant for a US content creator. Provide recommendations for auto-generating captions for YouTube videos, including software tools, workflow, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, thorough. Should include steps, pros/cons, pricing, integration, accuracy, editing capabilities, batch processing, etc. Provide citations with links. Ensure compliance with policy. No disallowed content. Provide citations in appropriate format. Use bullet points, tables. Provide workflow suggestions: upload to YouTube auto-caption, third-party tools, export SRT, edit, reupload. Also mention AI services like Google Speech-to-",
+  "raw_payload": {
+    "id": "chatcmpl-c04cf290-5d49-4c2b-a4a8-8898ada54339",
+    "object": "chat.completion",
+    "created": 1795376605,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as AI assistant for a US content creator. Provide recommendations for auto-generating captions for YouTube videos, including software tools, workflow, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, thorough. Should include steps, pros/cons, pricing, integration, accuracy, editing capabilities, batch processing, etc. Provide citations with links. Ensure compliance with policy. No disallowed content. Provide citations in appropriate format. Use bullet points, tables. Provide workflow suggestions: upload to YouTube auto-caption, third-party tools, export SRT, edit, reupload. Also mention AI services like Google Speech-to-"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369470966,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005993703,
+      "completion_tokens": 150,
+      "completion_time": 0.310433147,
+      "total_tokens": 285,
+      "total_time": 0.31642685,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_bb691ea66b",
+    "x_groq": {
+      "id": "req_01m82cht2hev7ae9q19mywzzhr",
+      "seed": 1095049103
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2673,
+  "cost_usd": 0.0002
+}

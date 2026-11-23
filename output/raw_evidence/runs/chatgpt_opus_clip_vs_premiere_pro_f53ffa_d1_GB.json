@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs premiere pro",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely looking for a balance between high-end professional editing and the rapidly growing need to repurpose long-form content into short-form vertical videos for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n\nThe question of **Opus ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1061,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_premiere_pro_f53ffa_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Opus\u202fClip vs. Adobe",
+      "cost_usd": 0.0002,
+      "latency_ms": 2976,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_premiere_pro_f53ffa_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_premiere_pro_f53ffa_d1_GB.json"
+}

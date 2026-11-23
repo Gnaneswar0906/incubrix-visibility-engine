@@ -1,0 +1,178 @@
+{
+  "query": "edit video using transcript online not working",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://community.adobe.com/bug-reports-728/transcript-not-accepting-edits-1331352",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "edit video using transcript online not working",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Transcript not accepting edits",
+        "link": "https://community.adobe.com/bug-reports-728/transcript-not-accepting-edits-1331352",
+        "displayedLink": "https://community.adobe.com \u203a bug-reports-728 \u203a transcript-not-accepting-ed...",
+        "snippet": "I have video files that include technical language that require editing of the transcript to ensure correct captioning. I am having continued ...",
+        "date": "Mar 13, 2025",
+        "position": 1
+      },
+      {
+        "title": "Editing videos USING the transcript : r/VideoEditing",
+        "link": "https://www.reddit.com/r/VideoEditing/comments/mg52er/editing_videos_using_the_transcript/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a editing_videos_using_the_tr...",
+        "snippet": "Hi guys,. I'm developing an online transcript based video editor. Meaning that users will be able to: auto generate transcript, then.",
+        "sitelinks": [
+          {
+            "title": "Transcribe DOESN'T WORK at all : r/premierer/premiere\u00b740+ comments\u00b75mo",
+            "link": "https://www.reddit.com/r/premiere/comments/1uce16t/transcribe_doesnt_work_at_all/"
+          },
+          {
+            "title": "Frustrated with text-based editing. Cannot find an answer to ...r/premiere\u00b75 comments\u00b71y",
+            "link": "https://www.reddit.com/r/premiere/comments/1lt5vnf/frustrated_with_textbased_editing_cannot_find_an/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Fix Transcript Not Working in Adobe Premiere Pro Easy Solution 2025",
+        "link": "https://www.youtube.com/watch?v=RNunrLTZ_38",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Having trouble with the transcript feature stuck on \u201cloading\u201d in Adobe Premiere Pro? In this quick tutorial, I'll show you the exact fix\u00a0...",
+        "position": 3
+      },
+      {
+        "title": "View, edit, and manage video transcripts and captions",
+        "link": "https://support.microsoft.com/en-us/clipchamp/stream-pages/view-edit-and-manage-video-transcripts-and-captions",
+        "displayedLink": "https://support.microsoft.com \u203a en-us \u203a ... \u203a view-edit-and-manage-video-...",
+        "snippet": "There is some delay between the video upload and the transcript generation. However, if the transcript generation does not start, you can manually initiate the ...",
+        "position": 4
+      },
+      {
+        "title": "Text Based Editing Not Working for me no matter what I try",
+        "link": "https://community.adobe.com/questions-729/text-based-editing-not-working-for-me-no-matter-what-i-try-1417471",
+        "displayedLink": "https://community.adobe.com \u203a questions-729 \u203a text-based-editing-not-work...",
+        "snippet": "I'm using Premiere Pro version 25.2. I need to edit a 13 minute talking head video.There's only one mp4 file consisting of one video and audio clip ...",
+        "date": "Apr 6, 2025",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://community.adobe.com/questions-729/text-based-editing-not-working-for-me-no-matter-what-i-try-1417471?postid=5503309#post5503309"
+          }
+        ],
+        "position": 5
+      },
+      {
+        "title": "Anyone having some problems with transcribing their videos?",
+        "link": "https://www.facebook.com/groups/descriptusers/posts/933191562300115/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 933191562300115",
+        "snippet": "- Select the video learning activity and hit \"Edit video. \" - Click on \"Interactive Transcript\" from the sidebar, and choose \"Autogenerate.",
+        "sitelinks": [
+          {
+            "title": "Sometimes, I can't generate captions for a video. One or two sentences ...Descript Users\u00b73 comments\u00b72y",
+            "link": "https://www.facebook.com/groups/descriptusers/posts/797364969216109/"
+          },
+          {
+            "title": "I uploaded a 60 minute video two days ago and still no text. Is this normal ...Descript Users\u00b74 comments\u00b72y",
+            "link": "https://www.facebook.com/groups/descriptusers/posts/693625679590039/"
+          }
+        ],
+        "position": 6
+      },
+      {
+        "title": "Fix Text Based Video Editing not Working Adobe Premiere Pro-100% ...",
+        "link": "https://www.youtube.com/watch?v=XMKt5VvmSWE",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "PremiereGal @PremiereBasics Discover the Ultimate Fix for Text Based Video Editing Issues in Adobe Premiere Pro - 100% Guaranteed Solution\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "View topic - Timeline transcript editing of clips - Blackmagic Forum",
+        "link": "https://forum.blackmagicdesign.com/viewtopic.php?p=1105926&t=213250&utm_source=chatgpt.com",
+        "displayedLink": "https://forum.blackmagicdesign.com \u203a viewtopic.php",
+        "snippet": "Hi, I'm using Resolve Studio 19.1.1 and trying to make corrections to errors in a timeline transcript. My timeline is for a podcast audio, ...",
+        "date": "Dec 10, 2024",
+        "position": 8
+      },
+      {
+        "title": "Microsoft Streams not opening the transcript for editing a video, but ...",
+        "link": "https://learn.microsoft.com/en-us/answers/questions/4397211/microsoft-streams-not-opening-the-transcript-for-e",
+        "displayedLink": "https://learn.microsoft.com \u203a en-us \u203a ... \u203a microsoft-streams-not-openi...",
+        "snippet": "Transcript editing is only available for recordings that were saved in Microsoft Stream. If your Teams org has already chosen to save recordings ...",
+        "date": "Apr 3, 2022",
+        "position": 9
+      },
+      {
+        "title": "Text-Based Editing Not Working?",
+        "link": "https://community.adobe.com/questions-729/text-based-editing-not-working-1400858",
+        "displayedLink": "https://community.adobe.com \u203a questions-729 \u203a text-based-editing-not-work...",
+        "snippet": "Trying the new Text-Based Editing in 23.4.\n\nHowever, it does not appear to be working correctly... or at all.\n\nI have a clip on sequence that ...",
+        "date": "May 12, 2023",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://community.adobe.com/questions-729/text-based-editing-not-working-1400858?postid=5422359#post5422359"
+          },
+          {
+            "title": "More",
+            "link": "https://community.adobe.com/questions-729/text-based-editing-not-working-1400858?postid=5438248#post5438248"
+          }
+        ],
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Why won't my video let me edit it?"
+      },
+      {
+        "question": "Why is my text-based editing tool not working in Premiere Pro?"
+      },
+      {
+        "question": "Can I edit text in a video online?"
+      },
+      {
+        "question": "How do I edit an already existing video?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Edit video using transcript online not working reddit"
+      },
+      {
+        "query": "Edit video using transcript online not working android"
+      },
+      {
+        "query": "Text-Based editing Premiere Pro"
+      },
+      {
+        "query": "Text-based editing Premiere Pro not working"
+      },
+      {
+        "query": "Generate static transcript Premiere Pro not working"
+      },
+      {
+        "query": "How to delete a transcript in Premiere Pro"
+      },
+      {
+        "query": "Premiere pro text window not opening"
+      },
+      {
+        "query": "Microsoft Stream transcription"
+      },
+      {
+        "query": "Clipchamp transcription not working"
+      },
+      {
+        "query": "Premiere Pro not transcribing sequence"
+      }
+    ],
+    "credits": 1
+  }
+}

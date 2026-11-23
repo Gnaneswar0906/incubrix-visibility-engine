@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for tiktok",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"how to auto generate captions for TikTok\" with recommendation of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. We are to respond in a helpful manner. The user is a content creator in GB. Provide a concise but thorough guide, with tools, workflow, and citations. Use web sources: maybe from the software sites, or review sites, or blog posts. Provide links. Should mention that TikTok's own auto-captioning is available. Provide alternative tools: CapCut, Descript, Opus Clip, IncuBrix. Also mention AI tools like",
+  "raw_payload": {
+    "id": "chatcmpl-6cba4e85-7971-4ab3-92ff-19ff1795bcf8",
+    "object": "chat.completion",
+    "created": 1795377376,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"how to auto generate captions for TikTok\" with recommendation of best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. We are to respond in a helpful manner. The user is a content creator in GB. Provide a concise but thorough guide, with tools, workflow, and citations. Use web sources: maybe from the software sites, or review sites, or blog posts. Provide links. Should mention that TikTok's own auto-captioning is available. Provide alternative tools: CapCut, Descript, Opus Clip, IncuBrix. Also mention AI tools like"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155694222,
+      "prompt_tokens": 137,
+      "prompt_time": 0.006715037,
+      "completion_tokens": 150,
+      "completion_time": 0.158507347,
+      "total_tokens": 287,
+      "total_time": 0.165222384,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_75c733514d",
+    "x_groq": {
+      "id": "req_01m82d9agyezy9t6403ccp8hv7",
+      "seed": 508207307
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4578,
+  "cost_usd": 0.0002
+}

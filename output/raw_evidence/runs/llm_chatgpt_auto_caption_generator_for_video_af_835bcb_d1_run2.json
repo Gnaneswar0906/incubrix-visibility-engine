@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video after effects",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant. The user is a content creator in India, asking for auto caption generator for video after effects. They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy. Provide info, no disallowed content. Provide citations. We can include URLs. We should mention after effects integration, maybe using plugins like Auto-Subtitle, using scripts, or using external tools to generate SRT and import into AE. Tools: Descript, Kapwing, Rev.com, Otter.ai, Trint, Subtitle Edit, Aegisub. Also mention",
+  "raw_payload": {
+    "id": "chatcmpl-2ee7223a-6bd5-41c2-97c3-b40f8c07eedf",
+    "object": "chat.completion",
+    "created": 1795375192,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant. The user is a content creator in India, asking for auto caption generator for video after effects. They want recommendations of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available.\n\nWe must follow policy. Provide info, no disallowed content. Provide citations. We can include URLs. We should mention after effects integration, maybe using plugins like Auto-Subtitle, using scripts, or using external tools to generate SRT and import into AE. Tools: Descript, Kapwing, Rev.com, Otter.ai, Trint, Subtitle Edit, Aegisub. Also mention"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.15617687,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005239838,
+      "completion_tokens": 150,
+      "completion_time": 0.317933442,
+      "total_tokens": 286,
+      "total_time": 0.32317328,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b6p7eew2r305ep97wff5n",
+      "seed": 585000169
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2706,
+  "cost_usd": 0.0002
+}

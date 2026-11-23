@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "edit video by transcript",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a US-based content creator looking to edit video via transcript (often called **text-based video editing**), you have access to some of the most advanced AI-driven tools on the market. This workflow allows you filler-word removal, rapid rough cuts, and repurposing long-form content simply by highlighting, deleting, or moving text in a document.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Options\n\nDifferent tools serve different stages of the content creation pipeline\u2014from raw assembly cuts to viral repurposing.\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Best For:* Full-episode editing, podcasts, talking-head videos, and deep text-based workflow.\n    *   *Why use",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a US-based content creator looking to edit video via transcript (often called **text-based video editing**), you have access to some of the most advanced AI-driven tools on the market. This workflow allows you filler-word removal, rapid rough cuts, and repurposing long-form content simply by highlighting, deleting, or moving text in a document.\n\nHere is a comprehensive guide to the best software tools, recommended workflows, and a breakdown of industry options, including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### 1. Key Industry Software Options\n\nDifferent tools serve different stages of the content creation pipeline\u2014from raw assembly cuts to viral repurposing.\n\n*   **Descript (The Gold Standard for Text-Based Editing):**\n    *   *Best For:* Full-episode editing, podcasts, talking-head videos, and deep text-based workflow.\n    *   *Why use",
+              "thoughtSignature": "Eo4BCosBAWkUfRNr/luh6z19zSxGH//4Q1U4lztiAXq8/vI4Akjc1LqVEFTc4Rgj95AT6RiHELptzSINNggN+RiCR+9PxwUNdOlqXcBmdc0004RDRZmImOO7XCLykNpojeGU+GmBJsl5Ye3Y8qpuS2CyfJA+FtvjFoHM+L16l/j6S7JwbLSoOTIRohT3acqrng=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "2j0Da-TTCc79juMP3JC0iAc"
+  },
+  "latency_ms": 3371,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts free",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer: recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide suggestions for a content creator in US to turn podcasts into shorts for free. Provide workflow steps, tools, free tiers. Provide citations with links. Must be safe content. Provide thorough answer.\n\nWe should cite sources: e.g., official websites, reviews. Use proper citation style maybe footnotes with URLs.\n\nLet's craft answer: overview, free tools, workflow steps: download podcast audio, transcribe, select highlights, edit video, add captions, export, upload to platforms.\n\nTools: Audacity (audio editing), Descript (",
+  "raw_payload": {
+    "id": "chatcmpl-c67d76f0-0edf-42b2-979e-b94723604911",
+    "object": "chat.completion",
+    "created": 1795376479,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer: recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Provide suggestions for a content creator in US to turn podcasts into shorts for free. Provide workflow steps, tools, free tiers. Provide citations with links. Must be safe content. Provide thorough answer.\n\nWe should cite sources: e.g., official websites, reviews. Use proper citation style maybe footnotes with URLs.\n\nLet's craft answer: overview, free tools, workflow steps: download podcast audio, transcribe, select highlights, edit video, add captions, export, upload to platforms.\n\nTools: Audacity (audio editing), Descript ("
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.158286605,
+      "prompt_tokens": 133,
+      "prompt_time": 0.006002644,
+      "completion_tokens": 150,
+      "completion_time": 0.313310203,
+      "total_tokens": 283,
+      "total_time": 0.319312847,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82cdz28e0asahqe55pnvghy",
+      "seed": 1847239415
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2378,
+  "cost_usd": 0.0002
+}

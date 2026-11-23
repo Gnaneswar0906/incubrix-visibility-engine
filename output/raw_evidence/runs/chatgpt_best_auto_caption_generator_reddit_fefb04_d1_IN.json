@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India, you likely need tools that balance cost-effectiveness with high-quality output, especially if you are working with multiple languages or a large volume of short-form content.\n\nBased on current industry standards and discussions from creative communities (i",
+      "cost_usd": 0.0002,
+      "latency_ms": 1489,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_auto_caption_generator_reddit_fefb04_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfaf What You\u2019re Looking For  \nYou want an",
+      "cost_usd": 0.0002,
+      "latency_ms": 3142,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_auto_caption_generator_reddit_fefb04_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_auto_caption_generator_reddit_fefb04_d1_IN.json"
+}

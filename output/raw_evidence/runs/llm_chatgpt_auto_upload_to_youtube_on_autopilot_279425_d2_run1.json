@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: auto upload to youtube on autopilot. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: providing recommendations is allowed. Provide citations. Should not provide disallowed content. Should be helpful. Provide workflow steps, automation options, using APIs, third-party services like Zapier, Integromat (Make), IFTTT, TubeBuddy, VidIQ, etc. Mention tools for video creation, editing, captioning, thumbnail generation. Provide best practices. Provide links to official docs. Provide disclaimer about YouTube policies.\n\nWe need to cite authoritative web",
+  "raw_payload": {
+    "id": "chatcmpl-e85b87f4-5124-4f7f-8b33-38554f52aaf2",
+    "object": "chat.completion",
+    "created": 1795376676,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: auto upload to youtube on autopilot. Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply with policies: providing recommendations is allowed. Provide citations. Should not provide disallowed content. Should be helpful. Provide workflow steps, automation options, using APIs, third-party services like Zapier, Integromat (Make), IFTTT, TubeBuddy, VidIQ, etc. Mention tools for video creation, editing, captioning, thumbnail generation. Provide best practices. Provide links to official docs. Provide disclaimer about YouTube policies.\n\nWe need to cite authoritative web"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367490163,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005423813,
+      "completion_tokens": 150,
+      "completion_time": 0.314663814,
+      "total_tokens": 286,
+      "total_time": 0.320087627,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_803c0ba83d",
+    "x_groq": {
+      "id": "req_01m82ckyvbeyybmnza6wgk53ns",
+      "seed": 1946583457
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2735,
+  "cost_usd": 0.0002
+}

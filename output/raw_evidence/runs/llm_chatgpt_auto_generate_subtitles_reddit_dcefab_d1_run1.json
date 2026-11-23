@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in India, you are likely looking for efficient ways to handle subtitles, whether for short-form content (Reels/Shorts) or long-form YouTube videos. \"Auto-generating subtitles\" is no longer just a nice-to-have; it\u2019s essential for accessibility, SEO, and viewer retention.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and key industry options, tailored for your needs.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Subtitles\n\n#### 1. **CapCut** (Best for Short-Form & TikTok/Reels/Shorts)\n   - **Why it\u2019s great:** Free, user-friendly, and highly accurate for English/Hindi mix.",
+  "raw_payload": {
+    "id": "chatcmpl-7724015d-8c93-41e5-9203-00af3f2e4744",
+    "object": "chat.completion",
+    "created": 1795375213,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in India, you are likely looking for efficient ways to handle subtitles, whether for short-form content (Reels/Shorts) or long-form YouTube videos. \"Auto-generating subtitles\" is no longer just a nice-to-have; it\u2019s essential for accessibility, SEO, and viewer retention.\n\nHere\u2019s a curated guide to the best software tools, workflow methods, and key industry options, tailored for your needs.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Subtitles\n\n#### 1. **CapCut** (Best for Short-Form & TikTok/Reels/Shorts)\n   - **Why it\u2019s great:** Free, user-friendly, and highly accurate for English/Hindi mix."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047775833,
+      "prompt_tokens": 76,
+      "prompt_time": 0.004976647,
+      "completion_tokens": 150,
+      "completion_time": 0.326080363,
+      "total_tokens": 226,
+      "total_time": 0.33105701
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82b7apceytbqpvdxj37k68q",
+      "seed": 384876650
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1407,
+  "cost_usd": 0.0002
+}

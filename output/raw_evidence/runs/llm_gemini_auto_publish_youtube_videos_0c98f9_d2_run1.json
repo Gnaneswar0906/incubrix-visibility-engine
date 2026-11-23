@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the U.S., automating your YouTube publishing workflow is one of the most effective ways to scale your channel, maintain consistency, and save hours of manual labor. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and a recommended workflow to get your videos from raw footage to published on YouTube seamlessly.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an auto-publish and editing pipeline, you need tools that handle AI clipping, editing, and direct scheduling to YouTube.\n\n#### **A. AI Clipping & Repurposing (Shorts/Reels/TikTok)**\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into multiple high-viral potential short clips in one click. It analyzes your video, adds captions, tracks faces, and scores the clips based on hooks.\n    *   *Authority",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the U.S., automating your YouTube publishing workflow is one of the most effective ways to scale your channel, maintain consistency, and save hours of manual labor. \n\nHere is a comprehensive guide to the best software tools, key industry options (including your mentioned tools), and a recommended workflow to get your videos from raw footage to published on YouTube seamlessly.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\nTo build an auto-publish and editing pipeline, you need tools that handle AI clipping, editing, and direct scheduling to YouTube.\n\n#### **A. AI Clipping & Repurposing (Shorts/Reels/TikTok)**\n*   **Opus Clip:** An industry-standard generative AI video tool that repurposes long-form videos into multiple high-viral potential short clips in one click. It analyzes your video, adds captions, tracks faces, and scores the clips based on hooks.\n    *   *Authority",
+              "thoughtSignature": "Eo4BCosBAWkUfROvM5cblSM2OZcCuzgvBshokU3GWlX76pln0Jt55jTPtZglbgFMHZ9iNAlLh28d7a2ATOkDQs4Wqgp/qaUuyRE3Nfa0QS2TKMtLRETlrpSt0LcPVWHyvIYOMYeUkLhwiga4rkA+a83lPt1oE9VuChz0n/O2zJ8pXWoTVuo3TgFD62o/hTEV4g=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "PEYDa8XqO53Jz7sPi7HQwA8"
+  },
+  "latency_ms": 2342,
+  "cost_usd": 0.0002
+}

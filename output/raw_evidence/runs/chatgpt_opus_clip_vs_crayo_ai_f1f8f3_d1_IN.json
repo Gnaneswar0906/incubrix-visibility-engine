@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Quick Take\u2011away  \n\n| Feature | **",
+      "cost_usd": 0.0002,
+      "latency_ms": 2545,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_crayo_ai_f1f8f3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. The query: \"opus clip vs crayo ai\". They are a content creator in India. Need to compare Opus Clip and Crayo AI, recommend best tools, workflow, men",
+      "cost_usd": 0.0002,
+      "latency_ms": 3273,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_crayo_ai_f1f8f3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_crayo_ai_f1f8f3_d1_IN.json"
+}

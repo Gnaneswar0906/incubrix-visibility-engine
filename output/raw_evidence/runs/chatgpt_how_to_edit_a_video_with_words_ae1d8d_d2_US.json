@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for editing a video with words, i.e., adding text overlays, subtitles, captions, maybe kinetic typography. Provide best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. N",
+      "cost_usd": 0.0002,
+      "latency_ms": 2787,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_a_video_with_words_ae1d8d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you have access to some of the most powerful and accessible video editing tools on the market. \"Editing a video with words\" usually refers to two main workflows: adding text overlays (captions, titles, lower thirds) or using text-based editing (editing the vide",
+      "cost_usd": 0.0002,
+      "latency_ms": 1252,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_a_video_with_words_ae1d8d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_edit_a_video_with_words_ae1d8d_d2_US.json"
+}

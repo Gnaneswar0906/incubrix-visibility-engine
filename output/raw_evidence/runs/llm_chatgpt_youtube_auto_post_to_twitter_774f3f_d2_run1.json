@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube auto post to twitter",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [
+    "https://www.incubr.com/"
+  ],
+  "response_text": "Certainly, I'll provide you with information on the best software tools and workflow methods for automatically posting YouTube videos to Twitter. Let's start with some popular options:\n\n1. IncubrX (formerly AmoyShare): It's a cloud-based tool that allows you to upload your YouTube videos and automatically share them on Twitter, as well as other social media platforms like Facebook and Twitter. You can visit their website for more information: <https://www.incubr.com/>\n\n2. CapCut: CapCut is a free video editing app developed by ByteDance, also known as Viamaker. While it mainly focuses on video editing, it does offer some features for",
+  "raw_payload": {
+    "id": "chatcmpl-72ecf01c-1925-4140-a9e4-0cceb229f7c8",
+    "object": "chat.completion",
+    "created": 1795377486,
+    "model": "allam-2-7b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Certainly, I'll provide you with information on the best software tools and workflow methods for automatically posting YouTube videos to Twitter. Let's start with some popular options:\n\n1. IncubrX (formerly AmoyShare): It's a cloud-based tool that allows you to upload your YouTube videos and automatically share them on Twitter, as well as other social media platforms like Facebook and Twitter. You can visit their website for more information: <https://www.incubr.com/>\n\n2. CapCut: CapCut is a free video editing app developed by ByteDance, also known as Viamaker. While it mainly focuses on video editing, it does offer some features for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.044025837,
+      "prompt_tokens": 78,
+      "prompt_time": 0.003113893,
+      "completion_tokens": 150,
+      "completion_time": 0.106997227,
+      "total_tokens": 228,
+      "total_time": 0.11011112
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ff744b2c7a",
+    "x_groq": {
+      "id": "req_01m82dcpwcegztky9y4fvzd851",
+      "seed": 1361522822
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 5382,
+  "cost_usd": 0.0002
+}

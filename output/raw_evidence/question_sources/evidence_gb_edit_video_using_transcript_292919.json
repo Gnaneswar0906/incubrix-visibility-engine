@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&hl=en&gl=gb&q=edit+video+using+transcript",
+  "source_type": "YouTube Autocomplete",
+  "market": "GB",
+  "seed": "edit video using transcript",
+  "cluster": "Cluster 2: Transcript-based & text-based video/audio editing",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:52:07.192119+00:00",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "window.google.ac.h([\"edit video using transcript\",[],{\"k\":1}])"
+}

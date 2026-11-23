@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for instagram reels",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in the US, you know that retaining viewers on Instagram Reels is critical, and captions (subtitles) are a major driver of engagement\u2014especially for sound-off scrolling.\n\nHere are the best software tools, workflow methods, and key industry options for auto-generating capti",
+      "cost_usd": 0.0002,
+      "latency_ms": 1546,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_c2912c_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for Instagram Reels  \n*Designed for a U.S.\u2011based content creator who wants fast",
+      "cost_usd": 0.0002,
+      "latency_ms": 3178,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_instagra_c2912c_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_instagra_c2912c_d1_US.json"
+}

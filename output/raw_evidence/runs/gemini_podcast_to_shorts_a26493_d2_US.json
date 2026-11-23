@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I\u2019ve broken down the best tools, workflows, and industry standards for turning long-form podcasts into viral short-form videos (TikToks, Instagram Reels, and YouTube Shorts).\n\nRepurposing long-form content is one of the most efficient ways to ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2406,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_a26493_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US maximize their podcast reach, repurposing long-form audio/video into short-form content (YouTube Shorts, TikTok, Instagram Reels) is one of the highest-return strategies available today. \n\nHere is a comprehensive guide covering the best AI softw",
+      "cost_usd": 0.0002,
+      "latency_ms": 1982,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_podcast_to_shorts_a26493_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_podcast_to_shorts_a26493_d2_US.json"
+}

@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs klap",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Take Summary  \n\n| Feature | **Op",
+  "raw_payload": {
+    "id": "chatcmpl-0ed41e51-3189-4ac3-be39-8335207a3786",
+    "object": "chat.completion",
+    "created": 1795374965,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Take Summary  \n\n| Feature | **Op",
+          "reasoning": "The user wants a recommendation about \"opus clip vs klap\". Likely they are comparing two video editing/AI tools: Opus Clip and Klap (maybe \"Klap\" is a tool for short video creation?). They want best software tools, workflow methods, and mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Need to cite authoritative web sources if available. Should be a US content creator. Provide recommendations, compare Opus Clip vs Klap, discuss workflow, other tools, mention sources with URLs. Must ensure not to violate policy. It's fine. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.28030797,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005684699,
+      "completion_tokens": 150,
+      "completion_time": 0.315413373,
+      "total_tokens": 284,
+      "total_time": 0.321098072,
+      "completion_tokens_details": {
+        "reasoning_tokens": 131
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_5082008e34",
+    "x_groq": {
+      "id": "req_01m82azr8ve8br0qxhep3pqanc",
+      "seed": 213396777
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3141,
+  "cost_usd": 0.0002
+}

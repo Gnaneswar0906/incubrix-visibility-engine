@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto post twitch vods to youtube",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Auto-posting and repurposing your",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Auto-posting and repurposing your"
+            },
+            {
+              "text": " Twitch VODs for YouTube is one of the most effective ways to grow a multi-platform gaming brand without doubling your workload. Because long-form VODs rarely perform well on YouTube without editing (unless you are a massive creator), the industry standard workflow involves two steps: **transferring the VOD** and **repurposing it into Shorts/TikToks**.\n\nAs a content creator in Great Britain, you have access to robust global tools that handle both automation and AI-driven clipping. Here is a breakdown of the best software tools, key industry options, and an optimized workflow.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **For VOD Transfer & Automation**\n*   **Twitch\u2019s Native YouTube Export:** Twitch has a built-in feature allowing you to export VODs directly to YouTube without downloading and re-uploading them manually. \n    *   *Pros:* Free, official, simple.\n    *   ",
+              "thoughtSignature": "Eo4BCosBAWkUfROnmYpQ+hMKpDb5D9woqUCOadMdkK2ZvRVafXKVn5wou6d+L1AckNwid2IHHlFm5adGedfhrKUxu7nJW75dMWe5mJAf6dvNuoT9gkQFf/9P7m9XHmNGVB9lStbO/xlb/xG48CJjGC1WKPDJDQF2pzq4vdKyMBw8NPaixMQaMKNXmt8nWjHWpQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 207,
+      "totalTokenCount": 272,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "YkIDa4STKpXOz7sPj-bYmQ8"
+  },
+  "latency_ms": 3198,
+  "cost_usd": 0.0002
+}

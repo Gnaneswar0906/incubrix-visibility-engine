@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "For a content creator based in Great Britain looking to scale their reach, repurposing long-form YouTube videos into short-form TikToks is one of the most efficient growth strategies. Doing this effectively requires the right balance of automated workflows and AI-driven editing tools. \n\nHere is a co",
+      "cost_usd": 0.0002,
+      "latency_ms": 7188,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_from_youtube_to_tiktok_ebbf7b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in Great Britain looking to repurpose your long-form YouTube videos into short-form TikToks, you have access to some of the most advanced AI-driven video automation tools on the market. \n\nTo achieve an **auto-post workflow** (minimising manual intervention), you need a combinati",
+      "cost_usd": 0.0002,
+      "latency_ms": 2170,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_from_youtube_to_tiktok_ebbf7b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_from_youtube_to_tiktok_ebbf7b_d1_GB.json"
+}

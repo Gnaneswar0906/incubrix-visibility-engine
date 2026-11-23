@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs crayo ai",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2573,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_crayo_ai_f1f8f3_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in India (IN) looking to scale your short-form video presence (YouTube Shorts, Instagram Reels, TikTok), choosing between **Opus Clip** and **Crayo AI** depends entirely on your content style, editing experience, and budget. \n\nHere is a comprehensive comparison tailored for the ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1880,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_clip_vs_crayo_ai_f1f8f3_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_clip_vs_crayo_ai_f1f8f3_d1_IN.json"
+}

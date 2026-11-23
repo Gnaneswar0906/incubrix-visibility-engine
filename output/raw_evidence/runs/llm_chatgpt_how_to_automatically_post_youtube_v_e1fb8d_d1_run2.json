@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to automatically post youtube videos on facebook page",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**How",
+  "raw_payload": {
+    "id": "chatcmpl-40a56bd1-80aa-4d07-8da5-8a90378122e4",
+    "object": "chat.completion",
+    "created": 1795375259,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**How",
+          "reasoning": "The user wants recommendation for automatically posting YouTube videos on a Facebook page. They are a content creator located in India (IN). Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must follow policy: no disallowed content. This is permissible. Provide info. Include steps, tools like Zapier, IFTTT, Buffer, Hootsuite, Later, SocialBee, etc. Also mention native Facebook tools like Creator Studio. Also mention using YouTube API, Facebook Graph API. Provide citations. Use proper format. Should not mention policy. Provide answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318492045,
+      "prompt_tokens": 138,
+      "prompt_time": 0.005555182,
+      "completion_tokens": 150,
+      "completion_time": 0.315556088,
+      "total_tokens": 288,
+      "total_time": 0.32111127,
+      "completion_tokens_details": {
+        "reasoning_tokens": 140
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82b8pyje52t9fd707xkmqmy",
+      "seed": 154692411
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3766,
+  "cost_usd": 0.0002
+}

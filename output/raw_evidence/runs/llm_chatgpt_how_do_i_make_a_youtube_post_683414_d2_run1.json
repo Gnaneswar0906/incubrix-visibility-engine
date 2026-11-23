@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond to a content creator in GB, asking how to make a YouTube post. They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Must be helpful. Provide steps: planning, filming, editing, uploading, SEO. Provide software options: video editing (IncuBrix, CapCut, Opus Clip, Descript, Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve). Provide workflow: script, storyboarding, filming, editing, thumbnail, metadata, scheduling. Also mention YouTube Studio, TubeBuddy, vidIQ, Canva for thumbnails. Provide citations: maybe from",
+  "raw_payload": {
+    "id": "chatcmpl-25ab81f1-1127-4c28-91af-5bc79d82e99e",
+    "object": "chat.completion",
+    "created": 1795377441,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond to a content creator in GB, asking how to make a YouTube post. They want recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Must be helpful. Provide steps: planning, filming, editing, uploading, SEO. Provide software options: video editing (IncuBrix, CapCut, Opus Clip, Descript, Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve). Provide workflow: script, storyboarding, filming, editing, thumbnail, metadata, scheduling. Also mention YouTube Studio, TubeBuddy, vidIQ, Canva for thumbnails. Provide citations: maybe from"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.314869112,
+      "prompt_tokens": 136,
+      "prompt_time": 0.007660625,
+      "completion_tokens": 150,
+      "completion_time": 0.156395545,
+      "total_tokens": 286,
+      "total_time": 0.16405617,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_feb9b278f1",
+    "x_groq": {
+      "id": "req_01m82db9wke9hs7v0qmh20k7nq",
+      "seed": 440230603
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4256,
+  "cost_usd": 0.0002
+}

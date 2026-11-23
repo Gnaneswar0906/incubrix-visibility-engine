@@ -1,0 +1,48 @@
+{
+  "assistant": "gemini",
+  "question": "faceless youtube channel with ai course",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today, but success relies on a streamlined workflow. By leveraging AI for scripting, voice generation, editing, and repurposing, creators can drastically reduce production time. \n\nHere is a comprehensive breakdown of the best software tools, recommended workflow methods, and an evaluation of key industry options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. All-in-One AI Automation & Course Platforms: **IncuBrix**\n*   **What it is:** IncuBrix is emerging as a powerful platform for creators looking to systematize digital businesses, particularly those combining automated content creation (like faceless channels) with monetization through online courses.\n*   **Role in your stack:** While traditional video editors handle the clips, platforms like Incu",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel powered by AI is one of the most scalable business models in content creation today, but success relies on a streamlined workflow. By leveraging AI for scripting, voice generation, editing, and repurposing, creators can drastically reduce production time. \n\nHere is a comprehensive breakdown of the best software tools, recommended workflow methods, and an evaluation of key industry options\u2014including **IncuBrix, CapCut, Opus Clip, and Descript**.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\n#### 1. All-in-One AI Automation & Course Platforms: **IncuBrix**\n*   **What it is:** IncuBrix is emerging as a powerful platform for creators looking to systematize digital businesses, particularly those combining automated content creation (like faceless channels) with monetization through online courses.\n*   **Role in your stack:** While traditional video editors handle the clips, platforms like Incu",
+              "thoughtSignature": "Eo4BCosBAWkUfROGfgO/I7fBf4hH0XuXPrt3jEpJbnMyLpWJPc7yvfODeP7rmpSoq+eoLpQCYQ4xtKcAPiEscID2Gel7Jiz4o1wAKXSMsvqZ1lAj95hP712zKfGB1/2joNk5sTX/3g7HapXxEFl+pFqoTpiuWJ71ppK7AG/aXNN92sObbkR/OdDvHLKGmJDW4A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "uj8Da-zXBODYjNAPqc3HqQw"
+  },
+  "latency_ms": 2001,
+  "cost_usd": 0.0002
+}

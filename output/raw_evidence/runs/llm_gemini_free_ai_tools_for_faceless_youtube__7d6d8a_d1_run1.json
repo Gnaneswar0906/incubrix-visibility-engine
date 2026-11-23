@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "free ai tools for faceless youtube channel",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve put together a comprehensive guide on building a faceless YouTube channel using free (or freemium) AI tools. \n\nRunning a faceless channel involves a five-step pipeline: **Ideation & Scriptwriting, Voiceover, Visuals/Video Editing, Repurposing, and Thumbnails.** Below is the best workflow using top industry tools, including the ones you mentioned.\n\n---\n\n### Step 1: Ideation & Scriptwriting\n*   **Tools:** ChatGPT (OpenAI), Google Gemini, Claude (Anthropic).\n*   **How to use:** Use these tools to generate video ideas tailored to your niche, outline video structures, and write engaging, retention-optimized scripts. \n*   **GB Pro-Tip:** Prompt the AI to write in a specific British English dialect or tone (e.g., *\u201cWrite a script about historical mysteries in an engaging",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a content creator in Great Britain, I\u2019ve put together a comprehensive guide on building a faceless YouTube channel using free (or freemium) AI tools. \n\nRunning a faceless channel involves a five-step pipeline: **Ideation & Scriptwriting, Voiceover, Visuals/Video Editing, Repurposing, and Thumbnails.** Below is the best workflow using top industry tools, including the ones you mentioned.\n\n---\n\n### Step 1: Ideation & Scriptwriting\n*   **Tools:** ChatGPT (OpenAI), Google Gemini, Claude (Anthropic).\n*   **How to use:** Use these tools to generate video ideas tailored to your niche, outline video structures, and write engaging, retention-optimized scripts. \n*   **GB Pro-Tip:** Prompt the AI to write in a specific British English dialect or tone (e.g., *\u201cWrite a script about historical mysteries in an engaging",
+              "thoughtSignature": "Eo4BCosBAWkUfRNdTdDSa9Rotag73glflocRai24mJsz8lpezQPfaYxPSYpqf7iwT/2GMZCwQHi9DMBl0sgt8nKbpiMHLtsq65w0C0YHsetfHmp7uD1ehFWwnTBluIIWR3yk4Y3+nD2w35DhayyH5/Klnt5Th9zc2NlFk+i/MHn0zmJCVI4yruy2NXuxui0dJA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "zEIDa6_pEb3OmNMPz56h4AE"
+  },
+  "latency_ms": 6607,
+  "cost_usd": 0.0002
+}

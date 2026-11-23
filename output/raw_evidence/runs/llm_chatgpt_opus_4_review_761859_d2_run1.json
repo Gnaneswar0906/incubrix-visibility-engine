@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus 4 review",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As an AI assistant based in India, I am happy to help you navigate the video editing and AI clip generation landscape.\n\nFirst, a small but important clarification: **There is no widely recognized software tool called \"Opus 4.\"** It is highly likely you are referring to **Opus Clip** (often just called \"Opus\"), which is a popular AI-powered video repurposing tool. Alternatively, you might be thinking of **Opus 2**, a music production software by Steinberg, but given the context of content creation and other tools you mentioned (CapCut, Descript, IncuBrix), **Opus Clip** is the most probable intent.\n\nBelow is a detailed review and recommendation of the",
+  "raw_payload": {
+    "id": "chatcmpl-2ee10dff-c765-464f-a56b-905b06218453",
+    "object": "chat.completion",
+    "created": 1795377131,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As an AI assistant based in India, I am happy to help you navigate the video editing and AI clip generation landscape.\n\nFirst, a small but important clarification: **There is no widely recognized software tool called \"Opus 4.\"** It is highly likely you are referring to **Opus Clip** (often just called \"Opus\"), which is a popular AI-powered video repurposing tool. Alternatively, you might be thinking of **Opus 2**, a music production software by Steinberg, but given the context of content creation and other tools you mentioned (CapCut, Descript, IncuBrix), **Opus Clip** is the most probable intent.\n\nBelow is a detailed review and recommendation of the"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054394848,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005209042,
+      "completion_tokens": 150,
+      "completion_time": 0.289605862,
+      "total_tokens": 227,
+      "total_time": 0.294814904
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82d1vbme6trfqe8h9whtctw",
+      "seed": 1836734160
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1565,
+  "cost_usd": 0.0002
+}

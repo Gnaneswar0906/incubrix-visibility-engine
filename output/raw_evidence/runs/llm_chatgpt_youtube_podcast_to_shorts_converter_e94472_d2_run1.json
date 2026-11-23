@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Turning a YouTube Podcast into TikTok\u2011/YouTube\u2011Shorts Clips \u2013\u202fFree\u2011First Toolkit  \n\nBelow is a **",
+  "raw_payload": {
+    "id": "chatcmpl-178c2c74-acb8-4f5d-a709-c7084c34b6ee",
+    "object": "chat.completion",
+    "created": 1795376495,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Turning a YouTube Podcast into TikTok\u2011/YouTube\u2011Shorts Clips \u2013\u202fFree\u2011First Toolkit  \n\nBelow is a **",
+          "reasoning": "We need to answer as an AI assistant for a US content creator, recommending best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, thorough, include free options. Provide workflow steps. Possibly mention YouTube Studio, Clipchamp, etc. Provide citations with links. Ensure not violating policy. Provide citations in proper format. Use bullet points, tables. Provide pros/cons. Also mention limitations, copyright. Provide references. Let's draft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317972434,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005407995,
+      "completion_tokens": 150,
+      "completion_time": 0.314719781,
+      "total_tokens": 285,
+      "total_time": 0.320127776,
+      "completion_tokens_details": {
+        "reasoning_tokens": 114
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_dee443f41b",
+    "x_groq": {
+      "id": "req_01m82cee2tek9tyj0xrqj3fex6",
+      "seed": 162812290
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1941,
+  "cost_usd": 0.0002
+}

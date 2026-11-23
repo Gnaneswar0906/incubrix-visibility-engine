@@ -1,0 +1,37 @@
+{
+  "assistant": "gemini",
+  "question": "how to build a faceless youtube channel using ai",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how to build a faceless youtube channel using ai' in IN, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 449
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'how to build a faceless youtube channel using ai' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 327
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_how_to_build_a_faceless_youtube_cha_680e0a_d2_IN.json"
+}

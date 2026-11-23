@@ -1,0 +1,42 @@
+{
+  "assistant": "gemini",
+  "question": "auto publish youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I can break down the best software tools, optimal workflows, and industry-standard options for auto-publishing YouTube videos. \n\nAutomating your YouTube publishing workflow saves hours of manual labor, letting you focus entirely on ideation, sc",
+      "cost_usd": 0.0002,
+      "latency_ms": 3261,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_publish_youtube_videos_0c98f9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "To successfully auto-publish and streamline your YouTube content creation workflow as a U.S.-based creator, you need a mix of AI-powered editing, automated clipping, and reliable scheduling platforms. \n\nHere is a breakdown of the best software tools, key industry options (including those you mention",
+      "cost_usd": 0.0002,
+      "latency_ms": 7631,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_publish_youtube_videos_0c98f9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_publish_youtube_videos_0c98f9_d1_US.json"
+}

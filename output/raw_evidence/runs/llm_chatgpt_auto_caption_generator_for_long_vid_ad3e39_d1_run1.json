@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for long video free",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, dealing with long-form video (like podcasts, webinars, or tutorials) can be overwhelming when it comes to captions. The good news is that the landscape for free and freemium auto-captions has improved dramatically.\n\nHere are the best software tools, workflow methods, and key industry options for generating auto-captions for long videos, focusing on **free tiers** and **practical workflows**.\n\n### \ud83c\udfc6 Top Recommendations for Free/Freemium Auto-Captions\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s great:** Descript doesn\u2019t just add captions; it transcribes your audio into editable",
+  "raw_payload": {
+    "id": "chatcmpl-357d171a-1e46-48e1-af39-c2e10e07c8ac",
+    "object": "chat.completion",
+    "created": 1795374728,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, dealing with long-form video (like podcasts, webinars, or tutorials) can be overwhelming when it comes to captions. The good news is that the landscape for free and freemium auto-captions has improved dramatically.\n\nHere are the best software tools, workflow methods, and key industry options for generating auto-captions for long videos, focusing on **free tiers** and **practical workflows**.\n\n### \ud83c\udfc6 Top Recommendations for Free/Freemium Auto-Captions\n\n#### 1. **Descript** (Best for Editing + Captions)\n*   **Why it\u2019s great:** Descript doesn\u2019t just add captions; it transcribes your audio into editable"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054625404,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005210536,
+      "completion_tokens": 150,
+      "completion_time": 0.286154038,
+      "total_tokens": 229,
+      "total_time": 0.291364574
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_21e59ac2de",
+    "x_groq": {
+      "id": "req_01m82arh8qeexam0fyeh4ez0b8",
+      "seed": 1349037015
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2307,
+  "cost_usd": 0.0002
+}

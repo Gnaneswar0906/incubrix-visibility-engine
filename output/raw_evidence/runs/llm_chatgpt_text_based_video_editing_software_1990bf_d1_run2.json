@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing software",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for text-based video editing software, best tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations, workflow, maybe comparison table. Since they are US content creator, consider licensing, pricing, integration with other tools. Provide citations with links. Must ensure no disallowed content. It's fine.\n\nWe need to cite authoritative sources. We can reference official websites, reviews from PCMag, TechRadar, etc.\n\nWill produce answer with sections: Overview, Top Tools (including mentioned), Additional options, Workflow steps, Tips, Pricing, Conclusion.\n\nWill include citations like [1] etc.\n\nWill format",
+  "raw_payload": {
+    "id": "chatcmpl-7a8d3d21-901c-402d-999b-07f770c7c225",
+    "object": "chat.completion",
+    "created": 1795374650,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for text-based video editing software, best tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Need to cite authoritative web sources if available. Provide recommendations, workflow, maybe comparison table. Since they are US content creator, consider licensing, pricing, integration with other tools. Provide citations with links. Must ensure no disallowed content. It's fine.\n\nWe need to cite authoritative sources. We can reference official websites, reviews from PCMag, TechRadar, etc.\n\nWill produce answer with sections: Overview, Top Tools (including mentioned), Additional options, Workflow steps, Tips, Pricing, Conclusion.\n\nWill include citations like [1] etc.\n\nWill format"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369366315,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005274921,
+      "completion_tokens": 150,
+      "completion_time": 0.313804926,
+      "total_tokens": 284,
+      "total_time": 0.319079847,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82ap40fe1ba0y7pc64v3pfh",
+      "seed": 1028793040
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2987,
+  "cost_usd": 0.0002
+}

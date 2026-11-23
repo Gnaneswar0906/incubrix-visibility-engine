@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "most popular faceless youtube channels",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in India looking to break into or scale up in the lucrative world of faceless YouTube channels, you are targeting one of the platform\u2019s fastest-growing niches. Faceless channels (covering topics like finance, psychology, true crime, stoicism, and tech lists) rely heavily ",
+      "cost_usd": 0.0002,
+      "latency_ms": 5404,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_most_popular_faceless_youtube_chann_e43944_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Hey there! As a content creator based in India, diving into the faceless YouTube channel space is one of the smartest moves right now. The Indian YouTube market is booming, and niches like finance, motivation, true crime, history, and AI tech are pulling in massive view counts and ad revenue (RPM/CP",
+      "cost_usd": 0.0002,
+      "latency_ms": 6930,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_most_popular_faceless_youtube_chann_e43944_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_most_popular_faceless_youtube_chann_e43944_d1_IN.json"
+}

@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload youtube shorts",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "For a content creator based in Great Britain looking to streamline and automate the process of creating and publishing YouTube Shorts, the key lies in combining **AI-driven content repurposing** with **reliable scheduling and auto-upload tools**. \n\nHere is a breakdown of the best software tools, a recommended end-to-end workflow, and insights into the industry options you mentioned.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\n#### **Content Repurposing & Editing (AI-Driven)**\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It takes long-form horizontal videos (like podcasts, tutorials, or vlogs) and uses AI to automatically extract the most engaging hooks, crop them to 9:16 vertical format, add dynamic captions, and score them for virality. \n*   **Descript:** Excellent for text-based video editing. If you prefer to edit your Shorts by deleting text in",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For a content creator based in Great Britain looking to streamline and automate the process of creating and publishing YouTube Shorts, the key lies in combining **AI-driven content repurposing** with **reliable scheduling and auto-upload tools**. \n\nHere is a breakdown of the best software tools, a recommended end-to-end workflow, and insights into the industry options you mentioned.\n\n---\n\n### 1. Key Industry Software Tools & Platforms\n\n#### **Content Repurposing & Editing (AI-Driven)**\n*   **Opus Clip:** An industry favorite for generative AI video clipping. It takes long-form horizontal videos (like podcasts, tutorials, or vlogs) and uses AI to automatically extract the most engaging hooks, crop them to 9:16 vertical format, add dynamic captions, and score them for virality. \n*   **Descript:** Excellent for text-based video editing. If you prefer to edit your Shorts by deleting text in",
+              "thoughtSignature": "Eo4BCosBAWkUfRMUDYwE4NDkBnquw9z0ygA/4/Tkh9p8+U+zLB5FiqXTVdDwx/1WdVwsO+bibHyodvM0hBsTcqp2RcXXZWsgEmFqCXmIkKjFLuJlIsfJaiu3n4gEZ0rE8ppZWZtDC4qb4wh43k1Z6VlnjiEiTKch0zaXA4WBr4hStY1UMUGvS93uOebC0Zqwaw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "TkIDa6H3FPzG694PwObm4A8"
+  },
+  "latency_ms": 10167,
+  "cost_usd": 0.0002
+}

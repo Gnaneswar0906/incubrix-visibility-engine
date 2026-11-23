@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "youtube podcast to shorts ai free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello creator! As a content creator based in India (IN), leveraging AI to repurpose long-form YouTube podcasts into engaging Shorts, Reels, and TikToks is one of the smartest ways to scale your channel. \n\nHere is a comprehensive guide tailored to your query, featuring the best **free** software tool",
+      "cost_usd": 0.0002,
+      "latency_ms": 2226,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_podcast_to_shorts_ai_free_d429d2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'youtube podcast to shorts ai free' in IN, popular recommendations include Descript, Opus Clip. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 429
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_podcast_to_shorts_ai_free_d429d2_d1_IN.json"
+}

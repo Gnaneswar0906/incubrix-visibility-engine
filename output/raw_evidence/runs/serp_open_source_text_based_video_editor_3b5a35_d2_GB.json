@@ -1,0 +1,95 @@
+{
+  "query": "open source text based video editor",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.openshot.org/",
+  "competitors_named": "Descript",
+  "raw_response": {
+    "searchParameters": {
+      "q": "open source text based video editor",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for ...",
+        "link": "https://www.openshot.org/",
+        "displayedLink": "https://www.openshot.org",
+        "snippet": "OpenShot is an award-winning free and open-source video editor for Linux, Mac, and Windows. Create videos with exciting video effects, titles, audio tracks, and",
+        "position": 1
+      },
+      {
+        "title": "OpenReel Video - Professional browser-based video editor. Open ...",
+        "link": "https://github.com/Augani/openreel-video",
+        "displayedLink": "https://github.com \u203a Augani \u203a openreel-video",
+        "snippet": "OpenReel Video is a fully-featured browser-based video editor that runs entirely client-side. Built with React, TypeScript, WebCodecs, and WebGPU for ...",
+        "position": 2
+      },
+      {
+        "title": "OpenScript - Open-source, local-first video editor (Descript alternative)",
+        "link": "https://www.reddit.com/r/SideProject/comments/1q1smwa/openscript_opensource_localfirst_video_editor/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a openscript_opensource_local...",
+        "sitelinks": [
+          {
+            "title": "Video editor that works from plain-text filesSoftware Recommendations Stack Exchange\u00a0\u00b7\u00a02 answers\u00a0\u00b7\u00a07y",
+            "link": "https://softwarerecs.stackexchange.com/questions/62232/video-editor-that-works-from-plain-text-files"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Video editor that works from plain-text files",
+        "link": "https://softwarerecs.stackexchange.com/questions/62232/video-editor-that-works-from-plain-text-files",
+        "displayedLink": "https://softwarerecs.stackexchange.com \u203a questions \u203a 62232 \u203a video-editor-that-works-fro...",
+        "position": 4
+      },
+      {
+        "title": "Open source AI-powered video editor text based directly in your browser",
+        "link": "https://www.youtube.com/watch?v=ScHfE-xG7aw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This project is a web-based video editor that allows users to edit videos though the video transcription. It leverages the power of AI. Open\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "Descript: AI Video & Audio Text-based Editor \u2014 Try Free",
+        "link": "https://www.descript.com/",
+        "displayedLink": "https://www.descript.com",
+        "snippet": "Descript is the AI video and audio editor that makes editing as easy as editing text. Record, transcribe, edit, and publish in one tool. Try it free.",
+        "position": 6
+      },
+      {
+        "title": "Shotcut - Home",
+        "link": "https://www.shotcut.org/",
+        "displayedLink": "https://www.shotcut.org",
+        "snippet": "Shotcut is a free, open source, cross-platform video editor for Windows, Mac and Linux. Major features include support for a wide range of formats; no import ...",
+        "position": 7
+      },
+      {
+        "title": "OpenReel Video \u2014 Open Source AI Video Editor",
+        "link": "https://openreel.video/",
+        "displayedLink": "https://openreel.video",
+        "snippet": "OPENREEL VIDEO ... Open source video editing with a model-agnostic AI agent. MIT licensed, local-first, and free to use across web, desktop, iOS, and Android.",
+        "position": 8
+      },
+      {
+        "title": "List of video editing software",
+        "link": "https://en.wikipedia.org/wiki/List_of_video_editing_software",
+        "displayedLink": "https://en.wikipedia.org \u203a wiki \u203a List_of_video_editing_software",
+        "snippet": "Free (libre) or open-source. The software listed in this section is either free software or open source, DaVinci Resolve (macOS, Freemake Video Converter ( ...",
+        "position": 9
+      },
+      {
+        "title": "Edit Videos by Editing Text | YusafCut Open Source",
+        "link": "https://www.youtube.com/watch?v=92o6ufr-EIw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "YusafCut is an open-source native macOS text-based video editor built with Rust and TypeScript. Instead of searching through a timeline,\u00a0...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

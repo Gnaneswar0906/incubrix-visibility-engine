@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IncuBrix",
+  "operatingSystem": "Web, Windows, macOS",
+  "applicationCategory": "MultimediaApplication",
+  "applicationSubCategory": "AI Video Editor & Repurposing Tool",
+  "description": "AI video repurposing platform that turns long-form podcasts and videos into viral vertical shorts with animated captions.",
+  "url": "https://incubrix.com/",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "category": "Free Plan"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "142"
+  }
+}

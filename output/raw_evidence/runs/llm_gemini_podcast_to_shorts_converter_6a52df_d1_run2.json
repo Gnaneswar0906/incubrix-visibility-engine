@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts converter",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to scale your reach, repurposing long-form podcast episodes into short-form videos (TikToks, Instagram Reels, YouTube Shorts) is one of the highest-ROI strategies available. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and an efficient workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing has exploded. Here is how the top tools stack up, categorized by their strengths:\n\n#### 1. AI-Driven Repurposing Giants (Best for Hands-Off Automation)\n*   **Opus Clip:** One of the most popular tools for podcasters. It uses AI to analyze your long-form video, score clips based on viral potential, add captions, and automatically re-frame speakers. According to reviews on creator economy platforms like *Creator Wizard*,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to scale your reach, repurposing long-form podcast episodes into short-form videos (TikToks, Instagram Reels, YouTube Shorts) is one of the highest-ROI strategies available. \n\nHere is a comprehensive breakdown of the best software tools, key industry options (including your mentioned platforms), and an efficient workflow method to maximize your output.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe market for AI-driven video repurposing has exploded. Here is how the top tools stack up, categorized by their strengths:\n\n#### 1. AI-Driven Repurposing Giants (Best for Hands-Off Automation)\n*   **Opus Clip:** One of the most popular tools for podcasters. It uses AI to analyze your long-form video, score clips based on viral potential, add captions, and automatically re-frame speakers. According to reviews on creator economy platforms like *Creator Wizard*,",
+              "thoughtSignature": "Eo4BCosBAWkUfRMs1ItNjVCRk2bLXC57ZiHgQraeKXDd6eoSKsCUnlBvTZRDwovnOEICuLaV7r+p0s+H6ArgeKcMnSpbTDBVug2sd4uJyJbBvmuEmekTWV82YxeVSq1cIxc27kYU/NGowaz07ODVbJyTvEGXTLRAkY1ptHtmM9+G3qjO66ltJEIDwPsN1jcTqw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 62,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 62
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "qz0Da9_9KZyqjuMPmofTQQ"
+  },
+  "latency_ms": 3349,
+  "cost_usd": 0.0002
+}

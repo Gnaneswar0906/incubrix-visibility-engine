@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video free reddit",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in India looking to auto-generate free video captions (often discussed on Reddit communities like r/NewTubers, r/VideoEditing, or r/ContentCreators), you need tools that balance zero-cost accessibility with high-engagement styling (dynamic, karaoke-style subtitles popular on Reels, Shorts, and TikTok). \n\nBased on current creator consensus and industry standards, here is a breakdown of the best software tools, workflow methods, and specific mentions of the platforms you asked about.\n\n---\n\n### 1. Industry Options & Software Recommendations\n\n#### **CapCut (Best Overall Free Option)**\n*   **What it is:** A massively popular video editor available on mobile, desktop, and web. \n*   **Caption Feature:** \"Auto Captions\" generates subtitles in seconds with high accuracy. \n*   **Why it\u2019s great for Reddit users:** Unlike many web-based tools that charge for exports, CapCut\u2019",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India looking to auto-generate free video captions (often discussed on Reddit communities like r/NewTubers, r/VideoEditing, or r/ContentCreators), you need tools that balance zero-cost accessibility with high-engagement styling (dynamic, karaoke-style subtitles popular on Reels, Shorts, and TikTok). \n\nBased on current creator consensus and industry standards, here is a breakdown of the best software tools, workflow methods, and specific mentions of the platforms you asked about.\n\n---\n\n### 1. Industry Options & Software Recommendations\n\n#### **CapCut (Best Overall Free Option)**\n*   **What it is:** A massively popular video editor available on mobile, desktop, and web. \n*   **Caption Feature:** \"Auto Captions\" generates subtitles in seconds with high accuracy. \n*   **Why it\u2019s great for Reddit users:** Unlike many web-based tools that charge for exports, CapCut\u2019",
+              "thoughtSignature": "Eo4BCosBAWkUfRMgdFiAVVa4YIoC7Ppx2FP2WLs0z5BkwzyZJmk2zJmDwcZzyNz8iIc6FW0cfak8Fuk3/2SkIaNAouZ/Luctm9VyiVhutepi4DoRKoQwPL5l81COholSO7DXm4qyd1RnT6f80fuwVoMnvfPWAaAhVrhVzPUAsog6zMhugc4kZfzxMt5kD6IKBA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "bkADa_jkKrHPz7sP3JTPsAs"
+  },
+  "latency_ms": 2408,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai agent",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user wants recommendation for faceless YouTube channel AI agent: best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide a thorough answer.\n\nWe need to comply with policy. It's allowed. P",
+      "cost_usd": 0.0002,
+      "latency_ms": 3392,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_agent_496624_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in 2024 requires a blend of automation, high-quality AI generation, and smart post-production. Since you are looking to build an **AI agent-driven** workflow (or at least a semi-automated pipeline), the goal is to minimize manual intervention while maxi",
+      "cost_usd": 0.0002,
+      "latency_ms": 2562,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_agent_496624_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_agent_496624_d1_US.json"
+}

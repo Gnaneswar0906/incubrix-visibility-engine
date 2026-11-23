@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video website",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: auto caption generator for video website. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations of best software tools, workflow methods, and mention key industry options, citing sources. Must be safe. Provide a thorough answer. Use markdown. Cite sources with links. Should mention auto caption generation for video website, maybe for uploading to website, SEO, accessibility. Include tools: Descript, Kapwing, Rev.com, Rev.ai, Google Cloud Speech-to-",
+  "raw_payload": {
+    "id": "chatcmpl-a03ebe0a-da78-4a53-a405-6ec0b1e1ae22",
+    "object": "chat.completion",
+    "created": 1795376640,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: auto caption generator for video website. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide recommendations of best software tools, workflow methods, and mention key industry options, citing sources. Must be safe. Provide a thorough answer. Use markdown. Cite sources with links. Should mention auto caption generation for video website, maybe for uploading to website, SEO, accessibility. Include tools: Descript, Kapwing, Rev.com, Rev.ai, Google Cloud Speech-to-"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054016228,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005029032,
+      "completion_tokens": 150,
+      "completion_time": 0.314106283,
+      "total_tokens": 285,
+      "total_time": 0.319135315,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_420c059a6a",
+    "x_groq": {
+      "id": "req_01m82cjw8yekevptg840xye0n1",
+      "seed": 534843507
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1858,
+  "cost_usd": 0.0002
+}

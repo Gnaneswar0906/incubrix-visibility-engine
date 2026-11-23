@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "text video editor free",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are likely looking for tools that balance **cost-effectiveness** with **high-quality output**, especially given the competitive nature of the Indian digital market.\n\nHere are the best free and freemium text-to-video and text-based video editing tools, ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1179,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editor_free_768f5f_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in India, asking for \"text video editor free\". They want recommendations of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to provide recommen",
+      "cost_usd": 0.0002,
+      "latency_ms": 2366,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_video_editor_free_768f5f_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_video_editor_free_768f5f_d1_IN.json"
+}

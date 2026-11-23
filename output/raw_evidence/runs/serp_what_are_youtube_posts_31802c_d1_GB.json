@@ -1,0 +1,139 @@
+{
+  "query": "what are youtube posts",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what are youtube posts",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Do YouTube posts do anything : r/NewTubers",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a do_youtube_posts_do_anything",
+        "snippet": "I was wondering if I should be using them or not to help myself out.",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvra7d0/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvr4p3j/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvr27f6/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvr5jv7/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvr5tjk/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvrb965/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvrfwbu/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvru6c9/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1gl419l/do_youtube_posts_do_anything/lvrzc02/"
+          },
+          {
+            "title": "Does anyone actually use the posts tab on YouTube? : r/NewTubersr/NewTubers\u00b740+ comments\u00b711mo",
+            "link": "https://www.reddit.com/r/NewTubers/comments/1pmzqox/does_anyone_actually_use_the_posts_tab_on_youtube/"
+          },
+          {
+            "title": "How do posts work? : r/youtube - Redditr/youtube\u00b75 comments\u00b710mo",
+            "link": "https://www.reddit.com/r/youtube/comments/1qevpdt/how_do_posts_work/"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "title": "Learn about posts - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/9409631?hl=en-GB",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 9409631",
+        "snippet": "You can create posts to connect and interact with your viewers through polls, quizzes, GIFs, text, music, images and video.",
+        "position": 2
+      },
+      {
+        "title": "YouTube Posts",
+        "link": "https://www.youtube.com/watch?v=wF_lsScEArw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Posts give creators an easy, lightweight way to engage with their audience through polls, quizzes, text, and more.",
+        "position": 3
+      },
+      {
+        "title": "How to Make a Community Post on YouTube - Step by Step Tutorial",
+        "link": "https://www.youtube.com/watch?v=6xHQv5VQaAY",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to post text, image polls, quizzes, and even schedule your posts \u2026 grow your channel faster through Community Posts!",
+        "position": 4
+      },
+      {
+        "title": "Communities on YouTube",
+        "link": "https://www.youtube.com/watch?v=hXG8T0Gk438",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Communities on YouTube provide a dedicated space for you and your subscribers to have conversations, share updates, and connect \u2013 right from\u00a0...",
+        "position": 5
+      },
+      {
+        "title": "YouTube Community Posts: What They Are and 11+ Ways to Use Them",
+        "link": "https://buffer.com/resources/youtube-community-posts/",
+        "displayedLink": "https://buffer.com \u203a resources \u203a youtube-community-posts",
+        "snippet": "YouTube Community Posts are like a mini Facebook or Twitter/X Feed tied to your YouTube Channel, allowing you a way to share lightweight updates ...",
+        "date": "29 Jul 2024",
+        "position": 6
+      },
+      {
+        "title": "5 Types of YouTube Post",
+        "link": "https://blogen.influence4you.com/5-types-of-youtube-post/",
+        "displayedLink": "https://blogen.influence4you.com \u203a 5-types-of-youtube-post",
+        "snippet": "Community posts can include images, videos, text, GIFs, and polls. Community posts allow you to be in touch with your audience outside of video ...",
+        "date": "19 Nov 2021",
+        "position": 7
+      },
+      {
+        "title": "How to Post on YouTube: A Step-by-Step Guide for Beginners",
+        "link": "https://connectmgt.com/management/blog/how-to-post-on-youtube-a-step-by-step-guide-for-beginners",
+        "displayedLink": "https://connectmgt.com \u203a management \u203a blog \u203a how-to-post-on-youtube-a-st...",
+        "snippet": "New to YouTube? This beginner-friendly guide shows you how to upload, optimise, and promote your first video to start growing your channel.",
+        "position": 8
+      },
+      {
+        "title": "How to Create Posts on YouTube (Full Guide)",
+        "link": "https://www.youtube.com/watch?v=ONpsRhHcdyw",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to create posts on YouTube. Utilizing text, images, GIFs, polls, quizzes, and video posts from the YouTube Posts tab (formerly the\u00a0...",
+        "position": 9
+      },
+      {
+        "title": "Start your Community - Android phone & tablet - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/15739414?hl=en&co=GENIE.Platform%3DAndroid",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 15739414",
+        "snippet": "In your Community, your subscribers can start discussions about your videos, share pictures, and other activities that create more engagement about your videos.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

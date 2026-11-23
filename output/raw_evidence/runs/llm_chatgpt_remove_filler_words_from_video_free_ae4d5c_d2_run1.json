@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! For content creators in the UK (GB) looking to efficiently remove filler words (like \"um,\" \"uh,\" \"you know\") from video projects for free, here are the best software tools, workflow methods, and industry options.\n\n### \ud83e\udd47 Top Free & Freemium Tools for Filler Word Removal\n\n1. **Descript (Free Tier)**\n   - **Why it\u2019s top-tier:** Descript is revolutionary because it edits video by editing a transcript. You can highlight filler words in the text and delete them, and the video automatically cuts those segments.\n   - **Free Tier Limits:** 10 hours of transcription/month, 720p export, no watermark on MP4.\n   -",
+  "raw_payload": {
+    "id": "chatcmpl-34cda7b4-c051-4c90-88b5-56aa84d656e4",
+    "object": "chat.completion",
+    "created": 1795377322,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! For content creators in the UK (GB) looking to efficiently remove filler words (like \"um,\" \"uh,\" \"you know\") from video projects for free, here are the best software tools, workflow methods, and industry options.\n\n### \ud83e\udd47 Top Free & Freemium Tools for Filler Word Removal\n\n1. **Descript (Free Tier)**\n   - **Why it\u2019s top-tier:** Descript is revolutionary because it edits video by editing a transcript. You can highlight filler words in the text and delete them, and the video automatically cuts those segments.\n   - **Free Tier Limits:** 10 hours of transcription/month, 720p export, no watermark on MP4.\n   -"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.067488121,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005848559,
+      "completion_tokens": 150,
+      "completion_time": 0.303632434,
+      "total_tokens": 228,
+      "total_time": 0.309480993
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82d7pgwemp8j8zwnakrr0hj",
+      "seed": 2058412790
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1333,
+  "cost_usd": 0.0002
+}

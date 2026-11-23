@@ -1,0 +1,90 @@
+{
+  "query": "what is text based video editing",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/text-based-video-editing",
+  "competitors_named": "Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "what is text based video editing",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text-Based Video Editing - Edit Videos With Text",
+        "link": "https://www.veed.io/tools/text-based-video-editing",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a text-based-video-editing",
+        "snippet": "Text-based video editing lets you edit videos by modifying the transcript rather than manipulating clips on a timeline. Simply delete unwanted text",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "Text Based Video Editing For Beginners 2026",
+        "link": "https://www.youtube.com/watch?v=1VN8ema1G30",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Learn how to use text based video editing with Riverside to save a ton of time in your post production process.",
+        "position": 2
+      },
+      {
+        "title": "Text-Based Editing overview in Premiere",
+        "link": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing.html",
+        "displayedLink": "https://helpx.adobe.com \u203a premiere \u203a ... \u203a overview-of-text-based-edit...",
+        "snippet": "Use Text-Based Editing to create and edit video sequences using a transcript of the video. When you select and rearrange the text, related video ...",
+        "date": "7 Jan 2026",
+        "position": 3
+      },
+      {
+        "title": "AI Video Editing Software | Edit Video by Typing",
+        "link": "https://www.descript.com/video-editing",
+        "displayedLink": "https://www.descript.com \u203a video-editing",
+        "snippet": "Descript turns your video into a text transcript, so you can delete words, rearrange sentences, or copy-paste clips the same way you'd edit text in a doc. It's ...",
+        "rating": 4.6,
+        "ratingCount": 936,
+        "position": 4
+      },
+      {
+        "title": "Text-Based Video Editing",
+        "link": "https://www.visla.us/text-based-video-editing",
+        "displayedLink": "https://www.visla.us \u203a text-based-video-editing",
+        "snippet": "Text-based video editing means you edit your video by editing a transcript. Visla turns your video's audio into text, so you can cut or move parts by editing ...",
+        "position": 5
+      },
+      {
+        "title": "Text Based Video Editing - All You Need To Know",
+        "link": "https://www.youtube.com/watch?v=zMCKzNWwhgs",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "And in this video we dive into how it works inside Premiere as well as Riverside. What actually is text based editing?",
+        "position": 6
+      },
+      {
+        "title": "Text-Based Video Editor: Edit Video like a Doc",
+        "link": "https://vimeo.com/features/video-editor/text-based-video-editor",
+        "displayedLink": "https://vimeo.com \u203a features \u203a video-editor \u203a text-based-video-editor",
+        "snippet": "Vimeo's text-based editor is a tool designed to use the video's AI-generated transcript as a way for you to select text and delete its corresponding video clip.",
+        "position": 7
+      },
+      {
+        "title": "Text-Based Video Editor - Edit Video by Editing Text Free",
+        "link": "https://www.choppity.com/tools/text-based-video-editor-tool/",
+        "displayedLink": "https://www.choppity.com \u203a tools \u203a text-based-video-editor-tool",
+        "snippet": "Text-based editing lets you read your content and make editing decisions at the speed of reading. You can spot filler words, tangents, and weak sections ...",
+        "position": 8
+      },
+      {
+        "title": "Text-Based Video Editing: Edit the Transcript | Selects Blog",
+        "link": "https://tryselects.com/blog/text-based-video-editing/",
+        "displayedLink": "https://tryselects.com \u203a blog \u203a text-based-video-editing",
+        "snippet": "Text-based video editing lets you cut a video by deleting words from its transcript. How it works, where it falls short, top tools and how ...",
+        "date": "6 Nov 2026",
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

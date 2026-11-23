@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto poster for youtube",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Klap",
+    "Veed.io"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'auto poster for youtube' in GB, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 387
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in Great Britain looking to streamline your workflow with an **auto-poster for YouTube** and accompanying automation tools, the goal is to move from raw footage to a scheduled, optimized YouTube upload with minimal manual friction. \n\nTrue \"auto-posting\" for YouTube usually invol",
+      "cost_usd": 0.0002,
+      "latency_ms": 2901,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_poster_for_youtube_df166e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_poster_for_youtube_df166e_d1_GB.json"
+}

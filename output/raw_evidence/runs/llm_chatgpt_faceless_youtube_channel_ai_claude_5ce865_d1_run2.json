@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai claude",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for best software tools, workflow methods for a faceless YouTube channel using AI Claude? They mention \"faceless youtube channel ai claude\". Likely they want to use Claude AI (Anthropic) for script generation, voiceover, etc. Provide tools like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe must provide answer, no disallowed content. It's allowed. Provide citations with links. Use markdown. Provide workflow steps: ideation, script, AI voice, video creation, editing, thumbnail, SEO, scheduling. Mention Claude for script generation, use tools like Notion, etc. Provide pros/cons.\n\nCite sources: e.g.,",
+  "raw_payload": {
+    "id": "chatcmpl-bdf3fb5b-4486-471f-8517-95bd473f0f07",
+    "object": "chat.completion",
+    "created": 1795375801,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for best software tools, workflow methods for a faceless YouTube channel using AI Claude? They mention \"faceless youtube channel ai claude\". Likely they want to use Claude AI (Anthropic) for script generation, voiceover, etc. Provide tools like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources.\n\nWe must provide answer, no disallowed content. It's allowed. Provide citations with links. Use markdown. Provide workflow steps: ideation, script, AI voice, video creation, editing, thumbnail, SEO, scheduling. Mention Claude for script generation, use tools like Notion, etc. Provide pros/cons.\n\nCite sources: e.g.,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.284902439,
+      "prompt_tokens": 136,
+      "prompt_time": 0.00537527,
+      "completion_tokens": 150,
+      "completion_time": 0.312787631,
+      "total_tokens": 286,
+      "total_time": 0.318162901,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_49bfac06f1",
+    "x_groq": {
+      "id": "req_01m82bs84aemhtxn2kh5q60d81",
+      "seed": 1038395191
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3386,
+  "cost_usd": 0.0002
+}

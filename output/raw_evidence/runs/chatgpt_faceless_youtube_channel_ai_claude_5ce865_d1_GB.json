@@ -1,0 +1,46 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai claude",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for a faceless YouTube channel AI Claude. Likely they want to use Claude (Anthropic) for AI content generation. Provide a comprehensive answer, with work",
+      "cost_usd": 0.0002,
+      "latency_ms": 2805,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_claude_5ce865_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation for best software tools, workflow methods for a faceless YouTube channel using AI Claude? They mention \"faceless youtube channel ai claude\". Likely they want to use Claude AI (Anthropic) for script generation, voiceover, etc. Provide tools like IncuBrix, CapCut, Opus Cl",
+      "cost_usd": 0.0002,
+      "latency_ms": 3386,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_claude_5ce865_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_claude_5ce865_d1_GB.json"
+}

@@ -1,0 +1,93 @@
+{
+  "query": "chop ai vs opus clip reddit",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.opus.pro/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "chop ai vs opus clip reddit",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OpusClip: #1 AI video clipping and editing tool",
+        "link": "https://www.opus.pro/",
+        "displayedLink": "https://www.opus.pro",
+        "snippet": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. We help 20M+ creators create and grow ...",
+        "position": 1
+      },
+      {
+        "title": "Comprehensive Land Information Portal (CLIP) | Govt. of Tamil Nadu",
+        "link": "https://clip.tn.gov.in/",
+        "displayedLink": "https://clip.tn.gov.in",
+        "snippet": "Comprehensive Land Information Portal (CLIP) The information provided online is up to date and no physical visit to the concerned departments ...",
+        "date": "9 Oct 2024",
+        "position": 2
+      },
+      {
+        "title": "CLIP: Connecting text and images",
+        "link": "https://openai.com/index/clip/",
+        "displayedLink": "https://openai.com \u203a index \u203a clip",
+        "snippet": "CLIP which efficiently learns visual concepts from natural language supervision. achieves 88% accuracy, CLIP has a top-1 accuracy of 59.2%",
+        "date": "5 Jan 2021",
+        "position": 3
+      },
+      {
+        "title": "CLIP (Contrastive Language-Image Pretraining), Predict the most ...",
+        "link": "https://github.com/openai/CLIP",
+        "displayedLink": "https://github.com \u203a openai \u203a CLIP",
+        "snippet": "CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to ...",
+        "position": 4
+      },
+      {
+        "title": "CLIP",
+        "link": "https://clip.cmpdi.co.in/",
+        "displayedLink": "https://clip.cmpdi.co.in",
+        "snippet": "Contract Labour Information Portal (CLIP) provides for regulation of the employment of contract labour",
+        "position": 5
+      },
+      {
+        "title": "CLIP",
+        "link": "https://huggingface.co/docs/transformers/en/model_doc/clip",
+        "displayedLink": "https://huggingface.co \u203a docs \u203a ... \u203a clip",
+        "snippet": "We're on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "position": 6
+      },
+      {
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "link": "https://arxiv.org/abs/2103.00020",
+        "displayedLink": "https://arxiv.org \u203a abs \u203a 2103.00020",
+        "snippet": "by A Radford \u00b7 2021 \u00b7 Cited by 79867 \u2014 Learning directly from raw text about images is a promising alternative which leverages a much broader source of supervision. Reddit ...",
+        "position": 7
+      },
+      {
+        "title": "How AI 'Understands' Images (CLIP) - Computerphile",
+        "link": "https://www.youtube.com/watch?v=KcSXcpluDe4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "With the explosion of AI image generators, AI images are everywhere, but how do they 'know' how to turn text strings into plausible images?",
+        "position": 8
+      },
+      {
+        "title": "Pricing",
+        "link": "https://www.opus.pro/pricing",
+        "displayedLink": "https://www.opus.pro \u203a pricing",
+        "snippet": "Free \u00b7 60 credits. Tooltip icon. per month \u00b7 Up to 1080p rendered clips \u00b7 Auto reframe \u00b7 AI captions with emoji and keyword highlighter \u00b7 Has watermark \u00b7 No editing.",
+        "position": 9
+      },
+      {
+        "title": "How to Stick With Good Habits Every Day by Using the \"Paper Clip Strategy\"",
+        "link": "https://jamesclear.com/paper-clips",
+        "displayedLink": "https://jamesclear.com \u203a paper-clips",
+        "snippet": "Why do some good habits stick while others fail? Learn about the paper clip strategy, a visual cue you can use to stick with good habits every day.",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

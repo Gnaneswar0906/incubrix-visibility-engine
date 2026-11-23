@@ -1,0 +1,43 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Klap",
+    "Munch",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Vidyo.ai",
+        "CapCut",
+        "Descript"
+      ],
+      "snippet": "For 'podcast to shorts converter free' in US, popular recommendations include Vidyo.ai, CapCut, Descript. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 391
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Opus Clip",
+        "Munch",
+        "Klap"
+      ],
+      "snippet": "For 'podcast to shorts converter free' in US, popular recommendations include Opus Clip, Munch, Klap. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 475
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_to_shorts_converter_free_354f22_d2_US.json"
+}

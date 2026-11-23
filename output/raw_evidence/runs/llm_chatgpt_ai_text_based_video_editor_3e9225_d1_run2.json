@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "ai text based video editor",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## AI\u2011Powered **Text\u2011Based Video Editing** \u2013 A Practical Guide for Indian Creators  \n\nBelow is a concise \u201ctool\u2011plus\u2011workflow\u201d",
+  "raw_payload": {
+    "id": "chatcmpl-eea890f2-e332-4d2f-b07e-4cb95098e0fc",
+    "object": "chat.completion",
+    "created": 1795375170,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## AI\u2011Powered **Text\u2011Based Video Editing** \u2013 A Practical Guide for Indian Creators  \n\nBelow is a concise \u201ctool\u2011plus\u2011workflow\u201d",
+          "reasoning": "The user is in India (IN). Wants recommendation of best software tools, workflow methods, and mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Provide authoritative web sources citations. Must comply with policy: no disallowed content. It's fine. Provide recommendations, workflow, mention pricing, features, pros/cons, integration, etc. Cite sources with links. Use markdown. Ensure not to fabricate sources; but can reference known sites like TechRadar, CNET, PCMag, etc. Provide citations."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367432806,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005861213,
+      "completion_tokens": 150,
+      "completion_time": 0.314153638,
+      "total_tokens": 284,
+      "total_time": 0.320014851,
+      "completion_tokens_details": {
+        "reasoning_tokens": 111
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_b1dd3e7a63",
+    "x_groq": {
+      "id": "req_01m82b60q5ejvvmzk5sf9atkg2",
+      "seed": 1819510522
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2460,
+  "cost_usd": 0.0002
+}

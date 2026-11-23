@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-driven workflow that transcribes spoken audio in a video into written text. Instead of manipulating complex visual timelines, cutting waveforms, and dragging razor tools, editors simply highlight, delete, copy, or paste the text in a transcript. \n\nWhen you delete a sentence or word from the text document, the corresponding video and audio frames are automatically removed from the timeline. Conversely, rearranging paragraphs rearranges the video clips. This paradigm shift reduces rough-cut editing time by up to 80%, transforming video editing into something that feels as simple as editing a Google Doc or Word document.\n\n---\n\n### Key Industry Options & Recommendations\n\nFor a content creator based in **India (IN)**, your choice of tool depends on your primary output\u2014whether you are producing long-form YouTube tutorials, localized regional content, or viral short-",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-driven workflow that transcribes spoken audio in a video into written text. Instead of manipulating complex visual timelines, cutting waveforms, and dragging razor tools, editors simply highlight, delete, copy, or paste the text in a transcript. \n\nWhen you delete a sentence or word from the text document, the corresponding video and audio frames are automatically removed from the timeline. Conversely, rearranging paragraphs rearranges the video clips. This paradigm shift reduces rough-cut editing time by up to 80%, transforming video editing into something that feels as simple as editing a Google Doc or Word document.\n\n---\n\n### Key Industry Options & Recommendations\n\nFor a content creator based in **India (IN)**, your choice of tool depends on your primary output\u2014whether you are producing long-form YouTube tutorials, localized regional content, or viral short-",
+              "thoughtSignature": "Eo4BCosBAWkUfRMYtq+GFYNK0ZuvBmJ+rb7BrI2w5RomQc6pQumQ9VNGB//daIChR7WPRy7efL2NX3Zp6cXDCBDI8NdyF9g2RVFowQc+na8bjEH/E82gpamE1REJn0mxsKyYAGRu0pTajPfJwvFSJgonQMTSE0/0vZ/TKFb95DDBrS0jLkUj9wSRTuOsv30zhg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "J0ADa4SFNLGl694PkZztgAs"
+  },
+  "latency_ms": 6757,
+  "cost_usd": 0.0002
+}

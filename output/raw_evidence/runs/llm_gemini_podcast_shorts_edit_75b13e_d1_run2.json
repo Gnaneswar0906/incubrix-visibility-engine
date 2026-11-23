@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts edit",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a U.S.-based content creator, I have broken down the best tools, industry options, and workflows for editing podcast shorts (reels, TikToks, and YouTube Shorts). \n\nCreating viral podcast shorts requires speed, accurate captioning, dynamic text animations, and smart cropping to keep the speaker centered. Here is the ultimate guide to software, workflows, and key industry tools.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe podcast clipping landscape is divided into **AI-powered repurposing tools** (which automate the finding and cutting of clips) and **traditional timeline editors** (which offer granular, manual control).\n\n#### 1. AI-Powered Clipping Tools (Fastest Workflow)\n*   **Opus Clip:** Widely considered an industry leader for generative AI clipping. You drop in a long-form YouTube link or video file, and its AI analyzes the transcript to find \"hooks,\" generates",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a U.S.-based content creator, I have broken down the best tools, industry options, and workflows for editing podcast shorts (reels, TikToks, and YouTube Shorts). \n\nCreating viral podcast shorts requires speed, accurate captioning, dynamic text animations, and smart cropping to keep the speaker centered. Here is the ultimate guide to software, workflows, and key industry tools.\n\n---\n\n### Part 1: Key Industry Options & Software Tools\n\nThe podcast clipping landscape is divided into **AI-powered repurposing tools** (which automate the finding and cutting of clips) and **traditional timeline editors** (which offer granular, manual control).\n\n#### 1. AI-Powered Clipping Tools (Fastest Workflow)\n*   **Opus Clip:** Widely considered an industry leader for generative AI clipping. You drop in a long-form YouTube link or video file, and its AI analyzes the transcript to find \"hooks,\" generates",
+              "thoughtSignature": "Eo4BCosBAWkUfRO39WVx+hXeTfi6GSsOFYQJpaV6lM2kKW0yHgPQ4fLaBkV2lRWDTbNaXM2zUcfjBf5bOJbg07+ZrZA0HRXm+1lYH64h4ognv0NvYUvi7O1X0xblh/sxgNgYYqUhXYl+OgoqsmCz4u9arL546xlCK1xGFWQK5dbTb46qGvRic5tjAsftkyBg/A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 61,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 257,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 61
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "0j0Da-WgN9rt1_oPxZShyQs"
+  },
+  "latency_ms": 5334,
+  "cost_usd": 0.0002
+}

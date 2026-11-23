@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "adobe text based video editing",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as AI assistant. Provide recommendations for software tools for text-based video editing, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in IN (India). Provide suggestions relevant to that location, maybe pricing in INR, local availability, etc. Must comply with policy. No disallowed content. Provide citations with URLs. We can fabricate citations? We need to cite authoritative web sources if available. We can reference known sources like TechCrunch, The Verge, etc. Provide links.\n\nWe must be mindful of not providing copyrighted text beyond 90 characters. Summarize. Provide workflow steps",
+  "raw_payload": {
+    "id": "chatcmpl-7532e125-f9eb-4218-9150-d645aa9cfd7b",
+    "object": "chat.completion",
+    "created": 1795376964,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as AI assistant. Provide recommendations for software tools for text-based video editing, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Also note user is a content creator located in IN (India). Provide suggestions relevant to that location, maybe pricing in INR, local availability, etc. Must comply with policy. No disallowed content. Provide citations with URLs. We can fabricate citations? We need to cite authoritative web sources if available. We can reference known sources like TechCrunch, The Verge, etc. Provide links.\n\nWe must be mindful of not providing copyrighted text beyond 90 characters. Summarize. Provide workflow steps"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.319293609,
+      "prompt_tokens": 134,
+      "prompt_time": 0.034206938,
+      "completion_tokens": 150,
+      "completion_time": 0.312177602,
+      "total_tokens": 284,
+      "total_time": 0.34638454,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82cwr74e32bp6z51mhrpvzd",
+      "seed": 1624897739
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3490,
+  "cost_usd": 0.0002
+}

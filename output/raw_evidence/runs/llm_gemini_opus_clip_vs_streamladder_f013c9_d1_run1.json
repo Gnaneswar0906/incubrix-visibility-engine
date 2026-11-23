@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As a content creator in Great Britain looking to turn long-form videos (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right tool is essential. \n\nWhen comparing **Opus Clip** and **Streamladder**, you are looking at two very different philosophies of short-form repurposing: **AI-driven automation** versus **manual control and stream-focused formatting**.\n\nHere is a comprehensive breakdown, workflow recommendations, and a look at how other industry giants compare.\n\n---\n\n### 1. Opus Clip vs. Streamladder: Head-to-Head\n\n#### **Opus Clip**\n*   **What it is:** An AI-powered generative video clipping tool. You drop in a YouTube link, and its AI analyzes the transcript, finds the most engaging hooks, cuts them into standalone clips, adds auto-captions, and even scores them based on perceived viral potential",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in Great Britain looking to turn long-form videos (like YouTube videos, podcasts, or streams) into viral short-form content for TikTok, Instagram Reels, and YouTube Shorts, choosing the right tool is essential. \n\nWhen comparing **Opus Clip** and **Streamladder**, you are looking at two very different philosophies of short-form repurposing: **AI-driven automation** versus **manual control and stream-focused formatting**.\n\nHere is a comprehensive breakdown, workflow recommendations, and a look at how other industry giants compare.\n\n---\n\n### 1. Opus Clip vs. Streamladder: Head-to-Head\n\n#### **Opus Clip**\n*   **What it is:** An AI-powered generative video clipping tool. You drop in a YouTube link, and its AI analyzes the transcript, finds the most engaging hooks, cuts them into standalone clips, adds auto-captions, and even scores them based on perceived viral potential",
+              "thoughtSignature": "Eo4BCosBAWkUfRM/AFl53J11T3waVZoth/c08L2P2O8ipgrvrs60GPoHzukQr9+XatAvKPCWfxMsshexo7Yk3FHkd9s5RRz1hrTFtVBoRcVtcFJyA2MT24vKKJXaZ/Y1FVurTjcH7U8dmJExw4ACOQTHKqGudZX07LuYtCOVYM+0gl2mAALMl9LPGN9zaoalRw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 259,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "tEIDa97FLKHJv_gPkeGR0QY"
+  },
+  "latency_ms": 2681,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs agent opus",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond as an AI assistant, answering query from a content creator in US. They ask: \"opus clip vs agent opus\". Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe should explain difference between Opus Clip and Agent Opus (maybe Agent Opus is a tool? Actually Agent Opus might be a different product? Need to research: Opus Clip is an AI video clipping tool that creates short clips from long-form video. Agent Opus maybe a tool for audio? Could be \"Agent Opus\" from \"OpenAI\"? Not sure. Might be \"Agent Opus\"",
+  "raw_payload": {
+    "id": "chatcmpl-1dd7219b-b8ff-4584-a74f-7965ee49e3a5",
+    "object": "chat.completion",
+    "created": 1795376744,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond as an AI assistant, answering query from a content creator in US. They ask: \"opus clip vs agent opus\". Recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe should explain difference between Opus Clip and Agent Opus (maybe Agent Opus is a tool? Actually Agent Opus might be a different product? Need to research: Opus Clip is an AI video clipping tool that creates short clips from long-form video. Agent Opus maybe a tool for audio? Could be \"Agent Opus\" from \"OpenAI\"? Not sure. Might be \"Agent Opus\""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.1616173,
+      "prompt_tokens": 134,
+      "prompt_time": 0.026485759,
+      "completion_tokens": 150,
+      "completion_time": 0.309718342,
+      "total_tokens": 284,
+      "total_time": 0.336204101,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_c3da0d4bb9",
+    "x_groq": {
+      "id": "req_01m82cp1eje4dar2vnd7efpmy3",
+      "seed": 1023606226
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2747,
+  "cost_usd": 0.0002
+}

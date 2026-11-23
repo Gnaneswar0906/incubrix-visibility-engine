@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editor free",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Quick\u2011Pick: Free Text\u2011Based Video Editors (2024)\n\n| Tool | Core \u201ctext\u2011to\u2011video\u201d features | Free tier limits |",
+  "raw_payload": {
+    "id": "chatcmpl-c61a2e18-6116-4191-b425-c8382759c435",
+    "object": "chat.completion",
+    "created": 1795374637,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Quick\u2011Pick: Free Text\u2011Based Video Editors (2024)\n\n| Tool | Core \u201ctext\u2011to\u2011video\u201d features | Free tier limits |",
+          "reasoning": "We need to answer as an AI assistant, for a US content creator, recommending best software tools for text-based video editing, free options, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must ensure compliance with policy: no copyrighted text beyond 90 characters. Provide citations with URLs. Provide a list of tools, their features, pros/cons, workflow steps. Provide links to official sites or reputable reviews. Should be helpful.\n\nLet's draft."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.367699039,
+      "prompt_tokens": 134,
+      "prompt_time": 0.0058214,
+      "completion_tokens": 150,
+      "completion_time": 0.314028331,
+      "total_tokens": 284,
+      "total_time": 0.319849731,
+      "completion_tokens_details": {
+        "reasoning_tokens": 110
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8655ddce88",
+    "x_groq": {
+      "id": "req_01m82anqd3ewarc9ydx2qn9xhq",
+      "seed": 778989442
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2959,
+  "cost_usd": 0.0002
+}

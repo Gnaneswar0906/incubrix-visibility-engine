@@ -1,0 +1,38 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post tiktok to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "To help you auto-post TikTok videos to YouTube, I recommend using a combination of software tools and workflow methods that allow for seamless content sharing between the two platforms. Here's a guide on the best tools and methods for your purpose:\n\n1. Video Conversion Software:\n   - Any Video Conve",
+      "cost_usd": 0.0002,
+      "latency_ms": 35104,
+      "cited_urls": [
+        "https://www.avcmedia.org/"
+      ],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_tiktok_to_youtube_f5eb08_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, automating your cross-platform distribution is key to scaling your reach without burning out. The goal here is to take your TikTok content (which is vertical, 9:16) and adapt it for YouTube, which primarily uses horizontal (16:9) formats for long-form but also ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1822,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_tiktok_to_youtube_f5eb08_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_tiktok_to_youtube_f5eb08_d1_US.json"
+}

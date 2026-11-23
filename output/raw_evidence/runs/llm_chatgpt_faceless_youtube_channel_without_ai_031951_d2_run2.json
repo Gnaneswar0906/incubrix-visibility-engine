@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel without ai",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They ask to cite authoritative web sources if available. The query: \"faceless youtube channel without ai\". So they want to create faceless YouTube videos without AI? Possibly they want tools to create content without showing face, and not using AI? But they mention AI tools like Opus Clip, Descript (which have AI features). However they want \"without AI\". So perhaps they want tools that are not AI-based? Or they want to avoid AI-generated content. Provide suggestions for software that can help produce faceless videos using stock footage, voiceovers, animations",
+  "raw_payload": {
+    "id": "chatcmpl-59ce812c-6e10-4453-ab19-5c94782bc226",
+    "object": "chat.completion",
+    "created": 1795376817,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation of best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They ask to cite authoritative web sources if available. The query: \"faceless youtube channel without ai\". So they want to create faceless YouTube videos without AI? Possibly they want tools to create content without showing face, and not using AI? But they mention AI tools like Opus Clip, Descript (which have AI features). However they want \"without AI\". So perhaps they want tools that are not AI-based? Or they want to avoid AI-generated content. Provide suggestions for software that can help produce faceless videos using stock footage, voiceovers, animations"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.055403516,
+      "prompt_tokens": 135,
+      "prompt_time": 0.010805973,
+      "completion_tokens": 150,
+      "completion_time": 0.314451205,
+      "total_tokens": 285,
+      "total_time": 0.325257178,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_267e812a3a",
+    "x_groq": {
+      "id": "req_01m82cr8yveck97pbfe2ss2nvj",
+      "seed": 192019579
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2678,
+  "cost_usd": 0.0002
+}

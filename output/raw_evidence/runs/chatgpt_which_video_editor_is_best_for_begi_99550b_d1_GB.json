@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "which video editor is best for beginners",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer: best video editor for beginners, recommend best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative sources. Provide answer for a content creator in GB. Should mention key industry options. Provide workfl",
+      "cost_usd": 0.0002,
+      "latency_ms": 4518,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_which_video_editor_is_best_for_begi_99550b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you\u2019re in a great position because the video editing landscape has become incredibly accessible. \"Best\" depends on your specific niche (e.g., long-form YouTube, short-form TikTok/Reels, or podcast clips), but here is a breakdown of the top tools and workf",
+      "cost_usd": 0.0002,
+      "latency_ms": 1429,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_which_video_editor_is_best_for_begi_99550b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_which_video_editor_is_best_for_begi_99550b_d1_GB.json"
+}

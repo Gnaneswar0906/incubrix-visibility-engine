@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "udemy start faceless youtube channel with ai chatgpt deepseek",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel using AI is a highly viable strategy in 2024, particularly for creators in the UK looking to scale content production without appearing on camera. The key to success lies in integrating specific tools for scriptwriting, voiceover, visual generation, and editing in",
+      "cost_usd": 0.0002,
+      "latency_ms": 1795,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to recommend best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. The user is a content creator in GB. They want to start a faceless YouTube channel with AI ChatGPT DeepSeek. So we should recommend tools for script generation, vo",
+      "cost_usd": 0.0002,
+      "latency_ms": 5763,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_udemy_start_faceless_youtube_channe_56bf1d_d2_GB.json"
+}

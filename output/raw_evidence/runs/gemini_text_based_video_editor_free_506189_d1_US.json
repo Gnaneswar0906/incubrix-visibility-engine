@@ -1,0 +1,39 @@
+{
+  "assistant": "gemini",
+  "question": "text based video editor free",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript",
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "As an AI assistant helping a content creator in the US, I have structured this guide to help you find the best free text-based (AI-powered) video editor, along with professional workflow strategies and a breakdown of current industry leaders.\n\nText-based video editing\u2014often called \"transcript-based ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3964,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_text_based_video_editor_free_506189_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'text based video editor free' in US, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 444
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_text_based_video_editor_free_506189_d1_US.json"
+}

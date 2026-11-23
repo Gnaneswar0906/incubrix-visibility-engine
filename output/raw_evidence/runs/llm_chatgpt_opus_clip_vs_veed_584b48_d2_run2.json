@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs veed",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Veed** depends largely on whether your primary goal is **repurposing long-form content into shorts** or **editing and polishing video content for social media**.\n\nHere\u2019s a detailed comparison, recommended workflow, and key industry options to help you decide.\n\n---\n\n### **Quick Verdict: Which Should You Choose?**\n\n| Feature | **Opus Clip** | **Veed** |\n| :--- | :--- | :--- |\n| **Best For** | AI-powered repurposing (long video \u2192 short clips) | General video editing, subtitles, and social media templates |\n| **AI Strength** | Auto-cl",
+  "raw_payload": {
+    "id": "chatcmpl-66638a1c-cb2f-4e8f-9394-099d514d9f2e",
+    "object": "chat.completion",
+    "created": 1795376769,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator in the US, choosing between **Opus Clip** and **Veed** depends largely on whether your primary goal is **repurposing long-form content into shorts** or **editing and polishing video content for social media**.\n\nHere\u2019s a detailed comparison, recommended workflow, and key industry options to help you decide.\n\n---\n\n### **Quick Verdict: Which Should You Choose?**\n\n| Feature | **Opus Clip** | **Veed** |\n| :--- | :--- | :--- |\n| **Best For** | AI-powered repurposing (long video \u2192 short clips) | General video editing, subtitles, and social media templates |\n| **AI Strength** | Auto-cl"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.053226171,
+      "prompt_tokens": 78,
+      "prompt_time": 0.005913569,
+      "completion_tokens": 150,
+      "completion_time": 0.291912274,
+      "total_tokens": 228,
+      "total_time": 0.297825843
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82cpth7eakap2b3g8qsk2y4",
+      "seed": 1160813166
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1007,
+  "cost_usd": 0.0002
+}

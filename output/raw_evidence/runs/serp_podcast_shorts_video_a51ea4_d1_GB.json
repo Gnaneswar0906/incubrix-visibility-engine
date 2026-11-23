@@ -1,0 +1,93 @@
+{
+  "query": "podcast shorts video",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://podsqueeze.com/podcast-clip-maker/",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "podcast shorts video",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "AI Podcast Clips Maker",
+        "link": "https://podsqueeze.com/podcast-clip-maker/",
+        "displayedLink": "https://podsqueeze.com \u203a podcast-clip-maker",
+        "snippet": "Convert your podcast into engaging short video clips to promote on TikTok, Reels & YouTube shorts with Podsqueeze AI-Powered clip maker.",
+        "position": 1
+      },
+      {
+        "title": "Podcast Clips",
+        "link": "https://www.youtube.com/playlist?list=PLGNWmXgSlPgYl7jW4A3vVP6Bm6VA5mNzP",
+        "displayedLink": "https://www.youtube.com \u203a playlist",
+        "snippet": "Podcast Clips ; Set Your Standards! #shorts \u00b7 648 views ; Are You Taking Action For Your Project? #shorts \u00b7 181 views ; Who You Hang Out With Will Effect Your ...",
+        "position": 2
+      },
+      {
+        "title": "AI Podcast Clip Generator - Podcast Clips in 1 Click - OpusClip",
+        "link": "https://www.opus.pro/tools/ai-podcast-clip-generator",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a ai-podcast-clip-generator",
+        "snippet": "OpusClip uses AI to pick the key moments from your podcast episodes and cut them into short clips, so you do not need advanced editing skills.",
+        "date": "11 Nov 2026",
+        "position": 3
+      },
+      {
+        "title": "How To Create Podcast Shorts (That Aren't AI Slop)",
+        "link": "https://www.youtube.com/watch?v=4QH2k64sYUM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "0:31 How To Create Podcast Shorts (Editing Tutorial) - 4:54 Adding Engaging Captions - 10:20 The K.I.M. Strategy For Engaging Video - 12:32\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "How to Turn a Remote Podcast Into YouTube Shorts (2026 Guide)",
+        "link": "https://medium.com/@andrew_best/how-to-turn-a-remote-podcast-into-youtube-shorts-2026-guide-aa8228946f54",
+        "displayedLink": "https://medium.com \u203a @andrew_best \u203a how-to-turn-a-remote-podcas...",
+        "snippet": "The easiest way to record a clean double-ender podcast, clip the best moments, and turn them into vertical Shorts with AI subtitles.",
+        "position": 5
+      },
+      {
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts for TikTok ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "displayedLink": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "snippet": "Convert long-form podcast episodes into viral video clips for Instagram, Linkedin, TikTok, and YouTube Shorts using AI. Try for free",
+        "rating": 4.9,
+        "ratingCount": 31,
+        "position": 6
+      },
+      {
+        "title": "The Ultimate Guide to Podcast Clips That Go Viral in 2025",
+        "link": "https://www.podshoponline.co.uk/the-ultimate-guide-to-podcast-clips-that-go-viral",
+        "displayedLink": "https://www.podshoponline.co.uk \u203a the-ultimate-guide-to-podca...",
+        "snippet": "Unlock your podcast's potential with viral short clips! Discover our guide on selecting and editing content to expand your audience and reach new listeners.",
+        "position": 7
+      },
+      {
+        "title": "How I Make VIRAL Podcast Clips (2.5 Million Views!) | Full Workflow",
+        "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "If you want to know how to make podcast clips for Instagram, TikTok, and YouTube, a targeted, 30 to 45-second manual clip is the secret to\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "How to make short video clips : r/podcasting",
+        "link": "https://www.reddit.com/r/podcasting/comments/1bdhbr2/how_to_make_short_video_clips/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a how_to_make_short_video_clips",
+        "snippet": "Hey yall,\n\nI have a podcast that is audio only on apple and spotify and I promote it on twitter. I want to make short video clips with snippets from my ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/podcasting/comments/1bdhbr2/how_to_make_short_video_clips/nt5c4kt/"
+          }
+        ],
+        "position": 9
+      }
+    ],
+    "credits": 1
+  }
+}

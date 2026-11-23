@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube to facebook",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Posting YouTube Videos",
+  "raw_payload": {
+    "id": "chatcmpl-a0779809-9406-4822-a949-0c05bbf71643",
+    "object": "chat.completion",
+    "created": 1795374776,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Posting YouTube Videos",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed content. This is fine. Provide citations with URLs. Use markdown. Provide workflow steps. Mention official APIs, third-party tools. Provide pros/cons. Also mention native cross-posting features. Provide tips for automation (Zapier, IFTTT). Provide legal considerations (copyright, community guidelines). Provide best practices for video formats. Provide resources. Let's craft answer."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155782896,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005247382,
+      "completion_tokens": 150,
+      "completion_time": 0.308669315,
+      "total_tokens": 284,
+      "total_time": 0.313916697,
+      "completion_tokens_details": {
+        "reasoning_tokens": 135
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4727af4560",
+    "x_groq": {
+      "id": "req_01m82at024e9w9czz7db8c4r00",
+      "seed": 283385079
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3308,
+  "cost_usd": 0.0002
+}

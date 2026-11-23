@@ -1,0 +1,23 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=auto+post+to+tiktok",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "auto post to tiktok",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T12:31:38.502964+00:00",
+  "extracted_count": 10,
+  "suggestions": [
+    "auto post to tiktok",
+    "auto post to tiktok from instagram",
+    "auto post tiktok to youtube",
+    "auto post tiktoks to discord",
+    "auto post tiktok to facebook",
+    "auto upload to tiktok",
+    "auto post tiktok videos",
+    "auto post tiktok github",
+    "auto post tiktok n8n",
+    "auto post tiktok free"
+  ],
+  "raw_response": "[\"auto post to tiktok\",[\"auto post to tiktok\",\"auto post to tiktok from instagram\",\"auto post tiktok to youtube\",\"auto post tiktoks to discord\",\"auto post tiktok to facebook\",\"auto upload to tiktok\",\"auto post tiktok videos\",\"auto post tiktok github\",\"auto post tiktok n8n\",\"auto post tiktok free\"],[],{\"google:suggestsubtypes\":[[512],[512],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30],[22,30]]}]"
+}

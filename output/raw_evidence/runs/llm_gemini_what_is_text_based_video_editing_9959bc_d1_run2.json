@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "what is text based video editing",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-powered post-production method that allows creators to edit video and audio by manipulating the accompanying text transcript. Instead of cutting, trimming, and splicing waveforms and video tracks on a traditional timeline, you simply highlight, delete, or rearrange words in a text document. \n\n* **How it works:** Speech-to-text AI transcribes the video. When you delete a sentence in the transcript, the corresponding video and audio frames are automatically removed. If you fix a typo in the transcript using Overdub (AI voice cloning), the audio corrects itself.\n* **Why it matters for creators in IN:** With the explosion of regional and English-language content across YouTube Shorts, Instagram Reels, and long-form podcasts, text-based editing slashes editing time by up to 80%. It eliminates the tedious process of scrubbing",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "### What is Text-Based Video Editing?\n\n**Text-based video editing** (also known as transcript-based editing) is an AI-powered post-production method that allows creators to edit video and audio by manipulating the accompanying text transcript. Instead of cutting, trimming, and splicing waveforms and video tracks on a traditional timeline, you simply highlight, delete, or rearrange words in a text document. \n\n* **How it works:** Speech-to-text AI transcribes the video. When you delete a sentence in the transcript, the corresponding video and audio frames are automatically removed. If you fix a typo in the transcript using Overdub (AI voice cloning), the audio corrects itself.\n* **Why it matters for creators in IN:** With the explosion of regional and English-language content across YouTube Shorts, Instagram Reels, and long-form podcasts, text-based editing slashes editing time by up to 80%. It eliminates the tedious process of scrubbing",
+              "thoughtSignature": "Eo4BCosBAWkUfRNxHKUaafaNSdk30XP3Zd5t70r+EfqvIykGFuBNxTm44JDH7gYTpKXR0Oh1qDtPh2mBov9E8keeoGhYFOqt3X/eV+fRF/J7o6txj9ntZaXZmpqbdz68KqJ9iiUq4uWTdnM2LeqP5Gi3TT0ZAy+Bb9SHQKgVr+s1jZ2jOcrEINdUsg5PicaeVg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 64,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 64
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "LkADa7S1C7i1z7sPi42BkQ4"
+  },
+  "latency_ms": 2222,
+  "cost_usd": 0.0002
+}

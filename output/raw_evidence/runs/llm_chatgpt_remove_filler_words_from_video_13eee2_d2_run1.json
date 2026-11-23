@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you\u2019ll want tools that are not only effective at removing filler words (\"um\", \"uh\", \"like\", \"you know\") but also offer good support for your workflow, whether you\u2019re editing podcasts, vlogs, or corporate training videos.\n\nHere are the best software tools and workflow methods for removing filler words, categorized by ease of use and depth of control.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** (Best Overall for Text-Based Editing)\n- **Why it\u2019s great**: Descript treats audio/video like a document. It transcribes your content, and you can **delete filler words with one click** after selecting them in the text",
+  "raw_payload": {
+    "id": "chatcmpl-58ccf02f-6ee6-44e9-8125-cce0fbe9896d",
+    "object": "chat.completion",
+    "created": 1795377330,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you\u2019ll want tools that are not only effective at removing filler words (\"um\", \"uh\", \"like\", \"you know\") but also offer good support for your workflow, whether you\u2019re editing podcasts, vlogs, or corporate training videos.\n\nHere are the best software tools and workflow methods for removing filler words, categorized by ease of use and depth of control.\n\n### \ud83c\udfc6 Top Recommended Tools\n\n#### 1. **Descript** (Best Overall for Text-Based Editing)\n- **Why it\u2019s great**: Descript treats audio/video like a document. It transcribes your content, and you can **delete filler words with one click** after selecting them in the text"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047569798,
+      "prompt_tokens": 77,
+      "prompt_time": 0.005252902,
+      "completion_tokens": 150,
+      "completion_time": 0.289808612,
+      "total_tokens": 227,
+      "total_time": 0.295061514
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82d7y8je7cb2874435m44r3",
+      "seed": 335325199
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1670,
+  "cost_usd": 0.0002
+}

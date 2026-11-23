@@ -1,0 +1,96 @@
+{
+  "query": "remove filler words from video",
+  "market": "GB",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.veed.io/tools/filler-remover",
+  "competitors_named": "CapCut, Descript, Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "remove filler words from video",
+      "gl": "gb",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Remove Filler Words from Recordings",
+        "link": "https://www.veed.io/tools/filler-remover",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a filler-remover",
+        "snippet": "Upload your video to VEED. Click on your video on the Timeline and press the 'Magic Cut' button. Magic cut can remove filler words from your audio and video.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 1
+      },
+      {
+        "title": "AI Filler Word Remover: Cut the Ums & Uhs",
+        "link": "https://cleanvoice.ai/filler-words/",
+        "displayedLink": "https://cleanvoice.ai \u203a filler-words",
+        "snippet": "Remove filler words like um, uh and ah from audio and video automatically. Cleanvoice's AI works in 20+ languages and keeps your speech natural.",
+        "position": 2
+      },
+      {
+        "title": "Remove Filler Words from Video - AI Speech Cleaner",
+        "link": "https://www.opus.pro/tools/remove-filler-words-from-video",
+        "displayedLink": "https://www.opus.pro \u203a tools \u203a remove-filler-words-from-video",
+        "snippet": "Enter our AI editor and choose \u201cEnhance Audio\u201d and then \u201cRemove filler words. Then our AI will get to work, detecting and removing filler words instantly.",
+        "position": 3
+      },
+      {
+        "title": "Best Way to Remove Filler Words and Silences from Your Podcast",
+        "link": "https://www.youtube.com/watch?v=AzaqYaGcwfM",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "How to cut filler words, remove silences, and edit full podcast episodes in minutes using powerful AI tools. From smart layouts to Magic Audio,\u00a0...",
+        "position": 4
+      },
+      {
+        "title": "Remove Filler Words Automatically with AI Tool",
+        "link": "https://www.capcut.com/tools/filler-words",
+        "displayedLink": "https://www.capcut.com \u203a tools \u203a filler-words",
+        "snippet": "CapCut's AI removes filler words from video features, detects and deletes unnecessary speech in real time. With one click, the tool scans the audio track and ...",
+        "position": 5
+      },
+      {
+        "title": "Remove Filler Words from Video Automatically: Tips and Tools",
+        "link": "https://captions.ai/blog/remove-filler-words-videos",
+        "displayedLink": "https://captions.ai \u203a blog \u203a remove-filler-words-videos",
+        "snippet": "The process: find the filler word on the audio waveform, make a cut immediately before and after it, delete the segment, and ripple delete to ...",
+        "date": "24 Jul 2026",
+        "position": 6
+      },
+      {
+        "title": "Remove Filler Words \u2014 Clean Up Recordings With AI",
+        "link": "https://www.kapwing.com/tools/smart-cut/filler-words",
+        "displayedLink": "https://www.kapwing.com \u203a tools \u203a smart-cut \u203a filler-words",
+        "snippet": "Instantly remove filler words like \u201cum,\u201d \u201cah,\u201d and \u201clike\u201d, plus awkward pauses and silences. Clean up voice, audio, and video recordings and make speech ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 7
+      },
+      {
+        "title": "I use the 'remove filler words' function for every video and for some reason ...",
+        "link": "https://www.facebook.com/groups/descriptusers/posts/1160561316229804/",
+        "displayedLink": "https://www.facebook.com \u203a groups \u203a ... \u203a 1160561316229804",
+        "snippet": "Google Vids' automatic transcript trim, It identifies and removes filler words and awkward pauses from your recordings in one click.",
+        "position": 8
+      },
+      {
+        "title": "Remove Filler Words From Video | One-Click Cleanup",
+        "link": "https://www.descript.com/tools/remove-filler-from-video",
+        "displayedLink": "https://www.descript.com \u203a tools \u203a remove-filler-from-video",
+        "snippet": "Remove filler words from video automatically with Descript. Delete ums, uhs, and awkward pauses in one click for a clean, professional cut, free to try.",
+        "position": 9
+      },
+      {
+        "title": "Filler Word Remover \u2014 Remove Ums & Uhs from Video",
+        "link": "https://www.cueedit.io/tools/filler-remover",
+        "displayedLink": "https://www.cueedit.io \u203a tools \u203a filler-remover",
+        "snippet": "Our AI detects and removes common filler words including \"um\", \"uh\", \"like\", \"you know\", \"so\", \"basically\", \"actually\", \"I mean\", and similar speech ...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

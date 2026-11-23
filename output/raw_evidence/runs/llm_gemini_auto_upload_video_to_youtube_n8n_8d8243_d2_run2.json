@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload video to youtube n8n",
+  "market": "US",
+  "run_index": 2,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in the US looking to automate your YouTube video uploads using **n8n**, you are tapping into one of the most efficient ways to scale a channel\u2014especially",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in the US looking to automate your YouTube video uploads using **n8n**, you are tapping into one of the most efficient ways to scale a channel\u2014especially"
+            },
+            {
+              "text": " for automated \"faceless\" channels or high-volume content operations. \n\nHere is a comprehensive guide to the best software tools, workflow methods, and industry-standard options to build a robust YouTube automation pipeline.\n\n---\n\n### 1. The Core Workflow Method: n8n + YouTube API\n\nn8n is a powerful, node-based workflow automation tool (similar to Zapier or Make, but with greater flexibility for data manipulation and self-hosting options). \n\nA standard **n8n YouTube auto-upload workflow** typically follows this architecture:\n1. **Trigger:** A new file is added to a cloud storage folder (Google Drive, Dropbox, or AWS S3), or a webhook is received from an AI generation tool.\n2. **Data Preparation:** An AI node (like OpenAI) or a code node generates the video title, description, tags, and thumbnail based on the video's content or script.\n3. **YouTube Data API v",
+              "thoughtSignature": "Eo4BCosBAWkUfRPzFfBRZ+s+5BryoOROk7vRTjal1l2VJc3EX57eXxU7boWWz3g9XpwbNIw7OyTeckezXnmckZeTlHyk4XwZhNwFnuBpkSRatShYHECl0b6t7hNcm0i+PiEU3ILPG5NDgEF07aJk554Q19lrKqsbpfujT1hMvCYgsK8gLkLudWjdThMaOJmvSQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 236,
+      "totalTokenCount": 302,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "PEYDa6-mKoKN694P58aboAQ"
+  },
+  "latency_ms": 3003,
+  "cost_usd": 0.0002
+}

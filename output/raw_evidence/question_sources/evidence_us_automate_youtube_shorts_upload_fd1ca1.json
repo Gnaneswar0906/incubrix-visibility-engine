@@ -1,0 +1,18 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=automate+youtube+shorts+upload",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "automate youtube shorts upload",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 200,
+  "timestamp": "2026-11-22T11:50:11.036981Z",
+  "extracted_count": 5,
+  "suggestions": [
+    "automate youtube shorts upload",
+    "automatic youtube shorts uploader",
+    "how to upload to youtube shorts",
+    "how do i upload youtube shorts",
+    "how to set up youtube automation"
+  ],
+  "raw_response": "[\"automate youtube shorts upload\",[\"automate youtube shorts upload\",\"automatic youtube shorts uploader\",\"how to upload to youtube shorts\",\"how do i upload youtube shorts\",\"how to set up youtube automation\"],[],{\"google:suggestsubtypes\":[[22,30],[22,30],[512,650,390],[512,650,390],[512,650,390]]}]"
+}

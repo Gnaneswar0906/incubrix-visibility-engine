@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel without ai",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendation for a faceless YouTube channel without AI. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer as an AI assistant. Provide recommendations, tools, workflow, mention those options, possibly others like Adobe Premiere Pro, DaVinci Resolve, OBS Studio, Audacity, etc. Provide citations (maybe using footnotes with URLs). Since we can't browse real-time, we can cite known sources like official websites, reviews from reputable sites (TechRadar, PCMag, etc.). Provide a structured answer.\n\nMake sure no disallowed content. It's fine.\n\nWe'll provide a",
+  "raw_payload": {
+    "id": "chatcmpl-baa1fc93-9749-47d8-96f3-3a94b8c795fc",
+    "object": "chat.completion",
+    "created": 1795375029,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendation for a faceless YouTube channel without AI. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to answer as an AI assistant. Provide recommendations, tools, workflow, mention those options, possibly others like Adobe Premiere Pro, DaVinci Resolve, OBS Studio, Audacity, etc. Provide citations (maybe using footnotes with URLs). Since we can't browse real-time, we can cite known sources like official websites, reviews from reputable sites (TechRadar, PCMag, etc.). Provide a structured answer.\n\nMake sure no disallowed content. It's fine.\n\nWe'll provide a"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.278700447,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005026603,
+      "completion_tokens": 150,
+      "completion_time": 0.31531566,
+      "total_tokens": 285,
+      "total_time": 0.320342263,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_df9620fe21",
+    "x_groq": {
+      "id": "req_01m82b1pp2etarr3swx62pj30r",
+      "seed": 388876257
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3398,
+  "cost_usd": 0.0002
+}

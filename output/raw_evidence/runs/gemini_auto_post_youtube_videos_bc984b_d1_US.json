@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "For a content creator based in the U.S. looking to streamline their workflow and automate the YouTube publishing process, leveraging a combination of AI-driven content repurposing and scheduling tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry options ",
+      "cost_usd": 0.0002,
+      "latency_ms": 7546,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_videos_bc984b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a U.S.-based content creator",
+      "cost_usd": 0.0002,
+      "latency_ms": 3369,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_videos_bc984b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_youtube_videos_bc984b_d1_US.json"
+}

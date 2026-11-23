@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai free",
+  "market": "US",
+  "run_index": 1,
+  "day": 2,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Faceless YouTube\u202fChannel \u2013 Free\u2011or\u2011Low\u2011Cost AI\u2011Powered Workflow**",
+  "raw_payload": {
+    "id": "chatcmpl-45aae200-e6bf-4b77-98eb-7fff27b0d485",
+    "object": "chat.completion",
+    "created": 1795376803,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Faceless YouTube\u202fChannel \u2013 Free\u2011or\u2011Low\u2011Cost AI\u2011Powered Workflow**",
+          "reasoning": "We need to answer as an AI assistant for a US content creator. Provide recommendations for faceless YouTube channel AI free tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must follow policy: we can provide info, no copyrighted text beyond short excerpt. Provide links. Provide suggestions for free AI tools for video creation, voice synthesis, script generation, editing, thumbnails, etc. Provide workflow steps. Cite sources like official sites, reviews, articles. Provide disclaimer. Use bullet points. Ensure compliance."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.048787322,
+      "prompt_tokens": 135,
+      "prompt_time": 0.005269478,
+      "completion_tokens": 150,
+      "completion_time": 0.317646869,
+      "total_tokens": 285,
+      "total_time": 0.322916347,
+      "completion_tokens_details": {
+        "reasoning_tokens": 122
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_998410db10",
+    "x_groq": {
+      "id": "req_01m82cqv14eq2aqkra5n9s39dv",
+      "seed": 1293699009
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2207,
+  "cost_usd": 0.0002
+}

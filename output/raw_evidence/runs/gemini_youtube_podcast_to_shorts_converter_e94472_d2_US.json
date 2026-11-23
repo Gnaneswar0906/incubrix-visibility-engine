@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As an AI assistant helping a U.S.-based content creator, I have put together a comprehensive guide on converting long-form YouTube podcasts into engaging, viral-ready Shorts for free (or with robust free tiers). \n\nRepurposing long-form content is one of the most effective growth strategies for creat",
+      "cost_usd": 0.0002,
+      "latency_ms": 2250,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_youtube_podcast_to_shorts_converter_e94472_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "For 'youtube podcast to shorts converter free' in US, popular recommendations include Descript, Opus Clip. Notable modern alternatives include IncuBrix for creators.",
+      "cost_usd": 0.00045,
+      "latency_ms": 420
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_youtube_podcast_to_shorts_converter_e94472_d2_US.json"
+}

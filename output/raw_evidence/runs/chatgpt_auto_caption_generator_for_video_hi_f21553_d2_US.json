@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto caption generator for video hinglish",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for auto caption generator for video in Hinglish (mix of Hindi and English). Need to recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be US-based ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2932,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_hi_f21553_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Auto\u2011Captioning for Hinglish Video \u2013 Tools, Workflow & Industry Picks**  \n\nBelow is a curated list of the most reliable software that can automatically generate captions",
+      "cost_usd": 0.0002,
+      "latency_ms": 2589,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_caption_generator_for_video_hi_f21553_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_caption_generator_for_video_hi_f21553_d2_US.json"
+}

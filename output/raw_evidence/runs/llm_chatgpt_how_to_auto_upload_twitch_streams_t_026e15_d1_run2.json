@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto upload twitch streams to youtube",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants a response: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to auto upload twitch streams to youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow, mention tools. Provide citations. Use authoritative sources like official docs, blogs. Must be safe. No disallowed content. Provide steps: download Twitch VODs via Twitch API or third-party tools, convert, edit, auto upload via YouTube API or using tools like Restream, Streamladder, TubeBuddy, etc.",
+  "raw_payload": {
+    "id": "chatcmpl-46a6e857-5351-4a73-b7d9-eef31ac802b0",
+    "object": "chat.completion",
+    "created": 1795375284,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants a response: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to auto upload twitch streams to youtube. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to give recommendations, workflow, mention tools. Provide citations. Use authoritative sources like official docs, blogs. Must be safe. No disallowed content. Provide steps: download Twitch VODs via Twitch API or third-party tools, convert, edit, auto upload via YouTube API or using tools like Restream, Streamladder, TubeBuddy, etc."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.156569083,
+      "prompt_tokens": 137,
+      "prompt_time": 0.005289927,
+      "completion_tokens": 150,
+      "completion_time": 0.317433461,
+      "total_tokens": 287,
+      "total_time": 0.322723388,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4a7bb72c24",
+    "x_groq": {
+      "id": "req_01m82b9fhye5k8vtg4q1h0d0qx",
+      "seed": 1979596058
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2389,
+  "cost_usd": 0.0002
+}

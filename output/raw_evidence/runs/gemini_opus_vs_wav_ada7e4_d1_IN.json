@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "opus vs wav",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Submagic",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in India (IN), let\u2019s break down the technical comparison between **Opus** and **WAV**, and how they fit into a modern video and podcast creation workflow. \n\n---\n\n### 1. The Core Comparison: Opus vs. WAV\n\nTo choose the right format for your content creatio",
+      "cost_usd": 0.0002,
+      "latency_ms": 2135,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_opus_vs_wav_ada7e4_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'opus vs wav' in IN, popular recommendations include Submagic, Vidyo.ai. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 399
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_opus_vs_wav_ada7e4_d1_IN.json"
+}

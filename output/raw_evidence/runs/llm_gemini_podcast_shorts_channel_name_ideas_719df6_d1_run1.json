@@ -1,0 +1,47 @@
+{
+  "assistant": "gemini",
+  "question": "podcast shorts channel name ideas",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator in the UK (GB) looking to launch a podcast shorts channel, you are entering one of the fastest-growing niches in digital media. Repurposing long-form podcast audio and video into bite-sized vertical clips (Shorts, Reels, and TikToks) is the most efficient way to grow an audience organically. \n\nHere is a comprehensive guide tailored to your query, covering",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Hello! As a content creator in the UK (GB) looking to launch a podcast shorts channel, you are entering one of the fastest-growing niches in digital media. Repurposing long-form podcast audio and video into bite-sized vertical clips (Shorts, Reels, and TikToks) is the most efficient way to grow an audience organically. \n\nHere is a comprehensive guide tailored to your query, covering"
+            },
+            {
+              "text": " naming ideas, the best AI-driven software tools, and a streamlined workflow method.\n\n---\n\n### Part 1: Podcast Shorts Channel Name Ideas\n\nWhen naming a podcast shorts channel, you want something punchy, memorable, and indicative of \"fast, high-value insights.\" Here are a few angles you can use:\n\n**1. The \"Digest/Bitesize\" Angle (Focuses on quick value)**\n*   PodCrumbs\n*   AudioBites GB\n*   The Podcast Snack\n*   MicDrops Daily\n*   SoundBite Shorts\n\n**2. The \"Wisdom/Insights\" Angle (Focuses on takeaways)**\n*   Gems From The Mic\n*   Podcast Nuggets\n*   Audio Gold UK\n*   The Highlight Reel\n*   Wisdom in 60 Seconds\n\n**3. Action-Oriented / Brand-Aligned (If clipping your own show)**\n*   *[Your Podcast Name]* Un",
+              "thoughtSignature": "Eo4BCosBAWkUfRMUwg3S0Zld5DHrkWivZ2LGIbQ/IhutDx9HD9LUwbqcQx4KuO1Ovt3G79pE9C9Rd0kZJGYYIY3R0Q92VqbVn/4QXlRHl/pbUJVpb/604lIMaL+znD0nB6EMZOTuB8iFXIKVfbhouAUom3GlR1bcWQMLsGQoaa/LtNNLgCaVOPKt608Egj7rgw=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 63,
+      "candidatesTokenCount": 284,
+      "totalTokenCount": 347,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 63
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "ckEDa-3pEcqN694Pp-6HsQ0"
+  },
+  "latency_ms": 5003,
+  "cost_usd": 0.0002
+}

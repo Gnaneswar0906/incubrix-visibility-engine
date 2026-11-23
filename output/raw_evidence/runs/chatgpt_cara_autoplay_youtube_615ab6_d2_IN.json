@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "cara autoplay youtube",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator in IN (India) asking \"cara autoplay youtube\" which is Indonesian for \"how to autoplay youtube\"? Actually \"cara autoplay youtube\" is Indonesian phrase meaning \"how to autoplay YouTube\". They want recommendations for best software tools, workflow methods, and mention key ",
+      "cost_usd": 0.0002,
+      "latency_ms": 3256,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_cara_autoplay_youtube_615ab6_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Halo! Sebagai kreator konten di Indonesia, fitur **Autoplay** di YouTube sebenarnya bukan \"software\" yang bisa diunduh, melainkan fitur bawaan (native) dari platform YouTube itu sendiri untuk meningkatkan *watch time* dan retensi penonton. Namun, untuk **memanfaatkan** fitur autoplay agar efektif, A",
+      "cost_usd": 0.0002,
+      "latency_ms": 1505,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_cara_autoplay_youtube_615ab6_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_cara_autoplay_youtube_615ab6_d2_IN.json"
+}

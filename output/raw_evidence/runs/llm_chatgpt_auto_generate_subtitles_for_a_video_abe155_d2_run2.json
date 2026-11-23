@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate subtitles for a video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in GB (Great Britain) wanting auto generate subtitles for a video. They want recommendations of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer: recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Provide suggestions for best tools: YouTube auto captions, Rev, Otter.ai, Kapwing, Trint, Descript, Sonix, Adobe Premiere Pro, Final Cut Pro, Camtasia, etc. Also mention workflow: upload, auto generate",
+  "raw_payload": {
+    "id": "chatcmpl-f6410817-c578-4a27-a521-99087acc7e3e",
+    "object": "chat.completion",
+    "created": 1795377434,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in GB (Great Britain) wanting auto generate subtitles for a video. They want recommendations of best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available.\n\nWe need to answer: recommend best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Provide suggestions for best tools: YouTube auto captions, Rev, Otter.ai, Kapwing, Trint, Descript, Sonix, Adobe Premiere Pro, Final Cut Pro, Camtasia, etc. Also mention workflow: upload, auto generate"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.400418004,
+      "prompt_tokens": 135,
+      "prompt_time": 0.076504084,
+      "completion_tokens": 150,
+      "completion_time": 0.265992976,
+      "total_tokens": 285,
+      "total_time": 0.34249706,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_9340e7d14d",
+    "x_groq": {
+      "id": "req_01m82db2tge9y9exgp0tbmf6w4",
+      "seed": 173023271
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3998,
+  "cost_usd": 0.0002
+}

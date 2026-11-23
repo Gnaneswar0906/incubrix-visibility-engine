@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "create faceless youtube channel using ai",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building a faceless YouTube channel using AI is one of the most scalable models in modern content creation. By leveraging generative AI for scripting, voiceovers, video generation, and editing, creators can automate up to 90% of the production pipeline. \n\nBelow is a comprehensive guide tailored for a UK-based creator, detailing the best software tools, a streamlined workflow, and key industry options\u2014including the ones you mentioned.\n\n---\n\n### 1. The Best AI Software Tools (The Tech Stack)\n\nTo run an efficient faceless channel, your software stack should cover ideation, scriptwriting, voice generation, visual creation, and editing.\n\n*   **Ideation & Scriptwriting:** **ChatGPT** (OpenAI) or **Claude** (Anthropic) are industry standards for generating video concepts, outlines, and full scripts.\n*   **Voiceover / Text-to-Speech (TTS):** **ElevenLabs** is widely considered the gold",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building a faceless YouTube channel using AI is one of the most scalable models in modern content creation. By leveraging generative AI for scripting, voiceovers, video generation, and editing, creators can automate up to 90% of the production pipeline. \n\nBelow is a comprehensive guide tailored for a UK-based creator, detailing the best software tools, a streamlined workflow, and key industry options\u2014including the ones you mentioned.\n\n---\n\n### 1. The Best AI Software Tools (The Tech Stack)\n\nTo run an efficient faceless channel, your software stack should cover ideation, scriptwriting, voice generation, visual creation, and editing.\n\n*   **Ideation & Scriptwriting:** **ChatGPT** (OpenAI) or **Claude** (Anthropic) are industry standards for generating video concepts, outlines, and full scripts.\n*   **Voiceover / Text-to-Speech (TTS):** **ElevenLabs** is widely considered the gold",
+              "thoughtSignature": "Eo4BCosBAWkUfRNFkq2TyZK6zZOqiNP3owOnU9QG+ce3ddfbiktnwnrRlfVXNbJ38XelkC4R9CkTJNHgO7b4Vty25ikIRtjtWlLS19xtO2bzFhJT2nk042NO1uSWxICYnQFD8i0xNGj7AYyV6dbD6h+GZP09+8kzB0X5YeaD+sczdQ2e9lBjWwL/88eASkbrEA=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "-0IDa7ylIIrD4-EP__fnoAc"
+  },
+  "latency_ms": 1856,
+  "cost_usd": 0.0002
+}

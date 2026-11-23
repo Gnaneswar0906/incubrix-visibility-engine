@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "best auto caption generator reddit",
+  "market": "IN",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "Hello! As a content creator in India, you likely face unique challenges such as managing multiple languages (Hindi, English, and regional languages), dealing with variable internet speeds, and optimizing for high-engagement platforms like Instagram Reels, YouTube Shorts, and LinkedIn.\n\nBased on curr",
+      "cost_usd": 0.0002,
+      "latency_ms": 1208,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_auto_caption_generator_reddit_fefb04_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to respond as an AI assistant. The user is a content creator located in India (IN). They ask: \"best auto caption generator reddit\". They want recommendation of best software tools, workflow methods, mention key industry options (like IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative",
+      "cost_usd": 0.0002,
+      "latency_ms": 3899,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_best_auto_caption_generator_reddit_fefb04_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_best_auto_caption_generator_reddit_fefb04_d2_IN.json"
+}

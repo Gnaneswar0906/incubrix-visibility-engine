@@ -1,0 +1,48 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions for youtube video",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools for automating captioning. Since YouTube prioritises accessibility and SEO, accurate auto-generated captions are essential.\n\nHere are the best software tools, workflow methods, and key industry options to streamline your captioning process in 2024/2025.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Editing + Captions Integrated)\n   - **Why it\u2019s great**: Descript treats video like a text document. You transcribe your video, edit the text, and the video edits itself. It generates highly accurate captions that you can style and",
+  "raw_payload": {
+    "id": "chatcmpl-dfc1717f-7a43-4532-8f6f-a81cd7791014",
+    "object": "chat.completion",
+    "created": 1795375576,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in the UK, you have access to a robust ecosystem of tools for automating captioning. Since YouTube prioritises accessibility and SEO, accurate auto-generated captions are essential.\n\nHere are the best software tools, workflow methods, and key industry options to streamline your captioning process in 2024/2025.\n\n### \ud83c\udfc6 Top Software Tools for Auto-Generated Captions\n\n#### 1. **Descript** (Best for Editing + Captions Integrated)\n   - **Why it\u2019s great**: Descript treats video like a text document. You transcribe your video, edit the text, and the video edits itself. It generates highly accurate captions that you can style and"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.054057256,
+      "prompt_tokens": 80,
+      "prompt_time": 0.005256194,
+      "completion_tokens": 150,
+      "completion_time": 0.29083281,
+      "total_tokens": 230,
+      "total_time": 0.296089004
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_a1293f40b5",
+    "x_groq": {
+      "id": "req_01m82bjcmwe70rmmvz8crd9qpf",
+      "seed": 1935474246
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1191,
+  "cost_usd": 0.0002
+}

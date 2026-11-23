@@ -1,0 +1,107 @@
+{
+  "query": "opus one review",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://www.tripadvisor.in/Attraction_Review-g32812-d144108-Reviews-Opus_One_Winery-Oakville_Napa_Valley_California.html",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "opus one review",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "OPUS ONE WINERY - All You SHOULD Know Before Going 2026 ...",
+        "link": "https://www.tripadvisor.in/Attraction_Review-g32812-d144108-Reviews-Opus_One_Winery-Oakville_Napa_Valley_California.html",
+        "displayedLink": "https://www.tripadvisor.in \u203a Attraction_Review-g32812-d1...",
+        "snippet": "It was an unforgettable experience from start to finish. The wine tasting was perfect, everything I expected and more, Truly one of the best wineries in Napa. ...",
+        "rating": 3.9,
+        "ratingCount": 563,
+        "position": 1
+      },
+      {
+        "title": "Opus One Wine - Overrated or Commands it's price point",
+        "link": "https://www.reddit.com/r/wine/comments/lxybq3/opus_one_wine_overrated_or_commands_its_price/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a opus_one_wine_overrated_or_...",
+        "snippet": "I find the wine incredibly overrated and overpriced. But I find their marketing team underrated and underpaid.",
+        "sitelinks": [
+          {
+            "title": "Thoughts on Opus 1 and what year would be the best? : r/winer/wine\u00b710+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/wine/comments/1mwubcm/thoughts_on_opus_1_and_what_year_would_be_the_best/"
+          },
+          {
+            "title": "Is $250 for a bottle of 2017 Opus One worth it? : r/winer/wine\u00b740+ comments\u00b72y",
+            "link": "https://www.reddit.com/r/wine/comments/1axeofi/is_250_for_a_bottle_of_2017_opus_one_worth_it/"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "title": "Opus One Winery Tour & Tasting",
+        "link": "https://www.eclectickim.com/opus-one-winery-tour-tasting/",
+        "displayedLink": "https://www.eclectickim.com \u203a opus-one-winery-tour-tasting",
+        "snippet": "It was smooth, expressive, and meant for savoring. Truly, everyone at Opus One was absolutely lovely, genuinely kind and professional. I never ...",
+        "date": "31 May 2025",
+        "position": 3
+      },
+      {
+        "title": "Is this $500 Wine Any Good? Tasting Opus One",
+        "link": "https://www.youtube.com/watch?v=WA6fyrbO1Ow",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Today I spent $500 on a bottle of wine so you don't have to, I want to find out if the cult California winery Opus One is really worth the hype.",
+        "position": 4
+      },
+      {
+        "title": "Buy the best wine from Opus One",
+        "link": "https://bestofwines.com/wine/wine-producer/opus-one/",
+        "displayedLink": "https://bestofwines.com \u203a wine \u203a wine-producer \u203a opus-one",
+        "snippet": "Opus One have an average of 4.3 stars based on 135 professional reviews. The nose is initially dominated by cassis and dark plums, but there are also notes of ...",
+        "position": 5
+      },
+      {
+        "title": "Best local price for Opus One - stores near you in USA",
+        "link": "https://www.wine-searcher.com/find/opus+one+napa+valley+county+north+coast+california+usa?srsltid=AYCX9vLSv5NuIUwEPk328vnzmVJgTMtlgNRGfqQKLp_GvlyOA5-5bBTO",
+        "displayedLink": "https://www.wine-searcher.com \u203a find \u203a opus+one+napa+valley+county...",
+        "snippet": "Many critics score this Napa Valley wine highly: Falstaff gave the 2023 vintage a score of 98. Vineyard notes: \"The estate vineyards of Opus One, ...",
+        "rating": 4.8,
+        "ratingCount": 508,
+        "position": 6
+      },
+      {
+        "title": "Opus One, Napa Valley",
+        "link": "https://gustoimports.com/wines/opus-one-napa-valley",
+        "displayedLink": "https://gustoimports.com \u203a wines \u203a opus-one-napa-valley",
+        "snippet": "The 2021 vintage shows exceptional balance, freshness and structure, with layered notes of cassis, graphite and dark chocolate. Consistently rated 95+ by ...",
+        "position": 7
+      },
+      {
+        "title": "Opus One Winery Tasting Experience Review in California's Napa Valley",
+        "link": "https://www.travelandleisure.com/review-opus-one-winery-california-11827603",
+        "displayedLink": "https://www.travelandleisure.com \u203a review-opus-one-winery-cali...",
+        "snippet": "Opus One's elegant tastings, vineyard views, and storied history make it a must-visit for wine lovers. complex, fascinating, and delicious\u2014but",
+        "date": "31 Oct 2025",
+        "position": 8
+      },
+      {
+        "title": "Wine Review: Opus One Overture NV Napa",
+        "link": "https://foodandwineaesthetics.com/2014/07/07/wine-review-opus-one-overture-nv-napa/",
+        "displayedLink": "https://foodandwineaesthetics.com \u203a 2014 \u203a ... \u203a wine-review-opus-one-overtu...",
+        "snippet": "It was beautifully preserved, still opulent, fresh and vibrant, among the best Napa wines I've tasted and a legitimate rival of Bordeaux Premier ...",
+        "date": "7 Jul 2014",
+        "position": 9
+      },
+      {
+        "title": "Opus One - 2023 vintage review",
+        "link": "https://www.linkedin.com/pulse/opus-one-2023-vintage-review-miles-davis-ta6cc",
+        "displayedLink": "https://www.linkedin.com \u203a pulse \u203a opus-one-2023-vintage-revie...",
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

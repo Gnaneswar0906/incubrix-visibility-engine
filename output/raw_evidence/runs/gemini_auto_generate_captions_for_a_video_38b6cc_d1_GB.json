@@ -1,0 +1,40 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and platform standards) but also because a significant percentage of viewers watch social media videos on mute. \n\nTo help you streamline your workflow, here is a",
+      "cost_usd": 0.0002,
+      "latency_ms": 2260,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_a_video_38b6cc_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the UK (GB), auto-generating captions is essential not only for accessibility (as mandated by many UK broadcasting and digital standards) but also for audience retention, given that a high percentage of viewers watch social media videos on mute. \n\nHere is a comprehensive guid",
+      "cost_usd": 0.0002,
+      "latency_ms": 2426,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_a_video_38b6cc_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_a_video_38b6cc_d1_GB.json"
+}

@@ -1,0 +1,46 @@
+{
+  "assistant": "gemini",
+  "question": "podcast to shorts ai free without watermark",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "As an AI assistant helping a US-based content creator, I understand the challenge: you want to repurpose long-form podcast episodes into engaging, vertical short-form videos (TikToks, Instagram Reels, YouTube Shorts) without paying hefty subscription fees or dealing with annoying watermarks. \n\nWhile the \"AI clipping\" market heavily leans toward paid tiers, there are robust free methods and free trials available. Below is a breakdown of the best tools, industry options (including your mentioned software), and a recommended workflow.\n\n---\n\n### Part 1: Evaluating the Industry Options\n\nHere is how the top tools stack up regarding **free tiers, watermarks, and AI capabilities**:\n\n1. **Opus Clip**\n   * **The AI:** Excellent at analyzing a podcast, finding the most viral-worthy hooks, generating captions, and arranging them dynamically.\n   * **Free/Watermark Status:** Opus Clip typically operates on a credit-based system. They",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As an AI assistant helping a US-based content creator, I understand the challenge: you want to repurpose long-form podcast episodes into engaging, vertical short-form videos (TikToks, Instagram Reels, YouTube Shorts) without paying hefty subscription fees or dealing with annoying watermarks. \n\nWhile the \"AI clipping\" market heavily leans toward paid tiers, there are robust free methods and free trials available. Below is a breakdown of the best tools, industry options (including your mentioned software), and a recommended workflow.\n\n---\n\n### Part 1: Evaluating the Industry Options\n\nHere is how the top tools stack up regarding **free tiers, watermarks, and AI capabilities**:\n\n1. **Opus Clip**\n   * **The AI:** Excellent at analyzing a podcast, finding the most viral-worthy hooks, generating captions, and arranging them dynamically.\n   * **Free/Watermark Status:** Opus Clip typically operates on a credit-based system. They",
+              "thoughtSignature": "Eo4BCosBAWkUfRP3AaGFq2muqh9Z3XpqVLL+v/+jOZy2YSTwjEIRrwtRlI8vkAtsXuso8zbY0iHaMO5J6meftlsBPlb/4hZMUbwVqmiCj6uuOqC+CcceZpu22SGj/NHvBUgUpQUoIU3bu0WL7Q1O3OOaiJRhy/TydhvQDOPD4Nl4Cd2CmucpJWmmhLnDOVh7/A=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "jT0Da7STE5P4694PiZjz0Q8"
+  },
+  "latency_ms": 2563,
+  "cost_usd": 0.0002
+}

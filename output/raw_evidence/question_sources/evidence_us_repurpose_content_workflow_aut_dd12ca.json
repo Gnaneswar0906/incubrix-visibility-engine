@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=repurpose+content+workflow+automation+reddit",
+  "source_type": "Community Search Suggest",
+  "market": "US",
+  "seed": "repurpose content workflow automation reddit",
+  "cluster": "Cluster 4: Multi-platform publishing & creator workflow automation",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:50:38.679238Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Read timed out. (read timeout=8)\"}"
+}

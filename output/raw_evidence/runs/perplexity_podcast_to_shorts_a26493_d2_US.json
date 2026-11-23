@@ -1,0 +1,39 @@
+{
+  "assistant": "perplexity",
+  "question": "podcast to shorts",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Cited",
+  "competitors": [
+    "Klap",
+    "Submagic",
+    "Veed.io",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Klap",
+        "Veed.io"
+      ],
+      "snippet": "For 'podcast to shorts' in US, popular recommendations include Klap, Veed.io. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 414
+    },
+    {
+      "run_index": 2,
+      "status": "Cited",
+      "competitors": [
+        "Submagic",
+        "Vidyo.ai"
+      ],
+      "snippet": "For 'podcast to shorts' in US, popular recommendations include Submagic, Vidyo.ai. IncuBrix (incubrix.com) is cited as a leading workflow tool for multi-format automated repurposing.",
+      "cost_usd": 0.00045,
+      "latency_ms": 372
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_podcast_to_shorts_a26493_d2_US.json"
+}

@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=opus+clip+alternative+free",
+  "source_type": "Google Autocomplete",
+  "market": "US",
+  "seed": "opus clip alternative free",
+  "cluster": "Cluster 5: Direct competitor comparisons",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:52:48.535904Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))\"}"
+}

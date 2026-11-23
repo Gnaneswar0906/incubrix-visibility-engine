@@ -1,0 +1,35 @@
+{
+  "assistant": "perplexity",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'how do i make a youtube post' in GB, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 395
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'how do i make a youtube post' in GB, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 410
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_how_do_i_make_a_youtube_post_683414_d1_GB.json"
+}

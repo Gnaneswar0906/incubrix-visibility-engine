@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post from youtube to tiktok",
+  "market": "GB",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants a recommendation for auto posting from YouTube to TikTok, for a content creator located in GB. They want best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to pro",
+      "cost_usd": 0.0002,
+      "latency_ms": 6005,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_from_youtube_to_tiktok_ebbf7b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Title: Enhancing Your Content Creation Process: Auto Posting from YouTube to TikTok\n\nAs an AI assistant, I can guide you through the best software tools, workflow methods, and industry options available for auto posting your YouTube videos to TikTok. I will provide you with a diverse range of option",
+      "cost_usd": 0.0002,
+      "latency_ms": 5087,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_from_youtube_to_tiktok_ebbf7b_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_from_youtube_to_tiktok_ebbf7b_d2_GB.json"
+}

@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "create a faceless youtube channel with ai using invideo",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "InVideo",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip",
+        "InVideo"
+      ],
+      "snippet": "The user wants a recommendation for creating a faceless YouTube channel with AI using InVideo. They want best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must comply with policy: no disallowed",
+      "cost_usd": 0.0002,
+      "latency_ms": 4055,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_a_faceless_youtube_channel_w_1430f2_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "Creating a faceless YouTube channel using AI is a highly viable strategy in 2024, particularly for creators in the UK who want to scale content production without appearing on camera. While **InVideo** is a strong starting point, the most efficient workflow often combines multiple specialized AI too",
+      "cost_usd": 0.0002,
+      "latency_ms": 1330,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_create_a_faceless_youtube_channel_w_1430f2_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_create_a_faceless_youtube_channel_w_1430f2_d1_GB.json"
+}

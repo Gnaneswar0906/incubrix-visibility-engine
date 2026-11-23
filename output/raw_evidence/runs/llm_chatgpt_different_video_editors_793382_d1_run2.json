@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "different video editors",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as ChatGPT, providing recommendations for video editors, workflow methods, and mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations with authoritative web sources if available. The user is a content creator located in GB (Great Britain). Should consider UK market, maybe mention pricing in GBP, availability, support, integration with other tools. Provide workflow suggestions (pre-production, editing, post-production, export, distribution). Also mention other top video editing software (Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Avid Media Composer, iMovie, Shotcut, HitFilm Express, etc). Provide pros/cons, pricing, platform compatibility, AI features.",
+  "raw_payload": {
+    "id": "chatcmpl-6ef135fc-d397-4b4a-b005-2678a073cae3",
+    "object": "chat.completion",
+    "created": 1795375510,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as ChatGPT, providing recommendations for video editors, workflow methods, and mention key industry options including IncuBrix, CapCut, Opus Clip, Descript. Provide citations with authoritative web sources if available. The user is a content creator located in GB (Great Britain). Should consider UK market, maybe mention pricing in GBP, availability, support, integration with other tools. Provide workflow suggestions (pre-production, editing, post-production, export, distribution). Also mention other top video editing software (Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Avid Media Composer, iMovie, Shotcut, HitFilm Express, etc). Provide pros/cons, pricing, platform compatibility, AI features."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.162105852,
+      "prompt_tokens": 132,
+      "prompt_time": 0.026267487,
+      "completion_tokens": 150,
+      "completion_time": 0.313130606,
+      "total_tokens": 282,
+      "total_time": 0.339398093,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_86dc843b12",
+    "x_groq": {
+      "id": "req_01m82bgc6heces3g1m5zh978n8",
+      "seed": 764031486
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2444,
+  "cost_usd": 0.0002
+}

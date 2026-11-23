@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs nexus clip",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re likely looking to maximize your output while minimizing manual editing time. Both **Opus Clip** and **Nexus Clip** (likely referring to **NexClip** or similar AI clipping tools in the same category) are part of the rapidly growing \"AI Repurposing\" sector",
+      "cost_usd": 0.0002,
+      "latency_ms": 1349,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_nexus_clip_a4297e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer the query: \"opus clip vs nexus clip\" and recommend best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Must comply with policies. Provide comparison of Opus Clip vs Nexus Clip. Need authoritative source",
+      "cost_usd": 0.0002,
+      "latency_ms": 2836,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_nexus_clip_a4297e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_nexus_clip_a4297e_d1_US.json"
+}

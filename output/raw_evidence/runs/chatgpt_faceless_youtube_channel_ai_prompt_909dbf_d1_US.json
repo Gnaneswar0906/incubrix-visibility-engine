@@ -1,0 +1,32 @@
+{
+  "assistant": "chatgpt",
+  "question": "faceless youtube channel ai prompt",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Faceless YouTube\u2011Channel AI Toolkit (2024)\n\nBelow is a **complete, end",
+      "cost_usd": 0.0002,
+      "latency_ms": 1923,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Creating a successful faceless YouTube channel in the current landscape requires a robust pipeline that moves beyond simple text-to-video generation. The industry has shifted toward \"high-retention\" editing and AI-assisted production rather than fully automated, low-effort content. Below is a recomm",
+      "cost_usd": 0.0002,
+      "latency_ms": 1069,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_faceless_youtube_channel_ai_prompt_909dbf_d1_US.json"
+}

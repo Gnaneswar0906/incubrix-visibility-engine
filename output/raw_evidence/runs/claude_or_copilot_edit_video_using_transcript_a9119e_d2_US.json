@@ -1,0 +1,35 @@
+{
+  "assistant": "claude_or_copilot",
+  "question": "edit video using transcript",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "InVideo"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "InVideo"
+      ],
+      "snippet": "For 'edit video using transcript' in US, popular recommendations include InVideo. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 416
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For 'edit video using transcript' in US, popular recommendations include CapCut. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 437
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\claude_or_copilot_edit_video_using_transcript_a9119e_d2_US.json"
+}

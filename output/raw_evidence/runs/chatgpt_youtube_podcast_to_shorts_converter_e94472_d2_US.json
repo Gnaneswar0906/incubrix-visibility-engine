@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube podcast to shorts converter free",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Turning a YouTube Podcast into TikTok\u2011/YouTube\u2011Shorts Clips \u2013\u202fFree\u2011First Toolkit  \n\nBelow is a **",
+      "cost_usd": 0.0002,
+      "latency_ms": 1941,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_podcast_to_shorts_converter_e94472_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript) for converting YouTube podcasts to shorts (short-form videos). Need to be free. Provide citations. Must be US-based content creator. Provide workflow ste",
+      "cost_usd": 0.0002,
+      "latency_ms": 2170,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_podcast_to_shorts_converter_e94472_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_podcast_to_shorts_converter_e94472_d2_US.json"
+}

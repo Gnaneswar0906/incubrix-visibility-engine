@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "**Faceless YouTube Automation \u2013 Free\u2011AI\u2011Powered Toolkit (UK\u2011friendly)**  \n\nBelow is a practical, end\u2011to\u2011end workflow you can start using today without spending",
+  "raw_payload": {
+    "id": "chatcmpl-9668f4dc-6657-4172-8c4a-93ca2ee49d17",
+    "object": "chat.completion",
+    "created": 1795375813,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "**Faceless YouTube Automation \u2013 Free\u2011AI\u2011Powered Toolkit (UK\u2011friendly)**  \n\nBelow is a practical, end\u2011to\u2011end workflow you can start using today without spending",
+          "reasoning": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript, for a faceless YouTube automation channel using AI free download. Also cite authoritative web sources if available. Must comply with policy. This is not disallowed. Provide info, citations. Need to ensure no copyrighted text beyond short excerpt. Provide links. Provide UK perspective maybe. Provide free tools. Provide workflow steps. Provide citations with URLs. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36664692,
+      "prompt_tokens": 139,
+      "prompt_time": 0.006383279,
+      "completion_tokens": 150,
+      "completion_time": 0.312715531,
+      "total_tokens": 289,
+      "total_time": 0.31909881,
+      "completion_tokens_details": {
+        "reasoning_tokens": 105
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e5b4e54fbb",
+    "x_groq": {
+      "id": "req_01m82bskrtebwvjb6azjak7fd7",
+      "seed": 254559241
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4312,
+  "cost_usd": 0.0002
+}

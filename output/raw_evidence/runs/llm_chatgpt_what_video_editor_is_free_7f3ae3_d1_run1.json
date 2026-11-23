@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for free video editors, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be mindful of policy: we can provide citations to web sources. Provide UK context (GB). Provide free video editors: DaVinci Resolve (free version), HitFilm Express, Lightworks (free tier), Shotcut, OpenShot, Blender (video sequence editor). Also mention CapCut (free), Opus Clip (AI clipping tool free tier), Descript (free tier), IncuBrix (maybe a platform? Not sure). Provide workflow methods: import, organize, edit, color grade, export, etc.",
+  "raw_payload": {
+    "id": "chatcmpl-85209225-541f-4573-8740-e2845378bfb3",
+    "object": "chat.completion",
+    "created": 1795375537,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for free video editors, best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Provide citations. Need to be mindful of policy: we can provide citations to web sources. Provide UK context (GB). Provide free video editors: DaVinci Resolve (free version), HitFilm Express, Lightworks (free tier), Shotcut, OpenShot, Blender (video sequence editor). Also mention CapCut (free), Opus Clip (AI clipping tool free tier), Descript (free tier), IncuBrix (maybe a platform? Not sure). Provide workflow methods: import, organize, edit, color grade, export, etc."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369862163,
+      "prompt_tokens": 134,
+      "prompt_time": 0.005362575,
+      "completion_tokens": 150,
+      "completion_time": 0.314998402,
+      "total_tokens": 284,
+      "total_time": 0.320360977,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_e1a78f200e",
+    "x_groq": {
+      "id": "req_01m82bh6yje008nk644zzn1bwc",
+      "seed": 751974614
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3485,
+  "cost_usd": 0.0002
+}

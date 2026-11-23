@@ -1,0 +1,43 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs choppity",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant. The user is a content creator located in India (IN). They ask: \"opus clip vs choppity\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web so",
+      "cost_usd": 0.0002,
+      "latency_ms": 3244,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_choppity_eb76f5_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in India, you are likely looking for tools that balance high-quality AI editing with affordability, ease of use, and reliability. You asked for a comparison between **Opus Clip** and **\"Choppity.\"**\n\n### \u26a0\ufe0f Important Clarification: \"Choppity\"\nThere is **no widely re",
+      "cost_usd": 0.0002,
+      "latency_ms": 1366,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_choppity_eb76f5_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_choppity_eb76f5_d1_IN.json"
+}

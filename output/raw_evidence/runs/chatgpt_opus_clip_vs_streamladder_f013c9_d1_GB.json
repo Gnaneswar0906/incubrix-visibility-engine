@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs streamladder",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator based in the UK, you are likely looking for tools that balance efficiency, cost-effectiveness, and high-quality output. The debate between **Opus Clip** and **StreamLadder** is a classic one, but it\u2019s important to clarify a key distinction first, as these two tools serve ",
+      "cost_usd": 0.0002,
+      "latency_ms": 1162,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_streamladder_f013c9_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "##",
+      "cost_usd": 0.0002,
+      "latency_ms": 2991,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_streamladder_f013c9_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_streamladder_f013c9_d1_GB.json"
+}

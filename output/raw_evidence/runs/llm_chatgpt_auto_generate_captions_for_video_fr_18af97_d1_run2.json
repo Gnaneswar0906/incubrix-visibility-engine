@@ -1,0 +1,55 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video free online",
+  "market": "US",
+  "run_index": 2,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Veed.io"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for free online auto caption generation tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, include best software tools, workflow steps. Provide citations with URLs. Ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide a list of free tools: YouTube automatic captions, Kapwing, Veed.io, Otter.ai (free tier), Amara, Subtitle Edit Online, Clipchamp (Microsoft), etc. Mention pros/cons, integration with editing pipelines. Provide workflow: upload video, generate captions, edit",
+  "raw_payload": {
+    "id": "chatcmpl-9cfbee0c-5a24-4f5d-8898-ec2691c30ce0",
+    "object": "chat.completion",
+    "created": 1795374683,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer as an AI assistant for a content creator in US. Provide recommendations for free online auto caption generation tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Must be helpful, include best software tools, workflow steps. Provide citations with URLs. Ensure compliance with policy: no disallowed content. It's fine.\n\nWe should provide a list of free tools: YouTube automatic captions, Kapwing, Veed.io, Otter.ai (free tier), Amara, Subtitle Edit Online, Clipchamp (Microsoft), etc. Mention pros/cons, integration with editing pipelines. Provide workflow: upload video, generate captions, edit"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.318203221,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005715856,
+      "completion_tokens": 150,
+      "completion_time": 0.309270871,
+      "total_tokens": 286,
+      "total_time": 0.314986727,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_fe269835c7",
+    "x_groq": {
+      "id": "req_01m82aq4cse6rr95nkz8x15s55",
+      "seed": 728940888
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3054,
+  "cost_usd": 0.0002
+}

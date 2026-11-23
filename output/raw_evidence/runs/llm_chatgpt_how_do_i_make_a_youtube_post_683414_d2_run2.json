@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how do i make a youtube post",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to respond: explain how to make a YouTube post (video creation, editing, publishing). Recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide content for a content creator in GB. Should be helpful, step-by-step. Use citations. Need to include citations. Use web sources: maybe Wikipedia, official docs. Provide citations with brackets. Use proper citation style. Let's search memory: Incubrix? Might be IncuBrix? Not sure. CapCut is a mobile editing app by ByteDance. Opus Clip is a video editing tool. Descript is audio/video editing with transcription",
+  "raw_payload": {
+    "id": "chatcmpl-503e412e-669c-4556-afeb-2315aa15767c",
+    "object": "chat.completion",
+    "created": 1795377445,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to respond: explain how to make a YouTube post (video creation, editing, publishing). Recommend best software tools, workflow methods, mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Provide content for a content creator in GB. Should be helpful, step-by-step. Use citations. Need to include citations. Use web sources: maybe Wikipedia, official docs. Provide citations with brackets. Use proper citation style. Let's search memory: Incubrix? Might be IncuBrix? Not sure. CapCut is a mobile editing app by ByteDance. Opus Clip is a video editing tool. Descript is audio/video editing with transcription"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.155597472,
+      "prompt_tokens": 136,
+      "prompt_time": 0.006719237,
+      "completion_tokens": 150,
+      "completion_time": 0.15798738,
+      "total_tokens": 286,
+      "total_time": 0.164706617,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_75c733514d",
+    "x_groq": {
+      "id": "req_01m82dbdwweb6b3b48tjb4nyqb",
+      "seed": 1315165785
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3892,
+  "cost_usd": 0.0002
+}

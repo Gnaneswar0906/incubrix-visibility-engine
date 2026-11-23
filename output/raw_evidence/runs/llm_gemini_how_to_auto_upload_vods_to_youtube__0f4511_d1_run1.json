@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "how to auto upload vods to youtube from twitch",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "As a content creator in India, repurposing your Twitch VODs (Video on Demand) into YouTube uploads and YouTube Shorts is one of the most efficient ways to grow your cross-platform audience. Because of time zone differences and regional internet speeds, automating this workflow saves hours of manual downloading and re-uploading.\n\nHere is a comprehensive guide to the best software tools, automated workflows, and industry-standard AI tools tailored to your needs.\n\n---\n\n### 1. Direct Twitch-to-YouTube Automation (Full VODs)\n\nIf your goal is to take a full 2-to-6-hour Twitch stream and automatically push it to YouTube without editing, you have two primary methods:\n\n#### Method A: Twitch's Native \"Export\" Feature (Free & Built-in)\n*   **How it works:** Twitch allows you to directly export past broadcasts to a linked YouTube channel.\n*   **Workflow:** \n    1",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "As a content creator in India, repurposing your Twitch VODs (Video on Demand) into YouTube uploads and YouTube Shorts is one of the most efficient ways to grow your cross-platform audience. Because of time zone differences and regional internet speeds, automating this workflow saves hours of manual downloading and re-uploading.\n\nHere is a comprehensive guide to the best software tools, automated workflows, and industry-standard AI tools tailored to your needs.\n\n---\n\n### 1. Direct Twitch-to-YouTube Automation (Full VODs)\n\nIf your goal is to take a full 2-to-6-hour Twitch stream and automatically push it to YouTube without editing, you have two primary methods:\n\n#### Method A: Twitch's Native \"Export\" Feature (Free & Built-in)\n*   **How it works:** Twitch allows you to directly export past broadcasts to a linked YouTube channel.\n*   **Workflow:** \n    1",
+              "thoughtSignature": "Eo4BCosBAWkUfRMksN39DYn25R0D7F0SUBpFkaZJmCyCa1kwRjfCEnBVQlbqnv4W7uH8JfHOOOeX2iR1Gg2KYPLyX5J+/2rpOXVH9eypd4/icKhoxYJGnZtUcDFkK+mNNeOb7emLZTr6NtWe55W8yxgfOgeT4LQ29rPYtXKLbxXT/4AjrARGQ47kMrqwy1DqAg=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 68,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 68
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "rUADa8v-HPP2694Pz6Pw4A8"
+  },
+  "latency_ms": 2621,
+  "cost_usd": 0.0002
+}

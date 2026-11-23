@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer a query: \"youtube automation faceless youtube channel using ai free download\". The user wants recommendations for best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. The user is a content creator in GB. So we should give a comprehensive answer, with tools, workflow, mention the key options, and provide citations. We need to ensure we use up-to-date info. Should mention AI tools for script, voice, video editing, thumbnail, SEO, automation. Provide workflow: idea generation, research, script writing, voiceover, video creation, editing, upload, promotion, analytics. Tools: ChatGPT for",
+  "raw_payload": {
+    "id": "chatcmpl-dab8cc32-76b5-411d-a1e3-776fc43d6596",
+    "object": "chat.completion",
+    "created": 1795377624,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer a query: \"youtube automation faceless youtube channel using ai free download\". The user wants recommendations for best software tools, workflow methods, mention key industry options such as IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. The user is a content creator in GB. So we should give a comprehensive answer, with tools, workflow, mention the key options, and provide citations. We need to ensure we use up-to-date info. Should mention AI tools for script, voice, video editing, thumbnail, SEO, automation. Provide workflow: idea generation, research, script writing, voiceover, video creation, editing, upload, promotion, analytics. Tools: ChatGPT for"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.36775863,
+      "prompt_tokens": 139,
+      "prompt_time": 0.010297259,
+      "completion_tokens": 150,
+      "completion_time": 0.152340887,
+      "total_tokens": 289,
+      "total_time": 0.162638146,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_ed70b23331",
+    "x_groq": {
+      "id": "req_01m82dgx9me7hsk913qt2a585w",
+      "seed": 374208980
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 6998,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto post youtube videos to facebook page",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [],
+      "snippet": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, you have several industry-standard tools and methods at your disposal. \n\nWhile native tools like Meta Business Suite are the most reliable for direct scheduling, specialized AI and ",
+      "cost_usd": 0.0002,
+      "latency_ms": 6250,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_videos_to_faceboo_382952_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a content creator in the US looking to streamline your workflow by cross-posting YouTube videos to a Facebook Page, utilizing the right combination of automation software, clipping tools, and optimized workflows is essential. Simply sharing a YouTube link on Facebook often results in low algorith",
+      "cost_usd": 0.0002,
+      "latency_ms": 2849,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_post_youtube_videos_to_faceboo_382952_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_post_youtube_videos_to_faceboo_382952_d1_US.json"
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "remove filler words from video online free",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants recommendations for removing filler words from video online free. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. They are a content creator in GB. Need to give suggestions, free online tools, workflow, mention those options, maybe others like Adobe Premiere Pro's auto-duck, etc. Provide citations (maybe using footnotes with URLs). Should be concise but thorough. Provide steps: upload video, transcribe, edit transcript, auto-remove filler words, export. Also mention limitations, privacy, etc. Provide links to official pages. Provide comparison table perhaps. Ensure citations are included. Use UK spelling",
+  "raw_payload": {
+    "id": "chatcmpl-98fbb228-1ac2-4a4b-9689-d9fa05ca1a34",
+    "object": "chat.completion",
+    "created": 1795375544,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants recommendations for removing filler words from video online free. They want best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. They are a content creator in GB. Need to give suggestions, free online tools, workflow, mention those options, maybe others like Adobe Premiere Pro's auto-duck, etc. Provide citations (maybe using footnotes with URLs). Should be concise but thorough. Provide steps: upload video, transcribe, edit transcript, auto-remove filler words, export. Also mention limitations, privacy, etc. Provide links to official pages. Provide comparison table perhaps. Ensure citations are included. Use UK spelling"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.316572334,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005871365,
+      "completion_tokens": 150,
+      "completion_time": 0.310247039,
+      "total_tokens": 286,
+      "total_time": 0.316118404,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_f640395b96",
+    "x_groq": {
+      "id": "req_01m82bhdnmejk97xeepr3kk3q1",
+      "seed": 1654095115
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2918,
+  "cost_usd": 0.0002
+}

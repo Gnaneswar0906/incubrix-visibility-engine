@@ -1,0 +1,45 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs crayon",
+  "market": "IN",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip",
+    "Vidyo.ai"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut",
+        "Opus Clip",
+        "Vidyo.ai"
+      ],
+      "snippet": "Hello! As a content creator in India, you are likely looking for tools that balance **cost-effectiveness** (considering INR pricing models), **speed**, and **quality** for repurposing long-form content into short-form clips (Reels, Shorts, TikTok).\n\nHere\u2019s a detailed comparison of **Opus Clip** vs. ",
+      "cost_usd": 0.0002,
+      "latency_ms": 837,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_crayon_b65320_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user is a content creator located in India (IN). They ask: \"opus clip vs crayon\". They want recommendation of best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\n\nWe need to compare ",
+      "cost_usd": 0.0002,
+      "latency_ms": 2275,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_opus_clip_vs_crayon_b65320_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_opus_clip_vs_crayon_b65320_d1_IN.json"
+}

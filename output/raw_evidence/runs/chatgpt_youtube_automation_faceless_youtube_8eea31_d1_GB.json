@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube automation faceless youtube channel using ai free download",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. They want citations of authoritative web sources if available. Also note they are a content creator located in GB. Must comply with policy. It's a re",
+      "cost_usd": 0.0002,
+      "latency_ms": 4870,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_8eea31_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "**Faceless YouTube Automation \u2013 Free\u2011AI\u2011Powered Toolkit (UK\u2011friendly)**  \n\nBelow is a practical, end\u2011to\u2011end workflow you can start using today without spending",
+      "cost_usd": 0.0002,
+      "latency_ms": 4312,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_automation_faceless_youtube_8eea31_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_automation_faceless_youtube_8eea31_d1_GB.json"
+}

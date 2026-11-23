@@ -1,0 +1,50 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to auto generate captions on reels",
+  "market": "GB",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "## Auto\u2011Generating Captions for Instagram Reels (and TikTok/YouTube Shorts)  \n*",
+  "raw_payload": {
+    "id": "chatcmpl-822d515b-89b0-401a-a43b-8877d3978450",
+    "object": "chat.completion",
+    "created": 1795375570,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "## Auto\u2011Generating Captions for Instagram Reels (and TikTok/YouTube Shorts)  \n*",
+          "reasoning": "We need to answer query: how to auto generate captions on reels. Provide best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. User is content creator in GB. We should give UK context, maybe mention compliance with accessibility (UK Equality Act). Provide step-by-step workflow, pros/cons, pricing, integration with Instagram Reels, TikTok, YouTube Shorts. Cite sources with links. Must follow policy: no disallowed content. It's fine. Provide citations. Use markdown."
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.375270109,
+      "prompt_tokens": 136,
+      "prompt_time": 0.04527225,
+      "completion_tokens": 150,
+      "completion_time": 0.311845652,
+      "total_tokens": 286,
+      "total_time": 0.357117902,
+      "completion_tokens_details": {
+        "reasoning_tokens": 121
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_90620edd96",
+    "x_groq": {
+      "id": "req_01m82bj6hqexh8javvmjhy0y93",
+      "seed": 1118160559
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3191,
+  "cost_usd": 0.0002
+}

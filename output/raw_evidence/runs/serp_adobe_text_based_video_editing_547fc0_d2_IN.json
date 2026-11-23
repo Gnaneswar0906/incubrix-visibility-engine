@@ -1,0 +1,100 @@
+{
+  "query": "adobe text based video editing",
+  "market": "IN",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing.html",
+  "competitors_named": "",
+  "raw_response": {
+    "searchParameters": {
+      "q": "adobe text based video editing",
+      "gl": "in",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Text-Based Editing overview in Premiere",
+        "link": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-video-using-text-based-editing/overview-of-text-based-editing.html",
+        "displayedLink": "https://helpx.adobe.com \u203a premiere \u203a ... \u203a overview-of-text-based-edit...",
+        "snippet": "Use Text-Based Editing to create and edit video sequences using a transcript of the video. When you select and rearrange the text, related video ...",
+        "date": "7 Jan 2026",
+        "position": 1
+      },
+      {
+        "title": "Adobe Premiere - Professional video editing software",
+        "link": "https://www.adobe.com/in/products/premiere.html",
+        "displayedLink": "https://www.adobe.com \u203a in \u203a products \u203a premiere.html",
+        "snippet": "Create your stories with industry-standard editing tools and try Text-Based Editing to refine, reorder and trim clips just like you'd edit a text document.",
+        "position": 2
+      },
+      {
+        "title": "Text-Based Editing in Premiere Pro | Adobe Video",
+        "link": "https://www.youtube.com/watch?v=Y_QxSET-dO4",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Text-Based Editing in Premiere Pro is an entirely new way of editing that makes creating rough cuts as simple as copying and pasting text.",
+        "position": 3
+      },
+      {
+        "title": "Text-based editing | Firefly",
+        "link": "https://helpx.adobe.com/firefly/web/firefly-video-editor/work-with-transcript/text-based-editing.html",
+        "displayedLink": "https://helpx.adobe.com \u203a firefly \u203a ... \u203a text-based-editing.html",
+        "snippet": "Learn about Text-based editing and how you can use it to edit your video by directly interacting with the transcript.",
+        "date": "10 Nov 2026",
+        "position": 4
+      },
+      {
+        "title": "Free Online Video Editor | Adobe Express",
+        "link": "https://www.adobe.com/express/feature/video/editor",
+        "displayedLink": "https://www.adobe.com \u203a express \u203a ... \u203a editor",
+        "snippet": "The Adobe Express free video editor helps you easily create your own professional and custom videos in minutes, no design skills needed.",
+        "position": 5
+      },
+      {
+        "title": "Premiere Pro: Harness the Power of Text-based Editing with James ...",
+        "link": "https://www.youtube.com/watch?v=4IjOOlhWAGo",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "Join James Bonanno as he teachers you how to edit with text, remove unwanted pauses, and filler words all within one panel in Adobe Premiere\u00a0...",
+        "position": 6
+      },
+      {
+        "title": "Professional AI video editing software | Adobe Premiere",
+        "link": "https://www.adobe.com/in/products/premiere/ai-video-editing.html",
+        "displayedLink": "https://www.adobe.com \u203a in \u203a ... \u203a ai-video-editing.html",
+        "snippet": "Create rough cuts fast with Text-Based Editing. Auto-generate your transcript, highlight text to add clips to your timeline \u2014 then refine, reorder and trim ...",
+        "position": 7
+      },
+      {
+        "title": "How To Easily Do Text Based Editing In Premiere Pro",
+        "link": "https://www.youtube.com/watch?v=jkYiH1YbJ4I",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "This beginner friendly Premiere Pro tutorial shows how to use text based editing to edit your videos. This process involves transcribing\u00a0...",
+        "position": 8
+      },
+      {
+        "title": "Text-Based Video Editing in Premiere Pro | Premiere Assistant",
+        "link": "https://cutback.video/premiere-assistant/features/edit-video-with-text",
+        "displayedLink": "https://cutback.video \u203a premiere-assistant \u203a features \u203a edit-video-with-text",
+        "snippet": "Edit video by editing text in Premiere Pro. Speaker labels, multicam support, silence markers, and more than native Premiere transcription.",
+        "position": 9
+      },
+      {
+        "title": "Now in Beta: Introducing Text-Based Editing in Premiere Pro",
+        "link": "https://community.adobe.com/announcements-732/now-in-beta-introducing-text-based-editing-in-premiere-pro-313349",
+        "displayedLink": "https://community.adobe.com \u203a announcements-732 \u203a now-in-beta-introducing-tex...",
+        "snippet": "I am pleased to introduce you to Text-Based Editing in Premiere Pro (Beta), which makes assembling a rough cut as simple as editing a Word document. Transcribe ...",
+        "date": "3 Feb 2023",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://community.adobe.com/announcements-732/now-in-beta-introducing-text-based-editing-in-premiere-pro-313349?postid=5911333#post5911333"
+          }
+        ],
+        "position": 10
+      }
+    ],
+    "credits": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to text editor",
+  "market": "IN",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond to a content creator in India. They want to know how to use a text editor? Or \"how to text editor\"? Might be asking about how to use a text editor for content creation? They mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Those are video editing or audio editing tools, not text editors. The question seems a bit",
+  "raw_payload": {
+    "id": "chatcmpl-ae8cc18d-b88a-416f-8e2c-32ace4622937",
+    "object": "chat.completion",
+    "created": 1795376928,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user: \"You are an AI assistant answering a query from a content creator located in IN. Query: how to text editor Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to respond to a content creator in India. They want to know how to use a text editor? Or \"how to text editor\"? Might be asking about how to use a text editor for content creation? They mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Those are video editing or audio editing tools, not text editors. The question seems a bit"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.314228608,
+      "prompt_tokens": 133,
+      "prompt_time": 0.007470481,
+      "completion_tokens": 150,
+      "completion_time": 0.153914643,
+      "total_tokens": 283,
+      "total_time": 0.161385124,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_feb9b278f1",
+    "x_groq": {
+      "id": "req_01m82cvmz2eaqatw75bpt430m9",
+      "seed": 614303633
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4402,
+  "cost_usd": 0.0002
+}

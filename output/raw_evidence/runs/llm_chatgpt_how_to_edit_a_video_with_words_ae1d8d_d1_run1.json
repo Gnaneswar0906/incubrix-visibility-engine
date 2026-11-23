@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit a video with words",
+  "market": "US",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: how to edit a video with words. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a thorough answer, recommending software tools, workflow, mention those tools, maybe others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Camtasia, etc. Provide steps: script, subtitles, captions, text overlays, kinetic typography, etc. Provide workflow: planning, script, storyboard, record, import, edit, add text, style,",
+  "raw_payload": {
+    "id": "chatcmpl-9b100a89-d9bf-4099-90b2-6bd178a64f34",
+    "object": "chat.completion",
+    "created": 1795374556,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user asks: \"You are an AI assistant answering a query from a content creator located in US. Query: how to edit a video with words. Recommend the best software tools, workflow methods, and mention key industry options (such as IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available.\"\n\nWe need to provide a thorough answer, recommending software tools, workflow, mention those tools, maybe others like Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, Camtasia, etc. Provide steps: script, subtitles, captions, text overlays, kinetic typography, etc. Provide workflow: planning, script, storyboard, record, import, edit, add text, style,"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369012465,
+      "prompt_tokens": 136,
+      "prompt_time": 0.005771384,
+      "completion_tokens": 150,
+      "completion_time": 0.315052503,
+      "total_tokens": 286,
+      "total_time": 0.320823887,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_19b184c447",
+    "x_groq": {
+      "id": "req_01m82ak85veqn8db1n3rvtvhy8",
+      "seed": 969212297
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3993,
+  "cost_usd": 0.0002
+}

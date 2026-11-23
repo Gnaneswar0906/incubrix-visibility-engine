@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to edit video transcript",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Descript"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Descript"
+      ],
+      "snippet": "Hello! As a content creator in the US, you\u2019re likely looking for efficiency and polish. Editing video transcripts is a game-changer because it allows you to edit video by editing text, remove filler words instantly, and improve accessibility.\n\nHere\u2019s a breakdown of the best software tools, recommend",
+      "cost_usd": 0.0002,
+      "latency_ms": 3204,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_video_transcript_4bc0e1_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## How to Edit a Video Transcript",
+      "cost_usd": 0.0002,
+      "latency_ms": 2563,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_how_to_edit_video_transcript_4bc0e1_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_how_to_edit_video_transcript_4bc0e1_d1_US.json"
+}

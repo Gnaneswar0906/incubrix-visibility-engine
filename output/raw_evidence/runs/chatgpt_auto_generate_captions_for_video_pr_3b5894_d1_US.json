@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto generate captions for video premiere pro",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user asks: \"auto generate captions for video premiere pro\". They want recommendation of best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources if available. Need to answer as an AI assistant for a content cre",
+      "cost_usd": 0.0002,
+      "latency_ms": 3507,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_pr_3b5894_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## Auto\u2011Generating Captions for Adobe\u202fPremiere\u202fPro  \n*Tailored for a U.S.\u2011based content creator who wants fast, accurate subtitles and a smooth workflow.*\n\n---\n\n### 1. Why Use Auto\u2011Captioning?\n\n| Benefit | How it",
+      "cost_usd": 0.0002,
+      "latency_ms": 3348,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_generate_captions_for_video_pr_3b5894_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_generate_captions_for_video_pr_3b5894_d1_US.json"
+}

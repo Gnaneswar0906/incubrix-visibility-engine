@@ -1,0 +1,36 @@
+{
+  "assistant": "chatgpt",
+  "question": "auto post youtube videos",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "To help content creators automate the process of posting their YouTube videos to other platforms, I will suggest various software tools and workflow methods along with some prominent industry options. Please note that while some tools can automatically post to social media, it is generally not advis",
+      "cost_usd": 0.0002,
+      "latency_ms": 33337,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_bc984b_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "As a US-based content creator, automating your YouTube production pipeline is one of the most effective ways to scale your channel without burning out. The industry has shifted from simple \"upload bots\" to sophisticated **AI-assisted editing and scheduling ecosystems**.\n\nHere\u2019s a breakdown of the be",
+      "cost_usd": 0.0002,
+      "latency_ms": 3034,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_auto_post_youtube_videos_bc984b_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_auto_post_youtube_videos_bc984b_d1_US.json"
+}

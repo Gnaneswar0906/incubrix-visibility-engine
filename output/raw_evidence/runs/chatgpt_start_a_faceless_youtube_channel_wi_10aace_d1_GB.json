@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "start a faceless youtube channel with ai",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "Starting a faceless YouTube channel using AI in 2024/2025 is a highly viable strategy, but it requires moving beyond simple \"text-to-video\" buttons. The current meta focuses on **high-retention editing**, **authentic-sounding AI voiceovers**, and **context-aware visual storytelling**.\n\nSince you are",
+      "cost_usd": 0.0002,
+      "latency_ms": 1838,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_a_faceless_youtube_channel_wi_10aace_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendation for starting a faceless YouTube channel using AI, targeting a content creator in GB. Need to recommend best software tools, workflow methods, mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Cite authoritative web sources if available. Must comply w",
+      "cost_usd": 0.0002,
+      "latency_ms": 4287,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_start_a_faceless_youtube_channel_wi_10aace_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_start_a_faceless_youtube_channel_wi_10aace_d1_GB.json"
+}

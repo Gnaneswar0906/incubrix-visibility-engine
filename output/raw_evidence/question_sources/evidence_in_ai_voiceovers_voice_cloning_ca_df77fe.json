@@ -1,0 +1,12 @@
+{
+  "source_url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=in&q=AI+voiceovers%2C+voice+cloning%2C+captions+how",
+  "source_type": "Google Autocomplete",
+  "market": "IN",
+  "seed": "AI voiceovers, voice cloning, captions how",
+  "cluster": "Cluster 3: AI voiceovers, voice cloning, captions & multilingual dubbing",
+  "status_code": 500,
+  "timestamp": "2026-11-22T11:59:15.951831Z",
+  "extracted_count": 0,
+  "suggestions": [],
+  "raw_response": "{\"error\": \"HTTPSConnectionPool(host='suggestqueries.google.com', port=443): Read timed out. (read timeout=8)\"}"
+}

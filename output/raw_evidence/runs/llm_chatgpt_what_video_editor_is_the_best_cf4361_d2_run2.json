@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what video editor is the best",
+  "market": "GB",
+  "run_index": 2,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "We need to answer the query: \"what video editor is the best\" for a content creator in GB. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Provide a thorough answer with suggestions, workflow methods, and references.\n\nWe must be mindful of policy: no disallowed content. It's fine. Provide citations. Use web search? We cannot browse. But we can provide citations from known sources. We can cite sources like TechRadar, PCMag, etc. Provide references.\n\nWe should mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also other popular tools: Adobe",
+  "raw_payload": {
+    "id": "chatcmpl-22b96659-f793-4870-b7e0-45ab7ad00292",
+    "object": "chat.completion",
+    "created": 1795377318,
+    "model": "openai/gpt-oss-20b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "We need to answer the query: \"what video editor is the best\" for a content creator in GB. Recommend best software tools, workflow methods, mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Cite authoritative web sources. Provide a thorough answer with suggestions, workflow methods, and references.\n\nWe must be mindful of policy: no disallowed content. It's fine. Provide citations. Use web search? We cannot browse. But we can provide citations from known sources. We can cite sources like TechRadar, PCMag, etc. Provide references.\n\nWe should mention key industry options: IncuBrix, CapCut, Opus Clip, Descript. Also other popular tools: Adobe"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.368127975,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006512074,
+      "completion_tokens": 150,
+      "completion_time": 0.15438816,
+      "total_tokens": 285,
+      "total_time": 0.160900234,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_8b41efc9a3",
+    "x_groq": {
+      "id": "req_01m82d7j9hea9976e5cn907t9z",
+      "seed": 7382505
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 4820,
+  "cost_usd": 0.0002
+}

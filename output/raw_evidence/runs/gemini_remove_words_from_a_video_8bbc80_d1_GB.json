@@ -1,0 +1,32 @@
+{
+  "assistant": "gemini",
+  "question": "remove words from a video",
+  "market": "GB",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an AI assistant helping a content creator in the UK",
+      "cost_usd": 0.0002,
+      "latency_ms": 2718,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_remove_words_from_a_video_8bbc80_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "As an",
+      "cost_usd": 0.0002,
+      "latency_ms": 10827,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_remove_words_from_a_video_8bbc80_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_remove_words_from_a_video_8bbc80_d1_GB.json"
+}

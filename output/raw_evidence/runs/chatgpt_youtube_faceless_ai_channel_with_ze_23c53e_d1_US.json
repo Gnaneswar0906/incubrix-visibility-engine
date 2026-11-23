@@ -1,0 +1,40 @@
+{
+  "assistant": "chatgpt",
+  "question": "youtube faceless ai channel with zero investment",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "## \ud83c\udfac Building a **Faceless AI\u2011Powered YouTube Channel** with **Zero Up\u2011Front Cost**\n\nBelow is a step\u2011by\u2011step workflow that strings together",
+      "cost_usd": 0.0002,
+      "latency_ms": 4555,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Creating a \"faceless\" YouTube channel with **zero financial investment** is entirely possible in 2024, but it requires a strategic shift from \"buying tools\" to \"leveraging free tiers, open-source alternatives, and manual workflow optimization.\"\n\nSince you are in the US, you have access to the best f",
+      "cost_usd": 0.0002,
+      "latency_ms": 1898,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_youtube_faceless_ai_channel_with_ze_23c53e_d1_US.json"
+}

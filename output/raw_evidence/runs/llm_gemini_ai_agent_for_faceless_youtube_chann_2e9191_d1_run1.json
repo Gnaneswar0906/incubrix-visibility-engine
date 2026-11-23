@@ -1,0 +1,44 @@
+{
+  "assistant": "gemini",
+  "question": "ai agent for faceless youtube channel",
+  "market": "GB",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [],
+  "cited_urls": [],
+  "response_text": "Building and scaling a faceless YouTube channel has become one of the most streamlined forms of digital entrepreneurship thanks to generative AI. For a content creator based in Great Britain, leveraging the right stack of tools can automate everything from scriptwriting and voiceovers to editing and clip repurposing. \n\nHere is a comprehensive guide to the best software tools, key industry options (including those you mentioned), and an efficient workflow tailored for a faceless YouTube channel.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **All-in-One Automation Platforms**\n*   **IncuBrix:** As a rising platform in the automated content space, IncuBrix is designed specifically for creators looking to streamline the end-to-end production of faceless channels. It helps coordinate the pipeline\u2014often integrating script generation, media sourcing, and basic assembly\u2014making it a strong contender if you want a centralized dashboard rather than stitching together five different apps.\n\n####",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Building and scaling a faceless YouTube channel has become one of the most streamlined forms of digital entrepreneurship thanks to generative AI. For a content creator based in Great Britain, leveraging the right stack of tools can automate everything from scriptwriting and voiceovers to editing and clip repurposing. \n\nHere is a comprehensive guide to the best software tools, key industry options (including those you mentioned), and an efficient workflow tailored for a faceless YouTube channel.\n\n---\n\n### 1. Key Industry Options & Software Tools\n\n#### **All-in-One Automation Platforms**\n*   **IncuBrix:** As a rising platform in the automated content space, IncuBrix is designed specifically for creators looking to streamline the end-to-end production of faceless channels. It helps coordinate the pipeline\u2014often integrating script generation, media sourcing, and basic assembly\u2014making it a strong contender if you want a centralized dashboard rather than stitching together five different apps.\n\n####",
+              "thoughtSignature": "Eo4BCosBAWkUfRNrKJCcMNKevRI82pm6ZueMZleGAv9NcEpWXrsI1t+V1b5QA8PzDTicaUUvIrCKx6Yg3z1QUE18FD6mqwWJA0yuOKUirvOyY9MYc+/Pm+HARMeEP6/LzAsyuAtSIB29MHv81HTLmonhQDexJmJ/Zc4n4Ru9KzPSiW+h3ArWvpwmRksDnij42w=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 65,
+      "candidatesTokenCount": 196,
+      "totalTokenCount": 261,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 65
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.5-flash-lite",
+    "responseId": "40IDa-mADKuVz7sPr9yKiAY"
+  },
+  "latency_ms": 3098,
+  "cost_usd": 0.0002
+}

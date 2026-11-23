@@ -1,0 +1,49 @@
+{
+  "assistant": "chatgpt",
+  "question": "opus clip vs choppity",
+  "market": "IN",
+  "run_index": 2,
+  "day": 1,
+  "status": "Not mentioned",
+  "competitors": [
+    "CapCut",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "Hello! As a content creator based in India, you are likely looking for tools that balance high-quality AI editing with affordability, ease of use, and reliability. You asked for a comparison between **Opus Clip** and **\"Choppity.\"**\n\n### \u26a0\ufe0f Important Clarification: \"Choppity\"\nThere is **no widely recognized, authoritative video editing tool or AI platform called \"Choppity\"** in the current industry. It is possible that:\n1. You meant **\"Chopstick\"** (a lesser-known tool),\n2. You are referring to a **niche or new startup** not yet broadly documented,\n3. You are experiencing a **typo** (perhaps meaning **\"CapCut\"",
+  "raw_payload": {
+    "id": "chatcmpl-0cbbb103-38ea-4dd6-a362-5fc2136970e5",
+    "object": "chat.completion",
+    "created": 1795375366,
+    "model": "qwen/qwen3.8-27b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Hello! As a content creator based in India, you are likely looking for tools that balance high-quality AI editing with affordability, ease of use, and reliability. You asked for a comparison between **Opus Clip** and **\"Choppity.\"**\n\n### \u26a0\ufe0f Important Clarification: \"Choppity\"\nThere is **no widely recognized, authoritative video editing tool or AI platform called \"Choppity\"** in the current industry. It is possible that:\n1. You meant **\"Chopstick\"** (a lesser-known tool),\n2. You are referring to a **niche or new startup** not yet broadly documented,\n3. You are experiencing a **typo** (perhaps meaning **\"CapCut\""
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.047891687,
+      "prompt_tokens": 79,
+      "prompt_time": 0.005192023,
+      "completion_tokens": 150,
+      "completion_time": 0.291111063,
+      "total_tokens": 229,
+      "total_time": 0.296303086
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_424cb89518",
+    "x_groq": {
+      "id": "req_01m82bc0f7e4y8x1qzayta8wkt",
+      "seed": 512655362
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 1366,
+  "cost_usd": 0.0002
+}

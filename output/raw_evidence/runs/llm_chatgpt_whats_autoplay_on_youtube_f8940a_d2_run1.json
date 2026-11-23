@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "what's autoplay on youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 2,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user wants an answer to \"what's autoplay on youtube\" and also wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India. So we should tailor suggestions possibly to Indian creators. Provide explanation of autoplay on YouTube, how it works, benefits, settings, impact on watch time, etc. Then recommend tools for video editing, repurposing, etc., with workflow methods. Mention those tools and others. Cite sources with links. Must be safe. Provide citations in a format. Provide actionable steps. Use a friendly tone.\n\nWe must not",
+  "raw_payload": {
+    "id": "chatcmpl-4559ddd6-13c4-4796-8207-cf157f5df1aa",
+    "object": "chat.completion",
+    "created": 1795377088,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user wants an answer to \"what's autoplay on youtube\" and also wants recommendation of best software tools, workflow methods, and mention key industry options (IncuBrix, CapCut, Opus Clip, Descript). Also cite authoritative web sources if available. The user is a content creator located in India. So we should tailor suggestions possibly to Indian creators. Provide explanation of autoplay on YouTube, how it works, benefits, settings, impact on watch time, etc. Then recommend tools for video editing, repurposing, etc., with workflow methods. Mention those tools and others. Cite sources with links. Must be safe. Provide citations in a format. Provide actionable steps. Use a friendly tone.\n\nWe must not"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.369558944,
+      "prompt_tokens": 133,
+      "prompt_time": 0.005604205,
+      "completion_tokens": 150,
+      "completion_time": 0.313885444,
+      "total_tokens": 283,
+      "total_time": 0.319489649,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_93703442d9",
+    "x_groq": {
+      "id": "req_01m82d0hape7ssrk7f53m7sn60",
+      "seed": 1634593827
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 3215,
+  "cost_usd": 0.0002
+}

@@ -1,0 +1,54 @@
+{
+  "assistant": "chatgpt",
+  "question": "how to put autoplay on youtube",
+  "market": "IN",
+  "run_index": 1,
+  "day": 1,
+  "status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "cited_urls": [],
+  "response_text": "The user is a content creator in India asking \"how to put autoplay on youtube\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to answer the query: how to put autoplay on YouTube. Autoplay can refer to automatically playing the next video in a playlist or enabling autoplay on embed. Provide steps for YouTube settings, embed code modifications, using tools to create playlists, etc. Also recommend software tools for video editing and clipping (IncuBrix, CapCut, Opus Clip, Descript) that can help create content that works well with autoplay. Provide",
+  "raw_payload": {
+    "id": "chatcmpl-9532f24c-ae11-436a-b4b0-06307b9c7458",
+    "object": "chat.completion",
+    "created": 1795375289,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "",
+          "reasoning": "The user is a content creator in India asking \"how to put autoplay on youtube\". They want recommendations for best software tools, workflow methods, and mention key industry options like IncuBrix, CapCut, Opus Clip, Descript. Also cite authoritative web sources if available.\n\nWe need to answer the query: how to put autoplay on YouTube. Autoplay can refer to automatically playing the next video in a playlist or enabling autoplay on embed. Provide steps for YouTube settings, embed code modifications, using tools to create playlists, etc. Also recommend software tools for video editing and clipping (IncuBrix, CapCut, Opus Clip, Descript) that can help create content that works well with autoplay. Provide"
+        },
+        "logprobs": null,
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "queue_time": 0.317925466,
+      "prompt_tokens": 135,
+      "prompt_time": 0.006404283,
+      "completion_tokens": 150,
+      "completion_time": 0.309583105,
+      "total_tokens": 285,
+      "total_time": 0.315987388,
+      "completion_tokens_details": {
+        "reasoning_tokens": 148
+      }
+    },
+    "usage_breakdown": null,
+    "system_fingerprint": "fp_4200b3f836",
+    "x_groq": {
+      "id": "req_01m82b9mkkesdrr6bg4kke1cpj",
+      "seed": 648755412
+    },
+    "service_tier": "on_demand"
+  },
+  "latency_ms": 2696,
+  "cost_usd": 0.0002
+}

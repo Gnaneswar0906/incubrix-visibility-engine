@@ -1,0 +1,44 @@
+{
+  "assistant": "chatgpt",
+  "question": "text based video editing davinci resolve",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "We need to answer as an AI assistant for a US content creator. Provide recommendations for text-based video editing using DaVinci Resolve, and mention other tools like IncuBrix, CapCut, Opus Clip, Descript. Provide workflow methods, best software tools, cite sources. Must be safe, no disallowed cont",
+      "cost_usd": 0.0002,
+      "latency_ms": 3079,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_davinci_re_e236b5_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "The user wants recommendations for text-based video editing with DaVinci Resolve, and also mention other key industry options like IncuBrix, CapCut, Opus Clip, Descript. Provide best software tools, workflow methods, cite authoritative sources. Need to be helpful, US-based creator. Provide citations",
+      "cost_usd": 0.0002,
+      "latency_ms": 3177,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_text_based_video_editing_davinci_re_e236b5_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_text_based_video_editing_davinci_re_e236b5_d2_US.json"
+}

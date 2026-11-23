@@ -1,0 +1,36 @@
+{
+  "assistant": "gemini",
+  "question": "auto upload to youtube on autopilot",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [],
+      "snippet": "For a US-based content creator looking to achieve a truly automated \"hands-off\" YouTube workflow\u2014often referred to as faceless automation or programmatic publishing\u2014leveraging the right stack of AI tools is essential. \n\nHere is a comprehensive breakdown of the best software tools, key industry optio",
+      "cost_usd": 0.0002,
+      "latency_ms": 9674,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_to_youtube_on_autopilot_279425_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "For a US-based content creator looking to achieve a true \"autopilot\" workflow\u2014from raw idea or footage to a published YouTube video\u2014you need a combination of AI automation, editing, and scheduling tools. \n\nHere is a breakdown of the best software tools, key industry options (including your requested",
+      "cost_usd": 0.0002,
+      "latency_ms": 3161,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_upload_to_youtube_on_autopilot_279425_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_upload_to_youtube_on_autopilot_279425_d1_US.json"
+}

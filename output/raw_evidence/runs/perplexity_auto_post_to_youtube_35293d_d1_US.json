@@ -1,0 +1,34 @@
+{
+  "assistant": "perplexity",
+  "question": "auto post to youtube",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "Munch"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 395
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Munch"
+      ],
+      "snippet": "For 'auto post to youtube' in US, popular recommendations include Munch. ",
+      "cost_usd": 0.00045,
+      "latency_ms": 422
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\perplexity_auto_post_to_youtube_35293d_d1_US.json"
+}

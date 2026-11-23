@@ -1,0 +1,158 @@
+{
+  "query": "auto generate captions for youtube video",
+  "market": "US",
+  "google_position": ">100",
+  "answer_box_or_ai_overview": "None",
+  "quoted_source_url": "https://support.google.com/youtube/answer/6373554?hl=en",
+  "competitors_named": "Veed.io",
+  "raw_response": {
+    "searchParameters": {
+      "q": "auto generate captions for youtube video",
+      "gl": "us",
+      "hl": "en",
+      "type": "search",
+      "num": 10,
+      "engine": "google"
+    },
+    "organic": [
+      {
+        "title": "Use automatic captioning - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/6373554?hl=en",
+        "displayedLink": "https://support.google.com \u203a youtube \u203a answer \u203a 6373554",
+        "snippet": "Go to YouTube. \u00b7 From the top right, click Create and then Go live. \u00b7 Choose Stream from the left-hand menu. \u00b7 Within stream settings, turn on Closed captions.",
+        "position": 1
+      },
+      {
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.kapwing.com/subtitles",
+        "displayedLink": "https://www.kapwing.com \u203a subtitles",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "rating": 4.9,
+        "ratingCount": 5231,
+        "position": 2
+      },
+      {
+        "title": "[QUESTION] How do you make YouTube generate automated ...",
+        "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/",
+        "displayedLink": "https://www.reddit.com \u203a r \u203a ... \u203a question_how_do_you_make_yo...",
+        "snippet": "Is there a way to just prompt youtube to make the automated captions? For some reason or another they sometimes don't appear and/or I accidentally bork ...",
+        "sitelinks": [
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3rquw5/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h49neoo/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/19s9s01noyc5f/"
+          },
+          {
+            "title": "More",
+            "link": "https://www.reddit.com/r/youtubers/comments/oc2vfo/question_how_do_you_make_youtube_generate/h3z22xi/"
+          },
+          {
+            "title": "Free way to auto-generate subtitles for my YouTube video when ... - Redditr/youtube\u00b72 comments\u00b75y",
+            "link": "https://www.reddit.com/r/youtube/comments/ma6ss8/free_way_to_autogenerate_subtitles_for_my_youtube/"
+          },
+          {
+            "title": "Which program do you use to automatically add text/subtitles to ...r/YouTube_startups\u00b720+ comments\u00b71y",
+            "link": "https://www.reddit.com/r/YouTube_startups/comments/1o7jmfu/which_program_do_you_use_to_automatically_add/"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate",
+        "link": "https://www.veed.io/tools/auto-subtitle-generator-online",
+        "displayedLink": "https://www.veed.io \u203a tools \u203a auto-subtitle-generator-online",
+        "snippet": "Upload your video and click the Subtitles menu. \u00b7 Select the language being spoken in your video. \u00b7 Toggle on 'Add Translation' and select your target language.",
+        "rating": 4.6,
+        "ratingCount": 2139,
+        "position": 4
+      },
+      {
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "displayedLink": "https://www.canva.com \u203a features \u203a auto-caption",
+        "snippet": "Enhance their accessibility and appeal by using our free auto caption generator to detect speech in your videos and adding captions. Upload your video.",
+        "position": 5
+      },
+      {
+        "title": "Auto Subtitle & Caption Generator",
+        "link": "https://www.happyscribe.com/subtitle-generator",
+        "displayedLink": "https://www.happyscribe.com \u203a subtitle-generator",
+        "snippet": "Free AI subtitle generator and auto caption generator. Caption any video in 150+ languages, edit and style it, then export SRT, VTT or burned-in MP4.",
+        "rating": 4.6,
+        "ratingCount": 1426,
+        "position": 6
+      },
+      {
+        "title": "YouTube Automatic Subtitles: How to Add Quick Closed Captions!",
+        "link": "https://www.youtube.com/watch?v=tWbNrm7Jo5c",
+        "displayedLink": "https://www.youtube.com \u203a watch",
+        "snippet": "// By the end of this video you'll know how to quickly add YouTube automatic subtitles to videos. You'll also understand why YouTube automatic\u00a0...",
+        "position": 7
+      },
+      {
+        "title": "Create Captions with YouTube",
+        "link": "https://www.k-state.edu/mediasite/help/create-captions-youtube.html",
+        "displayedLink": "https://www.k-state.edu \u203a mediasite \u203a help \u203a create-captions-youtube.html",
+        "snippet": "For the video subtitles label ending in \"(Automatic),\" select Duplicate and Edit under the Subtitles column to open the YouTube caption editor.",
+        "date": "Oct 14, 2025",
+        "position": 8
+      },
+      {
+        "title": "Auto subtitle generator online | Free in over 100 languages",
+        "link": "https://clipchamp.com/en/subtitle-generator/",
+        "displayedLink": "https://clipchamp.com \u203a en \u203a subtitle-generator",
+        "snippet": "1. Upload or record a video \u00b7 2. Choose your subtitle language \u00b7 3. Adjust font, colors, size and alignment \u00b7 4. Download your video and .SRT transcript file.",
+        "position": 9
+      },
+      {
+        "title": "Free YouTube Subtitle Generator (No Length Limits) | AI Video Summarizer",
+        "link": "https://aivideosummarizer.io/youtube-subtitle-generator/",
+        "displayedLink": "https://aivideosummarizer.io \u203a youtube-subtitle-generator",
+        "snippet": "Automatically generate subtitles from any YouTube video with no length limits. Get accurate subtitles in 100+ languages and dialects with our free YouTube ...",
+        "position": 10
+      }
+    ],
+    "peopleAlsoAsk": [
+      {
+        "question": "Can you auto generate captions in YouTube?"
+      },
+      {
+        "question": "Is there a free caption generator?"
+      },
+      {
+        "question": "Is there a way to automatically add subtitles to a video?"
+      },
+      {
+        "question": "Can ChatGPT add subtitles to video?"
+      }
+    ],
+    "relatedSearches": [
+      {
+        "query": "Auto generate captions for youtube video free"
+      },
+      {
+        "query": "Free automatic subtitle generator"
+      },
+      {
+        "query": "How to add subtitles to a YouTube video that is not yours"
+      },
+      {
+        "query": "Caption generator from video"
+      },
+      {
+        "query": "Automatically add subtitles to video online free"
+      },
+      {
+        "query": "YouTube automatic captions not available"
+      }
+    ],
+    "credits": 1
+  }
+}

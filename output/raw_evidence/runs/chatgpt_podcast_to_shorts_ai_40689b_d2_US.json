@@ -1,0 +1,42 @@
+{
+  "assistant": "chatgpt",
+  "question": "podcast to shorts ai",
+  "market": "US",
+  "day": 2,
+  "runs_count": 2,
+  "final_status": "Mentioned",
+  "competitors": [
+    "CapCut",
+    "Descript",
+    "Opus Clip"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Mentioned",
+      "competitors": [
+        "CapCut",
+        "Descript",
+        "Opus Clip"
+      ],
+      "snippet": "Hello! As a content creator in the US, you are in the prime market for **AI-powered \"long-form to short-form\" repurposing tools**. The goal is to take your 1\u20132 hour podcast episodes and automatically chop them into viral-ready 15\u201360 second clips for TikTok, Instagram Reels, and YouTube Shorts.\n\nHere",
+      "cost_usd": 0.0002,
+      "latency_ms": 696,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_40689b_d2_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "Opus Clip"
+      ],
+      "snippet": "Converting long-form podcast content into short-form vertical video for TikTok, Instagram Reels, and YouTube Shorts is no longer just a \"nice-to-have\"; it\u2019s a critical distribution channel. The AI landscape for this specific task has matured rapidly, moving from simple text-to-speech overlays to sop",
+      "cost_usd": 0.0002,
+      "latency_ms": 665,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_chatgpt_podcast_to_shorts_ai_40689b_d2_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\chatgpt_podcast_to_shorts_ai_40689b_d2_US.json"
+}

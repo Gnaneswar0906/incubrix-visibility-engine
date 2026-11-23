@@ -1,0 +1,38 @@
+{
+  "assistant": "gemini",
+  "question": "auto generate captions for video",
+  "market": "US",
+  "day": 1,
+  "runs_count": 2,
+  "final_status": "Not mentioned",
+  "competitors": [
+    "CapCut"
+  ],
+  "runs": [
+    {
+      "run_index": 1,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "As a content creator in the U.S., leveraging AI to auto-generate video captions is one of the most effective ways to boost watch time, improve accessibility, and capture the 85% of social media users who watch videos on mute (according to industry data from platforms like Digiday and Facebook). \n\nHe",
+      "cost_usd": 0.0002,
+      "latency_ms": 2651,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_2b43e8_d1_run1.json"
+    },
+    {
+      "run_index": 2,
+      "status": "Not mentioned",
+      "competitors": [
+        "CapCut"
+      ],
+      "snippet": "For a content creator based in the U.S. looking to auto-generate captions for video, the right choice depends on your specific workflow\u2014whether you are editing short-form TikToks/Reels, long-form YouTube videos, or managing a high-volume content pipeline. \n\nHere is a breakdown of the best software t",
+      "cost_usd": 0.0002,
+      "latency_ms": 6531,
+      "cited_urls": [],
+      "evidence_path": "output/raw_evidence/runs\\llm_gemini_auto_generate_captions_for_video_2b43e8_d1_run2.json"
+    }
+  ],
+  "evidence_path": "output/raw_evidence/runs\\gemini_auto_generate_captions_for_video_2b43e8_d1_US.json"
+}

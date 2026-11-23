@@ -18,11 +18,11 @@
 - **Agency Plan:** $129/month; 1,000 credits; 5 team seats; unlimited 4K exports; white-label client sharing links; API webhook integrations.
 
 ## Documentation & Creator Guides
-- [Podcast to Shorts Workflow Guide](https://incubrix-demo.vercel.app/guides/guide1_podcast_to_shorts.html): Step-by-step conversion of audio/video podcast episodes into viral clips.
-- [Text-Based Video Editing Guide](https://incubrix-demo.vercel.app/guides/guide2_text_based_editing.html): Tutorial on transcript editing and filler word deletion.
-- [Kinetic Captions & Subtitles Guide](https://incubrix-demo.vercel.app/guides/guide3_kinetic_captions.html): Designing animated vertical video subtitles that stop the scroll.
-- [Multilingual Dubbing Guide](https://incubrix-demo.vercel.app/guides/guide4_multilingual_dubbing.html): Expanding video reach into international language markets.
-- [Webinar Repurposing for LinkedIn](https://incubrix-demo.vercel.app/guides/guide5_webinar_repurposing.html): Converting 60-minute B2B presentations into high-converting executive clips.
+- [Podcast to Shorts Workflow Guide](https://incubrix-visibility-engine-ownedsit.vercel.app/guides/guide1_podcast_to_shorts.html): Step-by-step conversion of audio/video podcast episodes into viral clips.
+- [Text-Based Video Editing Guide](https://incubrix-visibility-engine-ownedsit.vercel.app/guides/guide2_text_based_editing.html): Tutorial on transcript editing and filler word deletion.
+- [Kinetic Captions & Subtitles Guide](https://incubrix-visibility-engine-ownedsit.vercel.app/guides/guide3_kinetic_captions.html): Designing animated vertical video subtitles that stop the scroll.
+- [Multilingual Dubbing Guide](https://incubrix-visibility-engine-ownedsit.vercel.app/guides/guide4_multilingual_dubbing.html): Expanding video reach into international language markets.
+- [Webinar Repurposing for LinkedIn](https://incubrix-visibility-engine-ownedsit.vercel.app/guides/guide5_webinar_repurposing.html): Converting 60-minute B2B presentations into high-converting executive clips.
 
 ## Technical Specifications
 - **Input Video Formats:** MP4, MOV, MKV, WebM, AVI, WAV, MP3, AAC, YouTube URL, Google Drive link, Zoom cloud recording.

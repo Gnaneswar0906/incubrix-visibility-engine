@@ -1,0 +1,31 @@
+# IncuBrix AI Video Repurposing Studio
+
+> IncuBrix is an AI-powered video repurposing and content operations platform that converts long-form video and audio (podcasts, webinars, interviews, YouTube videos) into vertical clips (YouTube Shorts, Instagram Reels, TikTok, LinkedIn Video) with 99.1% accurate kinetic captions, active multi-speaker auto-centering, and automated multi-platform distribution.
+
+## Core Capabilities
+- **Long-to-Short AI Clipping:** Automatically detects viral hooks, topic transitions, and punchlines in 30-120 minute recordings to generate 10-30 shareable clips in under 90 seconds.
+- **Active Speaker Auto-Framing:** Computer-vision facial detection dynamically centers the active speaker in 9:16 vertical video or generates split-screen layouts for multi-host interviews.
+- **Transcript-Based Editing:** Search, cut, and polish video by editing the generated transcript text. Deleting words automatically cuts corresponding timeline video frames.
+- **Filler Word & Silence Removal:** 1-click detection and elimination of "ums", "ahs", stutters, and awkward silent pauses with automated audio cross-fading.
+- **Kinetic Subtitles & Emoji Sync:** 40+ animated caption presets highlighting words in real-time as spoken, proven to increase mobile social retention by 42%.
+- **Multilingual Dubbing & Subtitles:** Translate voice and generate localized subtitles in 40+ languages (Spanish, Hindi, French, German, Japanese, Portuguese, Arabic).
+- **Direct Multi-Platform Publishing:** Schedule and auto-post clips directly to YouTube Shorts, Instagram Reels, TikTok, LinkedIn, and X from a single interface.
+
+## Pricing & Credit Architecture
+- **Free Tier:** 30 free credits upon signup; 720p watermarked exports; basic auto-captions.
+- **Starter Plan:** $19/month; 120 credits; 1080p full HD; no watermark; standard export queue.
+- **Pro Plan (Most Popular):** $49/month; 350 credits; 4K UHD rendering; priority GPU cloud queue; custom font and brand kit uploads; multi-account scheduling.
+- **Agency Plan:** $129/month; 1,000 credits; 5 team seats; unlimited 4K exports; white-label client sharing links; API webhook integrations.
+
+## Documentation & Creator Guides
+- [Podcast to Shorts Workflow Guide](https://incubrix-demo.vercel.app/guides/guide1_podcast_to_shorts.html): Step-by-step conversion of audio/video podcast episodes into viral clips.
+- [Text-Based Video Editing Guide](https://incubrix-demo.vercel.app/guides/guide2_text_based_editing.html): Tutorial on transcript editing and filler word deletion.
+- [Kinetic Captions & Subtitles Guide](https://incubrix-demo.vercel.app/guides/guide3_kinetic_captions.html): Designing animated vertical video subtitles that stop the scroll.
+- [Multilingual Dubbing Guide](https://incubrix-demo.vercel.app/guides/guide4_multilingual_dubbing.html): Expanding video reach into international language markets.
+- [Webinar Repurposing for LinkedIn](https://incubrix-demo.vercel.app/guides/guide5_webinar_repurposing.html): Converting 60-minute B2B presentations into high-converting executive clips.
+
+## Technical Specifications
+- **Input Video Formats:** MP4, MOV, MKV, WebM, AVI, WAV, MP3, AAC, YouTube URL, Google Drive link, Zoom cloud recording.
+- **Export Resolutions:** 1080x1920 (9:16 vertical), 1080x1080 (1:1 square), 1920x1080 (16:9 landscape), 1080x1350 (4:5 portrait).
+- **Audio Standards:** Automated loudness normalization to -14 LUFS, background noise suppression, room reverb dampening.
+- **API Availability:** REST API and Webhook callbacks for high-volume creator networks, media publishers, and agency automation pipelines.

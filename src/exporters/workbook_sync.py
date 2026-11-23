@@ -145,9 +145,9 @@ class WorkbookSync:
             "college": "B.Tech Computer Science & Engineering, Amrita Vishwa Vidyapeetham",
             "start_time": "2026-11-20 09:00:00",
             "submission_time": "2026-11-23 19:30:00",
-            "output_folder": "https://github.com/incubrix/visibility-engine/tree/main/output",
-            "repo_url": "https://github.com/incubrix/visibility-engine",
-            "launch_kit_url": "output/IncuBrix_90_Day_AEO_SEO_GEO_Launch_Kit.md",
+            "output_folder": "https://github.com/Gnaneswar0906/incubrix-visibility-engine/tree/main/output",
+            "repo_url": "https://github.com/Gnaneswar0906/incubrix-visibility-engine",
+            "launch_kit_url": "https://github.com/Gnaneswar0906/incubrix-visibility-engine/blob/main/output/IncuBrix_90_Day_AEO_SEO_GEO_Launch_Kit.md",
             "product_video_url": "https://loom.com/share/incubrix-product-walkthrough",
             "tech_video_url": "https://loom.com/share/incubrix-engine-tech-demo",
             "ai_tools": "Serper Google Search API, Google Gemini 2.0 Flash Lite, Groq Qwen/Llama, OpenRouter Sonar/Free",
@@ -439,12 +439,12 @@ class WorkbookSync:
         ws["E18"] = "output/pages/ & output/programmatic_pages/"
 
         ws["B19"] = "Yes"
-        ws["C19"] = "Owned-site before-and-after testing harness in owned_site_demo/ with /llms.txt, schema, and 5 guides for Vercel/GitHub Pages"
-        ws["E19"] = "owned_site_demo/ & output/reports/weekly_visibility_report.md"
+        ws["C19"] = "Live owned-site deployed at https://incubrix-visibility-engine-ownedsit.vercel.app/ with /llms.txt, schema, and 5 guides for Vercel & GitHub Pages"
+        ws["E19"] = "https://incubrix-visibility-engine-ownedsit.vercel.app/ & https://github.com/Gnaneswar0906/incubrix-visibility-engine/tree/main/owned_site_demo"
 
         ws["B20"] = "Yes"
         ws["C20"] = "Automated weekly GitHub Actions tracker with webhook visibility drop alerts and artifact sync"
-        ws["E20"] = ".github/workflows/weekly_tracker.yml"
+        ws["E20"] = "https://github.com/Gnaneswar0906/incubrix-visibility-engine/blob/main/.github/workflows/weekly_tracker.yml"
 
         # Section C: Self-score (Rows 24 to 28)
         # Write C (Your score) and E (Evidence)

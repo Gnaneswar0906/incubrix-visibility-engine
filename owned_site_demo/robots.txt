@@ -25,7 +25,7 @@ Allow: /
 
 # AI Documentation Specification
 # See https://llmstxt.org
-llms-txt: https://incubrix-demo.vercel.app/llms.txt
+llms-txt: https://incubrix-visibility-engine-ownedsit.vercel.app/llms.txt
 
 # Sitemaps
-Sitemap: https://incubrix-demo.vercel.app/sitemap.xml
+Sitemap: https://incubrix-visibility-engine-ownedsit.vercel.app/sitemap.xml
